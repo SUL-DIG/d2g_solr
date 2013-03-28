@@ -1,0 +1,35 @@
+@mixin datepicker-active {
+	cursor: pointer;
+	&:hover {
+		background: whiteSmoke;
+	}
+	&.active { 
+		background: #ccc;
+	}
+}
+.datepicker {
+	.next, .prev, .switch {
+		cursor: pointer;
+	}
+	td.day {
+		@include datepicker-active;
+		&.old, &.new {
+			color: #ccc;
+		}
+	}
+	.datepicker-months {
+		span.month {
+			padding: 4px 5px;
+			@include datepicker-active;
+		}
+	}
+	.datepicker-years {
+	  .switch {
+	    cursor: default;
+	  }
+	  span.year{
+	    padding: 4px 4px;
+			@include datepicker-active;
+	  }
+	}
+}

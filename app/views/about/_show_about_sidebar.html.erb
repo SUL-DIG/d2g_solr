@@ -1,0 +1,21 @@
+<div id="sidebar" class="span3">
+  <div id="sidebar-nav">
+    <ul class="nav nav-list affix">
+      <li class="nav-header"><%=t('frda.nav.about')%></li>
+      <li><%= link_to t('frda.curator_heading'), about_project_path(:anchor => 'curator') %></li>
+      <li><%= link_to t('frda.project_team_stanford_heading'), about_project_path(:anchor => 'project_team_stanford') %></li>
+      <li><%= link_to t('frda.project_team_bnf_heading'), about_project_path(:anchor => 'project_team_bnf') %></li>
+      <li><%= link_to t('frda.technical_description_heading'), about_project_path(:anchor => 'technical_description') %></li>
+      <li><%= link_to t('frda.acknowledgements_heading'), about_project_path(:anchor => 'acknowledgements') %></li>
+      <li><%= link_to t('frda.use_and_reproduction_heading'), about_project_path(:anchor => 'use_and_reproduction') %></li>
+
+      <li class="nav-header second"><%=t('frda.nav.contact')%></li>
+      <li>
+        <%= link_to 'Sarah Sussman <i class="icon-user"></i>'.html_safe, 'https://library.stanford.edu/people/ssussman', :alt => 'Visit curator\'s web page for contact information', :title => 'Visit curator\'s web page for contact information' %>
+      </li>
+      <li class="curator-title"><%= t('frda.contact.curator')%></li>
+      <li class="curator-title">Stanford University Libraries</li>
+
+    </ul>
+  </div>
+</div>
