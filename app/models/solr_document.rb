@@ -19,7 +19,7 @@ class SolrDocument
                          :title => "title",
                          :composer => "composer",
                          :librettist => "librettist",
-                         :year => "year"
+                         :year => "year",
                          :genre => "genre"
                          )
 end
