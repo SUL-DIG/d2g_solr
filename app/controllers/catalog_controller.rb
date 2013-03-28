@@ -1,106 +1,232 @@
-# -*- encoding : utf-8 -*-
 require 'blacklight/catalog'
 
-class CatalogController < ApplicationController  
+class CatalogController < ApplicationController
 
   include Blacklight::Catalog
 
   configure_blacklight do |config|
     ## Default parameters to send to solr for all search-like requests. See also SolrHelper#solr_search_params
-    config.default_solr_params = { 
+    config.default_solr_params = {
       :qt => 'search',
-      :rows => 10 
+      :rows => 10
     }
 
-    ## Default parameters to send on single-document requests to Solr. These settings are the Blackligt defaults (see SolrHelper#solr_doc_params) or 
+    ## Default parameters to send on single-document requests to Solr. These settings are the Blackligt defaults (see SolrHelper#solr_doc_params) or
     ## parameters included in the Blacklight-jetty document requestHandler.
     #
     #config.default_document_solr_params = {
-    #  :qt => 'document',
-    #  ## These are hard-coded in the blacklight 'document' requestHandler
-    #  # :fl => '*',
-    #  # :rows => 1
-    #  # :q => '{!raw f=id v=$id}' 
+    # :qt => 'document',
+    # ## These are hard-coded in the blacklight 'document' requestHandler
+    # # :fl => '*',
+    # # :rows => 1
+    # # :q => '{!raw f=id v=$id}'
     #}
 
+    #config for xmlitem webservice JSP 05/16/2012
+    config.xmlitem_url = 'http://libexp.uits.iu.edu/xmlitem2.cgi?key='
+
     # solr field configuration for search results/index views
-    config.index.show_link = 'title_display'
-    config.index.record_display_type = 'format'
+    config.index.show_link = 'title'
+    config.index.record_display_type = 'composer'
 
     # solr field configuration for document/show views
-    config.show.html_title = 'title_display'
-    config.show.heading = 'title_display'
-    config.show.display_type = 'format'
+    config.show.html_title = 'title'
+    config.show.heading = 'title'
+    config.show.display_type = 'composer'
 
     # solr fields that will be treated as facets by the blacklight application
-    #   The ordering of the field names is the order of the display
+    # The ordering of the field names is the order of the display
     #
     # Setting a limit will trigger Blacklight's 'more' facet values link.
     # * If left unset, then all facet values returned by solr will be displayed.
     # * If set to an integer, then "f.somefield.facet.limit" will be added to
     # solr request, with actual solr request being +1 your configured limit --
-    # you configure the number of items you actually want _displayed_ in a page.    
+    # you configure the number of items you actually want _displayed_ in a page.
     # * If set to 'true', then no additional parameters will be sent to solr,
     # but any 'sniffed' request limit parameters will be used for paging, with
-    # paging at requested limit -1. Can sniff from facet.limit or 
+    # paging at requested limit -1. Can sniff from facet.limit or
     # f.specific_field.facet.limit solr request params. This 'true' config
     # can be used if you set limits in :default_solr_params, or as defaults
     # on the solr side in the request handler itself. Request handler defaults
     # sniffing requires solr requests to be made with "echoParams=all", for
-    # app code to actually have it echo'd back to see it.  
+    # app code to actually have it echo'd back to see it.
     #
-    # :show may be set to false if you don't want the facet to be drawn in the 
+    # :show may be set to false if you don't want the facet to be drawn in the
     # facet bar
-    config.add_facet_field 'format', :label => 'Format'
-    config.add_facet_field 'pub_date', :label => 'Publication Year', :single => true
-    config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20 
-    config.add_facet_field 'language_facet', :label => 'Language', :limit => true 
-    config.add_facet_field 'lc_1letter_facet', :label => 'Call Number' 
-    config.add_facet_field 'subject_geo_facet', :label => 'Region' 
-    config.add_facet_field 'subject_era_facet', :label => 'Era'  
-
-    config.add_facet_field 'example_pivot_field', :label => 'Pivot Field', :pivot => ['format', 'language_facet']
-
-    config.add_facet_field 'example_query_facet_field', :label => 'Publish Date', :query => {
-       :years_5 => { :label => 'within 5 Years', :fq => "pub_date:[#{Time.now.year - 5 } TO *]" },
-       :years_10 => { :label => 'within 10 Years', :fq => "pub_date:[#{Time.now.year - 10 } TO *]" },
-       :years_25 => { :label => 'within 25 Years', :fq => "pub_date:[#{Time.now.year - 25 } TO *]" }
+   #  config.add_facet_field 'title_query', :label => 'Title Alphabetical Sort', :query => {
+#     :a_titles => { :label => '- A -', :fq => "title_facetSort:a*"},
+#     :b_titles => { :label => '- B -', :fq => "title_facetSort:b*"},
+#     :c_titles => { :label => '- C -', :fq => "title_facetSort:c*"},
+#     :d_titles => { :label => '- D -', :fq => "title_facetSort:d*"},
+#     :e_titles => { :label => '- E -', :fq => "title_facetSort:e*"},
+#     :f_titles => { :label => '- F -', :fq => "title_facetSort:f*"},
+#     :g_titles => { :label => '- G -', :fq => "title_facetSort:g*"},
+#     :h_titles => { :label => '- H -', :fq => "title_facetSort:h*"},
+#     :i_titles => { :label => '- I -', :fq => "title_facetSort:i*"},
+#     :j_titles => { :label => '- J -', :fq => "title_facetSort:j*"},
+#     :k_titles => { :label => '- K -', :fq => "title_facetSort:k*"},
+#     :l_titles => { :label => '- L -', :fq => "title_facetSort:l*"},
+#     :m_titles => { :label => '- M -', :fq => "title_facetSort:m*"},
+#     :n_titles => { :label => '- N -', :fq => "title_facetSort:n*"},
+#     :o_titles => { :label => '- O -', :fq => "title_facetSort:o*"},
+#     :p_titles => { :label => '- P -', :fq => "title_facetSort:p*"},
+#     :q_titles => { :label => '- Q -', :fq => "title_facetSort:q*"},
+#     :r_titles => { :label => '- R -', :fq => "title_facetSort:r*"},
+#     :s_titles => { :label => '- S -', :fq => "title_facetSort:s*"},
+#     :t_titles => { :label => '- T -', :fq => "title_facetSort:t*"},
+#     :u_titles => { :label => '- U -', :fq => "title_facetSort:u*"},
+#     :v_titles => { :label => '- V -', :fq => "title_facetSort:v*"},
+#     :w_titles => { :label => '- W -', :fq => "title_facetSort:w*"},
+#     :x_titles => { :label => '- X -', :fq => "title_facetSort:x*"},
+#     :y_titles => { :label => '- Y -', :fq => "title_facetSort:y*"},
+#     :z_titles => { :label => '- Z -', :fq => "title_facetSort:z*"},
+#     }
+    config.add_facet_field 'genre', :label => 'Genre'
+    config.add_facet_field 'subgenre', :label => 'Opera Subgenre'
+    config.add_facet_field 'subject', :label => 'Oratorio Subject', :limit => 10
+    config.add_facet_field 'feastMonth_query', :label => 'Oratorio Feast Month', :query => {
+    :feastMonth_january => { :label => 'January', :fq => "feastMonth:January"},
+    :feastMonth_february => { :label => 'February', :fq => "feastMonth:February"},
+    :feastMonth_march => { :label => 'March', :fq => "feastMonth:March"},
+    :feastMonth_april => { :label => 'April', :fq => "feastMonth:April"},
+    :feastMonth_may => { :label => 'May', :fq => "feastMonth:May"},
+    :feastMonth_june => { :label => 'June', :fq => "feastMonth:June"},
+    :feastMonth_july => { :label => 'July', :fq => "feastMonth:July"},
+    :feastMonth_august => { :label => 'August', :fq => "feastMonth:August"},
+    :feastMonth_september => { :label => 'September', :fq => "feastMonth:September"},
+    :feastMonth_october => { :label => 'October', :fq => "feastMonth:October"},
+    :feastMonth_november => { :label => 'November', :fq => "feastMonth:November"},
+    :feastMonth_december => { :label => 'December', :fq => "feastMonth:December"}
+	}
+    config.add_facet_field 'composer', :label => 'Composer', :limit => 10
+    config.add_facet_field 'composer_query', :label => 'Composer Alphabetical Sort', :query => {
+    :a_composers => { :label => '- A -', :fq => "composer_sort:a*"},
+    :b_composers => { :label => '- B -', :fq => "composer_sort:b*"},
+    :c_composers => { :label => '- C -', :fq => "composer_sort:c*"},
+    :d_composers => { :label => '- D -', :fq => "composer_sort:d*"},
+    :e_composers => { :label => '- E -', :fq => "composer_sort:e*"},
+    :f_composers => { :label => '- F -', :fq => "composer_sort:f*"},
+    :g_composers => { :label => '- G -', :fq => "composer_sort:g*"},
+    :h_composers => { :label => '- H -', :fq => "composer_sort:h*"},
+    :i_composers => { :label => '- I -', :fq => "composer_sort:i*"},
+    :j_composers => { :label => '- J -', :fq => "composer_sort:j*"},
+    :k_composers => { :label => '- K -', :fq => "composer_sort:k*"},
+    :l_composers => { :label => '- L -', :fq => "composer_sort:l*"},
+    :m_composers => { :label => '- M -', :fq => "composer_sort:m*"},
+    :n_composers => { :label => '- N -', :fq => "composer_sort:n*"},
+    :o_composers => { :label => '- O -', :fq => "composer_sort:o*"},
+    :p_composers => { :label => '- P -', :fq => "composer_sort:p*"},
+    :q_composers => { :label => '- Q -', :fq => "composer_sort:q*"},
+    :r_composers => { :label => '- R -', :fq => "composer_sort:r*"},
+    :s_composers => { :label => '- S -', :fq => "composer_sort:s*"},
+    :t_composers => { :label => '- T -', :fq => "composer_sort:t*"},
+    :u_composers => { :label => '- U -', :fq => "composer_sort:u*"},
+    :v_composers => { :label => '- V -', :fq => "composer_sort:v*"},
+    :w_composers => { :label => '- W -', :fq => "composer_sort:w*"},
+    :x_composers => { :label => '- X -', :fq => "composer_sort:x*"},
+    :y_composers => { :label => '- Y -', :fq => "composer_sort:y*"},
+    :z_composers => { :label => '- Z -', :fq => "composer_sort:z*"},
     }
-
-
+    config.add_facet_field 'librettist', :label => 'Librettist', :limit => 10
+    config.add_facet_field 'librettist_query', :label => 'Librettist Alphabetical Sort', :query => {
+    :a_librettists => { :label => '- A -', :fq => "librettist_sort:a*"},
+    :b_librettists => { :label => '- B -', :fq => "librettist_sort:b*"},
+    :c_librettists => { :label => '- C -', :fq => "librettist_sort:c*"},
+    :d_librettists => { :label => '- D -', :fq => "librettist_sort:d*"},
+    :e_librettists => { :label => '- E -', :fq => "librettist_sort:e*"},
+    :f_librettists => { :label => '- F -', :fq => "librettist_sort:f*"},
+    :g_librettists => { :label => '- G -', :fq => "librettist_sort:g*"},
+    :h_librettists => { :label => '- H -', :fq => "librettist_sort:h*"},
+    :i_librettists => { :label => '- I -', :fq => "librettist_sort:i*"},
+    :j_librettists => { :label => '- J -', :fq => "librettist_sort:j*"},
+    :k_librettists => { :label => '- K -', :fq => "librettist_sort:k*"},
+    :l_librettists => { :label => '- L -', :fq => "librettist_sort:l*"},
+    :m_librettists => { :label => '- M -', :fq => "librettist_sort:m*"},
+    :n_librettists => { :label => '- N -', :fq => "librettist_sort:n*"},
+    :o_librettists => { :label => '- O -', :fq => "librettist_sort:o*"},
+    :p_librettists => { :label => '- P -', :fq => "librettist_sort:p*"},
+    :q_librettists => { :label => '- Q -', :fq => "librettist_sort:q*"},
+    :r_librettists => { :label => '- R -', :fq => "librettist_sort:r*"},
+    :s_librettists => { :label => '- S -', :fq => "librettist_sort:s*"},
+    :t_librettists => { :label => '- T -', :fq => "librettist_sort:t*"},
+    :u_librettists => { :label => '- U -', :fq => "librettist_sort:u*"},
+    :v_librettists => { :label => '- V -', :fq => "librettist_sort:v*"},
+    :w_librettists => { :label => '- W -', :fq => "librettist_sort:w*"},
+    :x_librettists => { :label => '- X -', :fq => "librettist_sort:x*"},
+    :y_librettists => { :label => '- Y -', :fq => "librettist_sort:y*"},
+    :z_librettists => { :label => '- Z -', :fq => "librettist_sort:z*"},
+    }
+    config.add_facet_field 'colibrettist', :label => 'Colibrettist/Source', :limit => 10
+	config.add_facet_field 'colibrettist_query', :label => 'Colibrettist/Source Alphabetical Sort', :query => {
+    :a_colibrettists => { :label => '- A -', :fq => "colibrettist_sort:a*"},
+    :b_colibrettists => { :label => '- B -', :fq => "colibrettist_sort:b*"},
+    :c_colibrettists => { :label => '- C -', :fq => "colibrettist_sort:c*"},
+    :d_colibrettists => { :label => '- D -', :fq => "colibrettist_sort:d*"},
+    :e_colibrettists => { :label => '- E -', :fq => "colibrettist_sort:e*"},
+    :f_colibrettists => { :label => '- F -', :fq => "colibrettist_sort:f*"},
+    :g_colibrettists => { :label => '- G -', :fq => "colibrettist_sort:g*"},
+    :h_colibrettists => { :label => '- H -', :fq => "colibrettist_sort:h*"},
+    :i_colibrettists => { :label => '- I -', :fq => "colibrettist_sort:i*"},
+    :j_colibrettists => { :label => '- J -', :fq => "colibrettist_sort:j*"},
+    :k_colibrettists => { :label => '- K -', :fq => "colibrettist_sort:k*"},
+    :l_colibrettists => { :label => '- L -', :fq => "colibrettist_sort:l*"},
+    :m_colibrettists => { :label => '- M -', :fq => "colibrettist_sort:m*"},
+    :n_colibrettists => { :label => '- N -', :fq => "colibrettist_sort:n*"},
+    :o_colibrettists => { :label => '- O -', :fq => "colibrettist_sort:o*"},
+    :p_colibrettists => { :label => '- P -', :fq => "colibrettist_sort:p*"},
+    :q_colibrettists => { :label => '- Q -', :fq => "colibrettist_sort:q*"},
+    :r_colibrettists => { :label => '- R -', :fq => "colibrettist_sort:r*"},
+    :s_colibrettists => { :label => '- S -', :fq => "colibrettist_sort:s*"},
+    :t_colibrettists => { :label => '- T -', :fq => "colibrettist_sort:t*"},
+    :u_colibrettists => { :label => '- U -', :fq => "colibrettist_sort:u*"},
+    :v_colibrettists => { :label => '- V -', :fq => "colibrettist_sort:v*"},
+    :w_colibrettists => { :label => '- W -', :fq => "colibrettist_sort:w*"},
+    :x_colibrettists => { :label => '- X -', :fq => "colibrettist_sort:x*"},
+    :y_colibrettists => { :label => '- Y -', :fq => "colibrettist_sort:y*"},
+    :z_colibrettists => { :label => '- Z -', :fq => "colibrettist_sort:z*"},
+    }
+    config.add_facet_field 'year', :label => 'Premiere Year', :range => true
+    config.add_facet_field 'country', :label => 'Country',:limit => 10
+    config.add_facet_field 'region', :label => 'State/Region', :limit => 10
+    config.add_facet_field 'city', :label => 'City', :limit => 10
+    config.add_facet_field 'theater', :label => 'Theater', :limit => 10
+    
     # Have BL send all facet field names to Solr, which has been the default
     # previously. Simply remove these lines if you'd rather use Solr request
     # handler defaults, or have no facets.
-    config.add_facet_fields_to_solr_request!
+	config.add_facet_fields_to_solr_request!	
+    #use this instead if you don't want to query facets marked :show=>false
+    #config.default_solr_params[:'facet.field'] = config.facet_fields.select{ |k, v| v[:show] != false}.keys
+
 
     # solr fields to be displayed in the index (search results) view
-    #   The ordering of the field names is the order of the display 
-    config.add_index_field 'title_display', :label => 'Title:' 
-    config.add_index_field 'title_vern_display', :label => 'Title:' 
-    config.add_index_field 'author_display', :label => 'Author:' 
-    config.add_index_field 'author_vern_display', :label => 'Author:' 
-    config.add_index_field 'format', :label => 'Format:' 
-    config.add_index_field 'language_facet', :label => 'Language:'
-    config.add_index_field 'published_display', :label => 'Published:'
-    config.add_index_field 'published_vern_display', :label => 'Published:'
-    config.add_index_field 'lc_callnum_display', :label => 'Call number:'
+    # The ordering of the field names is the order of the display
+    config.add_index_field 'composer', :label => 'Composer:'
+    config.add_index_field 'title', :label => 'Title:'
+    config.add_index_field 'librettist', :label => 'Librettist:'
+    config.add_index_field 'colibrettist', :label => 'Colibrettist/Source:'
+    config.add_index_field 'genre', :label => 'Genre:'
+    config.add_index_field 'year', :label => 'Year:'
+    config.add_index_field 'country', :label => 'Country:'
 
     # solr fields to be displayed in the show (single result) view
-    #   The ordering of the field names is the order of the display 
-    config.add_show_field 'title_display', :label => 'Title:' 
-    config.add_show_field 'title_vern_display', :label => 'Title:' 
-    config.add_show_field 'subtitle_display', :label => 'Subtitle:' 
-    config.add_show_field 'subtitle_vern_display', :label => 'Subtitle:' 
-    config.add_show_field 'author_display', :label => 'Author:' 
-    config.add_show_field 'author_vern_display', :label => 'Author:' 
-    config.add_show_field 'format', :label => 'Format:' 
-    config.add_show_field 'url_fulltext_display', :label => 'URL:'
-    config.add_show_field 'url_suppl_display', :label => 'More Information:'
-    config.add_show_field 'language_facet', :label => 'Language:'
-    config.add_show_field 'published_display', :label => 'Published:'
-    config.add_show_field 'published_vern_display', :label => 'Published:'
-    config.add_show_field 'lc_callnum_display', :label => 'Call number:'
-    config.add_show_field 'isbn_t', :label => 'ISBN:'
+    # The ordering of the field names is the order of the display
+    config.add_show_field 'composer', :label => 'Composer:'
+    config.add_show_field 'title', :label => 'Title:'
+    config.add_show_field 'librettist', :label => 'Librettist:'
+    config.add_show_field 'colibrettist', :label => 'Colibrettist:'
+    config.add_show_field 'genre', :label => 'Genre:'
+	config.add_show_field 'subgenre', :label => 'Subgenre:'
+	config.add_show_field 'subject', :label => 'Subject:'
+    config.add_show_field 'feastDate', :label => 'Feast Date:'
+    config.add_show_field 'fulldate', :label => 'Premiere Date:'
+    config.add_show_field 'theater', :label => 'Theater:'
+    config.add_show_field 'city', :label => 'City:'
+    config.add_show_field 'region', :label => 'State/Region:'
+    config.add_show_field 'country', :label => 'Country:'
+    config.add_show_field 'swQuery', :label => '', :helper_method => :render_external_link
+    config.add_show_field 'revisions', :label => 'Revisions History:'
+    
 
     # "fielded" search configuration. Used by pulldown among other places.
     # For supported keys in hash, see rdoc for Blacklight::SearchFields
@@ -113,51 +239,51 @@ class CatalogController < ApplicationController
     #
     # The :key is what will be used to identify this BL search field internally,
     # as well as in URLs -- so changing it after deployment may break bookmarked
-    # urls.  A display label will be automatically calculated from the :key,
-    # or can be specified manually to be different. 
+    # urls. A display label will be automatically calculated from the :key,
+    # or can be specified manually to be different.
 
     # This one uses all the defaults set by the solr request handler. Which
     # solr request handler? The one set in config[:default_solr_parameters][:qt],
-    # since we aren't specifying it otherwise. 
+    # since we aren't specifying it otherwise.
     
     config.add_search_field 'all_fields', :label => 'All Fields'
     
 
     # Now we see how to over-ride Solr request handler defaults, in this
     # case for a BL "search field", which is really a dismax aggregate
-    # of Solr search fields. 
+    # of Solr search fields.
     
     config.add_search_field('title') do |field|
-      # solr_parameters hash are sent to Solr as ordinary url query params. 
+      # solr_parameters hash are sent to Solr as ordinary url query params.
       field.solr_parameters = { :'spellcheck.dictionary' => 'title' }
 
       # :solr_local_parameters will be sent using Solr LocalParams
       # syntax, as eg {! qf=$title_qf }. This is neccesary to use
       # Solr parameter de-referencing like $title_qf.
       # See: http://wiki.apache.org/solr/LocalParams
-      field.solr_local_parameters = { 
+      field.solr_local_parameters = {
         :qf => '$title_qf',
         :pf => '$title_pf'
       }
     end
     
-    config.add_search_field('author') do |field|
-      field.solr_parameters = { :'spellcheck.dictionary' => 'author' }
-      field.solr_local_parameters = { 
-        :qf => '$author_qf',
-        :pf => '$author_pf'
+    config.add_search_field('composer') do |field|
+      field.solr_parameters = { :'spellcheck.dictionary' => 'composer' }
+      field.solr_local_parameters = {
+        :qf => '$composer_qf',
+        :pf => '$composer_pf'
       }
     end
     
     # Specifying a :qt only to show it's possible, and so our internal automated
-    # tests can test it. In this case it's the same as 
-    # config[:default_solr_parameters][:qt], so isn't actually neccesary. 
-    config.add_search_field('subject') do |field|
-      field.solr_parameters = { :'spellcheck.dictionary' => 'subject' }
+    # tests can test it. In this case it's the same as
+    # config[:default_solr_parameters][:qt], so isn't actually neccesary.
+    config.add_search_field('librettist') do |field|
+      field.solr_parameters = { :'spellcheck.dictionary' => 'librettist' }
       field.qt = 'search'
-      field.solr_local_parameters = { 
-        :qf => '$subject_qf',
-        :pf => '$subject_pf'
+      field.solr_local_parameters = {
+        :qf => '$librettist_qf',
+        :pf => '$librettist_pf'
       }
     end
 
@@ -165,12 +291,14 @@ class CatalogController < ApplicationController
     # label in pulldown is followed by the name of the SOLR field to sort by and
     # whether the sort is ascending or descending (it must be asc or desc
     # except in the relevancy case).
-    config.add_sort_field 'score desc, pub_date_sort desc, title_sort asc', :label => 'relevance'
-    config.add_sort_field 'pub_date_sort desc, title_sort asc', :label => 'year'
-    config.add_sort_field 'author_sort asc, title_sort asc', :label => 'author'
-    config.add_sort_field 'title_sort asc, pub_date_sort desc', :label => 'title'
+    config.add_sort_field 'score desc, titleSort_sort asc, composer_sort asc, librettist_sort asc, colibrettist_sort asc, year_sort desc', :label => 'relevance'
+    config.add_sort_field 'titleSort_sort asc, year_sort desc', :label => 'title'
+    config.add_sort_field 'composer_sort asc, titleSort_sort asc', :label => 'composer'
+    config.add_sort_field 'librettist_sort asc, titleSort_sort asc', :label => 'librettist'
+    config.add_sort_field 'colibrettist_sort asc, titleSort_sort asc', :label => 'colibrettist'
+    config.add_sort_field 'year_sort desc, titleSort_sort asc', :label => 'year'
 
-    # If there are more than this many search results, no spelling ("did you 
+    # If there are more than this many search results, no spelling ("did you
     # mean") suggestion is offered.
     config.spell_max = 5
   end
