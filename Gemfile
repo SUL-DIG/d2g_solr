@@ -39,5 +39,9 @@ gem 'jquery-rails'
 
 # To use blacklight
 gem 'blacklight'
+
+# To offer facet_range_limit slider
+gem 'blacklight_range_limit'
+
 gem "unicode", :platforms => [:mri_18, :mri_19]
 gem "bootstrap-sass"
