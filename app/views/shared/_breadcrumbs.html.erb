@@ -1,0 +1,24 @@
+<ul class="breadcrumb">
+  <li><%= link_to t('d2g.nav.d2g_collection'), root_path%></li>
+
+  <% if on_about_pages %>
+   &#187; <li><%= link_to t('d2g.nav.about'), about_project_path%></li>
+		<% case @page_name %>
+ 			<% when "project" %> 
+				&#187; <%=t('d2g.nav.project_overview') %>
+ 			<% when "history" %> 
+				&#187; <%=t('d2g.nav.project_history') %>
+ 			<% when "stanford_team" %> 
+				&#187; <%=t('d2g.nav.project_team_stanford') %>
+ 			<% when "bnf_team" %>
+				&#187; <%=t('d2g.nav.project_team_bnf') %>
+ 			<% when "acknowledgements" %> 
+				&#187; <%=t('d2g.nav.acknowledgements') %>
+ 			<% when "contact" %>
+				&#187; <%=t('d2g.about.contact_title') %>
+ 			<% when "terms_of_use" %> 
+				&#187; <%=t('d2g.nav.use_policy') %>
+		 <% end %>
+  <% end %>
+		
+</ul>
