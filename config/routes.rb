@@ -1,4 +1,6 @@
 D2g::Application.routes.draw do
+  devise_for :users
+
   root :to => "catalog#index"
 
   Blacklight.add_routes(self)
