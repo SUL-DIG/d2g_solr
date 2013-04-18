@@ -45,5 +45,5 @@ gem 'blacklight_range_limit'
 
 gem "unicode", :platforms => [:mri_18, :mri_19]
 gem "bootstrap-sass"
-
+gem "i18n", "~> 0.6.4"
 gem 'devise'
