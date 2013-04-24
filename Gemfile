@@ -36,14 +36,10 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
-
-# To use blacklight
 gem 'blacklight'
-
-# To offer facet_range_limit slider
-gem 'blacklight_range_limit'
-
 gem "unicode", :platforms => [:mri_18, :mri_19]
+gem "devise"
+gem "devise-guests", "~> 0.3"
 gem "bootstrap-sass"
-gem "i18n", "~> 0.6.4"
-gem 'devise'
+gem 'blacklight_range_limit'
+gem 'bootswatch-rails'

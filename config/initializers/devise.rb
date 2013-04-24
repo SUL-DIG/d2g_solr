@@ -82,7 +82,7 @@ Devise.setup do |config|
   config.stretches = Rails.env.test? ? 1 : 10
 
   # Setup a pepper to generate the encrypted password.
-  # config.pepper = "b1f7fc17739198cc354c6ac143413a85a80897c90c0a75db5e712270753601102d1296b1be430af59f42a9c2301e039893108b236938005eb54d3f1b1e21b6aa"
+  # config.pepper = "166dabbe312dfd91f4b79e3a6b9ffb394d7bfc9c6ca6897542006a34454c0e171063b0e7820a9c1bd8b68014cd06697c1d513ba77d451df760eb14977a062402"
 
   # ==> Configuration for :confirmable
   # A period that the user is allowed to access the website even without
@@ -208,7 +208,7 @@ Devise.setup do |config|
   # config.navigational_formats = ["*/*", :html]
 
   # The default HTTP method used to sign out a resource. Default is :delete.
-  config.sign_out_via = :delete
+  config.sign_out_via = :get
 
   # ==> OmniAuth
   # Add a new OmniAuth provider. Check the wiki for more information on setting

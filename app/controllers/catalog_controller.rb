@@ -53,34 +53,6 @@ class CatalogController < ApplicationController
     #
     # :show may be set to false if you don't want the facet to be drawn in the
     # facet bar
-   #  config.add_facet_field 'title_query', :label => 'Title Alphabetical Sort', :query => {
-#     :a_titles => { :label => '- A -', :fq => "title_facetSort:a*"},
-#     :b_titles => { :label => '- B -', :fq => "title_facetSort:b*"},
-#     :c_titles => { :label => '- C -', :fq => "title_facetSort:c*"},
-#     :d_titles => { :label => '- D -', :fq => "title_facetSort:d*"},
-#     :e_titles => { :label => '- E -', :fq => "title_facetSort:e*"},
-#     :f_titles => { :label => '- F -', :fq => "title_facetSort:f*"},
-#     :g_titles => { :label => '- G -', :fq => "title_facetSort:g*"},
-#     :h_titles => { :label => '- H -', :fq => "title_facetSort:h*"},
-#     :i_titles => { :label => '- I -', :fq => "title_facetSort:i*"},
-#     :j_titles => { :label => '- J -', :fq => "title_facetSort:j*"},
-#     :k_titles => { :label => '- K -', :fq => "title_facetSort:k*"},
-#     :l_titles => { :label => '- L -', :fq => "title_facetSort:l*"},
-#     :m_titles => { :label => '- M -', :fq => "title_facetSort:m*"},
-#     :n_titles => { :label => '- N -', :fq => "title_facetSort:n*"},
-#     :o_titles => { :label => '- O -', :fq => "title_facetSort:o*"},
-#     :p_titles => { :label => '- P -', :fq => "title_facetSort:p*"},
-#     :q_titles => { :label => '- Q -', :fq => "title_facetSort:q*"},
-#     :r_titles => { :label => '- R -', :fq => "title_facetSort:r*"},
-#     :s_titles => { :label => '- S -', :fq => "title_facetSort:s*"},
-#     :t_titles => { :label => '- T -', :fq => "title_facetSort:t*"},
-#     :u_titles => { :label => '- U -', :fq => "title_facetSort:u*"},
-#     :v_titles => { :label => '- V -', :fq => "title_facetSort:v*"},
-#     :w_titles => { :label => '- W -', :fq => "title_facetSort:w*"},
-#     :x_titles => { :label => '- X -', :fq => "title_facetSort:x*"},
-#     :y_titles => { :label => '- Y -', :fq => "title_facetSort:y*"},
-#     :z_titles => { :label => '- Z -', :fq => "title_facetSort:z*"},
-#     }
     config.add_facet_field 'genre', :label => 'Genre'
     config.add_facet_field 'subgenre', :label => 'Opera Subgenre'
     config.add_facet_field 'subject', :label => 'Oratorio Subject', :limit => 10
@@ -127,8 +99,8 @@ class CatalogController < ApplicationController
     :y_composers => { :label => '- Y -', :fq => "composer_sort:y*"},
     :z_composers => { :label => '- Z -', :fq => "composer_sort:z*"},
     }
-    config.add_facet_field 'librettist', :label => 'Librettist', :limit => 10
-    config.add_facet_field 'librettist_query', :label => 'Librettist Alphabetical Sort', :query => {
+    config.add_facet_field 'librettist', :label => 'Librettist/Literary Source', :limit => 10
+    config.add_facet_field 'librettist_query', :label => 'Librettist/Literary Source Alphabetical Sort', :query => {
     :a_librettists => { :label => '- A -', :fq => "librettist_sort:a*"},
     :b_librettists => { :label => '- B -', :fq => "librettist_sort:b*"},
     :c_librettists => { :label => '- C -', :fq => "librettist_sort:c*"},
@@ -156,35 +128,6 @@ class CatalogController < ApplicationController
     :y_librettists => { :label => '- Y -', :fq => "librettist_sort:y*"},
     :z_librettists => { :label => '- Z -', :fq => "librettist_sort:z*"},
     }
-    config.add_facet_field 'colibrettist', :label => 'Colibrettist/Source', :limit => 10
-	config.add_facet_field 'colibrettist_query', :label => 'Colibrettist/Source Alphabetical Sort', :query => {
-    :a_colibrettists => { :label => '- A -', :fq => "colibrettist_sort:a*"},
-    :b_colibrettists => { :label => '- B -', :fq => "colibrettist_sort:b*"},
-    :c_colibrettists => { :label => '- C -', :fq => "colibrettist_sort:c*"},
-    :d_colibrettists => { :label => '- D -', :fq => "colibrettist_sort:d*"},
-    :e_colibrettists => { :label => '- E -', :fq => "colibrettist_sort:e*"},
-    :f_colibrettists => { :label => '- F -', :fq => "colibrettist_sort:f*"},
-    :g_colibrettists => { :label => '- G -', :fq => "colibrettist_sort:g*"},
-    :h_colibrettists => { :label => '- H -', :fq => "colibrettist_sort:h*"},
-    :i_colibrettists => { :label => '- I -', :fq => "colibrettist_sort:i*"},
-    :j_colibrettists => { :label => '- J -', :fq => "colibrettist_sort:j*"},
-    :k_colibrettists => { :label => '- K -', :fq => "colibrettist_sort:k*"},
-    :l_colibrettists => { :label => '- L -', :fq => "colibrettist_sort:l*"},
-    :m_colibrettists => { :label => '- M -', :fq => "colibrettist_sort:m*"},
-    :n_colibrettists => { :label => '- N -', :fq => "colibrettist_sort:n*"},
-    :o_colibrettists => { :label => '- O -', :fq => "colibrettist_sort:o*"},
-    :p_colibrettists => { :label => '- P -', :fq => "colibrettist_sort:p*"},
-    :q_colibrettists => { :label => '- Q -', :fq => "colibrettist_sort:q*"},
-    :r_colibrettists => { :label => '- R -', :fq => "colibrettist_sort:r*"},
-    :s_colibrettists => { :label => '- S -', :fq => "colibrettist_sort:s*"},
-    :t_colibrettists => { :label => '- T -', :fq => "colibrettist_sort:t*"},
-    :u_colibrettists => { :label => '- U -', :fq => "colibrettist_sort:u*"},
-    :v_colibrettists => { :label => '- V -', :fq => "colibrettist_sort:v*"},
-    :w_colibrettists => { :label => '- W -', :fq => "colibrettist_sort:w*"},
-    :x_colibrettists => { :label => '- X -', :fq => "colibrettist_sort:x*"},
-    :y_colibrettists => { :label => '- Y -', :fq => "colibrettist_sort:y*"},
-    :z_colibrettists => { :label => '- Z -', :fq => "colibrettist_sort:z*"},
-    }
     config.add_facet_field 'year', :label => 'Premiere Year', :range => true
     config.add_facet_field 'country', :label => 'Country',:limit => 10
     config.add_facet_field 'region', :label => 'State/Region', :limit => 10
@@ -203,8 +146,7 @@ class CatalogController < ApplicationController
     # The ordering of the field names is the order of the display
     config.add_index_field 'composer', :label => 'Composer:'
     config.add_index_field 'title', :label => 'Title:'
-    config.add_index_field 'librettist', :label => 'Librettist:'
-    config.add_index_field 'colibrettist', :label => 'Colibrettist/Source:'
+    config.add_index_field 'librettist', :label => 'Librettist/Literary Source:'
     config.add_index_field 'genre', :label => 'Genre:'
     config.add_index_field 'year', :label => 'Year:'
     config.add_index_field 'country', :label => 'Country:'
@@ -213,8 +155,7 @@ class CatalogController < ApplicationController
     # The ordering of the field names is the order of the display
     config.add_show_field 'composer', :label => 'Composer:'
     config.add_show_field 'title', :label => 'Title:'
-    config.add_show_field 'librettist', :label => 'Librettist:'
-    config.add_show_field 'colibrettist', :label => 'Colibrettist:'
+    config.add_show_field 'librettist', :label => 'Librettist/Literary Source:'
     config.add_show_field 'genre', :label => 'Genre:'
 	config.add_show_field 'subgenre', :label => 'Subgenre:'
 	config.add_show_field 'subject', :label => 'Subject:'
@@ -224,7 +165,7 @@ class CatalogController < ApplicationController
     config.add_show_field 'city', :label => 'City:'
     config.add_show_field 'region', :label => 'State/Region:'
     config.add_show_field 'country', :label => 'Country:'
-    config.add_show_field 'swQuery', :label => '', :helper_method => :render_external_link
+    config.add_show_field 'swQuery', :label => 'Look for this in SearchWorks:'
     config.add_show_field 'revisions', :label => 'Revisions History:'
     
 
@@ -274,29 +215,23 @@ class CatalogController < ApplicationController
         :pf => '$composer_pf'
       }
     end
-    
-    # Specifying a :qt only to show it's possible, and so our internal automated
-    # tests can test it. In this case it's the same as
-    # config[:default_solr_parameters][:qt], so isn't actually neccesary.
+
     config.add_search_field('librettist') do |field|
       field.solr_parameters = { :'spellcheck.dictionary' => 'librettist' }
-      field.qt = 'search'
       field.solr_local_parameters = {
         :qf => '$librettist_qf',
         :pf => '$librettist_pf'
       }
     end
-
+    
     # "sort results by" select (pulldown)
     # label in pulldown is followed by the name of the SOLR field to sort by and
     # whether the sort is ascending or descending (it must be asc or desc
     # except in the relevancy case).
-    config.add_sort_field 'score desc, titleSort_sort asc, composer_sort asc, librettist_sort asc, colibrettist_sort asc, year_sort desc', :label => 'relevance'
-    config.add_sort_field 'titleSort_sort asc, year_sort desc', :label => 'title'
-    config.add_sort_field 'composer_sort asc, titleSort_sort asc', :label => 'composer'
-    config.add_sort_field 'librettist_sort asc, titleSort_sort asc', :label => 'librettist'
-    config.add_sort_field 'colibrettist_sort asc, titleSort_sort asc', :label => 'colibrettist'
-    config.add_sort_field 'year_sort desc, titleSort_sort asc', :label => 'year'
+    config.add_sort_field 'score desc, title_sort asc, composer_sort asc, year_sort desc', :label => 'relevance'
+    config.add_sort_field 'title_sort asc, year_sort desc', :label => 'title'
+    config.add_sort_field 'composer_sort asc, title_sort asc', :label => 'composer'
+    config.add_sort_field 'year_sort desc, title_sort asc', :label => 'year'
 
     # If there are more than this many search results, no spelling ("did you
     # mean") suggestion is offered.
