@@ -64,4 +64,7 @@ D2g::Application.configure do
   # Log the query plan for queries taking more than this (works
   # with SQLite, MySQL, and PostgreSQL)
   # config.active_record.auto_explain_threshold_in_seconds = 0.5
+  #Fixing flot/excanvas.min.js error isn't preiled. http://irclogs.projectblacklight.org/2012-03-22.html
+config.assets.precompile += %w( flot/excanvas.min.js )
+  
 end
