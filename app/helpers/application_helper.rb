@@ -42,4 +42,12 @@ module ApplicationHelper
       :class => "#{view_state}")
   end
 
+def render_external_link args, results = Array.new
+		text = args[:document].get(blacklight_config.show_fields[args[:field]][:text])
+        url = args[:document].get(args[:field])
+        link_text = 'Find This in SearchWorks'
+        results << link_to(link_text, url, { :target => "_blank" }).html_safe
+  end
+
+
 end
