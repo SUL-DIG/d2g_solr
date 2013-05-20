@@ -128,7 +128,7 @@ class CatalogController < ApplicationController
 #     :y_librettists => { :label => '- Y -', :fq => "librettist_sort:y*"},
 #     :z_librettists => { :label => '- Z -', :fq => "librettist_sort:z*"},
 #     }
-    config.add_facet_field 'year', :label => 'Premiere Year', :range => 'true'
+    config.add_facet_field 'year', :label => 'Premiere Year', :range => true
     config.add_facet_field 'country', :label => 'Country',:limit => 10
     config.add_facet_field 'region', :label => 'State/Region', :limit => 10
     config.add_facet_field 'city', :label => 'City', :limit => 10
