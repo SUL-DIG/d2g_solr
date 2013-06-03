@@ -228,10 +228,10 @@ class CatalogController < ApplicationController
     # label in pulldown is followed by the name of the SOLR field to sort by and
     # whether the sort is ascending or descending (it must be asc or desc
     # except in the relevancy case).
-    config.add_sort_field 'score desc, title_sort asc, composer_sort asc, year_sort desc', :label => 'relevance'
-    config.add_sort_field 'title_sort asc, year_sort desc', :label => 'title'
-    config.add_sort_field 'composer_sort asc, title_sort asc', :label => 'composer'
-    config.add_sort_field 'year_sort asc, title_sort asc', :label => 'year'
+    config.add_sort_field 'score desc, titleSort_sort asc, composer_sort asc, year_sort desc', :label => 'relevance'
+    config.add_sort_field 'titleSort_sort asc, year_sort desc', :label => 'title'
+    config.add_sort_field 'composer_sort asc, titleSort_sort asc', :label => 'composer'
+    config.add_sort_field 'year_sort asc, titleSort_sort asc', :label => 'year'
 
     # If there are more than this many search results, no spelling ("did you
     # mean") suggestion is offered.
