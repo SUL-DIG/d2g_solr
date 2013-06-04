@@ -14,5 +14,5 @@ development:
   url: http://sul-solr.stanford.edu/solr/dig_opera_test
 test: &test
   url: http://sul-solr.stanford.edu/solr/dig_opera_test
-cucumber:
-  <<: *test
+production:
+  url: http://sul-solr.stanford.edu/solr/dig_opera_test
