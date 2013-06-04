@@ -1,5 +1,5 @@
-class FrdaMailer < ActionMailer::Base
-  default from: "no-reply@openingnight.stanford.edu"
+class D2gMailer < ActionMailer::Base
+  default from: "hettelj@stanford.edu"
 
   def contact_message(opts={})
     params=opts[:params]
