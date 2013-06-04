@@ -165,7 +165,7 @@
 "\u00E3" => "a"
 
 # ä  [LATIN SMALL LETTER A WITH DIAERESIS]
-"\u00E4" => "ae"
+"\u00E4" => "a"
 
 # å  [LATIN SMALL LETTER A WITH RING ABOVE]
 "\u00E5" => "a"
@@ -1848,7 +1848,7 @@
 "\u00F5" => "o"
 
 # ö  [LATIN SMALL LETTER O WITH DIAERESIS]
-"\u00F6" => "oe"
+"\u00F6" => "o"
 
 # ø  [LATIN SMALL LETTER O WITH STROKE]
 "\u00F8" => "o"
@@ -2601,7 +2601,7 @@
 "\u00FB" => "u"
 
 # ü  [LATIN SMALL LETTER U WITH DIAERESIS]
-"\u00FC" => "ue"
+"\u00FC" => "u"
 
 # ũ  [LATIN SMALL LETTER U WITH TILDE]
 "\u0169" => "u"
