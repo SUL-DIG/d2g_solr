@@ -52,7 +52,12 @@
 		display: inline;
 	}
 }
-
+.constraints-container {
+a {
+	padding-top: 0.3em;
+	float: right;
+	}
+}
 .blacklight-catalog-show {
   #document, #document h4 {
     margin-top: 0;
