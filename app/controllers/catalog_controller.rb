@@ -160,7 +160,7 @@ class CatalogController < ApplicationController
 	config.add_show_field 'subgenre', :label => 'Subgenre:'
 	config.add_show_field 'subject', :label => 'Subject:'
     config.add_show_field 'feastDate', :label => 'Feast Date:'
-    config.add_show_field 'fulldate', :label => 'Premiere Date:'
+    config.add_show_field 'date', :label => 'Premiere Date:'
     config.add_show_field 'theater', :label => 'Theater:'
     config.add_show_field 'city', :label => 'City:'
     config.add_show_field 'region', :label => 'State/Region:'
