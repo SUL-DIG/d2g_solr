@@ -98,6 +98,15 @@ a {
       margin-right: 15px;
     }
   }
+  .nav {
+  li {
+  a {
+  img {
+  padding-right: 3px;
+  }
+  }
+  }
+  }
   h3 {
     color: $heading_color;
   }
