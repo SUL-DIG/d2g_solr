@@ -99,7 +99,7 @@ class CatalogController < ApplicationController
     :y_composers => { :label => '- Y -', :fq => "composer_sort:y*"},
     :z_composers => { :label => '- Z -', :fq => "composer_sort:z*"},
     }
-    config.add_facet_field 'librettist', :label => 'Librettist/Literary Source', :limit => 10
+    config.add_facet_field 'librettist_facet', :label => 'Librettist/Literary Source', :limit => 10
     config.add_facet_field 'year', :label => 'Premiere Year', :range => true
     config.add_facet_field 'country', :label => 'Country',:limit => 10
     config.add_facet_field 'region', :label => 'State/Region', :limit => 10
