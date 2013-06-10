@@ -70,7 +70,7 @@ class CatalogController < ApplicationController
     :feastMonth_november => { :label => 'November', :fq => "feastMonth:November"},
     :feastMonth_december => { :label => 'December', :fq => "feastMonth:December"}
 	}
-    config.add_facet_field 'composer', :label => 'Composer', :limit => 10
+    config.add_facet_field 'composer_facet', :label => 'Composer', :limit => 10
     config.add_facet_field 'composer_query', :label => 'Composer Alphabetical Sort', :query => {
     :a_composers => { :label => '- A -', :fq => "composer_sort:a*"},
     :b_composers => { :label => '- B -', :fq => "composer_sort:b*"},
@@ -100,34 +100,6 @@ class CatalogController < ApplicationController
     :z_composers => { :label => '- Z -', :fq => "composer_sort:z*"},
     }
     config.add_facet_field 'librettist', :label => 'Librettist/Literary Source', :limit => 10
-    # config.add_facet_field 'librettist_query', :label => 'Librettist/Literary Source Alphabetical Sort', :query => {
-#     :a_librettists => { :label => '- A -', :fq => "librettist_sort:a*"},
-#     :b_librettists => { :label => '- B -', :fq => "librettist_sort:b*"},
-#     :c_librettists => { :label => '- C -', :fq => "librettist_sort:c*"},
-#     :d_librettists => { :label => '- D -', :fq => "librettist_sort:d*"},
-#     :e_librettists => { :label => '- E -', :fq => "librettist_sort:e*"},
-#     :f_librettists => { :label => '- F -', :fq => "librettist_sort:f*"},
-#     :g_librettists => { :label => '- G -', :fq => "librettist_sort:g*"},
-#     :h_librettists => { :label => '- H -', :fq => "librettist_sort:h*"},
-#     :i_librettists => { :label => '- I -', :fq => "librettist_sort:i*"},
-#     :j_librettists => { :label => '- J -', :fq => "librettist_sort:j*"},
-#     :k_librettists => { :label => '- K -', :fq => "librettist_sort:k*"},
-#     :l_librettists => { :label => '- L -', :fq => "librettist_sort:l*"},
-#     :m_librettists => { :label => '- M -', :fq => "librettist_sort:m*"},
-#     :n_librettists => { :label => '- N -', :fq => "librettist_sort:n*"},
-#     :o_librettists => { :label => '- O -', :fq => "librettist_sort:o*"},
-#     :p_librettists => { :label => '- P -', :fq => "librettist_sort:p*"},
-#     :q_librettists => { :label => '- Q -', :fq => "librettist_sort:q*"},
-#     :r_librettists => { :label => '- R -', :fq => "librettist_sort:r*"},
-#     :s_librettists => { :label => '- S -', :fq => "librettist_sort:s*"},
-#     :t_librettists => { :label => '- T -', :fq => "librettist_sort:t*"},
-#     :u_librettists => { :label => '- U -', :fq => "librettist_sort:u*"},
-#     :v_librettists => { :label => '- V -', :fq => "librettist_sort:v*"},
-#     :w_librettists => { :label => '- W -', :fq => "librettist_sort:w*"},
-#     :x_librettists => { :label => '- X -', :fq => "librettist_sort:x*"},
-#     :y_librettists => { :label => '- Y -', :fq => "librettist_sort:y*"},
-#     :z_librettists => { :label => '- Z -', :fq => "librettist_sort:z*"},
-#     }
     config.add_facet_field 'year', :label => 'Premiere Year', :range => true
     config.add_facet_field 'country', :label => 'Country',:limit => 10
     config.add_facet_field 'region', :label => 'State/Region', :limit => 10
