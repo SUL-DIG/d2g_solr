@@ -17,7 +17,7 @@ class D2gMailer < ActionMailer::Base
   def error_notification(opts={})
     @exception=opts[:exception]
     @mode=Rails.env
-    mail(:to=>D2g::Application.config.exception_recipients, :subject=>"D2g Exception Notification running in #{@mode} mode")
+    mail(:to=>D2g::Application.config.exception_recipients, :subject=>"Opening Night! Exception Notification running in #{@mode} mode")
   end
   
 end
