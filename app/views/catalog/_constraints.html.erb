@@ -2,7 +2,7 @@
       <div id="appliedParams" class="constraints-container">
         <span class="constraints-label"><%= t('blacklight.search.filters.title') %></span>
         <%= render_constraints(params) %>  
-        <%=link_to "View Selected Premieres", :controller => :bookmarks, :action => :index, :id=>"viewSelectionsLink" %>
+        <%=link_to "View Selected Items", :controller => :bookmarks, :action => :index, :id=>"viewSelectionsLink" %>
         <%= content_tag(:a, " | ") %>
         <%=link_to t('blacklight.search.start_over'), url_for(:action=>'index'), :class => "catalog_startOverLink", :id=>"startOverLink" %>
       </div>
