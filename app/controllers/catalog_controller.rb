@@ -71,7 +71,7 @@ class CatalogController < ApplicationController
     :feastMonth_december => { :label => 'December', :fq => "feastMonth:December"}
 	}
     config.add_facet_field 'composer_facet', :label => 'Composer', :limit => 10
-    config.add_facet_field 'composer_query', :label => 'Composer Alphabetical Sort', :query => {
+    config.add_facet_field 'composer_query', :label => 'Composer (A-to-Z Sort)', :query => {
     :a_composers => { :label => '- A -', :fq => "composer_sort:a*"},
     :b_composers => { :label => '- B -', :fq => "composer_sort:b*"},
     :c_composers => { :label => '- C -', :fq => "composer_sort:c*"},

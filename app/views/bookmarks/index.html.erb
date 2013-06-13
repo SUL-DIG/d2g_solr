@@ -1,4 +1,4 @@
-<h1><%= t('blacklight.bookmarks.title') %></h1>
+<h1><%= t('Selected Items') %></h1>
 
 <%- if current_or_guest_user.blank? -%>
 
@@ -6,7 +6,7 @@
 
 <%- elsif @document_list.blank? -%>
 
-  <h3><%= t('blacklight.bookmarks.no_bookmarks') %></h3>
+  <h3><%= t('You have no selected items.') %></h3>
 <% else %>
   <%= render 'sort_and_per_page' %>
 
