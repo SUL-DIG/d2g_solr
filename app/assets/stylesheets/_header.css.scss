@@ -94,9 +94,14 @@
     }
     h1 {
       font-size: 1.4em;
-      float: none;
+      float: left;
       margin-top: 10px;
     }
+    h2 {
+    font-size: 1.3em;
+    margin-left: 20px;
+    }
+    
     &.navbar {
       h2 {display: none;}
       .site-header-content {text-align: center;}
@@ -136,3 +141,6 @@
 	width: 218px;
 	}
 
+.span9 {
+	margin-left: 10px;
+	}
