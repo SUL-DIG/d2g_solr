@@ -93,16 +93,18 @@ when adding a document.
     <field name="feastDate" type="string" indexed="true" stored="true" />
     
     <!-- pub_date is used for facet and display so it must be indexed and stored -->
-    <field name="subgenre" type="string" indexed="true" stored="true" />
-    <field name="theater" type="string" indexed="true" stored="true" />
-    <field name="city" type="string" indexed="true" stored="true" />
-    <field name="region" type="string" indexed="true" stored="true" />
-    <field name="country" type="string" indexed="true" stored="true" />
-    <field name="subject" type="string" indexed="true" stored="true" />
+    <field name="subgenre" type="text_general" indexed="true" stored="true" />
+    <field name="theater" type="text_general" indexed="true" stored="true" />
+    <field name="city" type="text_general" indexed="true" stored="true" />
+    <field name="region" type="text_general" indexed="true" stored="true" />
+    <field name="country" type="text_general" indexed="true" stored="true" />
+    <field name="subject" type="text_general" indexed="true" stored="true" />
     <field name="composer" type="text_general" indexed="true" stored="true" />
+    <field name="composerSort" type="string" indexed="true" stored="true" />
     <field name="librettist" type="text_general" indexed="true" stored="true" multiValued="true"/>
+    <field name="librettistSort" type="text_general" indexed="true" stored="true" multiValued="true"/>
     <field name="year" type="string" indexed="true" stored="true" />
-    <field name="genre" type="string" indexed="true" stored="true" />
+    <field name="genre" type="text_general" indexed="true" stored="true" />
     <field name="revisions" type="string" indexed="false" stored="true" />
     <field name="swQuery" type="string" indexed="false" stored="true" />
     <!-- year sort uses new trie-based int fields, which are recommended for any int and are displayable, sortable, and range-quer
@@ -189,9 +191,9 @@ or to add multiple fields to the same field for easier/faster searching. -->
   <copyField source="year" dest="year_sort"/>
   <copyField source="title" dest="title_sort"/>
     <copyField source="titleSort" dest="titleSort_sort"/>
-  <copyField source="composer" dest="composer_sort"/>
-  <copyField source="composer" dest="composer_facetSort"/>
-  <copyField source="librettist" dest="librettist_facetSort"/>
+  <copyField source="composerSort" dest="composerSort_sort"/>
+  <copyField source="composerSort" dest="composerSort_facetSort"/>
+  <copyField source="librettistSort" dest="librettistSort_facetSort"/>
   
   
   
@@ -229,16 +231,18 @@ or to add multiple fields to the same field for easier/faster searching. -->
   <copyField source="feastDate" dest="text"/>
   <copyField source="subject" dest="text"/>
   
-  <copyField source="composer" dest="composer_facet"/>
+  <copyField source="title" dest="title_facet"/>
+  <copyField source="composerSort" dest="composerSort_facet"/>
   <copyField source="year" dest="year_facet"/>
   <copyField source="genre" dest="genre_facet"/>
   <copyField source="subgenre" dest="subgenre_facet"/>
-  <copyField source="subject" dest="subject_facet"/>
-  <copyField source="librettist" dest="librettist_facet"/>
+  <copyField source="feastMonth" dest="feastMonth_facet"/>
+  <copyField source="librettistSort" dest="librettistSort_facet"/>
   <copyField source="theater" dest="theater_facet"/>
   <copyField source="city" dest="city_facet"/>
   <copyField source="region" dest="region_facet"/>
   <copyField source="country" dest="country_facet"/>
+  <copyField source="subject" dest="subject_facet"/>
   
   <!-- title spell check; should match fields for title request handler -->
   <copyField source="title" dest="title_spell"/>

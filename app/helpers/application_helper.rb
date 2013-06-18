@@ -4,16 +4,11 @@ module ApplicationHelper
     on_about_pages
   end
 
-  def params_for_session(session)
-    {:f => {:session_date_sim => [session]}}
-  end
-
   # sections for About page
   # elementlink names should match what's used in locale_about.yml
   def about_sections
-    section_list = ['curator', 'project_team_stanford',
-                    'project_team_bnf', 'technical_description',
-                    'acknowledgements', 'use_and_reproduction']
+    section_list = ['team', 'technical_description',
+                    'acknowledgements']
   end
 
   # Used when search result views are in separate partials
