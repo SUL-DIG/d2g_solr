@@ -60,11 +60,12 @@
     clear: left;
     color: #999;
     font-family: $text_font_family;
-    font-size: 1em;
+    font-size: 1.3em;
     font-style: italic;
     font-weight: normal;
     padding-top: 12px;
     text-transform: none;
+    margin-left: 20px;
   }
   .navbar-inner {
     background: $header_bg_color;
