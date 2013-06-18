@@ -32,12 +32,12 @@
           background-color: $header_bg_color;
           box-shadow: none;
           color: $inactive_nav_link_color;
-          font-size: 1em;
+          font-size: 1.2em;
           float: left;
           display: inline-block;
           margin-left: 20px;
           padding-left: 10px;
-          padding-right: 10px;
+          padding-right: 0px;
           
           &:hover, &:focus {
             background-color: #eeeeee;
@@ -50,8 +50,8 @@
   }
   h1 {
     border-bottom: none;
-    font-size: 2em;
-    font-family: $heading_font_family;
+    font-size: 3em;
+    font-family: 'Dancing Script', Georgia, Times, serif;
     margin: 20px;
     padding-bottom: 0;
   }
@@ -59,7 +59,7 @@
     border: none;
     clear: left;
     color: #999;
-    font-family: $text_font_family;
+    font-family: 'Josefin Sans', Helvetica, Arial, sans-serif;
     font-size: 1.3em;
     font-style: italic;
     font-weight: normal;
