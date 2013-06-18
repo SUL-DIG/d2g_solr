@@ -11,15 +11,6 @@ module ApplicationHelper
                     'acknowledgements']
   end
  
-  def on_scrollspy_page?
-    on_notes_pages
-  end
-  
-   def about_sections
-    section_list = ['topic1', 'topic2',
-                    'topic3']
-  end
-
   # Used when search result views are in separate partials
   def link_to_search_result_view(icon, view_name, default_view)
     if default_view
