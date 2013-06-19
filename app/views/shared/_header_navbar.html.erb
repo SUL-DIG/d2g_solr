@@ -2,8 +2,9 @@
 <div id="brandbar">
     <div class="container">
         <%= link_to(image_tag("SUL-Logo-white-text-h25.png", :alt => "Stanford University Libraries"), "http://library.stanford.edu/")%>
-        
     </div> <!-- .container end -->
+    <div class="report">
+    <%= link_to t('Report a Problem'), report_path %>
 </div> <!-- #brandbar end -->
 <!-- Brandbar snippet end -->
 <div id="header-wrapper">
@@ -28,6 +29,7 @@
                 </li>
                 <li class="<%="active" if on_about_pages%>"><%= link_to t('d2g.nav.about'), about_project_path %></li>
                 <li class="<%="active" if on_notes_pages%>"><%= link_to t('Source Notes'), notes_source_path %></li>
+                <li class="<%="active" if on_submit_pages%>"><%= link_to t('Submit a Premiere'), submit_form_path %></li>
               </ul>
             </div>
           </div>

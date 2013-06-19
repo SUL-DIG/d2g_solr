@@ -30,7 +30,7 @@ class SubmitController < ApplicationController
     @page_title = t("d2g.about.#{@page_name}_title") # set the page title
     @params=params
     @no_nav=(@page_name=='terms_dialog' ? true : false)
-    render :index
+    render :form
   end
   
 end

@@ -10,13 +10,7 @@ module ApplicationHelper
     section_list = ['team', 'technical_description',
                     'acknowledgements']
   end
-  
-  # sections for Notes page
-  # elementlink names should match what's used in locale_notes.yml
-  def about_sections
-    section_list = ['topic1', 'topic2',
-                    'topic3']
-  end
+
  
   # Used when search result views are in separate partials
   def link_to_search_result_view(icon, view_name, default_view)
