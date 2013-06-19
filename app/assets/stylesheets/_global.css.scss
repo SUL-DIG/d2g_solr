@@ -129,7 +129,10 @@ input #range_year_end .range_end {
 input #range_year_begin .range_begin {
 		width: 50px;
 		}
-
+.constraints-container a{
+padding-right: 2px;
+padding-left: 2px;
+}
 
 a:focus {
 	outline: thin dotted #333;
