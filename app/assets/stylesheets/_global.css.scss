@@ -195,12 +195,15 @@ span.content-type {
 }
 .nav-list > .active > a,
 .nav-list > .active > a:hover {
+  background-color: #eae5d6;
   color: #222;
   > [class^="icon-"] {background-image: none; }
 }
 .nav-header {color: $sidebar_header_color;}
 
-.nav > li > a  {border-radius: 6px;}
+.nav > li > a  {border-radius: 6px;
+				}
+.nav > li > a:hover  {background-color: none;}
 
 .hidden {display: none;}
 .off-screen {position: absolute; left: -100000px;}
