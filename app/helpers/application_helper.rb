@@ -1,7 +1,7 @@
 module ApplicationHelper
 
   def on_scrollspy_page?
-    on_about_pages, on_notes_pages, on_submit_pages
+    on_about_pages
   end
 
   # sections for About page
@@ -12,7 +12,7 @@ module ApplicationHelper
   end
   
   # sections for Notes page
-  # elementlink names should match what's used in locale_about.yml
+  # elementlink names should match what's used in locale_notes.yml
   def about_sections
     section_list = ['topic1', 'topic2',
                     'topic3']
