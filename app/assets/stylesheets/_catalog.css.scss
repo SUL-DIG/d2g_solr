@@ -45,6 +45,21 @@
   }
 }
 
+/* Modifying search bar display */
+select {
+	width: 125px;
+	margin-right: 20px;
+	}
+div .row {
+	margin-left: -30px;
+	}
+input, text area, .uneditable-input {
+	width: 583px;
+	}
+button.btn, input.btn[type="submit"] {
+	width:125px;
+	}
+
 .index_title {color: #999999;}
 .bookmark_toggle {
 	label {
