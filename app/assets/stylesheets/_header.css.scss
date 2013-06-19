@@ -27,6 +27,7 @@
       > li {
         &.active > a {
           color: $active_nav_link_color;
+          font-weight: 700;
         }
         > a {
           background-color: $header_bg_color;
