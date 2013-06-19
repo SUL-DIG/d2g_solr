@@ -1,7 +1,7 @@
 module ApplicationHelper
 
   def on_scrollspy_page?
-    on_about_pages
+    on_about_pages, on_notes_pages, on_submit_pages
   end
 
   # sections for About page
@@ -9,6 +9,13 @@ module ApplicationHelper
   def about_sections
     section_list = ['team', 'technical_description',
                     'acknowledgements']
+  end
+  
+  # sections for Notes page
+  # elementlink names should match what's used in locale_about.yml
+  def about_sections
+    section_list = ['topic1', 'topic2',
+                    'topic3']
   end
  
   # Used when search result views are in separate partials

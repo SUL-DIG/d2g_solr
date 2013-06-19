@@ -15,7 +15,7 @@ class ApplicationController < ActionController::Base
   
   layout "d2g"
   
-  helper_method :show_terms_dialog?, :on_home_page, :on_about_pages, :on_show_page, :on_search_page, :request_path
+  helper_method :show_terms_dialog?, :on_home_page, :on_about_pages, :on_show_page, :on_search_page, :request_path, :on_notes_pages, :on_submit_pages
   
   def seen_terms_dialog?
     cookies[:seen_terms] || false
@@ -56,6 +56,14 @@ class ApplicationController < ActionController::Base
   
   def on_about_pages
     request_path[:controller] == 'about' 
+  end
+  
+  def on_notes_pages
+    request_path[:controller] == 'notes' 
+  end
+  
+  def on_submit_pages
+    request_path[:controller] == 'submit' 
   end
       
   # def exception_on_website(exception)
