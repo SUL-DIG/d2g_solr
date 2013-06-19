@@ -119,6 +119,20 @@ padding-top: 10px;
 padding-top: 2.5px;
 }
 
+/* Modifying range_limit slider */
+form .range_limit .subsection .range_year .form-inline{ 
+	> input .submit .btn {
+		width: 50px;
+		}
+	>input #range_year_end .range_end {
+		width: 50px;
+		}
+	>input #range_year_begin .range_begin {
+		width: 50px;
+		}
+		
+}
+
 
 a:focus {
 	outline: thin dotted #333;
