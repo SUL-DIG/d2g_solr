@@ -41,7 +41,7 @@
   </head>
   <% onload_text = "$('input#q').focus();" if params[:q].to_s.empty? and params[:f].to_s.empty? and params[:id].nil? %>
 
-  <body> 
+  <body onload="<%= raw onload_text %>" class="<%= render_body_class %> <%= "scrollspy-content" if on_scrollspy_page? %>" data-spy="scroll" data-target=".sidebar-nav"> 
     <%= render(:partial => 'shared/terms_dialog') if show_terms_dialog?%>
 
     <div id="su-wrap"> <!-- #su-wrap start -->
@@ -55,7 +55,6 @@
           <!-- Top bar -->
           <div id="search-found" class="row hidden-phone">
             <%= topbar_items.join('').html_safe %>
-            <%= render :partial=>'shared/breadcrumbs' unless @no_nav%>
           </div>
           <!-- /Top bar -->
           <div class="row">
