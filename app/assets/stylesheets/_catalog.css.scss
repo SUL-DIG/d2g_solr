@@ -55,6 +55,9 @@ div .row {
 .input-append input {
 	width: 672px;
 	}
+ input, text area, .uneditable-input {
+ 	width: 50px;
+ 	}
 button.btn, input.btn[type="submit"] {
 	width:75px;
 	}
