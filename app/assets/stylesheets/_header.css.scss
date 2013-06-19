@@ -26,7 +26,6 @@
       padding-bottom: 3px;
       > li {
         &.active > a {
-          background-color: #eeeeee;
           color: $active_nav_link_color;
         }
         > a {
