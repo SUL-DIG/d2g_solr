@@ -42,6 +42,8 @@
   }
 }
 
+
+
 /* Modifying search bar display */
 select {
 	width: 125px;
@@ -50,11 +52,11 @@ select {
 div .row {
 	margin-left: -30px;
 	}
-input, text area, .uneditable-input {
-	width: 622px;
+.input-append input {
+	width: 672px;
 	}
 button.btn, input.btn[type="submit"] {
-	width:125px;
+	width:75px;
 	}
 form {
 	margin: 0px 226px 20px;
