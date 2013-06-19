@@ -22,6 +22,9 @@
     <!-- Two stylesheets below are for Stanford Identity footer -->
     <link href="https://www.stanford.edu/su-identity/css/su-identity.css" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700' rel='stylesheet' type='text/css'>
+<!-- Two stylesheets below are for navbar fonts -->
+  <link href="http://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=Muli" rel="stylesheet" type="text/css">
     <script type="text/javascript" src="//use.typekit.net/aed2nnh.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
     <%= stylesheet_link_tag "application" %>
@@ -34,18 +37,13 @@
 <![endif]-->
 
     <%= favicon_link_tag asset_path('favicon.ico') %>
-  <!-- Two stylesheets below are for navbar fonts -->
-  <link href="http://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet" type="text/css">
-  <link href="http://fonts.googleapis.com/css?family=Muli" rel="stylesheet" type="text/css">
+  
   </head>
   <% onload_text = "$('input#q').focus();" if params[:q].to_s.empty? and params[:f].to_s.empty? and params[:id].nil? %>
 
   <body onload="<%= raw onload_text %>"
-        class="<%= render_body_class %> <%= render_locale_class %><%= "scrollspy-content" if on_scrollspy_page? %>" data-spy="scroll" data-target=".sidebar-nav">
+        class="<%= render_body_class %> <%= "scrollspy-content" if on_scrollspy_page? %>" data-spy="scroll" data-target=".sidebar-nav">
     <%= render(:partial => 'shared/terms_dialog') if show_terms_dialog?%>
-    <noscript>
-      <% if show_terms_dialog? && request.path != '/about/terms_dialog'%><meta http-equiv="refresh" content="0; URL=/about/terms_dialog?return_to=<%=request.path%>"><% end %>
-    </noscript>
 
     <div id="su-wrap"> <!-- #su-wrap start -->
       <div id="su-content"> <!-- #su-content start -->
