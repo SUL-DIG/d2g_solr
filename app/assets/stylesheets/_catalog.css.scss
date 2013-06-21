@@ -47,6 +47,11 @@ text-align: right;
 float: right;
 }
 
+#sidebar-nav > .nav-list li > a {
+	padding: 1px 15px;
+	width: 20px;
+	}
+
 .index_title {color: #999999;}
 .bookmark_toggle {
 	label {
