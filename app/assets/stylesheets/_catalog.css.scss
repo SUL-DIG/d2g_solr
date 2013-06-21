@@ -59,6 +59,14 @@ float: right;
 #sidebar-nav > .nav-list li > a {
 	padding: 1px 1px;
 	width: 30px;
+	margin-left: -6px;
+	float: left;
+	}
+
+li .email {
+	span {
+	padding-top: 1px;
+	}
 	}
 
 .index_title {color: #999999;}
