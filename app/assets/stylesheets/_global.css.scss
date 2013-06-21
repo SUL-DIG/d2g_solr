@@ -198,14 +198,18 @@ button.btn, input.btn[type="submit"] {
 	width:75px;
 	}
 form {
-	margin: 20px 20px 20px;
+	margin: 10px 20px 20px;
 	width: 100%;
 	}
 
+/* Modifying search bookmark display */
 label.toggle_bookmark {
-	position: absolute;
-	right: 725px;
 	text-align: right;
+	}
+.bookmarks {
+	float: right;
+	margin-left: 10px;
+	margin-top: 5px;
 	}
 
 h1 {
