@@ -33,6 +33,10 @@
                 <li class="<%="active" if on_submit_pages%>"><%= link_to t('Submit a Premiere'), submit_form_path %></li>
               </ul>
             </div>
+            <div class="row">
+			<div class="span6 clearfix" id="searchbar">
+                    <%= render_search_bar %>
+            </div>
           </div>
         </div>
       </div>
