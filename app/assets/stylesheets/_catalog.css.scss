@@ -42,10 +42,19 @@
   }
 }
 
+#sidebar form {
+.checkbox input[type="checkbox"]{
+text-align: right;
+float: left;
+}
+}
+
 .checkbox input[type="checkbox"]{
 text-align: right;
 float: right;
 }
+
+
 
 #sidebar-nav > .nav-list li > a {
 	padding: 1px 15px;
