@@ -8,19 +8,6 @@
 
 
 <%# this should be in a partial -%>
-  <% if @document.respond_to?(:export_as_openurl_ctx_kev) %>
-    <!-- 
-         // COinS, for Zotero among others. 
-         // This document_partial_name(@document) business is not quite right,
-         // but has been there for a while. 
-    -->
-    <span class="Z3988" title="<%= @document.export_as_openurl_ctx_kev(document_partial_name(@document)) %>"></span>
-  <% end %>
-
-</div>
-<div id="sidebar" class="span3">
-   <%= render_document_sidebar_partial  %>
-</div><!--/span -->
 <div id="document" class="<%= render_document_class %>">
   <div id="doc_<%= @document.id.to_s.parameterize %>">
   
@@ -28,6 +15,9 @@
     <% # bookmark/folder functions -%>
     <%= render_document_heading(:h1).html_safe %>
 
+    <div id="sidebar" class="span3">
+   <%= render_document_sidebar_partial  %>
+</div><!--/span -->
     <div class="document">
       <%= render_document_partial @document, :show %>
     </div>
@@ -38,4 +28,14 @@
 
 
 
+  <% if @document.respond_to?(:export_as_openurl_ctx_kev) %>
+    <!-- 
+         // COinS, for Zotero among others. 
+         // This document_partial_name(@document) business is not quite right,
+         // but has been there for a while. 
+    -->
+    <span class="Z3988" title="<%= @document.export_as_openurl_ctx_kev(document_partial_name(@document)) %>"></span>
+  <% end %>
+
+</div>
 
