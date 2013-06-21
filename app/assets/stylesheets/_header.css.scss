@@ -15,6 +15,7 @@
         display: block;
         float: left;
         margin-right: 10px;
+        width: 100%;
       }
     }
     .nav {
@@ -35,8 +36,7 @@
           font-size: 1.2em;
           float: left;
           display: inline-block;
-          padding-left: 63px;
-          padding-right: 63px;
+          padding: 8px 25px 5px 3px;
           
           &:hover, &:focus {
             color: $active_nav_link_color;
