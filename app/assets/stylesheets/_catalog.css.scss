@@ -42,6 +42,13 @@
   }
 }
 
+.form-search .radio input[type="radio"], .form-search .checkbox input[type="checkbox"], .form-inline .radio input[type="radio"], .form-inline .checkbox input[type="checkbox"] {
+text-align: right;
+float: left;
+}
+label.toggle_bookmark {
+text-align: left;
+}
 
 
 
