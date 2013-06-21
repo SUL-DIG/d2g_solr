@@ -189,7 +189,7 @@ div .row {
 	margin-left: -30px;
 	}
 .input-append input {
-	width: 237%;
+	width: 150%;
 	}
  input, text area, .uneditable-input {
  	width: 50px;
@@ -201,6 +201,9 @@ form {
 	margin: 10px 20px 20px;
 	width: 100%;
 	}
+.span6, #email_form {
+width: 100%;
+}
 
 /* Modifying search bookmark display */
 label.toggle_bookmark {
