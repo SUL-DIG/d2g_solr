@@ -58,12 +58,15 @@ float: right;
 
 #emailLink {
 	padding: 1px 15px 1px 1px;
-	width: 1px;
+	width: 50px;
 	float: left;
 	margin-right: 3px;
 	}
 li #email {
+	span{
 	font-size: 14px;
+	margin-left: -20px;
+	}
 	}
 
 .index_title {color: #999999;}
