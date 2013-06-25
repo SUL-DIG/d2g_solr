@@ -68,14 +68,12 @@ float: right;
 	
 
 li .email {
-		span {
-			font-size: 14px;
+		font-size: 14px;
 			margin-left: -50px;
 			}
-		span:hover {
+li .email:hover {
 		font-color: #b50000;
 		}
-	}
 
 .index_title {color: #999999;}
 .bookmark_toggle {
