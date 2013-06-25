@@ -67,11 +67,14 @@ float: right;
 	}
 	
 
-li .email {
+li.email {
+		span {
 		font-size: 14px;
-			margin-left: -50px;
+		margin-left: -50px;
 			}
-li .email:hover {
+		margin-left:-3px;
+		}
+li.email:hover {
 		font-color: #b50000;
 		}
 
