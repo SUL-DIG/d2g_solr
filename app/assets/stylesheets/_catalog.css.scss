@@ -58,7 +58,7 @@ float: right;
 
 #emailLink {
 	a:hover {
-	background-color: #C0C0C0;
+	background-color: #666666;
 	}
 	padding: 1px 15px 1px 1px;
 	width: 50px;
@@ -70,14 +70,14 @@ float: right;
 li.email {
 		span {
 		font-size: 14px;
-		margin-left: -50px;
+		margin-left: -30px;
 			}
 		margin-left:-3px;
-		}
-li.email:hover {
+
+		span:hover {
 		font-color: #b50000;
 		}
-
+		}
 .index_title {color: #999999;}
 .bookmark_toggle {
 	label {
