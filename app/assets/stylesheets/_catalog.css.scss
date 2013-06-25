@@ -57,15 +57,15 @@ float: right;
 
 
 #emailLink {
-	a:hover {
-	background-color: #666666;
-	}
 	padding: 1px 15px 1px 1px;
 	width: 50px;
 	float: left;
 	margin-left: -2px;
 	}
-	
+
+#emailLink:hover {
+	background-color: #666666;
+	}
 
 li.email {
 		span {
