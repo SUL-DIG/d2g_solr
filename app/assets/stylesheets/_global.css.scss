@@ -104,6 +104,7 @@ padding-right: 20px;
   li > a {padding: 1px 15px;}
   &.affix {width: 205px;}
 }
+
 .well, .constraints-container, #sortAndPerPage {
 min-height: 45px;
 }
@@ -227,7 +228,13 @@ label.toggle_bookmark {
 	margin: 1px 10pt;
 	text-align: right;
 	}
-	
+ #sidebar-nav > .nav-list li > a {
+ width: 225px;
+ }
+ 
+ div.span9.site-header-content {
+ 	height: 200px;
+ 	}	
 
 h1 {
 	display: block;
