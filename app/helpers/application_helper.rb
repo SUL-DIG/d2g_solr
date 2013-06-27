@@ -7,7 +7,7 @@ module ApplicationHelper
   # sections for About page
   # elementlink names should match what's used in locale_about.yml
   def about_sections
-    section_list = ['team', 'technical_description',
+    section_list = ['new', 'logo',
                     'acknowledgements']
   end
 
