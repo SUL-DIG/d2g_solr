@@ -10,6 +10,10 @@
     @include main-top-border;
     padding-top: 10px;
   }
+ #row {
+ 	display: block;
+ 	}
+ 
   p {
     font-family: $text_font_family;
   	font-weight: 400;
