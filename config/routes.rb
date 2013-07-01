@@ -2,6 +2,7 @@ D2g::Application.routes.draw do
   match 'about', :to => 'about#show', :as => 'about_project', :defaults => {:id=>'project'} # no page specified, go to project page
   match 'notes', :to => 'notes#source', :as => 'notes_source', :defaults => {:id=>'source'} # no page specified, go to source page
     match 'submit', :to => 'submit#form', :as => 'submit_form', :defaults => {:id=>'form'} # no page specified, go to source page
+    match 'report', :to => 'report#form', :as => 'report_form', :defaults => {:id=>'form'} # no page specified, go to source page
   root :to => "catalog#index"
 
   Blacklight.add_routes(self)
