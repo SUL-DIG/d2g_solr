@@ -149,9 +149,9 @@
 	color: rgb(51, 51, 51);
 }
 
-.span3 {
+#sidebar .span3 {
 	width: 250px;
-	@media (max-width: 780px) {
+	@media (max-width: 767px) {
 		display:none;
 		}
 	}

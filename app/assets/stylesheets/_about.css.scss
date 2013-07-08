@@ -68,7 +68,7 @@
     textarea#message {width: 320px;}
   }
   @media screen and (max-width: 767px) {
-    .span3 {display:none}
+    #sidebar .span3 {display:none}
     textarea#message {}
   }
 }
