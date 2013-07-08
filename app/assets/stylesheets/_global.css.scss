@@ -398,7 +398,7 @@ span.content-type {
   #sidebar .span3 {display: none;}
 }
 @media screen and (min-width: 767px) and (max-width: 979px) {
-#sidebar .span3 {width: 150px; height: auto;}
+#sidebar .span3 {display: none;}
 }
 
 @media screen and (min-width: 1200px) {

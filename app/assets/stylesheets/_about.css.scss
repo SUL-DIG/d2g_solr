@@ -66,9 +66,12 @@
   }
   @media screen and (min-width: 768px) and (max-width: 979px) {
     textarea#message {width: 320px;}
+        #sidebar .span3 {display:none}
+    div #sidebar-nav {display:none}
   }
   @media screen and (max-width: 767px) {
     #sidebar .span3 {display:none}
+    div #sidebar-nav {display:none}
     textarea#message {}
   }
 }
