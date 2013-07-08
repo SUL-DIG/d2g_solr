@@ -104,11 +104,6 @@ padding-right: 20px;
   li > a {padding: 1px 15px;}
   &.affix {width: 205px;}
 }
-#sidebar-nav {
-overflow: hidden;
-height: auto;
-width: auto;
-}
 
 .well, .constraints-container, #sortAndPerPage {
 min-height: 45px;
@@ -353,13 +348,13 @@ span.content-type {
 @media (max-width: 767px) {
   .pagination {clear: both;}
   .search_form .btn {float: left;}
-  #sidebar-nav > .nav-list.affix {width: 258px;}
+  #sidebar-nav > .nav-list.affix {width: 258px; height: auto;}
 }
 @media (min-width: 768px) and (max-width: 979px) {
-  #sidebar-nav > .nav-list.affix {width: 150px;}
+  #sidebar-nav > .nav-list.affix {width: 150px; height: auto;}
 }
 @media (min-width: 1200px) {
-  #sidebar-nav > .nav-list.affix {width: 258px;}
+  #sidebar-nav > .nav-list.affix {width: 258px; height: auto;}
 }
 
 .ui-slider { position: relative; text-align: left; }
