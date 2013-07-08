@@ -396,6 +396,7 @@ span.content-type {
   .pagination {clear: both;}
   .search_form .btn {float: left;}
   #sidebar .span3 {display: none;}
+      div #sidebar-nav {display:none}
 }
 @media screen and (min-width: 767px) and (max-width: 979px) {
 #sidebar .span3 {display: none;}
@@ -404,5 +405,4 @@ span.content-type {
 
 @media screen and (min-width: 1200px) {
 #sidebar .span3 {width: 258px; height: auto;}
-    div #sidebar-nav {display:none}
 }
