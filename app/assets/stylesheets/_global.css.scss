@@ -347,15 +347,11 @@ span.content-type {
     }
   }
 }
-@media only screen and (max-device-width: 480px) {
-    .pagination {clear: both;}
-  .search_form .btn {float: left;}
-    #sidebar {display:none;}
-}
+
 @media (max-width: 767px) {
   .pagination {clear: both;}
   .search_form .btn {float: left;}
-  #sidebar {display: none;}
+  #sidebar-nav {display: none;}
 }
 @media (min-width: 768px) and (max-width: 979px) {
   #sidebar-nav > .nav-list.affix {width: 150px; height: auto;}
