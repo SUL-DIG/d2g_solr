@@ -135,6 +135,11 @@ body {
       margin-left: 0px;
     }
 }
+#sidebar-nav {
+	@media (max-width: 767px) {
+		display:none;
+		}
+		}
 #main-container {
   @media (max-width: 767px) {
       padding-left: 20px;
