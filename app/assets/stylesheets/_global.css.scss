@@ -237,6 +237,9 @@ label.toggle_bookmark {
  #sidebar-nav > .nav-list li > a {
  width: 200px;
  }
+ #sidebar-nav {
+ @media 
+ 
  
  div.span9.site-header-content {
  	height: 200px;
@@ -317,12 +320,6 @@ span.content-type {
   padding-top: 20px;
   ul {
     margin-left: -20px;
-    -webkit-border-radius: 0;
-       -moz-border-radius: 0;
-            border-radius: 0;
-    -webkit-box-shadow: 0 0 0;
-       -moz-box-shadow: 0 0 0;
-            box-shadow: 0 0 0;
     > li {
       > a, > span {
         background-color: transparent;
@@ -395,12 +392,12 @@ span.content-type {
 
 
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 766px) {
   .pagination {clear: both;}
   .search_form .btn {float: left;}
   .span3 {display: none;}
 }
-@media screen and (min-width: 351px) and (max-width: 979px) {
+@media screen and (min-width: 767px) and (max-width: 979px) {
 .span3 {width: 150px; height: auto;}
 }
 
