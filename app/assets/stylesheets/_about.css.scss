@@ -68,6 +68,7 @@
     textarea#message {width: 320px;}
   }
   @media (max-width: 767px) {
+    .span3 {display:none}
     textarea#message {}
   }
 }
