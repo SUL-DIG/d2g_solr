@@ -348,12 +348,12 @@ span.content-type {
   }
 }
 
-@media (max-width: 460px) {
+@media (max-width: 300px) {
   .pagination {clear: both;}
   .search_form .btn {float: left;}
   #sidebar-nav {display: none;}
 }
-@media (min-width: 461px) and (max-width: 979px) {
+@media (min-width: 301px) and (max-width: 979px) {
   #sidebar-nav {width: 150px; height: auto;}
 }
 @media (min-width: 1200px) {
