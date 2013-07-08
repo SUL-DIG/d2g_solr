@@ -105,6 +105,7 @@ padding-right: 20px;
   &.affix {width: 205px;}
 }
 
+
 .well, .constraints-container, #sortAndPerPage {
 min-height: 45px;
 }
@@ -348,7 +349,7 @@ span.content-type {
 @media (max-width: 767px) {
   .pagination {clear: both;}
   .search_form .btn {float: left;}
-  #sidebar-nav > .nav-list.affix {width: 258px; height: auto;}
+  #sidebar-nav > .nav-list.affix {display: non; width: 258px; height: auto;}
 }
 @media (min-width: 768px) and (max-width: 979px) {
   #sidebar-nav > .nav-list.affix {width: 150px; height: auto;}
