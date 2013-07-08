@@ -348,16 +348,16 @@ span.content-type {
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 460px) {
   .pagination {clear: both;}
   .search_form .btn {float: left;}
   #sidebar-nav {display: none;}
 }
-@media (min-width: 501px) and (max-width: 979px) {
-  #sidebar-nav > .nav-list.affix {width: 150px; height: auto;}
+@media (min-width: 461px) and (max-width: 979px) {
+  #sidebar-nav {width: 150px; height: auto;}
 }
 @media (min-width: 1200px) {
-  #sidebar-nav > .nav-list.affix {width: 258px; height: auto;}
+  #sidebar-nav {width: 258px; height: auto;}
 }
 
 .ui-slider { position: relative; text-align: left; }
