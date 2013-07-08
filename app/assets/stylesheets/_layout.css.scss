@@ -127,7 +127,6 @@ body {
   @media (max-width: 767px) {
       padding-left: 0px;
       padding-right: 0px;
-      // don't fix position toc nav (since no sidebar) on phones
       #sidebar-nav .affix {position: relative;}
     }
 }
