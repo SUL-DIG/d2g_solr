@@ -104,7 +104,8 @@ padding-right: 20px;
   li > a {padding: 1px 15px;}
   &.affix {width: 205px;}
 }
-div #sidebar-nav {
+#sidebar-nav {
+overflow: hidden;
 height: auto;
 width: auto;
 }
