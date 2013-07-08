@@ -353,7 +353,7 @@ span.content-type {
   .search_form .btn {float: left;}
   .span3 {display: none;}
 }
-@media screen (max-width: 580px) {
+@media screen and (max-width: 580px) {
   .pagination {clear: both;}
   .search_form .btn {float: left;}
   .span3 {display: none;}
