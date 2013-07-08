@@ -349,7 +349,7 @@ span.content-type {
 @media (max-width: 767px) {
   .pagination {clear: both;}
   .search_form .btn {float: left;}
-  #sidebar-nav > .nav-list.affix {display: none}
+  #sidebar {display: none;}
 }
 @media (min-width: 768px) and (max-width: 979px) {
   #sidebar-nav > .nav-list.affix {width: 150px; height: auto;}
