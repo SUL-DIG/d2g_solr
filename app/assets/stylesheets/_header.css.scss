@@ -155,6 +155,11 @@
 		display:none;
 		}
 	}
+	#sidebar-nav {
+	@media screen and (max-width: 978px) {
+		display:none;
+		}
+	}
 
 .span9 {
 	margin-left: 10px;
