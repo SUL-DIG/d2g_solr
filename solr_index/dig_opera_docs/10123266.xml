@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10123266</field>
 		<field name="genre">Operas</field>
 		<field name="title">Les loix et les rois, ou Le bonheur des peuples</field>
@@ -16,4 +16,4 @@
 		<field name="country">Belgium</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+loix+et+les+rois,+ou+Le+bonheur+des+peuples+Guillaume-Alexis+Paris&amp;search_field=search</field>
-	</doc>
+	</doc></add>

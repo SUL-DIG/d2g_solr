@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10130541</field>
 		<field name="genre">Operas</field>
 		<field name="title">Mir tsetov (The World of Flowers)</field>
@@ -15,4 +15,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mir+tsetov+The+World+of+Flowers+Shalva+Mikhailovich+Taktakishvili&amp;search_field=search</field>
-	</doc>
+	</doc></add>

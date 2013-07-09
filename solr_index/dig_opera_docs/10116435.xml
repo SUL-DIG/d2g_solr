@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10116435</field>
 		<field name="genre">Operas</field>
 		<field name="title">O Conroy ke i kopies tou (Conroy's Other Selves)</field>
@@ -16,4 +16,4 @@
 		<field name="country">Greece</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+Conroy+ke+i+kopies+tou+Conroy's+Other+Selves+Periklis+Koukos&amp;search_field=search</field>
-	</doc>
+	</doc></add>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10113312</field>
 		<field name="genre">Operas</field>
 		<field name="title">Nadir, ou L'orphelin d'Afrigue</field>
@@ -16,4 +16,4 @@
 		<field name="country">Belgium</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nadir,+ou+L'orphelin+d'Afrigue+F.+van+Haesdonck&amp;search_field=search</field>
-	</doc>
+	</doc></add>

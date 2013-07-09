@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10131609</field>
 		<field name="genre">Operas</field>
 		<field name="title">Le mauvais plaisant, ou Le drôle de corps</field>
@@ -16,4 +16,4 @@
 		<field name="country">France</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+mauvais+plaisant,+ou+Le+drôle+de+corps+Jean-Joseph+Vadé&amp;search_field=search</field>
-	</doc>
+	</doc></add>

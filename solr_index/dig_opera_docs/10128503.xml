@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10128503</field>
 		<field name="genre">Operas</field>
 		<field name="title">Lykken og forstanden</field>
@@ -16,4 +16,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lykken+og+forstanden+Svend+Simon+Schultz&amp;search_field=search</field>
-	</doc>
+	</doc></add>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10126651</field>
 		<field name="genre">Operas</field>
 		<field name="title">Phaedra and Hippolitus</field>
@@ -15,4 +15,4 @@
 		<field name="country">Ireland</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Phaedra+and+Hippolitus+Thomas+Roseingrave&amp;search_field=search</field>
-	</doc>
+	</doc></add>

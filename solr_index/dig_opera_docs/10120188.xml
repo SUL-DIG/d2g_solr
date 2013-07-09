@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10120188</field>
 		<field name="genre">Operas</field>
 		<field name="title">Serenata per la ricupperata salute di Sua Maesta</field>
@@ -15,4 +15,4 @@
 		<field name="country">Spain</field>
 		<field name="subgenre">Serenata</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Serenata+per+la+ricupperata+salute+di+Sua+Maesta+Giovanni+Battista+Mele&amp;search_field=search</field>
-	</doc>
+	</doc></add>

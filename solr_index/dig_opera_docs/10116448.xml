@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10116448</field>
 		<field name="genre">Operas</field>
 		<field name="title">Posledniy kater (The Last Cutter)</field>
@@ -16,4 +16,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Posledniy+kater+The+Last+Cutter+Marian+Viktorovich+Koval'&amp;search_field=search</field>
-	</doc>
+	</doc></add>

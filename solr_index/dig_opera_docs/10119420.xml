@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10119420</field>
 		<field name="genre">Operas</field>
 		<field name="title">Musa, der letzte Maurenkönig</field>
@@ -16,4 +16,4 @@
 		<field name="country">Russia</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Musa,+der+letzte+Maurenkönig+Friedrich+Marpurg&amp;search_field=search</field>
-	</doc>
+	</doc></add>

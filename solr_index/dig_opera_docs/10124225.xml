@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10124225</field>
 		<field name="genre">Operas</field>
 		<field name="title">Lo sposo burlato</field>
@@ -16,4 +16,4 @@
 		<field name="country">Italy</field>
 		<field name="subgenre">Intermezzo</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lo+sposo+burlato+Niccolò+Piccinni&amp;search_field=search</field>
-	</doc>
+	</doc></add>

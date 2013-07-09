@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10119484</field>
 		<field name="genre">Operas</field>
 		<field name="title">Pesnolyubie (Beloved Songs)</field>
@@ -16,4 +16,4 @@
 		<field name="country">Russia</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pesnolyubie+Beloved+Songs+Vincent+Martín+y+Soler&amp;search_field=search</field>
-	</doc>
+	</doc></add>

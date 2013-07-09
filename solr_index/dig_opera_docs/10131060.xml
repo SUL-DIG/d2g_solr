@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10131060</field>
 		<field name="genre">Operas</field>
 		<field name="title">Seraphine, oder Grossmut und Liebe</field>
@@ -16,4 +16,4 @@
 		<field name="country">Czech Republic</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Seraphine,+oder+Grossmut+und+Liebe+Václav+Jan+Krtitel+Tomásek&amp;search_field=search</field>
-	</doc>
+	</doc></add>
