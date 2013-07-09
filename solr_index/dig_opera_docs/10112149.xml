@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10112149</field>
 		<field name="genre">Operas</field>
 		<field name="title">Zhizn' za tsarya (A Life for the Tsar)</field>
@@ -17,4 +17,4 @@
 		<field name="country">Russia</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zhizn'+za+tsarya+A+Life+for+the+Tsar+Mikhail+Ivanovich+Glinka&amp;search_field=search</field>
-	</doc>
+	</doc></add>
