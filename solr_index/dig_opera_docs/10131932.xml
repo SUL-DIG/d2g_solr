@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10131932</field>
 		<field name="genre">Operas</field>
 		<field name="title">Svad'ba Figaro (The Marriage of Figaro)</field>
@@ -17,4 +17,4 @@
 		<field name="country">Russia</field>
 		<field name="subgenre">Vaudeville</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Svad'ba+Figaro+The+Marriage+of+Figaro+Aleksey+Nikolayevich+Verstovsky&amp;search_field=search</field>
-	</doc>
+	</doc></add>

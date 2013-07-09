@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10131046</field>
 		<field name="genre">Operas</field>
 		<field name="title">Jochu no Anna (Anna, the Maid)</field>
@@ -17,4 +17,4 @@
 		<field name="country">Japan</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jochu+no+Anna+Anna,+the+Maid+Kunio+Toda&amp;search_field=search</field>
-	</doc>
+	</doc></add>

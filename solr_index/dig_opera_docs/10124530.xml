@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10124530</field>
 		<field name="genre">Operas</field>
 		<field name="title">Hrátky s certem (Gossip with the Devil)</field>
@@ -17,4 +17,4 @@
 		<field name="country">Czech Republic</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hrátky+s+certem+Gossip+with+the+Devil+Ludvík+Podést&amp;search_field=search</field>
-	</doc>
+	</doc></add>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10118899</field>
 		<field name="genre">Operas</field>
 		<field name="title">The Gift of the Magi</field>
@@ -17,4 +17,4 @@
 		<field name="country">United States</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Gift+of+the+Magi+Ruth+Taylor+Magney&amp;search_field=search</field>
-	</doc>
+	</doc></add>

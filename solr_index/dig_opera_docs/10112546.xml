@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10112546</field>
 		<field name="genre">Operas</field>
 		<field name="title">Il poeta Fagiuoli alla corte di Cosimo III</field>
@@ -17,4 +17,4 @@
 		<field name="country">Italy</field>
 		<field name="subgenre">Operetta</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+poeta+Fagiuoli+alla+corte+di+Cosimo+III+Alfredo+Grandi&amp;search_field=search</field>
-	</doc>
+	</doc></add>

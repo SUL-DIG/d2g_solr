@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10121330</field>
 		<field name="genre">Operas</field>
 		<field name="title">La dama locandiera, ossia L'albergo de' Pitocchi</field>
@@ -17,4 +17,4 @@
 		<field name="country">Italy</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+dama+locandiera,+ossia+L'albergo+de'+Pitocchi+Giuseppe+Mosca&amp;search_field=search</field>
-	</doc>
+	</doc></add>

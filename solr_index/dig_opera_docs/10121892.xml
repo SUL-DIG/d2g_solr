@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10121892</field>
 		<field name="genre">Operas</field>
 		<field name="title">O homen das Mangas</field>
@@ -17,4 +17,4 @@
 		<field name="country">Brazil</field>
 		<field name="subgenre">Operetta</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+homen+das+Mangas+Tomás+del+Negro&amp;search_field=search</field>
-	</doc>
+	</doc></add>

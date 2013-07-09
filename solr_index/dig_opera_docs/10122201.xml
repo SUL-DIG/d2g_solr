@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10122201</field>
 		<field name="genre">Operas</field>
 		<field name="title">Sandhedens Hævn (The Revenge of Truth)</field>
@@ -17,4 +17,4 @@
 		<field name="country">Denmark</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sandhedens+Hævn+The+Revenge+of+Truth+Ib+Nørholm&amp;search_field=search</field>
-	</doc>
+	</doc></add>

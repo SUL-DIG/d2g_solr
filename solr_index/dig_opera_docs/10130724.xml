@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10130724</field>
 		<field name="genre">Operas</field>
 		<field name="title">Kuznets Vakula (Vakula the Smith)</field>
@@ -17,4 +17,4 @@
 		<field name="country">Russia</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kuznets+Vakula+Vakula+the+Smith+Pyotr+Il'yich+Tchaikovsky&amp;search_field=search</field>
-	</doc>
+	</doc></add>

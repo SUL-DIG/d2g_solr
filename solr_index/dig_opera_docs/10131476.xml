@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10131476</field>
 		<field name="genre">Operas</field>
 		<field name="title">Tragedyja, albo rzecz o Janie i Herodzie</field>
@@ -17,4 +17,4 @@
 		<field name="country">Poland</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tragedyja,+albo+rzecz+o+Janie+i+Herodzie+Romuald+Twardowski&amp;search_field=search</field>
-	</doc>
+	</doc></add>

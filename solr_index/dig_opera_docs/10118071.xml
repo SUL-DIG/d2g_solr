@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10118071</field>
 		<field name="genre">Operas</field>
 		<field name="title">Pomet, mestar od zenidbe</field>
@@ -17,4 +17,4 @@
 		<field name="country">Croatia</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pomet,+mestar+od+zenidbe+Ivo+Lhotka-Kalinski&amp;search_field=search</field>
-	</doc>
+	</doc></add>

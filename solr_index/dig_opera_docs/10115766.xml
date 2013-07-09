@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10115766</field>
 		<field name="genre">Operas</field>
 		<field name="title">Päiväkummun pidot (The Feast at Solhaug)</field>
@@ -17,4 +17,4 @@
 		<field name="country">Finland</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Päiväkummun+pidot+The+Feast+at+Solhaug+Emil+Kauppi&amp;search_field=search</field>
-	</doc>
+	</doc></add>

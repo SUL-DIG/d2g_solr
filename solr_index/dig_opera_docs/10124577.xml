@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10124577</field>
 		<field name="genre">Operas</field>
 		<field name="title">Le roi Don Pèdre</field>
@@ -17,4 +17,4 @@
 		<field name="country">France</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+roi+Don+Pèdre+Ferdinand+Poise&amp;search_field=search</field>
-	</doc>
+	</doc></add>

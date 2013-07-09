@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10113938</field>
 		<field name="genre">Operas</field>
 		<field name="title">Das Milchmädchen und die beiden Jäger</field>
@@ -17,4 +17,4 @@
 		<field name="country">Poland</field>
 		<field name="subgenre">Singspiel</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Milchmädchen+und+die+beiden+Jäger+Caspar+Hellmich&amp;search_field=search</field>
-	</doc>
+	</doc></add>
