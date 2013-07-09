@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10105822</field>
 		<field name="genre">Operas</field>
 		<field name="title">Kolébka (The Cradle)</field>
@@ -17,4 +17,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kolébka+The+Cradle+Osvald+Chlubna&amp;search_field=search</field>
-	</doc>
+	</doc></add>

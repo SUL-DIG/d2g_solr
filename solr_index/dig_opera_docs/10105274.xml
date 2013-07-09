@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10105274</field>
 		<field name="genre">Operas</field>
 		<field name="title">La zapatera prodigiosa</field>
@@ -17,4 +17,4 @@
 		<field name="country">Uruguay</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+zapatera+prodigiosa+Juan+José+Castro&amp;search_field=search</field>
-	</doc>
+	</doc></add>

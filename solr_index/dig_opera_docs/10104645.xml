@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10104645</field>
 		<field name="genre">Operas</field>
 		<field name="title">Gli eccessi dell'infedeltа</field>
@@ -16,4 +16,4 @@
 		<field name="country">Austria</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+eccessi+dell'infedeltа+Antonio+Caldara&amp;search_field=search</field>
-	</doc>
+	</doc></add>

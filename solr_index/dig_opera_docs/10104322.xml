@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10104322</field>
 		<field name="genre">Operas</field>
 		<field name="title">Spinette et Marini, ou La leçon conjugale</field>
@@ -16,4 +16,4 @@
 		<field name="country">France</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Spinette+et+Marini,+ou+La+leçon+conjugale+Antonio+Bartolomeo+Bruni&amp;search_field=search</field>
-	</doc>
+	</doc></add>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10105179</field>
 		<field name="genre">Operas</field>
 		<field name="title">Numa Pompilio II, re de Romani</field>
@@ -16,4 +16,4 @@
 		<field name="country">Portugal</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Numa+Pompilio+II,+re+de+Romani+João+de+Sousa+Carvalho&amp;search_field=search</field>
-	</doc>
+	</doc></add>

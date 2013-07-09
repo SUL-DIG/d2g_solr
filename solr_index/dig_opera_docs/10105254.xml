@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10105254</field>
 		<field name="genre">Operas</field>
 		<field name="title">Dans la rue</field>
@@ -16,4 +16,4 @@
 		<field name="country">France</field>
 		<field name="subgenre">Operetta</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dans+la+rue+Louis-Henri-Jean+Caspers&amp;search_field=search</field>
-	</doc>
+	</doc></add>
