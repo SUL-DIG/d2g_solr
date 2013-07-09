@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10107988</field>
 		<field name="genre">Operas</field>
 		<field name="title">Roberto Devereux, ossia Il conte di Essex</field>
@@ -17,4 +17,4 @@
 		<field name="country">Italy</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Roberto+Devereux,+ossia+Il+conte+di+Essex+Gaetano+Donizetti&amp;search_field=search</field>
-	</doc>
+	</doc></add>

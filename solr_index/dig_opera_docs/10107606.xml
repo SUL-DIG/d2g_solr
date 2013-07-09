@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10107606</field>
 		<field name="genre">Operas</field>
 		<field name="title">Théagène et Cariclée</field>
@@ -16,4 +16,4 @@
 		<field name="country">France</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Théagène+et+Cariclée+Henry+Desmarets&amp;search_field=search</field>
-	</doc>
+	</doc></add>

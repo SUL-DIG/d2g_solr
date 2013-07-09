@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10106863</field>
 		<field name="genre">Operas</field>
 		<field name="title">El criado de dos amos</field>
@@ -16,4 +16,4 @@
 		<field name="country">Spain</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+criado+de+dos+amos+Stefano+Cristiani&amp;search_field=search</field>
-	</doc>
+	</doc></add>
