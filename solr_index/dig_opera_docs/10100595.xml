@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10100595</field>
 		<field name="genre">Operas</field>
 		<field name="title">Nakazannïy za obman (Punished for Deception)</field>
@@ -15,4 +15,4 @@
 		
 		<field name="subgenre">Vaudeville</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nakazannïy+za+obman+Punished+for+Deception+Aleksandr+Aleksandrovich+Alyab'yev&amp;search_field=search</field>
-	</doc>
+	</doc></add>

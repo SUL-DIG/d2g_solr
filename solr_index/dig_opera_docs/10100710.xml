@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10100710</field>
 		<field name="genre">Operas</field>
 		<field name="title">Giovanna d'Arco, ossia La pulcella d'Orléans</field>
@@ -16,4 +16,4 @@
 		<field name="country">Italy</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giovanna+d'Arco,+ossia+La+pulcella+d'Orléans+Gaetano+Andreozzi&amp;search_field=search</field>
-	</doc>
+	</doc></add>

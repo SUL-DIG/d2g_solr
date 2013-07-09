@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10100160</field>
 		<field name="genre">Operas</field>
 		<field name="title">Magyar karácsony (Hungarian Christmas)</field>
@@ -16,4 +16,4 @@
 		<field name="country">Hungary</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Magyar+karácsony+Hungarian+Christmas+Jenö+Ádám&amp;search_field=search</field>
-	</doc>
+	</doc></add>

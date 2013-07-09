@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10100856</field>
 		<field name="genre">Operas</field>
 		<field name="title">Otto der Schütz, Landgraf zu Hessen</field>
@@ -16,4 +16,4 @@
 		<field name="country">Germany</field>
 		<field name="subgenre">Singspiel</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Otto+der+Schütz,+Landgraf+zu+Hessen+Ferdinand+d'Antoine&amp;search_field=search</field>
-	</doc>
+	</doc></add>
