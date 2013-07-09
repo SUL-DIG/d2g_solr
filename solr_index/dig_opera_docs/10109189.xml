@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10109189</field>
 		<field name="genre">Operas</field>
 		<field name="title">Augurio di vittorie alla Maestа di Filippo V</field>
@@ -15,4 +15,4 @@
 		<field name="country">Italy</field>
 		<field name="subgenre">Serenata</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Augurio+di+vittorie+alla+Maestа+di+Filippo+V+Giacomo+Facco&amp;search_field=search</field>
-	</doc>
+	</doc></add>

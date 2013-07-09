@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10108708</field>
 		<field name="genre">Operas</field>
 		<field name="title">Flickan i Ogat (The Girl in the Eye)</field>
@@ -17,4 +17,4 @@
 		<field name="country">Sweden</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Flickan+i+Ogat+The+Girl+in+the+Eye+Lars+Edlund&amp;search_field=search</field>
-	</doc>
+	</doc></add>

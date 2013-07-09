@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10108856</field>
 		<field name="genre">Operas</field>
 		<field name="title">Wieszczka Urzella, czyli To o sie damom podoba</field>
@@ -17,4 +17,4 @@
 		<field name="country">Poland</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wieszczka+Urzella,+czyli+To+o+sie+damom+podoba+Józef+Elsner&amp;search_field=search</field>
-	</doc>
+	</doc></add>

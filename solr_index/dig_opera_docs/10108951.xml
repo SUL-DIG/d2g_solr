@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10108951</field>
 		<field name="genre">Operas</field>
 		<field name="title">Hunyadi László</field>
@@ -17,4 +17,4 @@
 		<field name="country">Hungary</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hunyadi+László+Ferenc+Erkel&amp;search_field=search</field>
-	</doc>
+	</doc></add>

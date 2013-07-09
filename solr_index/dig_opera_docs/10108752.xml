@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10108752</field>
 		<field name="genre">Operas</field>
 		<field name="title">Dead Souls</field>
@@ -17,4 +17,4 @@
 		<field name="country">Israel</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dead+Souls+Abel+Ehrlich&amp;search_field=search</field>
-	</doc>
+	</doc></add>
