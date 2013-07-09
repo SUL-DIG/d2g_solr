@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10101880</field>
 		<field name="genre">Operas</field>
 		<field name="title">Legenda apie miele (The Legend of Love)</field>
@@ -17,4 +17,4 @@
 		<field name="country">Lithuania</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Legenda+apie+miele+The+Legend+of+Love+Vytautas+Barkauskas&amp;search_field=search</field>
-	</doc>
+	</doc></add>

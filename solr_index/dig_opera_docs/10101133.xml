@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10101133</field>
 		<field name="genre">Operas</field>
 		<field name="title">Ut Pictora Poesis! or The Enraged Musician</field>
@@ -16,4 +16,4 @@
 		<field name="country">United Kingdom</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ut+Pictora+Poesis!+or+The+Enraged+Musician+Samuel+Arnold&amp;search_field=search</field>
-	</doc>
+	</doc></add>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10101877</field>
 		<field name="genre">Operas</field>
 		<field name="title">W malym dworku (Widma nie klamia)</field>
@@ -17,4 +17,4 @@
 		<field name="country">Poland</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=W+malym+dworku+Widma+nie+klamia+Zbigniew+Bargielski&amp;search_field=search</field>
-	</doc>
+	</doc></add>
