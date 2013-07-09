@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10123651</field>
 		<field name="genre">Operas</field>
 		<field name="title">Die schwarze Maske</field>
@@ -17,4 +17,4 @@
 		<field name="country">Austria</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+schwarze+Maske+Krzysztof+Penderecki&amp;search_field=search</field>
-	</doc>
+	</doc></add>

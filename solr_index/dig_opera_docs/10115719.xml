@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10115719</field>
 		<field name="genre">Operas</field>
 		<field name="title">Bastien und Bastienne</field>
@@ -15,4 +15,4 @@
 		<field name="country">Austria</field>
 		<field name="subgenre">Operetta</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bastien+und+Bastienne+Ferdinand+Kauer&amp;search_field=search</field>
-	</doc>
+	</doc></add>

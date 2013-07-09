@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10112255</field>
 		<field name="genre">Operas</field>
 		<field name="title">À deux pas du bonheur</field>
@@ -16,4 +16,4 @@
 		<field name="country">France</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=À+deux+pas+du+bonheur+Dieudonné-Félix+Godefroid&amp;search_field=search</field>
-	</doc>
+	</doc></add>

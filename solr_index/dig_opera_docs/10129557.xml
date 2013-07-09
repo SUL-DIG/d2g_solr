@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10129557</field>
 		<field name="genre">Operas</field>
 		<field name="title">De Rat in de val</field>
@@ -16,4 +16,4 @@
 		<field name="country">Belgium</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=De+Rat+in+de+val+Charles+Joseph+Cerf]+Souweine&amp;search_field=search</field>
-	</doc>
+	</doc></add>

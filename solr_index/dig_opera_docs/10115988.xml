@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10115988</field>
 		<field name="genre">Operas</field>
 		<field name="title">Der Herr der Hann</field>
@@ -16,4 +16,4 @@
 		<field name="country">Germany</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Herr+der+Hann+Hermann+Kirchner&amp;search_field=search</field>
-	</doc>
+	</doc></add>

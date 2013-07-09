@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10120175</field>
 		<field name="genre">Operas</field>
 		<field name="title">Le chevalier allemagne</field>
@@ -17,4 +17,4 @@
 		<field name="country">Belgium</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+chevalier+allemagne+Charles+Mélant&amp;search_field=search</field>
-	</doc>
+	</doc></add>

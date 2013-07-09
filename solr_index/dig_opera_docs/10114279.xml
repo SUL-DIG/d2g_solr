@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10114279</field>
 		<field name="genre">Operas</field>
 		<field name="title">Tapu, or The Tale of a Maori Pah</field>
@@ -17,4 +17,4 @@
 		<field name="country">New Zealand</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tapu,+or+The+Tale+of+a+Maori+Pah+Alfred+Hill&amp;search_field=search</field>
-	</doc>
+	</doc></add>

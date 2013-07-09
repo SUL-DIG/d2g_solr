@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10114235</field>
 		<field name="genre">Operas</field>
 		<field name="title">Pizarro in Peru, or The Death of Rolla</field>
@@ -17,4 +17,4 @@
 		<field name="country">United States</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pizarro+in+Peru,+or+The+Death+of+Rolla+James+Hewitt&amp;search_field=search</field>
-	</doc>
+	</doc></add>

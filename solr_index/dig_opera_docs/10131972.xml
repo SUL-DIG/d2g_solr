@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10131972</field>
 		<field name="genre">Operas</field>
 		<field name="title">An fear a phós balbhán (The Silent Wife)</field>
@@ -17,4 +17,4 @@
 		<field name="country">Ireland</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=An+fear+a+phós+balbhán+The+Silent+Wife+Gerard+Victory&amp;search_field=search</field>
-	</doc>
+	</doc></add>

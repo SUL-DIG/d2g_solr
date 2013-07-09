@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10115630</field>
 		<field name="genre">Operas</field>
 		<field name="title">Saabastega kass (Puss in Boots)</field>
@@ -17,4 +17,4 @@
 		<field name="country">Estonia</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Saabastega+kass+Puss+in+Boots+Raimo+Kangro&amp;search_field=search</field>
-	</doc>
+	</doc></add>

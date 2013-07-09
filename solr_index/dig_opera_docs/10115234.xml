@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10115234</field>
 		<field name="genre">Operas</field>
 		<field name="title">Bratri Karamazovi (The Brothers Karamazov)</field>
@@ -17,4 +17,4 @@
 		<field name="country">Czech Republic</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bratri+Karamazovi+The+Brothers+Karamazov+Otakar+Jeremiás&amp;search_field=search</field>
-	</doc>
+	</doc></add>

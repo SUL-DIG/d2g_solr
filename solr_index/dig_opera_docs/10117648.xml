@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10117648</field>
 		<field name="genre">Operas</field>
 		<field name="title">Der abgedankte Offizier, oder Joseph der Gute</field>
@@ -16,4 +16,4 @@
 		<field name="country">Germany</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+abgedankte+Offizier,+oder+Joseph+der+Gute+Joseph+Lederer+-1&amp;search_field=search</field>
-	</doc>
+	</doc></add>

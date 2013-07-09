@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10120542</field>
 		<field name="genre">Operas</field>
 		<field name="title">Das Märchen vom König Allgold</field>
@@ -16,4 +16,4 @@
 		<field name="country">Germany</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Märchen+vom+König+Allgold+Gustav+Michaelis&amp;search_field=search</field>
-	</doc>
+	</doc></add>

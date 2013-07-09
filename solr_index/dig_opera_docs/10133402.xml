@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10133402</field>
 		<field name="genre">Operas</field>
 		<field name="title">Zalas dzirnavas (The Green Mill)</field>
@@ -17,4 +17,4 @@
 		<field name="country">Latvia</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zalas+dzirnavas+The+Green+Mill+Margers+Zarins&amp;search_field=search</field>
-	</doc>
+	</doc></add>

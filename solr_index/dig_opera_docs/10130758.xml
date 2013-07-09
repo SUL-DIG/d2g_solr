@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10130758</field>
 		<field name="genre">Operas</field>
 		<field name="title">Flavius Bertaridus, König der Langobrden</field>
@@ -17,4 +17,4 @@
 		<field name="country">Germany</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Flavius+Bertaridus,+König+der+Langobrden+Georg+Philipp+Telemann&amp;search_field=search</field>
-	</doc>
+	</doc></add>

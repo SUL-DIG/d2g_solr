@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10114124</field>
 		<field name="genre">Operas</field>
 		<field name="title">À quelle heure s'amuse-t-on?</field>
@@ -16,4 +16,4 @@
 		<field name="country">France</field>
 		<field name="subgenre">Operetta</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=À+quelle+heure+s'amuse-t-on?+Victor+Herpin&amp;search_field=search</field>
-	</doc>
+	</doc></add>

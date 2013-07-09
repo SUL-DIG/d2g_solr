@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10115331</field>
 		<field name="genre">Operas</field>
 		<field name="title">Cerere placata</field>
@@ -16,4 +16,4 @@
 		<field name="country">Italy</field>
 		<field name="subgenre">Serenata</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cerere+placata+Niccolò+Jommelli&amp;search_field=search</field>
-	</doc>
+	</doc></add>

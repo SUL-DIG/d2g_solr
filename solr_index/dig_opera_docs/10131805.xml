@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10131805</field>
 		<field name="genre">Operas</field>
 		<field name="title">Sir John in Love</field>
@@ -17,4 +17,4 @@
 		<field name="country">United Kingdom</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sir+John+in+Love+Ralph+Vaughan+Williams&amp;search_field=search</field>
-	</doc>
+	</doc></add>

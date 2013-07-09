@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10130431</field>
 		<field name="genre">Operas</field>
 		<field name="title">A Bolond (The Simpleton)</field>
@@ -17,4 +17,4 @@
 		<field name="country">Hungary</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Bolond+The+Simpleton+Béla+Szábados&amp;search_field=search</field>
-	</doc>
+	</doc></add>

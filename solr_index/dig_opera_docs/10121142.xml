@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10121142</field>
 		<field name="genre">Operas</field>
 		<field name="title">Romeo e Giulietta</field>
@@ -17,4 +17,4 @@
 		<field name="country">Mexico</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Romeo+e+Giulietta+Melesio+Morales&amp;search_field=search</field>
-	</doc>
+	</doc></add>

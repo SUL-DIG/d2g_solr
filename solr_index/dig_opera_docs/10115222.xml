@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10115222</field>
 		<field name="genre">Operas</field>
 		<field name="title">Put oko zemlje za osamdeset dana</field>
@@ -17,4 +17,4 @@
 		<field name="country">Serbia</field>
 		<field name="subgenre">Singspiel</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Put+oko+zemlje+za+osamdeset+dana+Davorin+Jenko&amp;search_field=search</field>
-	</doc>
+	</doc></add>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10125341</field>
 		<field name="genre">Operas</field>
 		<field name="title">Sudenmorsian (The Wolf's Bride)</field>
@@ -17,4 +17,4 @@
 		<field name="country">Italy</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sudenmorsian+The+Wolf's+Bride+Tauno+Pylkkänen&amp;search_field=search</field>
-	</doc>
+	</doc></add>

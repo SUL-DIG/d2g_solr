@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10130076</field>
 		<field name="genre">Operas</field>
 		<field name="title">Der Schneider von Kabul</field>
@@ -17,4 +17,4 @@
 		<field name="country">Czech Republic</field>
 		<field name="subgenre">Operetta</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Schneider+von+Kabul+Anton+Maria+Storch&amp;search_field=search</field>
-	</doc>
+	</doc></add>

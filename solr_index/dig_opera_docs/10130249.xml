@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10130249</field>
 		<field name="genre">Operas</field>
 		<field name="title">Der unglücklich-fallende Sejanus</field>
@@ -17,4 +17,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+unglücklich-fallende+Sejanus+Nicolaus+Adam+Strungk&amp;search_field=search</field>
-	</doc>
+	</doc></add>

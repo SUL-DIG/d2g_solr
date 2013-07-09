@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10125338</field>
 		<field name="genre">Operas</field>
 		<field name="title">Mare ja hänen poikansa (Mare and her Son)</field>
@@ -17,4 +17,4 @@
 		<field name="country">Finland</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mare+ja+hänen+poikansa+Mare+and+her+Son+Tauno+Pylkkänen&amp;search_field=search</field>
-	</doc>
+	</doc></add>

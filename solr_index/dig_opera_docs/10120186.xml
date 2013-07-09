@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10120186</field>
 		<field name="genre">Operas</field>
 		<field name="title">Por amor y por lealtad recobrar la majestad</field>
@@ -17,4 +17,4 @@
 		<field name="country">Spain</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Por+amor+y+por+lealtad+recobrar+la+majestad+Giovanni+Battista+Mele&amp;search_field=search</field>
-	</doc>
+	</doc></add>
