@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10200599</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Christi Wunder-Wercke bey den Schwachgläubigen</field>
@@ -20,4 +20,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Christi+Wunder-Wercke+bey+den+Schwachgläubigen+Johann+Mattheson&amp;search_field=search</field>
-	</doc>
+	</doc></add>

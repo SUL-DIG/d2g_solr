@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203695</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">I sacri sponsali di Maria con San Giuseppe</field>
@@ -19,4 +19,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+sacri+sponsali+di+Maria+con+San+Giuseppe+Paolo+Magni&amp;search_field=search</field>
-	</doc>
+	</doc></add>

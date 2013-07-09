@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10201887</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Historie des Leidens und Sterbens unsers Herrn Jesu Christi nach dem Evangelisten St. Marcum</field>
@@ -19,4 +19,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Historie+des+Leidens+und+Sterbens+unsers+Herrn+Jesu+Christi+nach+dem+Evangelisten+St.+Marcum+Marco+Giuseppe+Peranda&amp;search_field=search</field>
-	</doc>
+	</doc></add>

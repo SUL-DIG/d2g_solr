@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10201445</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Le gare della potenza e dell'amore nella furiosa assunzione di Maria Vergine</field>
@@ -21,4 +21,4 @@
 		<field name="feastDay">15</field>
 		<field name="feastDate">August 15</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+gare+della+potenza+e+dell'amore+nella+furiosa+assunzione+di+Maria+Vergine+Bernardino+Ottani&amp;search_field=search</field>
-	</doc>
+	</doc></add>

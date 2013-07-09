@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10202074</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Isacco figura del Redentore</field>
@@ -20,4 +20,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Isacco+figura+del+Redentore+Angelo+Tarchi&amp;search_field=search</field>
-	</doc>
+	</doc></add>

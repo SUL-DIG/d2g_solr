@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10204113</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Il santo Abele di Boemia, ovvero Il glorioso martirio di San Wenceslao, signor di detto regno</field>
@@ -20,4 +20,4 @@
 		<field name="feastDay">28</field>
 		<field name="feastDate">September 28</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+santo+Abele+di+Boemia,+ovvero+Il+glorioso+martirio+di+San+Wenceslao,+signor+di+detto+regno+Salvatore+Ignacio+Pinti&amp;search_field=search</field>
-	</doc>
+	</doc></add>

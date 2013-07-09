@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10204694</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Il trittico francescano</field>
@@ -21,4 +21,4 @@
 		<field name="feastDay">4</field>
 		<field name="feastDate">October 4</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trittico+francescano+Licinio+Refice&amp;search_field=search</field>
-	</doc>
+	</doc></add>

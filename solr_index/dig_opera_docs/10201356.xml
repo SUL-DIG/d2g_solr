@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10201356</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Föltámadott a tengger (In Fury rose the Ocean)</field>
@@ -20,4 +20,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Föltámadott+a+tengger+(In+Fury+rose+the+Ocean)+Ferenc+Szabó&amp;search_field=search</field>
-	</doc>
+	</doc></add>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10201760</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Gott und die Natur</field>
@@ -20,4 +20,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gott+und+die+Natur+Giacomo+Meyerbeer&amp;search_field=search</field>
-	</doc>
+	</doc></add>

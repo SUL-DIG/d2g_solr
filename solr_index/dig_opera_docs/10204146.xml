@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10204146</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Sant' Ignazio de Loyola</field>
@@ -20,4 +20,4 @@
 		<field name="feastDay">31</field>
 		<field name="feastDate">July 31</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sant'+Ignazio+de+Loyola+Loreto+Vittori&amp;search_field=search</field>
-	</doc>
+	</doc></add>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10204697</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">The Triumph of Faith (Die Kraft des Glaubens)</field>
@@ -21,4 +21,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Triumph+of+Faith+(Die+Kraft+des+Glaubens)+August+Ferdinand+Häser&amp;search_field=search</field>
-	</doc>
+	</doc></add>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10200344</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Il battesimo di San Valeriano martire</field>
@@ -21,4 +21,4 @@
 		<field name="feastDay">15</field>
 		<field name="feastDate">December 15</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+battesimo+di+San+Valeriano+martire+Alfonso+Paino&amp;search_field=search</field>
-	</doc>
+	</doc></add>

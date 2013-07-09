@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10204732</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Unio mystica</field>
@@ -22,4 +22,4 @@
 		<field name="feastDay">15</field>
 		<field name="feastDate">October 15</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Unio+mystica+Walter+Gieseler&amp;search_field=search</field>
-	</doc>
+	</doc></add>
