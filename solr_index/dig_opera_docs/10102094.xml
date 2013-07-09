@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10102094</field>
 		<field name="genre">Operas</field>
 		<field name="title">Wiezienie Jana Kazimierza we Francji</field>
@@ -15,4 +15,4 @@
 		<field name="country">Ukraine</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wiezienie+Jana+Kazimierza+we+Francji+József+Bazny&amp;search_field=search</field>
-	</doc>
+	</doc></add>

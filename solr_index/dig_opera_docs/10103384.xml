@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10103384</field>
 		<field name="genre">Operas</field>
 		<field name="title">Das Spiel von der schönen Lilofee</field>
@@ -16,4 +16,4 @@
 		<field name="country">Germany</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Spiel+von+der+schönen+Lilofee+Walter+Böhme&amp;search_field=search</field>
-	</doc>
+	</doc></add>

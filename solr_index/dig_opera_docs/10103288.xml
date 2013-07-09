@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10103288</field>
 		<field name="genre">Operas</field>
 		<field name="title">Karl II, oder Die Flucht nach Frankreich</field>
@@ -16,4 +16,4 @@
 		<field name="country">Russia</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Karl+II,+oder+Die+Flucht+nach+Frankreich+Carl+Blum&amp;search_field=search</field>
-	</doc>
+	</doc></add>

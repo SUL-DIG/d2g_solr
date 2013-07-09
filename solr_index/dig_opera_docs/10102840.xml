@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10102840</field>
 		<field name="genre">Operas</field>
 		<field name="title">La villanella fatta contesa per amore</field>
@@ -15,4 +15,4 @@
 		<field name="country">Austria</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+villanella+fatta+contesa+per+amore+Johann+Ignaz+Beyer&amp;search_field=search</field>
-	</doc>
+	</doc></add>

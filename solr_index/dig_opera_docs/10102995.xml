@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10102995</field>
 		<field name="genre">Operas</field>
 		<field name="title">Kolokola Rosiy (The Russina Bell)</field>
@@ -17,4 +17,4 @@
 		<field name="country">Ukraine</field>
 		<field name="subgenre">Operetta</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kolokola+Rosiy+The+Russina+Bell+Oleksandr+Ivanovych+Bilash&amp;search_field=search</field>
-	</doc>
+	</doc></add>
