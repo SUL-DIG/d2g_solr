@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10110546</field>
 		<field name="genre">Operas</field>
 		<field name="title">Prinzessin Herzensgut und Hexe Bitterbös</field>
@@ -16,4 +16,4 @@
 		<field name="country">Switzerland</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prinzessin+Herzensgut+und+Hexe+Bitterbös+Karl+Fridrich&amp;search_field=search</field>
-	</doc>
+	</doc></add>

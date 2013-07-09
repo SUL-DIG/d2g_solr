@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10110233</field>
 		<field name="genre">Operas</field>
 		<field name="title">Wie Tiere des Waldes</field>
@@ -17,4 +17,4 @@
 		<field name="country">Germany</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wie+Tiere+des+Waldes+Jean+Kurt+Forest&amp;search_field=search</field>
-	</doc>
+	</doc></add>

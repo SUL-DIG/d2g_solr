@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10111071</field>
 		<field name="genre">Operas</field>
 		<field name="title">Un buco nella porta</field>
@@ -16,4 +16,4 @@
 		<field name="country">Italy</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+buco+nella+porta+Francesco+Gardi&amp;search_field=search</field>
-	</doc>
+	</doc></add>

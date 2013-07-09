@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10110081</field>
 		<field name="genre">Operas</field>
 		<field name="title">Uncle Tom's Cabin</field>
@@ -17,4 +17,4 @@
 		<field name="country">United States</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Uncle+Tom's+Cabin+William+James+Robjohn]+Caryl+Florio&amp;search_field=search</field>
-	</doc>
+	</doc></add>

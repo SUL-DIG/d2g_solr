@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10110498</field>
 		<field name="genre">Operas</field>
 		<field name="title">Bespridannitsa (The Bride without a Dowry)</field>
@@ -16,4 +16,4 @@
 		<field name="country">Russia</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bespridannitsa+The+Bride+without+a+Dowry+Daniil+Grigor'yevich+Frenkel&amp;search_field=search</field>
-	</doc>
+	</doc></add>
