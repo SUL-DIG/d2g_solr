@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10113547</field>
 		<field name="genre">Operas</field>
 		<field name="title">La partie de trictrac, ou La belle-mère</field>
@@ -15,4 +15,4 @@
 		<field name="country">Belgium</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+partie+de+trictrac,+ou+La+belle-mère+Charles-Louis+Hanssens&amp;search_field=search</field>
-	</doc>
+	</doc></add>

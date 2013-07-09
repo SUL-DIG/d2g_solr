@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10127973</field>
 		<field name="genre">Operas</field>
 		<field name="title">La gloria di primavera</field>
@@ -16,4 +16,4 @@
 		<field name="country">Italy</field>
 		<field name="subgenre">Serenata</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+gloria+di+primavera+Alessandro+Scarlatti&amp;search_field=search</field>
-	</doc>
+	</doc></add>

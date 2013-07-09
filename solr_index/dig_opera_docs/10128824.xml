@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10128824</field>
 		<field name="genre">Operas</field>
 		<field name="title">Jery und Bätely</field>
@@ -16,4 +16,4 @@
 		<field name="country">Germany</field>
 		<field name="subgenre">Singspiel</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jery+und+Bätely+Karl+Siegmund+Seckendorff&amp;search_field=search</field>
-	</doc>
+	</doc></add>

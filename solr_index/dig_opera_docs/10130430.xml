@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10130430</field>
 		<field name="genre">Operas</field>
 		<field name="title">La dot d'Isabelle</field>
@@ -16,4 +16,4 @@
 		<field name="country">Belgium</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+dot+d'Isabelle+Alexander+van+Synghel&amp;search_field=search</field>
-	</doc>
+	</doc></add>

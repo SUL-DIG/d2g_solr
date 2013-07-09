@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10121576</field>
 		<field name="genre">Operas</field>
 		<field name="title">Je grösser der Schelm, je grösser das Glück</field>
@@ -15,4 +15,4 @@
 		<field name="country">Austria</field>
 		<field name="subgenre">Operetta</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Je+grösser+der+Schelm,+je+grösser+das+Glück+Wenzel+Müller&amp;search_field=search</field>
-	</doc>
+	</doc></add>
