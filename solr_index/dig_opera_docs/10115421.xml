@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10115421</field>
 		<field name="genre">Operas</field>
 		<field name="title">Gabrielle d'Estrées</field>
@@ -16,4 +16,4 @@
 		<field name="country">Austria</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gabrielle+d'Estrées+Georg+Jordan&amp;search_field=search</field>
-	</doc>
+	</doc></add>

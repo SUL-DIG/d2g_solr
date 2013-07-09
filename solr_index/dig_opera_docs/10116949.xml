@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10116949</field>
 		<field name="genre">Operas</field>
 		<field name="title">Eugénie et Linval, ou Le mauvais fils</field>
@@ -16,4 +16,4 @@
 		<field name="country">France</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eugénie+et+Linval,+ou+Le+mauvais+fils+Ludwig+Wenzel+Lachnith&amp;search_field=search</field>
-	</doc>
+	</doc></add>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10114562</field>
 		<field name="genre">Operas</field>
 		<field name="title">Die Verwechslung, oder Der Teufel in allen Ecken</field>
@@ -16,4 +16,4 @@
 		<field name="country">Czech Republic</field>
 		<field name="subgenre">Singspiel</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Verwechslung,+oder+Der+Teufel+in+allen+Ecken+Ondrej+Frantisek+Holý&amp;search_field=search</field>
-	</doc>
+	</doc></add>

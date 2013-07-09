@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10125822</field>
 		<field name="genre">Operas</field>
 		<field name="title">Donna Maria Infantin von Spanien</field>
@@ -16,4 +16,4 @@
 		<field name="country">Germany</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Donna+Maria+Infantin+von+Spanien+Gustave+Armand+Henri+Comte+de+Reiset&amp;search_field=search</field>
-	</doc>
+	</doc></add>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10128062</field>
 		<field name="genre">Operas</field>
 		<field name="title">Dove è amore è gelosia</field>
@@ -16,4 +16,4 @@
 		<field name="country">Austria</field>
 		<field name="subgenre">Intermezzo</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dove+è+amore+è+gelosia+Giuseppe+Scarlatti&amp;search_field=search</field>
-	</doc>
+	</doc></add>

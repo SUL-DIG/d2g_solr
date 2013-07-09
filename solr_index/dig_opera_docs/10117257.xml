@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10117257</field>
 		<field name="genre">Operas</field>
 		<field name="title">Hamet and Zelma</field>
@@ -15,4 +15,4 @@
 		<field name="country">Ireland</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hamet+and+Zelma+__+Lanza&amp;search_field=search</field>
-	</doc>
+	</doc></add>
