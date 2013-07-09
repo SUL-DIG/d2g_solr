@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10112920</field>
 		<field name="genre">Operas</field>
 		<field name="title">Um homem só</field>
@@ -16,4 +16,4 @@
 		<field name="country">Brazil</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Um+homem+só+Camargo+Guarnieri&amp;search_field=search</field>
-	</doc>
+	</doc></add>

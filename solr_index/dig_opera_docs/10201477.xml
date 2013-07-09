@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10201477</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Il genere humano in catena liberato da Nostra Signora</field>
@@ -19,4 +19,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+genere+humano+in+catena+liberato+da+Nostra+Signora+Francesco+Feo&amp;search_field=search</field>
-	</doc>
+	</doc></add>

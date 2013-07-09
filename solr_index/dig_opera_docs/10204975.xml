@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10204975</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Die Zurückkunft des Erlösers zum Weltgericht</field>
@@ -19,4 +19,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Zurückkunft+des+Erlösers+zum+Weltgericht+Johann+Christoph+Kühnau&amp;search_field=search</field>
-	</doc>
+	</doc></add>

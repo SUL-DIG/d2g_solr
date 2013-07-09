@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10132899</field>
 		<field name="genre">Operas</field>
 		<field name="title">Zoribal, oder Ein neuer Don Quixotte</field>
@@ -16,4 +16,4 @@
 		<field name="country">Germany</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zoribal,+oder+Ein+neuer+Don+Quixotte+Friedrich+Wick&amp;search_field=search</field>
-	</doc>
+	</doc></add>

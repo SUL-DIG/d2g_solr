@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10201909</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">L'humanitа esaltata nell'incarnatione del Verbo Eterno</field>
@@ -20,4 +20,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'humanitа+esaltata+nell'incarnatione+del+Verbo+Eterno+Bernardo+Bertocchi&amp;search_field=search</field>
-	</doc>
+	</doc></add>

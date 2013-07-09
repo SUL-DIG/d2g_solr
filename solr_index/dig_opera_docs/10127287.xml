@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10127287</field>
 		<field name="genre">Operas</field>
 		<field name="title">Taivaaseen menijä (Going to Heaven)</field>
@@ -16,4 +16,4 @@
 		<field name="country">Finland</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Taivaaseen+menijä+Going+to+Heaven+Lauri+Saikkola&amp;search_field=search</field>
-	</doc>
+	</doc></add>

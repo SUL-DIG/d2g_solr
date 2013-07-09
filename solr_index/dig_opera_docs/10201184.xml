@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10201184</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">L'esiglio di San Silverio papa e martire di Frusinone</field>
@@ -21,4 +21,4 @@
 		<field name="feastDay">31</field>
 		<field name="feastDate">December 31</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'esiglio+di+San+Silverio+papa+e+martire+di+Frusinone+Girolamo+Galavotti&amp;search_field=search</field>
-	</doc>
+	</doc></add>

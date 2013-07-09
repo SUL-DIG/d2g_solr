@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10201794</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Das Halleluja der Schöpfung</field>
@@ -21,4 +21,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Halleluja+der+Schöpfung+Friedrich+Ludwig+Aemilius+Kunzen&amp;search_field=search</field>
-	</doc>
+	</doc></add>

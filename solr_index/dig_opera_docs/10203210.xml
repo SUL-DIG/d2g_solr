@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203210</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Passion Domini Nostri Jesu Christi secundem Joannem</field>
@@ -19,4 +19,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Passion+Domini+Nostri+Jesu+Christi+secundem+Joannem+Kjell+Mørk+Karlsen&amp;search_field=search</field>
-	</doc>
+	</doc></add>

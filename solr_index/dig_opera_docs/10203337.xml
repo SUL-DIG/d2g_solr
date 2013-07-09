@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203337</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">La penitanza gloriosa nella conversione di Santa Maria Egiziana</field>
@@ -20,4 +20,4 @@
 		<field name="feastDay">1</field>
 		<field name="feastDate">April 1</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+penitanza+gloriosa+nella+conversione+di+Santa+Maria+Egiziana+Francesco+Gasparini&amp;search_field=search</field>
-	</doc>
+	</doc></add>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10200644</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Il cielo, la terra, l'abisso prostati al nome ineffabile di Giesù</field>
@@ -20,4 +20,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+cielo,+la+terra,+l'abisso+prostati+al+nome+ineffabile+di+Giesù+Giuseppe+Fabbrini&amp;search_field=search</field>
-	</doc>
+	</doc></add>

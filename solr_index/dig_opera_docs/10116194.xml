@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10116194</field>
 		<field name="genre">Operas</field>
 		<field name="title">Theseus und Helene</field>
@@ -15,4 +15,4 @@
 		<field name="country">Germany</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Theseus+und+Helene+Johann+Augustin+Kobelius&amp;search_field=search</field>
-	</doc>
+	</doc></add>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203053</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">The Omnipresence of the Deity</field>
@@ -20,4 +20,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Omnipresence+of+the+Deity+John+Barnett&amp;search_field=search</field>
-	</doc>
+	</doc></add>

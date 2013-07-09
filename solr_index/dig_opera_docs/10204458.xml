@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10204458</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">La tempesta de' dolori</field>
@@ -19,4 +19,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+tempesta+de'+dolori+Jean+Joseph+Fiocco&amp;search_field=search</field>
-	</doc>
+	</doc></add>

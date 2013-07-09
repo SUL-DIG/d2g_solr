@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10204598</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">I trionfi della fede nel martirio del gloriosissimo San Paolino primo vescovo di Lucca</field>
@@ -21,4 +21,4 @@
 		<field name="feastDay">12</field>
 		<field name="feastDate">July 12</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+trionfi+della+fede+nel+martirio+del+gloriosissimo+San+Paolino+primo+vescovo+di+Lucca+Giovanni+Lorenzo+Gregori&amp;search_field=search</field>
-	</doc>
+	</doc></add>

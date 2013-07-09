@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10126826</field>
 		<field name="genre">Operas</field>
 		<field name="title">Wesele (The Wedding)</field>
@@ -16,4 +16,4 @@
 		<field name="country">Poland</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wesele+The+Wedding+Stefan+Rostworowski&amp;search_field=search</field>
-	</doc>
+	</doc></add>

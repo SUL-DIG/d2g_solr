@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203067</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Oratorio a la colocacion de la gloriosa Virgen, y Proto-Martyr Santa Tecla</field>
@@ -19,4 +19,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oratorio+a+la+colocacion+de+la+gloriosa+Virgen,+y+Proto-Martyr+Santa+Tecla+Francisco+Hernández+de+Illana&amp;search_field=search</field>
-	</doc>
+	</doc></add>

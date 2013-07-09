@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10200944</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">The Deliverance of Israel from Babylon</field>
@@ -20,4 +20,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Deliverance+of+Israel+from+Babylon+William+Jackson&amp;search_field=search</field>
-	</doc>
+	</doc></add>

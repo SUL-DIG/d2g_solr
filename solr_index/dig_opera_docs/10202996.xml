@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10202996</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Notre-Dame de la mer</field>
@@ -20,4 +20,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Notre-Dame+de+la+mer+Théodore+Dubois&amp;search_field=search</field>
-	</doc>
+	</doc></add>

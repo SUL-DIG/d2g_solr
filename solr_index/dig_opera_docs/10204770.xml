@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10204770</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Der Venus süss und herbe Früchte</field>
@@ -20,4 +20,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Venus+süss+und+herbe+Früchte+Max+Georg+Baumann&amp;search_field=search</field>
-	</doc>
+	</doc></add>

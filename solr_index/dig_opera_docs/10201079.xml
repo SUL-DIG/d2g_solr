@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10201079</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">The Ecstasy of St. Francis</field>
@@ -21,4 +21,4 @@
 		<field name="feastDay">4</field>
 		<field name="feastDate">October 4</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Ecstasy+of+St.+Francis+Gerald+Christoff&amp;search_field=search</field>
-	</doc>
+	</doc></add>

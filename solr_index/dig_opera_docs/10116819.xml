@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10116819</field>
 		<field name="genre">Operas</field>
 		<field name="title">Voices for a Mirror</field>
@@ -16,4 +16,4 @@
 		<field name="country">United States</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Voices+for+a+Mirror+Meyer+Kupferman&amp;search_field=search</field>
-	</doc>
+	</doc></add>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10119554</field>
 		<field name="genre">Operas</field>
 		<field name="title">Suuren joen laulu (The Song of the Great River)</field>
@@ -16,4 +16,4 @@
 		<field name="country">Finland</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Suuren+joen+laulu+The+Song+of+the+Great+River+Tauno+Marttinen&amp;search_field=search</field>
-	</doc>
+	</doc></add>

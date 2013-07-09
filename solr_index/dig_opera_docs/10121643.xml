@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10121643</field>
 		<field name="genre">Operas</field>
 		<field name="title">Velikaya druzhba (The Great Friendship)</field>
@@ -16,4 +16,4 @@
 		<field name="country">Ukraine</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Velikaya+druzhba+The+Great+Friendship+Vano+Il'ich+Muradeli&amp;search_field=search</field>
-	</doc>
+	</doc></add>

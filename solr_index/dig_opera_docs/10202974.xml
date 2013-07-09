@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10202974</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">New Song!</field>
@@ -19,4 +19,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=New+Song!+Pauls+Dambis&amp;search_field=search</field>
-	</doc>
+	</doc></add>

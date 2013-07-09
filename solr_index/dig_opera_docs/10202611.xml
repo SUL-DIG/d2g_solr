@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10202611</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Maria Magdalena</field>
@@ -21,4 +21,4 @@
 		<field name="feastDay">22</field>
 		<field name="feastDate">July 22</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maria+Magdalena+Baldassare+Galuppi&amp;search_field=search</field>
-	</doc>
+	</doc></add>
