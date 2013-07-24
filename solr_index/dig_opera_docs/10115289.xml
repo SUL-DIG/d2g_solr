@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
-		<field name="id">10115289</field>
-		<field name="genre">Operas</field>
-		<field name="title">East River Bridge</field>
-		<field name="titleSort">East River Bridge</field>
-		<field name="composer">Dean Johnson</field>
-		<field name="composerSort">Johnson, Dean</field>
-		<field name="year">1983</field>
-		<field name="date">1983</field>
-		
-		
-		<field name="theater">Brooklyn College Opera Theater</field>
-		<field name="city">New York</field>
-		<field name="region">New York</field>
-		<field name="country">United States</field>
-		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=East+River+Bridge+Dean+Johnson&amp;search_field=search</field>
-	</doc></add>
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115289</field>
+<field name="genre">Operas</field>
+<field name="title">East River Bridge</field>
+<field name="titleSort">East River Bridge</field>
+<field name="composer">Dean Johnson</field>
+<field name="composerSort">Johnson, Dean</field>
+<field name="year">1983</field>
+<field name="date">1983theaterBrooklyn College Opera Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="subgenre"/>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=East+River+Bridge+Dean+Johnson&amp;search_field=search</field>
+<field name="revisions"></field></doc>
+</add>
