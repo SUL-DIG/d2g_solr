@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
-		<field name="id">10130946</field>
-		<field name="genre">Operas</field>
-		<field name="title">Aleida van Holland</field>
-		<field name="titleSort">Aleida van Holland</field>
-		<field name="composer">Willem Frans Thooft</field>
-		<field name="composerSort">Thooft, Willem Frans</field>
-		<field name="year">1866</field>
-		<field name="date">1866</field>
-		
-		
-		<field name="theater">Hoogduitse Opera</field>
-		<field name="city">Rotterdam</field>
-		<field name="region">Suid Holland</field>
-		<field name="country">Netherlands</field>
-		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aleida+van+Holland+Willem+Frans+Thooft&amp;search_field=search</field>
-	</doc></add>
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130946</field>
+<field name="genre">Operas</field>
+<field name="title">Aleida van Holland</field>
+<field name="titleSort">Aleida van Holland</field>
+<field name="composer">Willem Frans Thooft</field>
+<field name="composerSort">Thooft, Willem Frans</field>
+<field name="year">1866</field>
+<field name="date">1866theaterHoogduitse Opera</field>
+<field name="city">Rotterdam</field>
+<field name="region">Suid Holland</field>
+<field name="country">Netherlands</field>
+<field name="subgenre"/>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aleida+van+Holland+Willem+Frans+Thooft&amp;search_field=search</field>
+<field name="revisions"></field></doc>
+</add>
