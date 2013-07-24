@@ -1,19 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
-		<field name="id">10100926</field>
-		<field name="genre">Operas</field>
-		<field name="title">Mitridate</field>
-		<field name="titleSort">Mitridate</field>
-		<field name="composer">Francesco Araia</field>
-		<field name="composerSort">Araia, Francesco</field>
-		<field name="year">1747</field>
-		<field name="date">1747</field>
-		<field name="librettist">Giuseppe Bonecchi</field>
-		<field name="librettistSort">Bonecchi, Giuseppe</field>
-		
-		<field name="theater">Court</field>
-		<field name="city">St. Petersburg</field>
-		
-		<field name="country">Russia</field>
-		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mitridate+Francesco+Araia&amp;search_field=search</field>
-	</doc></add>
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100926</field>
+<field name="genre">Operas</field>
+<field name="title">Mitri</field>
+<field name="date"/>
+<field name="titleSort">Mitri</field>
+<field name="date"/>
+<field name="composer">Francesco Araia</field>
+<field name="composerSort">Araia, Francesco</field>
+<field name="year">1747</field>
+<field name="date">1747</field>
+<field name="librettist">Giuseppe Bonecchi</field>
+<field name="librettistSort">Bonecchi, Giuseppe</field>
+<field name="theater">Court</field>
+<field name="city">St. Petersburg</field>
+<field name="region"/>
+<field name="country">Russia</field>
+<field name="subgenre"/>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mitridate+Francesco+Araia&amp;search_field=search</field>
+<field name="revisions"></field></doc>
+</add>

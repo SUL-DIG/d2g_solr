@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
-		<field name="id">10103520</field>
-		<field name="genre">Operas</field>
-		<field name="title">Marco Botzaris</field>
-		<field name="titleSort">Marco Botzaris</field>
-		<field name="composer">Riccardo Boniccioli</field>
-		<field name="composerSort">Boniccioli, Riccardo</field>
-		<field name="year">1884</field>
-		<field name="date">1884</field>
-		
-		
-		<field name="theater">Teatro de la Alhambra</field>
-		<field name="city">Madrid</field>
-		<field name="region">Madrid</field>
-		<field name="country">Spain</field>
-		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marco+Botzaris+Riccardo+Boniccioli&amp;search_field=search</field>
-	</doc></add>
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103520</field>
+<field name="genre">Operas</field>
+<field name="title">Marco Botzaris</field>
+<field name="titleSort">Marco Botzaris</field>
+<field name="composer">Riccardo Boniccioli</field>
+<field name="composerSort">Boniccioli, Riccardo</field>
+<field name="year">1884</field>
+<field name="date">1884theaterTeatro de la Alhambra</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="subgenre"/>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marco+Botzaris+Riccardo+Boniccioli&amp;search_field=search</field>
+<field name="revisions"></field></doc>
+</add>
