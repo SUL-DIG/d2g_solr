@@ -21,4 +21,4 @@
 		<field name="feastDay">4</field>
 		<field name="feastDate">May 4</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fede+trionfante+per+il+martirio+del+glorioso+San+Floro+Giovanni+Battista+Vitali&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

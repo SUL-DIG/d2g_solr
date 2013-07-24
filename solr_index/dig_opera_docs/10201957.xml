@@ -20,4 +20,4 @@
 		<field name="feastDay">12</field>
 		<field name="feastDate">February 12</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'impresa+del+divino+amore+nella+morte+di+San+Modestino,+per+la+festivitа+della+sua+traslazione+Michele+de+Falco&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

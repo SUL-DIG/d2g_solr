@@ -20,4 +20,4 @@
 		<field name="feastDay">13</field>
 		<field name="feastDate">June 13</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=David+trionfante+figura+di+San+Antonio+de+Padua+Pedro+Antonío+Monlleó&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

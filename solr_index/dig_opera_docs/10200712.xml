@@ -21,4 +21,4 @@
 		<field name="feastDay">17</field>
 		<field name="feastDate">October 17</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+conversione+di+Sant'+Ignazio+Karl+Louis+Peter+Grua&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

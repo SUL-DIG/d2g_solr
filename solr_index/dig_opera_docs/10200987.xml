@@ -19,4 +19,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dies+irae:+Oratorium+ob+memoriam+in+Perniciei+castris+in+Oswiecim+necatorum+inexstinguibilem+reddendam+Krzysztof+Penderecki&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

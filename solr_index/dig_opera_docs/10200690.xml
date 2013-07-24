@@ -20,4 +20,4 @@
 		<field name="feastDay">21</field>
 		<field name="feastDate">October 21</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Conversio+glorioso+in+vita+Divinae+Ursulae+Carlo+Francesco+Pollarolo&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

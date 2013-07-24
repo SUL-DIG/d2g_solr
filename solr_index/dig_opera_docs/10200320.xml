@@ -21,4 +21,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aus+der+Zeit+des+Schweigens+Hans-Ulrich+Treichel&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

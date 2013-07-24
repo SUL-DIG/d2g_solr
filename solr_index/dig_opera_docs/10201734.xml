@@ -20,4 +20,4 @@
 		<field name="feastDay">4</field>
 		<field name="feastDate">December 4</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+gloriosa+virgen,+y+mártyr+Santa+Bárbara+Antonío+Corvi+y+Moroty&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

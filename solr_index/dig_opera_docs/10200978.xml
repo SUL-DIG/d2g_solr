@@ -21,4 +21,4 @@
 		<field name="feastDay">17</field>
 		<field name="feastDate">February 17</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dialogo+per+musica+fra+il+beato+Andrea+Conti+e+un'anima+divota+Antonio+Tonelli&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

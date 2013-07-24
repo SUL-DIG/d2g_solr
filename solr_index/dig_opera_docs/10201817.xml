@@ -20,4 +20,4 @@
 		<field name="feastDay">18</field>
 		<field name="feastDate">August 18</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+heilige+Helena+Frantisek+Antonín+Mica&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

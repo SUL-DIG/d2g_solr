@@ -20,4 +20,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ertönet+ein+Jauchzen,+ihr+freudigen+Georg+Philipp+Telemann&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

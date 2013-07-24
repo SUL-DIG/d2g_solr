@@ -21,4 +21,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fridur+á+jörou+Björgvin+Gümundsson&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

@@ -20,4 +20,4 @@
 		<field name="feastDay">20</field>
 		<field name="feastDate">July 20</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elijah+György+Kósa&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

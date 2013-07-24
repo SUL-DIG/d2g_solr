@@ -20,4 +20,4 @@
 		<field name="feastDay">15</field>
 		<field name="feastDate">August 15</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'ascensione+di+Maria+Paolo+Bonfichi&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

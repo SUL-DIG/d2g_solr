@@ -21,4 +21,4 @@
 		<field name="feastDay">5</field>
 		<field name="feastDate">June 5</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bonifacius,+der+deutsche+Apostel+August+Wilhelm+Bach&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>
