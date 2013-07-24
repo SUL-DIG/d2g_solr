@@ -21,4 +21,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Pilgrim's+Progress+Granville+Bantock&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

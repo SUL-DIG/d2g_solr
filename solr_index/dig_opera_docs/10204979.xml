@@ -19,4 +19,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zvyozdi+kremlya+(Stars+of+the+Kremlin)+Marian+Viktorovich+Koval'&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

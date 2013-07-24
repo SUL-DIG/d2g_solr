@@ -20,4 +20,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+Titans+Jean-Joseph+Cassanéa+de+Mondonville&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

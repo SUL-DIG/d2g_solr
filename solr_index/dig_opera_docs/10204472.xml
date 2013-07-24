@@ -19,4 +19,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+tentazione+d'incredulitа+Giovanni+Antonio+Riccieri&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

@@ -21,4 +21,4 @@
 		<field name="feastDay">16</field>
 		<field name="feastDate">December 16</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+martirio+di+Sant'+Eustacchio+Giovanni+Battista+Bianchini&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

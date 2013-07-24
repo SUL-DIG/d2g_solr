@@ -19,4 +19,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Venok+Alyab'yevu+(A+Wreath+for+Alab'yev)+Aleksey+Aleksandrovich+Nikolayev&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

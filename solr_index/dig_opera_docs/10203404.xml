@@ -19,4 +19,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+pianto+de'+discepoli+nella+morte+di+Gesù+Cristo+Bernardino+Ottani&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

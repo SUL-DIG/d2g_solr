@@ -21,4 +21,4 @@
 		<field name="feastDay">3</field>
 		<field name="feastDate">December 3</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Francesco+Saverio+Ranieri+Pettinini&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

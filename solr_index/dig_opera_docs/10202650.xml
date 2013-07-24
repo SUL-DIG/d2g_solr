@@ -21,4 +21,4 @@
 		<field name="feastDay">25</field>
 		<field name="feastDate">July 25</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+martirio+di+San+Jacopo,+protettore+della+cittа+di+Pistoia+Lodovico+Giustini&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

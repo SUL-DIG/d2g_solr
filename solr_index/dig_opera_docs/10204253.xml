@@ -20,4 +20,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Ser-Advent+of+Our+Lord+and+Savious+Jesus+Christ+Arthur+Hugh+Dalyrmple+Prendergast&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

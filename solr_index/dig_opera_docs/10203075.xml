@@ -21,4 +21,4 @@
 		<field name="feastDay">1</field>
 		<field name="feastDate">April 1</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oratório+de+Santa+Maria+Egipcíaca+Ernst+Widmer&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

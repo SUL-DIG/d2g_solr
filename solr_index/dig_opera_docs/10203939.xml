@@ -20,4 +20,4 @@
 		<field name="feastDay">8</field>
 		<field name="feastDate">May 8</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Vittore+martire+cittadino+e+protettore+d'Otricoli+Giovanni+Battista+Fronduti&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

@@ -19,4 +19,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vittoria+de+trionfanti,+o+sia+Il+trionfo+della+grazia+Antonio+Francesco+Martinenghi&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

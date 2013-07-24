@@ -20,4 +20,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+sette+parole+do+nostro+Signore+Gesù+Cristo+Gennaro+Battinelli&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

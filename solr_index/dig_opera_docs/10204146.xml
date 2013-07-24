@@ -20,4 +20,4 @@
 		<field name="feastDay">31</field>
 		<field name="feastDate">July 31</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sant'+Ignazio+de+Loyola+Loreto+Vittori&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

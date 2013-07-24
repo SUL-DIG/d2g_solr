@@ -19,4 +19,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Sieg+des+Göttlichen+Friedrich+Karl+Kühmstedt&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

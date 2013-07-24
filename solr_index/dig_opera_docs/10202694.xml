@@ -20,4 +20,4 @@
 		<field name="feastDay">26</field>
 		<field name="feastDate">December 26</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Martyrdom+of+St.+Stephen+Henry+Faulkner+Henniker&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

@@ -20,4 +20,4 @@
 		<field name="feastDay">22</field>
 		<field name="feastDate">November 22</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santa+Cecilia+Ilaro+Bagnara&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

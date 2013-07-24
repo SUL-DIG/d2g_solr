@@ -21,4 +21,4 @@
 		<field name="feastDay">18</field>
 		<field name="feastDate">March 18</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'umiltа+trionfante+in+San+Odoardo,+re+d'Inghilterra+Lorenzo+Conti&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

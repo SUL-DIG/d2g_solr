@@ -20,4 +20,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tiz+nap,+amely+megrengette+a+világot+(Ten+Days+that+Shook+the+World)+István+Szelényi&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

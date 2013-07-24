@@ -19,4 +19,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+sette+ultime+parole+di+Gesù+agonizzante+Giuseppe+Peruzzi&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

@@ -19,4 +19,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oratorio+funebre+all'occasione+della+morte+di+Maria+Gioseppa+Regina+di+Pollonia+Johann+Ludwig+Krebs&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

@@ -20,4 +20,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'umiltа+coronata+alla+santitа+di+nostro+signore+Benedetto+XIII+sommo+pontefice+Pietro+Baldassari&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

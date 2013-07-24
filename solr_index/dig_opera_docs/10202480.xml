@@ -19,4 +19,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+leidende+und+am+Creutze+sterbende+Liebe+Jesu+Gottfried+Heinrich+Stölzel&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>

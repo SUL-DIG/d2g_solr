@@ -20,4 +20,4 @@
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Powrót+syna+marnotrawnego+(The+Return+of+the+Prodigal+Son)+Feliks+Nowowiejski&amp;search_field=search</field>
-	</doc></add>
+	<field name="revisions"></field></doc></add>
