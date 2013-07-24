@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10100001</field>
 		<field name="genre">Operas</field>
 		<field name="title">A China Doll</field>
@@ -16,5 +16,5 @@
 		<field name="region">New York</field>
 		<field name="country">United States</field>
 		<field name="subgenre">Operetta</field>
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+China+Doll+Alfred+E.+Aarons&amp;search_field=search</field>
-	<field name="revisions">We're testing this</field></doc></add>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=?&amp;q=A+China+Doll+Alfred+E.+Aarons&amp;search_field=search</field>
+	</doc></add>
