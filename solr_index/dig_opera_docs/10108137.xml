@@ -1,19 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
-		<field name="id">10108137</field>
-		<field name="genre">Operas</field>
-		<field name="title">Happy Hampstead</field>
-		<field name="titleSort">Happy Hampstead</field>
-		<field name="composer">Richard D'Oyly Carte</field>
-		<field name="composerSort">Carte, Richard D'Oyly</field>
-		<field name="year">1876</field>
-		<field name="date">1876</field>
-		<field name="librettist">Frank Desprez</field>
-		<field name="librettistSort">Desprez, Frank</field>
-		
-		<field name="theater">Alexandra Theatre</field>
-		<field name="city">Liverpool</field>
-		<field name="region">Merseyside</field>
-		<field name="country">United Kingdom</field>
-		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Happy+Hampstead+Richard+D'Oyly+Carte&amp;search_field=search</field>
-	</doc></add>
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108137</field>
+<field name="genre">Operas</field>
+<field name="title">Happy Hampstead</field>
+<field name="titleSort">Happy Hampstead</field>
+<field name="composer">Richard D'Oyly Carte</field>
+<field name="composerSort">Carte, Richard D'Oyly</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">Frank Desprez</field>
+<field name="librettistSort">Desprez, Frank</field>
+<field name="theater">Alexandra Theatre</field>
+<field name="city">Liverpool</field>
+<field name="region">Merseyside</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre"/>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Happy+Hampstead+Richard+D'Oyly+Carte&amp;search_field=search</field>
+<field name="revisions"></field></doc>
+</add>

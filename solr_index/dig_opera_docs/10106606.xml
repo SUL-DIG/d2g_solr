@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
-		<field name="id">10106606</field>
-		<field name="genre">Operas</field>
-		<field name="title">L'albergatrice scaltra</field>
-		<field name="titleSort">albergatrice scaltra</field>
-		<field name="composer">Giacomo Cordella</field>
-		<field name="composerSort">Cordella, Giacomo</field>
-		<field name="year">1807</field>
-		<field name="date">1807</field>
-		
-		
-		<field name="theater">Teatro San Carlo</field>
-		<field name="city">Naples</field>
-		<field name="region">Campania</field>
-		<field name="country">Italy</field>
-		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'albergatrice+scaltra+Giacomo+Cordella&amp;search_field=search</field>
-	</doc></add>
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106606</field>
+<field name="genre">Operas</field>
+<field name="title">L'albergatrice scaltra</field>
+<field name="titleSort">albergatrice scaltra</field>
+<field name="composer">Giacomo Cordella</field>
+<field name="composerSort">Cordella, Giacomo</field>
+<field name="year">1807</field>
+<field name="date">1807theaterTeatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="subgenre"/>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'albergatrice+scaltra+Giacomo+Cordella&amp;search_field=search</field>
+<field name="revisions"></field></doc>
+</add>

@@ -1,19 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
-		<field name="id">10106879</field>
-		<field name="genre">Operas</field>
-		<field name="title">Potter Thompson</field>
-		<field name="titleSort">Potter Thompson</field>
-		<field name="composer">Gordon Crosse</field>
-		<field name="composerSort">Crosse, Gordon</field>
-		<field name="year">1975</field>
-		<field name="date">1975</field>
-		<field name="librettist">Alan Garner</field>
-		<field name="librettistSort">Garner, Alan</field>
-		
-		<field name="theater">Saint Mary Magdalene, Munster Square</field>
-		<field name="city">London</field>
-		<field name="region">Greater London</field>
-		<field name="country">United Kingdom</field>
-		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Potter+Thompson+Gordon+Crosse&amp;search_field=search</field>
-	</doc></add>
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106879</field>
+<field name="genre">Operas</field>
+<field name="title">Potter Thompson</field>
+<field name="titleSort">Potter Thompson</field>
+<field name="composer">Gordon Crosse</field>
+<field name="composerSort">Crosse, Gordon</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="librettist">Alan Garner</field>
+<field name="librettistSort">Garner, Alan</field>
+<field name="theater">"Saint Mary Magdalene, Munster Square"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre"/>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Potter+Thompson+Gordon+Crosse&amp;search_field=search</field>
+<field name="revisions"></field></doc>
+</add>

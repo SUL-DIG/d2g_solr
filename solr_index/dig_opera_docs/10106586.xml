@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
-		<field name="id">10106586</field>
-		<field name="genre">Operas</field>
-		<field name="title">Astuzie per astuzie</field>
-		<field name="titleSort">Astuzie per astuzie</field>
-		<field name="composer">Bernardino Corbellini</field>
-		<field name="composerSort">Corbellini, Bernardino</field>
-		<field name="year">1782</field>
-		<field name="date">1782</field>
-		
-		
-		
-		<field name="city">Lanciano</field>
-		<field name="region">Abruzzi</field>
-		<field name="country">Italy</field>
-		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Astuzie+per+astuzie+Bernardino+Corbellini&amp;search_field=search</field>
-	</doc></add>
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106586</field>
+<field name="genre">Operas</field>
+<field name="title">Astuzie per astuzie</field>
+<field name="titleSort">Astuzie per astuzie</field>
+<field name="composer">Bernardino Corbellini</field>
+<field name="composerSort">Corbellini, Bernardino</field>
+<field name="year">1782</field>
+<field name="date">1782theater</field>
+<field name="city">Lanciano</field>
+<field name="region">Abruzzi</field>
+<field name="country">Italy</field>
+<field name="subgenre"/>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Astuzie+per+astuzie+Bernardino+Corbellini&amp;search_field=search</field>
+<field name="revisions"></field></doc>
+</add>
