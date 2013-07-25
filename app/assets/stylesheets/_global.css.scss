@@ -249,6 +249,26 @@ label.toggle_bookmark {
  	height: 200px;
  	}	
 
+/*Style for Acknowledgements on About Page */
+dl {
+	margin-bottom: 20px;
+	}
+.dl-horizontal dt {
+	float: left;
+width: 160px;
+clear: left;
+text-align: right;
+overflow: hidden;
+text-overflow: ellipsis;
+white-space: nowrap;
+}
+.dl-horizontal dd {
+	margin-left: 180px;
+	}
+dt, dd {
+    line-height: 20px;
+}
+
 h1 {
 	display: block;
 	float: left;
