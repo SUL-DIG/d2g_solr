@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-D2g::Application.config.secret_token = '258c3d8f92080d9b1b03d97cd8b8d4ba62efe9e6941c51b098ead965834237203be931341e59dbf7a210e930c55739ac9a58d9e17995bed08a16ced421a89bc4'
+D2g::Application.config.secret_token = '134751c0d55737a726188bea7d48927c497681343bb14aa3abc3db422448d057c8606cd3be8bb0a825d494536e8e153e2abfca16c565cff6792392e3f8a1704c'
