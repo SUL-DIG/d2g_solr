@@ -14,7 +14,11 @@
  	display: block;
  	}
 
- 
+ #sidebar-nav > .nav-list li > a {
+    width: 225px;
+    padding: 5px 15px;
+    margin-left: -5px;
+    }
  
   p {
     font-family: $text_font_family;
