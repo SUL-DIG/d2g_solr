@@ -13,9 +13,5 @@
       <li>
         <%= render_show_doc_actions @document %>
       </li>
-      <% if @document.respond_to?( :to_email_text ) %>
-      <li class="email">
-      <%= link_to(t('blacklight.tools.email'), email_catalog_path(:id => @document), {:id => 'emailLink', :class => 'lightboxLink'}) %>
-      </li>
     <%- end -%>
   </ul>

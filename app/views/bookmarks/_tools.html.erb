@@ -1,7 +1,4 @@
  	    <ul class="bookmarkTools">
-      <li class="email">
-        <%= link_to t('blacklight.tools.email'), email_catalog_path(:sort=>params[:sort], :per_page=>params[:per_page], :id => @bookmarks.collect {|doc| doc.document_id}), :class=>"lightboxLink btn", :id => "emailLink" %>
-      </li>
      <li>
        <%= link_to t('Start New Search'), catalog_index_path, :class=> 'btn' %>
         </li>
