@@ -7,3 +7,35 @@ display: block;
 padding-top: 50px;
 }
  */
+
+ #emailLink {
+	padding: 1px 1px 1px 1px;
+	width: 60px;
+	float: left;
+	}
+
+#emailLink:hover {
+	background-color: rgb(51, 51, 51);
+	}
+.lightboxLink {
+	width: 100%;
+	}
+
+li.email span {
+		font-size: 14px;
+		margin-left: 1px;
+		vertical-align: sub;
+		}
+.email:hover {
+		font-color: rgb(51, 51, 51);
+		}
+
+#sidebar-nav > .nav-list li > a {
+    width: 225px;
+    padding: 5px 15px;
+    margin-left: -5px;
+    }
+.nav > li > a > img {
+    max-width: none;
+    margin-left: -15px;
+}
