@@ -9,14 +9,11 @@ padding-top: 50px;
  */
 
 #emailLink:hover {
-    background-color: rgb(230, 230, 230);
+    background-color: rgb(51, 51, 51);
 }
-
-
-
 a #emailLink {
 	.btn:hover, .btn:focus {
-    	color: ;
+    	color: rgb(51, 51, 51);
     	text-decoration: none;
     	background-position: 0px -15px;
     	transition: background-position 0.1s linear 0s;
