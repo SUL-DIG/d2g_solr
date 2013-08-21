@@ -63,6 +63,7 @@ D2g::Application.configure do
   
   #Configuring email for sending from server.
   config.action_mailer.delivery_method = :sendmail
+  config.action_mailer.default_options = {:from => "opening_night@lists.stanford.edu"}
 
   # Log the query plan for queries taking more than this (works
   # with SQLite, MySQL, and PostgreSQL)
