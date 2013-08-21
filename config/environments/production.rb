@@ -60,6 +60,9 @@ D2g::Application.configure do
 
   # Send deprecation notices to registered listeners
   config.active_support.deprecation = :notify
+  
+  #Configuring email for sending from server.
+  config.action_mailer.delivery_method = :sendmail
 
   # Log the query plan for queries taking more than this (works
   # with SQLite, MySQL, and PostgreSQL)
