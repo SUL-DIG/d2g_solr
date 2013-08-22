@@ -11,7 +11,7 @@
 <field name="city">Ballenstedt</field>
 <field name="region">Sachsen-Anhalt</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frage+und+Antwort+Johann+Wessely&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

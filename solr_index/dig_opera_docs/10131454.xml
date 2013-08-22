@@ -10,11 +10,11 @@
 <field name="date">1786</field>
 <field name="librettist">Christian August Vulpius</field>
 <field name="librettistSort">Vulpius, Christian August</field>
-<field name="theater"/>
+
 <field name="city">Zerbst</field>
 <field name="region">Sachsen-Anhalt</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+glückliche+Tag+Heinrich+Tuch&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

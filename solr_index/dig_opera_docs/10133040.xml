@@ -12,9 +12,9 @@
 <field name="librettistSort">Bertati, Giovanni</field>
 <field name="theater">Nostitzsches Nationaltheater</field>
 <field name="city">Prague</field>
-<field name="region"/>
+
 <field name="country">Czech Republic</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ogus,+ossia+Il+trionfo+del+bel+sesso+Peter+Winter&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

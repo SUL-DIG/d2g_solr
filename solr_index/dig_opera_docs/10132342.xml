@@ -6,12 +6,12 @@
 <field name="titleSort">Lumpatius vagabondus</field>
 <field name="composer">Ion Andrei Wachmann</field>
 <field name="composerSort">Wachmann, Ion Andrei</field>
-<field name="year"/>
-<field name="date"/>
+
+
 <field name="librettist">Johann Nepomuk Nestroy</field>
 <field name="librettistSort">Nestroy, Johann Nepomuk"</field>
-<field name="country"/>
+
 <field name="subgenre">Vaudeville</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lumpatius+vagabondus+Ion+Andrei+Wachmann&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

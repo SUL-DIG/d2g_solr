@@ -14,10 +14,10 @@
 <field name="librettistSort">Caillavet, Gaston Arman de</field>
 <field name="theater">Théâtre des Capucines</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paris,+ou+Le bon
 juge+Claude+Terrasse&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

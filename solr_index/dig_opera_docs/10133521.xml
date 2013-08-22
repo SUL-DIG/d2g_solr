@@ -10,11 +10,11 @@
 <field name="date">1932</field>
 <field name="librettist">Vladimir Voinov</field>
 <field name="librettistSort">Voinov, Vladimir</field>
-<field name="theater"/>
+
 <field name="city">St. Petersburg</field>
-<field name="region"/>
+
 <field name="country">Russia</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pod+steklyannïm+Beneath+the+Glass+Bubble+Valery+Viktorovich+Zhelobinsky&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

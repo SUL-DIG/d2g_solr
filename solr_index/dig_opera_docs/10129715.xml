@@ -12,11 +12,11 @@
 <field name="librettistSort">Kubík, Josef</field>
 <field name="librettist">Dyna Hallová</field>
 <field name="librettistSort">Hallová, Dyna</field>
-<field name="theater"/>
+
 <field name="city">Holesov</field>
 <field name="region">Jihomoravsky Kraj</field>
 <field name="country">Czech Republic</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Podzimni+pisen+lásky+Emilian+Starý&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

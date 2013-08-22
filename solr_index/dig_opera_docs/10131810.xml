@@ -6,14 +6,14 @@
 <field name="titleSort">Passazhirka (The Lady Passenger)</field>
 <field name="composer">Moisey Samuilovich Vaynberg</field>
 <field name="composerSort">Vaynberg, Moisey Samuilovich</field>
-<field name="year"/>
-<field name="date"/>
+
+
 <field name="librettist">Aleksandr Dmitryevich Medvedev</field>
 <field name="librettistSort">Medvedev, Aleksandr Dmitryevich</field>
 <field name="librettist">Yury Borisovich Lukin</field>
 <field name="librettistSort">Lukin, Yury Borisovich"</field>
-<field name="country"/>
-<field name="subgenre"/>
+
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Passazhirka+The+Lady+Passenger+Moisey+Samuilovich+Vaynberg&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

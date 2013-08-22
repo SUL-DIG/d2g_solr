@@ -12,11 +12,11 @@
 <field name="librettistSort">Normann, Vera</field>
 <field name="librettist">Louis Mattlé</field>
 <field name="librettistSort">Mattlé, Louis</field>
-<field name="theater"/>
+
 <field name="city">Zürich</field>
 <field name="region">Zürich</field>
 <field name="country">Switzerland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Minuzzolo+Xaver+Schnyder+von+Wartensee&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

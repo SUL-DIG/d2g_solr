@@ -10,11 +10,11 @@
 <field name="date">1967</field>
 <field name="librettist">Frank Brink</field>
 <field name="librettistSort">Brink, Frank</field>
-<field name="theater"/>
+
 <field name="city">Anchorage</field>
 <field name="region">Alaska</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Toyon+of+Alaska+William+Straight&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

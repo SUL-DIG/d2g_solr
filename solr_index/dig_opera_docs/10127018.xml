@@ -11,7 +11,7 @@
 <field name="city">Rossano</field>
 <field name="region">Calabria</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+cieco+mendicante+Antonio+Ruggiero&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

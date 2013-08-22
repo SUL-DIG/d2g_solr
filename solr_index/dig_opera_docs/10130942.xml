@@ -12,11 +12,11 @@
 <field name="librettistSort">Sonal, Marc [Georges Lanos]</field>
 <field name="librettist">Victor Gréhon</field>
 <field name="librettistSort">Gréhon, Victor</field>
-<field name="theater"/>
+
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
 <field name="subgenre">Vaudeville</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'air+de+Paris+Charles+Thony&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

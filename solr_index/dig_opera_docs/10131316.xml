@@ -12,9 +12,9 @@
 <field name="librettistSort">Arys, R.</field>
 <field name="theater">Salle de la rue de la Tour</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+roses+de+la+marquise+Émile+Trépard&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -12,8 +12,8 @@
 <field name="librettistSort">Konstantinov, Vladimir Konstantinovich</field>
 <field name="librettist">Boris Mikaylovich Ratser</field>
 <field name="librettistSort">Ratser, Boris Mikaylovich"</field>
-<field name="country"/>
+
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Neravnïy+brak+The+Unequal+Marriage+Vasily+Pavlovich+Solov'yov-Sedoy&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -10,11 +10,11 @@
 <field name="date">1806</field>
 <field name="librettist">Jean-Baptiste-Augustin Hapdé</field>
 <field name="librettistSort">Hapdé, Jean-Baptiste-Augustin</field>
-<field name="theater"/>
+
 <field name="city">Vienna</field>
-<field name="region"/>
+
 <field name="country">Austria</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+principe+invisibile+Joseph+Weigl&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

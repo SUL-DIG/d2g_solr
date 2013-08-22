@@ -12,9 +12,9 @@
 <field name="librettistSort">Löhner, Fritz</field>
 <field name="theater">Etablissement Gartenbau</field>
 <field name="city">Vienna</field>
-<field name="region"/>
+
 <field name="country">Austria</field>
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Muschi+Robert+Stolz&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -10,11 +10,11 @@
 <field name="date">1672</field>
 <field name="librettist">Carlo Antonio Marchesini</field>
 <field name="librettistSort">Marchesini, Carlo Antonio</field>
-<field name="theater"/>
+
 <field name="city">Vicenza</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'alcatrasso+geloso+Alessandro+Spinazzari&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

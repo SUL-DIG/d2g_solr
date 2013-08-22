@@ -10,11 +10,11 @@
 <field name="date">1872</field>
 <field name="librettist">[Édouard Bureau &amp; Fernand Jattiot] Bureau-Jattiot</field>
 <field name="librettistSort">Bureau-Jattiot, [Édouard Bureau &amp; Fernand Jattiot]</field>
-<field name="theater"/>
+
 <field name="city">Nantes</field>
 <field name="region">Loire-Atlantique</field>
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jean+le+duc+__+Tac-Coen&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

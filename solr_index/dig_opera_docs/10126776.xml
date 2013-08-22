@@ -12,9 +12,9 @@
 <field name="librettistSort">Buti, Francesco</field>
 <field name="theater">Palais Bourbon</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Orfeo+Luigi+Rossi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

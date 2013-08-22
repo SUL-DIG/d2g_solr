@@ -12,11 +12,11 @@
 <field name="librettistSort">Chelodi, Giovanni</field>
 <field name="librettist">Jakob &amp; Wilhelm Grimm</field>
 <field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
-<field name="theater"/>
+
 <field name="city">Sacco di Rovereto</field>
 <field name="region">Trentino-Alto Adige</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'uccellino+d'oro+Riccardo+Zandonai&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

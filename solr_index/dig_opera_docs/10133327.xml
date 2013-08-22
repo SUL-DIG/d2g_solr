@@ -12,9 +12,9 @@
 <field name="librettistSort">Nessl, Erik [Hippolyte Kneissler]</field>
 <field name="theater">Harmonietheater</field>
 <field name="city">Vienna</field>
-<field name="region"/>
+
 <field name="country">Austria</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Somnambule+Ivan+Zajc&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

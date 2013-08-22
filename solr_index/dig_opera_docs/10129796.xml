@@ -12,11 +12,11 @@
 <field name="librettistSort">Étienne, Charles-Guillaume</field>
 <field name="librettist">Charles Perrault</field>
 <field name="librettistSort">Perrault, Charles</field>
-<field name="theater"/>
+
 <field name="city">St. Petersburg</field>
-<field name="region"/>
+
 <field name="country">Russia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cendrillon+Daniel+Steibelt&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

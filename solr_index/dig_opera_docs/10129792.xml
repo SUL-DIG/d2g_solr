@@ -11,7 +11,7 @@
 <field name="city">Gdansk</field>
 <field name="region">Pomorskie</field>
 <field name="country">Poland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Rekruten+auf+dem+Lande+Carl+David+Stegmann&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

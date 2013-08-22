@@ -12,11 +12,11 @@
 <field name="librettistSort">Werle, Lars Johan</field>
 <field name="librettist">Tage Danielsson</field>
 <field name="librettistSort">Danielsson, Tage</field>
-<field name="theater"/>
+
 <field name="city">Skinnskatteberg</field>
 <field name="region">Västmanland</field>
 <field name="country">Sweden</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gudars+skymning+Twilight+of+the+Gods+Lars+Johan+Werle&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -12,11 +12,11 @@
 <field name="librettistSort">Dimitrakopoulos, Polyvios</field>
 <field name="librettist">Stefanos Granitsas</field>
 <field name="librettistSort">Granitsas, Stefanos</field>
-<field name="theater"/>
+
 <field name="city">Athens</field>
 <field name="region">Attiki</field>
 <field name="country">Greece</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sia+ki+araxame+Touching+Bottom+Theofrastos+Sakellarides&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

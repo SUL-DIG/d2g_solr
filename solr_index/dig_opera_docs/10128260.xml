@@ -16,7 +16,7 @@
 <field name="city">Buenos Aires</field>
 <field name="region">Buenos Aires</field>
 <field name="country">Argentina</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tabaré+Alfredo+Luis+Schiuma&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

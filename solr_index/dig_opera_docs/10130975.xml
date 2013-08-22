@@ -12,9 +12,9 @@
 <field name="librettistSort">Thys, Pauline</field>
 <field name="theater">Théâtre de l'Athénée</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+mariage+de+Tabarin+La+congiura+di+Chevreuse+Pauline+Thys&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

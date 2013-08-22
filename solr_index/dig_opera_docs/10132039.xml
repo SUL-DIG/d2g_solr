@@ -12,9 +12,9 @@
 <field name="librettistSort">Solera, Temistocle</field>
 <field name="theater">Théâtre-Italien</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zilia,+ossia+Odio+ed+amore+Gaspar+Villate&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

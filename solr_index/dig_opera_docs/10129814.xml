@@ -12,11 +12,11 @@
 <field name="librettistSort">Rosen, Roslyn</field>
 <field name="librettist">Jakob &amp; Wilhelm Grimm</field>
 <field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
-<field name="theater"/>
+
 <field name="city">St. Joseph</field>
 <field name="region">Michigan</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Fisherman's+Wife+Leo+Stein&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

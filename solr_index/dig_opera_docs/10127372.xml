@@ -10,11 +10,11 @@
 <field name="date">1911</field>
 <field name="librettist">Georgios Tsokopoulos</field>
 <field name="librettistSort">Tsokopoulos, Georgios</field>
-<field name="theater"/>
+
 <field name="city">Olympia</field>
 <field name="region">Ilia</field>
 <field name="country">Greece</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Perouze+Theofrastos+Sakellarides&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

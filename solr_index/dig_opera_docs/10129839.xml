@@ -14,7 +14,7 @@
 <field name="city">Hamburg</field>
 <field name="region">Hamburg</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amadis+der+fahrende+Ritter+von+Gallien+Gottfried+Stengel&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

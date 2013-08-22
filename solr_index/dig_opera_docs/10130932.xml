@@ -14,9 +14,9 @@
 <field name="librettistSort">Webster, John</field>
 <field name="theater">Det Norske Teatret</field>
 <field name="city">Oslo</field>
-<field name="region"/>
+
 <field name="country">Norway</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hertuginnen+dør+Olav+Anton+Thommessen&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

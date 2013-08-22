@@ -8,8 +8,8 @@
 <field name="composerSort">Scarlatti, Alessandro</field>
 <field name="year">1700</field>
 <field name="date">1700</field>
-<field name="country"/>
+
 <field name="subgenre">Serenata</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Clori,+Lidia+e+Filli+Alessandro+Scarlatti&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

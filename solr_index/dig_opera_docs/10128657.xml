@@ -8,8 +8,8 @@
 <field name="composerSort">Schweitzer, Anton</field>
 <field name="year">1775</field>
 <field name="date">1775</field>
-<field name="country"/>
+
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Fest+der+Thalia+Anton+Schweitzer&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -10,11 +10,11 @@
 <field name="date">1689</field>
 <field name="librettist">Steffano Benedetto Pallavicino</field>
 <field name="librettistSort">Pallavicino, Steffano Benedetto</field>
-<field name="theater"/>
+
 <field name="city">Dresden</field>
 <field name="region">Sachsen</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Antiope+Nicolaus+Adam+Strungk&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

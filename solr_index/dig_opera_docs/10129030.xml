@@ -14,7 +14,7 @@
 <field name="city">Nagasaki</field>
 <field name="region">Nagasaki</field>
 <field name="country">Japan</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wasurerareta+shonen+Forgotten+Boys+Minao+Shibata&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

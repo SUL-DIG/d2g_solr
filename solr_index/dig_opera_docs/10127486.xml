@@ -14,7 +14,7 @@
 <field name="city">Devin</field>
 <field name="region">Plovdiv Oblast</field>
 <field name="country">Bulgaria</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Plac+Tears+Tadeás+Salva&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

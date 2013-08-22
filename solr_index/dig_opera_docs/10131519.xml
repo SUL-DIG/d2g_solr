@@ -8,8 +8,8 @@
 <field name="composerSort">Umlauf, Michael</field>
 <field name="year">1812</field>
 <field name="date">1812</field>
-<field name="country"/>
+
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Wirtshaus+von+Granada+Michael+Umlauf&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

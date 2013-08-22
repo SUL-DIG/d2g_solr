@@ -10,9 +10,9 @@
 <field name="date">1946theaterKazakhskiy Gosudarstvennïy Akademicheskiy Teatr Operï i Baleta imeni
 Abaya</field>
 <field name="city">Alma-Ata</field>
-<field name="region"/>
+
 <field name="country">Kazakhstan</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Birzhan+i+Sara+Birzhan+and+Sara+Mukhtan+Tulebayev&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

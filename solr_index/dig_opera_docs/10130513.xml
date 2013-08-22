@@ -12,9 +12,9 @@
 <field name="librettistSort">Jeanson, Henry</field>
 <field name="theater">Exposition Internationale des Arts et Techniques dans la Vie Moderne</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+marin+du+Bolivar+Germaine+Tailleferre&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

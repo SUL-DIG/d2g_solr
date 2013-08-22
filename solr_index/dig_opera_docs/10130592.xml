@@ -14,7 +14,7 @@
 <field name="city">Honolulu</field>
 <field name="region">Hawaii</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ka+lei+no+kane+A+Lei+for+Kane+Jerré+Eugene+Tanner&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

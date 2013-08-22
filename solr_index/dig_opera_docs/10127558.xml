@@ -11,7 +11,7 @@
 <field name="city">Cadiz</field>
 <field name="region">Andalucia</field>
 <field name="country">Spain</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+maga+Ventura+Sánchez+de+la+Madrid&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

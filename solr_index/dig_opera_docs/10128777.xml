@@ -12,11 +12,11 @@
 <field name="librettistSort">Marc-Cab, [Marcel Cabridens]</field>
 <field name="librettist">__ Gévaudan</field>
 <field name="librettistSort">Gévaudan, __</field>
-<field name="theater"/>
+
 <field name="city">Nice</field>
 <field name="region">Alpes-Maritimes</field>
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pauline+Vincent+Scotto&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

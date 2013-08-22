@@ -12,9 +12,9 @@
 <field name="librettistSort">Anczyc, Wladyslaw Ludwik</field>
 <field name="theater">Teatr Wielki</field>
 <field name="city">Warsaw</field>
-<field name="region"/>
+
 <field name="country">Poland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lobzowianie+Peter+Studzinski&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

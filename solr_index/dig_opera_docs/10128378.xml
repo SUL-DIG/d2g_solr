@@ -10,11 +10,11 @@
 <field name="date">1810</field>
 <field name="librettist">August von Kotzebue</field>
 <field name="librettistSort">Kotzebue, August von</field>
-<field name="theater"/>
+
 <field name="city">Ingolstadt</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Geburtstag,+oder+Das+Gespenst+Michael+Schneider&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

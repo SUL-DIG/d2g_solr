@@ -14,9 +14,9 @@
 <field name="librettistSort">Voskanyan, Hovhannes</field>
 <field name="theater">Armenian Comedy Theater</field>
 <field name="city">Tbilisi</field>
-<field name="region"/>
+
 <field name="country">Georgia</field>
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leyli+ev+Mejnum+Armen+Tigran+Tigranyan&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -14,9 +14,9 @@
 <field name="librettistSort">Goldoni, Carlo</field>
 <field name="theater">Teatro Titano</field>
 <field name="city">San Marino</field>
-<field name="region"/>
+
 <field name="country">San Marino</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amorosa+fiera,+ossia+Il+mercato+di+Malmantile+Amedeo+Scorrano&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

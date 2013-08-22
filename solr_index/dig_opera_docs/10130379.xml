@@ -12,8 +12,8 @@
 <field name="librettistSort">Weisse, Christian Felix</field>
 <field name="librettist">Charles Simon Favart</field>
 <field name="librettistSort">Favart, Charles Simon"</field>
-<field name="country"/>
+
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Liebe+auf+dem+Lande+Franz+Xaver+Süssmayr&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

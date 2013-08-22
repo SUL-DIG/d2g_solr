@@ -12,11 +12,11 @@
 <field name="librettistSort">Zeltser, L.</field>
 <field name="librettist">V. Vladimorov</field>
 <field name="librettistSort">Vladimorov, V.</field>
-<field name="theater"/>
+
 <field name="city">St. Petersburg</field>
-<field name="region"/>
+
 <field name="country">Russia</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Posledniy+bal+The+Last+Ball+Valery+Viktorovich+Zhelobinsky&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

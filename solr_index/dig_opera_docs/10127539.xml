@@ -10,11 +10,11 @@
 <field name="date">1905</field>
 <field name="librettist">Camille Lemonnier</field>
 <field name="librettistSort">Lemonnier, Camille</field>
-<field name="theater"/>
+
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>
 <field name="country">Belgium</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+jeune+fille+а+la+fenêtre+Eugène+Samuel-Holman&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

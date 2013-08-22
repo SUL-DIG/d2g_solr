@@ -10,11 +10,11 @@
 <field name="date">1963</field>
 <field name="librettist">Fred Schneckenburger</field>
 <field name="librettistSort">Schneckenburger, Fred</field>
-<field name="theater"/>
+
 <field name="city">Zürich</field>
 <field name="region">Zürich</field>
 <field name="country">Switzerland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tanz+des+Lebens,+oder+Der+letzte+Gast+Carlos+Veerhoff&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

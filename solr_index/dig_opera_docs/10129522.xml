@@ -10,11 +10,11 @@
 <field name="date">1847</field>
 <field name="librettist">Léopold François Sormani-Rossy</field>
 <field name="librettistSort">Sormani-Rossy, Léopold François</field>
-<field name="theater"/>
+
 <field name="city">Caen</field>
 <field name="region">Calvados</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Isabelle+Léopold+François+Sormani-Rossy&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

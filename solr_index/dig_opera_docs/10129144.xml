@@ -12,11 +12,11 @@
 <field name="librettistSort">Hermine, [Emma Laddey]</field>
 <field name="librettist">[Alexander Mitschke] Alexander M. Kolloden</field>
 <field name="librettistSort">Kolloden, Alexander M. [Alexander Mitschke]</field>
-<field name="theater"/>
+
 <field name="city">Gorzów Wielkopolski</field>
 <field name="region">Lubuskie</field>
 <field name="country">Poland</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Harmonikagraf+Hermann+Silwedel&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

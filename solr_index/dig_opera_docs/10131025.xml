@@ -12,9 +12,9 @@
 <field name="librettistSort">Claparède, __</field>
 <field name="theater">Bol'shoy Kamennïy Teatr</field>
 <field name="city">St. Petersburg</field>
-<field name="region"/>
+
 <field name="country">Russia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Emeric,+ou+Les+hongrois+Aleksey+Nikolayevich+Titov&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

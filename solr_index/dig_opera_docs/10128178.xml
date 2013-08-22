@@ -12,9 +12,9 @@
 <field name="librettistSort">Mahlmann, August</field>
 <field name="theater">Urania-Theater</field>
 <field name="city">Vienna</field>
-<field name="region"/>
+
 <field name="country">Austria</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=König+Violon+und+Prinzessin+Klarinette+Konrad+Scherber&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

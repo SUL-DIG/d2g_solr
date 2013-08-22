@@ -12,9 +12,9 @@
 <field name="librettistSort">Dubar, __</field>
 <field name="theater">Théâtre des Folies-Marigny</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+grand+prix+de+Rome+Charles+de+Sivry&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

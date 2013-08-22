@@ -10,11 +10,11 @@
 <field name="date">1904</field>
 <field name="librettist">Zeffiro Tolomei</field>
 <field name="librettistSort">Tolomei, Zeffiro</field>
-<field name="theater"/>
+
 <field name="city">La Spezia</field>
 <field name="region">Liguria</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amore+d'un+angelo+Cesare+Roveroni&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

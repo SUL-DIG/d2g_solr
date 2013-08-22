@@ -11,9 +11,9 @@
 <field name="librettist">[Andrea De Chirico] Alberto Savinio</field>
 <field name="librettistSort">Savinio, Alberto [Andrea De Chirico]</field>
 <field name="theater">RAI Radio (Radio Audizioni Italiane)</field>
-<field name="region"/>
+
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cristoforo+Colombo+Andrea+De+Chirico]+Alberto+Savinio&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

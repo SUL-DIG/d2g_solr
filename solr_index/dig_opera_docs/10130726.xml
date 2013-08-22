@@ -14,9 +14,9 @@
 <field name="librettistSort">Tchaikovsky, Pyotr Il'yich</field>
 <field name="theater">Bol'shoy Teatr</field>
 <field name="city">Moscow</field>
-<field name="region"/>
+
 <field name="country">Russia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mazepa+Pyotr+Il'yich+Tchaikovsky&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

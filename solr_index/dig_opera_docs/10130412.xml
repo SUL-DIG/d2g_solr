@@ -14,9 +14,9 @@
 <field name="librettistSort">Cankar, Ivan</field>
 <field name="theater">Slovensko Dazelno Gledalisce</field>
 <field name="city">Ljubljana</field>
-<field name="region"/>
+
 <field name="country">Slovenia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kralj+Malhus+King+Malhus+Tomaz+Svete&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

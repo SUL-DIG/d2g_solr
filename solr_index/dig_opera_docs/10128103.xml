@@ -10,11 +10,11 @@
 <field name="date">1786</field>
 <field name="librettist">Emanuel Schikaneder</field>
 <field name="librettistSort">Schikaneder, Emanuel</field>
-<field name="theater"/>
+
 <field name="city">Kempten</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Luftballon+Benedikt+Schack&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

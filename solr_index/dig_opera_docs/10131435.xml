@@ -12,9 +12,9 @@
 <field name="librettistSort">Bullinger, Joseph</field>
 <field name="theater">Rondella</field>
 <field name="city">Budapest</field>
-<field name="region"/>
+
 <field name="country">Hungary</field>
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dämona,+das+kleine+Höckerweibchen+Vincenc+Tucek&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -12,11 +12,11 @@
 <field name="librettistSort">Potskhishvili, Moris</field>
 <field name="librettist">Moritz Hartmann</field>
 <field name="librettistSort">Hartmann, Moritz</field>
-<field name="theater"/>
+
 <field name="city">Kutaisi</field>
-<field name="region"/>
+
 <field name="country">Georgia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tetri+mandili+The+White+Shawl+Tengiz+Shavlokhashvili&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -10,11 +10,11 @@
 <field name="date">1977</field>
 <field name="librettist">Charles Perrault</field>
 <field name="librettistSort">Perrault, Charles</field>
-<field name="theater"/>
+
 <field name="city">Engel's</field>
 <field name="region">Saratov Oblast</field>
 <field name="country">Russia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zolushka+Cinderella+Antonio+Emmanuilovich+Spadavecchia&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

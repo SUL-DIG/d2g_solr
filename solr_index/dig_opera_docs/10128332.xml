@@ -10,11 +10,11 @@
 <field name="date">1887</field>
 <field name="librettist">[Johann August Müller] A. Weller</field>
 <field name="librettistSort">Weller, A. [Johann August Müller]</field>
-<field name="theater"/>
+
 <field name="city">Stralsund</field>
 <field name="region">Mecklenburg-Vorpommern</field>
 <field name="country">Germany</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hannibal+Otto+Schmidt&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

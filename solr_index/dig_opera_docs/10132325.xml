@@ -12,11 +12,11 @@
 <field name="librettistSort">Bousquet, Jacques</field>
 <field name="librettist">[Albert Liénard] Louis Payen</field>
 <field name="librettistSort">Payen, Louis [Albert Liénard]</field>
-<field name="theater"/>
+
 <field name="city">Biarritz</field>
 <field name="region">Pyrénées-Atlantiques</field>
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Défense+d'entrer+Émile+Vuillermoz&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

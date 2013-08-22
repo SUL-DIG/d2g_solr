@@ -14,9 +14,9 @@
 <field name="librettistSort">Wilde, Oscar</field>
 <field name="theater">Turkmenskiy Teatr Operï i Baleta</field>
 <field name="city">Ashkhabad</field>
-<field name="region"/>
+
 <field name="country">Turkmenistan</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gyul'+i+bil'bil'+Rose+and+Nightingale+Adrian+Grigor'yevich+Shaposhnikov&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -12,11 +12,11 @@
 <field name="librettistSort">Wissmer, Pierre</field>
 <field name="librettist">Rostislav Hofmann</field>
 <field name="librettistSort">Hofmann, Rostislav</field>
-<field name="theater"/>
+
 <field name="city">Verdun-sur-Meuse</field>
 <field name="region">Meuse</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Léonidas,+ou+La+cruauté+mentale+Pierre+Wissmer&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

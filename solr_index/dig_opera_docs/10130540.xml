@@ -12,9 +12,9 @@
 <field name="librettistSort">Taktakishvili, G.</field>
 <field name="theater">Kazyonnïy Teatr</field>
 <field name="city">Tbilisi</field>
-<field name="region"/>
+
 <field name="country">Georgia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gantiadi+Daybreak+Shalva+Mikhailovich+Taktakishvili&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

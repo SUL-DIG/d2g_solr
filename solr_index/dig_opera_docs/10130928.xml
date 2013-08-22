@@ -10,11 +10,11 @@
 <field name="date">1873</field>
 <field name="librettist">P. Génin</field>
 <field name="librettistSort">Génin, P.</field>
-<field name="theater"/>
+
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+grand+chef+Louis+Thomas&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

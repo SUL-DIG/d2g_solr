@@ -12,11 +12,11 @@
 <field name="librettistSort">Told, Franz Xaver</field>
 <field name="librettist">Eugène Scribe</field>
 <field name="librettistSort">Scribe, Eugène</field>
-<field name="theater"/>
+
 <field name="city">Vienna</field>
-<field name="region"/>
+
 <field name="country">Austria</field>
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Zauberschleier,+oder+Maler,+Fee+und+Wirtin+Antonín+Emil+Titl&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -14,7 +14,7 @@
 <field name="city">Buffalo</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=François+Villon:+L'Enfant+Sans+Souci+Anton+Wolf&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

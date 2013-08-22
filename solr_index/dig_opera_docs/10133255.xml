@@ -14,7 +14,7 @@
 <field name="city">Omaha</field>
 <field name="region">Nebraska</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mr.+Sampson+of+Omaha+Eliza+Mazzucato+Young&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

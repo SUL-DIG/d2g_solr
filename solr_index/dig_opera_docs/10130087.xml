@@ -14,9 +14,9 @@
 <field name="librettistSort">Flaubert, Gustave</field>
 <field name="theater">Sofiyska Narodna Opera</field>
 <field name="city">Sofia</field>
-<field name="region"/>
+
 <field name="country">Bulgaria</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Salammbô+Veselin+Stoyanov&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -14,7 +14,7 @@
 <field name="city">Jablonec nad Nisou</field>
 <field name="region">Severocesky Kraj</field>
 <field name="country">Czech Republic</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aus+Glaskönigs+Wunderreich+Josef+Stabernack&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

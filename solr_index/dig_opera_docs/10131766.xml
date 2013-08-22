@@ -14,9 +14,9 @@
 <field name="librettistSort">German, Augusto</field>
 <field name="theater">Teatro Reale</field>
 <field name="city">Valletta</field>
-<field name="region"/>
+
 <field name="country">Malta</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Edith+Cavell+Paolino+Vassalo&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

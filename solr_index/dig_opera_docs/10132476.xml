@@ -10,11 +10,11 @@
 <field name="date">1939</field>
 <field name="librettist">Christoph Schulz-Gellen</field>
 <field name="librettistSort">Schulz-Gellen, Christoph</field>
-<field name="theater"/>
+
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>
 <field name="country">Sweden</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Königin+Elisabeth+Walter+Schmidt]+Fried+Walter&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

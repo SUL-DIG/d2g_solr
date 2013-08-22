@@ -10,8 +10,8 @@
 <field name="date">1857</field>
 <field name="librettist">Nikolaos Makris</field>
 <field name="librettistSort">Makris, Nikolaos"</field>
-<field name="country"/>
-<field name="subgenre"/>
+
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+odyrmos+tou+Kerkyraeou+horikou+Spyridon+Xyndas&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

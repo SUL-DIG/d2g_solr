@@ -14,7 +14,7 @@
 <field name="city">Kalundborg</field>
 <field name="region">Sjælland</field>
 <field name="country">Denmark</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Brand+Fire+Niels+Rosing-Schow&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

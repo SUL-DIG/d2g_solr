@@ -16,7 +16,7 @@
 <field name="city">Munich</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Fornarina+Carl+Zeller&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

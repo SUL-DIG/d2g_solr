@@ -10,11 +10,11 @@
 <field name="date">1934</field>
 <field name="librettist">[Michael Tippett et al.] D. M. Pennyless</field>
 <field name="librettistSort">Pennyless, D. M. [Michael Tippett et al.]</field>
-<field name="theater"/>
+
 <field name="city">Boosbeck</field>
 <field name="region">Cleveland</field>
 <field name="country">United Kingdom</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Robin+Hood+Michael+Tippett&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

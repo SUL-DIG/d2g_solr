@@ -12,11 +12,11 @@
 <field name="librettistSort">Devillez, Hubert</field>
 <field name="librettist">Desiderius Erasmus</field>
 <field name="librettistSort">Erasmus, Desiderius</field>
-<field name="theater"/>
+
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'éloge+de+la+folie+Henri+Tomasi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

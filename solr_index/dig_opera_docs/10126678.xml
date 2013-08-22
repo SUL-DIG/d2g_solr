@@ -16,7 +16,7 @@
 <field name="city">Stralsund</field>
 <field name="region">Mecklenburg-Vorpommern</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+alltägliche+Wunder+Gerhard+Rosenfeld&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

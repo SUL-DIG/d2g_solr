@@ -9,9 +9,9 @@
 <field name="year">1821</field>
 <field name="date">1821theaterVárosi Színház</field>
 <field name="city">Budapest</field>
-<field name="region"/>
+
 <field name="country">Hungary</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Vogel+des+Bruder+Philipp+János+Spech&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

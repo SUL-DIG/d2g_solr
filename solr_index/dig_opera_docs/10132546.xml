@@ -10,11 +10,11 @@
 <field name="date">1855</field>
 <field name="librettist">Joseph J. Xaver Pfyffer zu Neueck</field>
 <field name="librettistSort">Neueck, Joseph J. Xaver Pfyffer zu</field>
-<field name="theater"/>
+
 <field name="city">Zürich</field>
 <field name="region">Zürich</field>
 <field name="country">Switzerland</field>
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schweizers+Heimweh+und+Heimkehr+Xaver+Schnyder+von+Wartensee&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

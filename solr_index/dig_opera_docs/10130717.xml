@@ -12,8 +12,8 @@
 <field name="librettistSort">Gheorghiu, George</field>
 <field name="librettist">Ion Druta</field>
 <field name="librettistSort">Druta, Ion"</field>
-<field name="country"/>
-<field name="subgenre"/>
+
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Golubi+v+kosuyu+lineyku+Bobocel+cu+ale+lui+Zlata+Tcaci&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

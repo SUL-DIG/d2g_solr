@@ -16,7 +16,7 @@
 <field name="city">Basildon</field>
 <field name="region">Essex</field>
 <field name="country">United Kingdom</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Heaven+Ablaze+in+his+Breast+Judith+Weir&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

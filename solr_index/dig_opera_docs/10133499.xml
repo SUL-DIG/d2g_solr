@@ -12,9 +12,9 @@
 <field name="librettistSort">Faragó, Jenö</field>
 <field name="theater">Royal Orfeum</field>
 <field name="city">Budapest</field>
-<field name="region"/>
+
 <field name="country">Hungary</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pitypalaty+kisasszony+Béla+Zerkovitz&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

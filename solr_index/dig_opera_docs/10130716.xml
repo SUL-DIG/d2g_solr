@@ -14,9 +14,9 @@
 <field name="librettistSort">Creanga, Ion</field>
 <field name="theater">Teatru de Opera si Balet</field>
 <field name="city">Chisinau</field>
-<field name="region"/>
+
 <field name="country">Moldova</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Capra+cu+trei+iezi+The+Goat+with+Three+Kids+Zlata+Tcaci&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

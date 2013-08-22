@@ -14,9 +14,9 @@
 <field name="librettistSort">Chamsa, Chakimsade</field>
 <field name="theater">Teatr Operï i Baleta imeni A. Navoi</field>
 <field name="city">Tashkent</field>
-<field name="region"/>
+
 <field name="country">Uzbekistan</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maisaraning+ischi+Solomon+Aleksandrovich+Yudakov&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

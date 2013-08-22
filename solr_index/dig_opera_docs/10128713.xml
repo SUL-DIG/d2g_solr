@@ -6,10 +6,10 @@
 <field name="titleSort">villanella innocente</field>
 <field name="composer">Gregorio Sciroli</field>
 <field name="composerSort">Sciroli, Gregorio</field>
-<field name="year"/>
-<field name="date"/>
-<field name="country"/>
-<field name="subgenre"/>
+
+
+
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+villanella+innocente+Gregorio+Sciroli&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

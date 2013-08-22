@@ -10,11 +10,11 @@
 <field name="date">1910</field>
 <field name="librettist">Beniamino Fernández y Medina</field>
 <field name="librettistSort">Fernández y Medina, Beniamino</field>
-<field name="theater"/>
+
 <field name="city">Montevideo</field>
-<field name="region"/>
+
 <field name="country">Uruguay</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Francesco+d'Assisi+Luigi+Sambucetti&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

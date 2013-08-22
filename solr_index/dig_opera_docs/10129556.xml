@@ -11,7 +11,7 @@
 <field name="city">Saint-Denis</field>
 <field name="region">Seine-Saint-Denis</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+court+paille+Charles+Joseph+Cerf]+Souweine&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

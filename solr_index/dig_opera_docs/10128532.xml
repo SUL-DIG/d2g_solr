@@ -12,11 +12,11 @@
 <field name="librettistSort">Schulz-Beuthen, Heinrich</field>
 <field name="librettist">Mathilde Wesendonck</field>
 <field name="librettistSort">Wesendonck, Mathilde</field>
-<field name="theater"/>
+
 <field name="city">Zürich</field>
 <field name="region">Zürich</field>
 <field name="country">Switzerland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aschenbrödel+Heinrich+Schulz-Beuthen&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

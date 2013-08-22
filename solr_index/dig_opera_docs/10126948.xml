@@ -14,7 +14,7 @@
 <field name="city">Novosibirsk</field>
 <field name="region">Novosibirsk Oblast</field>
 <field name="country">Russia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Iyul'skoye+voskresen'ye,+god+1942+Vladimir+Il'ich+Rubin&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -13,9 +13,9 @@
 <field name="librettist">Jaroslaw Iwaszkiewicz</field>
 <field name="librettistSort">Iwaszkiewicz, Jaroslaw</field>
 <field name="theater">Polish Radio (Polskie Radio)</field>
-<field name="region"/>
+
 <field name="country">Poland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Upadek+Ojca+Suryna+The+Fall+of+Father+Suryn+Romuald+Twardowski&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

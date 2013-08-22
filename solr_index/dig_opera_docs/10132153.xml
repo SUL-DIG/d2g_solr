@@ -10,11 +10,11 @@
 <field name="date">1786</field>
 <field name="librettist">François-Xavier Pagès</field>
 <field name="librettistSort">Pagès, François-Xavier</field>
-<field name="theater"/>
+
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>
 <field name="country">Belgium</field>
 <field name="subgenre">Vaudeville</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+foire+de+village+Ignaz+Vitzthumb&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

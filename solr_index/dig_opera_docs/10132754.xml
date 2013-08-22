@@ -10,11 +10,11 @@
 <field name="date">1769</field>
 <field name="librettist">Christian Gotthilf Weisflog</field>
 <field name="librettistSort">Weisflog, Christian Gotthilf</field>
-<field name="theater"/>
+
 <field name="city">Bautzen</field>
 <field name="region">Sachsen</field>
 <field name="country">Germany</field>
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Erntefest+Christian+Gotthilf+Weisflog&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

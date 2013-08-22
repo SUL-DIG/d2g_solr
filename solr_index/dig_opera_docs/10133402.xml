@@ -14,9 +14,9 @@
 <field name="librettistSort">Zarins, Margers</field>
 <field name="theater">Latviyskiy Teatr Operï i Baleta</field>
 <field name="city">Riga</field>
-<field name="region"/>
+
 <field name="country">Latvia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zalas+dzirnavas+The+Green+Mill+Margers+Zarins&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

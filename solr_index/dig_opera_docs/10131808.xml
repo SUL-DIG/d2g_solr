@@ -12,8 +12,8 @@
 <field name="librettistSort">Gal'perina, Yevgenia L'vovna</field>
 <field name="librettist">Alexandre Dumas</field>
 <field name="librettistSort">Dumas, Alexandre"</field>
-<field name="country"/>
-<field name="subgenre"/>
+
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lyubov'+d'Artanyana+D'Artagnan+in+Love+Moisey+Samuilovich+Vaynberg&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

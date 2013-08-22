@@ -12,11 +12,11 @@
 <field name="librettistSort">Wieland, Christoph Martin</field>
 <field name="librettist">Ludovico Ariosto</field>
 <field name="librettistSort">Ariosto, Ludovico</field>
-<field name="theater"/>
+
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>
 <field name="country">Germany</field>
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Angelica+Ernst+Wilhelm+Wolf&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

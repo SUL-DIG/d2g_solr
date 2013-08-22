@@ -11,7 +11,7 @@
 <field name="city">Zagan</field>
 <field name="region">Lubuskie</field>
 <field name="country">Poland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Erbschaft+Christian+Gotthilf+Weisflog&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

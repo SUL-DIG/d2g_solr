@@ -10,11 +10,11 @@
 <field name="date">1913</field>
 <field name="librettist">Émile Sicard</field>
 <field name="librettistSort">Sicard, Émile</field>
-<field name="theater"/>
+
 <field name="city">Coursan</field>
 <field name="region">Aude</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fille+de+la+terre+Déodat+de+Séverac&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

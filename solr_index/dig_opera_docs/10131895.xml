@@ -8,8 +8,8 @@
 <field name="composerSort">Verheyen, Pierre Emmanuel</field>
 <field name="year">1794</field>
 <field name="date">1794</field>
-<field name="country"/>
-<field name="subgenre"/>
+
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+jardin+d'amour,+ou+Les+noces+d'Alexis+Pierre+Emmanuel+Verheyen&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

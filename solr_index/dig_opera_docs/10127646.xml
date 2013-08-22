@@ -16,7 +16,7 @@
 <field name="city">Alicante</field>
 <field name="region">Valencia</field>
 <field name="country">Spain</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'any+de+grаcia+Albert+Sardа&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -12,11 +12,11 @@
 <field name="librettistSort">Knyazhnin, Aleksandr Yakovlevich</field>
 <field name="librettist">Louis-Charles Caigniez</field>
 <field name="librettistSort">Caigniez, Louis-Charles</field>
-<field name="theater"/>
+
 <field name="city">St. Petersburg</field>
-<field name="region"/>
+
 <field name="country">Russia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nurzakhad,+ili+Neschastiye+ot+bessmertiya+Aleksey+Nikolayevich+Titov&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

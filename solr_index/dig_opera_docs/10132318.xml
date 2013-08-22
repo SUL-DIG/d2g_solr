@@ -16,7 +16,7 @@
 <field name="city">Ustí nad Labem</field>
 <field name="region">Severocesky Kraj</field>
 <field name="country">Czech Republic</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prazského+nokturna+Prague+Nocturne+Zbynék+Vostrák&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

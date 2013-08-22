@@ -15,9 +15,9 @@
 <field name="theater">Gosudarstvennïy Akademicheskiy Teatr Operï i Baleta imeni Z. P.
 Paliashvili</field>
 <field name="city">Tbilisi</field>
-<field name="region"/>
+
 <field name="country">Georgia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gandegili+The+Hermit+Sulkhan+Fyodorovich+Tsintsadze&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

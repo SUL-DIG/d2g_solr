@@ -10,11 +10,11 @@
 <field name="date">1950</field>
 <field name="librettist">Hjalmar Kutzleb</field>
 <field name="librettistSort">Kutzleb, Hjalmar</field>
-<field name="theater"/>
+
 <field name="city">Frankfurt</field>
 <field name="region">Hessen</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jorinde+Josef+Wingenfeld&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

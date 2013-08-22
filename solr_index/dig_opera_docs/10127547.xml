@@ -10,11 +10,11 @@
 <field name="date">1636</field>
 <field name="librettist">Pio Enea degli Obizzi</field>
 <field name="librettistSort">Obizzi, Pio Enea degli</field>
-<field name="theater"/>
+
 <field name="city">Padua</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ermiona+Giovanni+Felice+Sances&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>
