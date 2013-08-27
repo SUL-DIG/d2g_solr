@@ -14,9 +14,9 @@
 <field name="librettistSort">Sedaine, Michel-Jean</field>
 <field name="theater">Kotzen Theater</field>
 <field name="city">Prague</field>
-<field name="region"/>
+
 <field name="country">Czech Republic</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Teufel+in+allen+Ecken+Karl+Ludwig+Reuling&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

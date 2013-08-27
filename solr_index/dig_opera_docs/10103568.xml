@@ -7,11 +7,11 @@
 <field name="composer">Giuseppe Bonno</field>
 <field name="composerSort">Bonno, Giuseppe</field>
 <field name="year">1739</field>
-<field name="date">1739theaterHoftheater</field>
+<field name="date">1739</field><field name="theater">Hoftheater</field>
 <field name="city">Vienna</field>
-<field name="region"/>
+
 <field name="country">Austria</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+nume+d'Atene+Giuseppe+Bonno&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

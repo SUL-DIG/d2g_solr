@@ -10,11 +10,11 @@
 <field name="date">1799</field>
 <field name="librettist">K. Damsky</field>
 <field name="librettistSort">Damsky, K.</field>
-<field name="theater"/>
+
 <field name="city">St. Petersburg</field>
-<field name="region"/>
+
 <field name="country">Russia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vinetta,+ili+Taras+v+ul'ye+Antoine+Bullant&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,11 +7,11 @@
 <field name="composer">Hieronymus Payer</field>
 <field name="composerSort">Payer, Hieronymus</field>
 <field name="year">1808</field>
-<field name="date">1808theaterTheater in Meidling</field>
+<field name="date">1808</field><field name="theater">Theater in Meidling</field>
 <field name="city">Vienna</field>
-<field name="region"/>
+
 <field name="country">Austria</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+hohle+Baum+Hieronymus+Payer&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

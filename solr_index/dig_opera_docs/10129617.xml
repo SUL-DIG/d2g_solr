@@ -7,7 +7,7 @@
 <field name="composer">Stanislaus Spindler</field>
 <field name="composerSort">Spindler, Stanislaus</field>
 <field name="year">1810</field>
-<field name="date">1810theaterDeutsches Theater</field>
+<field name="date">1810</field><field name="theater">Deutsches Theater</field>
 <field name="city">Strasbourg</field>
 <field name="region">Bas-Rhin</field>
 <field name="country">France</field>

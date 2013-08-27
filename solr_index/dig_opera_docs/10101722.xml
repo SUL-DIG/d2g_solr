@@ -10,11 +10,11 @@
 <field name="date">1980</field>
 <field name="librettist">Leda Mileva</field>
 <field name="librettistSort">Mileva, Leda</field>
-<field name="theater"/>
+
 <field name="city">Blagoevgrad</field>
 <field name="region">Sofia Oblast</field>
 <field name="country">Bulgaria</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kogato+kuklite+ne+spyat+Rumen+Balyozov&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

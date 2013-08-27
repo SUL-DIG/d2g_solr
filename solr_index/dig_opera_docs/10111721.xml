@@ -14,7 +14,7 @@
 <field name="city">Pula</field>
 <field name="region">Istria</field>
 <field name="country">Croatia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+bufera+Gialdino+Gialdini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

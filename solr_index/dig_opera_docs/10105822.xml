@@ -12,8 +12,8 @@
 <field name="librettistSort">Chlubna, Osvald</field>
 <field name="librettist">Alois Jirásek</field>
 <field name="librettistSort">Jirásek, Alois"</field>
-<field name="country"/>
-<field name="subgenre"/>
+
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kolébka+The+Cradle+Osvald+Chlubna&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

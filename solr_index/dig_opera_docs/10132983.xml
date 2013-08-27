@@ -7,7 +7,7 @@
 <field name="composer">Charles Wilson</field>
 <field name="composerSort">Wilson, Charles</field>
 <field name="year">1971</field>
-<field name="date">1971theaterSpring Festival</field>
+<field name="date">1971</field><field name="theater">Spring Festival</field>
 <field name="city">Guelph</field>
 <field name="region">Ontario</field>
 <field name="country">Canada</field>

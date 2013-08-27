@@ -12,11 +12,11 @@
 <field name="librettistSort">Nikolic, Momir</field>
 <field name="librettist">Oskar Davico</field>
 <field name="librettistSort">Davico, Oskar</field>
-<field name="theater"/>
+
 <field name="city">Sarajevo</field>
-<field name="region"/>
+
 <field name="country">Bosnia-Hercegovina</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cetrdesetprva+Mihovil+Logar&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

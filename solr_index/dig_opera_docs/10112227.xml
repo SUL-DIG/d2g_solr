@@ -7,11 +7,11 @@
 <field name="composer">Francesco Gnecco</field>
 <field name="composerSort">Gnecco, Francesco</field>
 <field name="year">1805</field>
-<field name="date">1805theaterTeatro Eretenio</field>
+<field name="date">1805</field><field name="theater">Teatro Eretenio</field>
 <field name="city">Vicenza</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'incognito+Francesco+Gnecco&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

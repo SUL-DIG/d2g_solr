@@ -7,7 +7,7 @@
 <field name="composer">Charles Warot</field>
 <field name="composerSort">Warot, Charles</field>
 <field name="year">1826</field>
-<field name="date">1826theaterPrivate Performance</field>
+<field name="date">1826</field><field name="theater">Private Performance</field>
 <field name="city">Antwerp</field>
 <field name="region">Antwerpen</field>
 <field name="country">Belgium</field>

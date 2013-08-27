@@ -7,11 +7,11 @@
 <field name="composer">Franz Ignaz Beck</field>
 <field name="composerSort">Beck, Franz Ignaz</field>
 <field name="year">1793</field>
-<field name="date">1793theaterGrand-Théâtre</field>
+<field name="date">1793</field><field name="theater">Grand-Théâtre</field>
 <field name="city">Bordeaux</field>
 <field name="region">Gironde</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+peuples+et+les+rois+Franz+Ignaz+Beck&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

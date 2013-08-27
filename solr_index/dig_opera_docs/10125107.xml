@@ -12,11 +12,11 @@
 <field name="librettistSort">Noyer, Georges</field>
 <field name="librettist">[Charles-Louis Granval] Gribouval</field>
 <field name="librettistSort">Gribouval, [Charles-Louis Granval]</field>
-<field name="theater"/>
+
 <field name="city">Rouen</field>
 <field name="region">Seine-Maritime</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rabelais,+ou+Maître+François+Frédéric+Prestreau&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

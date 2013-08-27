@@ -7,11 +7,11 @@
 <field name="composer">William Clifton Byrd</field>
 <field name="composerSort">Byrd, William Clifton</field>
 <field name="year">1954</field>
-<field name="date">1954theaterMask and Wig Club</field>
+<field name="date">1954</field><field name="theater">Mask and Wig Club</field>
 <field name="city">Philadelphia</field>
 <field name="region">Pennsylvania</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hold+That+Note+William+Clifton+Byrd&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

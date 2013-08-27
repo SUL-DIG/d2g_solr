@@ -7,11 +7,11 @@
 <field name="composer">J. A. M. Laflèche</field>
 <field name="composerSort">Laflèche, J. A. M.</field>
 <field name="year">1831</field>
-<field name="date">1831theater</field>
+<field name="date">1831</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
 <field name="subgenre">Vaudeville</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+adieux+aux+Fillette+J.+A.+M.+Laflèche&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

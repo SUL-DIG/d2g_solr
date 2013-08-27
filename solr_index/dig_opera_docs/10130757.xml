@@ -7,7 +7,7 @@
 <field name="composer">Georg Philipp Telemann</field>
 <field name="composerSort">Telemann, Georg Philipp</field>
 <field name="year">1703</field>
-<field name="date">1703theaterSchauplatz im Brühl</field>
+<field name="date">1703</field><field name="theater">Schauplatz im Brühl</field>
 <field name="city">Leipzig</field>
 <field name="region">Sachsen</field>
 <field name="country">Germany</field>

@@ -7,11 +7,11 @@
 <field name="composer">Walter Wadham Peters</field>
 <field name="composerSort">Peters, Walter Wadham</field>
 <field name="year">1902</field>
-<field name="date">1902theaterDuchess Theatre</field>
+<field name="date">1902</field><field name="theater">Duchess Theatre</field>
 <field name="city">Balham</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Goldiggers,+or+Matrimony+Mania+Walter+Wadham+Peters&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

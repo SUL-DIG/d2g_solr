@@ -14,9 +14,9 @@
 <field name="librettistSort">Luknitsky, Pavel Nikolayevich</field>
 <field name="theater">Ayni Teatr</field>
 <field name="city">Dushanbe</field>
-<field name="region"/>
+
 <field name="country">Tajikistan</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bakhtiyor+i+Nisso+Bakhtiyor+and+Niso+Sergey+Artem'yevich+Balasanian&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

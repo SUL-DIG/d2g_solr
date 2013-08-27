@@ -7,7 +7,7 @@
 <field name="composer">Edmond Servel</field>
 <field name="composerSort">Servel, Edmond</field>
 <field name="year">1858</field>
-<field name="date">1858theaterThéâtre Municipal</field>
+<field name="date">1858</field><field name="theater">Théâtre Municipal</field>
 <field name="city">Montpellier</field>
 <field name="region">Hérault</field>
 <field name="country">France</field>

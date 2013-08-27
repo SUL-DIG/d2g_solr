@@ -7,7 +7,7 @@
 <field name="composer">Antonio Rovira</field>
 <field name="composerSort">Rovira, Antonio</field>
 <field name="year">1839</field>
-<field name="date">1839theaterTeatre Principal</field>
+<field name="date">1839</field><field name="theater">Teatre Principal</field>
 <field name="city">Barcelona</field>
 <field name="region">Catalunya</field>
 <field name="country">Spain</field>

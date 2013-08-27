@@ -12,11 +12,11 @@
 <field name="librettistSort">Dittersdorf, Carl Ditters von</field>
 <field name="librettist">Pierre-Augustin Caron de Beaumarchais</field>
 <field name="librettistSort">Beaumarchais, Pierre-Augustin Caron de</field>
-<field name="theater"/>
+
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>
 <field name="country">Czech Republic</field>
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Hochzeit+des+Figaro+Carl+Ditters+von+Dittersdorf&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

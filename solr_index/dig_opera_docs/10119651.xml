@@ -10,11 +10,11 @@
 <field name="date">1922</field>
 <field name="librettist">Elio Del Giglio</field>
 <field name="librettistSort">Del Giglio, Elio</field>
-<field name="theater"/>
+
 <field name="city">Rosario</field>
 <field name="region">Santa Fe</field>
 <field name="country">Argentina</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'evaso+Juan+Bautista+Massa&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

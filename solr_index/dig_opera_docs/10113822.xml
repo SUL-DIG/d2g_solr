@@ -6,12 +6,12 @@
 <field name="titleSort">neue krumme Teufel</field>
 <field name="composer">Joseph Haydn</field>
 <field name="composerSort">Haydn, Joseph</field>
-<field name="year"/>
-<field name="date"/>
+
+
 <field name="librettist">Joseph Felix von Kurz</field>
 <field name="librettistSort">Kurz, Joseph Felix von"</field>
-<field name="country"/>
-<field name="subgenre"/>
+
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+neue+krumme+Teufel+Joseph+Haydn&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

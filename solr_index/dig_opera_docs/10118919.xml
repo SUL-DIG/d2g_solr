@@ -10,11 +10,11 @@
 <field name="date">1782</field>
 <field name="librettist">Ludwig Philipp Hahn</field>
 <field name="librettistSort">Hahn, Ludwig Philipp</field>
-<field name="theater"/>
+
 <field name="city">Zweibrücken</field>
 <field name="region">Rheinland-Pfalz</field>
 <field name="country">Germany</field>
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wallrad+und+Evchen,+oder+Die+Parforsjagd+Johann+Ludwig+Maier&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

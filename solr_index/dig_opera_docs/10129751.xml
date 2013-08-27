@@ -7,7 +7,7 @@
 <field name="composer">Józef Stefani</field>
 <field name="composerSort">Stefani, Józef</field>
 <field name="year">1872</field>
-<field name="date">1872theaterTeatr Letni</field>
+<field name="date">1872</field><field name="theater">Teatr Letni</field>
 <field name="city">Warsaw</field>
 
 <field name="country">Poland</field>

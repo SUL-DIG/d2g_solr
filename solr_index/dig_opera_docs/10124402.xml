@@ -7,11 +7,11 @@
 <field name="composer">Belisario Pisilani</field>
 <field name="composerSort">Pisilani, Belisario</field>
 <field name="year">1867</field>
-<field name="date">1867theater</field>
+<field name="date">1867</field>
 <field name="city">Sant'Elpidio a Mare</field>
 <field name="region">Marche</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+naso+del+morto+Belisario+Pisilani&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

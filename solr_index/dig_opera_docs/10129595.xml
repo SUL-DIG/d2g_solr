@@ -7,7 +7,7 @@
 <field name="composer">Giovanni Antonio Speranza</field>
 <field name="composerSort">Speranza, Giovanni Antonio</field>
 <field name="year">1848</field>
-<field name="date">1848theaterTeatro di via della Pergola</field>
+<field name="date">1848</field><field name="theater">Teatro di via della Pergola</field>
 <field name="city">Florence</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>

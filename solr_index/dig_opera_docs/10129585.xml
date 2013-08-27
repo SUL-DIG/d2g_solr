@@ -7,7 +7,7 @@
 <field name="composer">János Spech</field>
 <field name="composerSort">Spech, János</field>
 <field name="year">1821</field>
-<field name="date">1821theaterVárosi Színház</field>
+<field name="date">1821</field><field name="theater">Városi Színház</field>
 <field name="city">Budapest</field>
 
 <field name="country">Hungary</field>

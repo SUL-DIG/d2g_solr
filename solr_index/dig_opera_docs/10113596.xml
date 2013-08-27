@@ -12,9 +12,9 @@
 <field name="librettistSort">Ihimaera, Witi</field>
 <field name="theater">New Zealand State Opera</field>
 <field name="city">Christchurch</field>
-<field name="region"/>
+
 <field name="country">New Zealand</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Waituhi+The+Life+of+the+Village+Ross+Talbot+Harris&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

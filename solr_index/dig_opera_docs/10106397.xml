@@ -10,11 +10,11 @@
 <field name="date">1754</field>
 <field name="librettist">Francesco Maria Pico della Mirandola</field>
 <field name="librettistSort">Pico della Mirandola, Francesco Maria</field>
-<field name="theater"/>
+
 <field name="city">Aranjuez</field>
 <field name="region">Madrid</field>
 <field name="country">Spain</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Las+modas+Nicola+Conforto&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

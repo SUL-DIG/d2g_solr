@@ -10,11 +10,11 @@
 <field name="date">1901</field>
 <field name="librettist">[Felice Pozza] Fulvio Fulgonio</field>
 <field name="librettistSort">Fulgonio, Fulvio [Felice Pozza]</field>
-<field name="theater"/>
+
 <field name="city">Lima</field>
-<field name="region"/>
+
 <field name="country">Peru</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arte+ed+amore+Napoleone+Maffezzoli&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

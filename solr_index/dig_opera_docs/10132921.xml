@@ -7,7 +7,7 @@
 <field name="composer">Max Wodniansky von Wildenfeld</field>
 <field name="composerSort">Wildenfeld, Max Wodniansky von</field>
 <field name="year">1900</field>
-<field name="date">1900theaterNeues Stadttheater</field>
+<field name="date">1900</field><field name="theater">Neues Stadttheater</field>
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>
 <field name="country">Czech Republic</field>

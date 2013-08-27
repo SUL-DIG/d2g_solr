@@ -12,9 +12,9 @@
 <field name="librettistSort">Spasov, Pavel</field>
 <field name="theater">Sofiyska Narodna Opera</field>
 <field name="city">Sofia</field>
-<field name="region"/>
+
 <field name="country">Bulgaria</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zakhary+Zografat+The+Icon+Painter+Zakhary+Marin+Goleminov&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

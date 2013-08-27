@@ -7,7 +7,7 @@
 <field name="composer">Ignaz Vitzthumb</field>
 <field name="composerSort">Vitzthumb, Ignaz</field>
 <field name="year">1761</field>
-<field name="date">1761theaterConcerts-Bourgeois</field>
+<field name="date">1761</field><field name="theater">Concerts-Bourgeois</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>
 <field name="country">Belgium</field>

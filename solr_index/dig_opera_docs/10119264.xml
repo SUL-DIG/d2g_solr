@@ -7,11 +7,11 @@
 <field name="composer">Sebastiano Augusto Marcaria</field>
 <field name="composerSort">Marcaria, Sebastiano Augusto</field>
 <field name="year">1877</field>
-<field name="date">1877theaterTeatro degli Accademici Filodrammatici</field>
+<field name="date">1877</field><field name="theater">Teatro degli Accademici Filodrammatici</field>
 <field name="city">Turin</field>
 <field name="region">Piemonte</field>
 <field name="country">Italy</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'avaro+burlato+Sebastiano+Augusto+Marcaria&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

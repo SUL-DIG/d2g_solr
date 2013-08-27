@@ -10,11 +10,11 @@
 <field name="date">1713</field>
 <field name="librettist">Nicolò de Castelli</field>
 <field name="librettistSort">Castelli, Nicolò de</field>
-<field name="theater"/>
+
 <field name="city">Vienna</field>
-<field name="region"/>
+
 <field name="country">Austria</field>
 <field name="subgenre">Serenata</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'ammalato+immaginario+Francesco+Bartolomeo+Conti&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

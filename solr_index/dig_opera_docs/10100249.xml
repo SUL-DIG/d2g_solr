@@ -7,11 +7,11 @@
 <field name="composer">Carl Christian Agthe</field>
 <field name="composerSort">Agthe, Carl Christian</field>
 <field name="year">1779</field>
-<field name="date">1779theaterCourt</field>
+<field name="date">1779</field><field name="theater">Court</field>
 <field name="city">St. Petersburg</field>
-<field name="region"/>
+
 <field name="country">Russia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Barbier+auf+dem+Lande+Carl+Christian+Agthe&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

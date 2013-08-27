@@ -12,9 +12,9 @@
 <field name="librettistSort">Ashman, Aaron</field>
 <field name="theater">Israel National Opera</field>
 <field name="city">Tel-Aviv</field>
-<field name="region"/>
+
 <field name="country">Israel</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alexandra+haHashmonait+Menahem+Avidon&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

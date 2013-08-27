@@ -7,7 +7,7 @@
 <field name="composer">Paul Wilson</field>
 <field name="composerSort">Wilson, Paul</field>
 <field name="year">1986</field>
-<field name="date">1986theaterAfro-American Museum</field>
+<field name="date">1986</field><field name="theater">Afro-American Museum</field>
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>

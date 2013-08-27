@@ -10,11 +10,11 @@
 <field name="date">1790</field>
 <field name="librettist">Caroline Louise von Klenk</field>
 <field name="librettistSort">Klenk, Caroline Louise von</field>
-<field name="theater"/>
+
 <field name="city">Nuremberg</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+ehrliche+Schweizer+Johann+Karl+Mainberger&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

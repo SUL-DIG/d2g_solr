@@ -10,11 +10,11 @@
 <field name="date">1744</field>
 <field name="librettist">Antonio Palomba</field>
 <field name="librettistSort">Palomba, Antonio</field>
-<field name="theater"/>
+
 <field name="city">Brescia</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amante+tradito+Angela+Faustinelli&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

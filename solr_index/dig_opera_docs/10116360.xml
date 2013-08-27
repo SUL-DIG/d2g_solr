@@ -7,11 +7,11 @@
 <field name="composer">Josef Konti</field>
 <field name="composerSort">Konti, Josef</field>
 <field name="year">1878</field>
-<field name="date">1878theaterNagyvárad Színház</field>
+<field name="date">1878</field><field name="theater">Nagyvárad Színház</field>
 <field name="city">Budapest</field>
-<field name="region"/>
+
 <field name="country">Hungary</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+vadászok+Josef+Konti&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

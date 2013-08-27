@@ -7,11 +7,11 @@
 <field name="composer">Ombono Nicolini</field>
 <field name="composerSort">Nicolini, Ombono</field>
 <field name="year">1770</field>
-<field name="date">1770theater</field>
+<field name="date">1770</field>
 <field name="city">Padua</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+pastori+generosi,+ossia+Il+trionfo+d'amicizia+Ombono+Nicolini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

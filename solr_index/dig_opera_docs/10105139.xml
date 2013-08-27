@@ -7,11 +7,11 @@
 <field name="composer">Luigi Caruso</field>
 <field name="composerSort">Caruso, Luigi</field>
 <field name="year">1786</field>
-<field name="date">1786theaterReal Teatro di Santa Cecilia</field>
+<field name="date">1786</field><field name="theater">Real Teatro di Santa Cecilia</field>
 <field name="city">Palermo</field>
 <field name="region">Sicilia</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'impresario+fallito+Luigi+Caruso&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

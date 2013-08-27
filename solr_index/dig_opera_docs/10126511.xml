@@ -10,11 +10,11 @@
 <field name="date">1932</field>
 <field name="librettist">Roger Allard</field>
 <field name="librettistSort">Allard, Roger</field>
-<field name="theater"/>
+
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+diable+amoureux+Roland+Alexis+Manuel+Lévy]+Roland-Manuel&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

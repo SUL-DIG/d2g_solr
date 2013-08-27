@@ -7,7 +7,7 @@
 <field name="composer">Luigi Siri</field>
 <field name="composerSort">Siri, Luigi</field>
 <field name="year">1831</field>
-<field name="date">1831theaterAccademia di San Severino</field>
+<field name="date">1831</field><field name="theater">Accademia di San Severino</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

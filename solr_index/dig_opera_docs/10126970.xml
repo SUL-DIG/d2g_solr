@@ -7,7 +7,7 @@
 <field name="composer">Alois Rucka</field>
 <field name="composerSort">Rucka, Alois</field>
 <field name="year">1902</field>
-<field name="date">1902theaterNárodní Divadlo</field>
+<field name="date">1902</field><field name="theater">Národní Divadlo</field>
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>
 <field name="country">Czech Republic</field>

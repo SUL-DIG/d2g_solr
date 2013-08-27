@@ -10,11 +10,11 @@
 <field name="date">1936</field>
 <field name="librettist">Otto Adolf Nohel</field>
 <field name="librettistSort">Nohel, Otto Adolf</field>
-<field name="theater"/>
+
 <field name="city">Joinvile</field>
 <field name="region">Santa Catarina</field>
 <field name="country">Brazil</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Yara+Josef+Prantl&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

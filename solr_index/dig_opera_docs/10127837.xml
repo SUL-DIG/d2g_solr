@@ -7,7 +7,7 @@
 <field name="composer">Agostino Sauvage</field>
 <field name="composerSort">Sauvage, Agostino</field>
 <field name="year">1888</field>
-<field name="date">1888theaterArena</field>
+<field name="date">1888</field><field name="theater">Arena</field>
 <field name="city">Strada in Casentino</field>
 <field name="region">Emilia-Romagna</field>
 <field name="country">Italy</field>

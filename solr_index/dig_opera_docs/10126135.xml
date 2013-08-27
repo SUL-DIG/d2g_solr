@@ -7,11 +7,11 @@
 <field name="composer">Robert Riemann</field>
 <field name="composerSort">Riemann, Robert</field>
 <field name="year">1882</field>
-<field name="date">1882theaterFürstliches Theater</field>
+<field name="date">1882</field><field name="theater">Fürstliches Theater</field>
 <field name="city">Sondershausen</field>
 <field name="region">Thüringen</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bianca+Siffredi+Robert+Riemann&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -10,11 +10,11 @@
 <field name="date">1784</field>
 <field name="librettist">Jean-Baptiste Collet de Messine</field>
 <field name="librettistSort">Collet de Messine, Jean-Baptiste</field>
-<field name="theater"/>
+
 <field name="city">Nancy</field>
 <field name="region">Meurthe-et-Moselle</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vénus+et+Adonis+Alphonse-Toussaint+Fortia+de+Piles&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -10,11 +10,11 @@
 <field name="date">1787</field>
 <field name="librettist">__ d'Aumale de Corsenville</field>
 <field name="librettistSort">d'Aumale de Corsenville, __</field>
-<field name="theater"/>
+
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>
 <field name="country">Belgium</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Almanzor,+ou+Le+triomphe+de+la+gloire+Charles-François-Honoré+Duquesnoy&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

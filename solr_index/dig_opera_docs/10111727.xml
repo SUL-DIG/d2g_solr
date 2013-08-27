@@ -10,11 +10,11 @@
 <field name="date">1904</field>
 <field name="librettist">Giovanni Bovio</field>
 <field name="librettistSort">Bovio, Giovanni</field>
-<field name="theater"/>
+
 <field name="city">Rio de Janeiro</field>
 <field name="region">Rio de Janeiro</field>
 <field name="country">Brazil</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cristo+alla+festa+di+Purim+Giovanni+Giannetti&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

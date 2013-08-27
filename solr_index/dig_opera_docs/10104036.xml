@@ -14,7 +14,7 @@
 <field name="city">Craiova</field>
 <field name="region">Dolj</field>
 <field name="country">Romania</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tudor+din+Vladimiri+Tudor+of+Vladimiri+Teodor+Bratu&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

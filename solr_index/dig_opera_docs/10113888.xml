@@ -16,7 +16,7 @@
 <field name="city">Helsinki</field>
 <field name="region">Uudenmaan</field>
 <field name="country">Finland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Silkkirumpu+The+Damask+Drum+Paavo+Heininen&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

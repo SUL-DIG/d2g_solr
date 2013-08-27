@@ -7,11 +7,11 @@
 <field name="composer">Lorenzo Barbirolli</field>
 <field name="composerSort">Barbirolli, Lorenzo</field>
 <field name="year">1836</field>
-<field name="date">1836theaterFiera</field>
+<field name="date">1836</field><field name="theater">Fiera</field>
 <field name="city">Rovigo</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+Trajani+in+Laurento+Lorenzo+Barbirolli&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

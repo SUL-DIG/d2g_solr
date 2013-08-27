@@ -7,7 +7,7 @@
 <field name="composer">Benedikt Schack</field>
 <field name="composerSort">Schack, Benedikt</field>
 <field name="year">1792</field>
-<field name="date">1792theaterLandstrasser Theater</field>
+<field name="date">1792</field><field name="theater">Landstrasser Theater</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

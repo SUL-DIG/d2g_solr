@@ -7,11 +7,11 @@
 <field name="composer">Josef Blatt</field>
 <field name="composerSort">Blatt, Josef</field>
 <field name="year">1964</field>
-<field name="date">1964theaterUniversity of Michigan</field>
+<field name="date">1964</field><field name="theater">University of Michigan</field>
 <field name="city">Ann Arbor</field>
 <field name="region">Michigan</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Moses+on+Mount+Sinai+Josef+Blatt&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

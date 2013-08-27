@@ -7,7 +7,7 @@
 <field name="composer">Raimondo Rossi</field>
 <field name="composerSort">Rossi, Raimondo</field>
 <field name="year">1893</field>
-<field name="date">1893theaterTeatro Rossini</field>
+<field name="date">1893</field><field name="theater">Teatro Rossini</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

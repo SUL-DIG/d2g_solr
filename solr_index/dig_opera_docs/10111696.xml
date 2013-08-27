@@ -7,11 +7,11 @@
 <field name="composer">Geminiano Giacomelli</field>
 <field name="composerSort">Giacomelli, Geminiano</field>
 <field name="year">1738</field>
-<field name="date">1738theaterTeatro Ducale</field>
+<field name="date">1738</field><field name="theater">Teatro Ducale</field>
 <field name="city">Parma</field>
 <field name="region">Emilia-Romagna</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+costanza+vincitrice+in+amore+Geminiano+Giacomelli&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

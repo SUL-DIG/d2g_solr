@@ -10,11 +10,11 @@
 <field name="date">1679</field>
 <field name="librettist">Christian Schlegel</field>
 <field name="librettistSort">Schlegel, Christian</field>
-<field name="theater"/>
+
 <field name="city">Neuburg an der Donau</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Salibene+und+Rosimene+Johann+Paul+Agricola&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

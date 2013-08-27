@@ -11,9 +11,9 @@
 <field name="librettist">Luigi Orsini</field>
 <field name="librettistSort">Orsini, Luigi</field>
 <field name="theater">EIAR Radio (Ente Italiano Audizioni Radiofoniche)</field>
-<field name="region"/>
+
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+nozze+di+Haura+Adriano+Lualdi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

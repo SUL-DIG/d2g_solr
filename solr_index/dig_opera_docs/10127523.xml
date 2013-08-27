@@ -7,7 +7,7 @@
 <field name="composer">Francesco Sampieri</field>
 <field name="composerSort">Sampieri, Francesco</field>
 <field name="year">1822</field>
-<field name="date">1822theaterReal Teatro del Fondo di Separazione</field>
+<field name="date">1822</field><field name="theater">Real Teatro del Fondo di Separazione</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

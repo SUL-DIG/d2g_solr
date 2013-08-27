@@ -10,11 +10,11 @@
 <field name="date">1899</field>
 <field name="librettist">Vincenzo Boldrini</field>
 <field name="librettistSort">Boldrini, Vincenzo</field>
-<field name="theater"/>
+
 <field name="city">Matelica</field>
 <field name="region">Marche</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'onorevole+Nicola+Possenti&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

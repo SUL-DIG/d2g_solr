@@ -10,11 +10,11 @@
 <field name="date">1968</field>
 <field name="librettist">Colin Brumby</field>
 <field name="librettistSort">Brumby, Colin</field>
-<field name="theater"/>
+
 <field name="city">Brisbane</field>
 <field name="region">Queensland</field>
 <field name="country">Australia</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Wise+Shoemaker+Colin+Brumby&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

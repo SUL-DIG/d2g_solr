@@ -7,7 +7,7 @@
 <field name="composer">Émile Siroux</field>
 <field name="composerSort">Siroux, Émile</field>
 <field name="year">1920</field>
-<field name="date">1920theaterThéâtre de la Scala</field>
+<field name="date">1920</field><field name="theater">Théâtre de la Scala</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>
 <field name="country">Belgium</field>

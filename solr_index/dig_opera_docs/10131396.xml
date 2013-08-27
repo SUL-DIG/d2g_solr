@@ -7,7 +7,7 @@
 <field name="composer">Giacomo Tritto</field>
 <field name="composerSort">Tritto, Giacomo</field>
 <field name="year">1793</field>
-<field name="date">1793theaterTeatro San Ferdinando</field>
+<field name="date">1793</field><field name="theater">Teatro San Ferdinando</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

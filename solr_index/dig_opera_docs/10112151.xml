@@ -14,9 +14,9 @@
 <field name="librettistSort">Blaga, Lucian</field>
 <field name="theater">SRTV Television (Societatea Româna de Televiziune)</field>
 <field name="city">Bucharest</field>
-<field name="region"/>
+
 <field name="country">Romania</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zamolxe+Liviu+Glodeanu&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -12,11 +12,11 @@
 <field name="librettistSort">Brumby, Colin</field>
 <field name="librettist">"Andrew Barton ""Banjo"" Paterson"</field>
 <field name="librettistSort">Paterson, Andrew Barton ""Banjo""</field>
-<field name="theater"/>
+
 <field name="city">Brisbane</field>
 <field name="region">Queensland</field>
 <field name="country">Australia</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rita+and+Dita+and+the+Jolly+Swagman+Colin+Brumby&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

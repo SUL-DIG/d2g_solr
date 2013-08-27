@@ -7,7 +7,7 @@
 <field name="composer">Benedikt Schack</field>
 <field name="composerSort">Schack, Benedikt</field>
 <field name="year">1794</field>
-<field name="date">1794theaterFreihaus-Theater auf der Wieden</field>
+<field name="date">1794</field><field name="theater">Freihaus-Theater auf der Wieden</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

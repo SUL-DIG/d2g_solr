@@ -7,7 +7,7 @@
 <field name="composer">Morris Wright</field>
 <field name="composerSort">Wright, Morris</field>
 <field name="year">1965</field>
-<field name="date">1965theaterBall State University</field>
+<field name="date">1965</field><field name="theater">Ball State University</field>
 <field name="city">Muncie</field>
 <field name="region">Indiana</field>
 <field name="country">United States</field>

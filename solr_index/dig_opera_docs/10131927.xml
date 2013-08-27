@@ -7,7 +7,7 @@
 <field name="composer">Aleksey Nikolayevich Verstovsky</field>
 <field name="composerSort">Verstovsky, Aleksey Nikolayevich</field>
 <field name="year">1817</field>
-<field name="date">1817theaterMalïy Derevyannïy Teatr</field>
+<field name="date">1817</field><field name="theater">Malïy Derevyannïy Teatr</field>
 <field name="city">St. Petersburg</field>
 
 <field name="country">Russia</field>

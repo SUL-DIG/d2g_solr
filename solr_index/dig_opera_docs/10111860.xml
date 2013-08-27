@@ -7,11 +7,11 @@
 <field name="composer">Jacob Edvard Gille</field>
 <field name="composerSort">Gille, Jacob Edvard</field>
 <field name="year">1875</field>
-<field name="date">1875theater</field>
+<field name="date">1875</field>
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>
 <field name="country">Sweden</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kvinnolist+ellen+den+lusade+kadin+Jacob+Edvard+Gille&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

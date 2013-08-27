@@ -12,11 +12,11 @@
 <field name="librettistSort">Maunier, Xavier</field>
 <field name="librettist">André Maurevert</field>
 <field name="librettistSort">Maurevert, André</field>
-<field name="theater"/>
+
 <field name="city">Marseille</field>
 <field name="region">Bouches-du-Rhône</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Caraco-la-Brazas+A.+Porinelly&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

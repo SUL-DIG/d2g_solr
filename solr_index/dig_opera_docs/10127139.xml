@@ -7,7 +7,7 @@
 <field name="composer">Ferdinando Rutini</field>
 <field name="composerSort">Rutini, Ferdinando</field>
 <field name="year">1797</field>
-<field name="date">1797theaterTeatro di via del Cocomero</field>
+<field name="date">1797</field><field name="theater">Teatro di via del Cocomero</field>
 <field name="city">Florence</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>

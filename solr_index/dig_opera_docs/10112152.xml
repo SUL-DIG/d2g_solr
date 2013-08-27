@@ -10,11 +10,11 @@
 <field name="date">1772</field>
 <field name="librettist">Sébastian Bourdais</field>
 <field name="librettistSort">Bourdais, Sébastian</field>
-<field name="theater"/>
+
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'oracle,+ou+La+fête+des+vertus+et+des+grâces+Carl+Wilhelm+Glösch&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

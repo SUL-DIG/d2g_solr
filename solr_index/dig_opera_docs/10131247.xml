@@ -7,7 +7,7 @@
 <field name="composer">Louis-Antoine Travenol</field>
 <field name="composerSort">Travenol, Louis-Antoine</field>
 <field name="year">1732</field>
-<field name="date">1732theaterThéâtre de la Foire Saint-Germain</field>
+<field name="date">1732</field><field name="theater">Théâtre de la Foire Saint-Germain</field>
 <field name="city">Paris</field>
 
 <field name="country">France</field>

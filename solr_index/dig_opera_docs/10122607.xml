@@ -10,11 +10,11 @@
 <field name="date">1715</field>
 <field name="librettist">Antonio Salvi</field>
 <field name="librettistSort">Salvi, Antonio</field>
-<field name="theater"/>
+
 <field name="city">Verona</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
 <field name="subgenre">Intermezzo</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bacocco+e+Serpilla+Giuseppe+Maria+Orlandini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

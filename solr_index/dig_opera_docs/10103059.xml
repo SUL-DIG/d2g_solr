@@ -7,11 +7,11 @@
 <field name="composer">Antonio Bioni</field>
 <field name="composerSort">Bioni, Antonio</field>
 <field name="year">1732</field>
-<field name="date">1732theaterTheater im Ballhause</field>
+<field name="date">1732</field><field name="theater">Theater im Ballhause</field>
 <field name="city">Wroclaw</field>
 <field name="region">Dolnoslaskie</field>
 <field name="country">Poland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+veritа+conosciuta+Antonio+Bioni&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

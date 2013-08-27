@@ -7,7 +7,7 @@
 <field name="composer">Maurice Savior</field>
 <field name="composerSort">Savior, Maurice</field>
 <field name="year">1984</field>
-<field name="date">1984theaterGeorge Washington University</field>
+<field name="date">1984</field><field name="theater">George Washington University</field>
 <field name="city">Washington</field>
 <field name="region">District of Columbia</field>
 <field name="country">United States</field>

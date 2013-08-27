@@ -7,7 +7,7 @@
 <field name="composer">Luigi Vecchiotti</field>
 <field name="composerSort">Vecchiotti, Luigi</field>
 <field name="year">1827</field>
-<field name="date">1827theaterTeatro Valle</field>
+<field name="date">1827</field><field name="theater">Teatro Valle</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

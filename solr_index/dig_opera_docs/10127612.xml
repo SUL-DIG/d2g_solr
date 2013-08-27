@@ -7,7 +7,7 @@
 <field name="composer">Antonio de Santis</field>
 <field name="composerSort">Santis, Antonio de</field>
 <field name="year">1806</field>
-<field name="date">1806theaterTeatro San Carlo</field>
+<field name="date">1806</field><field name="theater">Teatro San Carlo</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

@@ -7,7 +7,7 @@
 <field name="composer">Edmond Waucampt</field>
 <field name="composerSort">Waucampt, Edmond</field>
 <field name="year">1874</field>
-<field name="date">1874theaterThéâtre Municipal</field>
+<field name="date">1874</field><field name="theater">Théâtre Municipal</field>
 <field name="city">Tournai</field>
 <field name="region">Hainault</field>
 <field name="country">Belgium</field>

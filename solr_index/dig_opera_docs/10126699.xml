@@ -7,7 +7,7 @@
 <field name="composer">Franz de Paula Roser</field>
 <field name="composerSort">Roser, Franz de Paula</field>
 <field name="year">1812</field>
-<field name="date">1812theaterNeue Ständische Theater</field>
+<field name="date">1812</field><field name="theater">Neue Ständische Theater</field>
 <field name="city">Linz</field>
 <field name="region">Oberösterreich</field>
 <field name="country">Austria</field>

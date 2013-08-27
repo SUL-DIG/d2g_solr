@@ -12,11 +12,11 @@
 <field name="librettistSort">Váradi, Antal</field>
 <field name="librettist">Max Kalbeck</field>
 <field name="librettistSort">Kalbeck, Max</field>
-<field name="theater"/>
+
 <field name="city">Budapest</field>
-<field name="region"/>
+
 <field name="country">Hungary</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dornröschen+Ede+Poldini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

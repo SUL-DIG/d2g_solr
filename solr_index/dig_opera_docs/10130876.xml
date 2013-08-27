@@ -7,7 +7,7 @@
 <field name="composer">Johann Theile</field>
 <field name="composerSort">Theile, Johann</field>
 <field name="year">1681</field>
-<field name="date">1681theaterSchauplatz am Gänsemarkt</field>
+<field name="date">1681</field><field name="theater">Schauplatz am Gänsemarkt</field>
 <field name="city">Hamburg</field>
 <field name="region">Hamburg</field>
 <field name="country">Germany</field>

@@ -7,7 +7,7 @@
 <field name="composer">Henri de Saussine</field>
 <field name="composerSort">Saussine, Henri de</field>
 <field name="year">1894</field>
-<field name="date">1894theaterThéâtre de la Bodinière</field>
+<field name="date">1894</field><field name="theater">Théâtre de la Bodinière</field>
 <field name="city">Paris</field>
 
 <field name="country">France</field>

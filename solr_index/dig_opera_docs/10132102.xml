@@ -7,7 +7,7 @@
 <field name="composer">Leonardo Vinci</field>
 <field name="composerSort">Vinci, Leonardo</field>
 <field name="year">1720</field>
-<field name="date">1720theaterTeatro dei Fiorentini</field>
+<field name="date">1720</field><field name="theater">Teatro dei Fiorentini</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

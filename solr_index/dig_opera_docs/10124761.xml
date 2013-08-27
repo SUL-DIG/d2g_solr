@@ -7,11 +7,11 @@
 <field name="composer">Eugène Poncin</field>
 <field name="composerSort">Poncin, Eugène</field>
 <field name="year">1881</field>
-<field name="date">1881theaterConcert de la Pépinière</field>
+<field name="date">1881</field><field name="theater">Concert de la Pépinière</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+contrainte+Eugène+Poncin&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,11 +7,11 @@
 <field name="composer">Vincenzo Fabrizi</field>
 <field name="composerSort">Fabrizi, Vincenzo</field>
 <field name="year">1787</field>
-<field name="date">1787theaterTeatro Capranica</field>
+<field name="date">1787</field><field name="theater">Teatro Capranica</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+nobilitа+villana+Vincenzo+Fabrizi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

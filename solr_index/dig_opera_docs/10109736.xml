@@ -7,11 +7,11 @@
 <field name="composer">Filippo Filippi</field>
 <field name="composerSort">Filippi, Filippo</field>
 <field name="year">1896</field>
-<field name="date">1896theaterTeatro Tosi-Borghi</field>
+<field name="date">1896</field><field name="theater">Teatro Tosi-Borghi</field>
 <field name="city">Ferrara</field>
 <field name="region">Emilia-Romagna</field>
 <field name="country">Italy</field>
 <field name="subgenre">Operetta Vaudeville</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+forza+del+potere+Filippo+Filippi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

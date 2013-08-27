@@ -7,11 +7,11 @@
 <field name="composer">Antonio Bioni</field>
 <field name="composerSort">Bioni, Antonio</field>
 <field name="year">1738</field>
-<field name="date">1738theaterHoftheater</field>
+<field name="date">1738</field><field name="theater">Hoftheater</field>
 <field name="city">Vienna</field>
-<field name="region"/>
+
 <field name="country">Austria</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Girita+Antonio+Bioni&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,7 +7,7 @@
 <field name="composer">Johann Wessely</field>
 <field name="composerSort">Wessely, Johann</field>
 <field name="year">1800</field>
-<field name="date">1800theaterSchlosstheater</field>
+<field name="date">1800</field><field name="theater">Schlosstheater</field>
 <field name="city">Ballenstedt</field>
 <field name="region">Sachsen-Anhalt</field>
 <field name="country">Germany</field>

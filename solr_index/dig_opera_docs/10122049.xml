@@ -10,11 +10,11 @@
 <field name="date">1840</field>
 <field name="librettist">August von Kotzebue</field>
 <field name="librettistSort">Kotzebue, August von</field>
-<field name="theater"/>
+
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Käfig+Karl+Nicolai&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,7 +7,7 @@
 <field name="composer">Philipp Roth</field>
 <field name="composerSort">Roth, Philipp</field>
 <field name="year">1809</field>
-<field name="date">1809theaterResidenztheater (Cuvilliéstheater)</field>
+<field name="date">1809</field><field name="theater">Residenztheater (Cuvilliéstheater)</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>

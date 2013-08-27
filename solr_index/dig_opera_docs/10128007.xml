@@ -7,7 +7,7 @@
 <field name="composer">Alessandro Scarlatti</field>
 <field name="composerSort">Scarlatti, Alessandro</field>
 <field name="year">1688</field>
-<field name="date">1688theaterPalazzo Doria Pamphili</field>
+<field name="date">1688</field><field name="theater">Palazzo Doria Pamphili</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

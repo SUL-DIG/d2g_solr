@@ -14,7 +14,7 @@
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prokrustes+The+Laws+of+Hospitality+Jean-Jacques+Dünki&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

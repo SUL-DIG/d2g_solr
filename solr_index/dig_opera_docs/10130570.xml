@@ -7,7 +7,7 @@
 <field name="composer">Pál Tamassy</field>
 <field name="composerSort">Tamassy, Pál</field>
 <field name="year">1929</field>
-<field name="date">1929theaterKirály Színház</field>
+<field name="date">1929</field><field name="theater">Király Színház</field>
 <field name="city">Budapest</field>
 
 <field name="country">Hungary</field>

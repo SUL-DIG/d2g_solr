@@ -7,11 +7,11 @@
 <field name="composer">Makoto Moroi</field>
 <field name="composerSort">Moroi, Makoto</field>
 <field name="year">1965</field>
-<field name="date">1965theaterSankei Hall</field>
+<field name="date">1965</field><field name="theater">Sankei Hall</field>
 <field name="city">Tokyo</field>
 <field name="region">Tokyo</field>
 <field name="country">Japan</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gyosha+Paeton+Phaeton+the+Charioteer+Makoto+Moroi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -10,11 +10,11 @@
 <field name="date">1957</field>
 <field name="librettist">Lec Shllaku</field>
 <field name="librettistSort">Shllaku, Lec</field>
-<field name="theater"/>
+
 <field name="city">Shkoder</field>
 <field name="region">Rrethi i Shkodrës</field>
 <field name="country">Albania</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lejlaja+Tish+Daija&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

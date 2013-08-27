@@ -12,11 +12,11 @@
 <field name="librettistSort">Logar, Mihovil</field>
 <field name="librettist">Ivan Cankar</field>
 <field name="librettistSort">Cankar, Ivan</field>
-<field name="theater"/>
+
 <field name="city">Sarajevo</field>
-<field name="region"/>
+
 <field name="country">Bosnia-Hercegovina</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sablazan+u+dolini+sentflorijanskoj+Mihovil+Logar&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

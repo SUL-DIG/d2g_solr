@@ -7,7 +7,7 @@
 <field name="composer">Lorenz Santorini</field>
 <field name="composerSort">Santorini, Lorenz</field>
 <field name="year">1721</field>
-<field name="date">1721theaterHoftheater</field>
+<field name="date">1721</field><field name="theater">Hoftheater</field>
 <field name="city">Heidelberg</field>
 <field name="region">Baden-Württemberg</field>
 <field name="country">Germany</field>

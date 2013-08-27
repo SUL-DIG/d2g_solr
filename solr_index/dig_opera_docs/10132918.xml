@@ -7,7 +7,7 @@
 <field name="composer">Frank Wigglesworth</field>
 <field name="composerSort">Wigglesworth, Frank</field>
 <field name="year">1984</field>
-<field name="date">1984theaterNew School for Social Research</field>
+<field name="date">1984</field><field name="theater">New School for Social Research</field>
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>

@@ -7,7 +7,7 @@
 <field name="composer">Antonio Sacchini</field>
 <field name="composerSort">Sacchini, Antonio</field>
 <field name="year">1760</field>
-<field name="date">1760theaterTeatro Capranica</field>
+<field name="date">1760</field><field name="theater">Teatro Capranica</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

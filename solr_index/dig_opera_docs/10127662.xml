@@ -7,7 +7,7 @@
 <field name="composer">Salvatore Sarmiento</field>
 <field name="composerSort">Sarmiento, Salvatore</field>
 <field name="year">1842</field>
-<field name="date">1842theaterReal Teatro del Fondo di Separazione</field>
+<field name="date">1842</field><field name="theater">Real Teatro del Fondo di Separazione</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

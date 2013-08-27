@@ -10,11 +10,11 @@
 <field name="date">1899</field>
 <field name="librettist">Luigi Melini</field>
 <field name="librettistSort">Melini, Luigi</field>
-<field name="theater"/>
+
 <field name="city">Tortona</field>
 <field name="region">Piemonte</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amore+in+bicicletta+Cesare+Marenco&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

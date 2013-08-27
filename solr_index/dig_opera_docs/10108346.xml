@@ -10,11 +10,11 @@
 <field name="date">1888</field>
 <field name="librettist">Léon Docquier</field>
 <field name="librettistSort">Docquier, Léon</field>
-<field name="theater"/>
+
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>
 <field name="country">Belgium</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+revanche+de+Sganarelle+Léon+Dubois&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

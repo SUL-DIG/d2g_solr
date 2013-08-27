@@ -14,7 +14,7 @@
 <field name="city">Oradea</field>
 <field name="region">Bihor</field>
 <field name="country">Romania</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Olympia+Jovi+sacra+Václav+Pichl&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

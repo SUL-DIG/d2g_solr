@@ -7,11 +7,11 @@
 <field name="composer">Bernardo Geraci</field>
 <field name="composerSort">Geraci, Bernardo</field>
 <field name="year">1843</field>
-<field name="date">1843theaterConservatorio</field>
+<field name="date">1843</field><field name="theater">Conservatorio</field>
 <field name="city">Palermo</field>
 <field name="region">Sicilia</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elpino+Bernardo+Geraci&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

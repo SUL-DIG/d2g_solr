@@ -7,11 +7,11 @@
 <field name="composer">Bernardo Ottani</field>
 <field name="composerSort">Ottani, Bernardo</field>
 <field name="year">1771</field>
-<field name="date">1771theater</field>
+<field name="date">1771</field>
 <field name="city">Udine</field>
 <field name="region">Friuli-Venezia Giulia</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+semplicitа+in+amore+Bernardo+Ottani&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

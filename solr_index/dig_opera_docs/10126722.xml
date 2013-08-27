@@ -7,7 +7,7 @@
 <field name="composer">Marino Rossetti</field>
 <field name="composerSort">Rossetti, Marino</field>
 <field name="year">1724</field>
-<field name="date">1724theaterTeatro Tron di San Cassiano</field>
+<field name="date">1724</field><field name="theater">Teatro Tron di San Cassiano</field>
 <field name="city">Venice</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>

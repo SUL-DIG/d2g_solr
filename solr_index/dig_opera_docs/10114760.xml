@@ -10,11 +10,11 @@
 <field name="date">1918</field>
 <field name="librettist">Augustin Benzinger</field>
 <field name="librettistSort">Benzinger, Augustin</field>
-<field name="theater"/>
+
 <field name="city">Engelberg</field>
 <field name="region">Obwalden</field>
 <field name="country">Switzerland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Meereskönig+Franz+Huber&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

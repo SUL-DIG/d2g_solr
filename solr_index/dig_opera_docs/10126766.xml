@@ -7,7 +7,7 @@
 <field name="composer">Lauro Rossi</field>
 <field name="composerSort">Rossi, Lauro</field>
 <field name="year">1831</field>
-<field name="date">1831theaterTeatro Nuovo sopra Toledo</field>
+<field name="date">1831</field><field name="theater">Teatro Nuovo sopra Toledo</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

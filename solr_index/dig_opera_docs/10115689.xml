@@ -14,9 +14,9 @@
 <field name="librettistSort">Skolaudý, Vlastimil</field>
 <field name="theater">Velká Opera 5. Kvetna</field>
 <field name="city">Prague</field>
-<field name="region"/>
+
 <field name="country">Czech Republic</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zbojnická+balada+The+Brigand's+Ballad+Václav+Kaslík&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

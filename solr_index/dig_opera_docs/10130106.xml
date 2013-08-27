@@ -7,7 +7,7 @@
 <field name="composer">Maurice Strakosch</field>
 <field name="composerSort">Strakosch, Maurice</field>
 <field name="year">1851</field>
-<field name="date">1851theaterAstor Place Opera House</field>
+<field name="date">1851</field><field name="theater">Astor Place Opera House</field>
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>

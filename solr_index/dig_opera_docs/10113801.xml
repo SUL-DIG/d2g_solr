@@ -7,11 +7,11 @@
 <field name="composer">Hikaru Hayashi</field>
 <field name="composerSort">Hayashi, Hikaru</field>
 <field name="year">1980</field>
-<field name="date">1980theaterNakano Bunka Center</field>
+<field name="date">1980</field><field name="theater">Nakano Bunka Center</field>
 <field name="city">Tokyo</field>
 <field name="region">Tokyo</field>
 <field name="country">Japan</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nezumi-tachi+no+densetsu+Legend+of+Mice+Hikaru+Hayashi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

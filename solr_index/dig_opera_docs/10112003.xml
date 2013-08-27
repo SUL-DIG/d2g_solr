@@ -10,11 +10,11 @@
 <field name="date">1787</field>
 <field name="librettist">[François-Marie Arouet] Voltaire</field>
 <field name="librettistSort">Voltaire, [François-Marie Arouet]</field>
-<field name="theater"/>
+
 <field name="city">Genoa</field>
 <field name="region">Liguria</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'orfano+cinese+Giuseppe+Giordani&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

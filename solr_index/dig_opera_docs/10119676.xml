@@ -10,11 +10,11 @@
 <field name="date">1857</field>
 <field name="librettist">Léon Battu</field>
 <field name="librettistSort">Battu, Léon</field>
-<field name="theater"/>
+
 <field name="city">Baden-Baden</field>
 <field name="region">Baden-Württemberg</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+cousin+de+Marivaux+Victor+Massé&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

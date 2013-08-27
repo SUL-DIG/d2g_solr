@@ -7,11 +7,11 @@
 <field name="composer">Antonio Levis</field>
 <field name="composerSort">Levis, Antonio</field>
 <field name="year">1788</field>
-<field name="date">1788theater</field>
+<field name="date">1788</field>
 <field name="city">Novi Ligure</field>
 <field name="region">Piemonte</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Isabella+e+Rodrigo+Antonio+Levis&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -14,9 +14,9 @@
 <field name="librettistSort">La Chaubeaussière, Ange Étienne Xavier Poisson de</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gulistan,+ou+Le+Hulla+de+Samarcande+Nicolas-Marie+Dalayrac&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

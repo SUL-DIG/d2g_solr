@@ -10,11 +10,11 @@
 <field name="date">1902</field>
 <field name="librettist">Raimund von Leon</field>
 <field name="librettistSort">Leon, Raimund von</field>
-<field name="theater"/>
+
 <field name="city">Bolzano</field>
 <field name="region">Trentino-Alto Adige</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Franzosen+in+Tirol+Adolf+Peter&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

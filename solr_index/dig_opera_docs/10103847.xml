@@ -7,11 +7,11 @@
 <field name="composer">Giuseppe Bouglia</field>
 <field name="composerSort">Bouglia, Giuseppe</field>
 <field name="year">1866</field>
-<field name="date">1866theaterTeatro Nota</field>
+<field name="date">1866</field><field name="theater">Teatro Nota</field>
 <field name="city">Turin</field>
 <field name="region">Piemonte</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alt'la,+ossia+Il+posto+d'onore+Giuseppe+Bouglia&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

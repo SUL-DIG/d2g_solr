@@ -14,9 +14,9 @@
 <field name="librettistSort">Saintine, Xavier [Joseph-Xavier Boniface]</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+duc+d'Olonne+Daniel-François-Esprit+Auber&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

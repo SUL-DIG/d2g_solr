@@ -12,9 +12,9 @@
 <field name="librettistSort">Oudot, Jules</field>
 <field name="theater">Bobino-Music-Hall</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amour+bohème+André+de+Mauprey&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

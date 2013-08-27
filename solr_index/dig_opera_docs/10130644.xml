@@ -7,7 +7,7 @@
 <field name="composer">Angelo Tarchi</field>
 <field name="composerSort">Tarchi, Angelo</field>
 <field name="year">1799</field>
-<field name="date">1799theaterComédie-Italienne</field>
+<field name="date">1799</field><field name="theater">Comédie-Italienne</field>
 <field name="city">Paris</field>
 
 <field name="country">France</field>

@@ -102,7 +102,7 @@ when adding a document.
     <field name="composer" type="text_general" indexed="true" stored="true" />
     <field name="composerSort" type="string" indexed="true" stored="true" />
     <field name="librettist" type="text_general" indexed="true" stored="true" multiValued="true"/>
-    <field name="librettistSort" type="text_general" indexed="true" stored="true" multiValued="true"/>
+    <field name="librettistSort" type="string" indexed="true" stored="true" multiValued="true"/>
     <field name="year" type="string" indexed="true" stored="true" />
     <field name="genre" type="text_general" indexed="true" stored="true" />
     <field name="revisions" type="string" indexed="false" stored="true" />

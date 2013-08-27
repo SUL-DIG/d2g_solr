@@ -7,7 +7,7 @@
 <field name="composer">Jules Uzès</field>
 <field name="composerSort">Uzès, Jules</field>
 <field name="year">1872</field>
-<field name="date">1872theaterConcert des Porcherons</field>
+<field name="date">1872</field><field name="theater">Concert des Porcherons</field>
 <field name="city">Paris</field>
 
 <field name="country">France</field>

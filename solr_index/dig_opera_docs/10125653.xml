@@ -12,9 +12,9 @@
 <field name="librettistSort">Colette, Sidonie Gabrielle</field>
 <field name="theater">Opéra</field>
 <field name="city">Monte Carlo</field>
-<field name="region"/>
+
 <field name="country">Monaco</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'enfant+et+les+sortilèges+Maurice+Ravel&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

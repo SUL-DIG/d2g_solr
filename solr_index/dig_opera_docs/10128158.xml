@@ -7,7 +7,7 @@
 <field name="composer">Johann Adolf Scheibe</field>
 <field name="composerSort">Scheibe, Johann Adolf</field>
 <field name="year">1749</field>
-<field name="date">1749theaterDanske Skueplads</field>
+<field name="date">1749</field><field name="theater">Danske Skueplads</field>
 <field name="city">Copenhagen</field>
 <field name="region">Hovedstaden</field>
 <field name="country">Denmark</field>

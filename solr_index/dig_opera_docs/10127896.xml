@@ -7,7 +7,7 @@
 <field name="composer">Paolo Scalabrini</field>
 <field name="composerSort">Scalabrini, Paolo</field>
 <field name="year">1772</field>
-<field name="date">1772theaterDet Kongelige Teater</field>
+<field name="date">1772</field><field name="theater">Det Kongelige Teater</field>
 <field name="city">Copenhagen</field>
 <field name="region">Hovedstaden</field>
 <field name="country">Denmark</field>

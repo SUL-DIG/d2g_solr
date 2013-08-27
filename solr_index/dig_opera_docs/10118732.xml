@@ -6,12 +6,12 @@
 <field name="titleSort">Sappho</field>
 <field name="composer">Mykola Vitaliyovych Lysenko</field>
 <field name="composerSort">Lysenko, Mykola Vitaliyovych</field>
-<field name="year"/>
-<field name="date"/>
+
+
 <field name="librettist">Mykhaylo Petrovych Starytsky</field>
 <field name="librettistSort">Starytsky, Mykhaylo Petrovych"</field>
-<field name="country"/>
-<field name="subgenre"/>
+
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sappho+Mykola+Vitaliyovych+Lysenko&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

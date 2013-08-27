@@ -10,11 +10,11 @@
 <field name="date">1905</field>
 <field name="librettist">[Giovanni dei Baciccia] Dottor Magerta</field>
 <field name="librettistSort">Magerta, Dottor [Giovanni dei Baciccia]</field>
-<field name="theater"/>
+
 <field name="city">Stresa</field>
 <field name="region">Piemonte</field>
 <field name="country">Italy</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+calze+di+Rosetta+Edoardo+Fiaccone&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

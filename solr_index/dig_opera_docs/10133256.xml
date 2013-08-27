@@ -7,7 +7,7 @@
 <field name="composer">Glad Robinson Youse</field>
 <field name="composerSort">Youse, Glad Robinson</field>
 <field name="year">1961</field>
-<field name="date">1961theaterGrass Roots Opera</field>
+<field name="date">1961</field><field name="theater">Grass Roots Opera</field>
 <field name="city">Larned</field>
 <field name="region">Kansas</field>
 <field name="country">United States</field>

@@ -10,11 +10,11 @@
 <field name="date">1872</field>
 <field name="librettist">Hippolyte Rodriques</field>
 <field name="librettistSort">Rodriques, Hippolyte</field>
-<field name="theater"/>
+
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=David+Rizzio+Hippolyte+Rodriques&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

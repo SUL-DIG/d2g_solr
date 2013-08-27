@@ -12,11 +12,11 @@
 <field name="librettistSort">Konstantin, Karel</field>
 <field name="librettist">Karel Hrncír</field>
 <field name="librettistSort">Hrncír, Karel</field>
-<field name="theater"/>
+
 <field name="city">Prague</field>
-<field name="region"/>
+
 <field name="country">Czech Republic</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mlynárka+z+Granady+Miller's+Wife+of+Granada+Julius+Kalas&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

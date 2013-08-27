@@ -7,11 +7,11 @@
 <field name="composer">Andrea Galli</field>
 <field name="composerSort">Galli, Andrea</field>
 <field name="year">1837</field>
-<field name="date">1837theaterTeatro Gallo a San Benedetto</field>
+<field name="date">1837</field><field name="theater">Teatro Gallo a San Benedetto</field>
 <field name="city">Venice</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+due+caporali+Andrea+Galli&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

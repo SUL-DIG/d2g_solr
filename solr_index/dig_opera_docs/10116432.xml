@@ -12,11 +12,11 @@
 <field name="librettistSort">Sziklai, Johann</field>
 <field name="librettist">Hippolyt August Schaufert</field>
 <field name="librettistSort">Schaufert, Hippolyt August</field>
-<field name="theater"/>
+
 <field name="city">Budapest</field>
-<field name="region"/>
+
 <field name="country">Hungary</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Pipacsósz+király+Géza+Köszeghi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,7 +7,7 @@
 <field name="composer">Aloys Schmitt</field>
 <field name="composerSort">Schmitt, Aloys</field>
 <field name="year">1831</field>
-<field name="date">1831theaterNationaltheater</field>
+<field name="date">1831</field><field name="theater">Nationaltheater</field>
 <field name="city">Frankfurt</field>
 <field name="region">Hessen</field>
 <field name="country">Germany</field>

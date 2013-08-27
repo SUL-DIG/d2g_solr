@@ -7,7 +7,7 @@
 <field name="composer">Georg Christoph Wagenseil</field>
 <field name="composerSort">Wagenseil, Georg Christoph</field>
 <field name="year">1750</field>
-<field name="date">1750theaterBurgtheater</field>
+<field name="date">1750</field><field name="theater">Burgtheater</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

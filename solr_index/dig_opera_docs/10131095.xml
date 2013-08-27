@@ -7,7 +7,7 @@
 <field name="composer">Michel Bonaventura Francisco Torramorell</field>
 <field name="composerSort">Torramorell, Michel Bonaventura Francisco</field>
 <field name="year">1825</field>
-<field name="date">1825theaterThéâtre-Royal</field>
+<field name="date">1825</field><field name="theater">Théâtre-Royal</field>
 <field name="city">Antwerp</field>
 <field name="region">Antwerpen</field>
 <field name="country">Belgium</field>

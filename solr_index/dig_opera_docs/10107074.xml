@@ -7,11 +7,11 @@
 <field name="composer">Marcel Dambrine</field>
 <field name="composerSort">Dambrine, Marcel</field>
 <field name="year">1916</field>
-<field name="date">1916theaterOpéra</field>
+<field name="date">1916</field><field name="theater">Opéra</field>
 <field name="city">Vichy</field>
 <field name="region">Allier</field>
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=En+covalo!+Marcel+Dambrine&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

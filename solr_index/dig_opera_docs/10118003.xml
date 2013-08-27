@@ -12,9 +12,9 @@
 <field name="librettistSort">Lebrun-Tossa, [Jean-Antoine Brun]</field>
 <field name="theater">Comédie-Italienne</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arabelle+et+Vascos,+ou+Les+Jacobins+de+Goa+Jean-François+Le+Sueur&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,7 +7,7 @@
 <field name="composer">Otto Stransky</field>
 <field name="composerSort">Stransky, Otto</field>
 <field name="year">1919</field>
-<field name="date">1919theaterGrillparzer-Theater</field>
+<field name="date">1919</field><field name="theater">Grillparzer-Theater</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

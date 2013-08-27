@@ -10,11 +10,11 @@
 <field name="date">1897</field>
 <field name="librettist">Vittorio Ravot</field>
 <field name="librettistSort">Ravot, Vittorio</field>
-<field name="theater"/>
+
 <field name="city">Verolanuova</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+grotta+misteriosa+Francesco+Lenzi+-2&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

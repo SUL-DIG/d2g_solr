@@ -7,11 +7,11 @@
 <field name="composer">Alma Grayce Miller</field>
 <field name="composerSort">Miller, Alma Grayce</field>
 <field name="year">1953</field>
-<field name="date">1953theaterWashington and Lee Auditorium</field>
+<field name="date">1953</field><field name="theater">Washington and Lee Auditorium</field>
 <field name="city">Arlington</field>
 <field name="region">Virginia</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Whirlwind+Alma+Grayce+Miller&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

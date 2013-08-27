@@ -12,9 +12,9 @@
 <field name="librettistSort">Favaro, Ulises</field>
 <field name="theater">Politeama</field>
 <field name="city">Montevideo</field>
-<field name="region"/>
+
 <field name="country">Uruguay</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+caballero+Pierrot+Alfredo+Padovani&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

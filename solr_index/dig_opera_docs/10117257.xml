@@ -7,11 +7,11 @@
 <field name="composer">__ Lanza</field>
 <field name="composerSort">Lanza, __</field>
 <field name="year">1855</field>
-<field name="date">1855theater"Theatre Royal, Hawkins Street"</field>
+<field name="date">1855</field><field name="theater">"Theatre Royal, Hawkins Street"</field>
 <field name="city">Dublin</field>
 <field name="region">Leinster</field>
 <field name="country">Ireland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hamet+and+Zelma+__+Lanza&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

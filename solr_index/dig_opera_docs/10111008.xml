@@ -10,11 +10,11 @@
 <field name="date">1957</field>
 <field name="librettist">Hans Gappenach</field>
 <field name="librettistSort">Gappenach, Hans</field>
-<field name="theater"/>
+
 <field name="city">Münstermaifeld</field>
 <field name="region">Rheinland-Pfalz</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Bürgermeisterwahl+von+Pitschau+Hans+Gappenach&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

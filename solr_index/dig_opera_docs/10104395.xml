@@ -7,11 +7,11 @@
 <field name="composer">Mario Bugamelli</field>
 <field name="composerSort">Bugamelli, Mario</field>
 <field name="year">1971</field>
-<field name="date">1971theaterTeatro Comunale Giuseppe Verdi</field>
+<field name="date">1971</field><field name="theater">Teatro Comunale Giuseppe Verdi</field>
 <field name="city">Trieste</field>
 <field name="region">Friuli-Venezia Giulia</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fontana+Mario+Bugamelli&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

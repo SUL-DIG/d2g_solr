@@ -7,11 +7,11 @@
 <field name="composer">Victor Massé</field>
 <field name="composerSort">Massé, Victor</field>
 <field name="year">1862</field>
-<field name="date">1862theaterMariinsky Teatr</field>
+<field name="date">1862</field><field name="theater">Mariinsky Teatr</field>
 <field name="city">St. Petersburg</field>
-<field name="region"/>
+
 <field name="country">Russia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mariette+la+promise+Victor+Massé&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

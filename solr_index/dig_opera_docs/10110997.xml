@@ -7,11 +7,11 @@
 <field name="composer">Antonio Gandolfi</field>
 <field name="composerSort">Gandolfi, Antonio</field>
 <field name="year">1851</field>
-<field name="date">1851theater</field>
+<field name="date">1851</field>
 <field name="city">Catania</field>
 <field name="region">Sicilia</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maometto+II+a+Constantinopoli+Il+sultano+Antonio+Gandolfi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

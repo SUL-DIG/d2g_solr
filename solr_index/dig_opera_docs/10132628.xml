@@ -7,7 +7,7 @@
 <field name="composer">Heinrich Weidt</field>
 <field name="composerSort">Weidt, Heinrich</field>
 <field name="year">1864</field>
-<field name="date">1864theaterDeutsches Theater</field>
+<field name="date">1864</field><field name="theater">Deutsches Theater</field>
 <field name="city">Budapest</field>
 
 <field name="country">Hungary</field>

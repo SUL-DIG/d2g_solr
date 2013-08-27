@@ -12,8 +12,8 @@
 <field name="librettistSort">Chisholm, Erik</field>
 <field name="librettist">Geoffrey Chaucer</field>
 <field name="librettistSort">Chaucer, Geoffrey"</field>
-<field name="country"/>
-<field name="subgenre"/>
+
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Wyf+of+Bathes+Tale+Erik+Chisholm&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

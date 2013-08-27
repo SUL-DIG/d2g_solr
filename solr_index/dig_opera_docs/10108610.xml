@@ -14,9 +14,9 @@
 <field name="librettistSort">Benes-Sumavský, Václav</field>
 <field name="theater">Prozatímní Divadlo</field>
 <field name="city">Prague</field>
-<field name="region"/>
+
 <field name="country">Czech Republic</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vanda+Antonín+Dvorák&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

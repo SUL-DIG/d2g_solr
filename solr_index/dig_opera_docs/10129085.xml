@@ -7,7 +7,7 @@
 <field name="composer">Diogène Siciliano</field>
 <field name="composerSort">Siciliano, Diogène</field>
 <field name="year">1907</field>
-<field name="date">1907theaterGrand-Théâtre</field>
+<field name="date">1907</field><field name="theater">Grand-Théâtre</field>
 <field name="city">Le Havre</field>
 <field name="region">Seine-Maritime</field>
 <field name="country">France</field>

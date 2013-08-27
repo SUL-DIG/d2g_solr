@@ -7,7 +7,7 @@
 <field name="composer">Edoardo Vera</field>
 <field name="composerSort">Vera, Edoardo</field>
 <field name="year">1843</field>
-<field name="date">1843theaterTeatro alla Scala</field>
+<field name="date">1843</field><field name="theater">Teatro alla Scala</field>
 <field name="city">Milan</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>

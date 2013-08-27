@@ -7,7 +7,7 @@
 <field name="composer">Luigi Torelli</field>
 <field name="composerSort">Torelli, Luigi</field>
 <field name="year">1793</field>
-<field name="date">1793theaterTheater in der Leopoldstadt</field>
+<field name="date">1793</field><field name="theater">Theater in der Leopoldstadt</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

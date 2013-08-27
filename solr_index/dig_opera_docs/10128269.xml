@@ -7,7 +7,7 @@
 <field name="composer">Hans Schläger</field>
 <field name="composerSort">Schläger, Hans</field>
 <field name="year">1873</field>
-<field name="date">1873theaterStadttheater</field>
+<field name="date">1873</field><field name="theater">Stadttheater</field>
 <field name="city">Salzburg</field>
 <field name="region">Salzburg</field>
 <field name="country">Austria</field>

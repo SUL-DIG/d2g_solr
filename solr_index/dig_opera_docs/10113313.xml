@@ -14,7 +14,7 @@
 <field name="city">Sankt Gallen</field>
 <field name="region">Sankt Gallen</field>
 <field name="country">Switzerland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Notturno+Max+Häfelin&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

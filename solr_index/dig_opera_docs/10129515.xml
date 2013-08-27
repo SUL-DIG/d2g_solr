@@ -7,7 +7,7 @@
 <field name="composer">Giuseppe Sordella</field>
 <field name="composerSort">Sordella, Giuseppe</field>
 <field name="year">1745</field>
-<field name="date">1745theaterTeatro Regio</field>
+<field name="date">1745</field><field name="theater">Teatro Regio</field>
 <field name="city">Turin</field>
 <field name="region">Piemonte</field>
 <field name="country">Italy</field>

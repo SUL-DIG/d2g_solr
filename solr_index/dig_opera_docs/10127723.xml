@@ -7,7 +7,7 @@
 <field name="composer">Giuseppe Sarti</field>
 <field name="composerSort">Sarti, Giuseppe</field>
 <field name="year">1779</field>
-<field name="date">1779theaterTeatro Capranica</field>
+<field name="date">1779</field><field name="theater">Teatro Capranica</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

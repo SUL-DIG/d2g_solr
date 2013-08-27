@@ -7,7 +7,7 @@
 <field name="composer">Spyridon Xyndas</field>
 <field name="composerSort">Xyndas, Spyridon</field>
 <field name="year">1893</field>
-<field name="date">1893theaterTsoha Theatron</field>
+<field name="date">1893</field><field name="theater">Tsoha Theatron</field>
 <field name="city">Athens</field>
 <field name="region">Attiki</field>
 <field name="country">Greece</field>

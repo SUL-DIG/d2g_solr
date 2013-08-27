@@ -7,7 +7,7 @@
 <field name="composer">Johann Nepomuk Zapf</field>
 <field name="composerSort">Zapf, Johann Nepomuk</field>
 <field name="year">1803</field>
-<field name="date">1803theaterLandschaftstheater</field>
+<field name="date">1803</field><field name="theater">Landschaftstheater</field>
 <field name="city">Graz</field>
 <field name="region">Steiermark</field>
 <field name="country">Austria</field>

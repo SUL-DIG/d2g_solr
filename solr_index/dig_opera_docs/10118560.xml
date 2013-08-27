@@ -12,11 +12,11 @@
 <field name="librettistSort">Aillaud, Théodore</field>
 <field name="librettist">__ Motivien</field>
 <field name="librettistSort">Motivien, __</field>
-<field name="theater"/>
+
 <field name="city">Marseille</field>
 <field name="region">Bouches-du-Rhône</field>
 <field name="country">France</field>
 <field name="subgenre">Vaudeville</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+défauts+d'Oscar+Victor+Luc&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

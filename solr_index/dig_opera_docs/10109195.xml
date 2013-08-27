@@ -6,12 +6,12 @@
 <field name="titleSort">È più caro il piacer doppo le pene</field>
 <field name="composer">Nicola Fago</field>
 <field name="composerSort">Fago, Nicola</field>
-<field name="year"/>
-<field name="date"/>
+
+
 <field name="librettist">Nicolò Giuvo</field>
 <field name="librettistSort">Giuvo, Nicolò"</field>
-<field name="country"/>
+
 <field name="subgenre">Serenata</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=È+più+caro+il+piacer+doppo+le+pene+Nicola+Fago&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

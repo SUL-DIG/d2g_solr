@@ -7,11 +7,11 @@
 <field name="composer">Ulrich José Espri</field>
 <field name="composerSort">Espri, Ulrich José</field>
 <field name="year">1895</field>
-<field name="date">1895theater</field>
+<field name="date">1895</field>
 <field name="city">Madrid</field>
 <field name="region">Madrid</field>
 <field name="country">Spain</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aurora+Ulrich+José+Espri&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

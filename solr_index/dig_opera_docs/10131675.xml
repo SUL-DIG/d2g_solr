@@ -7,7 +7,7 @@
 <field name="composer">Giuseppe Valier</field>
 <field name="composerSort">Valier, Giuseppe</field>
 <field name="year">1843</field>
-<field name="date">1843theaterTeatro della Concordia</field>
+<field name="date">1843</field><field name="theater">Teatro della Concordia</field>
 <field name="city">Cremona</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>

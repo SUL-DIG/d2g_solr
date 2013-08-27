@@ -12,9 +12,9 @@
 <field name="librettistSort">Dousset, A.</field>
 <field name="theater">Théâtre de la Tour Eiffel</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+mariage+au+violon+Oscar+de+Lagoanère&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

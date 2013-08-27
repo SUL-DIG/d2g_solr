@@ -7,11 +7,11 @@
 <field name="composer">Giuseppe Nicolini</field>
 <field name="composerSort">Nicolini, Giuseppe</field>
 <field name="year">1805</field>
-<field name="date">1805theaterTeatro Nuovo sopra Toledo</field>
+<field name="date">1805</field><field name="theater">Teatro Nuovo sopra Toledo</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+nozze+inaspettate+Giuseppe+Nicolini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

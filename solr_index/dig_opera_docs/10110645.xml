@@ -7,11 +7,11 @@
 <field name="composer">Johann Nepomuk Fuchs (2)</field>
 <field name="composerSort">Fuchs (2), Johann Nepomuk</field>
 <field name="year">1872</field>
-<field name="date">1872theaterInterims-Theater</field>
+<field name="date">1872</field><field name="theater">Interims-Theater</field>
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>
 <field name="country">Czech Republic</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cingara,+die+Gnomenkönigin+Johann+Nepomuk+Fuchs+-2&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

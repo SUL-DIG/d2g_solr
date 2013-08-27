@@ -14,7 +14,7 @@
 <field name="city">Cardiff</field>
 <field name="region">Wales</field>
 <field name="country">United Kingdom</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cigarette+Joseph+Haydn+Parry&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

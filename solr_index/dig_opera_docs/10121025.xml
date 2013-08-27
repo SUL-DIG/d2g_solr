@@ -10,11 +10,11 @@
 <field name="date">1636</field>
 <field name="librettist">Ottavio Rinuccini</field>
 <field name="librettistSort">Rinuccini, Ottavio</field>
-<field name="theater"/>
+
 <field name="city">Vienna</field>
-<field name="region"/>
+
 <field name="country">Austria</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Volgendo+il+ciel+per+l'immortal+sentiero+Claudio+Monteverdi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,11 +7,11 @@
 <field name="composer">Marcelle Biasini</field>
 <field name="composerSort">Biasini, Marcelle</field>
 <field name="year">1904</field>
-<field name="date">1904theater</field>
+<field name="date">1904</field>
 <field name="city">Nice</field>
 <field name="region">Alpes-Maritimes</field>
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cyr+а+Nice+Marcelle+Biasini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,7 +7,7 @@
 <field name="composer">Jean-Baptiste Salesses</field>
 <field name="composerSort">Salesses, Jean-Baptiste</field>
 <field name="year">1859</field>
-<field name="date">1859theaterThéâtre Municipal</field>
+<field name="date">1859</field><field name="theater">Théâtre Municipal</field>
 <field name="city">Orléans</field>
 <field name="region">Loiret</field>
 <field name="country">France</field>

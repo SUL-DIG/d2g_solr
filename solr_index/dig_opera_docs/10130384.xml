@@ -7,7 +7,7 @@
 <field name="composer">Franz Xaver Süssmayr</field>
 <field name="composerSort">Süssmayr, Franz Xaver</field>
 <field name="year">1801</field>
-<field name="date">1801theaterKärntnertortheater</field>
+<field name="date">1801</field><field name="theater">Kärntnertortheater</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

@@ -10,11 +10,11 @@
 <field name="date">1869</field>
 <field name="librettist">Michele Cuciniello</field>
 <field name="librettistSort">Cuciniello, Michele</field>
-<field name="theater"/>
+
 <field name="city">Cingoli</field>
 <field name="region">Marche</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tommaso+Chatterton+Nicola+Mancini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

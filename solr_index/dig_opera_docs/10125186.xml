@@ -10,11 +10,11 @@
 <field name="date">1879</field>
 <field name="librettist">Oscar Ghilain</field>
 <field name="librettistSort">Ghilain, Oscar</field>
-<field name="theater"/>
+
 <field name="city">Mons</field>
 <field name="region">Hainault</field>
 <field name="country">Belgium</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+sonnet+de+Jeannot+Desiré+Henri+Prys&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

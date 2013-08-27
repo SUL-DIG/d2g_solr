@@ -7,7 +7,7 @@
 <field name="composer">Mathias Stabinger</field>
 <field name="composerSort">Stabinger, Mathias</field>
 <field name="year">1780</field>
-<field name="date">1780theaterTeatro Sant'Agostino</field>
+<field name="date">1780</field><field name="theater">Teatro Sant'Agostino</field>
 <field name="city">Genoa</field>
 <field name="region">Liguria</field>
 <field name="country">Italy</field>

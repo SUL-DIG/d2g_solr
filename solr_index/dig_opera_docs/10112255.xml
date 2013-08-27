@@ -12,9 +12,9 @@
 <field name="librettistSort">Beauvoir, Mme. Roger de [Léocadie-Aimée Doze]</field>
 <field name="theater">Salle Herz</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=À+deux+pas+du+bonheur+Dieudonné-Félix+Godefroid&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

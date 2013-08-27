@@ -7,11 +7,11 @@
 <field name="composer">Louis Jahn</field>
 <field name="composerSort">Jahn, Louis</field>
 <field name="year">1873</field>
-<field name="date">1873theaterThéâtre-Royal</field>
+<field name="date">1873</field><field name="theater">Théâtre-Royal</field>
 <field name="city">Antwerp</field>
 <field name="region">Antwerpen</field>
 <field name="country">Belgium</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Michel+le+marin+Louis+Jahn&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

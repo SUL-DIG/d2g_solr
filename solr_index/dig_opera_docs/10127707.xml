@@ -7,7 +7,7 @@
 <field name="composer">Domenico Natale Sarro</field>
 <field name="composerSort">Sarro, Domenico Natale</field>
 <field name="year">1732</field>
-<field name="date">1732theaterTeatro di via della Torre Argentina</field>
+<field name="date">1732</field><field name="theater">Teatro di via della Torre Argentina</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

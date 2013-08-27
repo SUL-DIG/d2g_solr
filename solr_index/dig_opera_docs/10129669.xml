@@ -7,7 +7,7 @@
 <field name="composer">Moritz Spring</field>
 <field name="composerSort">Spring, Moritz</field>
 <field name="year">1805</field>
-<field name="date">1805theaterTheater in der Leopoldstadt</field>
+<field name="date">1805</field><field name="theater">Theater in der Leopoldstadt</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

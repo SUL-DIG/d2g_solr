@@ -7,7 +7,7 @@
 <field name="composer">Ferdinando Rutini</field>
 <field name="composerSort">Rutini, Ferdinando</field>
 <field name="year">1797</field>
-<field name="date">1797theaterTeatro in Borgo Ognissanti</field>
+<field name="date">1797</field><field name="theater">Teatro in Borgo Ognissanti</field>
 <field name="city">Florence</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>

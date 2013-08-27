@@ -14,7 +14,7 @@
 <field name="city">Wroclaw</field>
 <field name="region">Dolnoslaskie</field>
 <field name="country">Poland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alessandro+Severo+Antonio+Bioni&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -14,9 +14,9 @@
 <field name="librettistSort">Keidosius, Petras</field>
 <field name="theater">Litovsky Teatr Operï i Baleta</field>
 <field name="city">Vilnius</field>
-<field name="region"/>
+
 <field name="country">Lithuania</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maryte+Antanas+Raciunas&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

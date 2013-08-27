@@ -10,11 +10,11 @@
 <field name="date">1976</field>
 <field name="librettist">Janis Peters</field>
 <field name="librettistSort">Peters, Janis</field>
-<field name="theater"/>
+
 <field name="city">Riga</field>
-<field name="region"/>
+
 <field name="country">Latvia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ikars+Icarus+Pauls+Dambis&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

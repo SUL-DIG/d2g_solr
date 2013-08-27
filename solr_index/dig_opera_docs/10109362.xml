@@ -14,9 +14,9 @@
 <field name="librettistSort">Bródy, István</field>
 <field name="theater">Revü Színház</field>
 <field name="city">Budapest</field>
-<field name="region"/>
+
 <field name="country">Hungary</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pünkösdi+rózsa+Imre+Farkas&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

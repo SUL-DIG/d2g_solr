@@ -12,11 +12,11 @@
 <field name="librettistSort">Platt, Johanna</field>
 <field name="librettist">Norman Platt</field>
 <field name="librettistSort">Platt, Norman</field>
-<field name="theater"/>
+
 <field name="city">Berkshire</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Cat+Alan+Ridout&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

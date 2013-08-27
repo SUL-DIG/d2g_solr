@@ -7,7 +7,7 @@
 <field name="composer">Giuseppe Sarti</field>
 <field name="composerSort">Sarti, Giuseppe</field>
 <field name="year">1768</field>
-<field name="date">1768theaterTeatro Valle</field>
+<field name="date">1768</field><field name="theater">Teatro Valle</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

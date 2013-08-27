@@ -14,7 +14,7 @@
 <field name="city">Gotha</field>
 <field name="region">Thüringen</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Grossmut+des+Scipio+Andreas+Jákob+Romberg&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

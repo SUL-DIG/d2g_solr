@@ -10,11 +10,11 @@
 <field name="date">1991</field>
 <field name="librettist">Jakob &amp; Wilhelm Grimm</field>
 <field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
-<field name="theater"/>
+
 <field name="city">Tallinn</field>
 <field name="region">Harju</field>
 <field name="country">Estonia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hunt+ja+seitse+kitsetalle+Billy+Goat's+Gruff+Raimo+Kangro&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

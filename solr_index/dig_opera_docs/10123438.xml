@@ -7,11 +7,11 @@
 <field name="composer">Ernst Pauer</field>
 <field name="composerSort">Pauer, Ernst</field>
 <field name="year">1854</field>
-<field name="date">1854theaterHof- und Nationaltheater</field>
+<field name="date">1854</field><field name="theater">Hof- und Nationaltheater</field>
 <field name="city">Mannheim</field>
 <field name="region">Baden-Württemberg</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Braut+Ernst+Pauer&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

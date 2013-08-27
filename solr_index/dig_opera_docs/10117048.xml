@@ -10,11 +10,11 @@
 <field name="date">1906</field>
 <field name="librettist">Albert Delpit</field>
 <field name="librettistSort">Delpit, Albert</field>
-<field name="theater"/>
+
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>
 <field name="country">Belgium</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maucroix+Paul+La+Gye&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

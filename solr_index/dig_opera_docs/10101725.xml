@@ -7,11 +7,11 @@
 <field name="composer">Felice Bambini</field>
 <field name="composerSort">Bambini, Felice</field>
 <field name="year">1787</field>
-<field name="date">1787theater</field>
+<field name="date">1787</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amour+l'emporte+Felice+Bambini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

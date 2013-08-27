@@ -7,7 +7,7 @@
 <field name="composer">Johann Tost</field>
 <field name="composerSort">Tost, Johann</field>
 <field name="year">1788</field>
-<field name="date">1788theaterPrivattheater der Grafen Erdödy</field>
+<field name="date">1788</field><field name="theater">Privattheater der Grafen Erdödy</field>
 <field name="city">Bratislava</field>
 
 <field name="country">Slovakia</field>

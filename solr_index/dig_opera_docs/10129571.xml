@@ -7,7 +7,7 @@
 <field name="composer">Giuseppe Sparano</field>
 <field name="composerSort">Sparano, Giuseppe</field>
 <field name="year">1817</field>
-<field name="date">1817theaterTeatro dei Fiorentini</field>
+<field name="date">1817</field><field name="theater">Teatro dei Fiorentini</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

@@ -7,7 +7,7 @@
 <field name="composer">Georg Joseph Vogler</field>
 <field name="composerSort">Vogler, Georg Joseph</field>
 <field name="year">1811</field>
-<field name="date">1811theaterGrossherzogliches Hoftheater</field>
+<field name="date">1811</field><field name="theater">Grossherzogliches Hoftheater</field>
 <field name="city">Darmstadt</field>
 <field name="region">Hessen</field>
 <field name="country">Germany</field>

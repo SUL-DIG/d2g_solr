@@ -12,9 +12,9 @@
 <field name="librettistSort">Bauer, Julius</field>
 <field name="theater">Johann Strauss-Theater</field>
 <field name="city">Vienna</field>
-<field name="region"/>
+
 <field name="country">Austria</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Heimliche+Liebe+Paul+Ottenheimer&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

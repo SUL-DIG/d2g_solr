@@ -7,7 +7,7 @@
 <field name="composer">Karel Weis</field>
 <field name="composerSort">Weis, Karel</field>
 <field name="year">1912</field>
-<field name="date">1912theaterTheater des Westens</field>
+<field name="date">1912</field><field name="theater">Theater des Westens</field>
 <field name="city">Charlottenburg</field>
 <field name="region">Berlin</field>
 <field name="country">Germany</field>

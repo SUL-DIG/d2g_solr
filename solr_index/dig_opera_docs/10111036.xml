@@ -7,11 +7,11 @@
 <field name="composer">Manuel García</field>
 <field name="composerSort">García, Manuel</field>
 <field name="year">1828</field>
-<field name="date">1828theaterTeatro Provisional</field>
+<field name="date">1828</field><field name="theater">Teatro Provisional</field>
 <field name="city">Mexico City</field>
-<field name="region"/>
+
 <field name="country">Mexico</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Los+maridos+solteros+Manuel+García&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

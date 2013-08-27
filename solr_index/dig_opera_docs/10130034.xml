@@ -7,7 +7,7 @@
 <field name="composer">Gottfried Heinrich Stölzel</field>
 <field name="composerSort">Stölzel, Gottfried Heinrich</field>
 <field name="year">1736</field>
-<field name="date">1736theaterSchloss Friedenstein</field>
+<field name="date">1736</field><field name="theater">Schloss Friedenstein</field>
 <field name="city">Gotha</field>
 <field name="region">Thüringen</field>
 <field name="country">Germany</field>

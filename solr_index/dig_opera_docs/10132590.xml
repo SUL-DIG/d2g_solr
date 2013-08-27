@@ -7,7 +7,7 @@
 <field name="composer">Friedrich Dionys Weber</field>
 <field name="composerSort">Weber, Friedrich Dionys</field>
 <field name="year">1800</field>
-<field name="date">1800theaterStavovské Divadlo</field>
+<field name="date">1800</field><field name="theater">Stavovské Divadlo</field>
 <field name="city">Prague</field>
 
 <field name="country">Czech Republic</field>

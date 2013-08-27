@@ -10,11 +10,11 @@
 <field name="date">1849</field>
 <field name="librettist">Val Morris</field>
 <field name="librettistSort">Morris, Val</field>
-<field name="theater"/>
+
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Francesca+Doria,+or+The+Bandit+of+the+Abruzzi+George+Linley&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

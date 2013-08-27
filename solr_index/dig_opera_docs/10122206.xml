@@ -16,7 +16,7 @@
 <field name="city">Oporto</field>
 <field name="region">Porto</field>
 <field name="country">Portugal</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beatrice+di+Portogallo+Francisco+de+Sá+Noronha&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

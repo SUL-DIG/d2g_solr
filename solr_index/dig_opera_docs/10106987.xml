@@ -10,11 +10,11 @@
 <field name="date">1948</field>
 <field name="librettist">Tish Daija</field>
 <field name="librettistSort">Daija, Tish</field>
-<field name="theater"/>
+
 <field name="city">Vlora</field>
 <field name="region">Qarku i Vlorës</field>
 <field name="country">Albania</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Klasa+VIIb+Class+VIIb+Tish+Daija&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

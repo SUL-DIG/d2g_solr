@@ -16,7 +16,7 @@
 <field name="city">Quebec City</field>
 <field name="region">Quebec</field>
 <field name="country">Canada</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Scène+des+voyageurs+Oscar+O'Brien&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

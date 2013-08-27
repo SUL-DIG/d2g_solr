@@ -10,11 +10,11 @@
 <field name="date">1827</field>
 <field name="librettist">Julius Eberwein</field>
 <field name="librettistSort">Eberwein, Julius</field>
-<field name="theater"/>
+
 <field name="city">Rudolstadt</field>
 <field name="region">Thüringen</field>
 <field name="country">Germany</field>
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Storchnest+Traugott+Maximilian+Eberwein&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

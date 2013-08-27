@@ -12,11 +12,11 @@
 <field name="librettistSort">Vieira, Ernesto</field>
 <field name="librettist">Paolo Midosi</field>
 <field name="librettistSort">Midosi, Paolo</field>
-<field name="theater"/>
+
 <field name="city">Lisbon</field>
 <field name="region">Lisboa</field>
 <field name="country">Portugal</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+conselho+das+dez+António+Luis+Miró&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

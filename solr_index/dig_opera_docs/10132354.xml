@@ -7,7 +7,7 @@
 <field name="composer">Frédéric Wachs</field>
 <field name="composerSort">Wachs, Frédéric</field>
 <field name="year">1875</field>
-<field name="date">1875theaterCafé-concert de l'Eldorado</field>
+<field name="date">1875</field><field name="theater">Café-concert de l'Eldorado</field>
 <field name="city">Paris</field>
 
 <field name="country">France</field>

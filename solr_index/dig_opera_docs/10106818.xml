@@ -7,11 +7,11 @@
 <field name="composer">Franz Cramer</field>
 <field name="composerSort">Cramer, Franz</field>
 <field name="year">1813</field>
-<field name="date">1813theater</field>
+<field name="date">1813</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hidallan+der+Harfner+Franz+Cramer&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -14,9 +14,9 @@
 <field name="librettistSort">Manucharova, Yevgeny</field>
 <field name="theater">Uzbekskiy Muzïkal'nïy Teatr</field>
 <field name="city">Tashkent</field>
-<field name="region"/>
+
 <field name="country">Uzbekistan</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Volk+i+semero+kozlyat+The+Wolf+and+Seven+Kids+Marian+Viktorovich+Koval'&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

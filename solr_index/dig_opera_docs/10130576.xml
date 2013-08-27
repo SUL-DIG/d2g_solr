@@ -7,7 +7,7 @@
 <field name="composer">Giuseppe Tamburini</field>
 <field name="composerSort">Tamburini, Giuseppe</field>
 <field name="year">1864</field>
-<field name="date">1864theaterTeatro Carcano</field>
+<field name="date">1864</field><field name="theater">Teatro Carcano</field>
 <field name="city">Milan</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>

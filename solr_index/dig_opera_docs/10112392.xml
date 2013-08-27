@@ -7,11 +7,11 @@
 <field name="composer">Olga Gorelli</field>
 <field name="composerSort">Gorelli, Olga</field>
 <field name="year">1972</field>
-<field name="date">1972theaterSaint James Church</field>
+<field name="date">1972</field><field name="theater">Saint James Church</field>
 <field name="city">Pennington</field>
 <field name="region">New Jersey</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Between+the+Shadow+and+the+Dream+Olga+Gorelli&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

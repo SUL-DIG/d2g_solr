@@ -12,9 +12,9 @@
 <field name="librettistSort">Paccard, Jean-Edmé</field>
 <field name="theater">Théâtre des Jeunes Élèves</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'orpheline+du+hameau+R.+Richard&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

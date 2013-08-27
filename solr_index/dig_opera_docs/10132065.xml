@@ -7,7 +7,7 @@
 <field name="composer">Aldé de Villebichot</field>
 <field name="composerSort">Villebichot, Aldé de</field>
 <field name="year">1863</field>
-<field name="date">1863theaterThéâtre de Belleville</field>
+<field name="date">1863</field><field name="theater">Théâtre de Belleville</field>
 <field name="city">Paris</field>
 
 <field name="country">France</field>

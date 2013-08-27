@@ -10,11 +10,11 @@
 <field name="date">1758</field>
 <field name="librettist">Giuseppe Bonecchi</field>
 <field name="librettistSort">Bonecchi, Giuseppe</field>
-<field name="theater"/>
+
 <field name="city">Aranjuez</field>
 <field name="region">Madrid</field>
 <field name="country">Spain</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+forza+del+genio,+o+sia+Il+pastor+guerriero+Nicola+Conforto&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

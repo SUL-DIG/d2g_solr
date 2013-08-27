@@ -10,11 +10,11 @@
 <field name="date">1958</field>
 <field name="librettist">Llazar Siliqi</field>
 <field name="librettistSort">Siliqi, Llazar</field>
-<field name="theater"/>
+
 <field name="city">Shkoder</field>
 <field name="region">Rrethi i Shkodrës</field>
 <field name="country">Albania</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mrika+Prenkë+Jakova&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

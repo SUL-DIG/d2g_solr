@@ -7,7 +7,7 @@
 <field name="composer">Mathias Stabinger</field>
 <field name="composerSort">Stabinger, Mathias</field>
 <field name="year">1788</field>
-<field name="date">1788theaterTheater on the Znamenka</field>
+<field name="date">1788</field><field name="theater">Theater on the Znamenka</field>
 <field name="city">Moscow</field>
 
 <field name="country">Russia</field>

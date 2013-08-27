@@ -7,7 +7,7 @@
 <field name="composer">Giacomo Tritto</field>
 <field name="composerSort">Tritto, Giacomo</field>
 <field name="year">1765</field>
-<field name="date">1765theaterConvento di Santa Chiara</field>
+<field name="date">1765</field><field name="theater">Convento di Santa Chiara</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

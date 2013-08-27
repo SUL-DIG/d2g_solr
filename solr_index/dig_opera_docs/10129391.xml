@@ -7,7 +7,7 @@
 <field name="composer">Carlo Michele Alfonso Sola</field>
 <field name="composerSort">Sola, Carlo Michele Alfonso</field>
 <field name="year">1816</field>
-<field name="date">1816theaterThéâtre Covelle</field>
+<field name="date">1816</field><field name="theater">Théâtre Covelle</field>
 <field name="city">Geneva</field>
 <field name="region">Genève</field>
 <field name="country">Switzerland</field>

@@ -10,11 +10,11 @@
 <field name="date">1964</field>
 <field name="librettist">Ahmet Banushi</field>
 <field name="librettistSort">Banushi, Ahmet</field>
-<field name="theater"/>
+
 <field name="city">Tirana</field>
 <field name="region">Rrethi i Tiranës</field>
 <field name="country">Albania</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vjeshta+e+artë+Golden+Autumn+Tish+Daija&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

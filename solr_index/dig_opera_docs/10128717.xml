@@ -7,7 +7,7 @@
 <field name="composer">Gennaro Scognamiglia</field>
 <field name="composerSort">Scognamiglia, Gennaro</field>
 <field name="year">1892</field>
-<field name="date">1892theaterPoliteama di Napoli</field>
+<field name="date">1892</field><field name="theater">Politeama di Napoli</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

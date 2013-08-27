@@ -7,7 +7,7 @@
 <field name="composer">Benedetto Secchi</field>
 <field name="composerSort">Secchi, Benedetto</field>
 <field name="year">1847</field>
-<field name="date">1847theaterConservatorio di Musica</field>
+<field name="date">1847</field><field name="theater">Conservatorio di Musica</field>
 <field name="city">Milan</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>

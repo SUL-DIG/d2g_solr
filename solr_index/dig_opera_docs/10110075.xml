@@ -12,9 +12,9 @@
 <field name="librettistSort">Lemonnier, Pierre-René</field>
 <field name="theater">Opéra</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'union+de+l'Amour+et+des+arts+Étienne+Joseph+Floquet&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

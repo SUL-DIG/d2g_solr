@@ -7,7 +7,7 @@
 <field name="composer">Ferdinando Rutini</field>
 <field name="composerSort">Rutini, Ferdinando</field>
 <field name="year">1792</field>
-<field name="date">1792theaterTeatro delle Dame</field>
+<field name="date">1792</field><field name="theater">Teatro delle Dame</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

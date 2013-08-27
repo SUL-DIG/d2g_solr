@@ -10,11 +10,11 @@
 <field name="date">1898</field>
 <field name="librettist">Albert Sair</field>
 <field name="librettistSort">Sair, Albert</field>
-<field name="theater"/>
+
 <field name="city">Bourbonne-les-Bains</field>
 <field name="region">Haute-Marne</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+retour+au+pays+Charles+Nicosias&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

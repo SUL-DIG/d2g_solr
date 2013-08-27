@@ -14,7 +14,7 @@
 <field name="city">Issy-les-Moulineaux</field>
 <field name="region">Hauts-de-Seine</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pastorale+d'Issy+Robert+Cambert&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

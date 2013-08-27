@@ -7,11 +7,11 @@
 <field name="composer">Richard Fricke</field>
 <field name="composerSort">Fricke, Richard</field>
 <field name="year">1918</field>
-<field name="date">1918theaterDeutsches Theater</field>
+<field name="date">1918</field><field name="theater">Deutsches Theater</field>
 <field name="city">Vilnius</field>
-<field name="region"/>
+
 <field name="country">Lithuania</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Bad+im+Kaukasus+Richard+Fricke&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

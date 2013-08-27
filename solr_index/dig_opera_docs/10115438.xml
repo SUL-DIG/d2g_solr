@@ -7,11 +7,11 @@
 <field name="composer">A. von Jötzte</field>
 <field name="composerSort">Jötzte, A. von</field>
 <field name="year">1920</field>
-<field name="date">1920theaterOperetten-Theater</field>
+<field name="date">1920</field><field name="theater">Operetten-Theater</field>
 <field name="city">Szczecin</field>
 <field name="region">Zachodniopomorskie</field>
 <field name="country">Poland</field>
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ein+Teufelsmädel+A.+von+Jötzte&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

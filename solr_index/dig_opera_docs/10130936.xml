@@ -7,7 +7,7 @@
 <field name="composer">John Thomson</field>
 <field name="composerSort">Thomson, John</field>
 <field name="year">1834</field>
-<field name="date">1834theaterLyceum Theatre</field>
+<field name="date">1834</field><field name="theater">Lyceum Theatre</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

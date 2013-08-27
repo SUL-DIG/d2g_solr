@@ -14,7 +14,7 @@
 <field name="city">Varna</field>
 <field name="region">Varna Oblast</field>
 <field name="country">Bulgaria</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Albena+Parashkev+Hadjiev&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

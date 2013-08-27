@@ -14,9 +14,9 @@
 <field name="librettistSort">Hapdé, Jean-Baptiste-Augustin</field>
 <field name="theater">Théâtre de la Pantomime</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'héroine+suisse,+ou+Amour+et+courage+Julien+Navoigille&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

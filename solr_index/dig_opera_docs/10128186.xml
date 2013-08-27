@@ -7,7 +7,7 @@
 <field name="composer">Georg Scheyermann</field>
 <field name="composerSort">Scheyermann, Georg</field>
 <field name="year">1820</field>
-<field name="date">1820theaterThéâtre Graslin</field>
+<field name="date">1820</field><field name="theater">Théâtre Graslin</field>
 <field name="city">Nantes</field>
 <field name="region">Loire-Atlantique</field>
 <field name="country">France</field>

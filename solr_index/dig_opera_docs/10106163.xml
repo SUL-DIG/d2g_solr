@@ -7,11 +7,11 @@
 <field name="composer">Gioacchino Cocchi</field>
 <field name="composerSort">Cocchi, Gioacchino</field>
 <field name="year">1759</field>
-<field name="date">1759theaterSheldonian Theatre</field>
+<field name="date">1759</field><field name="theater">Sheldonian Theatre</field>
 <field name="city">Oxford</field>
 <field name="region">Oxfordshire</field>
 <field name="country">United Kingdom</field>
 <field name="subgenre">Serenata</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+merito+coronato+Gioacchino+Cocchi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

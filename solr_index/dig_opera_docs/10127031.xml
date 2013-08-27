@@ -7,7 +7,7 @@
 <field name="composer">Johann Rummler</field>
 <field name="composerSort">Rummler, Johann</field>
 <field name="year">1804</field>
-<field name="date">1804theaterStavovské Divadlo</field>
+<field name="date">1804</field><field name="theater">Stavovské Divadlo</field>
 <field name="city">Prague</field>
 
 <field name="country">Czech Republic</field>

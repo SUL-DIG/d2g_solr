@@ -7,7 +7,7 @@
 <field name="composer">Giovanni Zoboli</field>
 <field name="composerSort">Zoboli, Giovanni</field>
 <field name="year">1866</field>
-<field name="date">1866theaterReal Albergo dei Poveri</field>
+<field name="date">1866</field><field name="theater">Real Albergo dei Poveri</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

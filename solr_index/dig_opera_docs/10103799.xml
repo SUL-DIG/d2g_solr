@@ -7,11 +7,11 @@
 <field name="composer">Louis Bossy</field>
 <field name="composerSort">Bossy, Louis</field>
 <field name="year">1879</field>
-<field name="date">1879theaterSalle Revillo</field>
+<field name="date">1879</field><field name="theater">Salle Revillo</field>
 <field name="city">Marseille</field>
 <field name="region">Bouches-du-Rhône</field>
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Brunette+de+Valrose+Louis+Bossy&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

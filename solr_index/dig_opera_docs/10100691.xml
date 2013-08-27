@@ -7,11 +7,11 @@
 <field name="composer">Alessandro Andreoli</field>
 <field name="composerSort">Andreoli, Alessandro</field>
 <field name="year">1884</field>
-<field name="date">1884theaterTeatro Apollo</field>
+<field name="date">1884</field><field name="theater">Teatro Apollo</field>
 <field name="city">Genoa</field>
 <field name="region">Liguria</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amore+d'un+mozzo+Alessandro+Andreoli&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

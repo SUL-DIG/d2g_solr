@@ -7,7 +7,7 @@
 <field name="composer">Martin Wallenstein</field>
 <field name="composerSort">Wallenstein, Martin</field>
 <field name="year">1870</field>
-<field name="date">1870theaterThalia-Theater</field>
+<field name="date">1870</field><field name="theater">Thalia-Theater</field>
 <field name="city">Frankfurt</field>
 <field name="region">Hessen</field>
 <field name="country">Germany</field>

@@ -10,11 +10,11 @@
 <field name="date">1909</field>
 <field name="librettist">Ivor Gatty</field>
 <field name="librettistSort">Gatty, Ivor</field>
-<field name="theater"/>
+
 <field name="city">Manchester</field>
 <field name="region">Greater Manchester</field>
 <field name="country">United Kingdom</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Duke+or+Devil+Nicholas+Comyn+Gatty&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -16,7 +16,7 @@
 <field name="city">Copenhagen</field>
 <field name="region">Hovedstaden</field>
 <field name="country">Denmark</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Den+kongelige+gæst+Hakon+Børresen&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

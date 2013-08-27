@@ -14,9 +14,9 @@
 <field name="librettistSort">Levin, L.</field>
 <field name="theater">Music Hall</field>
 <field name="city">St. Petersburg</field>
-<field name="region"/>
+
 <field name="country">Russia</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zolotaya+dolina+The+Golden+Valley+Isaak+Iosifovich+Dunayevsky&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

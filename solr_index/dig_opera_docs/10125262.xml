@@ -7,11 +7,11 @@
 <field name="composer">Vincenzo Pucitta</field>
 <field name="composerSort">Pucitta, Vincenzo</field>
 <field name="year">1815</field>
-<field name="date">1815theaterThéâtre-Italien</field>
+<field name="date">1815</field><field name="theater">Théâtre-Italien</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'orgoglio+avvilito+Vincenzo+Pucitta&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

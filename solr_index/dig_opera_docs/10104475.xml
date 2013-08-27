@@ -14,7 +14,7 @@
 <field name="city">Alexandria</field>
 <field name="region">Virginia</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=An+American+Triptych+Stephen+Douglas+Burton&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,11 +7,11 @@
 <field name="composer">António Luis Miró</field>
 <field name="composerSort">Miró, António Luis</field>
 <field name="year">1835</field>
-<field name="date">1835theater</field>
+<field name="date">1835</field>
 <field name="city">Lisbon</field>
 <field name="region">Lisboa</field>
 <field name="country">Portugal</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+sonambulo+António+Luis+Miró&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,11 +7,11 @@
 <field name="composer">Paolo Baraldi</field>
 <field name="composerSort">Baraldi, Paolo</field>
 <field name="year">1870</field>
-<field name="date">1870theater</field>
+<field name="date">1870</field>
 <field name="city">Barcelona</field>
 <field name="region">Catalunya</field>
 <field name="country">Spain</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'orfanella+Paolo+Baraldi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

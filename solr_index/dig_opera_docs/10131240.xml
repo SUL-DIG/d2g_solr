@@ -7,7 +7,7 @@
 <field name="composer">Giuseppe Tranquilli</field>
 <field name="composerSort">Tranquilli, Giuseppe</field>
 <field name="year">1848</field>
-<field name="date">1848theaterTeatro della Concordia</field>
+<field name="date">1848</field><field name="theater">Teatro della Concordia</field>
 <field name="city">Padua</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>

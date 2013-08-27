@@ -10,11 +10,11 @@
 <field name="date">1888</field>
 <field name="librettist">Azzo Albertoni</field>
 <field name="librettistSort">Albertoni, Azzo</field>
-<field name="theater"/>
+
 <field name="city">Castelfranco Veneto</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+grembialino+rosa+Azzo+Albertoni&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

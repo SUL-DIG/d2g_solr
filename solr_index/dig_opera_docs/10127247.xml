@@ -7,7 +7,7 @@
 <field name="composer">Antonio Sacchini</field>
 <field name="composerSort">Sacchini, Antonio</field>
 <field name="year">1757</field>
-<field name="date">1757theaterConservatorio di Santa Maria di Loreto</field>
+<field name="date">1757</field><field name="theater">Conservatorio di Santa Maria di Loreto</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

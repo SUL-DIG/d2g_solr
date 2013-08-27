@@ -7,11 +7,11 @@
 <field name="composer">Salvatore Delitala</field>
 <field name="composerSort">Delitala, Salvatore</field>
 <field name="year">1882</field>
-<field name="date">1882theaterTeatro del Commercio</field>
+<field name="date">1882</field><field name="theater">Teatro del Commercio</field>
 <field name="city">Cagliari</field>
 <field name="region">Sardegna</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+partita+a+scacchi+Salvatore+Delitala&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

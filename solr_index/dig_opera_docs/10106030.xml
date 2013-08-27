@@ -10,11 +10,11 @@
 <field name="date">1880</field>
 <field name="librettist">Lucien Rouland</field>
 <field name="librettistSort">Rouland, Lucien</field>
-<field name="theater"/>
+
 <field name="city">Deauville</field>
 <field name="region">Calvados</field>
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pierrot+jaloux+Édouard+Nicolaïe]+Clairville+fils&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

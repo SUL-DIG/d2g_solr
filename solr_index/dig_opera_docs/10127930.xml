@@ -7,7 +7,7 @@
 <field name="composer">Nicholas Scarim</field>
 <field name="composerSort">Scarim, Nicholas</field>
 <field name="year">1985</field>
-<field name="date">1985theaterMusic Downtown/Children's Musical Theater</field>
+<field name="date">1985</field><field name="theater">Music Downtown/Children's Musical Theater</field>
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>

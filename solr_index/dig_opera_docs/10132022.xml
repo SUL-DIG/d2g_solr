@@ -7,7 +7,7 @@
 <field name="composer">Georges Villain</field>
 <field name="composerSort">Villain, Georges</field>
 <field name="year">1906</field>
-<field name="date">1906theaterThéâtre Moderne</field>
+<field name="date">1906</field><field name="theater">Théâtre Moderne</field>
 <field name="city">Paris</field>
 
 <field name="country">France</field>

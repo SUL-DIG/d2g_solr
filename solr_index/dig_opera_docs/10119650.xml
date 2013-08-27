@@ -7,11 +7,11 @@
 <field name="composer">Wilton Mason</field>
 <field name="composerSort">Mason, Wilton</field>
 <field name="year">1953</field>
-<field name="date">1953theaterAppalachian State University</field>
+<field name="date">1953</field><field name="theater">Appalachian State University</field>
 <field name="city">Boone</field>
 <field name="region">North Carolina</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kingdom+Come+Wilton+Mason&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

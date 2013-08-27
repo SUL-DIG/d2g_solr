@@ -14,9 +14,9 @@
 <field name="librettistSort">Vast-Ricouard, [Raoul Vast &amp; Gustave Ricouard]</field>
 <field name="theater">Théâtre des Fantaisies-Parisiennes</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+croix+de+l'Alsade+Henri+Perry-Biagioli&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

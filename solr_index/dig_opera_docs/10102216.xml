@@ -12,9 +12,9 @@
 <field name="librettistSort">Provost, J.</field>
 <field name="theater">Bijou-concert</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+petits+savoyards+__+Bellefleur&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

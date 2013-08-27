@@ -12,9 +12,9 @@
 <field name="librettistSort">Marsollier des Vivetières, Benoît-Joseph</field>
 <field name="theater">Comédie-Italienne</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Camille,+ou+Le+souterrain+Nicolas-Marie+Dalayrac&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

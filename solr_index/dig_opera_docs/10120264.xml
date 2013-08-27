@@ -12,9 +12,9 @@
 <field name="librettistSort">Carré, Albert</field>
 <field name="theater">Théâtre Michel</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+premier+pas+Georges+Menier&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

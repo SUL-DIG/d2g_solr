@@ -7,11 +7,11 @@
 <field name="composer">Jean Jacques Debillemont</field>
 <field name="composerSort">Debillemont, Jean Jacques</field>
 <field name="year">1853</field>
-<field name="date">1853theaterGrand-Théâtre</field>
+<field name="date">1853</field><field name="theater">Grand-Théâtre</field>
 <field name="city">Dijon</field>
 <field name="region">Côtes-d'Or</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+joujoux+Jean+Jacques+Debillemont&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,11 +7,11 @@
 <field name="composer">Josef Dussek</field>
 <field name="composerSort">Dussek, Josef</field>
 <field name="year">1806</field>
-<field name="date">1806theaterTeatro alla Scala</field>
+<field name="date">1806</field><field name="theater">Teatro alla Scala</field>
 <field name="city">Milan</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+feudataria+Josef+Dussek&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -12,11 +12,11 @@
 <field name="librettistSort">Winzer, Alfred</field>
 <field name="librettist">A. von Plessen</field>
 <field name="librettistSort">Plessen, A. von</field>
-<field name="theater"/>
+
 <field name="city">Franzensburg</field>
 <field name="region">Niederösterreich</field>
 <field name="country">Austria</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Buberlquelle+Otto+Auentraut&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

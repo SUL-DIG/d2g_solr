@@ -7,7 +7,7 @@
 <field name="composer">Vincenc Tucek</field>
 <field name="composerSort">Tucek, Vincenc</field>
 <field name="year">1809</field>
-<field name="date">1809theaterTheater in der Leopoldstadt</field>
+<field name="date">1809</field><field name="theater">Theater in der Leopoldstadt</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

@@ -6,10 +6,10 @@
 <field name="titleSort">Guzmán el Bueno</field>
 <field name="composer">Avelino de Aguirre Lizaola</field>
 <field name="composerSort">Lizaola, Avelino de Aguirre</field>
-<field name="year"/>
-<field name="date"/>
-<field name="country"/>
-<field name="subgenre"/>
+
+
+
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Guzmán+el+Bueno+Avelino+de+Aguirre+Lizaola&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

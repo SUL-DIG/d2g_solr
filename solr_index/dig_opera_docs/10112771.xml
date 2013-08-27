@@ -12,9 +12,9 @@
 <field name="librettistSort">Koch, Carl Wilhelm</field>
 <field name="theater">Deutsches Theater</field>
 <field name="city">Budapest</field>
-<field name="region"/>
+
 <field name="country">Hungary</field>
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Königin+von+24+Jahren+Johann+Grill&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

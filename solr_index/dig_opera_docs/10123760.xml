@@ -12,11 +12,11 @@
 <field name="librettistSort">Scribe, Eugène</field>
 <field name="librettist">[Charles-Gaspard Poirson] Delestre-Poirson</field>
 <field name="librettistSort">Delestre-Poirson, [Charles-Gaspard Poirson]</field>
-<field name="theater"/>
+
 <field name="city">Marseille</field>
 <field name="region">Bouches-du-Rhône</field>
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+visita+a+Bedlam+Achille+Peri&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

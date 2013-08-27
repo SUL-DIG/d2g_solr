@@ -7,7 +7,7 @@
 <field name="composer">Lorenzo Rossi</field>
 <field name="composerSort">Rossi, Lorenzo</field>
 <field name="year">1793</field>
-<field name="date">1793theaterTeatro Pubblico</field>
+<field name="date">1793</field><field name="theater">Teatro Pubblico</field>
 <field name="city">Lucca</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>

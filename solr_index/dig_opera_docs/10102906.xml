@@ -7,11 +7,11 @@
 <field name="composer">Francesco Bianchi</field>
 <field name="composerSort">Bianchi, Francesco</field>
 <field name="year">1806</field>
-<field name="date">1806theaterThéâtre des Jeunes Élèves</field>
+<field name="date">1806</field><field name="theater">Théâtre des Jeunes Élèves</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Monsieur+Jugolo,+ou+Les+chercheurs+Francesco+Bianchi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

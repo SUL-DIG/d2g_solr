@@ -7,7 +7,7 @@
 <field name="composer">Germaine Tailleferre</field>
 <field name="composerSort">Tailleferre, Germaine</field>
 <field name="year">1950</field>
-<field name="date">1950theaterOpéra-Comique</field>
+<field name="date">1950</field><field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 
 <field name="country">France</field>

@@ -12,11 +12,11 @@
 <field name="librettistSort">Vetlugin, Sergey</field>
 <field name="librettist">Lev Ivanovich Oshanin</field>
 <field name="librettistSort">Oshanin, Lev Ivanovich</field>
-<field name="theater"/>
+
 <field name="city">Khabarovsk</field>
 <field name="region">Khabarovsk Territory</field>
 <field name="country">Russia</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ganna+rannyaya+An+Early+Beauty/Gioconda+Klimenty+Arkad'yevich+Korchmaryov&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

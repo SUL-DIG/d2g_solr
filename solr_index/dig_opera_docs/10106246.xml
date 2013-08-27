@@ -16,7 +16,7 @@
 <field name="city">Queluz</field>
 <field name="region">Lisboa</field>
 <field name="country">Portugal</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Auto+da+alma+Rui+Coelho&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

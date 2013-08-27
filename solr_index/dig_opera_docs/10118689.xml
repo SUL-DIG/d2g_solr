@@ -7,11 +7,11 @@
 <field name="composer">Giovanni Lusini</field>
 <field name="composerSort">Lusini, Giovanni</field>
 <field name="year">1792</field>
-<field name="date">1792theaterChurfürstliches Theater</field>
+<field name="date">1792</field><field name="theater">Churfürstliches Theater</field>
 <field name="city">Kassel</field>
 <field name="region">Hessen</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alciade+e+Telesia+Giovanni+Lusini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

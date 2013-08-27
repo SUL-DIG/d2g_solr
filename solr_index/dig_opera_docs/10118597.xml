@@ -7,11 +7,11 @@
 <field name="composer">Giovanni Matteo Lucchini</field>
 <field name="composerSort">Lucchini, Giovanni Matteo</field>
 <field name="year">1723</field>
-<field name="date">1723theaterTeatro Manfredini</field>
+<field name="date">1723</field><field name="theater">Teatro Manfredini</field>
 <field name="city">Rovigo</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alciade+Giovanni+Matteo+Lucchini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

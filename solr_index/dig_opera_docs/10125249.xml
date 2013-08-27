@@ -7,11 +7,11 @@
 <field name="composer">Vincenzo Pucitta</field>
 <field name="composerSort">Pucitta, Vincenzo</field>
 <field name="year">1805</field>
-<field name="date">1805theaterTeatro Carcano</field>
+<field name="date">1805</field><field name="theater">Teatro Carcano</field>
 <field name="city">Milan</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+duello+per+complimento+Vincenzo+Pucitta&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

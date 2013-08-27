@@ -7,7 +7,7 @@
 <field name="composer">Ferdinando Rutini</field>
 <field name="composerSort">Rutini, Ferdinando</field>
 <field name="year">1816</field>
-<field name="date">1816theaterTeatro Apollo</field>
+<field name="date">1816</field><field name="theater">Teatro Apollo</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

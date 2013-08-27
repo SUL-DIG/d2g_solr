@@ -7,7 +7,7 @@
 <field name="composer">Hans Sommer</field>
 <field name="composerSort">Sommer, Hans</field>
 <field name="year">1865</field>
-<field name="date">1865theaterHerzogliches Hoftheater</field>
+<field name="date">1865</field><field name="theater">Herzogliches Hoftheater</field>
 <field name="city">Brunswick</field>
 <field name="region">Niedersachsen</field>
 <field name="country">Germany</field>

@@ -6,15 +6,15 @@
 <field name="titleSort">Love and Whist</field>
 <field name="composer">Henry Houseley</field>
 <field name="composerSort">Houseley, Henry</field>
-<field name="year"/>
-<field name="date"/>
+
+
 <field name="librettist">Randolph Hartley</field>
 <field name="librettistSort">Hartley, Randolph</field>
-<field name="theater"/>
+
 <field name="city">Denver</field>
 <field name="region">Colorado</field>
 <field name="country">United States</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Love+and+Whist+Henry+Houseley&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

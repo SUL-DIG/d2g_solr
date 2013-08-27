@@ -10,11 +10,11 @@
 <field name="date">1796</field>
 <field name="librettist">Luigi de Sanctis</field>
 <field name="librettistSort">Sanctis, Luigi de</field>
-<field name="theater"/>
+
 <field name="city">Charlottenburg</field>
 <field name="region">Berlin</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+guerra+aperta+Natale+Nicola+Mussini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

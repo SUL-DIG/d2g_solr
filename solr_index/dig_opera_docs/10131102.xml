@@ -7,7 +7,7 @@
 <field name="composer">Pietro Torregiani</field>
 <field name="composerSort">Torregiani, Pietro</field>
 <field name="year">1841</field>
-<field name="date">1841theaterReal Teatro del Fondo di Separazione</field>
+<field name="date">1841</field><field name="theater">Real Teatro del Fondo di Separazione</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

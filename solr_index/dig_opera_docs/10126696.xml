@@ -7,7 +7,7 @@
 <field name="composer">Franz de Paula Roser</field>
 <field name="composerSort">Roser, Franz de Paula</field>
 <field name="year">1810</field>
-<field name="date">1810theaterVeghsches Schlosstheater</field>
+<field name="date">1810</field><field name="theater">Veghsches Schlosstheater</field>
 <field name="city">Vereb'jo</field>
 <field name="region">Novgorod Oblast</field>
 <field name="country">Russia</field>

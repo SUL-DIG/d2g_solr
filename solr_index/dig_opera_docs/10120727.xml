@@ -7,11 +7,11 @@
 <field name="composer">Lorenzo Minuti</field>
 <field name="composerSort">Minuti, Lorenzo</field>
 <field name="year">1763</field>
-<field name="date">1763theaterTeatro Pubblico</field>
+<field name="date">1763</field><field name="theater">Teatro Pubblico</field>
 <field name="city">Lucca</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>
 <field name="subgenre">Intermezzo</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lo+scialacquatore+Lorenzo+Minuti&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

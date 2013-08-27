@@ -14,9 +14,9 @@
 <field name="librettistSort">Fagan, Christophe-Barthelemy</field>
 <field name="theater">Théâtre de la Foire Saint-Laurent</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+nièce+vengée,+ou+Les+petits+comédiens+Jean-Claude+Gillier&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

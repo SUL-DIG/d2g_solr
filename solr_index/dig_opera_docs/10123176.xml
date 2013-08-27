@@ -12,11 +12,11 @@
 <field name="librettistSort">Gilardoni, Domenico</field>
 <field name="librettist">Louis-Charles Caigniez</field>
 <field name="librettistSort">Caigniez, Louis-Charles</field>
-<field name="theater"/>
+
 <field name="city">Trieste</field>
 <field name="region">Friuli-Venezia Giulia</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gianni+di+Calais+Giacomo+Panizza&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

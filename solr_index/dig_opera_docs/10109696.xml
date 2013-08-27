@@ -10,11 +10,11 @@
 <field name="date">1922</field>
 <field name="librettist">Josef Jirí Stankovský</field>
 <field name="librettistSort">Stankovský, Josef Jirí</field>
-<field name="theater"/>
+
 <field name="city">Holesov</field>
 <field name="region">Jihomoravsky Kraj</field>
 <field name="country">Czech Republic</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vlastencové+z+boudy+Anton+Fiala&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

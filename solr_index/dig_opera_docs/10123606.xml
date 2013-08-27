@@ -12,11 +12,11 @@
 <field name="librettistSort">Delchaud, Paul</field>
 <field name="librettist">Paul Robert</field>
 <field name="librettistSort">Robert, Paul</field>
-<field name="theater"/>
+
 <field name="city">Janville</field>
 <field name="region">Eure-et-Loir</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Apothecaire+par+amour+Georges+Peifïer&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

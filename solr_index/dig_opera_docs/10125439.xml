@@ -7,11 +7,11 @@
 <field name="composer">Karel Frantisek Rafael</field>
 <field name="composerSort">Rafael, Karel Frantisek</field>
 <field name="year">1814</field>
-<field name="date">1814theaterReduta Divadlo</field>
+<field name="date">1814</field><field name="theater">Reduta Divadlo</field>
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>
 <field name="country">Czech Republic</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Strasidlo+ve+mlejne+Karel+Frantisek+Rafael&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

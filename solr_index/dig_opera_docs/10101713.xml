@@ -10,11 +10,11 @@
 <field name="date">1910</field>
 <field name="librettist">__ Néri</field>
 <field name="librettistSort">Néri, __</field>
-<field name="theater"/>
+
 <field name="city">Brézolles</field>
 <field name="region">Eure-et-Loir</field>
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Idylle+au+Maroc+Louis+Balleron&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

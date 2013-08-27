@@ -7,7 +7,7 @@
 <field name="composer">Boris Karlovych Yanovs'ky</field>
 <field name="composerSort">Yanovs'ky, Boris Karlovych</field>
 <field name="year">1929</field>
-<field name="date">1929theaterDerzhavna Akademichna Ukraïns'ka</field>
+<field name="date">1929</field><field name="theater">Derzhavna Akademichna Ukraïns'ka</field>
 <field name="city">Kiev</field>
 <field name="region">Kyïvs'ka Oblast</field>
 <field name="country">Ukraine</field>

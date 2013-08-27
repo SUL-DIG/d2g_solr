@@ -7,7 +7,7 @@
 <field name="composer">Settimo Sardo</field>
 <field name="composerSort">Sardo, Settimo</field>
 <field name="year">1884</field>
-<field name="date">1884theaterTeatro Principessa Margherita</field>
+<field name="date">1884</field><field name="theater">Teatro Principessa Margherita</field>
 <field name="city">Caltanissetta</field>
 <field name="region">Sicilia</field>
 <field name="country">Italy</field>

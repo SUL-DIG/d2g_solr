@@ -7,7 +7,7 @@
 <field name="composer">Carlo Salvioni</field>
 <field name="composerSort">Salvioni, Carlo</field>
 <field name="year">1826</field>
-<field name="date">1826theaterTeatro Sutera</field>
+<field name="date">1826</field><field name="theater">Teatro Sutera</field>
 <field name="city">Turin</field>
 <field name="region">Piemonte</field>
 <field name="country">Italy</field>

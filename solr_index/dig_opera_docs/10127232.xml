@@ -7,7 +7,7 @@
 <field name="composer">Antonio Sacchini</field>
 <field name="composerSort">Sacchini, Antonio</field>
 <field name="year">1766</field>
-<field name="date">1766theaterTeatro Valle</field>
+<field name="date">1766</field><field name="theater">Teatro Valle</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

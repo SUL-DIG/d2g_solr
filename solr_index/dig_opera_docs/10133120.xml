@@ -7,7 +7,7 @@
 <field name="composer">Maximilian Wolf</field>
 <field name="composerSort">Wolf, Maximilian</field>
 <field name="year">1872</field>
-<field name="date">1872theaterHermina-Theater</field>
+<field name="date">1872</field><field name="theater">Hermina-Theater</field>
 <field name="city">Dresden</field>
 <field name="region">Sachsen</field>
 <field name="country">Germany</field>

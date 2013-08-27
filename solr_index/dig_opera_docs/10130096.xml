@@ -7,7 +7,7 @@
 <field name="composer">Alessandro Stradella</field>
 <field name="composerSort">Stradella, Alessandro</field>
 <field name="year">1679</field>
-<field name="date">1679theaterTeatro del Falcone</field>
+<field name="date">1679</field><field name="theater">Teatro del Falcone</field>
 <field name="city">Genoa</field>
 <field name="region">Liguria</field>
 <field name="country">Italy</field>

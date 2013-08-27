@@ -13,9 +13,9 @@
 <field name="librettist">Italo Calvino</field>
 <field name="librettistSort">Calvino, Italo</field>
 <field name="theater">RAI Radio (Radiotelevisione Italiana)</field>
-<field name="region"/>
+
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+signora+Paulatim+Gino+Marinuzzi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

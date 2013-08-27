@@ -12,9 +12,9 @@
 <field name="librettistSort">Léger, François-Pierre-Auguste</field>
 <field name="theater">Salle Montansier</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Charles+Coypel,+ou+La+vengeance+d'un+peintre+Louis-Emmanuel+Jadin&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

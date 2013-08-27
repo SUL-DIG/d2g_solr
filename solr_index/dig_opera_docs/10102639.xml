@@ -7,11 +7,11 @@
 <field name="composer">Giuseppe Bernini</field>
 <field name="composerSort">Bernini, Giuseppe</field>
 <field name="year">1895</field>
-<field name="date">1895theater</field>
+<field name="date">1895</field>
 <field name="city">Varese</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'ispezione+scolastica+Giuseppe+Bernini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

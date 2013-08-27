@@ -7,7 +7,7 @@
 <field name="composer">Carol Schoenhard</field>
 <field name="composerSort">Schoenhard, Carol</field>
 <field name="year">1976</field>
-<field name="date">1976theaterWestminster College</field>
+<field name="date">1976</field><field name="theater">Westminster College</field>
 <field name="city">New Wilmington</field>
 <field name="region">Pennsylvania</field>
 <field name="country">United States</field>

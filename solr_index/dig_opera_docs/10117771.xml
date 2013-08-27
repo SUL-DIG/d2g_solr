@@ -12,9 +12,9 @@
 <field name="librettistSort">Pflanzer, Hans</field>
 <field name="theater">Revuebühne Femina</field>
 <field name="city">Vienna</field>
-<field name="region"/>
+
 <field name="country">Austria</field>
 <field name="subgenre">Vaudeville</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cleo's+Ehe+Fritz+Lehner&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

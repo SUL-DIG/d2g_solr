@@ -16,7 +16,7 @@
 <field name="city">Detmold</field>
 <field name="region">Nordrhein-Westfallen</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Glück+von+Hohenstein+Martin+Kurth&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

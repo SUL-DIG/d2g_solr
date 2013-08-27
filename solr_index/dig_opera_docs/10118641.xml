@@ -7,11 +7,11 @@
 <field name="composer">Joseph Luigini</field>
 <field name="composerSort">Luigini, Joseph</field>
 <field name="year">1853</field>
-<field name="date">1853theaterThéâtre du Capitole</field>
+<field name="date">1853</field><field name="theater">Théâtre du Capitole</field>
 <field name="city">Toulouse</field>
 <field name="region">Haute-Garonne</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pendant-vole+Joseph+Luigini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

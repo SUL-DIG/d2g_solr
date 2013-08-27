@@ -7,11 +7,11 @@
 <field name="composer">Felice Blangini</field>
 <field name="composerSort">Blangini, Felice</field>
 <field name="year">1805</field>
-<field name="date">1805theaterResidenztheater (Cuvilliéstheater)</field>
+<field name="date">1805</field><field name="theater">Residenztheater (Cuvilliéstheater)</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Encore+un+tour+du+calife+Ein+Kalifenstreich+Felice+Blangini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

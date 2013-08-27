@@ -7,11 +7,11 @@
 <field name="composer">Dorsan van Reijsschoot</field>
 <field name="composerSort">Reijsschoot, Dorsan van</field>
 <field name="year">1864</field>
-<field name="date">1864theaterGrand-Théâtre</field>
+<field name="date">1864</field><field name="theater">Grand-Théâtre</field>
 <field name="city">Ghent</field>
 <field name="region">Flaanderen</field>
 <field name="country">Belgium</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ni+roi+ni+reine+Dorsan+van+Reijsschoot&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,7 +7,7 @@
 <field name="composer">Fritz Adolf Söderman</field>
 <field name="composerSort">Söderman, Fritz Adolf</field>
 <field name="year">1866</field>
-<field name="date">1866theaterDramatiska Teatern</field>
+<field name="date">1866</field><field name="theater">Dramatiska Teatern</field>
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>
 <field name="country">Sweden</field>

@@ -7,7 +7,7 @@
 <field name="composer">Francesco Zanetti</field>
 <field name="composerSort">Zanetti, Francesco</field>
 <field name="year">1857</field>
-<field name="date">1857theaterTeatro dagli Armeni</field>
+<field name="date">1857</field><field name="theater">Teatro dagli Armeni</field>
 <field name="city">Livorno</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>

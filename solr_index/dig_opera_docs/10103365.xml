@@ -12,8 +12,8 @@
 <field name="librettistSort">Bogdanov-Berezovsky, Valerian Mikhaylovich</field>
 <field name="librettist">Fyodor Mikhaylovich Dostoyevsky</field>
 <field name="librettistSort">Dostoyevsky, Fyodor Mikhaylovich"</field>
-<field name="country"/>
-<field name="subgenre"/>
+
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nastas'ya+Filippovna+Valerian+Mikhaylovich+Bogdanov-Berezovsky&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

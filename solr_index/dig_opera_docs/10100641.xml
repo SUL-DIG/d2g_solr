@@ -14,9 +14,9 @@
 <field name="librettistSort">Jabarli, Jafar</field>
 <field name="theater">Azerbaijanskiy Akademicheskiy Teatr Operï i Baleta imeni F. Akhundova</field>
 <field name="city">Baku</field>
-<field name="region"/>
+
 <field name="country">Azerbaijan</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sevil'+Fikret+Amirov&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

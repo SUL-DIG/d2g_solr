@@ -16,7 +16,7 @@
 <field name="city">Cesky Krumlov</field>
 <field name="region">Jihocesky Kraj</field>
 <field name="country">Czech Republic</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prinzessin+Pepine+Anton+Moser&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

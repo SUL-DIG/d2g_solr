@@ -7,11 +7,11 @@
 <field name="composer">Nicola Porpora</field>
 <field name="composerSort">Porpora, Nicola</field>
 <field name="year">1742</field>
-<field name="date">1742theaterHoftheater</field>
+<field name="date">1742</field><field name="theater">Hoftheater</field>
 <field name="city">Vienna</field>
-<field name="region"/>
+
 <field name="country">Austria</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Rosmene+Nicola+Porpora&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

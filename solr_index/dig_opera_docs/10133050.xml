@@ -7,7 +7,7 @@
 <field name="composer">Peter Winter</field>
 <field name="composerSort">Winter, Peter</field>
 <field name="year">1795</field>
-<field name="date">1795theaterMarkgräfliches Opernhaus</field>
+<field name="date">1795</field><field name="theater">Markgräfliches Opernhaus</field>
 <field name="city">Bayreuth</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>

@@ -7,7 +7,7 @@
 <field name="composer">Jakob Eduard Schmölzer</field>
 <field name="composerSort">Schmölzer, Jakob Eduard</field>
 <field name="year">1872</field>
-<field name="date">1872theaterRudolfsheimer Volkstheater</field>
+<field name="date">1872</field><field name="theater">Rudolfsheimer Volkstheater</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

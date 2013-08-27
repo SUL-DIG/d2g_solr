@@ -6,12 +6,12 @@
 <field name="titleSort">Zena Vrsovcova (Vrsovec's Wife)</field>
 <field name="composer">Karel Bendl</field>
 <field name="composerSort">Bendl, Karel</field>
-<field name="year"/>
-<field name="date"/>
+
+
 <field name="librettist">[Jindriska Pechová] Eliska Krásnohorská</field>
 <field name="librettistSort">Krásnohorská, Eliska [Jindriska Pechová]"</field>
-<field name="country"/>
-<field name="subgenre"/>
+
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zena+Vrsovcova+Vrsovec's+Wife+Karel+Bendl&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

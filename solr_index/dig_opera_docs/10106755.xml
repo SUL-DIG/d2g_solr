@@ -7,11 +7,11 @@
 <field name="composer">Vicente Costa y Nogueras</field>
 <field name="composerSort">Nogueras, Vicente Costa y</field>
 <field name="year">1905</field>
-<field name="date">1905theaterTeatre Eldorado</field>
+<field name="date">1905</field><field name="theater">Teatre Eldorado</field>
 <field name="city">Barcelona</field>
 <field name="region">Catalunya</field>
 <field name="country">Spain</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ines+de+Castro+Vicente+Costa+y+Nogueras&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

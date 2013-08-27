@@ -7,7 +7,7 @@
 <field name="composer">Gregorio Sciroli</field>
 <field name="composerSort">Sciroli, Gregorio</field>
 <field name="year">1748</field>
-<field name="date">1748theaterTeatro Valle</field>
+<field name="date">1748</field><field name="theater">Teatro Valle</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

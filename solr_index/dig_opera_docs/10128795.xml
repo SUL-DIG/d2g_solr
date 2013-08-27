@@ -7,7 +7,7 @@
 <field name="composer">Gerald Seager</field>
 <field name="composerSort">Seager, Gerald</field>
 <field name="year">1971</field>
-<field name="date">1971theaterOhio State University</field>
+<field name="date">1971</field><field name="theater">Ohio State University</field>
 <field name="city">Columbus</field>
 <field name="region">Ohio</field>
 <field name="country">United States</field>

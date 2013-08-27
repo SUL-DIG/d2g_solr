@@ -14,7 +14,7 @@
 <field name="city">Montpellier</field>
 <field name="region">Hérault</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gaspard+de+Besse+__+La+Pérouse&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

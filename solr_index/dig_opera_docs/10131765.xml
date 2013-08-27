@@ -7,7 +7,7 @@
 <field name="composer">Paolino Vassalo</field>
 <field name="composerSort">Vassalo, Paolino</field>
 <field name="year">1898</field>
-<field name="date">1898theaterTeatro Reale</field>
+<field name="date">1898</field><field name="theater">Teatro Reale</field>
 <field name="city">Valletta</field>
 
 <field name="country">Malta</field>

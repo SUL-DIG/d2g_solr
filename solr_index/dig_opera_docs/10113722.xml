@@ -10,11 +10,11 @@
 <field name="date">1726</field>
 <field name="librettist">Francesco Ricciardi</field>
 <field name="librettistSort">Ricciardi, Francesco</field>
-<field name="theater"/>
+
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>
 <field name="subgenre">Serenata</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Semele,+o+sia+La+richiesta+fatale+Johann+Adolf+Hasse&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

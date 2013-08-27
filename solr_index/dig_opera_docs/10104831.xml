@@ -7,11 +7,11 @@
 <field name="composer">Pietro Candio</field>
 <field name="composerSort">Candio, Pietro</field>
 <field name="year">1833</field>
-<field name="date">1833theaterTeatro Morando</field>
+<field name="date">1833</field><field name="theater">Teatro Morando</field>
 <field name="city">Verona</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Luigia+e+Roberto+Pietro+Candio&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

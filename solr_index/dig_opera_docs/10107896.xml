@@ -12,11 +12,11 @@
 <field name="librettistSort">Oehlmann, Werner</field>
 <field name="librettist">Joachim Poley</field>
 <field name="librettistSort">Poley, Joachim</field>
-<field name="theater"/>
+
 <field name="city">Oberhausen</field>
 <field name="region">Nordrhein-Westfallen</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Brautfahrt+Hans+Dombrowski&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

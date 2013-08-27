@@ -14,7 +14,7 @@
 <field name="city">Oulu</field>
 <field name="region">Oulun</field>
 <field name="country">Finland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Laestadiuksen+saarna+The+Sermon+of+Laestadius+Tauno+Marttinen&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

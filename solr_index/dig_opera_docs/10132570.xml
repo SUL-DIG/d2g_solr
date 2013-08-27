@@ -7,7 +7,7 @@
 <field name="composer">Bernhard Anselm Weber</field>
 <field name="composerSort">Weber, Bernhard Anselm</field>
 <field name="year">1796</field>
-<field name="date">1796theaterKönigliches Opernhaus</field>
+<field name="date">1796</field><field name="theater">Königliches Opernhaus</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>
 <field name="country">Germany</field>

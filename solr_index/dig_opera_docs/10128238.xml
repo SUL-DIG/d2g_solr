@@ -7,7 +7,7 @@
 <field name="composer">Louis Schindelmeisser</field>
 <field name="composerSort">Schindelmeisser, Louis</field>
 <field name="year">1839</field>
-<field name="date">1839theaterDeutsches Theater</field>
+<field name="date">1839</field><field name="theater">Deutsches Theater</field>
 <field name="city">Budapest</field>
 
 <field name="country">Hungary</field>

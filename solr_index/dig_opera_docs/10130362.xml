@@ -7,7 +7,7 @@
 <field name="composer">Jan-Pieter Suremont</field>
 <field name="composerSort">Suremont, Jan-Pieter</field>
 <field name="year">1824</field>
-<field name="date">1824theaterThéâtre-Royal</field>
+<field name="date">1824</field><field name="theater">Théâtre-Royal</field>
 <field name="city">Antwerp</field>
 <field name="region">Antwerpen</field>
 <field name="country">Belgium</field>

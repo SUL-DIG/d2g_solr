@@ -12,11 +12,11 @@
 <field name="librettistSort">Zanetti, Antonio Maria</field>
 <field name="librettist">Girolamo Zanetti</field>
 <field name="librettistSort">Zanetti, Girolamo</field>
-<field name="theater"/>
+
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sofonisba+Maria+Teresa+Agnesi-Pinottini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

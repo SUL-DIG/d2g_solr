@@ -7,11 +7,11 @@
 <field name="composer">Auguste Pilati</field>
 <field name="composerSort">Pilati, Auguste</field>
 <field name="year">1858</field>
-<field name="date">1858theaterThéâtre Deburau</field>
+<field name="date">1858</field><field name="theater">Théâtre Deburau</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+signor+Cascarelli+Auguste+Pilati&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

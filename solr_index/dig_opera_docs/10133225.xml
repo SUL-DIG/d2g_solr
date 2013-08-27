@@ -7,7 +7,7 @@
 <field name="composer">Maria Wurm</field>
 <field name="composerSort">Wurm, Maria</field>
 <field name="year">1895</field>
-<field name="date">1895theaterTheater der Casino-Gesellschaft</field>
+<field name="date">1895</field><field name="theater">Theater der Casino-Gesellschaft</field>
 <field name="city">Lübeck</field>
 <field name="region">Schleswig-Holstein</field>
 <field name="country">Germany</field>

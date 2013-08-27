@@ -7,11 +7,11 @@
 <field name="composer">Johann Gottlieb Naumann</field>
 <field name="composerSort">Naumann, Johann Gottlieb</field>
 <field name="year">1762</field>
-<field name="date">1762theaterTeatro Grimani di San Samuele</field>
+<field name="date">1762</field><field name="theater">Teatro Grimani di San Samuele</field>
 <field name="city">Venice</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
 <field name="subgenre">Intermezzo</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+tesoro+insidiato+Johann+Gottlieb+Naumann&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

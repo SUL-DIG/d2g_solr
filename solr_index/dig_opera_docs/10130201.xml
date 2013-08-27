@@ -7,7 +7,7 @@
 <field name="composer">Georges Ernest Street</field>
 <field name="composerSort">Street, Georges Ernest</field>
 <field name="year">1885</field>
-<field name="date">1885theaterCafé-concert de la Scala</field>
+<field name="date">1885</field><field name="theater">Café-concert de la Scala</field>
 <field name="city">Paris</field>
 
 <field name="country">France</field>

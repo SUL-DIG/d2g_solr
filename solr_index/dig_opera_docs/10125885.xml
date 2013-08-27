@@ -10,11 +10,11 @@
 <field name="date">1874</field>
 <field name="librettist">Lorenzo Badioli</field>
 <field name="librettistSort">Badioli, Lorenzo</field>
-<field name="theater"/>
+
 <field name="city">Oporto</field>
 <field name="region">Porto</field>
 <field name="country">Portugal</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+rinnegata+António+Reparaz&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

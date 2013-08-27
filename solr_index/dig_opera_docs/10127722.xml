@@ -7,7 +7,7 @@
 <field name="composer">Giuseppe Sarti</field>
 <field name="composerSort">Sarti, Giuseppe</field>
 <field name="year">1784</field>
-<field name="date">1784theaterCourt</field>
+<field name="date">1784</field><field name="theater">Court</field>
 <field name="city">St. Petersburg</field>
 
 <field name="country">Russia</field>

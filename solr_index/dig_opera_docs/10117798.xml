@@ -7,11 +7,11 @@
 <field name="composer">Charles Lemanissier</field>
 <field name="composerSort">Lemanissier, Charles</field>
 <field name="year">1861</field>
-<field name="date">1861theaterThéâtre Municipal</field>
+<field name="date">1861</field><field name="theater">Théâtre Municipal</field>
 <field name="city">La Rochelle</field>
 <field name="region">Charente-Maritime</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+cabaret+de+Lustucru+Charles+Lemanissier&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

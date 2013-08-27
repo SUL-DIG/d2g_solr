@@ -7,7 +7,7 @@
 <field name="composer">Carl Stein</field>
 <field name="composerSort">Stein, Carl</field>
 <field name="year">1846</field>
-<field name="date">1846theaterTheater in der Leopoldstadt</field>
+<field name="date">1846</field><field name="theater">Theater in der Leopoldstadt</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

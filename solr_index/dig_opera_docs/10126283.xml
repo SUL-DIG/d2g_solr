@@ -10,11 +10,11 @@
 <field name="date">1718</field>
 <field name="librettist">Angelo Constantini</field>
 <field name="librettistSort">Constantini, Angelo</field>
-<field name="theater"/>
+
 <field name="city">Moritzburg</field>
 <field name="region">Sachsen</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cleonice+Giovanni+Alberto+Ristori&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

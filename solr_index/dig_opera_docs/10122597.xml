@@ -10,11 +10,11 @@
 <field name="date">1615</field>
 <field name="librettist">Gabriello Chiabrera</field>
 <field name="librettistSort">Chiabrera, Gabriello</field>
-<field name="theater"/>
+
 <field name="city">Mantua</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+amori+di+Aci+e+Galatea+Santi+Orlandi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

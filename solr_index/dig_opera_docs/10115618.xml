@@ -12,9 +12,9 @@
 <field name="librettistSort">Witkowski, M.</field>
 <field name="theater">Teatr Narodowy</field>
 <field name="city">Warsaw</field>
-<field name="region"/>
+
 <field name="country">Poland</field>
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Slowik,+czyli+Kasia+z+Hanka+na+wydaniu+Maciej+Kamienski&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

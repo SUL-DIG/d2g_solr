@@ -7,11 +7,11 @@
 <field name="composer">Luca Antonio Predieri</field>
 <field name="composerSort">Predieri, Luca Antonio</field>
 <field name="year">1715</field>
-<field name="date">1715theaterTeatro Capranica</field>
+<field name="date">1715</field><field name="theater">Teatro Capranica</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Astarte+Luca+Antonio+Predieri&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -14,7 +14,7 @@
 <field name="city">Dendermonde</field>
 <field name="region">Flaanderen</field>
 <field name="country">Belgium</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nadir,+ou+L'orphelin+d'Afrigue+F.+van+Haesdonck&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

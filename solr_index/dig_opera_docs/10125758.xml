@@ -6,10 +6,10 @@
 <field name="titleSort">Rosalia</field>
 <field name="composer">Anton Reicha</field>
 <field name="composerSort">Reicha, Anton</field>
-<field name="year"/>
-<field name="date"/>
-<field name="country"/>
+
+
+
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rosalia+Anton+Reicha&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,7 +7,7 @@
 <field name="composer">Josef Strauss</field>
 <field name="composerSort">Strauss, Josef</field>
 <field name="year">1831</field>
-<field name="date">1831theaterGrossherzogliches Hoftheater</field>
+<field name="date">1831</field><field name="theater">Grossherzogliches Hoftheater</field>
 <field name="city">Karlsruhe</field>
 <field name="region">Baden-Württemberg</field>
 <field name="country">Germany</field>

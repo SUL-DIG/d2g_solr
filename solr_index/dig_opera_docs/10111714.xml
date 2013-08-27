@@ -3,9 +3,9 @@
 <field name="id">10111714</field>
 <field name="genre">Operas</field>
 <field name="title">Mitri</field>
-<field name="date"/>
+
 <field name="titleSort">Mitri</field>
-<field name="date"/>
+
 <field name="composer">Giovanni Antonio Giai</field>
 <field name="composerSort">Giai, Giovanni Antonio</field>
 <field name="year">1730</field>
@@ -18,7 +18,7 @@
 <field name="city">Venice</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mitridate+Giovanni+Antonio+Giai&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

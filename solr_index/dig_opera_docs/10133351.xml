@@ -7,7 +7,7 @@
 <field name="composer">Gioseffo Zamponi</field>
 <field name="composerSort">Zamponi, Gioseffo</field>
 <field name="year">1650</field>
-<field name="date">1650theaterCourt</field>
+<field name="date">1650</field><field name="theater">Court</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>
 <field name="country">Belgium</field>

@@ -10,8 +10,8 @@
 <field name="date">1735</field>
 <field name="librettist">Pio Francesco Donadi</field>
 <field name="librettistSort">Donadi, Pio Francesco"</field>
-<field name="country"/>
-<field name="subgenre"/>
+
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+dolor+di+Cerere+nel+ratto+di+Proserpina+Angelo+Antonio+Caroli&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

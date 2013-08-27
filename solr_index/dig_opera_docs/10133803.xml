@@ -7,7 +7,7 @@
 <field name="composer">Otto Matthäus Zykan</field>
 <field name="composerSort">Zykan, Otto Matthäus</field>
 <field name="year">1994</field>
-<field name="date">1994theaterRIAS Berlin (Deutschlandradio Kultur)</field>
+<field name="date">1994</field><field name="theater">RIAS Berlin (Deutschlandradio Kultur)</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>
 <field name="country">Germany</field>

@@ -7,11 +7,11 @@
 <field name="composer">Vincenzo Ciampi</field>
 <field name="composerSort">Ciampi, Vincenzo</field>
 <field name="year">1743</field>
-<field name="date">1743theaterTeatro Nuovo sopra Toledo</field>
+<field name="date">1743</field><field name="theater">Teatro Nuovo sopra Toledo</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Flaminia+Vincenzo+Ciampi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

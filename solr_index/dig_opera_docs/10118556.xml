@@ -7,11 +7,11 @@
 <field name="composer">Adolf Lübcke</field>
 <field name="composerSort">Lübcke, Adolf</field>
 <field name="year">1827</field>
-<field name="date">1827theaterHerzogliches Hoftheater</field>
+<field name="date">1827</field><field name="theater">Herzogliches Hoftheater</field>
 <field name="city">Gotha</field>
 <field name="region">Thüringen</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ulrike,+oder+Der+Wirt+zum+Anker+Adolf+Lübcke&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

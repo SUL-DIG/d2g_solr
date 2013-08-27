@@ -7,7 +7,7 @@
 <field name="composer">Pierre-Joseph-Guillaume Zimmermann</field>
 <field name="composerSort">Zimmermann, Pierre-Joseph-Guillaume</field>
 <field name="year">1830</field>
-<field name="date">1830theaterOpéra-Comique</field>
+<field name="date">1830</field><field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 
 <field name="country">France</field>

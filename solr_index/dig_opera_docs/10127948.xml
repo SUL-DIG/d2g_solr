@@ -7,7 +7,7 @@
 <field name="composer">Alessandro Scarlatti</field>
 <field name="composerSort">Scarlatti, Alessandro</field>
 <field name="year">1702</field>
-<field name="date">1702theaterPalazzo Reale</field>
+<field name="date">1702</field><field name="theater">Palazzo Reale</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

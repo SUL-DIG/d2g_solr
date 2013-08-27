@@ -7,7 +7,7 @@
 <field name="composer">Gasparo Spontini</field>
 <field name="composerSort">Spontini, Gasparo</field>
 <field name="year">1800</field>
-<field name="date">1800theaterReal Teatro di Santa Cecilia</field>
+<field name="date">1800</field><field name="theater">Real Teatro di Santa Cecilia</field>
 <field name="city">Palermo</field>
 <field name="region">Sicilia</field>
 <field name="country">Italy</field>

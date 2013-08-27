@@ -10,11 +10,11 @@
 <field name="date">1985</field>
 <field name="librettist">Yury Vasil'yevich Bondarev</field>
 <field name="librettistSort">Bondarev, Yury Vasil'yevich</field>
-<field name="theater"/>
+
 <field name="city">Syktyvkar</field>
 <field name="region">Komi Republic</field>
 <field name="country">Russia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Goryachiy+sneg+Hot+Snow+Aleksandr+Nikolayevich+Kholminov&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

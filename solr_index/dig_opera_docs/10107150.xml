@@ -7,11 +7,11 @@
 <field name="composer">Henri Darondeau</field>
 <field name="composerSort">Darondeau, Henri</field>
 <field name="year">1801</field>
-<field name="date">1801theaterThéâtre de l'Ambigu-Comique</field>
+<field name="date">1801</field><field name="theater">Théâtre de l'Ambigu-Comique</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+surveillance+en+défaut+Henri+Darondeau&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

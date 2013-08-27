@@ -7,7 +7,7 @@
 <field name="composer">Peggy Salmon</field>
 <field name="composerSort">Salmon, Peggy</field>
 <field name="year">1977</field>
-<field name="date">1977theaterBuckland Abbey Festival</field>
+<field name="date">1977</field><field name="theater">Buckland Abbey Festival</field>
 <field name="city">Plymouth</field>
 <field name="region">Devonshire</field>
 <field name="country">United Kingdom</field>

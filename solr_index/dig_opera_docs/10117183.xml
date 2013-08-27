@@ -10,11 +10,11 @@
 <field name="date">1900</field>
 <field name="librettist">Giuseppe Tian</field>
 <field name="librettistSort">Tian, Giuseppe</field>
-<field name="theater"/>
+
 <field name="city">Acqui Terme</field>
 <field name="region">Piemonte</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=In+riva+al+mare+Giuseppe+Lanaro&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

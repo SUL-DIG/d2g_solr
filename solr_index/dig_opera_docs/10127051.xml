@@ -7,7 +7,7 @@
 <field name="composer">Stephan Ruprecht</field>
 <field name="composerSort">Ruprecht, Stephan</field>
 <field name="year">1792</field>
-<field name="date">1792theaterTheater in der Leopoldstadt</field>
+<field name="date">1792</field><field name="theater">Theater in der Leopoldstadt</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

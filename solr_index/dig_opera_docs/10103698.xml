@@ -7,11 +7,11 @@
 <field name="composer">Giovanni Battista Borghi</field>
 <field name="composerSort">Borghi, Giovanni Battista</field>
 <field name="year">1774</field>
-<field name="date">1774theaterTeatro Valle</field>
+<field name="date">1774</field><field name="theater">Teatro Valle</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+filosofo+amante+Giovanni+Battista+Borghi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

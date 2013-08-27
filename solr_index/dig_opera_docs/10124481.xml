@@ -7,11 +7,11 @@
 <field name="composer">Charles Henri Plantade</field>
 <field name="composerSort">Plantade, Charles Henri</field>
 <field name="year">1800</field>
-<field name="date">1800theaterSalle Montansier</field>
+<field name="date">1800</field><field name="theater">Salle Montansier</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lisez+Plutarque+Charles+Henri+Plantade&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

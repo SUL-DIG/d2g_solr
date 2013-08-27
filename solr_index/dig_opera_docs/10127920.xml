@@ -7,7 +7,7 @@
 <field name="composer">Giuseppe Scappa</field>
 <field name="composerSort">Scappa, Giuseppe</field>
 <field name="year">1816</field>
-<field name="date">1816theaterTeatro degli Accademici Filodrammatici</field>
+<field name="date">1816</field><field name="theater">Teatro degli Accademici Filodrammatici</field>
 <field name="city">Milan</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>

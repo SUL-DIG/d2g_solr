@@ -10,11 +10,11 @@
 <field name="date">1905</field>
 <field name="librettist">[Henry Shapcott Bunce] Shapcott Wensley</field>
 <field name="librettistSort">Wensley, Shapcott [Henry Shapcott Bunce]</field>
-<field name="theater"/>
+
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Babes+in+the+Wood+Georg+Jacobi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

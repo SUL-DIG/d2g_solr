@@ -7,7 +7,7 @@
 <field name="composer">Kajetán Vogel</field>
 <field name="composerSort">Vogel, Kajetán</field>
 <field name="year">1776</field>
-<field name="date">1776theaterKotzen Theater</field>
+<field name="date">1776</field><field name="theater">Kotzen Theater</field>
 <field name="city">Prague</field>
 
 <field name="country">Czech Republic</field>

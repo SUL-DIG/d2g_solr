@@ -7,7 +7,7 @@
 <field name="composer">Vittorio Trento</field>
 <field name="composerSort">Trento, Vittorio</field>
 <field name="year">1815</field>
-<field name="date">1815theaterTeatro de São Carlos</field>
+<field name="date">1815</field><field name="theater">Teatro de São Carlos</field>
 <field name="city">Lisbon</field>
 <field name="region">Lisboa</field>
 <field name="country">Portugal</field>

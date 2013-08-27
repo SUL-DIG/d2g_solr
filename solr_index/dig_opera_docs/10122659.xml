@@ -10,11 +10,11 @@
 <field name="date">1988</field>
 <field name="librettist">Sergio Ortega</field>
 <field name="librettistSort">Ortega, Sergio</field>
-<field name="theater"/>
+
 <field name="city">Argenteuil</field>
 <field name="region">Val-d'Oise</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Messidor+Sergio+Ortega&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

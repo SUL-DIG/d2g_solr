@@ -7,11 +7,11 @@
 <field name="composer">Rodolphe Lavello</field>
 <field name="composerSort">Lavello, Rodolphe</field>
 <field name="year">1859</field>
-<field name="date">1859theaterGrand-Théâtre</field>
+<field name="date">1859</field><field name="theater">Grand-Théâtre</field>
 <field name="city">Marseille</field>
 <field name="region">Bouches-du-Rhône</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+n'est+point+de+laides+amours+Rodolphe+Lavello&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

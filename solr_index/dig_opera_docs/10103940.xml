@@ -16,7 +16,7 @@
 <field name="city">Opatija</field>
 <field name="region">Primorje-Gorski</field>
 <field name="country">Croatia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Telmah+Darijan+Bozic&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

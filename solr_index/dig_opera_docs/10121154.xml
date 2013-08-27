@@ -10,11 +10,11 @@
 <field name="date">1780</field>
 <field name="librettist">Raniero de' Calzabigi</field>
 <field name="librettistSort">Calzabigi, Raniero de'</field>
-<field name="theater"/>
+
 <field name="city">Senigallia</field>
 <field name="region">Marche</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Comala+Pietro+Morandi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

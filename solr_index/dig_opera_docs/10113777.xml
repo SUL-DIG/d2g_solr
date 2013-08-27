@@ -12,11 +12,11 @@
 <field name="librettistSort">Diebold, Bernhard</field>
 <field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
 <field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
-<field name="theater"/>
+
 <field name="city">Zürich</field>
 <field name="region">Zürich</field>
 <field name="country">Switzerland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+unsterbliche+Kranke+Hans+Haug&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

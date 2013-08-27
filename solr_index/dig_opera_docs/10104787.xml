@@ -7,11 +7,11 @@
 <field name="composer">André Campra</field>
 <field name="composerSort">Campra, André</field>
 <field name="year">1714</field>
-<field name="date">1714theaterAcadémie Royale de Musique</field>
+<field name="date">1714</field><field name="theater">Académie Royale de Musique</field>
 <field name="city">Marseille</field>
 <field name="region">Bouches-du-Rhône</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Enée+et+Didon+André+Campra&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

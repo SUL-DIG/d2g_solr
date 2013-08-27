@@ -7,7 +7,7 @@
 <field name="composer">Carl David Stegmann</field>
 <field name="composerSort">Stegmann, Carl David</field>
 <field name="year">1788</field>
-<field name="date">1788theaterHoftheater</field>
+<field name="date">1788</field><field name="theater">Hoftheater</field>
 <field name="city">Bonn</field>
 <field name="region">Nordrhein-Westfallen</field>
 <field name="country">Germany</field>

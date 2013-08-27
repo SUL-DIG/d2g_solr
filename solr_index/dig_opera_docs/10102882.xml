@@ -12,9 +12,9 @@
 <field name="librettistSort">Ligier, F.</field>
 <field name="theater">Théâtre Molière</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+contrat+signé+d'avance+Francesco+Bianchi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -10,11 +10,11 @@
 <field name="date">1900</field>
 <field name="librettist">Émile Dernay</field>
 <field name="librettistSort">Dernay, Émile</field>
-<field name="theater"/>
+
 <field name="city">Plombières-les-Bains</field>
 <field name="region">Vosges</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Comme+chien+et+chat+Henri+Mouchet&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

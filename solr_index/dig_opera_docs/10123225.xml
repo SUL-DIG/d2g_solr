@@ -12,9 +12,9 @@
 <field name="librettistSort">Arnould, [Jean-François Mussot]</field>
 <field name="theater">Théâtre de l'Ambigu-Comique</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+répertoire+__+Papavoine&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

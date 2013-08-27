@@ -7,7 +7,7 @@
 <field name="composer">Francesco di Teora</field>
 <field name="composerSort">Teora, Francesco di</field>
 <field name="year">1898</field>
-<field name="date">1898theaterTeatro Pola</field>
+<field name="date">1898</field><field name="theater">Teatro Pola</field>
 <field name="city">Portici</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

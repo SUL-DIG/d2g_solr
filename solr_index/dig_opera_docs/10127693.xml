@@ -7,7 +7,7 @@
 <field name="composer">Domenico Natale Sarro</field>
 <field name="composerSort">Sarro, Domenico Natale</field>
 <field name="year">1723</field>
-<field name="date">1723theaterTeatro della Pace</field>
+<field name="date">1723</field><field name="theater">Teatro della Pace</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

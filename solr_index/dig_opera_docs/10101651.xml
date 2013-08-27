@@ -7,12 +7,12 @@
 <field name="composer">Andrey Melitonovich Balanchivadze</field>
 <field name="composerSort">Balanchivadze, Andrey Melitonovich</field>
 <field name="year">1969</field>
-<field name="date">1969theaterGosudarstvennïy Akademicheskiy Teatr Operï i Baleta imeni Z. P.
+<field name="date">1969</field><field name="theater">Gosudarstvennïy Akademicheskiy Teatr Operï i Baleta imeni Z. P.
 Paliashvili</field>
 <field name="city">Tbilisi</field>
-<field name="region"/>
+
 <field name="country">Georgia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zolotaya+svad'ba+Golden+Wedding+Andrey+Melitonovich+Balanchivadze&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

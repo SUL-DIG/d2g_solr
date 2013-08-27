@@ -6,8 +6,8 @@
 <field name="titleSort">oeillet blanc</field>
 <field name="composer">Théo Alexys</field>
 <field name="composerSort">Alexys, Théo</field>
-<field name="year"/>
-<field name="date"/>
+
+
 <field name="librettist">Luc Olivier</field>
 <field name="librettistSort">Olivier, Luc</field>
 <field name="librettist">Marcelle Claude</field>
@@ -18,5 +18,5 @@
 <field name="country">Belgium</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'oeillet+blanc+Théo+Alexys&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

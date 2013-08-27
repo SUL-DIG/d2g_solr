@@ -6,12 +6,12 @@
 <field name="titleSort">"Abschied, die Wiederkunfft und Paarung"</field>
 <field name="composer">Reinhard Keiser</field>
 <field name="composerSort">Keiser, Reinhard</field>
-<field name="year"/>
+
 <field name="date">theater</field>
 <field name="city">Hamburg</field>
 <field name="region">Hamburg</field>
 <field name="country">Germany</field>
 <field name="subgenre">Serenata</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Abschied,+die+Wiederkunfft+und+Paarung+Reinhard+Keiser&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

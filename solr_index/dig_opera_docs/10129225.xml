@@ -7,7 +7,7 @@
 <field name="composer">Charles de Sivry</field>
 <field name="composerSort">Sivry, Charles de</field>
 <field name="year">1877</field>
-<field name="date">1877theaterThéâtre des Fantaisies-Oller</field>
+<field name="date">1877</field><field name="theater">Théâtre des Fantaisies-Oller</field>
 <field name="city">Paris</field>
 
 <field name="country">France</field>

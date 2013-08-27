@@ -12,9 +12,9 @@
 <field name="librettistSort">Pahk, Junsang</field>
 <field name="theater">Sejong Cultural Center</field>
 <field name="city">Seoul</field>
-<field name="region"/>
+
 <field name="country">Korea</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chunhyang+Chon+Junsang+Pahk&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

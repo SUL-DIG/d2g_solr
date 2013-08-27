@@ -12,11 +12,11 @@
 <field name="librettistSort">Coenen, Paul</field>
 <field name="librettist">Fyodor Mikhaylovich Dostoyevsky</field>
 <field name="librettistSort">Dostoyevsky, Fyodor Mikhaylovich</field>
-<field name="theater"/>
+
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Karamasows+Paul+Coenen&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

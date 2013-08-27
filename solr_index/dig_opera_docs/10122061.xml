@@ -14,7 +14,7 @@
 <field name="city">Geneva</field>
 <field name="region">Genève</field>
 <field name="country">Switzerland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+bataille+du+Léman+Louis+Nicolé&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

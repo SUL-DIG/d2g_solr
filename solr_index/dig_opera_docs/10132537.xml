@@ -7,7 +7,7 @@
 <field name="composer">Victor Warot</field>
 <field name="composerSort">Warot, Victor</field>
 <field name="year">1833</field>
-<field name="date">1833theaterGrand-Théâtre</field>
+<field name="date">1833</field><field name="theater">Grand-Théâtre</field>
 <field name="city">Dijon</field>
 <field name="region">Côtes-d'Or</field>
 <field name="country">France</field>

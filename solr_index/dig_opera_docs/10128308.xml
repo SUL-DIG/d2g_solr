@@ -7,7 +7,7 @@
 <field name="composer">Gustav Schmidt</field>
 <field name="composerSort">Schmidt, Gustav</field>
 <field name="year">1851</field>
-<field name="date">1851theaterStadttheater</field>
+<field name="date">1851</field><field name="theater">Stadttheater</field>
 <field name="city">Mainz</field>
 <field name="region">Rheinland-Pfalz</field>
 <field name="country">Germany</field>

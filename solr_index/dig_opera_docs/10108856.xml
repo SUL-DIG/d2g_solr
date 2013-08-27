@@ -14,9 +14,9 @@
 <field name="librettistSort">Favart, Charles Simon</field>
 <field name="theater">Teatr Narodowy</field>
 <field name="city">Warsaw</field>
-<field name="region"/>
+
 <field name="country">Poland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wieszczka+Urzella,+czyli+To+o+sie+damom+podoba+Józef+Elsner&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

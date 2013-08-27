@@ -7,11 +7,11 @@
 <field name="composer">Dean Johnson</field>
 <field name="composerSort">Johnson, Dean</field>
 <field name="year">1982</field>
-<field name="date">1982theaterBrooklyn College Opera Theater</field>
+<field name="date">1982</field><field name="theater">Brooklyn College Opera Theater</field>
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Intrusions+Dean+Johnson&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

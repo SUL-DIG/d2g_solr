@@ -11,9 +11,9 @@
 <field name="librettist">Wan FanglibrettistSortWan Fang</field>
 <field name="librettist">Cao YulibrettistSortCao YutheaterArt and Music Festival</field>
 <field name="city">Beijing</field>
-<field name="region"/>
+
 <field name="country">China</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Savage+Land+Jin+Xiang&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

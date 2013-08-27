@@ -7,7 +7,7 @@
 <field name="composer">Vincenzo Sassaroli</field>
 <field name="composerSort">Sassaroli, Vincenzo</field>
 <field name="year">1845</field>
-<field name="date">1845theaterTeatro San Ferdinando</field>
+<field name="date">1845</field><field name="theater">Teatro San Ferdinando</field>
 <field name="city">Chieti</field>
 <field name="region">Abruzzi</field>
 <field name="country">Italy</field>

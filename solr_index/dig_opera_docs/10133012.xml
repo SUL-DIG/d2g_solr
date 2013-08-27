@@ -7,7 +7,7 @@
 <field name="composer">Richard Winslow</field>
 <field name="composerSort">Winslow, Richard</field>
 <field name="year">1957</field>
-<field name="date">1957theaterWesleyan University</field>
+<field name="date">1957</field><field name="theater">Wesleyan University</field>
 <field name="city">Middlesex</field>
 <field name="region">Connecticut</field>
 <field name="country">United States</field>

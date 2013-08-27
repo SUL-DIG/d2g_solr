@@ -10,11 +10,11 @@
 <field name="date">1689</field>
 <field name="librettist">Francesco Maria Raffaelini</field>
 <field name="librettistSort">Raffaelini, Francesco Maria</field>
-<field name="theater"/>
+
 <field name="city">Salzburg</field>
 <field name="region">Salzburg</field>
 <field name="country">Austria</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alessandro+in+Pietra+Heinrich+Ignaz+Franz+Biber&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

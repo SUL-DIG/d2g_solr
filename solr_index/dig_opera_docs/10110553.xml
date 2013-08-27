@@ -6,15 +6,15 @@
 <field name="titleSort">Angelica e Medoro</field>
 <field name="composer">Joseph Friebert</field>
 <field name="composerSort">Friebert, Joseph</field>
-<field name="year"/>
-<field name="date"/>
+
+
 <field name="librettist">Ludovico Ariosto</field>
 <field name="librettistSort">Ariosto, Ludovico</field>
 <field name="theater">Jesuit College</field>
 <field name="city">Opava</field>
 <field name="region">Severomoravsky Kraj</field>
 <field name="country">Czech Republic</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Angelica+e+Medoro+Joseph+Friebert&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

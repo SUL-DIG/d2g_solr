@@ -12,11 +12,11 @@
 <field name="librettistSort">Bastos, António de Sousa</field>
 <field name="librettist">Alfred Hennequin</field>
 <field name="librettistSort">Hennequin, Alfred</field>
-<field name="theater"/>
+
 <field name="city">Lisbon</field>
 <field name="region">Lisboa</field>
 <field name="country">Portugal</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Niniche+Francisco+Alvarenga&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

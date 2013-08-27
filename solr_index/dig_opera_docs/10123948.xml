@@ -7,11 +7,11 @@
 <field name="composer">Vincenzo Petrali</field>
 <field name="composerSort">Petrali, Vincenzo</field>
 <field name="year">1864</field>
-<field name="date">1864theaterTeatro Riccardi</field>
+<field name="date">1864</field><field name="theater">Teatro Riccardi</field>
 <field name="city">Bergamo</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maria+de'+Griffi+Vincenzo+Petrali&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,11 +7,11 @@
 <field name="composer">Nikolaos Halikiopoulos Mantzaros</field>
 <field name="composerSort">Mantzaros, Nikolaos Halikiopoulos</field>
 <field name="year">1815</field>
-<field name="date">1815theaterTeatro San Giacomo</field>
+<field name="date">1815</field><field name="theater">Teatro San Giacomo</field>
 <field name="city">Corfu</field>
 <field name="region">Kérkira</field>
 <field name="country">Greece</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Crepuscolo+Nikolaos+Halikiopoulos+Mantzaros&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

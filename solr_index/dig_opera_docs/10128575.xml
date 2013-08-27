@@ -7,7 +7,7 @@
 <field name="composer">Joseph Schuster</field>
 <field name="composerSort">Schuster, Joseph</field>
 <field name="year">1780</field>
-<field name="date">1780theaterTeatro Giustiniani in San Moisè</field>
+<field name="date">1780</field><field name="theater">Teatro Giustiniani in San Moisè</field>
 <field name="city">Venice</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>

@@ -7,11 +7,11 @@
 <field name="composer">Paul Niepel</field>
 <field name="composerSort">Niepel, Paul</field>
 <field name="year">1906</field>
-<field name="date">1906theater</field>
+<field name="date">1906</field>
 <field name="city">Jelenia Góra</field>
 <field name="region">Dolnoslaskie</field>
 <field name="country">Poland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marcella+Paul+Niepel&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

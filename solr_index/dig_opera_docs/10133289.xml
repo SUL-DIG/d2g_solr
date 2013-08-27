@@ -7,7 +7,7 @@
 <field name="composer">Angelo Zagra</field>
 <field name="composerSort">Zagra, Angelo</field>
 <field name="year">1913</field>
-<field name="date">1913theaterPoliteama Puccini</field>
+<field name="date">1913</field><field name="theater">Politeama Puccini</field>
 <field name="city">Licata</field>
 <field name="region">Sicilia</field>
 <field name="country">Italy</field>

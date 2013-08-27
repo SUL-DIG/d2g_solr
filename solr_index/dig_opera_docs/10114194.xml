@@ -12,11 +12,11 @@
 <field name="librettistSort">Gravollet, Paul</field>
 <field name="librettist">[Albert Delvaille] Trébla</field>
 <field name="librettistSort">Trébla, [Albert Delvaille]</field>
-<field name="theater"/>
+
 <field name="city">Rouen</field>
 <field name="region">Seine-Maritime</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+bonne+ruse+Charles+Léon+Hess&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

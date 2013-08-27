@@ -7,7 +7,7 @@
 <field name="composer">Johann Tost</field>
 <field name="composerSort">Tost, Johann</field>
 <field name="year">1786</field>
-<field name="date">1786theaterKomödienhaus</field>
+<field name="date">1786</field><field name="theater">Komödienhaus</field>
 <field name="city">Innsbruck</field>
 <field name="region">Tirol</field>
 <field name="country">Austria</field>

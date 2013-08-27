@@ -7,7 +7,7 @@
 <field name="composer">Theofrastos Sakellarides</field>
 <field name="composerSort">Sakellarides, Theofrastos</field>
 <field name="year">1923</field>
-<field name="date">1923theaterApollo Theatron</field>
+<field name="date">1923</field><field name="theater">Apollo Theatron</field>
 <field name="city">Athens</field>
 <field name="region">Attiki</field>
 <field name="country">Greece</field>

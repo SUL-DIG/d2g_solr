@@ -12,11 +12,11 @@
 <field name="librettistSort">Lendovsek, Mihael</field>
 <field name="librettist">August von Kotzebue</field>
 <field name="librettistSort">Kotzebue, August von</field>
-<field name="theater"/>
+
 <field name="city">Ljubljana</field>
-<field name="region"/>
+
 <field name="country">Slovenia</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ticnik+The+Aviary+Benjamin+Ipavec&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

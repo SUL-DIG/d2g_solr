@@ -7,7 +7,7 @@
 <field name="composer">Vittorio Trento</field>
 <field name="composerSort">Trento, Vittorio</field>
 <field name="year">1794</field>
-<field name="date">1794theaterTeatro Grimani di San Benedetto</field>
+<field name="date">1794</field><field name="theater">Teatro Grimani di San Benedetto</field>
 <field name="city">Venice</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>

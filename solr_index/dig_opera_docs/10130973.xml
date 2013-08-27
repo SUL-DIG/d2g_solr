@@ -7,7 +7,7 @@
 <field name="composer">Pauline Thys</field>
 <field name="composerSort">Thys, Pauline</field>
 <field name="year">1883</field>
-<field name="date">1883theaterSalle Pleyel</field>
+<field name="date">1883</field><field name="theater">Salle Pleyel</field>
 <field name="city">Paris</field>
 
 <field name="country">France</field>

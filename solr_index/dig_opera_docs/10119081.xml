@@ -10,11 +10,11 @@
 <field name="date">1883</field>
 <field name="librettist">Achille Eyraud</field>
 <field name="librettistSort">Eyraud, Achille</field>
-<field name="theater"/>
+
 <field name="city">Caen</field>
 <field name="region">Calvados</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+puits+qui+parle+Arthur+Mancini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

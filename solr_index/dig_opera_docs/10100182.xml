@@ -7,11 +7,11 @@
 <field name="composer">Andrea Adolfati</field>
 <field name="composerSort">Adolfati, Andrea</field>
 <field name="year">1751</field>
-<field name="date">1751theaterTeatro del Falcone</field>
+<field name="date">1751</field><field name="theater">Teatro del Falcone</field>
 <field name="city">Genoa</field>
 <field name="region">Liguria</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+gloria+e+il+piacere+Andrea+Adolfati&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

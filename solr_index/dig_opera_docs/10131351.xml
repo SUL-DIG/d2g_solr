@@ -7,7 +7,7 @@
 <field name="composer">Domenico Tritto</field>
 <field name="composerSort">Tritto, Domenico</field>
 <field name="year">1815</field>
-<field name="date">1815theaterReal Teatro del Fondo di Separazione</field>
+<field name="date">1815</field><field name="theater">Real Teatro del Fondo di Separazione</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

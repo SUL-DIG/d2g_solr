@@ -14,9 +14,9 @@
 <field name="librettistSort">Dürrenmatt, Friedrich</field>
 <field name="theater">Operos ir Baleto Teatras</field>
 <field name="city">Vilnius</field>
-<field name="region"/>
+
 <field name="country">Lithuania</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zaidimas+The+Game+Julius+Juzeliunas&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

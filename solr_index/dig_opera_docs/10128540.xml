@@ -7,7 +7,7 @@
 <field name="composer">Johann Georg Schürer</field>
 <field name="composerSort">Schürer, Johann Georg</field>
 <field name="year">1747</field>
-<field name="date">1747theaterGrosses Opernhaus am Zwinger</field>
+<field name="date">1747</field><field name="theater">Grosses Opernhaus am Zwinger</field>
 <field name="city">Dresden</field>
 <field name="region">Sachsen</field>
 <field name="country">Germany</field>

@@ -7,11 +7,11 @@
 <field name="composer">Achille Graffigna</field>
 <field name="composerSort">Graffigna, Achille</field>
 <field name="year">1884</field>
-<field name="date">1884theaterTeatro Pantera</field>
+<field name="date">1884</field><field name="theater">Teatro Pantera</field>
 <field name="city">Lucca</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+pazza+per+progetto+Achille+Graffigna&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

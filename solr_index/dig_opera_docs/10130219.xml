@@ -7,7 +7,7 @@
 <field name="composer">Salvatore Strino</field>
 <field name="composerSort">Strino, Salvatore</field>
 <field name="year">1885</field>
-<field name="date">1885theaterHrvatsko Narodno Kazaliste</field>
+<field name="date">1885</field><field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Split</field>
 <field name="region">Split-Dalmatia</field>
 <field name="country">Croatia</field>

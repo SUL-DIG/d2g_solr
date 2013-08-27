@@ -12,11 +12,11 @@
 <field name="librettistSort">Wolski, Wlodzimierz</field>
 <field name="librettist">Kazimierz Wladyslaw Wójcicki</field>
 <field name="librettistSort">Wójcicki, Kazimierz Wladyslaw</field>
-<field name="theater"/>
+
 <field name="city">Vilnius</field>
-<field name="region"/>
+
 <field name="country">Lithuania</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Halka+Helen+Stanislaw+Moniuszko&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

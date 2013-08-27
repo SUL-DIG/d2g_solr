@@ -7,7 +7,7 @@
 <field name="composer">Benedetto Vinaccesi</field>
 <field name="composerSort">Vinaccesi, Benedetto</field>
 <field name="year">1697</field>
-<field name="date">1697theaterPalazzo della Cancelleria</field>
+<field name="date">1697</field><field name="theater">Palazzo della Cancelleria</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

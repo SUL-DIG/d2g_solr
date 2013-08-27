@@ -7,11 +7,11 @@
 <field name="composer">Joseph-Albert Goblain</field>
 <field name="composerSort">Goblain, Joseph-Albert</field>
 <field name="year">1763</field>
-<field name="date">1763theaterThéâtre Graslin</field>
+<field name="date">1763</field><field name="theater">Théâtre Graslin</field>
 <field name="city">Nantes</field>
 <field name="region">Loire-Atlantique</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amant+invisible+Joseph-Albert+Goblain&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

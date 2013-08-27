@@ -10,11 +10,11 @@
 <field name="date">1977</field>
 <field name="librettist">[Janis Plieksans] Janis Rainis</field>
 <field name="librettistSort">Rainis, Janis [Janis Plieksans]</field>
-<field name="theater"/>
+
 <field name="city">Riga</field>
-<field name="region"/>
+
 <field name="country">Latvia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Speleju,+dancoju+I+play,+I+dance+Imants+Kalnins&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -14,9 +14,9 @@
 <field name="librettistSort">Kirshon, Vladimir Mikhaylovich</field>
 <field name="theater">Muzïkal'nïy Teatr imeni Nemirovicha-Danchenko</field>
 <field name="city">Moscow</field>
-<field name="region"/>
+
 <field name="country">Russia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Severnïy+veter+The+North+Wind+Lev+Konstantinovich+Knipper&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

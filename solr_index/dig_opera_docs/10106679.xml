@@ -7,11 +7,11 @@
 <field name="composer">Ida Correr</field>
 <field name="composerSort">Correr, Ida</field>
 <field name="year">1886</field>
-<field name="date">1886theaterPrivate Performance</field>
+<field name="date">1886</field><field name="theater">Private Performance</field>
 <field name="city">Padua</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+gondoliere+Ida+Correr&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

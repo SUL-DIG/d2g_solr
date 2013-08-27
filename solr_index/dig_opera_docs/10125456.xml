@@ -7,11 +7,11 @@
 <field name="composer">Aleksandur Raichev</field>
 <field name="composerSort">Raichev, Aleksandur</field>
 <field name="year">1969</field>
-<field name="date">1969theaterRadio Sofia</field>
+<field name="date">1969</field><field name="theater">Radio Sofia</field>
 <field name="city">Sofia</field>
-<field name="region"/>
+
 <field name="country">Bulgaria</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vasheto+prisastvie+Your+Presence+Aleksandur+Raichev&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

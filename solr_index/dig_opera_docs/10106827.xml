@@ -14,7 +14,7 @@
 <field name="city">Leicester</field>
 <field name="region">Leicestershire</field>
 <field name="country">United Kingdom</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Slaughter+of+the+Innocents+Clifford+Crawley&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

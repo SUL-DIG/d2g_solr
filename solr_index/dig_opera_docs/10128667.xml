@@ -7,7 +7,7 @@
 <field name="composer">Casimir Schweizelsperg</field>
 <field name="composerSort">Schweizelsperg, Casimir</field>
 <field name="year">1716</field>
-<field name="date">1716theaterSchauplatz</field>
+<field name="date">1716</field><field name="theater">Schauplatz</field>
 <field name="city">Durlach</field>
 <field name="region">Baden-Württemberg</field>
 <field name="country">Germany</field>

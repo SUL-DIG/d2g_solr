@@ -7,11 +7,11 @@
 <field name="composer">Jean-Baptiste Rochefort</field>
 <field name="composerSort">Rochefort, Jean-Baptiste</field>
 <field name="year">1779</field>
-<field name="date">1779theaterSalle Montansier</field>
+<field name="date">1779</field><field name="theater">Salle Montansier</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dorothée+Jean-Baptiste+Rochefort&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

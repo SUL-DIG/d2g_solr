@@ -12,11 +12,11 @@
 <field name="librettistSort">Metastasio, Pietro</field>
 <field name="librettist">Ludovico Ariosto</field>
 <field name="librettistSort">Ariosto, Ludovico</field>
-<field name="theater"/>
+
 <field name="city">Venice</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Angelica+Ignazio+Fiorillo&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

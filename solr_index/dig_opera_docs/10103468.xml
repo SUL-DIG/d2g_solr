@@ -7,11 +7,11 @@
 <field name="composer">Lorenzo Bologna</field>
 <field name="composerSort">Bologna, Lorenzo</field>
 <field name="year">1759</field>
-<field name="date">1759theater</field>
+<field name="date">1759</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>
 <field name="country">Belgium</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+creanza+Lorenzo+Bologna&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -15,7 +15,7 @@ Lunacharskogo</field>
 <field name="city">Jekaterinburg</field>
 <field name="region">Sverdlovsk Oblast</field>
 <field name="country">Russia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Koldovskaya+skazka+A+Tale+of+Witchcraft+Vladimir+Aleksandrovich+Kobekin&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

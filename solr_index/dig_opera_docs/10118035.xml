@@ -7,11 +7,11 @@
 <field name="composer">Richard Leveridge</field>
 <field name="composerSort">Leveridge, Richard</field>
 <field name="year">1715</field>
-<field name="date">1715theater"Theatre Royal, Lincoln's Inn Fields"</field>
+<field name="date">1715</field><field name="theater">"Theatre Royal, Lincoln's Inn Fields"</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Mountebank,+or+The+Country+Lass+Richard+Leveridge&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

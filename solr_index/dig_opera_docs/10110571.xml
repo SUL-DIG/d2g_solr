@@ -10,11 +10,11 @@
 <field name="date">1946</field>
 <field name="librettist">Maria Konopnicka</field>
 <field name="librettistSort">Konopnicka, Maria</field>
-<field name="theater"/>
+
 <field name="city">Laski</field>
 <field name="region">Sieradz</field>
 <field name="country">Poland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Polskie+misterium+ludowe+Witold+Friemann&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -12,9 +12,9 @@
 <field name="librettistSort">Villia, Max</field>
 <field name="theater">Théâtre Municipal</field>
 <field name="city">Algiers</field>
-<field name="region"/>
+
 <field name="country">Algeria</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+noces+du+baron+Marius+Lambert&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

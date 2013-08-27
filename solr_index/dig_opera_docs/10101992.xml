@@ -7,11 +7,11 @@
 <field name="composer">Claude L. Bass</field>
 <field name="composerSort">Bass, Claude L.</field>
 <field name="year">1982</field>
-<field name="date">1982theaterSouthwestern Baptist Theological Seminary</field>
+<field name="date">1982</field><field name="theater">Southwestern Baptist Theological Seminary</field>
 <field name="city">Fort Worth</field>
 <field name="region">Texas</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Promise+Claude+L.+Bass&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

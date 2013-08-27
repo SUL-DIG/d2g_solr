@@ -7,11 +7,11 @@
 <field name="composer">Giovanni Battista Pollini</field>
 <field name="composerSort">Pollini, Giovanni Battista</field>
 <field name="year">1908</field>
-<field name="date">1908theaterTeatro del Ricreatorio Pio II</field>
+<field name="date">1908</field><field name="theater">Teatro del Ricreatorio Pio II</field>
 <field name="city">Siena</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+colpo+di+fortuna+Giovanni+Battista+Pollini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,11 +7,11 @@
 <field name="composer">__ Leguay</field>
 <field name="composerSort">Leguay, __</field>
 <field name="year">1869</field>
-<field name="date">1869theater</field>
+<field name="date">1869</field>
 <field name="city">Blois</field>
 <field name="region">Loir-et-Cher</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+mariage+а+la+rose+__+Leguay&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

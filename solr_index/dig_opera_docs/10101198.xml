@@ -7,11 +7,11 @@
 <field name="composer">José Francisco Arroyo</field>
 <field name="composerSort">Arroyo, José Francisco</field>
 <field name="year">1862</field>
-<field name="date">1862theaterTeatro de São João</field>
+<field name="date">1862</field><field name="theater">Teatro de São João</field>
 <field name="city">Oporto</field>
 <field name="region">Porto</field>
 <field name="country">Portugal</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Os+monges+de+Toledo+José+Francisco+Arroyo&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

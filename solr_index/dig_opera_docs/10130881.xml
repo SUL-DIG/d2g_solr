@@ -7,7 +7,7 @@
 <field name="composer">Károly Thern</field>
 <field name="composerSort">Thern, Károly</field>
 <field name="year">1845</field>
-<field name="date">1845theaterNemzeti Színház</field>
+<field name="date">1845</field><field name="theater">Nemzeti Színház</field>
 <field name="city">Budapest</field>
 
 <field name="country">Hungary</field>

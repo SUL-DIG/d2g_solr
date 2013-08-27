@@ -10,11 +10,11 @@
 <field name="date">1901</field>
 <field name="librettist">Ugo Mariani</field>
 <field name="librettistSort">Mariani, Ugo</field>
-<field name="theater"/>
+
 <field name="city">Ancona</field>
 <field name="region">Marche</field>
 <field name="country">Italy</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+lezione+rimandata+Getulio+Mariani&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

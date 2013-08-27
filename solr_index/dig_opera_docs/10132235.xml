@@ -7,7 +7,7 @@
 <field name="composer">Albert de Vleeshouwer</field>
 <field name="composerSort">Vleeshouwer, Albert de</field>
 <field name="year">1895</field>
-<field name="date">1895theaterVlaamse Opera</field>
+<field name="date">1895</field><field name="theater">Vlaamse Opera</field>
 <field name="city">Antwerp</field>
 <field name="region">Antwerpen</field>
 <field name="country">Belgium</field>

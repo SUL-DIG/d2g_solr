@@ -14,9 +14,9 @@
 <field name="librettistSort">Révoil, Bénédict-Henri</field>
 <field name="theater">Opéra</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+vaisseau+fantôme,+ou+Le+maudit+des+mers+Louis+Dietsch&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

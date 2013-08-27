@@ -3,9 +3,9 @@
 <field name="id">10113850</field>
 <field name="genre">Operas</field>
 <field name="title">Miss Simpli</field>
-<field name="city"/>
+
 <field name="titleSort">Miss Simpli</field>
-<field name="city"/>
+
 <field name="composer">Harry Lawson Heartz</field>
 <field name="composerSort">Heartz, Harry Lawson</field>
 <field name="year">1902</field>
@@ -16,7 +16,7 @@
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Miss+Simplicity+Harry+Lawson+Heartz&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

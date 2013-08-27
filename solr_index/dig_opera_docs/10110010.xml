@@ -7,11 +7,11 @@
 <field name="composer">Domenico Fischietti</field>
 <field name="composerSort">Fischietti, Domenico</field>
 <field name="year">1742</field>
-<field name="date">1742theaterTeatro dei Fiorentini</field>
+<field name="date">1742</field><field name="theater">Teatro dei Fiorentini</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Armindo+Domenico+Fischietti&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

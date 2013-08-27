@@ -6,15 +6,15 @@
 <field name="titleSort">isola disabitata</field>
 <field name="composer">Giuseppe Millico</field>
 <field name="composerSort">Millico, Giuseppe</field>
-<field name="year"/>
-<field name="date"/>
+
+
 <field name="librettist">Pietro Metastasio</field>
 <field name="librettistSort">Metastasio, Pietro</field>
 <field name="theater">Palazzo Reale</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'isola+disabitata+Giuseppe+Millico&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

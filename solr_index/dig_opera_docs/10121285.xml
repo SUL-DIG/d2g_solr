@@ -13,9 +13,9 @@
 <field name="librettist">Belisario Randone</field>
 <field name="librettistSort">Randone, Belisario</field>
 <field name="theater">RAI Radio (Radiotelevisione Italiana)</field>
-<field name="region"/>
+
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+contratto+Virgilio+Mortari&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

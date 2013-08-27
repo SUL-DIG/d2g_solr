@@ -10,8 +10,8 @@
 <field name="date">1900</field>
 <field name="librettist">"George Gordon, Lord Byron"</field>
 <field name="librettistSort">Byron, George Gordon, Lord"</field>
-<field name="country"/>
-<field name="subgenre"/>
+
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zemlya+i+nebo+Earth+and+Sky+Reyngol'd+Morisevich+Glier&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

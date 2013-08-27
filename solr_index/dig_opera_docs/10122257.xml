@@ -16,7 +16,7 @@
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>
 <field name="country">Czech Republic</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Deduv+odkaz+Grandfather's+Legacy+Vítezslav+Novák&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

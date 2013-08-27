@@ -14,7 +14,7 @@
 <field name="city">Sceaux</field>
 <field name="region">Hauts-de-Seine</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+comte+de+Gabalis+et+les+peuples+élémentaires+Thomas-Louis+Bourgeois&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,7 +7,7 @@
 <field name="composer">Nicola Vaccai</field>
 <field name="composerSort">Vaccai, Nicola</field>
 <field name="year">1828</field>
-<field name="date">1828theaterTeatro alla Scala</field>
+<field name="date">1828</field><field name="theater">Teatro alla Scala</field>
 <field name="city">Milan</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>

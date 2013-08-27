@@ -7,7 +7,7 @@
 <field name="composer">Angelo Villanis</field>
 <field name="composerSort">Villanis, Angelo</field>
 <field name="year">1849</field>
-<field name="date">1849theaterTeatro Gerbino</field>
+<field name="date">1849</field><field name="theater">Teatro Gerbino</field>
 <field name="city">Turin</field>
 <field name="region">Piemonte</field>
 <field name="country">Italy</field>

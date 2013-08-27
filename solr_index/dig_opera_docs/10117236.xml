@@ -14,9 +14,9 @@
 <field name="librettistSort">Turreau de Garambouville, Louis-Marie</field>
 <field name="theater">Opéra</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Corisandre,+ou+Les+fous+par+enchantement+Honoré+Langlé&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

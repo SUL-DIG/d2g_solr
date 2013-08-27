@@ -7,11 +7,11 @@
 <field name="composer">Julius Kaldy</field>
 <field name="composerSort">Kaldy, Julius</field>
 <field name="year">1869</field>
-<field name="date">1869theater</field>
+<field name="date">1869</field>
 <field name="city">Arad</field>
 <field name="region">Arad</field>
 <field name="country">Romania</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zuaven+zu+Hause+Julius+Kaldy&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

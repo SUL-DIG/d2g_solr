@@ -10,8 +10,8 @@
 <field name="date">1943</field>
 <field name="librettist">Matvei Tevelev</field>
 <field name="librettistSort">Tevelev, Matvei"</field>
-<field name="country"/>
-<field name="subgenre"/>
+
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Posledniy+kater+The+Last+Cutter+Marian+Viktorovich+Koval'&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

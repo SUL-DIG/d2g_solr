@@ -7,7 +7,7 @@
 <field name="composer">Kurt Zorlig</field>
 <field name="composerSort">Zorlig, Kurt</field>
 <field name="year">1931</field>
-<field name="date">1931theaterLessingtheater</field>
+<field name="date">1931</field><field name="theater">Lessingtheater</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>
 <field name="country">Germany</field>

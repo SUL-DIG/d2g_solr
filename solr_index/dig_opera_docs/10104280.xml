@@ -7,11 +7,11 @@
 <field name="composer">Antonio Brunetti</field>
 <field name="composerSort">Brunetti, Antonio</field>
 <field name="year">1814</field>
-<field name="date">1814theaterTeatro del Corso</field>
+<field name="date">1814</field><field name="theater">Teatro del Corso</field>
 <field name="city">Bologna</field>
 <field name="region">Emilia-Romagna</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amore+e+fedeltа+alla+prova+Antonio+Brunetti&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

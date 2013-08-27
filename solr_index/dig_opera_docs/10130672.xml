@@ -7,7 +7,7 @@
 <field name="composer">Giulio Tartaglione</field>
 <field name="composerSort">Tartaglione, Giulio</field>
 <field name="year">1880</field>
-<field name="date">1880theaterPrivate Performance</field>
+<field name="date">1880</field><field name="theater">Private Performance</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

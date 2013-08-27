@@ -7,7 +7,7 @@
 <field name="composer">Jack Eric Williams</field>
 <field name="composerSort">Williams, Jack Eric</field>
 <field name="year">1971</field>
-<field name="date">1971theaterUniversity of South Carolina</field>
+<field name="date">1971</field><field name="theater">University of South Carolina</field>
 <field name="city">Columbia</field>
 <field name="region">South Carolina</field>
 <field name="country">United States</field>

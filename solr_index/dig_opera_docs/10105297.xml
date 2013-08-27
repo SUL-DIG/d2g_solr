@@ -3,9 +3,9 @@
 <field name="id">10105297</field>
 <field name="genre">Operas</field>
 <field name="title">Le premier en </field>
-<field name="date"/>
+
 <field name="titleSort">premier en </field>
-<field name="date"/>
+
 <field name="composer">Charles-Simon Catel</field>
 <field name="composerSort">Catel, Charles-Simon</field>
 <field name="year">1814</field>
@@ -14,9 +14,9 @@
 <field name="librettistSort">Désaugiers, Marc-Antoine Madeleine</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+premier+en+date+Charles-Simon+Catel&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

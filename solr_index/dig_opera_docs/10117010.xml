@@ -14,7 +14,7 @@
 <field name="city">Périgueux</field>
 <field name="region">Dordogne</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+croix+de+ma+mère+__+Lafaye&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

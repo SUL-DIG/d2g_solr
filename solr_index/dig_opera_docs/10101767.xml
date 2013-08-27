@@ -7,11 +7,11 @@
 <field name="composer">Edward T. de Banzie</field>
 <field name="composerSort">Banzie, Edward T. de</field>
 <field name="year">1890</field>
-<field name="date">1890theaterRoyal Princess's Theatre</field>
+<field name="date">1890</field><field name="theater">Royal Princess's Theatre</field>
 <field name="city">Glasgow</field>
 <field name="region">Scotland</field>
 <field name="country">United Kingdom</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pim+Pom+Edward+T.+de+Banzie&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

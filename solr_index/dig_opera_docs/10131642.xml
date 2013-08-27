@@ -7,7 +7,7 @@
 <field name="composer">Giovanni Valente</field>
 <field name="composerSort">Valente, Giovanni</field>
 <field name="year">1865</field>
-<field name="date">1865theaterTeatro Comunale</field>
+<field name="date">1865</field><field name="theater">Teatro Comunale</field>
 <field name="city">Molfetta</field>
 <field name="region">Puglia</field>
 <field name="country">Italy</field>

@@ -7,11 +7,11 @@
 <field name="composer">Vincenzo Mattaress</field>
 <field name="composerSort">Mattaress, Vincenzo</field>
 <field name="year">1870</field>
-<field name="date">1870theater</field>
+<field name="date">1870</field>
 <field name="city">Rio de Janeiro</field>
 <field name="region">Rio de Janeiro</field>
 <field name="country">Brazil</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+re+di+Svezia+Vincenzo+Mattaress&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

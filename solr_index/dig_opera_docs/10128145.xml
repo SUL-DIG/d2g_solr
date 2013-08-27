@@ -7,7 +7,7 @@
 <field name="composer">Franz Joseph Leonz Meyer von Schauensee</field>
 <field name="composerSort">Schauensee, Franz Joseph Leonz Meyer von</field>
 <field name="year">1743</field>
-<field name="date">1743theaterTeatro Viceregio</field>
+<field name="date">1743</field><field name="theater">Teatro Viceregio</field>
 <field name="city">Cagliari</field>
 <field name="region">Sardegna</field>
 <field name="country">Italy</field>

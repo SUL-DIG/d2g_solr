@@ -10,11 +10,11 @@
 <field name="date">1788</field>
 <field name="librettist">Eugenio Giusti</field>
 <field name="librettistSort">Giusti, Eugenio</field>
-<field name="theater"/>
+
 <field name="city">Rovigo</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Scipione+Giuseppe+Giordani&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

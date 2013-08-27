@@ -11,9 +11,9 @@
 <field name="librettist">Carlo Veneziani</field>
 <field name="librettistSort">Veneziani, Carlo</field>
 <field name="theater">EIAR Radio (Ente Italiano Audizioni Radiofoniche)</field>
-<field name="region"/>
+
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'ospite+inatteso+Riccardo+Pick-Mangiagalli&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

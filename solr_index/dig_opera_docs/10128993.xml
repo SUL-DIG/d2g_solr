@@ -7,7 +7,7 @@
 <field name="composer">Ignaz von Seyfried</field>
 <field name="composerSort">Seyfried, Ignaz von</field>
 <field name="year">1807</field>
-<field name="date">1807theaterTheater an der Wien</field>
+<field name="date">1807</field><field name="theater">Theater an der Wien</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

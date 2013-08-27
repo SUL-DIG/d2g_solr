@@ -7,11 +7,11 @@
 <field name="composer">Juan Siri Maestres</field>
 <field name="composerSort">Maestres, Juan Siri</field>
 <field name="year">1738</field>
-<field name="date">1738theaterTeatro de la Cruz</field>
+<field name="date">1738</field><field name="theater">Teatro de la Cruz</field>
 <field name="city">Madrid</field>
 <field name="region">Madrid</field>
 <field name="country">Spain</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+oráculo+infalible+Juan+Siri+Maestres&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,7 +7,7 @@
 <field name="composer">Jean Aimé Vernier</field>
 <field name="composerSort">Vernier, Jean Aimé</field>
 <field name="year">1798</field>
-<field name="date">1798theaterSalle Montansier</field>
+<field name="date">1798</field><field name="theater">Salle Montansier</field>
 <field name="city">Paris</field>
 
 <field name="country">France</field>

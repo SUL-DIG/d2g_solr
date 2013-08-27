@@ -7,7 +7,7 @@
 <field name="composer">Louis Sauvage-Trudin</field>
 <field name="composerSort">Sauvage-Trudin, Louis</field>
 <field name="year">1870</field>
-<field name="date">1870theaterThéâtre Municipal</field>
+<field name="date">1870</field><field name="theater">Théâtre Municipal</field>
 <field name="city">Boulogne-sur-Mer</field>
 <field name="region">Pas-de-Calais</field>
 <field name="country">France</field>

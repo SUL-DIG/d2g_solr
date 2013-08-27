@@ -12,11 +12,11 @@
 <field name="librettistSort">Sandu-Aldea, Constantin</field>
 <field name="librettist">Ion Borcea</field>
 <field name="librettistSort">Borcea, Ion</field>
-<field name="theater"/>
+
 <field name="city">Sibiu</field>
 <field name="region">Sibiu</field>
 <field name="country">Romania</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+sezatoare+At+a+Village+Sitting+Tiberiu+Brediceanu&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,11 +7,11 @@
 <field name="composer">__ Galey</field>
 <field name="composerSort">Galey, __</field>
 <field name="year">1883</field>
-<field name="date">1883theaterThéâtre du Capitole</field>
+<field name="date">1883</field><field name="theater">Théâtre du Capitole</field>
 <field name="city">Toulouse</field>
 <field name="region">Haute-Garonne</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Burkas+__+Galey&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -10,11 +10,11 @@
 <field name="date">1912</field>
 <field name="librettist">[Mary Frances Bumpers] Frances Allitsen</field>
 <field name="librettistSort">Allitsen, Frances [Mary Frances Bumpers]</field>
-<field name="theater"/>
+
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bindra+the+Minstrel+Mary+Frances+Bumpers]+Frances+Allitsen&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

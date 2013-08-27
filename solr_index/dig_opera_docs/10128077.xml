@@ -7,7 +7,7 @@
 <field name="composer">Giuseppe Scarlatti</field>
 <field name="composerSort">Scarlatti, Giuseppe</field>
 <field name="year">1765</field>
-<field name="date">1765theaterBurgtheater</field>
+<field name="date">1765</field><field name="theater">Burgtheater</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

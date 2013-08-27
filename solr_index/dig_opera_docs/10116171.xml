@@ -16,7 +16,7 @@
 <field name="city">Rehburg-Loccum</field>
 <field name="region">Niedersachsen</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=N.+F.+B.+Vladimir+Aleksandrovich+Kobekin&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

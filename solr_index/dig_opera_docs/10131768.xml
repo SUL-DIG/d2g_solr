@@ -7,7 +7,7 @@
 <field name="composer">Paolino Vassalo</field>
 <field name="composerSort">Vassalo, Paolino</field>
 <field name="year">1905</field>
-<field name="date">1905theaterTeatro Massimo</field>
+<field name="date">1905</field><field name="theater">Teatro Massimo</field>
 <field name="city">Valletta</field>
 
 <field name="country">Malta</field>

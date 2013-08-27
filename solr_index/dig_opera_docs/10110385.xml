@@ -7,11 +7,11 @@
 <field name="composer">Carlo de Franchi</field>
 <field name="composerSort">Franchi, Carlo de</field>
 <field name="year">1772</field>
-<field name="date">1772theaterTeatro Valle</field>
+<field name="date">1772</field><field name="theater">Teatro Valle</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>
 <field name="subgenre">Intermezzo</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+semplice+Carlo+de+Franchi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,7 +7,7 @@
 <field name="composer">Salvatore Virzi</field>
 <field name="composerSort">Virzi, Salvatore</field>
 <field name="year">1955</field>
-<field name="date">1955theaterBronx Winter Garden</field>
+<field name="date">1955</field><field name="theater">Bronx Winter Garden</field>
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>

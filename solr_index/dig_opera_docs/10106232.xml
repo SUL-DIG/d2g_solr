@@ -7,11 +7,11 @@
 <field name="composer">Germano Codazzi</field>
 <field name="composerSort">Codazzi, Germano</field>
 <field name="year">1901</field>
-<field name="date">1901theater</field>
+<field name="date">1901</field>
 <field name="city">Reggio nell'Emilia</field>
 <field name="region">Emilia-Romagna</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fuochi+fatui+Germano+Codazzi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

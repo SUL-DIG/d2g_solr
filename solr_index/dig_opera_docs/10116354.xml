@@ -10,11 +10,11 @@
 <field name="date">1884</field>
 <field name="librettist">Antal Deréki</field>
 <field name="librettistSort">Deréki, Antal</field>
-<field name="theater"/>
+
 <field name="city">Sopron</field>
 <field name="region">Györ-Moson-Sopron</field>
 <field name="country">Hungary</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Az+eleven+ördög+Josef+Konti&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

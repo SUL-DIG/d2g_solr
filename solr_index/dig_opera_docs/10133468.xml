@@ -7,7 +7,7 @@
 <field name="composer">Isidore-François-Antoine Zérézo de Tejada</field>
 <field name="composerSort">Tejada, Isidore-François-Antoine Zérézo de</field>
 <field name="year">1848</field>
-<field name="date">1848theaterThéâtre Municipal</field>
+<field name="date">1848</field><field name="theater">Théâtre Municipal</field>
 <field name="city">Saint-Quentin</field>
 <field name="region">Aisne</field>
 <field name="country">France</field>

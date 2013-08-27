@@ -7,11 +7,11 @@
 <field name="composer">Luigi Dall'Argine</field>
 <field name="composerSort">Dall'Argine, Luigi</field>
 <field name="year">1909</field>
-<field name="date">1909theaterPoliteama Ciscutti</field>
+<field name="date">1909</field><field name="theater">Politeama Ciscutti</field>
 <field name="city">Pula</field>
 <field name="region">Istria</field>
 <field name="country">Croatia</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amor-Trust+Luigi+Dall'Argine&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

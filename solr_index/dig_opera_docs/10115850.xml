@@ -10,11 +10,11 @@
 <field name="date">1716</field>
 <field name="librettist">D. Gazal</field>
 <field name="librettistSort">Gazal, D.</field>
-<field name="theater"/>
+
 <field name="city">Hamburg</field>
 <field name="region">Hamburg</field>
 <field name="country">Germany</field>
 <field name="subgenre">Serenata</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+di+primavera+Reinhard+Keiser&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

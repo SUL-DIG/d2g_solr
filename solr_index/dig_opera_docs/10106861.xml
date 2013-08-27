@@ -7,11 +7,11 @@
 <field name="composer">Stefano Cristiani</field>
 <field name="composerSort">Cristiani, Stefano</field>
 <field name="year">1798</field>
-<field name="date">1798theaterTeatro alla Scala</field>
+<field name="date">1798</field><field name="theater">Teatro alla Scala</field>
 <field name="city">Milan</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+cittа+nuova+Stefano+Cristiani&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

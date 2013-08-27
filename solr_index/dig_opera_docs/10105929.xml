@@ -14,9 +14,9 @@
 <field name="librettistSort">Kleist, Heinrich von</field>
 <field name="theater">Slovenské Narodné Divadlo</field>
 <field name="city">Bratislava</field>
-<field name="region"/>
+
 <field name="country">Slovakia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rozsudok:+Zemetrasenie+v+Chile+Ján+Cikker&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

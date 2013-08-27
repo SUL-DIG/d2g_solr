@@ -7,11 +7,11 @@
 <field name="composer">Manuel Martínez Faixá</field>
 <field name="composerSort">Faixá, Manuel Martínez</field>
 <field name="year">1920</field>
-<field name="date">1920theaterTeatro del Centro</field>
+<field name="date">1920</field><field name="theater">Teatro del Centro</field>
 <field name="city">Madrid</field>
 <field name="region">Madrid</field>
 <field name="country">Spain</field>
 <field name="subgenre">Intermezzo</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Los+nueves+rigos+Manuel+Martínez+Faixá&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

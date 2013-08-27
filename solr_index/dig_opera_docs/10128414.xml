@@ -7,7 +7,7 @@
 <field name="composer">Karl Siegmund Schönbeck</field>
 <field name="composerSort">Schönbeck, Karl Siegmund</field>
 <field name="year">1778</field>
-<field name="date">1778theaterAckermanns Schauspielhaus</field>
+<field name="date">1778</field><field name="theater">Ackermanns Schauspielhaus</field>
 <field name="city">Kaliningrad</field>
 <field name="region">Kaliningrad Oblast</field>
 <field name="country">Russia</field>

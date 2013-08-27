@@ -10,11 +10,11 @@
 <field name="date">1660</field>
 <field name="librettist">Giovanni Maria Milcetti</field>
 <field name="librettistSort">Milcetti, Giovanni Maria</field>
-<field name="theater"/>
+
 <field name="city">Murano</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hipsiscratea+Pietro+Molinari&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -10,11 +10,11 @@
 <field name="date">1760</field>
 <field name="librettist">François Turben</field>
 <field name="librettistSort">Turben, François</field>
-<field name="theater"/>
+
 <field name="city">Caen</field>
 <field name="region">Calvados</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+faveurs+du+sommeil+__+Pizet&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

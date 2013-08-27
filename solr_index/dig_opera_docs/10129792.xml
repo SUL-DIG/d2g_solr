@@ -7,7 +7,7 @@
 <field name="composer">Carl David Stegmann</field>
 <field name="composerSort">Stegmann, Carl David</field>
 <field name="year">1775</field>
-<field name="date">1775theaterSchauspielhaus</field>
+<field name="date">1775</field><field name="theater">Schauspielhaus</field>
 <field name="city">Gdansk</field>
 <field name="region">Pomorskie</field>
 <field name="country">Poland</field>

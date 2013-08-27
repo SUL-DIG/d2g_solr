@@ -7,11 +7,11 @@
 <field name="composer">Josef Myslivecek</field>
 <field name="composerSort">Myslivecek, Josef</field>
 <field name="year">1773</field>
-<field name="date">1773theaterResidenztheater (Cuvilliéstheater)</field>
+<field name="date">1773</field><field name="theater">Residenztheater (Cuvilliéstheater)</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Erifile+Josef+Myslivecek&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

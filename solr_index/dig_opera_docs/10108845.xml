@@ -14,9 +14,9 @@
 <field name="librettistSort">Caigniez, Louis-Charles</field>
 <field name="theater">Teatr Narodowy</field>
 <field name="city">Warsaw</field>
-<field name="region"/>
+
 <field name="country">Poland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nurzahad,+czyli+Niesmiertelnosc+i+bogactwa+Józef+Elsner&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

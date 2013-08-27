@@ -12,11 +12,11 @@
 <field name="librettistSort">Niedt, Julius</field>
 <field name="librettist">Wilhelm Hauff</field>
 <field name="librettistSort">Hauff, Wilhelm</field>
-<field name="theater"/>
+
 <field name="city">Sibiu</field>
 <field name="region">Sibiu</field>
 <field name="country">Romania</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Pfeifer+von+Hardt+Edgar+Krones&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

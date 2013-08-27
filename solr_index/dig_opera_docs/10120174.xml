@@ -7,11 +7,11 @@
 <field name="composer">Charles Mélant</field>
 <field name="composerSort">Mélant, Charles</field>
 <field name="year">1878</field>
-<field name="date">1878theaterThéâtre-Royal</field>
+<field name="date">1878</field><field name="theater">Théâtre-Royal</field>
 <field name="city">Namur</field>
 <field name="region">Namur</field>
 <field name="country">Belgium</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'avalanche+Charles+Mélant&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

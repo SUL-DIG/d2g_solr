@@ -7,11 +7,11 @@
 <field name="composer">Egisto Napoleone Pontecchi</field>
 <field name="composerSort">Pontecchi, Egisto Napoleone</field>
 <field name="year">1869</field>
-<field name="date">1869theaterConservatorio</field>
+<field name="date">1869</field><field name="theater">Conservatorio</field>
 <field name="city">Cortona</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+tempio+riconquistato+Egisto+Napoleone+Pontecchi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

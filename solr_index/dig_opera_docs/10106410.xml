@@ -14,7 +14,7 @@
 <field name="city">Leipzig</field>
 <field name="region">Sachsen</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Sängerfahrt+Karl+Eduard+Conrad&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

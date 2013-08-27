@@ -12,9 +12,9 @@
 <field name="librettistSort">Ashley, Robert</field>
 <field name="theater">Centre Culturel Américain</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Music+with+Roots+in+the+Aether+Robert+Ashley&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

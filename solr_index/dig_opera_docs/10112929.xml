@@ -10,11 +10,11 @@
 <field name="date">1755</field>
 <field name="librettist">Claude-François-Félix Boulenger de Rivery</field>
 <field name="librettistSort">Boulenger de Rivery, Claude-François-Félix</field>
-<field name="theater"/>
+
 <field name="city">Amiens</field>
 <field name="region">Somme</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daphnis+et+Amalthée+Mlle.+Guérin&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

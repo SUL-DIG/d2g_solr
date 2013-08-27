@@ -7,7 +7,7 @@
 <field name="composer">Nicola Sinadino</field>
 <field name="composerSort">Sinadino, Nicola</field>
 <field name="year">1904</field>
-<field name="date">1904theaterTeatro Zizinia</field>
+<field name="date">1904</field><field name="theater">Teatro Zizinia</field>
 <field name="city">Alexandria</field>
 
 <field name="country">Egypt</field>

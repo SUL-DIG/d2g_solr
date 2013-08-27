@@ -7,7 +7,7 @@
 <field name="composer">Roland Trogan</field>
 <field name="composerSort">Trogan, Roland</field>
 <field name="year">1953</field>
-<field name="date">1953theaterNational Music Camp</field>
+<field name="date">1953</field><field name="theater">National Music Camp</field>
 <field name="city">Interlochen</field>
 <field name="region">Michigan</field>
 <field name="country">United States</field>

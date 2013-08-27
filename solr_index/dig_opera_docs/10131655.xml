@@ -7,7 +7,7 @@
 <field name="composer">Carlo Valentini</field>
 <field name="composerSort">Valentini, Carlo</field>
 <field name="year">1827</field>
-<field name="date">1827theaterTeatro de São João</field>
+<field name="date">1827</field><field name="theater">Teatro de São João</field>
 <field name="city">Oporto</field>
 <field name="region">Porto</field>
 <field name="country">Portugal</field>

@@ -10,11 +10,11 @@
 <field name="date">1893</field>
 <field name="librettist">Bernardino Zendrini</field>
 <field name="librettistSort">Zendrini, Bernardino</field>
-<field name="theater"/>
+
 <field name="city">Codogno</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marcella+Luigi+Marzani&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

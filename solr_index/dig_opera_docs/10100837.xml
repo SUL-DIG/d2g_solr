@@ -7,11 +7,11 @@
 <field name="composer">Secondini Anselmi</field>
 <field name="composerSort">Anselmi, Secondini</field>
 <field name="year">1787</field>
-<field name="date">1787theater</field>
+<field name="date">1787</field>
 <field name="city">Lodi</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+tre+pretendenti+Secondini+Anselmi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

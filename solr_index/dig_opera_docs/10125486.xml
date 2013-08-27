@@ -7,11 +7,11 @@
 <field name="composer">Pietro Raimondi</field>
 <field name="composerSort">Raimondi, Pietro</field>
 <field name="year">1821</field>
-<field name="date">1821theaterTeatro Nuovo sopra Toledo</field>
+<field name="date">1821</field><field name="theater">Teatro Nuovo sopra Toledo</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+minatori+scozzesi+Pietro+Raimondi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

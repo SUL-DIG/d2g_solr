@@ -7,7 +7,7 @@
 <field name="composer">Gaetano Maria Schiassi</field>
 <field name="composerSort">Schiassi, Gaetano Maria</field>
 <field name="year">1728</field>
-<field name="date">1728theaterTeatro Molza</field>
+<field name="date">1728</field><field name="theater">Teatro Molza</field>
 <field name="city">Modena</field>
 <field name="region">Emilia-Romagna</field>
 <field name="country">Italy</field>

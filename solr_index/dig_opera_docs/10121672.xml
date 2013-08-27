@@ -10,11 +10,11 @@
 <field name="date">1911</field>
 <field name="librettist">Giovanni Pascoli</field>
 <field name="librettistSort">Pascoli, Giovanni</field>
-<field name="theater"/>
+
 <field name="city">Barga</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+sogno+di+Rosetta+Carlo+Mussinelli&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

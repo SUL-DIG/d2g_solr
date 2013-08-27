@@ -7,7 +7,7 @@
 <field name="composer">Edward Verheyden</field>
 <field name="composerSort">Verheyden, Edward</field>
 <field name="year">1904</field>
-<field name="date">1904theaterVlaamse Opera</field>
+<field name="date">1904</field><field name="theater">Vlaamse Opera</field>
 <field name="city">Antwerp</field>
 <field name="region">Antwerpen</field>
 <field name="country">Belgium</field>

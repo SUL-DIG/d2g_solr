@@ -7,11 +7,11 @@
 <field name="composer">Charles Ots</field>
 <field name="composerSort">Ots, Charles</field>
 <field name="year">1816</field>
-<field name="date">1816theaterThéâtre Saint-Sebastian</field>
+<field name="date">1816</field><field name="theater">Théâtre Saint-Sebastian</field>
 <field name="city">Ghent</field>
 <field name="region">Flaanderen</field>
 <field name="country">Belgium</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jean+Second,+ou+Charles+V+dans+les+murs+de+Gand+Charles+Ots&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

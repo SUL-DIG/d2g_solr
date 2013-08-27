@@ -7,7 +7,7 @@
 <field name="composer">Domenico Natale Sarro</field>
 <field name="composerSort">Sarro, Domenico Natale</field>
 <field name="year">1713</field>
-<field name="date">1713theaterTeatro dei Fiorentini</field>
+<field name="date">1713</field><field name="theater">Teatro dei Fiorentini</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

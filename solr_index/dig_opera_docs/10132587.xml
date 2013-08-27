@@ -7,7 +7,7 @@
 <field name="composer">Edmund Weber</field>
 <field name="composerSort">Weber, Edmund</field>
 <field name="year">1791</field>
-<field name="date">1791theaterAckermannsches Komödienhaus</field>
+<field name="date">1791</field><field name="theater">Ackermannsches Komödienhaus</field>
 <field name="city">Hamburg</field>
 <field name="region">Hamburg</field>
 <field name="country">Germany</field>

@@ -7,11 +7,11 @@
 <field name="composer">Giuseppe Nicolini</field>
 <field name="composerSort">Nicolini, Giuseppe</field>
 <field name="year">1804</field>
-<field name="date">1804theaterTeatro Nuovo sopra Toledo</field>
+<field name="date">1804</field><field name="theater">Teatro Nuovo sopra Toledo</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+inconstanti+nemici+delle+donne+Giuseppe+Nicolini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

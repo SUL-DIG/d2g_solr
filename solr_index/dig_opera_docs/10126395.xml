@@ -10,11 +10,11 @@
 <field name="date">1906</field>
 <field name="librettist">__ Illuminati</field>
 <field name="librettistSort">Illuminati, __</field>
-<field name="theater"/>
+
 <field name="city">Ripatrassone</field>
 <field name="region">Marche</field>
 <field name="country">Italy</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tarcisio+Errico+Roccabianco&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

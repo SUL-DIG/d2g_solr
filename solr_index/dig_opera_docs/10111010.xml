@@ -14,7 +14,7 @@
 <field name="city">Valencia</field>
 <field name="region">Valencia</field>
 <field name="country">Spain</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+triunfo+del+Ave+Maria+Joaquim+García&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

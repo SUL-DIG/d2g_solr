@@ -7,7 +7,7 @@
 <field name="composer">Antonio Sacchini</field>
 <field name="composerSort">Sacchini, Antonio</field>
 <field name="year">1758</field>
-<field name="date">1758theaterTeatro dei Fiorentini</field>
+<field name="date">1758</field><field name="theater">Teatro dei Fiorentini</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

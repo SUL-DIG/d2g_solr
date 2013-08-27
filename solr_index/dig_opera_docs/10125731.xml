@@ -16,7 +16,7 @@
 <field name="city">East Lansing</field>
 <field name="region">Michigan</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Butterfly+Girl+and+Mirage+Boy+Herbert+Owen+Reed&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

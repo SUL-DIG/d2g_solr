@@ -7,7 +7,7 @@
 <field name="composer">Siegfried Schmiedt</field>
 <field name="composerSort">Schmiedt, Siegfried</field>
 <field name="year">1797</field>
-<field name="date">1797theaterTheater am Rannstädter Tor</field>
+<field name="date">1797</field><field name="theater">Theater am Rannstädter Tor</field>
 <field name="city">Leipzig</field>
 <field name="region">Sachsen</field>
 <field name="country">Germany</field>

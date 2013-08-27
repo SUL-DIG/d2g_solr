@@ -7,7 +7,7 @@
 <field name="composer">Gaston Sarreau</field>
 <field name="composerSort">Sarreau, Gaston</field>
 <field name="year">1901</field>
-<field name="date">1901theaterCercle de l'Union Artistique</field>
+<field name="date">1901</field><field name="theater">Cercle de l'Union Artistique</field>
 <field name="city">Bordeaux</field>
 <field name="region">Gironde</field>
 <field name="country">France</field>

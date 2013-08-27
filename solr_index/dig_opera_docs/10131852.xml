@@ -7,7 +7,7 @@
 <field name="composer">Léon Vercken de Vreuschmen</field>
 <field name="composerSort">Vreuschmen, Léon Vercken de</field>
 <field name="year">1871</field>
-<field name="date">1871theaterThéâtre-Royal des Galeries-Saint-Hubert</field>
+<field name="date">1871</field><field name="theater">Théâtre-Royal des Galeries-Saint-Hubert</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>
 <field name="country">Belgium</field>

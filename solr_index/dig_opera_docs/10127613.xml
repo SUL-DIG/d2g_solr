@@ -7,7 +7,7 @@
 <field name="composer">Michel de Santis</field>
 <field name="composerSort">Santis, Michel de</field>
 <field name="year">1873</field>
-<field name="date">1873theaterMariinsky Teatr</field>
+<field name="date">1873</field><field name="theater">Mariinsky Teatr</field>
 <field name="city">St. Petersburg</field>
 
 <field name="country">Russia</field>

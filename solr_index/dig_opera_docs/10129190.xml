@@ -7,7 +7,7 @@
 <field name="composer">Gabriel Sinsoilliez</field>
 <field name="composerSort">Sinsoilliez, Gabriel</field>
 <field name="year">1866</field>
-<field name="date">1866theaterGrand-Théâtre</field>
+<field name="date">1866</field><field name="theater">Grand-Théâtre</field>
 <field name="city">Lille</field>
 <field name="region">Nord</field>
 <field name="country">France</field>

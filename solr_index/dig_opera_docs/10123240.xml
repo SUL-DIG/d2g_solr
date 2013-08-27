@@ -10,11 +10,11 @@
 <field name="date">1792</field>
 <field name="librettist">Johann Riedinger</field>
 <field name="librettistSort">Riedinger, Johann</field>
-<field name="theater"/>
+
 <field name="city">Vienna</field>
-<field name="region"/>
+
 <field name="country">Austria</field>
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Schulkandidat+Maria+Theresia+von+Paradis&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

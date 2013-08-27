@@ -7,7 +7,7 @@
 <field name="composer">Anton Maria Storch</field>
 <field name="composerSort">Storch, Anton Maria</field>
 <field name="year">1867</field>
-<field name="date">1867theaterFriedrich-Wilhelmstädtisches Theater</field>
+<field name="date">1867</field><field name="theater">Friedrich-Wilhelmstädtisches Theater</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>
 <field name="country">Germany</field>

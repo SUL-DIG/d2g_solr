@@ -12,9 +12,9 @@
 <field name="librettistSort">Mayeur de Saint-Paul, François Marie</field>
 <field name="theater">Théâtre de la Cité-Variétés</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+huche,+ou+Le+médecin+dupé+Pierre-David-Augustin+Chapelle&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

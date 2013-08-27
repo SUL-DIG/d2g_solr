@@ -14,9 +14,9 @@
 <field name="librettistSort">Esser, H. [__ Serré]</field>
 <field name="theater">Théâtre International de l'Exposition Universelle</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'ange+de+Rothesay+Henri+Hippolyte+Potier&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

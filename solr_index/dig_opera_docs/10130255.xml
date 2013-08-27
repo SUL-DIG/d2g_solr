@@ -7,7 +7,7 @@
 <field name="composer">Jakob Bernhard Struwe</field>
 <field name="composerSort">Struwe, Jakob Bernhard</field>
 <field name="year">1805</field>
-<field name="date">1805theaterArsenalsteatern</field>
+<field name="date">1805</field><field name="theater">Arsenalsteatern</field>
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>
 <field name="country">Sweden</field>

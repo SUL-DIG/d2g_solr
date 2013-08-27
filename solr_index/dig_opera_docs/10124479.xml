@@ -14,9 +14,9 @@
 <field name="librettistSort">Gentil de Chavagnac, Michel-Joseph</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bayard+а+la+Ferté+Charles+Henri+Plantade&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

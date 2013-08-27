@@ -7,11 +7,11 @@
 <field name="composer">Giovanni Battista Lampugnani</field>
 <field name="composerSort">Lampugnani, Giovanni Battista</field>
 <field name="year">1743</field>
-<field name="date">1743theaterTeatro del Falcone</field>
+<field name="date">1743</field><field name="theater">Teatro del Falcone</field>
 <field name="city">Genoa</field>
 <field name="region">Liguria</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Farasmene,+re+di+Tracia+Giovanni+Battista+Lampugnani&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

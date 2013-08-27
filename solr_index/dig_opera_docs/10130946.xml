@@ -7,7 +7,7 @@
 <field name="composer">Willem Frans Thooft</field>
 <field name="composerSort">Thooft, Willem Frans</field>
 <field name="year">1866</field>
-<field name="date">1866theaterHoogduitse Opera</field>
+<field name="date">1866</field><field name="theater">Hoogduitse Opera</field>
 <field name="city">Rotterdam</field>
 <field name="region">Suid Holland</field>
 <field name="country">Netherlands</field>

@@ -7,11 +7,11 @@
 <field name="composer">Wenzel Josef Krug-Waldsee</field>
 <field name="composerSort">Krug-Waldsee, Wenzel Josef</field>
 <field name="year">1898</field>
-<field name="date">1898theaterStadttheater</field>
+<field name="date">1898</field><field name="theater">Stadttheater</field>
 <field name="city">Augsburg</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Rotmäntel+Wenzel+Josef+Krug-Waldsee&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -12,9 +12,9 @@
 <field name="librettistSort">Herbel, Émile</field>
 <field name="theater">Théâtre Cluny</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
 <field name="subgenre">Vaudeville</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+coquette+bleue+Auguste+Bosc&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

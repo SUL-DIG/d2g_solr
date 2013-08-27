@@ -7,7 +7,7 @@
 <field name="composer">Nicolaus Adam Strungk</field>
 <field name="composerSort">Strungk, Nicolaus Adam</field>
 <field name="year">1694</field>
-<field name="date">1694theaterSchauplatz im Brühl</field>
+<field name="date">1694</field><field name="theater">Schauplatz im Brühl</field>
 <field name="city">Leipzig</field>
 <field name="region">Sachsen</field>
 <field name="country">Germany</field>

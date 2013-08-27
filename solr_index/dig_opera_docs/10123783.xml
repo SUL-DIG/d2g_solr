@@ -12,11 +12,11 @@
 <field name="librettistSort">Lyden, Émile Mignot de</field>
 <field name="librettist">Jean Bastia</field>
 <field name="librettistSort">Bastia, Jean</field>
-<field name="theater"/>
+
 <field name="city">Luxeuil-les-Bains</field>
 <field name="region">Haute-Saône</field>
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=En+cabine+Amélie+Péronnet&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

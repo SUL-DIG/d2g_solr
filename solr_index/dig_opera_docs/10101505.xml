@@ -7,11 +7,11 @@
 <field name="composer">Lloyd Avril</field>
 <field name="composerSort">Avril, Lloyd</field>
 <field name="year">1968</field>
-<field name="date">1968theaterGlassboro State College</field>
+<field name="date">1968</field><field name="theater">Glassboro State College</field>
 <field name="city">Glassboro</field>
 <field name="region">New Jersey</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Heads+or+Tales+Lloyd+Avril&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

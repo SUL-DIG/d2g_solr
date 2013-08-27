@@ -12,8 +12,8 @@
 <field name="librettistSort">Forest, Jean Kurt</field>
 <field name="librettist">Vsevolod Vyacheslavovich Ivanov</field>
 <field name="librettistSort">Ivanov, Vsevolod Vyacheslavovich"</field>
-<field name="country"/>
-<field name="subgenre"/>
+
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sisyphos+und+Polyander+Jean+Kurt+Forest&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,7 +7,7 @@
 <field name="composer">Georges Rose</field>
 <field name="composerSort">Rose, Georges</field>
 <field name="year">1883</field>
-<field name="date">1883theaterGrand-Théâtre</field>
+<field name="date">1883</field><field name="theater">Grand-Théâtre</field>
 <field name="city">Le Havre</field>
 <field name="region">Seine-Maritime</field>
 <field name="country">France</field>

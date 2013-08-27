@@ -7,7 +7,7 @@
 <field name="composer">Charles Solié</field>
 <field name="composerSort">Solié, Charles</field>
 <field name="year">1879</field>
-<field name="date">1879theaterThéâtre Municipal</field>
+<field name="date">1879</field><field name="theater">Théâtre Municipal</field>
 <field name="city">Nice</field>
 <field name="region">Alpes-Maritimes</field>
 <field name="country">France</field>

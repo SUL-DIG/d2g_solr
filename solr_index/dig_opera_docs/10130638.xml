@@ -7,7 +7,7 @@
 <field name="composer">Angelo Tarchi</field>
 <field name="composerSort">Tarchi, Angelo</field>
 <field name="year">1782</field>
-<field name="date">1782theaterTeatro Valle</field>
+<field name="date">1782</field><field name="theater">Teatro Valle</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

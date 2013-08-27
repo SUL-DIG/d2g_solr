@@ -10,11 +10,11 @@
 <field name="date">1933</field>
 <field name="librettist">Franz Ignaz von Holbein</field>
 <field name="librettistSort">Holbein, Franz Ignaz von</field>
-<field name="theater"/>
+
 <field name="city">Bamberg</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aurora+Ernst+Theodor+Amadeus+Hoffmann&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -10,11 +10,11 @@
 <field name="date">1855</field>
 <field name="librettist">[Johanna Charlotta Stjernström] J. Granberg</field>
 <field name="librettistSort">Granberg, J. [Johanna Charlotta Stjernström]</field>
-<field name="theater"/>
+
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>
 <field name="country">Sweden</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Violetta+Johan+Herman+Berens&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

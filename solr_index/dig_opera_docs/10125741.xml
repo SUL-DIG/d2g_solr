@@ -10,11 +10,11 @@
 <field name="date">1889</field>
 <field name="librettist">Victor Géo</field>
 <field name="librettistSort">Géo, Victor</field>
-<field name="theater"/>
+
 <field name="city">Fontainebleau</field>
 <field name="region">Seine-et-Marne</field>
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+bleauplumard+dans+l'embarras+Léon+Regnisel&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

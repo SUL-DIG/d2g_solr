@@ -12,9 +12,9 @@
 <field name="librettistSort">Turgenev, Ivan Sergeyevich</field>
 <field name="theater">Konservatorii</field>
 <field name="city">St. Petersburg</field>
-<field name="region"/>
+
 <field name="country">Russia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Klara+Milic+Aleksandr+Dmitryevich+Kastalsky&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

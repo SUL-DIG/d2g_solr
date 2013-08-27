@@ -12,11 +12,11 @@
 <field name="librettistSort">Hollen, John</field>
 <field name="librettist">Roald Dahl</field>
 <field name="librettistSort">Dahl, Roald</field>
-<field name="theater"/>
+
 <field name="city">Kristiansund</field>
 <field name="region">Møre og Romsdal</field>
 <field name="country">Norway</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Georgs+magiske+medisin+Gisle+Kverndokk&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

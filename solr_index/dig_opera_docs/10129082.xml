@@ -7,7 +7,7 @@
 <field name="composer">Friedrich Siber</field>
 <field name="composerSort">Siber, Friedrich</field>
 <field name="year">1834</field>
-<field name="date">1834theaterHoftheater</field>
+<field name="date">1834</field><field name="theater">Hoftheater</field>
 <field name="city">Stuttgart</field>
 <field name="region">Baden-Württemberg</field>
 <field name="country">Germany</field>

@@ -7,11 +7,11 @@
 <field name="composer">Chevalier de Beramendi</field>
 <field name="composerSort">Beramendi, Chevalier de</field>
 <field name="year">1831</field>
-<field name="date">1831theaterThéâtre de Tivoli</field>
+<field name="date">1831</field><field name="theater">Théâtre de Tivoli</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vendemnia+di+Xeres+Les+vendages+de+Xerès+Chevalier+de+Beramendi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

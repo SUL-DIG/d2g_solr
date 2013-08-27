@@ -7,7 +7,7 @@
 <field name="composer">Vittorio Trento</field>
 <field name="composerSort">Trento, Vittorio</field>
 <field name="year">1804</field>
-<field name="date">1804theaterTeatro Capranica</field>
+<field name="date">1804</field><field name="theater">Teatro Capranica</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

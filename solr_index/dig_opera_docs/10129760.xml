@@ -7,7 +7,7 @@
 <field name="composer">Ernst Steffan</field>
 <field name="composerSort">Steffan, Ernst</field>
 <field name="year">1928</field>
-<field name="date">1928theaterTheater des Westens</field>
+<field name="date">1928</field><field name="theater">Theater des Westens</field>
 <field name="city">Charlottenburg</field>
 <field name="region">Berlin</field>
 <field name="country">Germany</field>

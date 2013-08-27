@@ -7,7 +7,7 @@
 <field name="composer">Johann Franz Xaver Sterkel</field>
 <field name="composerSort">Sterkel, Johann Franz Xaver</field>
 <field name="year">1782</field>
-<field name="date">1782theaterTeatro San Carlo</field>
+<field name="date">1782</field><field name="theater">Teatro San Carlo</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

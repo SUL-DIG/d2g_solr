@@ -7,7 +7,7 @@
 <field name="composer">Anthony Taffs</field>
 <field name="composerSort">Taffs, Anthony</field>
 <field name="year">1960</field>
-<field name="date">1960theaterAlbion College</field>
+<field name="date">1960</field><field name="theater">Albion College</field>
 <field name="city">Albion</field>
 <field name="region">Michigan</field>
 <field name="country">United States</field>

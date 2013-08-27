@@ -7,7 +7,7 @@
 <field name="composer">Rinaldo Ticci</field>
 <field name="composerSort">Ticci, Rinaldo</field>
 <field name="year">1866</field>
-<field name="date">1866theaterTeatro dei Rinnovati</field>
+<field name="date">1866</field><field name="theater">Teatro dei Rinnovati</field>
 <field name="city">Siena</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>

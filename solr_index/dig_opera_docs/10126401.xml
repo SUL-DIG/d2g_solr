@@ -7,11 +7,11 @@
 <field name="composer">Jean-Baptiste Rochefort</field>
 <field name="composerSort">Rochefort, Jean-Baptiste</field>
 <field name="year">1788</field>
-<field name="date">1788theaterOpéra</field>
+<field name="date">1788</field><field name="theater">Opéra</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ariane+Jean-Baptiste+Rochefort&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

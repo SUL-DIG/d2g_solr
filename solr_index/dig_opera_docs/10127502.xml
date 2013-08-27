@@ -7,7 +7,7 @@
 <field name="composer">Pindaro Salvoni</field>
 <field name="composerSort">Salvoni, Pindaro</field>
 <field name="year">1884</field>
-<field name="date">1884theaterTeatro Signarelli</field>
+<field name="date">1884</field><field name="theater">Teatro Signarelli</field>
 <field name="city">Cortona</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>

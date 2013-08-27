@@ -7,7 +7,7 @@
 <field name="composer">Gregorio Sciroli</field>
 <field name="composerSort">Sciroli, Gregorio</field>
 <field name="year">1757</field>
-<field name="date">1757theaterTeatro Capranica</field>
+<field name="date">1757</field><field name="theater">Teatro Capranica</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

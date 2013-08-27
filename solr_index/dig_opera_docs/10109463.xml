@@ -7,11 +7,11 @@
 <field name="composer">Vincenzo Federici</field>
 <field name="composerSort">Federici, Vincenzo</field>
 <field name="year">1804</field>
-<field name="date">1804theaterTeatro alla Scala</field>
+<field name="date">1804</field><field name="theater">Teatro alla Scala</field>
 <field name="city">Milan</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oreste+in+Tauride+Vincenzo+Federici&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,7 +7,7 @@
 <field name="composer">Pierre François Soubies</field>
 <field name="composerSort">Soubies, Pierre François</field>
 <field name="year">1844</field>
-<field name="date">1844theaterThéâtre du Capitole</field>
+<field name="date">1844</field><field name="theater">Théâtre du Capitole</field>
 <field name="city">Toulouse</field>
 <field name="region">Haute-Garonne</field>
 <field name="country">France</field>

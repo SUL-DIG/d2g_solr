@@ -7,7 +7,7 @@
 <field name="composer">Arturo Sternajuolo</field>
 <field name="composerSort">Sternajuolo, Arturo</field>
 <field name="year">1899</field>
-<field name="date">1899theaterTeatro Pola</field>
+<field name="date">1899</field><field name="theater">Teatro Pola</field>
 <field name="city">Portici</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

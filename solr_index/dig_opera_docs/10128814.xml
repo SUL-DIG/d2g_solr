@@ -7,7 +7,7 @@
 <field name="composer">Domenico Giovanni Sebenico</field>
 <field name="composerSort">Sebenico, Domenico Giovanni</field>
 <field name="year">1692</field>
-<field name="date">1692theaterTeatro Grimani di Santi Giovanni e Paolo</field>
+<field name="date">1692</field><field name="theater">Teatro Grimani di Santi Giovanni e Paolo</field>
 <field name="city">Venice</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>

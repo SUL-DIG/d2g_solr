@@ -12,9 +12,9 @@
 <field name="librettistSort">García Lorca, Federico</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Zagreb</field>
-<field name="region"/>
+
 <field name="country">Croatia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ljubav+Don+Perlimplina+Miro+Belamaric&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

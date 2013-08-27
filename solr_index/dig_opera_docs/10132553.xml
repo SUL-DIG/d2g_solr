@@ -7,7 +7,7 @@
 <field name="composer">Mary Carol Warwick</field>
 <field name="composerSort">Warwick, Mary Carol</field>
 <field name="year">1986</field>
-<field name="date">1986theaterSouthwest Texas State University</field>
+<field name="date">1986</field><field name="theater">Southwest Texas State University</field>
 <field name="city">San Marcos</field>
 <field name="region">Texas</field>
 <field name="country">United States</field>

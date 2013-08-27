@@ -7,11 +7,11 @@
 <field name="composer">Giovanni Lorenzo Lulier</field>
 <field name="composerSort">Lulier, Giovanni Lorenzo</field>
 <field name="year">1694</field>
-<field name="date">1694theaterPalazzo della Cancelleria</field>
+<field name="date">1694</field><field name="theater">Palazzo della Cancelleria</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>
 <field name="subgenre">Serenata</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tirsi,+Daliso,+Lisetta+Giovanni+Lorenzo+Lulier&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

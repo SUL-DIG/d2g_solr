@@ -7,11 +7,11 @@
 <field name="composer">Il-nam Chang</field>
 <field name="composerSort">Chang, Il-nam</field>
 <field name="year">1987</field>
-<field name="date">1987theaterKorean National Opera</field>
+<field name="date">1987</field><field name="theater">Korean National Opera</field>
 <field name="city">Seoul</field>
-<field name="region"/>
+
 <field name="country">Korea</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Choi-yong+Il-nam+Chang&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

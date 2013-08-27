@@ -7,11 +7,11 @@
 <field name="composer">Ferdinando Orlandi</field>
 <field name="composerSort">Orlandi, Ferdinando</field>
 <field name="year">1801</field>
-<field name="date">1801theaterTeatro Ducale</field>
+<field name="date">1801</field><field name="theater">Teatro Ducale</field>
 <field name="city">Parma</field>
 <field name="region">Emilia-Romagna</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+pupilla+scozzese+Ferdinando+Orlandi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

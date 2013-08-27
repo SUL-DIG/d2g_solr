@@ -12,11 +12,11 @@
 <field name="librettistSort">Lofer, Hans</field>
 <field name="librettist">Hans Christian Andersen</field>
 <field name="librettistSort">Andersen, Hans Christian</field>
-<field name="theater"/>
+
 <field name="city">Gelsenkirchen</field>
 <field name="region">Nordrhein-Westfallen</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Des+Kaisers+neue+Kleider+Hans+Lofer&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,11 +7,11 @@
 <field name="composer">Carl Orff</field>
 <field name="composerSort">Orff, Carl</field>
 <field name="year">1953</field>
-<field name="date">1953theaterTeatro alla Scala</field>
+<field name="date">1953</field><field name="theater">Teatro alla Scala</field>
 <field name="city">Milan</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Trionfi+Carl+Orff&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

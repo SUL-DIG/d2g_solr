@@ -7,11 +7,11 @@
 <field name="composer">Giovanni Antonio Ricieri</field>
 <field name="composerSort">Ricieri, Giovanni Antonio</field>
 <field name="year">1722</field>
-<field name="date">1722theaterCount Rzewuski Winter Residence</field>
+<field name="date">1722</field><field name="theater">Count Rzewuski Winter Residence</field>
 <field name="city">Liuboml'</field>
 <field name="region">Volyns'ka Oblast</field>
 <field name="country">Ukraine</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'inganno+punito+Giovanni+Antonio+Ricieri&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

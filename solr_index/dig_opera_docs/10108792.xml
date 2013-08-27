@@ -12,9 +12,9 @@
 <field name="librettistSort">Ramnefalk, Marie Louise</field>
 <field name="theater">Vadstena Academy</field>
 <field name="city">Reykjavik</field>
-<field name="region"/>
+
 <field name="country">Iceland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nеgon+har+jag+sett+Someone+I+Have+Seen+Karólína+Eiríksdóttir&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

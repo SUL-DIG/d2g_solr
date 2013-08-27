@@ -10,11 +10,11 @@
 <field name="date">1974</field>
 <field name="librettist">Noni Espina</field>
 <field name="librettistSort">Espina, Noni</field>
-<field name="theater"/>
+
 <field name="city">Maasin</field>
-<field name="region"/>
+
 <field name="country">Phillipines</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Legend+of+Bakunawa+Noni+Espina&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

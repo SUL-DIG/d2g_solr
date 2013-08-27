@@ -7,11 +7,11 @@
 <field name="composer">Jean Jacques Debillemont</field>
 <field name="composerSort">Debillemont, Jean Jacques</field>
 <field name="year">1860</field>
-<field name="date">1860theaterThéâtre Déjazet</field>
+<field name="date">1860</field><field name="theater">Théâtre Déjazet</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=As-tu+déjeuné,+Jacquot+Jean+Jacques+Debillemont&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

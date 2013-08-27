@@ -7,11 +7,11 @@
 <field name="composer">Oreste Carlini</field>
 <field name="composerSort">Carlini, Oreste</field>
 <field name="year">1853</field>
-<field name="date">1853theaterTeatro Petrarca</field>
+<field name="date">1853</field><field name="theater">Teatro Petrarca</field>
 <field name="city">Arezzo</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bice+del+Balzo+Oreste+Carlini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

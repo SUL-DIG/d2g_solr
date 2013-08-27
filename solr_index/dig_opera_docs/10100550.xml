@@ -7,11 +7,11 @@
 <field name="composer">Francisco António de Almeida</field>
 <field name="composerSort">Almeida, Francisco António de</field>
 <field name="year">1729</field>
-<field name="date">1729theaterPalácio da Ribeira</field>
+<field name="date">1729</field><field name="theater">Palácio da Ribeira</field>
 <field name="city">Lisbon</field>
 <field name="region">Lisboa</field>
 <field name="country">Portugal</field>
 <field name="subgenre">Serenata</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+d'amore+Francisco+António+de+Almeida&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

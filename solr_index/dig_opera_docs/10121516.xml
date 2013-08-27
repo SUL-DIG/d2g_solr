@@ -14,9 +14,9 @@
 <field name="librettistSort">Stein, Leo [Leo Rosenstein]</field>
 <field name="theater">Carltheater</field>
 <field name="city">Vienna</field>
-<field name="region"/>
+
 <field name="country">Austria</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lady+Charlatan+Adolf+Müller+jr.&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

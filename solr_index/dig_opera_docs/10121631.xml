@@ -7,11 +7,11 @@
 <field name="composer">Fritz Müller-Ocker</field>
 <field name="composerSort">Müller-Ocker, Fritz</field>
 <field name="year">1917</field>
-<field name="date">1917theaterWilhelm-Theater</field>
+<field name="date">1917</field><field name="theater">Wilhelm-Theater</field>
 <field name="city">Magdeburg</field>
 <field name="region">Sachsen-Anhalt</field>
 <field name="country">Germany</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ohne+Männer+geht's+nicht+Fritz+Müller-Ocker&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

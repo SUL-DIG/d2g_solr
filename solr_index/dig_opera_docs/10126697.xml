@@ -7,7 +7,7 @@
 <field name="composer">Franz de Paula Roser</field>
 <field name="composerSort">Roser, Franz de Paula</field>
 <field name="year">1828</field>
-<field name="date">1828theaterTheater an der Wien</field>
+<field name="date">1828</field><field name="theater">Theater an der Wien</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

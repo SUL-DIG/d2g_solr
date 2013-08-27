@@ -7,11 +7,11 @@
 <field name="composer">Friedrich Wilhelm Berner</field>
 <field name="composerSort">Berner, Friedrich Wilhelm</field>
 <field name="year">1808</field>
-<field name="date">1808theaterStadttheater</field>
+<field name="date">1808</field><field name="theater">Stadttheater</field>
 <field name="city">Wroclaw</field>
 <field name="region">Dolnoslaskie</field>
 <field name="country">Poland</field>
 <field name="subgenre">Intermezzo</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Kapellmeister+Friedrich+Wilhelm+Berner&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

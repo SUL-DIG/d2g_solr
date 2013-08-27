@@ -7,11 +7,11 @@
 <field name="composer">Francesco Feo</field>
 <field name="composerSort">Feo, Francesco</field>
 <field name="year">1726</field>
-<field name="date">1726theaterSeminario Romano</field>
+<field name="date">1726</field><field name="theater">Seminario Romano</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>
 <field name="subgenre">Intermezzo</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Coriando+lo+speciale+Francesco+Feo&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

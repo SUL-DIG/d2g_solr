@@ -7,7 +7,7 @@
 <field name="composer">Paolo Scalabrini</field>
 <field name="composerSort">Scalabrini, Paolo</field>
 <field name="year">1747</field>
-<field name="date">1747theaterTheater beim Gänsemarkt</field>
+<field name="date">1747</field><field name="theater">Theater beim Gänsemarkt</field>
 <field name="city">Hamburg</field>
 <field name="region">Hamburg</field>
 <field name="country">Germany</field>

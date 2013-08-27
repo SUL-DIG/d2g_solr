@@ -12,9 +12,9 @@
 <field name="librettistSort">Dovsky, Beatrice [Beatrice Freiin von Vay]</field>
 <field name="theater">Volksoper</field>
 <field name="city">Vienna</field>
-<field name="region"/>
+
 <field name="country">Austria</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+heilige+Zita+Hermann+Grädener&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

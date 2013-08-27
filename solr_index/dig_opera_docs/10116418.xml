@@ -7,11 +7,11 @@
 <field name="composer">Otto Carl Erdmann von Kospoth</field>
 <field name="composerSort">Kospoth, Otto Carl Erdmann von</field>
 <field name="year">1787</field>
-<field name="date">1787theaterSchloss Monbijou</field>
+<field name="date">1787</field><field name="theater">Schloss Monbijou</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Fest+der+Schäfer+Otto+Carl+Erdmann+von+Kospoth&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

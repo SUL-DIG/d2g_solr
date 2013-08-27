@@ -7,11 +7,11 @@
 <field name="composer">Antonio Ferradini</field>
 <field name="composerSort">Ferradini, Antonio</field>
 <field name="year">1751</field>
-<field name="date">1751theaterFiera</field>
+<field name="date">1751</field><field name="theater">Fiera</field>
 <field name="city">Lugo</field>
 <field name="region">Emilia-Romagna</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ermelinda+Antonio+Ferradini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

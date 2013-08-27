@@ -7,7 +7,7 @@
 <field name="composer">Boris Karlovych Yanovs'ky</field>
 <field name="composerSort">Yanovs'ky, Boris Karlovych</field>
 <field name="year">1927</field>
-<field name="date">1927theaterRusskaya Gosudarstvennaya Opera</field>
+<field name="date">1927</field><field name="theater">Russkaya Gosudarstvennaya Opera</field>
 <field name="city">Kharkiv</field>
 <field name="region">Kharkivs'ka Oblast</field>
 <field name="country">Ukraine</field>

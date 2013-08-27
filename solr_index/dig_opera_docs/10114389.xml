@@ -7,11 +7,11 @@
 <field name="composer">Gustaaf van Hoey</field>
 <field name="composerSort">Hoey, Gustaaf van</field>
 <field name="year">1868</field>
-<field name="date">1868theaterSchouwburg</field>
+<field name="date">1868</field><field name="theater">Schouwburg</field>
 <field name="city">Leuven</field>
 <field name="region">Brabant</field>
 <field name="country">Belgium</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Het+Erekeins+Gustaaf+van+Hoey&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

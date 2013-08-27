@@ -7,11 +7,11 @@
 <field name="composer">Antonio Nicolau</field>
 <field name="composerSort">Nicolau, Antonio</field>
 <field name="year">1895</field>
-<field name="date">1895theaterTeatre Tivoli</field>
+<field name="date">1895</field><field name="theater">Teatre Tivoli</field>
 <field name="city">Barcelona</field>
 <field name="region">Catalunya</field>
 <field name="country">Spain</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+corazón+de+fuego+Antonio+Nicolau&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

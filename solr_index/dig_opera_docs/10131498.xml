@@ -7,7 +7,7 @@
 <field name="composer">David Uhrmacher</field>
 <field name="composerSort">Uhrmacher, David</field>
 <field name="year">1835</field>
-<field name="date">1835theaterTeatro Sociale</field>
+<field name="date">1835</field><field name="theater">Teatro Sociale</field>
 <field name="city">Trento</field>
 <field name="region">Trentino-Alto Adige</field>
 <field name="country">Italy</field>

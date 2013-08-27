@@ -7,7 +7,7 @@
 <field name="composer">Giuseppe Sellitto</field>
 <field name="composerSort">Sellitto, Giuseppe</field>
 <field name="year">1746</field>
-<field name="date">1746theaterTeatro delle Dame</field>
+<field name="date">1746</field><field name="theater">Teatro delle Dame</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

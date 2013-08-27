@@ -7,7 +7,7 @@
 <field name="composer">Carl Bernhard Wessely</field>
 <field name="composerSort">Wessely, Carl Bernhard</field>
 <field name="year">1799</field>
-<field name="date">1799theaterSchlosstheater der Prinz Heinrich von Preussen</field>
+<field name="date">1799</field><field name="theater">Schlosstheater der Prinz Heinrich von Preussen</field>
 <field name="city">Rheinsberg</field>
 <field name="region">Brandenburg</field>
 <field name="country">Germany</field>

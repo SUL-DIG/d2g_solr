@@ -7,7 +7,7 @@
 <field name="composer">Giuseppe Rossi</field>
 <field name="composerSort">Rossi, Giuseppe</field>
 <field name="year">1807</field>
-<field name="date">1807theaterTeatro Apollo</field>
+<field name="date">1807</field><field name="theater">Teatro Apollo</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

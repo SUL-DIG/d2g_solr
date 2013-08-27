@@ -7,11 +7,11 @@
 <field name="composer">Oreste Liviabella</field>
 <field name="composerSort">Liviabella, Oreste</field>
 <field name="year">1908</field>
-<field name="date">1908theaterInstituto Salesiano</field>
+<field name="date">1908</field><field name="theater">Instituto Salesiano</field>
 <field name="city">Macerata</field>
 <field name="region">Marche</field>
 <field name="country">Italy</field>
 <field name="subgenre">Vaudeville</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'arrivo+del+prefetto+Oreste+Liviabella&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

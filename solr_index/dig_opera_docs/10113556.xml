@@ -16,7 +16,7 @@
 <field name="city">Amagasaki</field>
 <field name="region">Hyogo</field>
 <field name="country">Japan</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Iwanaga-hime+Princess+Iwanaga+Kazuko+Hara&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

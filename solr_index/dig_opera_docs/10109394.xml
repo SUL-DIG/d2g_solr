@@ -7,11 +7,11 @@
 <field name="composer">Benoit Constant Fauconier</field>
 <field name="composerSort">Fauconier, Benoit Constant</field>
 <field name="year">1850</field>
-<field name="date">1850theater</field>
+<field name="date">1850</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>
 <field name="country">Belgium</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+an+d'avenir+Benoit+Constant+Fauconier&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

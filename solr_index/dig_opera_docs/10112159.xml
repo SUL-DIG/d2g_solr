@@ -10,11 +10,11 @@
 <field name="date">1875</field>
 <field name="librettist">William Howard Glover</field>
 <field name="librettistSort">Glover, William Howard</field>
-<field name="theater"/>
+
 <field name="city">Boston</field>
 <field name="region">Massachussets</field>
 <field name="country">United States</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Palomita,+or+The+Veiled+Songstress+William+Howard+Glover&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

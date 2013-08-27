@@ -7,7 +7,7 @@
 <field name="composer">Nicholas Scarim</field>
 <field name="composerSort">Scarim, Nicholas</field>
 <field name="year">1979</field>
-<field name="date">1979theaterEugene O'Neill Theater Center</field>
+<field name="date">1979</field><field name="theater">Eugene O'Neill Theater Center</field>
 <field name="city">Waterford</field>
 <field name="region">Connecticut</field>
 <field name="country">United States</field>

@@ -7,7 +7,7 @@
 <field name="composer">Alessandro Scarlatti</field>
 <field name="composerSort">Scarlatti, Alessandro</field>
 <field name="year">1716</field>
-<field name="date">1716theaterTeatro San Bartolomeo</field>
+<field name="date">1716</field><field name="theater">Teatro San Bartolomeo</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

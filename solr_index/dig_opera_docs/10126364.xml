@@ -12,9 +12,9 @@
 <field name="librettistSort">Montbars, [Jules-Alexandre Kalitowitsch]</field>
 <field name="theater">Nouvelle Salle des Délassements-Comiques</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
 <field name="subgenre">Vaudeville</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+répassage+de+Vénus+Victor+Robillard&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -14,9 +14,9 @@
 <field name="librettistSort">Ariosto, Ludovico</field>
 <field name="theater">Teatru Manoel</field>
 <field name="city">Valletta</field>
-<field name="region"/>
+
 <field name="country">Malta</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ginevra+di+Scozia+Nicolas+Isouard&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

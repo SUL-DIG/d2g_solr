@@ -7,11 +7,11 @@
 <field name="composer">__ Leblanc</field>
 <field name="composerSort">Leblanc, __</field>
 <field name="year">1790</field>
-<field name="date">1790theaterThéâtre-Française Comique et Lyrique</field>
+<field name="date">1790</field><field name="theater">Théâtre-Française Comique et Lyrique</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rosine+et+Zély+__+Leblanc&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

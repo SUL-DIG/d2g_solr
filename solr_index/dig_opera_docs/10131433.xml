@@ -7,7 +7,7 @@
 <field name="composer">Vincenc Tucek</field>
 <field name="composerSort">Tucek, Vincenc</field>
 <field name="year">1818</field>
-<field name="date">1818theaterVárosi Színház</field>
+<field name="date">1818</field><field name="theater">Városi Színház</field>
 <field name="city">Budapest</field>
 
 <field name="country">Hungary</field>

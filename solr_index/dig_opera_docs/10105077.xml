@@ -14,9 +14,9 @@
 <field name="librettistSort">Dostoyevsky, Fyodor Mikhaylovich</field>
 <field name="theater">NZBC Radio (New Zealand Broadcasting Corporation)</field>
 <field name="city">Dunedin</field>
-<field name="region"/>
+
 <field name="country">New Zealand</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nastasya+Edwin+Carr&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

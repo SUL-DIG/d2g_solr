@@ -7,11 +7,11 @@
 <field name="composer">Giorgio Ballia</field>
 <field name="composerSort">Ballia, Giorgio</field>
 <field name="year">1923</field>
-<field name="date">1923theaterTeatro Nazionale</field>
+<field name="date">1923</field><field name="theater">Teatro Nazionale</field>
 <field name="city">Trieste</field>
 <field name="region">Friuli-Venezia Giulia</field>
 <field name="country">Italy</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=In+cerca+di+una+moglie+e+Reobarbaro+innamorato+Giorgio+Ballia&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

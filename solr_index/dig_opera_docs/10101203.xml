@@ -10,11 +10,11 @@
 <field name="date">1911</field>
 <field name="librettist">Giovanni Battista Reggiori</field>
 <field name="librettistSort">Reggiori, Giovanni Battista</field>
-<field name="theater"/>
+
 <field name="city">Ascoli Piceno</field>
 <field name="region">Marche</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Luisianna+Virgilio+Aru&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

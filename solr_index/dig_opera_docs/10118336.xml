@@ -7,11 +7,11 @@
 <field name="composer">Luigi Logheder</field>
 <field name="composerSort">Logheder, Luigi</field>
 <field name="year">1913</field>
-<field name="date">1913theaterTeatro Nuovo</field>
+<field name="date">1913</field><field name="theater">Teatro Nuovo</field>
 <field name="city">Bergamo</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cirene+Luigi+Logheder&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,11 +7,11 @@
 <field name="composer">Gaetano Antolisei</field>
 <field name="composerSort">Antolisei, Gaetano</field>
 <field name="year">1892</field>
-<field name="date">1892theaterCircolo Filodrammatico</field>
+<field name="date">1892</field><field name="theater">Circolo Filodrammatico</field>
 <field name="city">Civitavecchia</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amore+e+trionfo+Gaetano+Antolisei&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

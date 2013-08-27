@@ -14,9 +14,9 @@
 <field name="librettistSort">Frank, Anne</field>
 <field name="theater">All-Union House of Composers</field>
 <field name="city">Moscow</field>
-<field name="region"/>
+
 <field name="country">Russia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dnevnik+Annï+Frank+The+Diary+of+Anne+Frank+Grigory+Samuilovich+Frid&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

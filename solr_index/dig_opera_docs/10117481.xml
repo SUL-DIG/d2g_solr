@@ -7,11 +7,11 @@
 <field name="composer">Ferdinand Lavainne</field>
 <field name="composerSort">Lavainne, Ferdinand</field>
 <field name="year">1836</field>
-<field name="date">1836theaterGrand-Théâtre</field>
+<field name="date">1836</field><field name="theater">Grand-Théâtre</field>
 <field name="city">Lille</field>
 <field name="region">Nord</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Une+matinée+а+Cayenne+Ferdinand+Lavainne&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

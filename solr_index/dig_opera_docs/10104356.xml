@@ -14,7 +14,7 @@
 <field name="city">Portsmouth</field>
 <field name="region">Hampshire</field>
 <field name="country">United Kingdom</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Brother+George+Procida+Bucalossi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

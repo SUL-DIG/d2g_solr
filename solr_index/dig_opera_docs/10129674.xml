@@ -7,7 +7,7 @@
 <field name="composer">Francesco Stabile</field>
 <field name="composerSort">Stabile, Francesco</field>
 <field name="year">1826</field>
-<field name="date">1826theaterConservatorio di San Sebastiano</field>
+<field name="date">1826</field><field name="theater">Conservatorio di San Sebastiano</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

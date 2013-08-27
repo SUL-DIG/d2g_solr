@@ -7,11 +7,11 @@
 <field name="composer">David Macbride</field>
 <field name="composerSort">Macbride, David</field>
 <field name="year">1983</field>
-<field name="date">1983theaterGolden Fleece Ltd.</field>
+<field name="date">1983</field><field name="theater">Golden Fleece Ltd.</field>
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Pond+in+a+Bowl+David+Macbride&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -10,11 +10,11 @@
 <field name="date">1898</field>
 <field name="librettist">Jules Denoyelles</field>
 <field name="librettistSort">Denoyelles, Jules</field>
-<field name="theater"/>
+
 <field name="city">Cambrai</field>
 <field name="region">Nord</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+bout+de+l'oreille+Arthur+Lardenois&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

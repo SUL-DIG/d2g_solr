@@ -7,7 +7,7 @@
 <field name="composer">Andrea Sartorio</field>
 <field name="composerSort">Sartorio, Andrea</field>
 <field name="year">1801</field>
-<field name="date">1801theaterTeatro Nuovo sopra Toledo</field>
+<field name="date">1801</field><field name="theater">Teatro Nuovo sopra Toledo</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

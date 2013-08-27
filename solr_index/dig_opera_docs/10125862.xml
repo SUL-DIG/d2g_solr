@@ -12,11 +12,11 @@
 <field name="librettistSort">d'Ennery, Adolphe [Adolphe Philippe]</field>
 <field name="librettist">[Philippe-François Pinel] Dumanoir</field>
 <field name="librettistSort">Dumanoir, [Philippe-François Pinel]</field>
-<field name="theater"/>
+
 <field name="city">Oporto</field>
 <field name="region">Porto</field>
 <field name="country">Portugal</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+César+de+Bazan+Francisco+Alves+Rente&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

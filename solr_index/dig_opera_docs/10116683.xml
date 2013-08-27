@@ -10,11 +10,11 @@
 <field name="date">1875</field>
 <field name="librettist">Betty Young</field>
 <field name="librettistSort">Young, Betty</field>
-<field name="theater"/>
+
 <field name="city">Ceské Budejovice</field>
 <field name="region">Jihocesky Kraj</field>
 <field name="country">Czech Republic</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Winzer-Märchen,+oder+Geprellte+Freier+Edgar+Krones&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

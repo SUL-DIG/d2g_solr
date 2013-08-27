@@ -7,7 +7,7 @@
 <field name="composer">Louis Schubert</field>
 <field name="composerSort">Schubert, Louis</field>
 <field name="year">1864</field>
-<field name="date">1864theaterKöniglich Sächsisches Hoftheater</field>
+<field name="date">1864</field><field name="theater">Königlich Sächsisches Hoftheater</field>
 <field name="city">Dresden</field>
 <field name="region">Sachsen</field>
 <field name="country">Germany</field>

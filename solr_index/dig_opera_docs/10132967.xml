@@ -7,7 +7,7 @@
 <field name="composer">Jack Eric Williams</field>
 <field name="composerSort">Williams, Jack Eric</field>
 <field name="year">1965</field>
-<field name="date">1965theaterNational Music Camp</field>
+<field name="date">1965</field><field name="theater">National Music Camp</field>
 <field name="city">Interlochen</field>
 <field name="region">Michigan</field>
 <field name="country">United States</field>

@@ -7,11 +7,11 @@
 <field name="composer">Napoleon Lambelet</field>
 <field name="composerSort">Lambelet, Napoleon</field>
 <field name="year">1916</field>
-<field name="date">1916theaterLyric Theatre</field>
+<field name="date">1916</field><field name="theater">Lyric Theatre</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Romance+Napoleon+Lambelet&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

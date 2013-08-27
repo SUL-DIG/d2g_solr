@@ -12,9 +12,9 @@
 <field name="librettistSort">Cuvelier de Trie, Jean-Guillaume-Auguste</field>
 <field name="theater">Théâtre de la Gaîté</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adolphe+de+Halden,+ou+L'orpheline+du+château+__+Leblanc&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

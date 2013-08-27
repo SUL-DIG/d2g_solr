@@ -7,7 +7,7 @@
 <field name="composer">Anton Teyber</field>
 <field name="composerSort">Teyber, Anton</field>
 <field name="year">1779</field>
-<field name="date">1779theaterKärntnertortheater</field>
+<field name="date">1779</field><field name="theater">Kärntnertortheater</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

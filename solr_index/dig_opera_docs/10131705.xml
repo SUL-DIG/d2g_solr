@@ -7,7 +7,7 @@
 <field name="composer">Vittorio Maria Vanzo</field>
 <field name="composerSort">Vanzo, Vittorio Maria</field>
 <field name="year">1887</field>
-<field name="date">1887theaterTeatro Pezzana</field>
+<field name="date">1887</field><field name="theater">Teatro Pezzana</field>
 <field name="city">Milan</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>

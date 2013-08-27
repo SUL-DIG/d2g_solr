@@ -12,9 +12,9 @@
 <field name="librettistSort">Ducati, Giuseppe Emilio</field>
 <field name="theater">Teatro Solís</field>
 <field name="city">Montevideo</field>
-<field name="region"/>
+
 <field name="country">Uruguay</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Manfredi+di+Svevia+Tomás+Giribaldi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -10,8 +10,8 @@
 <field name="date">1966</field>
 <field name="librettist">Pierre Dominique</field>
 <field name="librettistSort">Dominique, Pierre"</field>
-<field name="country"/>
-<field name="subgenre"/>
+
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Balthazar,+ou+Le+mort+vivant+Louise+Marie+Simon]+Claude+Arrieu&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

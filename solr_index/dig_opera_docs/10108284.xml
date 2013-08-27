@@ -14,7 +14,7 @@
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>
 <field name="country">Netherlands</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=François+Villon+Sem+Dresden&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

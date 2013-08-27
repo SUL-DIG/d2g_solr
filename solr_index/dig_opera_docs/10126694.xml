@@ -7,7 +7,7 @@
 <field name="composer">Franz de Paula Roser</field>
 <field name="composerSort">Roser, Franz de Paula</field>
 <field name="year">1824</field>
-<field name="date">1824theaterTheater in der Josefstadt</field>
+<field name="date">1824</field><field name="theater">Theater in der Josefstadt</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

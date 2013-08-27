@@ -7,7 +7,7 @@
 <field name="composer">Nicola Sala</field>
 <field name="composerSort">Sala, Nicola</field>
 <field name="year">1769</field>
-<field name="date">1769theaterTeatro San Carlo</field>
+<field name="date">1769</field><field name="theater">Teatro San Carlo</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

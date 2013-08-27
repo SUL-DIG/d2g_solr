@@ -10,11 +10,11 @@
 <field name="date">1859</field>
 <field name="librettist">Zachris Topelius</field>
 <field name="librettistSort">Topelius, Zachris</field>
-<field name="theater"/>
+
 <field name="city">Helsinki</field>
 <field name="region">Uudenmaan</field>
 <field name="country">Finland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Veteranens+jul+The+Veteran's+Christmas+Fredrik+Pacius&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

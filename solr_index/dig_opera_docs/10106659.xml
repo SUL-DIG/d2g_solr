@@ -7,11 +7,11 @@
 <field name="composer">Gellio Benvenuto Coronaro</field>
 <field name="composerSort">Coronaro, Gellio Benvenuto</field>
 <field name="year">1893</field>
-<field name="date">1893theater</field>
+<field name="date">1893</field>
 <field name="city">Messina</field>
 <field name="region">Sicilia</field>
 <field name="country">Italy</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Minestrone+napoletano+Gellio+Benvenuto+Coronaro&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

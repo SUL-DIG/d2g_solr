@@ -12,11 +12,11 @@
 <field name="librettistSort">Allman, George</field>
 <field name="librettist">Carl Gollmick</field>
 <field name="librettistSort">Gollmick, Carl</field>
-<field name="theater"/>
+
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Donna+Constanza+Adolph+Gollmick&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

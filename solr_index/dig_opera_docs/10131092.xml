@@ -7,7 +7,7 @@
 <field name="composer">Luigi Torelli</field>
 <field name="composerSort">Torelli, Luigi</field>
 <field name="year">1781</field>
-<field name="date">1781theaterZrmitazny Teatr</field>
+<field name="date">1781</field><field name="theater">Zrmitazny Teatr</field>
 <field name="city">St. Petersburg</field>
 
 <field name="country">Russia</field>

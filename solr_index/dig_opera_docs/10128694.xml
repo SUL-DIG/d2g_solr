@@ -7,7 +7,7 @@
 <field name="composer">Maurizio Sciorati</field>
 <field name="composerSort">Sciorati, Maurizio</field>
 <field name="year">1835</field>
-<field name="date">1835theaterTeatro Carlo Felice</field>
+<field name="date">1835</field><field name="theater">Teatro Carlo Felice</field>
 <field name="city">Genoa</field>
 <field name="region">Liguria</field>
 <field name="country">Italy</field>

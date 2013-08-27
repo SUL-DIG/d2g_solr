@@ -16,7 +16,7 @@
 <field name="city">Leeds</field>
 <field name="region">West Yorkshire</field>
 <field name="country">United Kingdom</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rebecca+Wilfred+Josephs&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

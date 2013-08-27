@@ -10,11 +10,11 @@
 <field name="date">1985</field>
 <field name="librettist">Rowland Holt Wilson</field>
 <field name="librettistSort">Wilson, Rowland Holt</field>
-<field name="theater"/>
+
 <field name="city">Edmonton</field>
 <field name="region">Alberta</field>
 <field name="country">Canada</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Meal+Violet+Archer&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

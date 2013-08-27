@@ -7,7 +7,7 @@
 <field name="composer">Nazib Gayazovich Zhiganov</field>
 <field name="composerSort">Zhiganov, Nazib Gayazovich</field>
 <field name="year">1940</field>
-<field name="date">1940theaterTatarskiy Teatr Operï i Baleta</field>
+<field name="date">1940</field><field name="theater">Tatarskiy Teatr Operï i Baleta</field>
 <field name="city">Kazan'</field>
 
 <field name="country">Tatarstan</field>

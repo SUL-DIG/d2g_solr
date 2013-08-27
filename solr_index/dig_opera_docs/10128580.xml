@@ -7,7 +7,7 @@
 <field name="composer">Joseph Schuster</field>
 <field name="composerSort">Schuster, Joseph</field>
 <field name="year">1773</field>
-<field name="date">1773theaterKleines Hoftheater</field>
+<field name="date">1773</field><field name="theater">Kleines Hoftheater</field>
 <field name="city">Dresden</field>
 <field name="region">Sachsen</field>
 <field name="country">Germany</field>

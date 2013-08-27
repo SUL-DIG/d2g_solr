@@ -7,11 +7,11 @@
 <field name="composer">Marcellus Müller</field>
 <field name="composerSort">Müller, Marcellus</field>
 <field name="year">1877</field>
-<field name="date">1877theater</field>
+<field name="date">1877</field>
 <field name="city">Caen</field>
 <field name="region">Calvados</field>
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+maître+de+chant+Marcellus+Müller&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

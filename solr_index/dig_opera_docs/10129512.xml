@@ -7,7 +7,7 @@
 <field name="composer">Fernando Sor</field>
 <field name="composerSort">Sor, Fernando</field>
 <field name="year">1796</field>
-<field name="date">1796theaterTeatre Principal</field>
+<field name="date">1796</field><field name="theater">Teatre Principal</field>
 <field name="city">Barcelona</field>
 <field name="region">Catalunya</field>
 <field name="country">Spain</field>

@@ -7,11 +7,11 @@
 <field name="composer">Stephen Oliver</field>
 <field name="composerSort">Oliver, Stephen</field>
 <field name="year">1976</field>
-<field name="date">1976theaterNottingham Festival</field>
+<field name="date">1976</field><field name="theater">Nottingham Festival</field>
 <field name="city">Nottingham</field>
 <field name="region">Northamptonshire</field>
 <field name="country">United Kingdom</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Waiter's+Revenge+Stephen+Oliver&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

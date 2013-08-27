@@ -7,7 +7,7 @@
 <field name="composer">Amedeo Scorrano</field>
 <field name="composerSort">Scorrano, Amedeo</field>
 <field name="year">1902</field>
-<field name="date">1902theaterTeatro Titano</field>
+<field name="date">1902</field><field name="theater">Teatro Titano</field>
 <field name="city">San Marino</field>
 
 <field name="country">San Marino</field>

@@ -12,11 +12,11 @@
 <field name="librettistSort">Seligmann, Adalbert Franz</field>
 <field name="librettist">Hans Christian Andersen</field>
 <field name="librettistSort">Andersen, Hans Christian</field>
-<field name="theater"/>
+
 <field name="city">Budapest</field>
-<field name="region"/>
+
 <field name="country">Hungary</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vagabund+und+Prinzessin+Ede+Poldini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

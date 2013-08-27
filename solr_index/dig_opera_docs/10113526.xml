@@ -12,11 +12,11 @@
 <field name="librettistSort">d'Arien, Bernhard Christoph</field>
 <field name="librettist">Jean-Jacques Rousseau</field>
 <field name="librettistSort">Rousseau, Jean-Jacques</field>
-<field name="theater"/>
+
 <field name="city">Flensburg</field>
 <field name="region">Schleswig-Holstein</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Doktor+Fausts+Liebgürtel+Karl+Hanke&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

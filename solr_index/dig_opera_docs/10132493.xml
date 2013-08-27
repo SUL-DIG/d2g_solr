@@ -7,7 +7,7 @@
 <field name="composer">Ignaz Walter</field>
 <field name="composerSort">Walter, Ignaz</field>
 <field name="year">1799</field>
-<field name="date">1799theaterNationaltheater</field>
+<field name="date">1799</field><field name="theater">Nationaltheater</field>
 <field name="city">Frankfurt</field>
 <field name="region">Hessen</field>
 <field name="country">Germany</field>

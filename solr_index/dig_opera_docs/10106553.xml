@@ -7,11 +7,11 @@
 <field name="composer">Antonio Coppola</field>
 <field name="composerSort">Coppola, Antonio</field>
 <field name="year">1825</field>
-<field name="date">1825theaterTeatro Comunale</field>
+<field name="date">1825</field><field name="theater">Teatro Comunale</field>
 <field name="city">Catania</field>
 <field name="region">Sicilia</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Destino+Antonio+Coppola&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

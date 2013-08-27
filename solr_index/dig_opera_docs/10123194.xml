@@ -14,7 +14,7 @@
 <field name="city">Little Rock</field>
 <field name="region">Arkansas</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=As+Long+as+a+Child+Remembers+Raymond+Pannell&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

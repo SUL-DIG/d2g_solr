@@ -14,7 +14,7 @@
 <field name="city">Tucson</field>
 <field name="region">Arizona</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Blue+Angel+Edward+Cameron+Garza&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

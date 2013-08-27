@@ -7,11 +7,11 @@
 <field name="composer">Jules August Demersseman</field>
 <field name="composerSort">Demersseman, Jules August</field>
 <field name="year">1859</field>
-<field name="date">1859theaterThéâtre des Folies-Nouvelles</field>
+<field name="date">1859</field><field name="theater">Théâtre des Folies-Nouvelles</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+princesse+Kaika+Jules+August+Demersseman&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

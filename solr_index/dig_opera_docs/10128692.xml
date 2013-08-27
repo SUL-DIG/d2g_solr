@@ -7,7 +7,7 @@
 <field name="composer">Étienne Scio</field>
 <field name="composerSort">Scio, Étienne</field>
 <field name="year">1791</field>
-<field name="date">1791theaterThéâtre Molière</field>
+<field name="date">1791</field><field name="theater">Théâtre Molière</field>
 <field name="city">Paris</field>
 
 <field name="country">France</field>

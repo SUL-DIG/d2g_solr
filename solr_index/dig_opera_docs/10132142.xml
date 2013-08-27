@@ -7,7 +7,7 @@
 <field name="composer">Sebastiano Vitalini</field>
 <field name="composerSort">Vitalini, Sebastiano</field>
 <field name="year">1888</field>
-<field name="date">1888theaterTeatro Mercadante</field>
+<field name="date">1888</field><field name="theater">Teatro Mercadante</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

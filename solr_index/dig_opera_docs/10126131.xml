@@ -12,11 +12,11 @@
 <field name="librettistSort">Blondelet, Charles</field>
 <field name="librettist">Félix Baumaine</field>
 <field name="librettistSort">Baumaine, Félix</field>
-<field name="theater"/>
+
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+ecosseuses+Tony+Rieffler&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

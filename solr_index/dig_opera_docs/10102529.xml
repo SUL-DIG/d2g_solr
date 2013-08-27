@@ -7,11 +7,11 @@
 <field name="composer">Moritz Bernard</field>
 <field name="composerSort">Bernard, Moritz</field>
 <field name="year">1842</field>
-<field name="date">1842theater</field>
+<field name="date">1842</field>
 <field name="city">St. Petersburg</field>
-<field name="region"/>
+
 <field name="country">Russia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Olga+pusskaya+sirota+La+fille+d'exilé+Moritz+Bernard&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

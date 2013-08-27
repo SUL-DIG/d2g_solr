@@ -7,7 +7,7 @@
 <field name="composer">Francesc Sánchez Gavagnach</field>
 <field name="composerSort">Gavagnach, Francesc Sánchez</field>
 <field name="year">1867</field>
-<field name="date">1867theaterGran Teatre del Liceu</field>
+<field name="date">1867</field><field name="theater">Gran Teatre del Liceu</field>
 <field name="city">Barcelona</field>
 <field name="region">Catalunya</field>
 <field name="country">Spain</field>

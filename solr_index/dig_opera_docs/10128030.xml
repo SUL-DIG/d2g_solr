@@ -7,7 +7,7 @@
 <field name="composer">Domenico Scarlatti</field>
 <field name="composerSort">Scarlatti, Domenico</field>
 <field name="year">1714</field>
-<field name="date">1714theaterPalazzo Colonna</field>
+<field name="date">1714</field><field name="theater">Palazzo Colonna</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

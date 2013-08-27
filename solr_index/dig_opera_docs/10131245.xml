@@ -7,7 +7,7 @@
 <field name="composer">Silvio Travaglia</field>
 <field name="composerSort">Travaglia, Silvio</field>
 <field name="year">1906</field>
-<field name="date">1906theaterTeatro Sociale</field>
+<field name="date">1906</field><field name="theater">Teatro Sociale</field>
 <field name="city">Monselice</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>

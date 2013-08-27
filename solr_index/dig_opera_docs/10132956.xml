@@ -7,7 +7,7 @@
 <field name="composer">Eugène Willent-Bordogni</field>
 <field name="composerSort">Willent-Bordogni, Eugène</field>
 <field name="year">1879</field>
-<field name="date">1879theaterThéâtre des Folies-Bergère</field>
+<field name="date">1879</field><field name="theater">Théâtre des Folies-Bergère</field>
 <field name="city">Paris</field>
 
 <field name="country">France</field>

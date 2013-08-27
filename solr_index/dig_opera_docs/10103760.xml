@@ -12,9 +12,9 @@
 <field name="librettistSort">Almaric, Eugène</field>
 <field name="theater">Théâtre Beaumarchais</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ça+brule!gare+aux+doigts+Hippolyte+Borssat&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

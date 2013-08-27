@@ -7,11 +7,11 @@
 <field name="composer">James Hewitt</field>
 <field name="composerSort">Hewitt, James</field>
 <field name="year">1823</field>
-<field name="date">1823theater</field>
+<field name="date">1823</field>
 <field name="city">Atlanta</field>
 <field name="region">Georgia</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Snow+Storm+James+Hewitt&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

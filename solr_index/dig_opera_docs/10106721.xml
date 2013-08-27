@@ -7,11 +7,11 @@
 <field name="composer">Antonio Cortona</field>
 <field name="composerSort">Cortona, Antonio</field>
 <field name="year">1729</field>
-<field name="date">1729theaterGrand-Théâtre</field>
+<field name="date">1729</field><field name="theater">Grand-Théâtre</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>
 <field name="country">Belgium</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Farnace+Antonio+Cortona&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

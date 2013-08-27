@@ -7,11 +7,11 @@
 <field name="composer">Giuseppe Mascia</field>
 <field name="composerSort">Mascia, Giuseppe</field>
 <field name="year">1835</field>
-<field name="date">1835theaterAccademia di San Severino</field>
+<field name="date">1835</field><field name="theater">Accademia di San Severino</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+rivali+generose+Giuseppe+Mascia&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

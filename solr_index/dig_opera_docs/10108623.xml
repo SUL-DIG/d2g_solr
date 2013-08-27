@@ -14,9 +14,9 @@
 <field name="librettistSort">Sholokhov, Mikhail Aleksandrovich</field>
 <field name="theater">Bol'shoy Teatr</field>
 <field name="city">Moscow</field>
-<field name="region"/>
+
 <field name="country">Russia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sud'ba+cheloveka+The+Fate+of+a+Man+Ivan+Ivanovich+Dzerzhinsky&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

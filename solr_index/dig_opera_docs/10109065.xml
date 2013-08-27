@@ -12,9 +12,9 @@
 <field name="librettistSort">Ekwueme, Laz</field>
 <field name="theater">National Theatre</field>
 <field name="city">Lagos</field>
-<field name="region"/>
+
 <field name="country">Nigeria</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Night+in+Bethlehem+Akin+Euba&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

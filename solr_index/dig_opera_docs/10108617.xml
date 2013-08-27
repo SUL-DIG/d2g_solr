@@ -14,9 +14,9 @@
 <field name="librettistSort">Ostrovsky, Aleksandr Nikolayevich</field>
 <field name="theater">House of Actors</field>
 <field name="city">Moscow</field>
-<field name="region"/>
+
 <field name="country">Russia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Groza+The+Storm+Ivan+Ivanovich+Dzerzhinsky&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

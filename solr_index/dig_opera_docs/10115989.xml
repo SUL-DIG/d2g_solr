@@ -10,11 +10,11 @@
 <field name="date">1902</field>
 <field name="librettist">Hermann Kirchner</field>
 <field name="librettistSort">Kirchner, Hermann</field>
-<field name="theater"/>
+
 <field name="city">Sibiu</field>
 <field name="region">Sibiu</field>
 <field name="country">Romania</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stephania+Hermann+Kirchner&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

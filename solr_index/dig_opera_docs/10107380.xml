@@ -7,11 +7,11 @@
 <field name="composer">[Isidore Cohen] Isidore De Lara</field>
 <field name="composerSort">Lara, [Isidore Cohen] Isidore De</field>
 <field name="year">1933</field>
-<field name="date">1933theaterMagyar Királyi Operaház</field>
+<field name="date">1933</field><field name="theater">Magyar Királyi Operaház</field>
 <field name="city">Budapest</field>
-<field name="region"/>
+
 <field name="country">Hungary</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+fehér+vilorlás+Le+voilier+blanc+Isidore+Cohen]+Isidore+De+Lara&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

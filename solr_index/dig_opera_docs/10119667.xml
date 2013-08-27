@@ -10,8 +10,8 @@
 <field name="date">1922</field>
 <field name="librettist">Renzo Massarani</field>
 <field name="librettistSort">Massarani, Renzo"</field>
-<field name="country"/>
-<field name="subgenre"/>
+
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Noi+due+Renzo+Massarani&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

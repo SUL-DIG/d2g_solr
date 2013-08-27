@@ -7,11 +7,11 @@
 <field name="composer">Giacomo Facco</field>
 <field name="composerSort">Facco, Giacomo</field>
 <field name="year">1710</field>
-<field name="date">1710theaterPiazza del Duomo</field>
+<field name="date">1710</field><field name="theater">Piazza del Duomo</field>
 <field name="city">Messina</field>
 <field name="region">Sicilia</field>
 <field name="country">Italy</field>
 <field name="subgenre">Serenata</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Augurio+di+vittorie+alla+Maestа+di+Filippo+V+Giacomo+Facco&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

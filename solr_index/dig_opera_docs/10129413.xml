@@ -7,7 +7,7 @@
 <field name="composer">Jean-Pierre Solié</field>
 <field name="composerSort">Solié, Jean-Pierre</field>
 <field name="year">1795</field>
-<field name="date">1795theaterComédie-Italienne</field>
+<field name="date">1795</field><field name="theater">Comédie-Italienne</field>
 <field name="city">Paris</field>
 
 <field name="country">France</field>

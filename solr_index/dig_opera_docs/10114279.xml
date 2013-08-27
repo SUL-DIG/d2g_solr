@@ -14,9 +14,9 @@
 <field name="librettistSort">Tregear, Edward</field>
 <field name="theater">Pollard Opera Company</field>
 <field name="city">Wellington</field>
-<field name="region"/>
+
 <field name="country">New Zealand</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tapu,+or+The+Tale+of+a+Maori+Pah+Alfred+Hill&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

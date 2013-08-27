@@ -7,7 +7,7 @@
 <field name="composer">Gabriel Schebek</field>
 <field name="composerSort">Schebek, Gabriel</field>
 <field name="year">1895</field>
-<field name="date">1895theaterNeue Ständische Theater</field>
+<field name="date">1895</field><field name="theater">Neue Ständische Theater</field>
 <field name="city">Linz</field>
 <field name="region">Oberösterreich</field>
 <field name="country">Austria</field>

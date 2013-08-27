@@ -7,11 +7,11 @@
 <field name="composer">Alphonse Pellet</field>
 <field name="composerSort">Pellet, Alphonse</field>
 <field name="year">1877</field>
-<field name="date">1877theaterThéâtre Municipal</field>
+<field name="date">1877</field><field name="theater">Théâtre Municipal</field>
 <field name="city">Nоmes</field>
 <field name="region">Gard</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sous+les+palmiers,+ou+La+fauvette+du+Tyrol+Alphonse+Pellet&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

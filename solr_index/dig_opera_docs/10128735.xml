@@ -7,7 +7,7 @@
 <field name="composer">Giuseppe Scolari</field>
 <field name="composerSort">Scolari, Giuseppe</field>
 <field name="year">1745</field>
-<field name="date">1745theaterTeatro Grimani di San Samuele</field>
+<field name="date">1745</field><field name="theater">Teatro Grimani di San Samuele</field>
 <field name="city">Venice</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>

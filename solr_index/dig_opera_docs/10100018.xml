@@ -7,11 +7,11 @@
 <field name="composer">Johann Christian Abeille</field>
 <field name="composerSort">Abeille, Johann Christian</field>
 <field name="year">1805</field>
-<field name="date">1805theaterHoftheater</field>
+<field name="date">1805</field><field name="theater">Hoftheater</field>
 <field name="city">Stuttgart</field>
 <field name="region">Baden-Württemberg</field>
 <field name="country">Germany</field>
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Hausmeister+Johann+Christian+Abeille&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

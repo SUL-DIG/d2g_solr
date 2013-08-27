@@ -7,7 +7,7 @@
 <field name="composer">Raimondo Rossi</field>
 <field name="composerSort">Rossi, Raimondo</field>
 <field name="year">1892</field>
-<field name="date">1892theaterTeatro della Fenice</field>
+<field name="date">1892</field><field name="theater">Teatro della Fenice</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

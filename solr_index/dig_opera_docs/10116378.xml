@@ -12,8 +12,8 @@
 <field name="librettistSort">Galitsky, Yakov</field>
 <field name="librettist">L. Cherkashinaya</field>
 <field name="librettistSort">Cherkashinaya, L."</field>
-<field name="country"/>
+
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pan-sabiyaka+Mr.+Bully+Klimenty+Arkad'yevich+Korchmaryov&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

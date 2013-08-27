@@ -14,7 +14,7 @@
 <field name="city">Canterbury</field>
 <field name="region">Kent</field>
 <field name="country">United Kingdom</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Boy+from+the+Catacombs+Alan+Ridout&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,7 +7,7 @@
 <field name="composer">Franz de Paula Roser</field>
 <field name="composerSort">Roser, Franz de Paula</field>
 <field name="year">1813</field>
-<field name="date">1813theaterTheater in der Leopoldstadt</field>
+<field name="date">1813</field><field name="theater">Theater in der Leopoldstadt</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

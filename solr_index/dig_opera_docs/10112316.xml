@@ -10,11 +10,11 @@
 <field name="date">1950</field>
 <field name="librettist">Johannes Kluenner</field>
 <field name="librettistSort">Kluenner, Johannes</field>
-<field name="theater"/>
+
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Odysseus+und+die+Sirenen+Theo+Goldberg&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

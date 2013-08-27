@@ -7,7 +7,7 @@
 <field name="composer">Gualtiero Sanelli</field>
 <field name="composerSort">Sanelli, Gualtiero</field>
 <field name="year">1838</field>
-<field name="date">1838theaterTeatro Pubblico</field>
+<field name="date">1838</field><field name="theater">Teatro Pubblico</field>
 <field name="city">Padua</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>

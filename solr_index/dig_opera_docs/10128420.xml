@@ -7,7 +7,7 @@
 <field name="composer">Fritz Schönhof</field>
 <field name="composerSort">Schönhof, Fritz</field>
 <field name="year">1914</field>
-<field name="date">1914theaterStadttheater</field>
+<field name="date">1914</field><field name="theater">Stadttheater</field>
 <field name="city">Chernivtsi</field>
 <field name="region">Chernivtsi Oblast</field>
 <field name="country">Ukraine</field>

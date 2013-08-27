@@ -10,11 +10,11 @@
 <field name="date">1879</field>
 <field name="librettist">Luigi Alpago Novello</field>
 <field name="librettistSort">Novello, Luigi Alpago</field>
-<field name="theater"/>
+
 <field name="city">Cison di Valmarino</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+burla+graziosa+Luigi+da+Broi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

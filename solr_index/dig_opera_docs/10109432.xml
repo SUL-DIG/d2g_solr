@@ -7,11 +7,11 @@
 <field name="composer">Eugène Feautrier</field>
 <field name="composerSort">Feautrier, Eugène</field>
 <field name="year">1886</field>
-<field name="date">1886theaterThéâtre Municipal</field>
+<field name="date">1886</field><field name="theater">Théâtre Municipal</field>
 <field name="city">Lorient</field>
 <field name="region">Morbihan</field>
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+mariage+dans+l'Olympie+Eugène+Feautrier&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

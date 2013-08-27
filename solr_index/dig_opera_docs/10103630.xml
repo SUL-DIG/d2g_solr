@@ -7,11 +7,11 @@
 <field name="composer">Giovanni Bononcini</field>
 <field name="composerSort">Bononcini, Giovanni</field>
 <field name="year">1699</field>
-<field name="date">1699theaterAugarten</field>
+<field name="date">1699</field><field name="theater">Augarten</field>
 <field name="city">Vienna</field>
-<field name="region"/>
+
 <field name="country">Austria</field>
 <field name="subgenre">Serenata</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+ritorno+d'Alessandro+Magno+dall'Indie+Giovanni+Bononcini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

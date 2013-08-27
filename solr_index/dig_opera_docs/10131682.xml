@@ -7,7 +7,7 @@
 <field name="composer">Pietro Vallini</field>
 <field name="composerSort">Vallini, Pietro</field>
 <field name="year">1894</field>
-<field name="date">1894theaterTeatro Costanzi</field>
+<field name="date">1894</field><field name="theater">Teatro Costanzi</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

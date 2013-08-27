@@ -16,7 +16,7 @@
 <field name="city">Cape Town</field>
 <field name="region">Western Cape</field>
 <field name="country">South Africa</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Pardoner's+Tale+Erik+Chisholm&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

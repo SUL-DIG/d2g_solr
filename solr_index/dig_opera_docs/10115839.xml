@@ -16,5 +16,5 @@
 <field name="country">Germany</field>
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Penelope,+oder+Des+Ulysses+anderer+Theil+Reinhard+Keiser&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -12,9 +12,9 @@
 <field name="librettistSort">Cherif, Cipriano Rivas</field>
 <field name="theater">Teatro Municipal</field>
 <field name="city">Santiago</field>
-<field name="region"/>
+
 <field name="country">Chile</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+sugestión+Pablo+Garrido&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

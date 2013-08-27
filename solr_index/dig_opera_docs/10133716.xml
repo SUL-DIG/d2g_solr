@@ -7,7 +7,7 @@
 <field name="composer">Alexander Tache Zissus</field>
 <field name="composerSort">Zissus, Alexander Tache</field>
 <field name="year">1861</field>
-<field name="date">1861theaterTeatrul National</field>
+<field name="date">1861</field><field name="theater">Teatrul National</field>
 <field name="city">Bucharest</field>
 
 <field name="country">Romania</field>

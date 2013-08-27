@@ -7,7 +7,7 @@
 <field name="composer">Benedikt Schack</field>
 <field name="composerSort">Schack, Benedikt</field>
 <field name="year">1795</field>
-<field name="date">1795theaterTheater in der Josefstadt</field>
+<field name="date">1795</field><field name="theater">Theater in der Josefstadt</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

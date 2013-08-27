@@ -7,7 +7,7 @@
 <field name="composer">Joseph-Nicolas-Pancrace Royer</field>
 <field name="composerSort">Royer, Joseph-Nicolas-Pancrace</field>
 <field name="year">1750</field>
-<field name="date">1750theaterThéâtre des Petits Cabinets</field>
+<field name="date">1750</field><field name="theater">Théâtre des Petits Cabinets</field>
 <field name="city">Versailles</field>
 <field name="region">Yvelines</field>
 <field name="country">France</field>

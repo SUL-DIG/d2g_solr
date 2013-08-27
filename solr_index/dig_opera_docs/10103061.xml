@@ -7,11 +7,11 @@
 <field name="composer">Arthur Homer Bird</field>
 <field name="composerSort">Bird, Arthur Homer</field>
 <field name="year">1897</field>
-<field name="date">1897theaterPrivate Performance</field>
+<field name="date">1897</field><field name="theater">Private Performance</field>
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daphne+Arthur+Homer+Bird&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

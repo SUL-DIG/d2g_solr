@@ -7,11 +7,11 @@
 <field name="composer">Maurice Favergeat</field>
 <field name="composerSort">Favergeat, Maurice</field>
 <field name="year">1913</field>
-<field name="date">1913theaterPalais d'Hiver</field>
+<field name="date">1913</field><field name="theater">Palais d'Hiver</field>
 <field name="city">Pau</field>
 <field name="region">Béarn</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Velléda+Maurice+Favergeat&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

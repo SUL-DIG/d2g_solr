@@ -7,7 +7,7 @@
 <field name="composer">Giacomo Tritto</field>
 <field name="composerSort">Tritto, Giacomo</field>
 <field name="year">1754</field>
-<field name="date">1754theaterTeatro dei Fiorentini</field>
+<field name="date">1754</field><field name="theater">Teatro dei Fiorentini</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

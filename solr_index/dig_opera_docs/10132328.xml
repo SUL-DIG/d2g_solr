@@ -7,7 +7,7 @@
 <field name="composer">James D. Vyner</field>
 <field name="composerSort">Vyner, James D.</field>
 <field name="year">1893</field>
-<field name="date">1893theaterOpera Comique Theatre</field>
+<field name="date">1893</field><field name="theater">Opera Comique Theatre</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

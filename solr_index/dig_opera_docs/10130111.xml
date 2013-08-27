@@ -7,7 +7,7 @@
 <field name="composer">Alfred Strasser</field>
 <field name="composerSort">Strasser, Alfred</field>
 <field name="year">1894</field>
-<field name="date">1894theaterRaimundtheater</field>
+<field name="date">1894</field><field name="theater">Raimundtheater</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

@@ -10,11 +10,11 @@
 <field name="date">1892</field>
 <field name="librettist">Settimo Pacchiano</field>
 <field name="librettistSort">Pacchiano, Settimo</field>
-<field name="theater"/>
+
 <field name="city">Pontedera</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oro+ed+amore+Giovanni+Falorni&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

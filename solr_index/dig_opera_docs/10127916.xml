@@ -7,7 +7,7 @@
 <field name="composer">Paolo Scalabrini</field>
 <field name="composerSort">Scalabrini, Paolo</field>
 <field name="year">1742</field>
-<field name="date">1742theaterTheater auf dem Tummelplatze</field>
+<field name="date">1742</field><field name="theater">Theater auf dem Tummelplatze</field>
 <field name="city">Graz</field>
 <field name="region">Steiermark</field>
 <field name="country">Austria</field>

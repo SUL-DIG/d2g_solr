@@ -7,7 +7,7 @@
 <field name="composer">Leonardo Vinci</field>
 <field name="composerSort">Vinci, Leonardo</field>
 <field name="year">1725</field>
-<field name="date">1725theaterTeatro San Bartolomeo</field>
+<field name="date">1725</field><field name="theater">Teatro San Bartolomeo</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

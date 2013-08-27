@@ -7,7 +7,7 @@
 <field name="composer">Pietro Terziani</field>
 <field name="composerSort">Terziani, Pietro</field>
 <field name="year">1804</field>
-<field name="date">1804theaterKärntnertortheater</field>
+<field name="date">1804</field><field name="theater">Kärntnertortheater</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

@@ -12,11 +12,11 @@
 <field name="librettistSort">Merhaut, Vladimír</field>
 <field name="librettist">Karel Moor</field>
 <field name="librettistSort">Moor, Karel</field>
-<field name="theater"/>
+
 <field name="city">Jaromerice</field>
 <field name="region">Jihomoravsky Kraj</field>
 <field name="country">Czech Republic</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vylet+pana+Broucka+do+mesice+Mr.+Broucek+Karel+Moor&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

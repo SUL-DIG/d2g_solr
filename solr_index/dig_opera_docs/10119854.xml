@@ -7,11 +7,11 @@
 <field name="composer">Ludwig Maurer</field>
 <field name="composerSort">Maurer, Ludwig</field>
 <field name="year">1815</field>
-<field name="date">1815theater</field>
+<field name="date">1815</field>
 <field name="city">St. Petersburg</field>
-<field name="region"/>
+
 <field name="country">Russia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amant+jaloux+Ludwig+Maurer&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,11 +7,11 @@
 <field name="composer">Frederick Kinsey Peile</field>
 <field name="composerSort">Peile, Frederick Kinsey</field>
 <field name="year">1895</field>
-<field name="date">1895theaterGaiety Theatre</field>
+<field name="date">1895</field><field name="theater">Gaiety Theatre</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=After+the+Ball+Frederick+Kinsey+Peile&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

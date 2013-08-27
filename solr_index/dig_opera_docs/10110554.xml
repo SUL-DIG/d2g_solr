@@ -10,11 +10,11 @@
 <field name="date">1778</field>
 <field name="librettist">J. Nuth</field>
 <field name="librettistSort">Nuth, J.</field>
-<field name="theater"/>
+
 <field name="city">Nuremberg</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+beste+Wahl+Joseph+Friebert&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

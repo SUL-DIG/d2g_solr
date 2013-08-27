@@ -7,11 +7,11 @@
 <field name="composer">Jean Frédéric Auguste Lemière de Corvey</field>
 <field name="composerSort">Corvey, Jean Frédéric Auguste Lemière de</field>
 <field name="year">1798</field>
-<field name="date">1798theaterThéâtre Molière</field>
+<field name="date">1798</field><field name="theater">Théâtre Molière</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+deux+orphelines+Jean+Frédéric+Auguste+Lemière+de+Corvey&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

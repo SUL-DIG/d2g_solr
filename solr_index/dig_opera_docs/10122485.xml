@@ -10,8 +10,8 @@
 <field name="date">1977</field>
 <field name="librettist">Stephen Oliver</field>
 <field name="librettistSort">Oliver, Stephen"</field>
-<field name="country"/>
-<field name="subgenre"/>
+
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Stable+Home+Stephen+Oliver&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

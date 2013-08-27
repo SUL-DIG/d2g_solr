@@ -7,7 +7,7 @@
 <field name="composer">Francesco Schira</field>
 <field name="composerSort">Schira, Francesco</field>
 <field name="year">1871</field>
-<field name="date">1871theaterSaint George's Hall</field>
+<field name="date">1871</field><field name="theater">Saint George's Hall</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

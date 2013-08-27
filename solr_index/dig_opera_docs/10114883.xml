@@ -10,11 +10,11 @@
 <field name="date">1803</field>
 <field name="librettist">Hans Karl Welser von Neunhof</field>
 <field name="librettistSort">Neunhof, Hans Karl Welser von</field>
-<field name="theater"/>
+
 <field name="city">Nuremberg</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Samaro+Johann+Siegmund+Huzler&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

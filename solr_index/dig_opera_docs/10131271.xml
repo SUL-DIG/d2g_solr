@@ -7,7 +7,7 @@
 <field name="composer">Vittorio Trento</field>
 <field name="composerSort">Trento, Vittorio</field>
 <field name="year">1807</field>
-<field name="date">1807theaterThéâtre de l'Amstelstraat</field>
+<field name="date">1807</field><field name="theater">Théâtre de l'Amstelstraat</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>
 <field name="country">Netherlands</field>

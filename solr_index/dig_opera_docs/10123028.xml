@@ -12,9 +12,9 @@
 <field name="librettistSort">Goldoni, Carlo</field>
 <field name="theater">"Kamennïy Ostrov, Kamennoostrovsky Palace"</field>
 <field name="city">St. Petersburg</field>
-<field name="region"/>
+
 <field name="country">Russia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+mondo+della+luna+Giovanni+Paisiello&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

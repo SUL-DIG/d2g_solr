@@ -7,11 +7,11 @@
 <field name="composer">Erich Mirsch-Riccius</field>
 <field name="composerSort">Mirsch-Riccius, Erich</field>
 <field name="year">1935</field>
-<field name="date">1935theaterBerlin Shortwave Radio (Kurzwellensender Berlin)</field>
+<field name="date">1935</field><field name="theater">Berlin Shortwave Radio (Kurzwellensender Berlin)</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Licht+Erich+Mirsch-Riccius&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

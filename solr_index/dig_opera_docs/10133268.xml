@@ -7,7 +7,7 @@
 <field name="composer">Benedetto Zabban</field>
 <field name="composerSort">Zabban, Benedetto</field>
 <field name="year">1858</field>
-<field name="date">1858theaterTeatro delle Muse</field>
+<field name="date">1858</field><field name="theater">Teatro delle Muse</field>
 <field name="city">Ancona</field>
 <field name="region">Marche</field>
 <field name="country">Italy</field>

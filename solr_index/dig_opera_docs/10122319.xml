@@ -14,7 +14,7 @@
 <field name="city">Milan</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rosa+di+Macchia+Elisabetta+Oddone&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

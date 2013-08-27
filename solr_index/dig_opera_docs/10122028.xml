@@ -7,11 +7,11 @@
 <field name="composer">Kenneth Newbern</field>
 <field name="composerSort">Newbern, Kenneth</field>
 <field name="year">1957</field>
-<field name="date">1957theaterCarl Fischer Hall</field>
+<field name="date">1957</field><field name="theater">Carl Fischer Hall</field>
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Armor+of+Life+Kenneth+Newbern&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

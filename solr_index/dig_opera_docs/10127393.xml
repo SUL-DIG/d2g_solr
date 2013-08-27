@@ -7,7 +7,7 @@
 <field name="composer">Alessandro Sala</field>
 <field name="composerSort">Sala, Alessandro</field>
 <field name="year">1857</field>
-<field name="date">1857theaterTeatro Filarmonico</field>
+<field name="date">1857</field><field name="theater">Teatro Filarmonico</field>
 <field name="city">Verona</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>

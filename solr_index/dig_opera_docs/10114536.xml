@@ -14,7 +14,7 @@
 <field name="city">Warrensburg</field>
 <field name="region">Missouri</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Day+in+the+Death+of+Stephen+Voltov+David+Holsinger&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

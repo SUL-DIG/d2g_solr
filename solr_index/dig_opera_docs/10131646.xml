@@ -7,7 +7,7 @@
 <field name="composer">Niccolò Valenti</field>
 <field name="composerSort">Valenti, Niccolò</field>
 <field name="year">1751</field>
-<field name="date">1751theaterTeatro di via del Cocomero</field>
+<field name="date">1751</field><field name="theater">Teatro di via del Cocomero</field>
 <field name="city">Florence</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>

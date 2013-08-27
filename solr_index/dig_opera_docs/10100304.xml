@@ -10,11 +10,11 @@
 <field name="date">1840</field>
 <field name="librettist">Graf Ulbridge</field>
 <field name="librettistSort">Ulbridge, Graf</field>
-<field name="theater"/>
+
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hedwig+von+Linden+Albert,+Prince-Regent+of+England&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

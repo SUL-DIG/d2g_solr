@@ -7,11 +7,11 @@
 <field name="composer">James A. Butterfield</field>
 <field name="composerSort">Butterfield, James A.</field>
 <field name="year">1872</field>
-<field name="date">1872theater</field>
+<field name="date">1872</field>
 <field name="city">Fort Wayne</field>
 <field name="region">Indiana</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ruth+the+Gleaner+James+A.+Butterfield&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

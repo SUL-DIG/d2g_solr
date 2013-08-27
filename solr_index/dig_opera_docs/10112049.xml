@@ -7,11 +7,11 @@
 <field name="composer">Rocco di Giovanni</field>
 <field name="composerSort">Giovanni, Rocco di</field>
 <field name="year">1955</field>
-<field name="date">1955theater"Community Opera, Brooklyn Museum"</field>
+<field name="date">1955</field><field name="theater">"Community Opera, Brooklyn Museum"</field>
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Medea+Rocco+di+Giovanni&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

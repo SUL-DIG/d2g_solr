@@ -7,11 +7,11 @@
 <field name="composer">Luigi Gordigiani</field>
 <field name="composerSort">Gordigiani, Luigi</field>
 <field name="year">1843</field>
-<field name="date">1843theaterTeatro Leopoldo</field>
+<field name="date">1843</field><field name="theater">Teatro Leopoldo</field>
 <field name="city">Florence</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+ciarlatani+Luigi+Gordigiani&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

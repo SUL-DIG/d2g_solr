@@ -7,7 +7,7 @@
 <field name="composer">Alessandro Scarlatti</field>
 <field name="composerSort">Scarlatti, Alessandro</field>
 <field name="year">1719</field>
-<field name="date">1719theaterTeatro Capranica</field>
+<field name="date">1719</field><field name="theater">Teatro Capranica</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

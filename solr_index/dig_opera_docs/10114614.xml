@@ -14,7 +14,7 @@
 <field name="city">Stroud</field>
 <field name="region">Gloucestershire</field>
 <field name="country">United Kingdom</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rich+Man,+Poor+Man,+Beggar+Man,+Saint+Antony+Hopkins&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

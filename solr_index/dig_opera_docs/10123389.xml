@@ -14,9 +14,9 @@
 <field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
 <field name="theater">Vol'nïy Teatr</field>
 <field name="city">St. Petersburg</field>
-<field name="region"/>
+
 <field name="country">Russia</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Skupoy+The+Miser+Visily+Alekseyevich+Paskevich&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

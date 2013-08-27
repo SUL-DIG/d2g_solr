@@ -10,11 +10,11 @@
 <field name="date">1865</field>
 <field name="librettist">G. Messels</field>
 <field name="librettistSort">Messels, G.</field>
-<field name="theater"/>
+
 <field name="city">Kortrijk</field>
 <field name="region">West Flaanderen</field>
 <field name="country">Belgium</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Roland,+ou+La+bataille+de+Courtrai+-1302+François+van+Avermaete&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

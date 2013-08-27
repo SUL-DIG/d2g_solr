@@ -10,11 +10,11 @@
 <field name="date">1924</field>
 <field name="librettist">Ion Dan</field>
 <field name="librettistSort">Dan, Ion</field>
-<field name="theater"/>
+
 <field name="city">Cluj-Napoca</field>
 <field name="region">Cluj</field>
 <field name="country">Romania</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fat+Frumos+Hermann+Klee&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

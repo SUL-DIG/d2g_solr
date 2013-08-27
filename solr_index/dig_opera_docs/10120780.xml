@@ -7,11 +7,11 @@
 <field name="composer">Karel Miry</field>
 <field name="composerSort">Miry, Karel</field>
 <field name="year">1866</field>
-<field name="date">1866theaterMinard's Schouwburg</field>
+<field name="date">1866</field><field name="theater">Minard's Schouwburg</field>
 <field name="city">Ghent</field>
 <field name="region">Flaanderen</field>
 <field name="country">Belgium</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=De+occasie+maakt+den+dief+Karel+Miry&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

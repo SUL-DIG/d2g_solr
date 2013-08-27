@@ -7,11 +7,11 @@
 <field name="composer">Gaetano Dalla Baratta</field>
 <field name="composerSort">Dalla Baratta, Gaetano</field>
 <field name="year">1869</field>
-<field name="date">1869theaterTeatro Nuovo</field>
+<field name="date">1869</field><field name="theater">Teatro Nuovo</field>
 <field name="city">Padua</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+avventure+di+un+poeta+Gaetano+Dalla+Baratta&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

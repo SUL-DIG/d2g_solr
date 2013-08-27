@@ -7,7 +7,7 @@
 <field name="composer">H. Schrempel</field>
 <field name="composerSort">Schrempel, H.</field>
 <field name="year">1911</field>
-<field name="date">1911theaterNeues Operetten-Theater</field>
+<field name="date">1911</field><field name="theater">Neues Operetten-Theater</field>
 <field name="city">Brunswick</field>
 <field name="region">Niedersachsen</field>
 <field name="country">Germany</field>

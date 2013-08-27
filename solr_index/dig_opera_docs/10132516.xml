@@ -7,7 +7,7 @@
 <field name="composer">Matthew Ward</field>
 <field name="composerSort">Ward, Matthew</field>
 <field name="year">1982</field>
-<field name="date">1982theaterGolden Fleece Ltd.</field>
+<field name="date">1982</field><field name="theater">Golden Fleece Ltd.</field>
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>

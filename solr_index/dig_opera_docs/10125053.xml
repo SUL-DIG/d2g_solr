@@ -10,11 +10,11 @@
 <field name="date">1787</field>
 <field name="librettist">Giovanni Muzzarelli Brusantini</field>
 <field name="librettistSort">Brusantini, Giovanni Muzzarelli</field>
-<field name="theater"/>
+
 <field name="city">Ferrara</field>
 <field name="region">Emilia-Romagna</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Aminta+Alessio+Prati&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

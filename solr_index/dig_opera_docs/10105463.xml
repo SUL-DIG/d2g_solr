@@ -7,11 +7,11 @@
 <field name="composer">Ambrogio Centolani</field>
 <field name="composerSort">Centolani, Ambrogio</field>
 <field name="year">1867</field>
-<field name="date">1867theaterTeatro Rossini</field>
+<field name="date">1867</field><field name="theater">Teatro Rossini</field>
 <field name="city">Lugo</field>
 <field name="region">Emilia-Romagna</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Isabella+Orsini+Ambrogio+Centolani&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

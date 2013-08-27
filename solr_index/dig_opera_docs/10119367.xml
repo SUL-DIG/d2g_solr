@@ -7,11 +7,11 @@
 <field name="composer">Gaetano Marinelli</field>
 <field name="composerSort">Marinelli, Gaetano</field>
 <field name="year">1810</field>
-<field name="date">1810theaterTeatro Carcano</field>
+<field name="date">1810</field><field name="theater">Teatro Carcano</field>
 <field name="city">Milan</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+quattro+rivali+in+amore+Gaetano+Marinelli&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

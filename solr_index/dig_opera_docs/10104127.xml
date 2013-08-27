@@ -7,11 +7,11 @@
 <field name="composer">Auguste de Bridiers</field>
 <field name="composerSort">Bridiers, Auguste de</field>
 <field name="year">1872</field>
-<field name="date">1872theaterThéâtre Municipal</field>
+<field name="date">1872</field><field name="theater">Théâtre Municipal</field>
 <field name="city">Poitiers</field>
 <field name="region">Vienne</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Carlotta+la+sirène+Auguste+de+Bridiers&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

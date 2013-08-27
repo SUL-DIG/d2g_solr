@@ -7,7 +7,7 @@
 <field name="composer">Giacomo Rust</field>
 <field name="composerSort">Rust, Giacomo</field>
 <field name="year">1781</field>
-<field name="date">1781theaterTeatro Ducale</field>
+<field name="date">1781</field><field name="theater">Teatro Ducale</field>
 <field name="city">Parma</field>
 <field name="region">Emilia-Romagna</field>
 <field name="country">Italy</field>

@@ -7,11 +7,11 @@
 <field name="composer">Jin Xiang</field>
 <field name="composerSort">Xiang, Jin</field>
 <field name="year">1994</field>
-<field name="date">1994theaterShanghai Opera Company</field>
+<field name="date">1994</field><field name="theater">Shanghai Opera Company</field>
 <field name="city">Shanghai</field>
-<field name="region"/>
+
 <field name="country">China</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+King+of+Chu+Jin+Xiang&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

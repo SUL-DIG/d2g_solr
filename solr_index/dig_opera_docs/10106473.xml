@@ -7,11 +7,11 @@
 <field name="composer">Carlo Conti</field>
 <field name="composerSort">Conti, Carlo</field>
 <field name="year">1819</field>
-<field name="date">1819theaterConservatorio di San Sebastiano</field>
+<field name="date">1819</field><field name="theater">Conservatorio di San Sebastiano</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+truppe+in+Franconia+Carlo+Conti&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,11 +7,11 @@
 <field name="composer">Glen Mead</field>
 <field name="composerSort">Mead, Glen</field>
 <field name="year">1980</field>
-<field name="date">1980theaterRoosevelt University</field>
+<field name="date">1980</field><field name="theater">Roosevelt University</field>
 <field name="city">Chicago</field>
 <field name="region">Illinois</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=My+Son+the+Doctor+Glen+Mead&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

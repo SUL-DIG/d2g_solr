@@ -14,7 +14,7 @@
 <field name="city">Saskatoon</field>
 <field name="region">Saskatchewan</field>
 <field name="country">Canada</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Lay+of+Thryme+Jack+Behrens&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

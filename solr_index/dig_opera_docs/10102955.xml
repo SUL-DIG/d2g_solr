@@ -12,11 +12,11 @@
 <field name="librettistSort">Bauer, Franz</field>
 <field name="librettist">Franz Pocci</field>
 <field name="librettistSort">Pocci, Franz</field>
-<field name="theater"/>
+
 <field name="city">Nuremberg</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Herr+von+Larifari+Franz+Biebl&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

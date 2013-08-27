@@ -14,7 +14,7 @@
 <field name="city">Fontainebleau</field>
 <field name="region">Seine-et-Marne</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Azémia,+ou+Le+nouveau+Robinson+Nicolas-Marie+Dalayrac&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

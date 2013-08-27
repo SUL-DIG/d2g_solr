@@ -7,7 +7,7 @@
 <field name="composer">Salvatore Sciarra</field>
 <field name="composerSort">Sciarra, Salvatore</field>
 <field name="year">1889</field>
-<field name="date">1889theaterSalon</field>
+<field name="date">1889</field><field name="theater">Salon</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

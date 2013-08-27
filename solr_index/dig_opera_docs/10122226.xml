@@ -14,7 +14,7 @@
 <field name="city">Jalasjärvi</field>
 <field name="region">Länsi-Suomi</field>
 <field name="country">Finland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Uudet+veisuut+New+Hymns+Veikko+Norontaus&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,7 +7,7 @@
 <field name="composer">Domenico Natale Sarro</field>
 <field name="composerSort">Sarro, Domenico Natale</field>
 <field name="year">1739</field>
-<field name="date">1739theaterPalazzo Reale</field>
+<field name="date">1739</field><field name="theater">Palazzo Reale</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

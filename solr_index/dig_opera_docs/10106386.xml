@@ -10,11 +10,11 @@
 <field name="date">1753</field>
 <field name="librettist">Domenico Macchia</field>
 <field name="librettistSort">Macchia, Domenico</field>
-<field name="theater"/>
+
 <field name="city">Madrid</field>
 <field name="region">Madrid</field>
 <field name="country">Spain</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+cantarina+Nicola+Conforto&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

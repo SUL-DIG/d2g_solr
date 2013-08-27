@@ -7,7 +7,7 @@
 <field name="composer">Carlo Sebastiani</field>
 <field name="composerSort">Sebastiani, Carlo</field>
 <field name="year">1897</field>
-<field name="date">1897theaterTeatro Bellini</field>
+<field name="date">1897</field><field name="theater">Teatro Bellini</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

@@ -7,7 +7,7 @@
 <field name="composer">Pietro Torri</field>
 <field name="composerSort">Torri, Pietro</field>
 <field name="year">1721</field>
-<field name="date">1721theaterOpernhaus am Salvatorplatz</field>
+<field name="date">1721</field><field name="theater">Opernhaus am Salvatorplatz</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>

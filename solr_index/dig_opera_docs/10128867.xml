@@ -7,7 +7,7 @@
 <field name="composer">Giuseppe Sellitto</field>
 <field name="composerSort">Sellitto, Giuseppe</field>
 <field name="year">1750</field>
-<field name="date">1750theaterTeatro dei Fiorentini</field>
+<field name="date">1750</field><field name="theater">Teatro dei Fiorentini</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

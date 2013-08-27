@@ -10,8 +10,8 @@
 <field name="date">1940</field>
 <field name="librettist">[Walter Hoffmann] Walter Kolbenhoff</field>
 <field name="librettistSort">Kolbenhoff, Walter [Walter Hoffmann]"</field>
-<field name="country"/>
-<field name="subgenre"/>
+
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fanden+og+borgmestern+The+Devil+and+the+Mayor+Vagn+Holmboe&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

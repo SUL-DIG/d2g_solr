@@ -7,7 +7,7 @@
 <field name="composer">Charles Solié</field>
 <field name="composerSort">Solié, Charles</field>
 <field name="year">1885</field>
-<field name="date">1885theaterThéâtre Municipal</field>
+<field name="date">1885</field><field name="theater">Théâtre Municipal</field>
 <field name="city">Nantes</field>
 <field name="region">Loire-Atlantique</field>
 <field name="country">France</field>

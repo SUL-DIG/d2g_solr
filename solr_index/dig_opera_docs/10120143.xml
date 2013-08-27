@@ -7,11 +7,11 @@
 <field name="composer">Antoine Meissonier</field>
 <field name="composerSort">Meissonier, Antoine</field>
 <field name="year">1804</field>
-<field name="date">1804theaterPrivate Performance</field>
+<field name="date">1804</field><field name="theater">Private Performance</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+donna+corretta+Antoine+Meissonier&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

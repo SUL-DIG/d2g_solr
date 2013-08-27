@@ -7,7 +7,7 @@
 <field name="composer">Louis Joseph Saint-Amans</field>
 <field name="composerSort">Saint-Amans, Louis Joseph</field>
 <field name="year">1778</field>
-<field name="date">1778theaterThéâtre-Royal de la Monnaie</field>
+<field name="date">1778</field><field name="theater">Théâtre-Royal de la Monnaie</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>
 <field name="country">Belgium</field>

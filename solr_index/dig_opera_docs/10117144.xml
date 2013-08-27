@@ -10,11 +10,11 @@
 <field name="date">1966</field>
 <field name="librettist">Hans Carl Artmann</field>
 <field name="librettistSort">Artmann, Hans Carl</field>
-<field name="theater"/>
+
 <field name="city">Vienna</field>
-<field name="region"/>
+
 <field name="country">Austria</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Knabe+mit+dem+Brokat+Gerhard+Lampersberg&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,7 +7,7 @@
 <field name="composer">Franz Joseph Leonz Meyer von Schauensee</field>
 <field name="composerSort">Schauensee, Franz Joseph Leonz Meyer von</field>
 <field name="year">1773</field>
-<field name="date">1773theaterKloster-Theater</field>
+<field name="date">1773</field><field name="theater">Kloster-Theater</field>
 <field name="city">Lucerne</field>
 <field name="region">Luzern</field>
 <field name="country">Switzerland</field>

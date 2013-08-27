@@ -7,7 +7,7 @@
 <field name="composer">Franz Seydelmann</field>
 <field name="composerSort">Seydelmann, Franz</field>
 <field name="year">1784</field>
-<field name="date">1784theaterSchloss Friedenstein</field>
+<field name="date">1784</field><field name="theater">Schloss Friedenstein</field>
 <field name="city">Gotha</field>
 <field name="region">Thüringen</field>
 <field name="country">Germany</field>

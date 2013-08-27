@@ -10,11 +10,11 @@
 <field name="date">1698</field>
 <field name="librettist">Giuseppe Fianello</field>
 <field name="librettistSort">Fianello, Giuseppe</field>
-<field name="theater"/>
+
 <field name="city">Venice</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+finto+Esau,+overo+Gli+odii+fraterni+Antonio+Pacelli&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -7,7 +7,7 @@
 <field name="composer">Giuseppe Sarti</field>
 <field name="composerSort">Sarti, Giuseppe</field>
 <field name="year">1777</field>
-<field name="date">1777theaterTeatro di via della Torre Argentina</field>
+<field name="date">1777</field><field name="theater">Teatro di via della Torre Argentina</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

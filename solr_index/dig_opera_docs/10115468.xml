@@ -10,11 +10,11 @@
 <field name="date">1898</field>
 <field name="librettist">André Lenéka</field>
 <field name="librettistSort">Lenéka, André</field>
-<field name="theater"/>
+
 <field name="city">Rouen</field>
 <field name="region">Seine-Maritime</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gaetane+Édouard+Kaan&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

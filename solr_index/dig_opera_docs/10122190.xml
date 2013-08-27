@@ -15,7 +15,7 @@ Theater</field>
 <field name="city">Linz</field>
 <field name="region">Oberösterreich</field>
 <field name="country">Austria</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Francesca+von+Rimini+Eugen+Nordal&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

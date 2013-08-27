@@ -7,7 +7,7 @@
 <field name="composer">Daniel Gottlob Treu</field>
 <field name="composerSort">Treu, Daniel Gottlob</field>
 <field name="year">1726</field>
-<field name="date">1726theaterTheater im Ballhause</field>
+<field name="date">1726</field><field name="theater">Theater im Ballhause</field>
 <field name="city">Wroclaw</field>
 <field name="region">Dolnoslaskie</field>
 <field name="country">Poland</field>

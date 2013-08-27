@@ -7,11 +7,11 @@
 <field name="composer">Julius Ozier</field>
 <field name="composerSort">Ozier, Julius</field>
 <field name="year">1928</field>
-<field name="date">1928theaterYoung Mens' Hebrew Association Auditorium</field>
+<field name="date">1928</field><field name="theater">Young Mens' Hebrew Association Auditorium</field>
 <field name="city">Kansas City</field>
 <field name="region">Missouri</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Bride+of+Bagdad+Julius+Ozier&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

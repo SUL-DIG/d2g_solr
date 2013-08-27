@@ -7,11 +7,11 @@
 <field name="composer">Angelo Medori</field>
 <field name="composerSort">Medori, Angelo</field>
 <field name="year">1887</field>
-<field name="date">1887theaterTeatro dell'Unione</field>
+<field name="date">1887</field><field name="theater">Teatro dell'Unione</field>
 <field name="city">Viterbo</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Galiana+Angelo+Medori&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

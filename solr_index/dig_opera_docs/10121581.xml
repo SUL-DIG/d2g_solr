@@ -7,11 +7,11 @@
 <field name="composer">Wenzel Müller</field>
 <field name="composerSort">Müller, Wenzel</field>
 <field name="year">1806</field>
-<field name="date">1806theaterTheater in der Leopoldstadt</field>
+<field name="date">1806</field><field name="theater">Theater in der Leopoldstadt</field>
 <field name="city">Vienna</field>
-<field name="region"/>
+
 <field name="country">Austria</field>
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Körbchen+aus+der+Türkei+Wenzel+Müller&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

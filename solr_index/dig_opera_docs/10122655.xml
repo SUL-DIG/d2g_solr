@@ -7,11 +7,11 @@
 <field name="composer">Gennaro Orsino</field>
 <field name="composerSort">Orsino, Gennaro</field>
 <field name="year">1690</field>
-<field name="date">1690theaterCollegio de' Nobili</field>
+<field name="date">1690</field><field name="theater">Collegio de' Nobili</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Pandora+Gennaro+Orsino&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

@@ -12,9 +12,9 @@
 <field name="librettistSort">Edda, Elder</field>
 <field name="theater">National Theater</field>
 <field name="city">Reykjavik</field>
-<field name="region"/>
+
 <field name="country">Iceland</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Thrymskvioa+The+Lay+of+Thrym+Jón+Ásgeirsson&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

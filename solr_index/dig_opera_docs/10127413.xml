@@ -7,7 +7,7 @@
 <field name="composer">Pietro Pompeo Sales</field>
 <field name="composerSort">Sales, Pietro Pompeo</field>
 <field name="year">1767</field>
-<field name="date">1767theaterTeatro Nuovo</field>
+<field name="date">1767</field><field name="theater">Teatro Nuovo</field>
 <field name="city">Padua</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>

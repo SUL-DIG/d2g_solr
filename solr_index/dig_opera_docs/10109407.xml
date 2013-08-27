@@ -7,11 +7,11 @@
 <field name="composer">Edgard Favart</field>
 <field name="composerSort">Favart, Edgard</field>
 <field name="year">1896</field>
-<field name="date">1896theaterThéâtre Municipal</field>
+<field name="date">1896</field><field name="theater">Théâtre Municipal</field>
 <field name="city">Toulon</field>
 <field name="region">Var</field>
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Monsieur+et+Madame+Fourneautin+Edgard+Favart&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

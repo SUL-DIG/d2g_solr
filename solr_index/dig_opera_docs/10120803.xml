@@ -7,11 +7,11 @@
 <field name="composer">Robert Mitchell</field>
 <field name="composerSort">Mitchell, Robert</field>
 <field name="year">1980</field>
-<field name="date">1980theaterGolden Fleece Ltd.</field>
+<field name="date">1980</field><field name="theater">Golden Fleece Ltd.</field>
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Examination+Robert+Mitchell&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

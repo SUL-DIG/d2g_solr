@@ -10,11 +10,11 @@
 <field name="date">1903</field>
 <field name="librettist">Sándor Ratkay</field>
 <field name="librettistSort">Ratkay, Sándor</field>
-<field name="theater"/>
+
 <field name="city">Budapest</field>
-<field name="region"/>
+
 <field name="country">Hungary</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Udvari+Kaland+György+Garay&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

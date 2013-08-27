@@ -7,11 +7,11 @@
 <field name="composer">Yon-taek Hong</field>
 <field name="composerSort">Hong, Yon-taek</field>
 <field name="year">1975</field>
-<field name="date">1975theaterKorean National Opera</field>
+<field name="date">1975</field><field name="theater">Korean National Opera</field>
 <field name="city">Seoul</field>
-<field name="region"/>
+
 <field name="country">Korea</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nongae+Yon-taek+Hong&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

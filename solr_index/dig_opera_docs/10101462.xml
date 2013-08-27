@@ -7,11 +7,11 @@
 <field name="composer">Alessandro Aumuller</field>
 <field name="composerSort">Aumuller, Alessandro</field>
 <field name="year">1871</field>
-<field name="date">1871theaterTeatro Sociale</field>
+<field name="date">1871</field><field name="theater">Teatro Sociale</field>
 <field name="city">Isola della Scala</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cristina+di+Nyon+Alessandro+Aumuller&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

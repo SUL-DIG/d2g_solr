@@ -7,7 +7,7 @@
 <field name="composer">Gilbert Shirley</field>
 <field name="composerSort">Shirley, Gilbert</field>
 <field name="year">1886</field>
-<field name="date">1886theaterPublic Hall</field>
+<field name="date">1886</field><field name="theater">Public Hall</field>
 <field name="city">Clacton-on-Sea</field>
 <field name="region">Essex</field>
 <field name="country">United Kingdom</field>

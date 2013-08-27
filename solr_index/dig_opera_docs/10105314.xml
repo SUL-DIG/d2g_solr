@@ -7,11 +7,11 @@
 <field name="composer">Gioseffo Catrufo</field>
 <field name="composerSort">Catrufo, Gioseffo</field>
 <field name="year">1817</field>
-<field name="date">1817theaterOpéra-Comique</field>
+<field name="date">1817</field><field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+caprice+d'une+jolie+femme+Gioseffo+Catrufo&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

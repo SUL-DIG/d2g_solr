@@ -7,7 +7,7 @@
 <field name="composer">Alyaksey Yawlampavich Turankow</field>
 <field name="composerSort">Turankow, Alyaksey Yawlampavich</field>
 <field name="year">1940</field>
-<field name="date">1940theaterFestival of Belarusian Art</field>
+<field name="date">1940</field><field name="theater">Festival of Belarusian Art</field>
 <field name="city">Moscow</field>
 
 <field name="country">Russia</field>

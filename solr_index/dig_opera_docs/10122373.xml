@@ -12,9 +12,9 @@
 <field name="librettistSort">Moinaux, Jules</field>
 <field name="theater">Théâtre des Bouffes-Parisiens</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+géorgiennes+Jacques+Offenbach&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

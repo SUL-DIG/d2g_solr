@@ -7,7 +7,7 @@
 <field name="composer">João Cordeiro da Silva</field>
 <field name="composerSort">Silva, João Cordeiro da</field>
 <field name="year">1787</field>
-<field name="date">1787theaterPalácio de Ajuda</field>
+<field name="date">1787</field><field name="theater">Palácio de Ajuda</field>
 <field name="city">Lisbon</field>
 <field name="region">Lisboa</field>
 <field name="country">Portugal</field>

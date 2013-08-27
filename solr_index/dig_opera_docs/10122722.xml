@@ -7,11 +7,11 @@
 <field name="composer">Ernst Julius Otto</field>
 <field name="composerSort">Otto, Ernst Julius</field>
 <field name="year">1838</field>
-<field name="date">1838theaterKleines Hoftheater</field>
+<field name="date">1838</field><field name="theater">Kleines Hoftheater</field>
 <field name="city">Dresden</field>
 <field name="region">Sachsen</field>
 <field name="country">Germany</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Schloss+am+Rhein+Ernst+Julius+Otto&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

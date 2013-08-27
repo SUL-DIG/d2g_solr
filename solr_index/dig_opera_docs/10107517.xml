@@ -7,11 +7,11 @@
 <field name="composer">Jules Denefve</field>
 <field name="composerSort">Denefve, Jules</field>
 <field name="year">1845</field>
-<field name="date">1845theater</field>
+<field name="date">1845</field>
 <field name="city">Mons</field>
 <field name="region">Hainault</field>
 <field name="country">Belgium</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'échevin+Brassart+Jules+Denefve&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

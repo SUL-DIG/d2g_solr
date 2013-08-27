@@ -7,11 +7,11 @@
 <field name="composer">Daniel Dal Barba</field>
 <field name="composerSort">Dal Barba, Daniel</field>
 <field name="year">1748</field>
-<field name="date">1748theaterSeminario</field>
+<field name="date">1748</field><field name="theater">Seminario</field>
 <field name="city">Verona</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
 <field name="subgenre">Intermezzo</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lo+starnuto+d'Ercole+Daniel+Dal+Barba&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

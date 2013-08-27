@@ -7,7 +7,7 @@
 <field name="composer">Johann Georg Schinn</field>
 <field name="composerSort">Schinn, Johann Georg</field>
 <field name="year">1811</field>
-<field name="date">1811theaterStadttheater</field>
+<field name="date">1811</field><field name="theater">Stadttheater</field>
 <field name="city">Würzburg</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>

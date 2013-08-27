@@ -10,11 +10,11 @@
 <field name="date">1820</field>
 <field name="librettist">Andrea Nencini</field>
 <field name="librettistSort">Nencini, Andrea</field>
-<field name="theater"/>
+
 <field name="city">Urbino</field>
 <field name="region">Marche</field>
 <field name="country">Italy</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'errore+fortunato+Andrea+Nencini&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

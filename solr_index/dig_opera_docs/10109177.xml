@@ -10,11 +10,11 @@
 <field name="date">1797</field>
 <field name="librettist">Antonio Piazza</field>
 <field name="librettistSort">Piazza, Antonio</field>
-<field name="theater"/>
+
 <field name="city">Casale Monferrato</field>
 <field name="region">Piemonte</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Impresario+in+rovina+Vincenzo+Fabrizi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

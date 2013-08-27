@@ -7,7 +7,7 @@
 <field name="composer">Wilhelm Spazek</field>
 <field name="composerSort">Spazek, Wilhelm</field>
 <field name="year">1886</field>
-<field name="date">1886theaterStadttheater</field>
+<field name="date">1886</field><field name="theater">Stadttheater</field>
 <field name="city">Olomouc</field>
 <field name="region">Severomoravsky Kraj</field>
 <field name="country">Czech Republic</field>

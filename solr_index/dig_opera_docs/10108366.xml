@@ -10,11 +10,11 @@
 <field name="date">1900</field>
 <field name="librettist">Cesare Gabardini</field>
 <field name="librettistSort">Gabardini, Cesare</field>
-<field name="theater"/>
+
 <field name="city">Valletta</field>
-<field name="region"/>
+
 <field name="country">Malta</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'osteria+della+Posta+Pietro+Duffau&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

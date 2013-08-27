@@ -7,7 +7,7 @@
 <field name="composer">Alberto Torrazza</field>
 <field name="composerSort">Torrazza, Alberto</field>
 <field name="year">1910</field>
-<field name="date">1910theaterPoliteama Verdi</field>
+<field name="date">1910</field><field name="theater">Politeama Verdi</field>
 <field name="city">Sestri Ponente</field>
 <field name="region">Liguria</field>
 <field name="country">Italy</field>

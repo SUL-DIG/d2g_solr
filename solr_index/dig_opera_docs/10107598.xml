@@ -10,11 +10,11 @@
 <field name="date">1711</field>
 <field name="librettist">Louise-Geneviève Gillot de Saintonge</field>
 <field name="librettistSort">Saintonge, Louise-Geneviève Gillot de</field>
-<field name="theater"/>
+
 <field name="city">Nancy</field>
 <field name="region">Meurthe-et-Moselle</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Diane+et+Endymion+Henry+Desmarets&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

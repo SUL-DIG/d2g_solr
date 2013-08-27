@@ -7,7 +7,7 @@
 <field name="composer">Eugen von Taund</field>
 <field name="composerSort">Taund, Eugen von</field>
 <field name="year">1890</field>
-<field name="date">1890theaterStadtparktheater</field>
+<field name="date">1890</field><field name="theater">Stadtparktheater</field>
 <field name="city">Graz</field>
 <field name="region">Steiermark</field>
 <field name="country">Austria</field>

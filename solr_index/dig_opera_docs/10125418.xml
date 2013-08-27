@@ -10,11 +10,11 @@
 <field name="date">1920</field>
 <field name="librettist">Miklós Radnai</field>
 <field name="librettistSort">Radnai, Miklós</field>
-<field name="theater"/>
+
 <field name="city">Budapest</field>
-<field name="region"/>
+
 <field name="country">Hungary</field>
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+drei+Herzen+Miklós+Radnai&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

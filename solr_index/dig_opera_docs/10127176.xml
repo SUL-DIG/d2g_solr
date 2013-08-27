@@ -7,7 +7,7 @@
 <field name="composer">Terje Rypdal</field>
 <field name="composerSort">Rypdal, Terje</field>
 <field name="year">1972</field>
-<field name="date">1972theaterHenie-Onstad Kunstsenter</field>
+<field name="date">1972</field><field name="theater">Henie-Onstad Kunstsenter</field>
 <field name="city">Høvikodden</field>
 <field name="region">Akershus</field>
 <field name="country">Norway</field>

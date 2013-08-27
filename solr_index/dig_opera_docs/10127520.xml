@@ -7,7 +7,7 @@
 <field name="composer">Giovanni Battista Sammartini</field>
 <field name="composerSort">Sammartini, Giovanni Battista</field>
 <field name="year">1734</field>
-<field name="date">1734theaterRegio Ducal Teatro</field>
+<field name="date">1734</field><field name="theater">Regio Ducal Teatro</field>
 <field name="city">Milan</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>

@@ -12,9 +12,9 @@
 <field name="librettistSort">Kirchlehner, Ferenc</field>
 <field name="theater">Városi Színház</field>
 <field name="city">Budapest</field>
-<field name="region"/>
+
 <field name="country">Hungary</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Morsinai+Erzsébet+Elizabeth+of+Morsina+György+Csásár&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

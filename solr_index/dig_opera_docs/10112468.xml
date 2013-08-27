@@ -12,9 +12,9 @@
 <field name="librettistSort">Rossi, Marino</field>
 <field name="theater">Collegio Belluzzi</field>
 <field name="city">San Marino</field>
-<field name="region"/>
+
 <field name="country">San Marino</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Raggio+di+sole+Giuliano+Gozi&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

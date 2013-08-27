@@ -12,9 +12,9 @@
 <field name="librettistSort">Duval, Georges [Claude Rieux]</field>
 <field name="theater">Théâtre du Palais-Royal</field>
 <field name="city">Paris</field>
-<field name="region"/>
+
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mademoiselle+'Nom+d'une+pipe'+Charles+Cuvillier&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

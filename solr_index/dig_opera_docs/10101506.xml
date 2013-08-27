@@ -10,11 +10,11 @@
 <field name="date">1945</field>
 <field name="librettist">Aaron Avshalomov</field>
 <field name="librettistSort">Avshalomov, Aaron</field>
-<field name="theater"/>
+
 <field name="city">Shanghai</field>
-<field name="region"/>
+
 <field name="country">China</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Great+Wall+Meng+Jianghu+Aaron+Avshalomov&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

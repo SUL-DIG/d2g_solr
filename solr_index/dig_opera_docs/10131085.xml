@@ -7,7 +7,7 @@
 <field name="composer">Carlo Tommasoni</field>
 <field name="composerSort">Tommasoni, Carlo</field>
 <field name="year">1816</field>
-<field name="date">1816theaterNuovo Teatro Accademico</field>
+<field name="date">1816</field><field name="theater">Nuovo Teatro Accademico</field>
 <field name="city">Bassano del Grappa</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>

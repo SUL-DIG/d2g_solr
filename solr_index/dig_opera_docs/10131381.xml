@@ -7,7 +7,7 @@
 <field name="composer">Giacomo Tritto</field>
 <field name="composerSort">Tritto, Giacomo</field>
 <field name="year">1786</field>
-<field name="date">1786theaterTeatro Valle</field>
+<field name="date">1786</field><field name="theater">Teatro Valle</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

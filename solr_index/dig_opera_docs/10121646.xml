@@ -7,11 +7,11 @@
 <field name="composer">Gaetano Muratori</field>
 <field name="composerSort">Muratori, Gaetano</field>
 <field name="year">1840</field>
-<field name="date">1840theaterConservatorio</field>
+<field name="date">1840</field><field name="theater">Conservatorio</field>
 <field name="city">Palermo</field>
 <field name="region">Sicilia</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+locandiere+conzonato+Gaetano+Muratori&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

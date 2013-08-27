@@ -7,7 +7,7 @@
 <field name="composer">Thomas Roseingrave</field>
 <field name="composerSort">Roseingrave, Thomas</field>
 <field name="year">1753</field>
-<field name="date">1753theaterFishamble Street Music Hall</field>
+<field name="date">1753</field><field name="theater">Fishamble Street Music Hall</field>
 <field name="city">Dublin</field>
 <field name="region">Leinster</field>
 <field name="country">Ireland</field>

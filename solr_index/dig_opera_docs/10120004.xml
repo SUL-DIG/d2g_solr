@@ -7,11 +7,11 @@
 <field name="composer">Raffaele Mazzetti</field>
 <field name="composerSort">Mazzetti, Raffaele</field>
 <field name="year">1843</field>
-<field name="date">1843theaterTeatro Pascolini</field>
+<field name="date">1843</field><field name="theater">Teatro Pascolini</field>
 <field name="city">Urbino</field>
 <field name="region">Marche</field>
 <field name="country">Italy</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marco+Visconti+Raffaele+Mazzetti&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

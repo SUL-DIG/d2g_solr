@@ -14,7 +14,7 @@
 <field name="city">Pleven</field>
 <field name="region">Lovech Oblast</field>
 <field name="country">Bulgaria</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ioannis+rex+Parashkev+Hadjiev&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

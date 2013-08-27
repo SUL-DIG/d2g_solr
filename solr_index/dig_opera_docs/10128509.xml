@@ -7,7 +7,7 @@
 <field name="composer">A. F. Schultze</field>
 <field name="composerSort">Schultze, A. F.</field>
 <field name="year">1828</field>
-<field name="date">1828theaterKönigstädtisches Theater</field>
+<field name="date">1828</field><field name="theater">Königstädtisches Theater</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>
 <field name="country">Germany</field>

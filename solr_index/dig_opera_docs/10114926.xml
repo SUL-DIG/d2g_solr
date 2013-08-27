@@ -7,11 +7,11 @@
 <field name="composer">Memrie Innerarity</field>
 <field name="composerSort">Innerarity, Memrie</field>
 <field name="year">1991</field>
-<field name="date">1991theaterGolden Fleece Ltd.</field>
+<field name="date">1991</field><field name="theater">Golden Fleece Ltd.</field>
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Flowers+from+the+Volcano+Memrie+Innerarity&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

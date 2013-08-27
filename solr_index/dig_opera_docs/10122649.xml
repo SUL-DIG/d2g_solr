@@ -14,7 +14,7 @@
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lola,+the+Belle+of+Baccurato+Antonio+Orsini+-1&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

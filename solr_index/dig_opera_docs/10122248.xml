@@ -7,11 +7,11 @@
 <field name="composer">Jean Nouguès</field>
 <field name="composerSort">Nouguès, Jean</field>
 <field name="year">1901</field>
-<field name="date">1901theaterGrand-Théâtre</field>
+<field name="date">1901</field><field name="theater">Grand-Théâtre</field>
 <field name="city">Bordeaux</field>
 <field name="region">Gironde</field>
 <field name="country">France</field>
-<field name="subgenre"/>
+
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+roy+du+Papagey+des+papegais+Jean+Nouguès&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

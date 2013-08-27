@@ -7,7 +7,7 @@
 <field name="composer">Othon-Joseph Vandenbroek</field>
 <field name="composerSort">Vandenbroek, Othon-Joseph</field>
 <field name="year">1786</field>
-<field name="date">1786theaterThéâtre de Monseigneur le comte de Beaujolais</field>
+<field name="date">1786</field><field name="theater">Théâtre de Monseigneur le comte de Beaujolais</field>
 <field name="city">Paris</field>
 
 <field name="country">France</field>

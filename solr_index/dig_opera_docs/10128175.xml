@@ -7,7 +7,7 @@
 <field name="composer">Johann Baptist Schenk</field>
 <field name="composerSort">Schenk, Johann Baptist</field>
 <field name="year">1789</field>
-<field name="date">1789theaterFreihaus-Theater auf der Wieden</field>
+<field name="date">1789</field><field name="theater">Freihaus-Theater auf der Wieden</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

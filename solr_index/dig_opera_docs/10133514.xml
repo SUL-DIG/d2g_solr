@@ -7,7 +7,7 @@
 <field name="composer">Francesco Andrea Zescevich</field>
 <field name="composerSort">Zescevich, Francesco Andrea</field>
 <field name="year">1863</field>
-<field name="date">1863theaterTeatro Comunale</field>
+<field name="date">1863</field><field name="theater">Teatro Comunale</field>
 <field name="city">Trieste</field>
 <field name="region">Friuli-Venezia Giulia</field>
 <field name="country">Italy</field>

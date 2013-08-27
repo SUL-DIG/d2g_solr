@@ -12,11 +12,11 @@
 <field name="librettistSort">Tipot, Viktor</field>
 <field name="librettist">Vladimir Krakht</field>
 <field name="librettistSort">Krakht, Vladimir</field>
-<field name="theater"/>
+
 <field name="city">Moscow</field>
-<field name="region"/>
+
 <field name="country">Russia</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vol'nïy+veter+Wild+Wind+Isaak+Iosifovich+Dunayevsky&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>

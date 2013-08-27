@@ -7,7 +7,7 @@
 <field name="composer">Nicola Sabatino</field>
 <field name="composerSort">Sabatino, Nicola</field>
 <field name="year">1752</field>
-<field name="date">1752theaterTeatro di via della Torre Argentina</field>
+<field name="date">1752</field><field name="theater">Teatro di via della Torre Argentina</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

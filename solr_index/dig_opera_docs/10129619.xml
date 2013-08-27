@@ -7,7 +7,7 @@
 <field name="composer">Stanislaus Spindler</field>
 <field name="composerSort">Spindler, Stanislaus</field>
 <field name="year">1808</field>
-<field name="date">1808theaterGrossherzogliches Hoftheater</field>
+<field name="date">1808</field><field name="theater">Grossherzogliches Hoftheater</field>
 <field name="city">Karlsruhe</field>
 <field name="region">Baden-Württemberg</field>
 <field name="country">Germany</field>

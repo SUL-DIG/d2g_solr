@@ -7,7 +7,7 @@
 <field name="composer">Giuseppe Scarlatti</field>
 <field name="composerSort">Scarlatti, Giuseppe</field>
 <field name="year">1747</field>
-<field name="date">1747theaterTeatro di via del Cocomero</field>
+<field name="date">1747</field><field name="theater">Teatro di via del Cocomero</field>
 <field name="city">Florence</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>

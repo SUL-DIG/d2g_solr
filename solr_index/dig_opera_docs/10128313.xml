@@ -7,7 +7,7 @@
 <field name="composer">Heinrich Maria Schmidt</field>
 <field name="composerSort">Schmidt, Heinrich Maria</field>
 <field name="year">1846</field>
-<field name="date">1846theaterHoftheater</field>
+<field name="date">1846</field><field name="theater">Hoftheater</field>
 <field name="city">Detmold</field>
 <field name="region">Nordrhein-Westfallen</field>
 <field name="country">Germany</field>

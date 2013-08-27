@@ -12,9 +12,9 @@
 <field name="librettistSort">Kheraskov, Mikhail</field>
 <field name="theater">Orphanage</field>
 <field name="city">Moscow</field>
-<field name="region"/>
+
 <field name="country">Russia</field>
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dobrïye+soldatï+The+Good+Soldiers+Hermann+Friedrich+Raupach&amp;search_field=search</field>
-<field name="revisions"></field></doc>
+</doc>
 </add>
