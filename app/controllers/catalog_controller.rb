@@ -70,36 +70,36 @@ class CatalogController < ApplicationController
     :feastMonth_november => { :label => 'November', :fq => "feastMonth:November"},
     :feastMonth_december => { :label => 'December', :fq => "feastMonth:December"}
 	}
-    config.add_facet_field 'composer_facet', :label => 'Composer', :limit => 10
-    config.add_facet_field 'composer_query', :label => 'Composer (A-to-Z Sort)', :query => {
-    :a_composers => { :label => '- A -', :fq => "composer_sort:a*"},
-    :b_composers => { :label => '- B -', :fq => "composer_sort:b*"},
-    :c_composers => { :label => '- C -', :fq => "composer_sort:c*"},
-    :d_composers => { :label => '- D -', :fq => "composer_sort:d*"},
-    :e_composers => { :label => '- E -', :fq => "composer_sort:e*"},
-    :f_composers => { :label => '- F -', :fq => "composer_sort:f*"},
-    :g_composers => { :label => '- G -', :fq => "composer_sort:g*"},
-    :h_composers => { :label => '- H -', :fq => "composer_sort:h*"},
-    :i_composers => { :label => '- I -', :fq => "composer_sort:i*"},
-    :j_composers => { :label => '- J -', :fq => "composer_sort:j*"},
-    :k_composers => { :label => '- K -', :fq => "composer_sort:k*"},
-    :l_composers => { :label => '- L -', :fq => "composer_sort:l*"},
-    :m_composers => { :label => '- M -', :fq => "composer_sort:m*"},
-    :n_composers => { :label => '- N -', :fq => "composer_sort:n*"},
-    :o_composers => { :label => '- O -', :fq => "composer_sort:o*"},
-    :p_composers => { :label => '- P -', :fq => "composer_sort:p*"},
-    :q_composers => { :label => '- Q -', :fq => "composer_sort:q*"},
-    :r_composers => { :label => '- R -', :fq => "composer_sort:r*"},
-    :s_composers => { :label => '- S -', :fq => "composer_sort:s*"},
-    :t_composers => { :label => '- T -', :fq => "composer_sort:t*"},
-    :u_composers => { :label => '- U -', :fq => "composer_sort:u*"},
-    :v_composers => { :label => '- V -', :fq => "composer_sort:v*"},
-    :w_composers => { :label => '- W -', :fq => "composer_sort:w*"},
-    :x_composers => { :label => '- X -', :fq => "composer_sort:x*"},
-    :y_composers => { :label => '- Y -', :fq => "composer_sort:y*"},
-    :z_composers => { :label => '- Z -', :fq => "composer_sort:z*"},
+    config.add_facet_field 'composerSort_facet', :label => 'Composer', :limit => 10
+    config.add_facet_field 'composerSort_query', :label => 'Composer (A-to-Z Sort)', :query => {
+    :a_composers => { :label => '- A -', :fq => "composerSort_sort:a*"},
+    :b_composers => { :label => '- B -', :fq => "composerSort_sort:b*"},
+    :c_composers => { :label => '- C -', :fq => "composerSort_sort:c*"},
+    :d_composers => { :label => '- D -', :fq => "composerSort_sort:d*"},
+    :e_composers => { :label => '- E -', :fq => "composerSort_sort:e*"},
+    :f_composers => { :label => '- F -', :fq => "composerSort_sort:f*"},
+    :g_composers => { :label => '- G -', :fq => "composerSort_sort:g*"},
+    :h_composers => { :label => '- H -', :fq => "composerSort_sort:h*"},
+    :i_composers => { :label => '- I -', :fq => "composerSort_sort:i*"},
+    :j_composers => { :label => '- J -', :fq => "composerSort_sort:j*"},
+    :k_composers => { :label => '- K -', :fq => "composerSort_sort:k*"},
+    :l_composers => { :label => '- L -', :fq => "composerSort_sort:l*"},
+    :m_composers => { :label => '- M -', :fq => "composerSort_sort:m*"},
+    :n_composers => { :label => '- N -', :fq => "composerSort_sort:n*"},
+    :o_composers => { :label => '- O -', :fq => "composerSort_sort:o*"},
+    :p_composers => { :label => '- P -', :fq => "composerSort_sort:p*"},
+    :q_composers => { :label => '- Q -', :fq => "composerSort_sort:q*"},
+    :r_composers => { :label => '- R -', :fq => "composerSort_sort:r*"},
+    :s_composers => { :label => '- S -', :fq => "composerSort_sort:s*"},
+    :t_composers => { :label => '- T -', :fq => "composerSort_sort:t*"},
+    :u_composers => { :label => '- U -', :fq => "composerSort_sort:u*"},
+    :v_composers => { :label => '- V -', :fq => "composerSort_sort:v*"},
+    :w_composers => { :label => '- W -', :fq => "composerSort_sort:w*"},
+    :x_composers => { :label => '- X -', :fq => "composerSort_sort:x*"},
+    :y_composers => { :label => '- Y -', :fq => "composerSort_sort:y*"},
+    :z_composers => { :label => '- Z -', :fq => "composerSort_sort:z*"},
     }
-    config.add_facet_field 'librettist_facet', :label => 'Librettist/Literary Source', :limit => 10
+    config.add_facet_field 'librettistSort_facet', :label => 'Librettist/Literary Source', :limit => 10
     config.add_facet_field 'year', :label => 'Premiere Year', :range => true
     config.add_facet_field 'country_facet', :label => 'Country',:limit => 10
     config.add_facet_field 'region_facet', :label => 'State/Region', :limit => 10
@@ -200,9 +200,9 @@ class CatalogController < ApplicationController
     # label in pulldown is followed by the name of the SOLR field to sort by and
     # whether the sort is ascending or descending (it must be asc or desc
     # except in the relevancy case).
-    config.add_sort_field 'score desc, titleSort_sort asc, composer_sort asc, year_sort desc', :label => 'relevance'
+    config.add_sort_field 'score desc, titleSort_sort asc, composerSort_sort asc, year_sort desc', :label => 'relevance'
     config.add_sort_field 'titleSort_sort asc, year_sort desc', :label => 'title'
-    config.add_sort_field 'composer_sort asc, titleSort_sort asc', :label => 'composer'
+    config.add_sort_field 'composerSort_sort asc, titleSort_sort asc', :label => 'composer'
     config.add_sort_field 'year_sort asc, titleSort_sort asc', :label => 'year'
 
     # If there are more than this many search results, no spelling ("did you
