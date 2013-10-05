@@ -19,6 +19,6 @@
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+Racine+Fedra+Sylvano+Bussotti&amp;search_field=search</field>
 
-<revision>removed title Fedra from record and created new record at 20100003; different works (2013-09-26)</revision>
+<field name="revision">Removed title Fedra from record and created new record at 20100003; different works (2013-09-26)</field>
 </doc>
 </add>
