@@ -12,3 +12,7 @@ ID # - Date Used - Opera Title
 20100007 - 2013-11-25 - Urteil der Kalliope
 20100008 - 2013-11-25 - Medea
 20100009 - 2013-11-25 - Rabarbaro rabarbaro
+20100010 - 2014-03-04 - Written on skin
+20100011 - 2014-03-04 - La metamorfosi
+20100012 - 2014-05-20 - Paul's case
+20100013 - 2014-05-20 - The color of gold
