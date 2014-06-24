@@ -16,3 +16,11 @@ ID # - Date Used - Opera Title
 20100011 - 2014-03-04 - La metamorfosi
 20100012 - 2014-05-20 - Paul's case
 20100013 - 2014-05-20 - The color of gold
+20100014 - 2014-06-24 - Doctor Atomic
+20100015 - 2014-06-24 - Appomattox
+20100016 - 2014-06-24 - Bonesetter's Daughter
+20100017 - 2014-06-24 - Heart of a Soldier
+20100018 - 2014-06-24 - Secret Garden
+20100019 - 2014-06-24 - Gospel of Mary Magdalene
+20100020 - 2014-06-24 - Streetcar Named Desire
+20100021 - 2014-06-24 - Dead Man Walking
