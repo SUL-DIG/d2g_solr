@@ -14,7 +14,7 @@
         <!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
         <field name="librettistSort">McNally, Terrence</field>
         <field name="librettist">Helen Prejean</field>
-        <field name="librettistSort">Prejean, Helen</field?
+        <field name="librettistSort">Prejean, Helen</field>
         <field name="year">2000</field>
         <!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
         <field name="date">October 7, 2000</field>
