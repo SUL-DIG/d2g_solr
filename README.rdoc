@@ -26,7 +26,7 @@ All configuration files for the SOLR index can be found in the conf folder.
        ssh blacklight@dig-dev.stanford.edu
 
 2. Navigate to the SOLR transformation folder for the HCRC application.
-       cd dig/public/d2g/shared/d2g_solr
+       cd dig/public/d2g/shared/solr_index
 
 3. Now pull down the most recent repository.
        git pull
