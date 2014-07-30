@@ -13,7 +13,7 @@
         <field name="librettist">John Donald McClatchy</field>
         <!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
         <field name="librettistSort">McClatchy, John Donald</field>
-	<field name="librettist">Judith Rossner</field>
+	    <field name="librettist">Judith Rossner</field>
         <!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
         <field name="librettistSort">Rossner, Judith</field>
         <field name="year">1996</field>
@@ -29,5 +29,3 @@
         <field name="revision">NEW 2013-10-08</field>
     </doc>
 </add>
-
-<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. -->
