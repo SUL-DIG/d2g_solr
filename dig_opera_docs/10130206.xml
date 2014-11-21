@@ -10,7 +10,9 @@
 <field name="date">1823</field>
 <field name="librettist">Felice Romani</field>
 <field name="librettistSort">Romani, Felice</field>
-<field name="librettist">Dante AlighierilibrettistSortDante AlighieritheaterTeatro Eretenio</field>
+<field name="librettist">Dante Alighieri</field>
+<field name="librettistSort">Alighieri, Dante</field>
+<field name="theater">Teatro Eretenio</field>
 <field name="city">Vicenza</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>

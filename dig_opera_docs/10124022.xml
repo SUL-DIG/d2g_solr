@@ -10,7 +10,9 @@
 <field name="date">1895</field>
 <field name="librettist">James Grun</field>
 <field name="librettistSort">Grun, James</field>
-<field name="librettist">Hartmann von AuelibrettistSortHartmann von AuetheaterStadttheater</field>
+<field name="librettist">Hartmann von Aue</field>
+<field name="librettistSort">von Aue, Hartmann</field>
+<field name="theater">Stadttheater</field>
 <field name="city">Mainz</field>
 <field name="region">Rheinland-Pfalz</field>
 <field name="country">Germany</field>

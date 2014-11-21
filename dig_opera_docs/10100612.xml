@@ -8,8 +8,9 @@
 <field name="composerSort">Sachsen, Amalie Prinzessin von</field>
 <field name="year">1816</field>
 <field name="date">1816</field>
-<field name="librettist">Max Prinz von SachsenlibrettistSortMax Prinz von SachsentheaterKleines
-Hoftheater</field>
+<field name="librettist">Max Prinz von Sachsen</field>
+<field name="librettistSort">Sachsen, Max Prinz von </field>
+<field name="theater">Kleines Hoftheater</field>
 <field name="city">Dresden</field>
 <field name="region">Sachsen</field>
 <field name="country">Germany</field>

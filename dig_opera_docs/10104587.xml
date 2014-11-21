@@ -10,7 +10,9 @@
 <field name="date">1878</field>
 <field name="librettist">Antonio Ghislanzoni</field>
 <field name="librettistSort">Ghislanzoni, Antonio</field>
-<field name="librettist">Dante AlighierilibrettistSortDante AlighieritheaterTeatro Regio</field>
+<field name="librettist">Dante Alighieri</field>
+<field name="librettistSort">Alighieri, Dante</field>
+<field name="theater">Teatro Regio</field>
 <field name="city">Turin</field>
 <field name="region">Piemonte</field>
 <field name="country">Italy</field>

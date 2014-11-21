@@ -8,8 +8,9 @@
 <field name="composerSort">Loewe, Johann Jakob</field>
 <field name="year">1661</field>
 <field name="date">1661</field>
-<field name="librettist">Anton Ulrich Herzog von Braunschweig-LüneburglibrettistSortAnton Ulrich
-Herzog von Braunschweig-LüneburgtheaterFürstlichen Residentz und Vestung</field>
+<field name="librettist">Anton Ulrich Herzog von Braunschweig-Lüneburg</field>
+<field name="librettistSort">Braunschweig-Lüneburg, Anton Ulrich Herzog von</field>
+<field name="theater">Fürstlichen Residentz und Vestung</field>
 <field name="city">Wolfenbüttel</field>
 <field name="region">Niedersachsen</field>
 <field name="country">Germany</field>

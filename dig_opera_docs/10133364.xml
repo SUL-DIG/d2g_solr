@@ -10,8 +10,9 @@
 <field name="date">1928</field>
 <field name="librettist">Arturo Rossato</field>
 <field name="librettistSort">Rossato, Arturo</field>
-<field name="librettist">Jacobus de VoraignelibrettistSortJacobus de VoraignetheaterTeatro San
-Carlo</field>
+<field name="librettist">Jacobus de Voraigne</field>
+<field name="librettistSort">Voraigne, Jacobus de</field>
+<field name="theater">Teatro San Carlo</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>
 <field name="country">Italy</field>

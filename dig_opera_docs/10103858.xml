@@ -8,10 +8,10 @@
 <field name="composerSort">Boulard, Marius</field>
 <field name="year">1866</field>
 <field name="date">1866</field>
-<field name="librettist">Dante AlighierilibrettistSortDante Alighieri theaterThéâtre de l'École
-Lyrique</field>
+<field name="librettist">Dante Alighieri</field>
+<field name="librettistSort">Alighieri, Dante</field>
+<field name="theater">Théâtre de l'École Lyrique</field>
 <field name="city">Paris</field>
-
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Francesca+da+Rimini+Marius+Boulard&amp;search_field=search</field>

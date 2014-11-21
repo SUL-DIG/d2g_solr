@@ -8,8 +8,9 @@
 <field name="composerSort">Salomon, Johann Peter</field>
 <field name="year">1771</field>
 <field name="date">1771</field>
-<field name="librettist">Heinrich Prinz von PreussenlibrettistSortHeinrich Prinz von
-PreussentheaterSchlosstheater der Prinz Heinrich von Preussen</field>
+<field name="librettist">Heinrich Prinz von Preussen</field>
+<field name="librettistSort">Preussen, Heinrich Prinz von</field>
+<field name="theater">Schlosstheater</field>
 <field name="city">Rheinsberg</field>
 <field name="region">Brandenburg</field>
 <field name="country">Germany</field>

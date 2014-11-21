@@ -10,8 +10,9 @@
 <field name="date">1975</field>
 <field name="librettist">Michèle Raoul-Davis</field>
 <field name="librettistSort">Raoul-Davis, Michèle</field>
-<field name="librettist">Kuan Han ChinlibrettistSortKuan Han ChintheaterCloître des
-Célestins</field>
+<field name="librettist">Kuan Han Chin</field>
+<field name="librettistSort">Chin, Kuan Han</field>
+<field name="theater">Cloître des Célestins</field>
 <field name="city">Avignon</field>
 <field name="region">Vaucluse</field>
 <field name="country">France</field>

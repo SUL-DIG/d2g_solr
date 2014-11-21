@@ -8,8 +8,9 @@
 <field name="composerSort">Meiern, Joachim</field>
 <field name="year">1693</field>
 <field name="date">1693</field>
-<field name="librettist">Anton Ulrich Herzog von Braunschweig-LüneburglibrettistSortAnton Ulrich
-Herzog von Braunschweig-LüneburgtheaterSchlosstheater</field>
+<field name="librettist">Anton Ulrich Herzog von Braunschweig-Lüneburgl</field>
+<field name="librettistSort">Braunschweig-Lüneburg, Anton Ulrich Herzog von</field>
+<field name="theater">Schlosstheater</field>
 <field name="city">Hanover</field>
 <field name="region">Niedersachsen</field>
 <field name="country">Germany</field>

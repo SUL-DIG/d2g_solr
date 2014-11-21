@@ -8,8 +8,9 @@
 <field name="composerSort">Åhlström, Olaf</field>
 <field name="year">1789</field>
 <field name="date">1789</field>
-<field name="librettist">Gustav III Kung av SverigelibrettistSortGustav III Kung av
-SverigetheaterBollhuset</field>
+<field name="librettist">Gustav III Kung av Sverige</field>
+<field name="librettistSort">Sverige, Gustav III Kung av </field>
+<field name="theater">Sverigetheater Bollhuset</field>
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>
 <field name="country">Sweden</field>

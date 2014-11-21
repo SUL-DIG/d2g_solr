@@ -10,7 +10,9 @@
 <field name="date">1846</field>
 <field name="librettist">Felice Romani</field>
 <field name="librettistSort">Romani, Felice</field>
-<field name="librettist">Dante AlighierilibrettistSortDante AlighieritheaterTeatro Comunale</field>
+<field name="librettist">Dante Alighieri</field>
+<field name="librettistSort">Alighieri. Dante</field>
+<field name="theater">Teatro Comunale</field>
 <field name="city">Catania</field>
 <field name="region">Sicilia</field>
 <field name="country">Italy</field>

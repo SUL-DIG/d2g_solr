@@ -8,8 +8,11 @@
 <field name="composerSort">Wenjing, Guo</field>
 <field name="year">1994</field>
 <field name="date">1994</field>
-<field name="librettist">Zeng LilibrettistSortZeng Li</field>
-<field name="librettist">Lu XunlibrettistSortLu XuntheaterWestergasfabriek</field>
+<field name="librettist">Zeng Lili</field>
+<field name="librettistSort">Lili, Zeng</field>
+<field name="librettist">Lu Xun</field>
+<field name="librettistSort">Xun, Lu</field>
+<field name="theater">Westergasfabriek</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>
 <field name="country">Netherlands</field>

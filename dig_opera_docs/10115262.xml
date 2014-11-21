@@ -8,8 +8,11 @@
 <field name="composerSort">Xiang, Jin</field>
 <field name="year">1987</field>
 <field name="date">1987</field>
-<field name="librettist">Wan FanglibrettistSortWan Fang</field>
-<field name="librettist">Cao YulibrettistSortCao YutheaterArt and Music Festival</field>
+<field name="librettist">Wan Fang</field>
+<field name="librettistSort">Fang, Wan</field>
+<field name="librettist">Cao Yu</field>
+<field name="librettistSort">Yu, Cao</field>
+<field name="theater">Art and Music Festival</field>
 <field name="city">Beijing</field>
 
 <field name="country">China</field>

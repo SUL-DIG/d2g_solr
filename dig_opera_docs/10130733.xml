@@ -10,7 +10,9 @@
 <field name="date">1952</field>
 <field name="librettist">Giovanni Cardelli</field>
 <field name="librettistSort">Cardelli, Giovanni</field>
-<field name="librettist">Siao YulibrettistSortSiao YutheaterWheeler Opera House</field>
+<field name="librettist">Siao Yu</field>
+<field name="librettistSort">Yu, Siao</field>
+<field name="theater">Wheeler Opera House</field>
 <field name="city">Aspen</field>
 <field name="region">Colorado</field>
 <field name="country">United States</field>

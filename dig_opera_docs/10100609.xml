@@ -8,8 +8,9 @@
 <field name="composerSort">Sachsen, Amalie Prinzessin von</field>
 <field name="year">1819</field>
 <field name="date">1819</field>
-<field name="librettist">Friedrich August Prinz von SachsenlibrettistSortFriedrich August Prinz von
-SachsentheaterKleines Hoftheater</field>
+<field name="librettist">Friedrich August Prinz von Sachsen</field>
+<field name="librettistSort">Sachsen, Friedrich August Prinz von</field>
+<field name="Theater">Kleines Hoftheater</field>
 <field name="city">Dresden</field>
 <field name="region">Sachsen</field>
 <field name="country">Germany</field>

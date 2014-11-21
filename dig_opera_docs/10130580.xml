@@ -8,8 +8,11 @@
 <field name="composerSort">Dun, Tan</field>
 <field name="year">1989</field>
 <field name="date">1989</field>
-<field name="librettist">Tan DunlibrettistSortTan Dun</field>
-<field name="librettist">Qu YuanlibrettistSortQu YuantheaterPace University</field>
+<field name="librettist">Tan Dun</field>
+<field name="librettistSort">Dun, Tan</field>
+<field name="librettist">Qu Yuan</field>
+<field name="librettistSort">Yuan, Qu</field>
+<field name="theater">Pace University</field>
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>

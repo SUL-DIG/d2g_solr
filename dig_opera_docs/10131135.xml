@@ -10,9 +10,9 @@
 <field name="date">1913</field>
 <field name="librettist">Paolo Reni</field>
 <field name="librettistSort">Reni, Paolo</field>
-<field name="librettist">Luise Antoinette Marie Erzherzogin von
-Österreich-ToskanalibrettistSortLuise Antoinette Marie Erzherzogin von
-Österreich-ToskanatheaterTeatro Drammatico Nazionale</field>
+<field name="librettist">Luise Antoinette Marie Erzherzogin von Österreich-Toskana</field>
+<field name="librettistSort">Österreich-Toskana, Luise Antoinette Marie Erzherzogin von</field>
+<field name="Theater">Teatro Drammatico Nazionale</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>
