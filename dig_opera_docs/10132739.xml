@@ -10,7 +10,9 @@
 <field name="date">1987</field>
 <field name="librettist">Judith Weir</field>
 <field name="librettistSort">Weir, Judith</field>
-<field name="librettist">Chi Chün-HsianglibrettistSortChi Chün-HsiangtheaterEveryman Theatre</field>
+<field name="librettist">Chi Chün-Hsiang</field>
+<field name="librettistSort">Chün-Hsiang, Chi</field>
+<field name="theater">Everyman Theatre</field>
 <field name="city">Cheltenham</field>
 <field name="region">Gloucestershire</field>
 <field name="country">United Kingdom</field>

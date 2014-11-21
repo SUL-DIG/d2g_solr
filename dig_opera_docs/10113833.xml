@@ -10,7 +10,8 @@
 <field name="date">1920</field>
 <field name="librettist">Claude M. Haydon</field>
 <field name="librettistSort">Haydon, Claude M.</field>
-<field name="librettist">Dante AlighierilibrettistSortDante Alighieritheater</field>
+<field name="librettist">Dante Alighieri</field>
+<field name="librettistSort">Alighieri, Dante</field>
 <field name="city">Melbourne</field>
 <field name="region">Victoria</field>
 <field name="country">Australia</field>

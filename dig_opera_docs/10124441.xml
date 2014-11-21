@@ -10,8 +10,7 @@
 <field name="date">1928</field>
 <field name="librettist">Ildebrando Pizzetti</field>
 <field name="librettistSort">Pizzetti, Ildebrando</field>
-<field name="librettist">Salimbene de PadualibrettistSortSalimbene de PaduatheaterTeatro alla
-Scala</field>
+<field name="theater">Teatro alla Scala</field>
 <field name="city">Milan</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>

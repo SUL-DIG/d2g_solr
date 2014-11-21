@@ -10,7 +10,9 @@
 <field name="date">1991</field>
 <field name="librettist">Richard Stoker</field>
 <field name="librettistSort">Stoker, Richard</field>
-<field name="librettist">Ssu-ma Ch'ienlibrettistSortSsu-ma Ch'ientheaterPurcell Room</field>
+<field name="librettist">Ssu-ma Ch'ien</field>
+<field name="librettistSort">Ch'ien, Ssu-ma</field>
+<field name="theater">Purcell Room</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

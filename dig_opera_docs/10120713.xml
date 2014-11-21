@@ -8,8 +8,9 @@
 <field name="composerSort">Miltitz, Karl Borromäus Stephan von</field>
 <field name="year">1833</field>
 <field name="date">1833</field>
-<field name="librettist">Johann Prinz von SachsenlibrettistSortJohann Prinz von
-SachsentheaterKleines Hoftheater</field>
+<field name="librettist">Johann Prinz von Sachsen</field>
+<field name="librettistSort">Sachsen, Johann Prinz von</field>
+<field name="Theater">Kleines Hoftheater</field>
 <field name="city">Dresden</field>
 <field name="region">Sachsen</field>
 <field name="country">Germany</field>

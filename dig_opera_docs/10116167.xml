@@ -10,7 +10,9 @@
 <field name="date">1980</field>
 <field name="librettist">Vladimir Aleksandrovich Kobekin</field>
 <field name="librettistSort">Kobekin, Vladimir Aleksandrovich</field>
-<field name="librettist">Lu XunlibrettistSortLu XuntheaterKamennïy Opernïy Teatr</field>
+<field name="librettist">Lu Xun</field>
+<field name="librettistSort">Xun, Lu</field>
+<field name="theater">Kamennïy Opernïy Teatr</field>
 <field name="city">Moscow</field>
 
 <field name="country">Russia</field>

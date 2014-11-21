@@ -10,8 +10,9 @@
 <field name="date">1990</field>
 <field name="librettist">Barry Spacks</field>
 <field name="librettistSort">Spacks, Barry</field>
-<field name="librettist">Guillaume de MachautlibrettistSortGuillaume de MachauttheaterMarymount
-Manhattan College</field>
+<field name="librettist">Guillaume de Machaut</field>
+<field name="librettistSort">Machaut, Guillaume de</field>
+<field name="Theater">Marymount Manhattan College</field>
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>

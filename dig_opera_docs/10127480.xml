@@ -10,9 +10,10 @@
 <field name="date">1774</field>
 <field name="librettist">Heinrich Prinz von PreussenlibrettistSortHeinrich Prinz von
 Preussen</field>
+<field name="librettistSort">Preussen, Heinrich Prinz von</field>
 <field name="librettist">Pietro Metastasio</field>
 <field name="librettistSort">Metastasio, Pietro</field>
-<field name="theater">Schlosstheater der Prinz Heinrich von Preussen</field>
+<field name="theater">Schlosstheater</field>
 <field name="city">Rheinsberg</field>
 <field name="region">Brandenburg</field>
 <field name="country">Germany</field>

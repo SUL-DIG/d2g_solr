@@ -10,8 +10,9 @@
 <field name="date">1857</field>
 <field name="librettist">Felice Romani</field>
 <field name="librettistSort">Romani, Felice</field>
-<field name="librettist">Dante AlighierilibrettistSortDante AlighieritheaterTeatro de São
-Carlos</field>
+<field name="librettist">Dante Alighieri</field>
+<field name="librettistSort">Alighieri, Dante</field>
+<field name="theater">Teatro de São Carlos</field>
 <field name="city">Lisbon</field>
 <field name="region">Lisboa</field>
 <field name="country">Portugal</field>

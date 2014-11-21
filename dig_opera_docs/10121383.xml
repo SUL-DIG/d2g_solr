@@ -8,9 +8,10 @@
 <field name="composerSort">Moscuzza, Vincenzo</field>
 <field name="year">1877</field>
 <field name="date">1877</field>
-<field name="librettist">Dante AlighierilibrettistSortDante Alighieri theaterTeatro Reale</field>
+<field name="librettist">Dante Alighieri</field>
+<field name="librettistSort">Alighieri, Dante</field>
+<field name="theater">Teatro Reale</field>
 <field name="city">Valletta</field>
-
 <field name="country">Malta</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Francesca+da+Rimini+Vincenzo+Moscuzza&amp;search_field=search</field>

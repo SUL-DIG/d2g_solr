@@ -10,7 +10,9 @@
 <field name="date">1914</field>
 <field name="librettist">Francis Marion Crawford</field>
 <field name="librettistSort">Crawford, Francis Marion</field>
-<field name="librettist">Dante AlighierilibrettistSortDante AlighieritheaterOpéra-Comique</field>
+<field name="librettist">Dante Alighieri</field>
+<field name="librettistSort">Alighieri, Dante</field>
+<field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 
 <field name="country">France</field>

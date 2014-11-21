@@ -8,8 +8,9 @@
 <field name="composerSort">Württemberg, Eugen Herzog von</field>
 <field name="year">1825</field>
 <field name="date">1825</field>
-<field name="librettist">Eugen Herzog von WürttemberglibrettistSortEugen Herzog von
-WürttembergtheaterGrossherzogliches Hoftheater</field>
+<field name="librettist">Eugen Herzog von Württemberg</field>
+<field name="librettistSort">Württemberg, Eugen Herzog von</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
 <field name="city">Karlsruhe</field>
 <field name="region">Baden-Württemberg</field>
 <field name="country">Germany</field>

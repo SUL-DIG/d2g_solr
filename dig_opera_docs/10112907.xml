@@ -8,7 +8,9 @@
 <field name="composerSort">Guaccero, Domenico</field>
 <field name="year">1973</field>
 <field name="date">1973</field>
-<field name="librettist">T'ien Ch'ienlibrettistSortT'ien Ch'ientheaterTeatro dell'Opera</field>
+<field name="librettist">T'ien Ch'ien</field>
+<field name="librettistSort">Ch'ien, T'ien</field>
+<field name="theater">Teatro dell'Opera</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>

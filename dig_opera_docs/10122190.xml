@@ -10,8 +10,9 @@
 <field name="date">1840</field>
 <field name="librettist">Paolo Pola</field>
 <field name="librettistSort">Pola, Paolo</field>
-<field name="librettist">Dante AlighierilibrettistSortDante AlighieritheaterNeue Ständische
-Theater</field>
+<field name="librettist">Dante Alighieri</field>
+<field name="librettistSort">Alighieri, Dante</field>
+<field name="theater">Neue Ständische Theater</field>
 <field name="city">Linz</field>
 <field name="region">Oberösterreich</field>
 <field name="country">Austria</field>

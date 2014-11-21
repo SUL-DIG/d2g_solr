@@ -8,7 +8,9 @@
 <field name="composerSort">Konradin, Karl Ferdinand</field>
 <field name="year">1875</field>
 <field name="date">1875</field>
-<field name="librettist">Dante AlighierilibrettistSortDante Alighieri theaterKünstlerhaus</field>
+<field name="librettist">Dante Alighieri</field>
+<field name="librettistSort">Alighieri, Dante</field>
+<field name="theater">Künstlerhaus</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

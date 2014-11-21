@@ -10,8 +10,9 @@
 <field name="date">1832</field>
 <field name="librettist">Felice Romani</field>
 <field name="librettistSort">Romani, Felice</field>
-<field name="librettist">Dante AlighierilibrettistSortDante AlighieritheaterTeatro dagli
-Armeni</field>
+<field name="librettist">Dante Alighieri</field>
+<field name="librettistSort">Alighieri, Dante</field>
+<field name="theater">Teatro dagli Armeni</field>
 <field name="city">Livorno</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>
