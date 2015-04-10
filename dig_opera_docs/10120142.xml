@@ -7,7 +7,8 @@
 <field name="composer">Herbert Meissner</field>
 <field name="composerSort">Meissner, Herbert</field>
 <field name="year">1946</field>
-<field name="date">1946</field><field name="theater">Staatsoper</field>
+<field name="date">1946</field>
+<field name="theater">Sächsische Staatsoper</field>
 <field name="city">Dresden</field>
 <field name="region">Sachsen</field>
 <field name="country">Germany</field>

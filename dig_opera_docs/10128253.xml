@@ -10,7 +10,7 @@
 <field name="date">1863</field>
 <field name="librettist">Manfredo Maggioni</field>
 <field name="librettistSort">Maggioni, Manfredo</field>
-<field name="theater">"Her Majesty's Theatre, Haymarket</field>
+<field name="theater">Her Majesty's Theatre, Haymarket</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

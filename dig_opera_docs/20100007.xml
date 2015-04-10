@@ -16,7 +16,7 @@
         <field name="year">1997</field>
         <!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
         <field name="date">October 29, 1997</field>
-        <field name="theater">Stadttheater Giessen</field>
+        <field name="theater">Stadttheater</field>
         <field name="city">Giessen</field>
         <!-- We use the region field for states or regions. -->
         <field name="region">Hesse</field>
