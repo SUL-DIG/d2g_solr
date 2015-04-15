@@ -10,7 +10,7 @@
 <field name="date">1704</field>
 <field name="librettist">Peter Anthony Motteux</field>
 <field name="librettistSort">Motteux, Peter Anthony</field>
-<field name="theater">"Theatre Royal, Lincoln's Inn Fields</field>
+<field name="theater">Theatre Royal, Lincoln's Inn Fields</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

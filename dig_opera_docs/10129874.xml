@@ -10,7 +10,7 @@
 <field name="date">1825</field>
 <field name="librettist">Sarah Isdell</field>
 <field name="librettistSort">Isdell, Sarah</field>
-<field name="theater">"Theatre Royal, Hawkins Street</field>
+<field name="theater">Theatre Royal, Hawkins Street</field>
 <field name="city">Dublin</field>
 <field name="region">Leinster</field>
 <field name="country">Ireland</field>

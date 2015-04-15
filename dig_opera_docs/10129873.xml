@@ -10,7 +10,7 @@
 <field name="date">1801</field>
 <field name="librettist">Eyles Irwin</field>
 <field name="librettistSort">Irwin, Eyles</field>
-<field name="theater">"Theatre Royal, Crow Street</field>
+<field name="theater">Theatre Royal, Crow Street</field>
 <field name="city">Dublin</field>
 <field name="region">Leinster</field>
 <field name="country">Ireland</field>

@@ -12,7 +12,7 @@
 <field name="librettistSort">Fernández Shaw, Carlos</field>
 <field name="librettist">Dante Alighieri</field>
 <field name="librettistSort">Alighieri, Dante</field>
-<field name="Theater">Teatro Real</field>
+<field name="theater">Teatro Real</field>
 <field name="city">Madrid</field>
 <field name="region">Madrid</field>
 <field name="country">Spain</field>

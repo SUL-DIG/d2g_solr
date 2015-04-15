@@ -10,7 +10,7 @@
 <field name="date">1765</field>
 <field name="librettist">David Garrick</field>
 <field name="librettistSort">Garrick, David</field>
-<field name="theater">"Theatre Royal, Smock Alley</field>
+<field name="theater">Theatre Royal, Smock Alley</field>
 <field name="city">Dublin</field>
 <field name="region">Leinster</field>
 <field name="country">Ireland</field>
