@@ -12,7 +12,7 @@
 <field name="librettistSort">Pitkänen, Paavo</field>
 <field name="theater">Tampereen Ooppera</field>
 <field name="city">Tampere</field>
-<field name="region">Hämeen</field>
+<field name="region">Pirkanmaa</field>
 <field name="country">Finland</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Haavruuva+The+Mermaid+Ahti+Sonninen&amp;search_field=search</field>

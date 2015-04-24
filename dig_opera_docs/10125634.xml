@@ -12,7 +12,7 @@
 <field name="librettistSort">Rautavaara, Einojuhani</field>
 <field name="theater">Kaupungin Teatteri</field>
 <field name="city">Lappeenranta</field>
-<field name="region">Kymen</field>
+<field name="region">Etelä-Karjala</field>
 <field name="country">Finland</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Auringon+talo+Sunset+House+Einojuhani+Rautavaara&amp;search_field=search</field>

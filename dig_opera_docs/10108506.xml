@@ -10,8 +10,8 @@
 <field name="date">1899</field>
 <field name="librettist">Albert Dupuis</field>
 <field name="librettistSort">Dupuis, Albert</field>
-<field name="librettist">[Pierre Louis] Pierre Louяs</field>
-<field name="librettistSort">Louяs, Pierre [Pierre Louis]</field>
+<field name="librettist">[Pierre Louis] Pierre Louÿs</field>
+<field name="librettistSort">Louÿs, Pierre [Pierre Louis]</field>
 <field name="theater">Grand-Théâtre</field>
 <field name="city">Verviers</field>
 <field name="region">Liège</field>

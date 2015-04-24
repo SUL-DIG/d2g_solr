@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10107539</field>
 <field name="genre">Operas</field>
-<field name="title">Li musique dê coыr</field>
-<field name="titleSort">musique dê coыr</field>
+<field name="title">Li musique dê cour</field>
+<field name="titleSort">musique dê cour</field>
 <field name="composer">Rose Derouette</field>
 <field name="composerSort">Derouette, Rose</field>
 <field name="year">1929</field>
@@ -15,6 +15,6 @@
 <field name="region">Liège</field>
 <field name="country">Belgium</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Li+musique+dê+coыr+Rose+Derouette&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Li+musique+dê+cour+Rose+Derouette&amp;search_field=search</field>
 </doc>
 </add>

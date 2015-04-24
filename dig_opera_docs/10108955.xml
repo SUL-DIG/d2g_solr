@@ -10,8 +10,8 @@
 <field name="date">1906</field>
 <field name="librettist">Louis de Gramont</field>
 <field name="librettistSort">Gramont, Louis de</field>
-<field name="librettist">[Pierre Louis] Pierre Louяs</field>
-<field name="librettistSort">Louяs, Pierre [Pierre Louis]</field>
+<field name="librettist">[Pierre Louis] Pierre Louÿs</field>
+<field name="librettistSort">Louÿs, Pierre [Pierre Louis]</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 
