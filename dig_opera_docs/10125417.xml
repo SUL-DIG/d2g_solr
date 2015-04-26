@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10125417</field>
 <field name="genre">Operas</field>
-<field name="title">Von Sieben die Häblichste</field>
-<field name="titleSort">Von Sieben die Häblichste</field>
+<field name="title">Von Sieben die Häßlichste</field>
+<field name="titleSort">Von Sieben die Häßlichste</field>
 <field name="composer">Alois Radlegger</field>
 <field name="composerSort">Radlegger, Alois</field>
 <field name="year">1904</field>
@@ -17,6 +17,6 @@
 <field name="region">Jihomoravsky Kraj</field>
 <field name="country">Czech Republic</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Von+Sieben+die+Häblichste+Alois+Radlegger&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Von+Sieben+die+Häßlichste+Alois+Radlegger&amp;search_field=search</field>
 </doc>
 </add>

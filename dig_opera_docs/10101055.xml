@@ -10,7 +10,7 @@
 <field name="date">1756</field>
 <field name="librettist">Henry Brooke</field>
 <field name="librettistSort">Brooke, Henry</field>
-<field name="theater">"Theatre Royal, Smock Alley</field>
+<field name="theater">Theatre Royal, Smock Alley</field>
 <field name="city">Dublin</field>
 <field name="region">Leinster</field>
 <field name="country">Ireland</field>

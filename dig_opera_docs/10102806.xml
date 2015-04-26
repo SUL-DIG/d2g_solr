@@ -10,8 +10,8 @@
 <field name="date">1902</field>
 <field name="librettist">Giuseppe Paolo Pacchierotti</field>
 <field name="librettistSort">Pacchierotti, Giuseppe Paolo</field>
-<field name="librettist">[Pierre Louis] Pierre Louяs</field>
-<field name="librettistSort">Louяs, Pierre [Pierre Louis]</field>
+<field name="librettist">[Pierre Louis] Pierre Louÿs</field>
+<field name="librettistSort">Louÿs, Pierre [Pierre Louis]</field>
 <field name="theater">Politeama Argentino</field>
 <field name="city">Buenos Aires</field>
 <field name="region">Buenos Aires</field>

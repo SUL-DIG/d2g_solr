@@ -25,3 +25,5 @@ ID # - Date Used - Opera Title
 20100020 - 2014-06-24 - Streetcar Named Desire
 20100021 - 2014-06-24 - Dead Man Walking
 20100022 - 2014-12-02 - Pippetto ha fatto sega
+20100023 - 2015-12-02 - Rise of Spinoza
+20100024 - 2015-04-20 - Dafne

@@ -12,7 +12,7 @@
 <field name="librettistSort">Sainio, Leena</field>
 <field name="theater">Savoy Theater</field>
 <field name="city">Helsinki</field>
-<field name="region">Uudenmaan</field>
+<field name="region">Uusimaa</field>
 <field name="country">Finland</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'ultima+di+x+Harri+Vuori&amp;search_field=search</field>

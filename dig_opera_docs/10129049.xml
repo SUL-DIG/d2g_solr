@@ -10,7 +10,7 @@
 <field name="date">1777</field>
 <field name="librettist">John O'Keeffe</field>
 <field name="librettistSort">O'Keeffe, John</field>
-<field name="theater">"Theatre Royal, Crow Street</field>
+<field name="theater">Theatre Royal, Crow Street</field>
 <field name="city">Dublin</field>
 <field name="region">Leinster</field>
 <field name="country">Ireland</field>

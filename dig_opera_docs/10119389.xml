@@ -4,8 +4,8 @@
 <field name="genre">Operas</field>
 <field name="title">Il sogno del poeta</field>
 <field name="titleSort">sogno del poeta</field>
-<field name="composer">Gino Marinuzzi</field>
-<field name="composerSort">Marinuzzi, Gino</field>
+<field name="composer">Gino Marinuzzi (1)</field>
+<field name="composerSort">Marinuzzi (1), Gino</field>
 <field name="year">1899</field>
 <field name="date">1899</field>
 <field name="librettist">Filippo Nu Mancuso</field>

@@ -7,8 +7,8 @@
 		<field name="month">September</field>
 		<field name="day">13</field>
 		<field name="date">September 13, 1913</field>
-		<field name="composer">Camille Saint-Saлns</field>
-		<field name="composerSort">Saint-Sa_ns, Camille</field>
+		<field name="composer">Camille Saint-Saëns</field>
+		<field name="composerSort">Saint-Saëns, Camille</field>
 		<field name="librettist">Hermann Klein</field>
 		<field name="librettistSort">Klein, Hermann</field>
 		
@@ -19,5 +19,5 @@
 		
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Promised+Land+(La+terre+promise)+Camille+Saint-Saлns&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Promised+Land+(La+terre+promise)+Camille+Saint-Saëns&amp;search_field=search</field>
 	</doc></add>

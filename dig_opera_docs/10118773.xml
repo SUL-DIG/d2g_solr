@@ -10,7 +10,7 @@
 <field name="date">1832</field>
 <field name="librettist">Margaret Baron-Wilson</field>
 <field name="librettistSort">Baron-Wilson, Margaret</field>
-<field name="theater">"Queen's Theatre, Charlotte Street</field>
+<field name="theater">Queen's Theatre, Charlotte Street</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
