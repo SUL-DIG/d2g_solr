@@ -12,7 +12,7 @@
 <field name="librettistSort">Mauro, Ortensio</field>
 <field name="librettist">Aurelio Aureli</field>
 <field name="librettistSort">Aureli, Aurelio</field>
-<field name="theater">"King's Theatre, Haymarket</field>
+<field name="theater">King's Theatre, Haymarket</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

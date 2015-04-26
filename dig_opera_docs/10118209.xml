@@ -12,7 +12,7 @@
 <field name="librettistSort">Cobb, James</field>
 <field name="librettist">Francis Beaumont &amp; John Fletcher</field>
 <field name="librettistSort">Beaumont, Francis &amp; John Fletcher</field>
-<field name="theater">"Theatre Royal, Drury Lane</field>
+<field name="theater">Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

@@ -10,7 +10,7 @@
 <field name="date">1761</field>
 <field name="librettist">Robert Lloyd</field>
 <field name="librettistSort">Lloyd, Robert</field>
-<field name="theater">"Theatre Royal, Drury Lane</field>
+<field name="theater">Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

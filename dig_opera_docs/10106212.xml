@@ -10,7 +10,7 @@
 <field name="date">1827</field>
 <field name="librettist">Pietro Giannone</field>
 <field name="librettistSort">Giannone, Pietro</field>
-<field name="theater">"King's Theatre, Haymarket</field>
+<field name="theater">King's Theatre, Haymarket</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

@@ -10,7 +10,7 @@
 <field name="date">1806</field>
 <field name="librettist">Andrew Cherry</field>
 <field name="librettistSort">Cherry, Andrew</field>
-<field name="theater">"Theatre Royal, Drury Lane</field>
+<field name="theater">Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

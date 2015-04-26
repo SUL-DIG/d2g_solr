@@ -12,7 +12,7 @@
 <field name="librettistSort">Haywood, Eliza</field>
 <field name="librettist">William Hatchett</field>
 <field name="librettistSort">Hatchett, William</field>
-<field name="theater">"Theatre Royal, Drury Lane</field>
+<field name="theater">Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

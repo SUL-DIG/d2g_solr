@@ -10,7 +10,7 @@
 <field name="date">1823</field>
 <field name="librettist">John Howard Payne</field>
 <field name="librettistSort">Payne, John Howard</field>
-<field name="theater">"Royal Opera House, Covent Garden</field>
+<field name="theater">Royal Opera House, Covent Garden</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

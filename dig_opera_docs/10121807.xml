@@ -12,7 +12,7 @@
 <field name="librettistSort">Kenney, James</field>
 <field name="librettist">John Gideon Millingen</field>
 <field name="librettistSort">Millingen, John Gideon</field>
-<field name="theater">"Theatre Royal, Drury Lane</field>
+<field name="theater">Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

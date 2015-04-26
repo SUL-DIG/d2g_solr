@@ -10,7 +10,7 @@
 <field name="date">1839</field>
 <field name="librettist">John Thomas Haines</field>
 <field name="librettistSort">Haines, John Thomas</field>
-<field name="theater">"Royal Opera House, Covent Garden</field>
+<field name="theater">Royal Opera House, Covent Garden</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

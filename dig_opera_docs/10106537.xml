@@ -10,7 +10,7 @@
 <field name="date">1825</field>
 <field name="librettist">Elizabeth Inchbald</field>
 <field name="librettistSort">Inchbald, Elizabeth</field>
-<field name="theater">"Theatre Royal, Drury Lane</field>
+<field name="theater">Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

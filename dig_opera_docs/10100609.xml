@@ -10,7 +10,7 @@
 <field name="date">1819</field>
 <field name="librettist">Friedrich August Prinz von Sachsen</field>
 <field name="librettistSort">Sachsen, Friedrich August Prinz von</field>
-<field name="Theater">Kleines Hoftheater</field>
+<field name="theater">Kleines Hoftheater</field>
 <field name="city">Dresden</field>
 <field name="region">Sachsen</field>
 <field name="country">Germany</field>
