@@ -12,7 +12,7 @@
 <field name="librettistSort">Ferrier, Paul</field>
 <field name="librettist">"Alfred, Lord Tennyson</field>
 <field name="librettistSort">Tennyson, Alfred, Lord</field>
-<field name="theater">"Royal Opera House, Covent Garden</field>
+<field name="theater">Royal Opera House, Covent Garden</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

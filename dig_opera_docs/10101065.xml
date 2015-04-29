@@ -12,7 +12,7 @@
 <field name="librettistSort">Dryden, John</field>
 <field name="librettist">Nathaniel Lee</field>
 <field name="librettistSort">Lee, Nathaniel</field>
-<field name="theater">"Theatre Royal, Drury Lane</field>
+<field name="theater">Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
