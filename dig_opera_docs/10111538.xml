@@ -5,11 +5,11 @@
 <field name="title">Ellaydée</field>
 <field name="titleSort">Ellaydée</field>
 <field name="composer">Felix Genoese di Geria</field>
-<field name="composerSort">Geria, Felix Genoese di</field>
+<field name="composerSort">Genoese di Geria, Felix</field>
 <field name="year">1919</field>
 <field name="date">1919</field>
 <field name="librettist">Felix Genoese di Geria</field>
-<field name="librettistSort">Geria, Felix Genoese di</field>
+<field name="librettistSort">Genoese di Geria, Felix</field>
 <field name="theater">Teatro Nuovo</field>
 <field name="city">Verona</field>
 <field name="region">Veneto</field>

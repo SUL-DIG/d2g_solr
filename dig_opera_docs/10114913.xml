@@ -5,7 +5,7 @@
 <field name="title">Attendez-moi sous l'orme</field>
 <field name="titleSort">Attendez-moi sous l'orme</field>
 <field name="composer">Vincent d'Indy</field>
-<field name="composerSort">d'Indy, Vincent</field>
+<field name="composerSort">Indy, Vincent d'</field>
 <field name="year">1882</field>
 <field name="date">1882</field>
 <field name="librettist">Jules Prével</field>

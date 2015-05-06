@@ -5,7 +5,7 @@
 <field name="title">An Easter Egg</field>
 <field name="titleSort">Easter Egg</field>
 <field name="composer">[Willert Beale] Walter Maynard</field>
-<field name="composerSort">Maynard, [Willert Beale] Walter</field>
+<field name="composerSort">Maynard Walter, [Willert Beale]</field>
 <field name="year">1893</field>
 <field name="date">1893</field>
 <field name="librettist">[Willert Beale] Walter Maynard</field>

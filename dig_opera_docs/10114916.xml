@@ -5,11 +5,11 @@
 <field name="title">Fervaal</field>
 <field name="titleSort">Fervaal</field>
 <field name="composer">Vincent d'Indy</field>
-<field name="composerSort">d'Indy, Vincent</field>
+<field name="composerSort">Indy, Vincent d'</field>
 <field name="year">1897</field>
 <field name="date">1897</field>
 <field name="librettist">Vincent d'Indy</field>
-<field name="librettistSort">d'Indy, Vincent</field>
+<field name="librettistSort">Indy, Vincent d'</field>
 <field name="theater">Théâtre-Royal de la Monnaie</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>

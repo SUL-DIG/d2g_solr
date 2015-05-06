@@ -10,7 +10,7 @@
 		<field name="composer">Wolfgang Amadeus Mozart</field>
 		<field name="composerSort">Mozart, Wolfgang Amadeus</field>
 		<field name="librettist">Lorenzo Da Ponte</field>
-		<field name="librettistSort">Ponte, Lorenzo Da</field>
+		<field name="librettistSort">Da Ponte, Lorenzo</field>
 		
 		<field name="theater">Tonkünstler-Societät</field>
 		<field name="city">Vienna</field>

@@ -4,12 +4,12 @@
 <field name="genre">Operas</field>
 <field name="title">Der Schuster von Strassburg</field>
 <field name="titleSort">Schuster von Strassburg</field>
-<field name="composer">Ernst II Herzog von Sachsen-Koburg-Gotha</field>
-<field name="composerSort">Sachsen-Koburg-Gotha, Ernst II Herzog von</field>
+<field name="composer">[Ernst II Herzog von Sachsen-Koburg-Gotha] Otto Wernhard</field>
+<field name="composerSort">Wernhard, Otto [Ernst II Herzog von Sachsen-Koburg-Gotha]</field>
 <field name="year">1871</field>
 <field name="date">1871</field>
 <field name="librettist">[Ernst II Herzog von Sachsen-Koburg-Gotha] Otto Wernhard</field>
-<field name="librettistSort">Wernhard, Otto[Ernst II Herzog von Sachsen-Koburg-Gotha]</field>
+<field name="librettistSort">Wernhard, Otto [Ernst II Herzog von Sachsen-Koburg-Gotha]</field>
 
 <field name="city">Vienna</field>
 

@@ -5,7 +5,7 @@
 <field name="title">Une aventure de Mme. Favart</field>
 <field name="titleSort">aventure de Mme. Favart</field>
 <field name="composer">[Georges Thiébost] Hugues Delorme</field>
-<field name="composerSort">Delorme, [Georges Thiébost] Hugues</field>
+<field name="composerSort">Delorme, Hugues [Georges Thiébost]</field>
 <field name="year">1916</field>
 <field name="date">1916</field>
 <field name="librettist">Lucien Boyer</field>

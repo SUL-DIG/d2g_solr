@@ -5,11 +5,11 @@
 <field name="title">La légende de Saint Christophe</field>
 <field name="titleSort">légende de Saint Christophe</field>
 <field name="composer">Vincent d'Indy</field>
-<field name="composerSort">d'Indy, Vincent</field>
+<field name="composerSort">Indy, Vincent d'</field>
 <field name="year">1920</field>
 <field name="date">1920</field>
 <field name="librettist">Vincent d'Indy</field>
-<field name="librettistSort">d'Indy, Vincent</field>
+<field name="librettistSort">Indy, Vincent d'</field>
 <field name="librettist">Jacobus de Voraigne</field>
 <field name="librettistSort">Voraigne, Jacobus de</field>
 <field name="theater">Opéra</field>

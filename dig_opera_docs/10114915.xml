@@ -5,11 +5,11 @@
 <field name="title">L'étranger</field>
 <field name="titleSort">étranger</field>
 <field name="composer">Vincent d'Indy</field>
-<field name="composerSort">d'Indy, Vincent</field>
+<field name="composerSort">Indy, Vincent d'</field>
 <field name="year">1903</field>
 <field name="date">1903</field>
 <field name="librettist">Vincent d'Indy</field>
-<field name="librettistSort">d'Indy, Vincent</field>
+<field name="librettistSort">Indy, Vincent d'</field>
 <field name="theater">Théâtre-Royal de la Monnaie</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>

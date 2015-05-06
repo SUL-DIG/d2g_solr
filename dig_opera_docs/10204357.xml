@@ -10,7 +10,7 @@
 		<field name="composer">Henri-Joseph Rigel</field>
 		<field name="composerSort">Rigel, Henri-Joseph</field>
 		<field name="librettist">__ Chabanon de Maugris</field>
-		<field name="librettistSort">Maugris, __ Chabanon de</field>
+		<field name="librettistSort">Chabanon de Maugris, __</field>
 		
 		<field name="theater">Concert spirituel</field>
 		<field name="city">Paris</field>
