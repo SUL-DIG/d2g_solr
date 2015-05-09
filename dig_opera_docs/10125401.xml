@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10125401</field>
 <field name="genre">Operas</field>
-<field name="title">Maryte</field>
-<field name="titleSort">Maryte</field>
+<field name="title">Marytė</field>
+<field name="titleSort">Marytė</field>
 <field name="composer">Antanas Raciunas</field>
 <field name="composerSort">Raciunas, Antanas</field>
 <field name="year">1953</field>
@@ -17,6 +17,6 @@
 
 <field name="country">Lithuania</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maryte+Antanas+Raciunas&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marytė+Antanas+Raciunas&amp;search_field=search</field>
 </doc>
 </add>
