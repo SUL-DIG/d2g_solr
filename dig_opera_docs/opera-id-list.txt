@@ -27,3 +27,5 @@ ID # - Date Used - Opera Title
 20100022 - 2014-12-02 - Pippetto ha fatto sega
 20100023 - 2015-12-02 - Rise of Spinoza
 20100024 - 2015-04-20 - Dafne
+20100025 - 2015-06-08 - Crossing
+20100026 - 2015-06-08 - CO2
