@@ -30,3 +30,6 @@ ID # - Date Used - Opera Title
 20100025 - 2015-06-08 - Crossing
 20100026 - 2015-06-08 - CO2
 20100027 - 2015-07-10 - Two women
+20100028 - 2015-09-03 - Helen of Braemore
+20100029 - 2015-09-03 - Cullercoats Tommy
+20100030 - 2015-09-03 - Cake-Talk
