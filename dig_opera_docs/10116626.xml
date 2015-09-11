@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10116626</field>
 <field name="genre">Operas</field>
-<field name="title">Česk�find . -type(Bohemian Nativity)</field>
-<field name="titleSort">Česk�find . -type(Bohemian Nativity)</field>
+<field name="title">České jesličky (Bohemian Nativity)</field>
+<field name="titleSort">České jesličky (Bohemian Nativity)</field>
 <field name="composer">Jaroslav Kricka</field>
 <field name="composerSort">Kricka, Jaroslav</field>
 <field name="year">1949</field>
@@ -14,9 +14,7 @@
 <field name="librettistSort">Stejskal, Bohus</field>
 <field name="theater">Velká Opera 5. Kvetna</field>
 <field name="city">Prague</field>
-
 <field name="country">Czech Republic</field>
-
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ceské+jeslicky+Bohemian+Nativity+Jaroslav+Kricka&amp;search_field=search</field>
 </doc>
 </add>
