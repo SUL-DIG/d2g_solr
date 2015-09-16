@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Lepa Vida (The Fair Vida)</field>
 <field name="titleSort">Lepa Vida (The Fair Vida)</field>
-<field name="composer">[Friedrich von Schirza] Risto Savin</field>
-<field name="composerSort">Savin, [Friedrich von Schirza] Risto</field>
+<field name="composer">[Friderik Širca] Risto Savin</field>
+<field name="composerSort">Savin, Risto [Friderik Širca]</field>
 <field name="year">1909</field>
 <field name="date">1909</field>
 <field name="librettist">Richard Batka</field>

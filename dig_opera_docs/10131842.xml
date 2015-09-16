@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131842</field>
 <field name="genre">Operas</field>
 <field name="title">Rondalla d'esparvers</field>
 <field name="titleSort">Rondalla d'esparvers</field>
 <field name="composer">Jaime Ventura Tort</field>
-<field name="composerSort">Tort, Jaime Ventura</field>
+<field name="composerSort">Ventura Tort, Jaime</field>
 <field name="year">1975</field>
 <field name="date">1975</field>
 <field name="librettist">Josep Maria de Sagarra</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10118573</field>
 <field name="genre">Operas</field>
 <field name="title">L'Epaminonda</field>
 <field name="titleSort">Epaminonda</field>
-<field name="composer">Severo Antonio de Luca</field>
-<field name="composerSort">Luca, Severo Antonio de</field>
+<field name="composer">Severo de Luca</field>
+<field name="composerSort">Luca, Severo de</field>
 <field name="year">1684</field>
 <field name="date">1684</field>
 <field name="librettist">Andrea Perruccio e Fardella</field>

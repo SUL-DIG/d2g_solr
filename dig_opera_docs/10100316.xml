@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10100316</field>
 <field name="genre">Operas</field>
 <field name="title">Mareike von Nymwegen</field>
 <field name="titleSort">Mareike von Nymwegen</field>
 <field name="composer">Eugen d'Albert</field>
-<field name="composerSort">d'Albert, Eugen</field>
+<field name="composerSort">Albert, Eugen d’</field>
 <field name="year">1923</field>
 <field name="date">1923</field>
 <field name="librettist">Herbert Alberti</field>

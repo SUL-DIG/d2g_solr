@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10118282</field>
 <field name="genre">Operas</field>
 <field name="title">Jesus Christ Superstar</field>
 <field name="titleSort">Jesus Christ Superstar</field>
 <field name="composer">Andrew Lloyd Webber</field>
-<field name="composerSort">Webber, Andrew Lloyd</field>
+<field name="composerSort">Lloyd Webber, Andrew</field>
 <field name="year">1971</field>
 <field name="date">1971</field>
 <field name="librettist">Tim Rice</field>

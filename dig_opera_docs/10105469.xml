@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105469</field>
 <field name="genre">Operas</field>
 <field name="title">Le astuzie simulate</field>
 <field name="titleSort">astuzie simulate</field>
-<field name="composer">Domenico Cerciа</field>
-<field name="composerSort">Cerciа, Domenico</field>
+<field name="composer">Domenico Cercià</field>
+<field name="composerSort">Cercià, Domenico</field>
 <field name="year">1792</field>
 <field name="date">1792</field><field name="theater">Teatro San Ferdinando</field>
 <field name="city">Naples</field>

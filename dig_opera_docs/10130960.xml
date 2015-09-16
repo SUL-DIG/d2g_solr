@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10130960</field>
 <field name="genre">Operas</field>
 <field name="title">Der Mumien</field>
 <field name="titleSort">Mumien</field>
 <field name="composer">[Karl Paumgarten] Friedrich von Thul</field>
-<field name="composerSort">Thul, [Karl Paumgarten] Friedrich von</field>
+<field name="composerSort">Thul, Friedrich von [Karl Paumgarten]</field>
 <field name="year">1911</field>
 <field name="date">1911</field>
 <field name="librettist">[Joseph Hostasch] Julius Horst</field>

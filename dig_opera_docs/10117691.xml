@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117691</field>
 <field name="genre">Operas</field>
 <field name="title">Aucassin et Nicolette</field>
 <field name="titleSort">Aucassin et Nicolette</field>
 <field name="composer">Paul Le Flem</field>
-<field name="composerSort">Flem, Paul Le</field>
+<field name="composerSort">Le Flem, Paul</field>
 <field name="year">1908</field>
 <field name="date">1908</field>
 <field name="librettist">Paul Le Flem</field>

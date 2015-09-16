@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105404</field>
 <field name="genre">Operas</field>
 <field name="title">La fonte gaia</field>
 <field name="titleSort">fonte gaia</field>
 <field name="composer">[Ugo Casalis] Guy de Cazalès</field>
-<field name="composerSort">Cazalès, [Ugo Casalis] Guy de</field>
+<field name="composerSort">Cazalès, Guy de [Ugo Casalis]</field>
 <field name="year">1921</field>
 <field name="date">1921</field>
 <field name="librettist">[Ugo Casalis] Guy de Cazalès</field>

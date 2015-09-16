@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10106518</field>
 <field name="genre">Operas</field>
 <field name="title">Les contes de Piron</field>
 <field name="titleSort">contes de Piron</field>
-<field name="composer">C. Controne</field>
-<field name="composerSort">Controne, C.</field>
+<field name="composer">Célestin Contrône</field>
+<field name="composerSort">Contrône, Célestin</field>
 <field name="year">1901</field>
 <field name="date">1901</field>
 <field name="librettist">Gaston Habrekorn</field>

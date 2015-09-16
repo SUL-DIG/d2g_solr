@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10132473</field>
 <field name="genre">Operas</field>
 <field name="title">Andreas Wolfius</field>
 <field name="titleSort">Andreas Wolfius</field>
 <field name="composer">[Walter Schmidt] Fried Walter</field>
-<field name="composerSort">Walter, [Walter Schmidt] Fried</field>
+<field name="composerSort">Walter, Fried [Walter Schmidt]</field>
 <field name="year">1940</field>
 <field name="date">1940</field>
 <field name="librettist">Christoph Schulz-Gellen</field>

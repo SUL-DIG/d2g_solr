@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10112670</field>
 <field name="genre">Operas</field>
 <field name="title">La neuvaine de la chandeleur</field>
 <field name="titleSort">neuvaine de la chandeleur</field>
-<field name="composer">Guillaume Frédéric Greive</field>
-<field name="composerSort">Greive, Guillaume Frédéric</field>
+<field name="composer">Guillaume Greive</field>
+<field name="composerSort">Greive, Guillaume</field>
 <field name="year">1862</field>
 <field name="date">1862</field>
 <field name="librettist">[Joseph-Philippe Simon] Lockroy</field>

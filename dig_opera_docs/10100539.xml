@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10100539</field>
 <field name="genre">Operas</field>
 <field name="title">Bindra the Minstrel</field>
 <field name="titleSort">Bindra the Minstrel</field>
 <field name="composer">[Mary Frances Bumpers] Frances Allitsen</field>
-<field name="composerSort">Allitsen, [Mary Frances Bumpers] Frances</field>
+<field name="composerSort">Allitsen, Frances [Mary Frances Bumpers]</field>
 <field name="year">1912</field>
 <field name="date">1912</field>
 <field name="librettist">[Mary Frances Bumpers] Frances Allitsen</field>

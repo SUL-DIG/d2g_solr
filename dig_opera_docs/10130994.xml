@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10130994</field>
 <field name="genre">Operas</field>
 <field name="title">Dioklecijan</field>
 <field name="titleSort">Dioklecijan</field>
-<field name="composer">Ivo Tijardovic</field>
-<field name="composerSort">Tijardovic, Ivo</field>
+<field name="composer">Ivo Tijardović</field>
+<field name="composerSort">Tijardović, Ivo</field>
 <field name="year">1966</field>
 <field name="date">1966</field>
 <field name="librettist">Branko Radica</field>

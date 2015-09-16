@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10119630</field>
 <field name="genre">Operas</field>
 <field name="title">Der Spiegelritter</field>
 <field name="titleSort">Spiegelritter</field>
-<field name="composer">Vincenc Masek</field>
-<field name="composerSort">Masek, Vincenc</field>
+<field name="composer">Vincenc Mašek</field>
+<field name="composerSort">Mašek, Vincenc</field>
 <field name="year">1784</field>
 <field name="date">1784</field>
 <field name="librettist">August von Kotzebue</field>

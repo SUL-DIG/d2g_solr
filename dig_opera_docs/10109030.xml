@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10109030</field>
 <field name="genre">Operas</field>
 <field name="title">Lin Calel</field>
 <field name="titleSort">Lin Calel</field>
-<field name="composer">Arnaldo dґEspósito</field>
-<field name="composerSort">dґEspósito, Arnaldo</field>
+<field name="composer">Arnaldo d'Espósito</field>
+<field name="composerSort">Espósito, Arnaldo d'</field>
 <field name="year">1941</field>
 <field name="date">1941</field>
 <field name="librettist">Victor Mercante</field>

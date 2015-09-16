@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10108537</field>
 <field name="genre">Operas</field>
 <field name="title">Folies d'amour</field>
 <field name="titleSort">Folies d'amour</field>
-<field name="composer">Mme. Baronne Durand de Fontmagne</field>
-<field name="composerSort">Fontmagne, Mme. Baronne Durand de</field>
+<field name="composer">Marie Caroline Durand de Fontmagne</field>
+<field name="composerSort">Durand de Fontmagne, Marie Caroline</field>
 <field name="year">1894</field>
 <field name="date">1894</field>
 <field name="librettist">H. Dracy</field>

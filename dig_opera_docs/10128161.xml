@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">La chemise</field>
 <field name="titleSort">chemise</field>
-<field name="composer">__ Scheidecker</field>
-<field name="composerSort">Scheidecker, __</field>
+<field name="composer">Jules Scheidecker</field>
+<field name="composerSort">Scheidecker, Jules</field>
 <field name="year">1894</field>
 <field name="date">1894</field>
 <field name="librettist">E. Xantrac</field>

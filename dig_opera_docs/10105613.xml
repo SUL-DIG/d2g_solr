@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105613</field>
 <field name="genre">Operas</field>
 <field name="title">Annette et Basile</field>
 <field name="titleSort">Annette et Basile</field>
-<field name="composer">Louis-Claude-Armand Chardiny</field>
-<field name="composerSort">Chardiny, Louis-Claude-Armand</field>
+<field name="composer">Louis-Armand Chardiny</field>
+<field name="composerSort">Chardiny, Louis-Armand</field>
 <field name="year">1785</field>
 <field name="date">1785</field>
 <field name="librettist">Charles-Jacob Guillemain</field>

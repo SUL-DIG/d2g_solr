@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105602</field>
 <field name="genre">Operas</field>
 <field name="title">Margarita la Tornera</field>
 <field name="titleSort">Margarita la Tornera</field>
 <field name="composer">Ruperto Chapí y Llorente</field>
-<field name="composerSort">Llorente, Ruperto Chapí y</field>
+<field name="composerSort">Chapí y Llorente, Ruperto</field>
 <field name="year">1909</field>
 <field name="date">1909</field>
 <field name="librettist">Carlos Fernández Shaw</field>

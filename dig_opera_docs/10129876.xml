@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129876</field>
 <field name="genre">Operas</field>
 <field name="title">La regina di Scozia</field>
 <field name="titleSort">regina di Scozia</field>
 <field name="composer">[Florence Skinner] Fiorenza Steward-Stresa</field>
-<field name="composerSort">Steward-Stresa, [Florence Skinner] Fiorenza</field>
+<field name="composerSort">Steward-Stresa, Fiorenza [Florence Skinner]</field>
 <field name="year">1883</field>
 <field name="date">1883</field><field name="theater">Teatro Vittorio Emanuele</field>
 <field name="city">Turin</field>

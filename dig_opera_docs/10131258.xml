@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131258</field>
 <field name="genre">Operas</field>
 <field name="title">L'onomastico di Nina</field>
 <field name="titleSort">onomastico di Nina</field>
-<field name="composer">Giovanni D. Trebbi</field>
-<field name="composerSort">Trebbi, Giovanni D.</field>
+<field name="composer">Giovanni Trebbi</field>
+<field name="composerSort">Trebbi, Giovanni</field>
 <field name="year">1878</field>
 <field name="date">1878</field>
 <field name="librettist">Ottavio Mingardi</field>

@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">La chasse royale</field>
 <field name="titleSort">chasse royale</field>
-<field name="composer">Jules Joseph Godefroid</field>
-<field name="composerSort">Godefroid, Jules Joseph</field>
+<field name="composer">Jules Godefroid</field>
+<field name="composerSort">Godefroid, Jules</field>
 <field name="year">1839</field>
 <field name="date">1839</field>
 <field name="librettist">Amable de Saint-Hilaire</field>

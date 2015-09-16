@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117243</field>
 <field name="genre">Operas</field>
 <field name="title">Le cabaret des amours</field>
 <field name="titleSort">cabaret des amours</field>
-<field name="composer">__ Lanteires</field>
-<field name="composerSort">Lanteires, __</field>
+<field name="composer">André Lanteirès</field>
+<field name="composerSort">Lanteirès, André</field>
 <field name="year">1889</field>
 <field name="date">1889</field>
 <field name="librettist">Octave Pradels</field>

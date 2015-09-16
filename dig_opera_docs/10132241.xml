@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10132241</field>
 <field name="genre">Operas</field>
 <field name="title">La moissonneuse</field>
 <field name="titleSort">moissonneuse</field>
-<field name="composer">Charles-Louis-Adolphe Vogel</field>
-<field name="composerSort">Vogel, Charles-Louis-Adolphe</field>
+<field name="composer">Adolphe Vogel</field>
+<field name="composerSort">Vogel, Adolphe</field>
 <field name="year">1853</field>
 <field name="date">1853</field>
 <field name="librettist">Anicet Bourgeois</field>

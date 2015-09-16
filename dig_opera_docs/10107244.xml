@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107244</field>
 <field name="genre">Operas</field>
 <field name="title">Roger Bontemps</field>
 <field name="titleSort">Roger Bontemps</field>
-<field name="composer">Jean Jacques Debillemont</field>
-<field name="composerSort">Debillemont, Jean Jacques</field>
+<field name="composer">Jean-Jacques Debillemont</field>
+<field name="composerSort">Debillemont, Jean-Jacques</field>
 <field name="year">1868</field>
 <field name="date">1868</field>
 <field name="librettist">[Louis-François Nicolaïe] Clairville</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10122431</field>
 <field name="genre">Operas</field>
 <field name="title">Opuszczone dzieci (The Forsaken Children)</field>
 <field name="titleSort">Opuszczone dzieci (The Forsaken Children)</field>
-<field name="composer">Michael Kazimierz Oginski</field>
-<field name="composerSort">Oginski, Michael Kazimierz</field>
+<field name="composer">Michał Kazimierz Ogiński</field>
+<field name="composerSort">Ogiński, Michał Kazimierz</field>
 <field name="year">1771</field>
 <field name="date">1771</field>
 <field name="librettist">Michael Kazimierz Oginski</field>

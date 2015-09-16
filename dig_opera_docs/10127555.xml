@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10127555</field>
 <field name="genre">Operas</field>
 <field name="title">Il naufragio</field>
 <field name="titleSort">naufragio</field>
 <field name="composer">Eduardo Sánchez de Fuentes</field>
-<field name="composerSort">Fuentes, Eduardo Sánchez de</field>
+<field name="composerSort">Sánchez de Fuentes, Eduardo</field>
 <field name="year">1901</field>
 <field name="date">1901</field>
 <field name="librettist">Eugenio Sánchez de Fuentes</field>

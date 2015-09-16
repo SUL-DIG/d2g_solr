@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115158</field>
 <field name="genre">Operas</field>
 <field name="title">Počátek románu (The Beginning of a Romance)</field>
 <field name="titleSort">Počátek románu (The Beginning of a Romance)</field>
-<field name="composer">Leos Janácek</field>
-<field name="composerSort">Janácek, Leos</field>
+<field name="composer">Leoš Janáček</field>
+<field name="composerSort">Janáček, Leoš</field>
 <field name="year">1894</field>
 <field name="date">1894</field>
 <field name="librettist">Jaroslav Tichý</field>

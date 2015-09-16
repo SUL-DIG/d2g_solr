@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10100081</field>
 <field name="genre">Operas</field>
 <field name="title">El Sukia</field>
 <field name="titleSort">Sukia</field>
 <field name="composer">Jorge Luis Acevedo Vargas</field>
-<field name="composerSort">Vargas, Jorge Luis Acevedo</field>
+<field name="composerSort">Acevedo Vargas, Jorge Luis</field>
 <field name="year">1986</field>
 <field name="date">1986</field><field name="theater">Teatro Nacional</field>
 <field name="city">San Jose</field>

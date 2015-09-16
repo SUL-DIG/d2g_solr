@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10108495</field>
 <field name="genre">Operas</field>
 <field name="title">La caporale de Mimi Pinson</field>
 <field name="titleSort">caporale de Mimi Pinson</field>
-<field name="composer">E. Dupré</field>
-<field name="composerSort">Dupré, E.</field>
+<field name="composer">Eugène Dupré</field>
+<field name="composerSort">Dupré, Eugène</field>
 <field name="year">1915</field>
 <field name="date">1915</field>
 <field name="librettist">Jean Tranchant</field>

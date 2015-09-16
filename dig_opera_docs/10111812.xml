@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10111812</field>
 <field name="genre">Operas</field>
 <field name="title">Die elfte Muse</field>
 <field name="titleSort">elfte Muse</field>
 <field name="composer">[Max Winterfeld] Jean Gilbert</field>
-<field name="composerSort">Gilbert, [Max Winterfeld] Jean</field>
+<field name="composerSort">Gilbert, Jean [Max Winterfeld]</field>
 <field name="year">1912</field>
 <field name="date">1912</field>
 <field name="librettist">Georg Okonkowsky</field>

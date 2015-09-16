@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Krakonoš</field>
 <field name="titleSort">Krakonoš</field>
-<field name="composer">Josef Richard Rozkosný</field>
-<field name="composerSort">Rozkosný, Josef Richard</field>
+<field name="composer">Josef Richard Rozkošný</field>
+<field name="composerSort">Rozkošný, Josef Richard</field>
 <field name="year">1889</field>
 <field name="date">1889</field>
 <field name="librettist">Jaromír Borecký</field>

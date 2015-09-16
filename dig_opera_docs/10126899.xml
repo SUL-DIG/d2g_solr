@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Raphaël</field>
 <field name="titleSort">Raphaël</field>
-<field name="composer">J. M. Rouvier</field>
-<field name="composerSort">Rouvier, J. M.</field>
+<field name="composer">Marius Rouvier</field>
+<field name="composerSort">Rouvier, Marius</field>
 <field name="year">1874</field>
 <field name="date">1874</field>
 <field name="librettist">Elysée Bach</field>

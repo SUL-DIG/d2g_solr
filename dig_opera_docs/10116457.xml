@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Noc Šimona a Judy</field>
 <field name="titleSort">Noc Šimona a Judy</field>
-<field name="composer">Karel Kovarovic</field>
-<field name="composerSort">Kovarovic, Karel</field>
+<field name="composer">Karel Kovařovic</field>
+<field name="composerSort">Kovařovic, Karel</field>
 <field name="year">1892</field>
 <field name="date">1892</field>
 <field name="librettist">Karel Šipek</field>

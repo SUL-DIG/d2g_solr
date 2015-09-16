@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10104232</field>
 <field name="genre">Operas</field>
 <field name="title">Gilgamesh</field>
 <field name="titleSort">Gilgamesh</field>
-<field name="composer">Rudolf Bruci</field>
-<field name="composerSort">Bruci, Rudolf</field>
+<field name="composer">Rudolf Bruči</field>
+<field name="composerSort">Bruči, Rudolf</field>
 <field name="year">1986</field>
 <field name="date">1986</field>
 <field name="librettist">Arsenije Milosevic</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10122113</field>
 <field name="genre">Operas</field>
 <field name="title">Cartea cu Apolodor</field>
 <field name="titleSort">Cartea cu Apolodor</field>
-<field name="composer">Stefan Niculescu</field>
-<field name="composerSort">Niculescu, Stefan</field>
+<field name="composer">Ştefan Niculescu</field>
+<field name="composerSort">Niculescu, Ştefan</field>
 <field name="year">1975</field>
 <field name="date">1975</field>
 <field name="librettist">Gellu Naum</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105483</field>
 <field name="genre">Operas</field>
 <field name="title">Don Luigi di Toledo</field>
 <field name="titleSort">Don Luigi di Toledo</field>
-<field name="composer">__ Ceriani</field>
-<field name="composerSort">Ceriani, __</field>
+<field name="composer">Giovanni Cerioni</field>
+<field name="composerSort">Cerioni, Giovanni</field>
 <field name="year">1875</field>
 <field name="date">1875</field>
 <field name="librettist">Achille Giovanni Cagna</field>

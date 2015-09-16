@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Maître Claude</field>
 <field name="titleSort">Maître Claude</field>
-<field name="composer">Jules Émile David Cohen</field>
-<field name="composerSort">Cohen, Jules Émile David</field>
+<field name="composer">Jules Cohen</field>
+<field name="composerSort">Cohen, Jules</field>
 <field name="year">1861</field>
 <field name="date">1861</field>
 <field name="librettist">Henri de Saint-Georges</field>

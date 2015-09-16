@@ -8,8 +8,8 @@
 		
 		
 		<field name="date">1912</field>
-		<field name="composer">Stevan Hristic</field>
-		<field name="composerSort">Hristic, Stevan</field>
+		<field name="composer">Stevan Hristić</field>
+		<field name="composerSort">Hristić, Stevan</field>
 		<field name="librettist">Dragutin Ilić</field>
 		<field name="librettistSort">Ilić, Dragutin</field>
 		

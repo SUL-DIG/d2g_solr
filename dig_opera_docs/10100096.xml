@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10100096</field>
 <field name="genre">Operas</field>
 <field name="title">La reine des fées</field>
 <field name="titleSort">reine des fées</field>
 <field name="composer">Paul d'Acosta</field>
-<field name="composerSort">d'Acosta, Paul</field>
+<field name="composerSort">Acosta, Paul d'</field>
 <field name="year">1890</field>
 <field name="date">1890</field>
 <field name="librettist">Constant Fréderix</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10109700</field>
 <field name="genre">Operas</field>
 <field name="title">Bukovín</field>
 <field name="titleSort">Bukovín</field>
-<field name="composer">Zdenek Fibich</field>
-<field name="composerSort">Fibich, Zdenek</field>
+<field name="composer">Zdeněk Fibich</field>
+<field name="composerSort">Fibich, Zdeněk</field>
 <field name="year">1874</field>
 <field name="date">1874</field>
 <field name="librettist">Karel Sabina</field>

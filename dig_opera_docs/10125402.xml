@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10125402</field>
 <field name="genre">Operas</field>
 <field name="title">Saules miestas (City of the Sun)</field>
 <field name="titleSort">Saules miestas (City of the Sun)</field>
-<field name="composer">Antanas Raciunas</field>
-<field name="composerSort">Raciunas, Antanas</field>
+<field name="composer">Antanas Račiūnas</field>
+<field name="composerSort">Račiūnas, Antanas</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
 <field name="librettist">Jonas Mackonis</field>

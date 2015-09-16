@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10110336</field>
 <field name="genre">Operas</field>
 <field name="title">À la pèche</field>
 <field name="titleSort">À la pèche</field>
-<field name="composer">Georges Auguste Fragerolle</field>
-<field name="composerSort">Fragerolle, Georges Auguste</field>
+<field name="composer">Georges Fragerolle</field>
+<field name="composerSort">Fragerolle, Georges</field>
 <field name="year">1894</field>
 <field name="date">1894</field>
 <field name="librettist">Octave Pradels</field>

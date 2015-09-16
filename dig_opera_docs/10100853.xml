@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10100853</field>
 <field name="genre">Operas</field>
 <field name="title">Der Fürst und sein Volk</field>
 <field name="titleSort">Fürst und sein Volk</field>
 <field name="composer">Ferdinand d'Antoine</field>
-<field name="composerSort">d'Antoine, Ferdinand</field>
+<field name="composerSort">Antoine, Ferdinand d'</field>
 <field name="year">1792</field>
 <field name="date">1792</field>
 <field name="librettist">Georg Carl Claudius</field>

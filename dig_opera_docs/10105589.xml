@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105589</field>
 <field name="genre">Operas</field>
 <field name="title">Le mannequin</field>
 <field name="titleSort">mannequin</field>
-<field name="composer">Pierre-David-Augustin Chapelle</field>
-<field name="composerSort">Chapelle, Pierre-David-Augustin</field>
+<field name="composer">Augustin Chapelle</field>
+<field name="composerSort">Chapelle, Augustin</field>
 <field name="year">1793</field>
 <field name="date">1793</field>
 <field name="librettist">Joseph-Dominique Rauquil-Lieutaud</field>

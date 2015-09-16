@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10108522</field>
 <field name="genre">Operas</field>
 <field name="title">Ungdom og galskab, eller List over list</field>
 <field name="titleSort">Ungdom og galskab, eller List over list</field>
 <field name="composer">Édouard Du Puy</field>
-<field name="composerSort">Puy, Édouard Du</field>
+<field name="composerSort">Du Puy, Édouard</field>
 <field name="year">1806</field>
 <field name="date">1806</field>
 <field name="librettist">Niels Thoroup Bruun</field>

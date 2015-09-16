@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10111228</field>
 <field name="genre">Operas</field>
 <field name="title">Le (roi) Barde</field>
 <field name="titleSort">Barde</field>
-<field name="composer">Léon-Gustave-Cyprien Gastinel</field>
-<field name="composerSort">Gastinel, Léon-Gustave-Cyprien</field>
+<field name="composer">Léon Gastinel</field>
+<field name="composerSort">Gastinel, Léon</field>
 <field name="year">1896</field>
 <field name="date">1896</field>
 <field name="librettist">Léon-Gustave-Cyprien Gastinel</field>

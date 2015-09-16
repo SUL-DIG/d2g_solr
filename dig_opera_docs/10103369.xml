@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Sonata Belzebuba</field>
 <field name="titleSort">Sonata Belzebuba</field>
-<field name="composer">Edward Boguslawski</field>
-<field name="composerSort">Boguslawski, Edward</field>
+<field name="composer">Edward Bogusławski</field>
+<field name="composerSort">Bogusławski, Edward</field>
 <field name="year">1977</field>
 <field name="date">1977</field>
 <field name="librettist">Edward Bogusławski</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10104612</field>
 <field name="genre">Operas</field>
 <field name="title">I tre matrimoni</field>
 <field name="titleSort">tre matrimoni</field>
-<field name="composer">Nicolò Calandro</field>
-<field name="composerSort">Calandro, Nicolò</field>
+<field name="composer">Nicola Calandra</field>
+<field name="composerSort">Calandra, Nicola</field>
 <field name="year">1756</field>
 <field name="date">1756</field>
 <field name="librettist">Carlo Gozzi</field>

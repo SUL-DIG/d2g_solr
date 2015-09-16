@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Les enlèvements impromptus</field>
 <field name="titleSort">enlèvements impromptus</field>
-<field name="composer">Louis Barthélmy Pradher</field>
-<field name="composerSort">Pradher, Louis Barthélmy</field>
+<field name="composer">Louis-Barthélmy Pradher</field>
+<field name="composerSort">Pradher, Louis-Barthélmy</field>
 <field name="year">1824</field>
 <field name="date">1824</field>
 <field name="librettist">Paul de Kock</field>

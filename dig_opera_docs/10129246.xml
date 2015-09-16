@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129246</field>
 <field name="genre">Operas</field>
 <field name="title">Švédové v Praze (The Swedes in Prague)</field>
 <field name="titleSort">Švédové v Praze (The Swedes in Prague)</field>
-<field name="composer">Jan Nepomuk Skroup</field>
-<field name="composerSort">Skroup, Jan Nepomuk</field>
+<field name="composer">Jan Nepomuk Škroup</field>
+<field name="composerSort">Škroup, Jan Nepomuk</field>
 <field name="year">1867</field>
 <field name="date">1867</field>
 <field name="librettist">Josef Pecírka</field>

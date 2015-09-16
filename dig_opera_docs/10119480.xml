@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10119480</field>
 <field name="genre">Operas</field>
 <field name="title">Ipermestra</field>
 <field name="titleSort">Ipermestra</field>
 <field name="composer">Vincent Martín y Soler</field>
-<field name="composerSort">Soler, Vincent Martín y</field>
+<field name="composerSort">Martín y Soler, Vincent</field>
 <field name="year">1780</field>
 <field name="date">1780</field>
 <field name="librettist">Pietro Metastasio</field>

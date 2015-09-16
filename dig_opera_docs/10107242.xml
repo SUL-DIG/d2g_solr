@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107242</field>
 <field name="genre">Operas</field>
 <field name="title">Le renégat</field>
 <field name="titleSort">renégat</field>
-<field name="composer">Jean Jacques Debillemont</field>
-<field name="composerSort">Debillemont, Jean Jacques</field>
+<field name="composer">Jean-Jacques Debillemont</field>
+<field name="composerSort">Debillemont, Jean-Jacques</field>
 <field name="year">1849</field>
 <field name="date">1849</field><field name="theater">Grand-Théâtre</field>
 <field name="city">Dijon</field>

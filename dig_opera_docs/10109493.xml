@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10109493</field>
 <field name="genre">Operas</field>
 <field name="title">König Drosselbart</field>
 <field name="titleSort">König Drosselbart</field>
 <field name="composer">[Felix Cohn] C. Felix</field>
-<field name="composerSort">Felix, [Felix Cohn] C.</field>
+<field name="composerSort">Felix, C. [Felix Cohn]</field>
 <field name="year">1886</field>
 <field name="date">1886</field>
 <field name="librettist">Mathilde Luckner</field>

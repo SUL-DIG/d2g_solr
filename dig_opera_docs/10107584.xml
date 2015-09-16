@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107584</field>
 <field name="genre">Operas</field>
 <field name="title">Zeffirino e Zulinetta</field>
 <field name="titleSort">Zeffirino e Zulinetta</field>
 <field name="composer">__ De Simone</field>
-<field name="composerSort">Simone, __ De</field>
+<field name="composerSort">De Simone, __</field>
 <field name="year">1893</field>
 <field name="date">1893</field>
 <field name="librettist">Raffaele Maffei</field>

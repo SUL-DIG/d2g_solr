@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129854</field>
 <field name="genre">Operas</field>
 <field name="title">Sânziana şi Pepelea (Sinziana and Pepelea)</field>
 <field name="titleSort">Sânziana şi Pepelea (Sinziana and Pepelea)</field>
-<field name="composer">George Stephanescu</field>
-<field name="composerSort">Stephanescu, George</field>
+<field name="composer">George Stephănescu</field>
+<field name="composerSort">Stephănescu, George</field>
 <field name="year">1881</field>
 <field name="date">1881</field>
 <field name="librettist">Vasile Alecsandri</field>

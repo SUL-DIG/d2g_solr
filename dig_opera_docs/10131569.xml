@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131569</field>
 <field name="genre">Operas</field>
 <field name="title">L'alcade</field>
 <field name="titleSort">alcade</field>
-<field name="composer">__ Uzépy</field>
-<field name="composerSort">Uzépy, __</field>
+<field name="composer">Ernest Uzépy</field>
+<field name="composerSort">Uzépy, Ernest</field>
 <field name="year">1864</field>
 <field name="date">1864</field>
 <field name="librettist">Jules Denizet</field>

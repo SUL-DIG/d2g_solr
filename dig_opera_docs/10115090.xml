@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115090</field>
 <field name="genre">Operas</field>
 <field name="title">Céphale et Procris</field>
 <field name="titleSort">Céphale et Procris</field>
-<field name="composer">Elisabeth-Claude Jacquet de la Guerre</field>
-<field name="composerSort">Guerre, Elisabeth-Claude Jacquet de la</field>
+<field name="composer">Élisabeth Jacquet de La Guerre</field>
+<field name="composerSort">Jacquet de La Guerre, Élisabeth</field>
 <field name="year">1694</field>
 <field name="date">1694</field>
 <field name="librettist">Joseph-François Duché de Vancy</field>

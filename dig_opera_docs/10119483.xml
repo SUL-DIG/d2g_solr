@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10119483</field>
 <field name="genre">Operas</field>
 <field name="title">Partenope</field>
 <field name="titleSort">Partenope</field>
 <field name="composer">Vincent Martín y Soler</field>
-<field name="composerSort">Soler, Vincent Martín y</field>
+<field name="composerSort">Martín y Soler, Vincent</field>
 <field name="year">1782</field>
 <field name="date">1782</field>
 <field name="librettist">Pietro Metastasio</field>

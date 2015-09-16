@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10116555</field>
 <field name="genre">Operas</field>
 <field name="title">Le mariage а l'anglaise</field>
 <field name="titleSort">mariage а l'anglaise</field>
-<field name="composer">Charles Frédéric Kreubé</field>
-<field name="composerSort">Kreubé, Charles Frédéric</field>
+<field name="composer">Charles-Frédéric Kreubé</field>
+<field name="composerSort">Kreubé, Charles-Frédéric</field>
 <field name="year">1828</field>
 <field name="date">1828</field>
 <field name="librettist">Justin Marie Alexis Gensoul</field>

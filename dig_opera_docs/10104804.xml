@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10104804</field>
 <field name="genre">Operas</field>
 <field name="title">Esmeralda la gitana</field>
 <field name="titleSort">Esmeralda la gitana</field>
 <field name="composer">Óscar Camps y Soler</field>
-<field name="composerSort">Soler, Óscar Camps y</field>
+<field name="composerSort">Camps y Soler, Óscar</field>
 <field name="year">1879</field>
 <field name="date">1879</field>
 <field name="librettist">Victor Hugo</field>

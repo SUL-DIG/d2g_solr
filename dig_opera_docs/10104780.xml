@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10104780</field>
 <field name="genre">Operas</field>
 <field name="title">La tragedia del beso</field>
 <field name="titleSort">tragedia del beso</field>
 <field name="composer">Conrado del Campo y Zabaleta</field>
-<field name="composerSort">Zabaleta, Conrado del Campo y</field>
+<field name="composerSort">Campo y Zabaleta, Conrado del</field>
 <field name="year">1915</field>
 <field name="date">1915</field>
 <field name="librettist">Carlos Fernández Shaw</field>

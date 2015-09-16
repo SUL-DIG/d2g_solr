@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129314</field>
 <field name="genre">Operas</field>
 <field name="title">Cesta za hvězdou (Journey to a Star)</field>
 <field name="titleSort">Cesta za hvězdou (Journey to a Star)</field>
-<field name="composer">Jirí Smutný</field>
-<field name="composerSort">Smutný, Jirí</field>
+<field name="composer">Jiří Smutný</field>
+<field name="composerSort">Smutný, Jiří</field>
 <field name="year">1971</field>
 <field name="date">1971</field>
 <field name="librettist">Josef Melc</field>

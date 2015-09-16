@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Gosposvetski sen (Gospa Sveta's Dream)</field>
 <field name="titleSort">Gosposvetski sen (Gospa Sveta's Dream)</field>
-<field name="composer">[Friedrich von Schirza] Risto Savin</field>
-<field name="composerSort">Savin, [Friedrich von Schirza] Risto</field>
+<field name="composer">[Friderik Širca] Risto Savin</field>
+<field name="composerSort">Savin, Risto [Friderik Širca]</field>
 <field name="year">1923</field>
 <field name="date">1923</field>
 <field name="librettist">Franjo Roš</field>

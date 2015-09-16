@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10124002</field>
 <field name="genre">Operas</field>
 <field name="title">The Menaced Assassin</field>
 <field name="titleSort">Menaced Assassin</field>
 <field name="composer">Jeremy Peyton Jones</field>
-<field name="composerSort">Jones, Jeremy Peyton</field>
+<field name="composerSort">Peyton Jones, Jeremy</field>
 <field name="year">1989</field>
 <field name="date">1989</field>
 <field name="librettist">Claire MacDonald</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10100864</field>
 <field name="genre">Operas</field>
 <field name="title">Gli amanti burlati</field>
 <field name="titleSort">amanti burlati</field>
 <field name="composer">Antonio d'Antoni</field>
-<field name="composerSort">d'Antoni, Antonio</field>
+<field name="composerSort">Antoni, Antonio d'</field>
 <field name="year">1821</field>
 <field name="date">1821</field>
 <field name="city">Siracusa</field>

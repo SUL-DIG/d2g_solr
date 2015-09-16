@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129852</field>
 <field name="genre">Operas</field>
 <field name="title">Peste Dunăre (Across the Danube)</field>
 <field name="titleSort">Peste Dunăre (Across the Danube)</field>
-<field name="composer">George Stephanescu</field>
-<field name="composerSort">Stephanescu, George</field>
+<field name="composer">George Stephănescu</field>
+<field name="composerSort">Stephănescu, George</field>
 <field name="year">1880</field>
 <field name="date">1880</field>
 <field name="librettist">Giuseppe Ventura</field>

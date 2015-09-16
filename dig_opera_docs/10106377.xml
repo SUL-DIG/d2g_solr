@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10106377</field>
 <field name="genre">Operas</field>
 <field name="title">Plăieşii</field>
 <field name="titleSort">Plăieşii</field>
-<field name="composer">Florin Comisel</field>
-<field name="composerSort">Comisel, Florin</field>
+<field name="composer">Florin Comișel</field>
+<field name="composerSort">Comișel, Florin</field>
 <field name="year">1977</field>
 <field name="date">1977</field>
 <field name="librettist">Paul Mihail Ionescu</field>

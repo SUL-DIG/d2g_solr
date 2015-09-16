@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10124386</field>
 <field name="genre">Operas</field>
 <field name="title">Ernesto, duca di Sicilia</field>
 <field name="titleSort">Ernesto, duca di Sicilia</field>
 <field name="composer">José Piqué y Cerveró</field>
-<field name="composerSort">Cerveró, José Piqué y</field>
+<field name="composerSort">Piqué y Cerveró, José</field>
 <field name="year">1844</field>
 <field name="date">1844</field><field name="theater">Teatre Principal</field>
 <field name="city">Barcelona</field>

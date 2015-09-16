@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117842</field>
 <field name="genre">Operas</field>
 <field name="title">Velléda</field>
 <field name="titleSort">Velléda</field>
-<field name="composer">Charles Fern Lenepveu</field>
-<field name="composerSort">Lenepveu, Charles Fern</field>
+<field name="composer">Charles Lenepveu</field>
+<field name="composerSort">Lenepveu, Charles</field>
 <field name="year">1882</field>
 <field name="date">1882</field>
 <field name="librettist">Jules Chantepie</field>

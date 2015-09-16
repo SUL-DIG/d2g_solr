@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10122420</field>
 <field name="genre">Operas</field>
 <field name="title">Traghadh na Taoíde (The Ebb Tide)</field>
 <field name="titleSort">Traghadh na Taoíde (The Ebb Tide)</field>
 <field name="composer">Eamonn Ó Gallchobhair</field>
-<field name="composerSort">Gallchobhair, Eamonn Ó</field>
+<field name="composerSort">Ó Gallchobhair, Eamonn</field>
 <field name="year">1950</field>
 <field name="date">1950</field>
 <field name="librettist">T. Ó Coileánin</field>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10102186</field>
 <field name="genre">Operas</field>
@@ -7,7 +8,7 @@
 <field name="titleSort">grand </field>
 
 <field name="composer">Louis-Abel Beffroy de Reigny</field>
-<field name="composerSort">Reigny, Louis-Abel Beffroy de</field>
+<field name="composerSort">Beffroy de Reigny, Louis-Abel</field>
 <field name="year">1799</field>
 <field name="date">1799</field>
 <field name="librettist">Louis-Abel Beffroy de Reigny</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10126521</field>
 <field name="genre">Operas</field>
 <field name="title">Une fausse alerte</field>
 <field name="titleSort">fausse alerte</field>
-<field name="composer">__ Rolly</field>
-<field name="composerSort">Rolly, __</field>
+<field name="composer">J. Rolly</field>
+<field name="composerSort">Rolly, J.</field>
 <field name="year">1859</field>
 <field name="date">1859</field><field name="theater">Théâtre du Capitole</field>
 <field name="city">Toulouse</field>

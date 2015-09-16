@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10108521</field>
 <field name="genre">Operas</field>
 <field name="title">Felicie, eller Den romanska flickan</field>
 <field name="titleSort">Felicie, eller Den romanska flickan</field>
 <field name="composer">Édouard Du Puy</field>
-<field name="composerSort">Puy, Édouard Du</field>
+<field name="composerSort">Du Puy, Édouard</field>
 <field name="year">1821</field>
 <field name="date">1821</field>
 <field name="librettist">Lars Hjortsberg</field>

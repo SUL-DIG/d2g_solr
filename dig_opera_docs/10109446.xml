@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10109446</field>
 <field name="genre">Operas</field>
 <field name="title">Ipermnestra</field>
 <field name="titleSort">Ipermnestra</field>
 <field name="composer">[Rocco Fedele] Ivan Fedele</field>
-<field name="composerSort">Fedele, [Rocco Fedele] Ivan</field>
+<field name="composerSort">Fedele, Ivan [Rocco Fedele]</field>
 <field name="year">1984</field>
 <field name="date">1984</field>
 <field name="librettist">Giuliano Corti</field>

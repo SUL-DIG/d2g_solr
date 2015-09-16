@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105600</field>
 <field name="genre">Operas</field>
 <field name="title">Los hijos de Batallon</field>
 <field name="titleSort">hijos de Batallon</field>
 <field name="composer">Ruperto Chapí y Llorente</field>
-<field name="composerSort">Llorente, Ruperto Chapí y</field>
+<field name="composerSort">Chapí y Llorente, Ruperto</field>
 <field name="year">1897</field>
 <field name="date">1897</field>
 <field name="librettist">Carlos Fernández Shaw</field>

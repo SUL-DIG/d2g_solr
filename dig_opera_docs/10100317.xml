@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10100317</field>
 <field name="genre">Operas</field>
 <field name="title">Mister Wu</field>
 <field name="titleSort">Mister Wu</field>
 <field name="composer">Eugen d'Albert</field>
-<field name="composerSort">d'Albert, Eugen</field>
+<field name="composerSort">Albert, Eugen d’</field>
 <field name="year">1932</field>
 <field name="date">1932</field>
 <field name="librettist">Karl Michael von Levetzow</field>

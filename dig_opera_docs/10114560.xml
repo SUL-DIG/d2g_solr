@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10114560</field>
 <field name="genre">Operas</field>
 <field name="title">Der Patriot auf dem Lande</field>
 <field name="titleSort">Patriot auf dem Lande</field>
-<field name="composer">Ondrej Frantisek Holý</field>
-<field name="composerSort">Holý, Ondrej Frantisek</field>
+<field name="composer">Ondřej František Holý</field>
+<field name="composerSort">Holý, Ondřej František</field>
 <field name="year">1777</field>
 <field name="date">1777</field>
 <field name="librettist">Karl Emil Schubert</field>

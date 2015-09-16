@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105480</field>
 <field name="genre">Operas</field>
 <field name="title">Il servo trappoliere</field>
 <field name="titleSort">servo trappoliere</field>
-<field name="composer">Domenico Cerciа</field>
-<field name="composerSort">Cerciа, Domenico</field>
+<field name="composer">Domenico Cercià</field>
+<field name="composerSort">Cercià, Domenico</field>
 <field name="year">1806</field>
 <field name="date">1806</field>
 <field name="librettist">Andrea Leone Tottola</field>

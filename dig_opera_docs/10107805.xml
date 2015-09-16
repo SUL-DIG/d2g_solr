@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107805</field>
 <field name="genre">Operas</field>
 <field name="title">La bella modista di Chiaja</field>
 <field name="titleSort">bella modista di Chiaja</field>
 <field name="composer">Giovanni Di Lorenzo</field>
-<field name="composerSort">Lorenzo, Giovanni Di</field>
+<field name="composerSort">Di Lorenzo, Giovanni</field>
 <field name="year">1880</field>
 <field name="date">1880</field>
 <field name="librettist">Alfredo Avellino</field>

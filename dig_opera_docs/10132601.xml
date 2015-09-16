@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10132601</field>
 <field name="genre">Operas</field>
 <field name="title">La laitière de Trianon</field>
 <field name="titleSort">laitière de Trianon</field>
-<field name="composer">Jean-Baptiste-Théodore Weckerlin</field>
-<field name="composerSort">Weckerlin, Jean-Baptiste-Théodore</field>
+<field name="composer">Jean-Baptiste Weckerlin</field>
+<field name="composerSort">Weckerlin, Jean-Baptiste</field>
 <field name="year">1858</field>
 <field name="date">1858</field>
 <field name="librettist">[Jean-Hyacinthe Adonis Gallope] Gallope d'Onquaire</field>

@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Psohlavci (The Dog Heads)</field>
 <field name="titleSort">Psohlavci (The Dog Heads)</field>
-<field name="composer">Karel Kovarovic</field>
-<field name="composerSort">Kovarovic, Karel</field>
+<field name="composer">Karel Kovařovic</field>
+<field name="composerSort">Kovařovic, Karel</field>
 <field name="year">1898</field>
 <field name="date">1898</field>
 <field name="librettist">Karel Šipek</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10113412</field>
 <field name="genre">Operas</field>
 <field name="title">Das Puppenspiel</field>
 <field name="titleSort">Puppenspiel</field>
 <field name="composer">[Richard Levy] Richard Haller</field>
-<field name="composerSort">Haller, [Richard Levy] Richard</field>
+<field name="composerSort">Haller, Richard [Richard Levy]</field>
 <field name="year">1897</field>
 <field name="date">1897</field>
 <field name="librettist">Gustav Tellheim</field>

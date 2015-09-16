@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107398</field>
 <field name="genre">Operas</field>
 <field name="title">Don Spavento</field>
 <field name="titleSort">Don Spavento</field>
-<field name="composer">Jean Charles Alfred Deléhelle</field>
-<field name="composerSort">Deléhelle, Jean Charles Alfred</field>
+<field name="composer">Alfred-Jean-Charles Deléhelle</field>
+<field name="composerSort">Deléhelle, Alfred-Jean-Charles</field>
 <field name="year">1883</field>
 <field name="date">1883</field>
 <field name="librettist">Gustave Vattier</field>

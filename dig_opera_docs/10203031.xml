@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10203031</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Obvinená nevinnost</field>
@@ -7,8 +8,8 @@
 		<field name="month">April</field>
 		<field name="day">15</field>
 		<field name="date">April 15, 1729</field>
-		<field name="composer">Frantisek Antonín Mica</field>
-		<field name="composerSort">Mica, Frantisek Antonín</field>
+		<field name="composer">František Václav Míča</field>
+		<field name="composerSort">Míča, František Václav</field>
 		<field name="librettist">Anton Ferdinand Dubravius</field>
 		<field name="librettistSort">Dubravius, Anton Ferdinand</field>
 		

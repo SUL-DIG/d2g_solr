@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10111063</field>
 <field name="genre">Operas</field>
 <field name="title">Ivan</field>
 <field name="titleSort">Ivan</field>
 <field name="composer">Eduardo García Mansilla</field>
-<field name="composerSort">Mansilla, Eduardo García</field>
+<field name="composerSort">García Mansilla, Eduardo</field>
 <field name="year">1905</field>
 <field name="date">1905</field>
 <field name="librettist">Eduardo García Mansilla</field>

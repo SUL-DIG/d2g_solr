@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107347</field>
 <field name="genre">Operas</field>
 <field name="title">The Monster Bed</field>
 <field name="titleSort">Monster Bed</field>
 <field name="composer">Stefania De Kenessey</field>
-<field name="composerSort">Kenessey, Stefania De</field>
+<field name="composerSort">De Kenessey, Stefania</field>
 <field name="year">1991</field>
 <field name="date">1991</field>
 <field name="librettist">Billy Aronson</field>

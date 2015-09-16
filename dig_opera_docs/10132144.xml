@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10132144</field>
 <field name="genre">Operas</field>
 <field name="title">David, oder Die Befreiung Israels</field>
 <field name="titleSort">David, oder Die Befreiung Israels</field>
-<field name="composer">Jan Vitásek</field>
-<field name="composerSort">Vitásek, Jan</field>
+<field name="composer">Jan August Vitásek</field>
+<field name="composerSort">Vitásek, Jan August</field>
 <field name="year">1810</field>
 <field name="date">1810</field>
 <field name="librettist">Joachim Eduard von Münch-Bellinghausen</field>

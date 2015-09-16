@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Les amoureux de Marinette</field>
 <field name="titleSort">amoureux de Marinette</field>
-<field name="composer">Mme. Le Chevalier de Boisval</field>
-<field name="composerSort">Boisval, Mme. Le Chevalier de</field>
+<field name="composer">Marguerite Le Chevallier de Boisval</field>
+<field name="composerSort">Le Chevallier de Boisval, Marguerite</field>
 <field name="year">1895</field>
 <field name="date">1895</field>
 <field name="librettist">Gustave-Fabius de Champville</field>

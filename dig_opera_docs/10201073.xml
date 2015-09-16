@@ -8,8 +8,8 @@
 		
 		
 		<field name="date">1980</field>
-		<field name="composer">Jan Hanus</field>
-		<field name="composerSort">Hanus, Jan</field>
+		<field name="composer">Jan Hanuš</field>
+		<field name="composerSort">Hanuš, Jan</field>
 		<field name="librettist">Václav Renč</field>
 		<field name="librettistSort">Renč, Václav</field>
 		<field name="librettist">František Trtilek</field>

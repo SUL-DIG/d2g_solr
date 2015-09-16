@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115618</field>
 <field name="genre">Operas</field>
 <field name="title">Słowik, czyli Kasia z Hanką na wydaniu</field>
 <field name="titleSort">Słowik, czyli Kasia z Hanką na wydaniu</field>
-<field name="composer">Maciej Kamienski</field>
-<field name="composerSort">Kamienski, Maciej</field>
+<field name="composer">Maciej Kamieński</field>
+<field name="composerSort">Kamieński, Maciej</field>
 <field name="year">1790</field>
 <field name="date">1790</field>
 <field name="librettist">M. Witkowski</field>

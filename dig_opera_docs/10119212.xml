@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10119212</field>
 <field name="genre">Operas</field>
 <field name="title">La bourse et la vie</field>
 <field name="titleSort">bourse et la vie</field>
-<field name="composer">Charles Casimir Manry</field>
-<field name="composerSort">Manry, Charles Casimir</field>
+<field name="composer">Charles Manry</field>
+<field name="composerSort">Manry, Charles</field>
 <field name="year">1856</field>
 <field name="date">1856</field>
 <field name="librettist">[Jean-Hyacinthe Adonis Gallope] Gallope d'Onquaire</field>

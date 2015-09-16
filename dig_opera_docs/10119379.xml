@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10119379</field>
 <field name="genre">Operas</field>
 <field name="title">Duval, ou Un erreur de jeunesse</field>
 <field name="titleSort">Duval, ou Un erreur de jeunesse</field>
-<field name="composer">P. L. Marini</field>
-<field name="composerSort">Marini, P. L.</field>
+<field name="composer">P.-L. Marini</field>
+<field name="composerSort">Marini, P.-L.</field>
 <field name="year">1800</field>
 <field name="date">1800</field>
 <field name="librettist">André-Joseph Grétry</field>

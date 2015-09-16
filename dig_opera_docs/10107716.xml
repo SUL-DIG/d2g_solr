@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107716</field>
 <field name="genre">Operas</field>
 <field name="title">Doraida</field>
 <field name="titleSort">Doraida</field>
 <field name="composer">Fernando Diaz Siles</field>
-<field name="composerSort">Siles, Fernando Diaz</field>
+<field name="composerSort">Diaz Siles, Fernando</field>
 <field name="year">1915</field>
 <field name="date">1915</field>
 <field name="librettist">Francisco Cabrerizo y Romero</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10118005</field>
 <field name="genre">Operas</field>
 <field name="title">La mort d'Adam</field>
 <field name="titleSort">mort d'Adam</field>
 <field name="composer">Jean-François Le Sueur</field>
-<field name="composerSort">Sueur, Jean-François Le</field>
+<field name="composerSort">Le Sueur, Jean-François</field>
 <field name="year">1809</field>
 <field name="date">1809</field>
 <field name="librettist">Nicolas-François Guillard</field>

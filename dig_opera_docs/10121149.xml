@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10121149</field>
 <field name="genre">Operas</field>
 <field name="title">Petit nuage conjugal</field>
 <field name="titleSort">Petit nuage conjugal</field>
-<field name="composer">G. Morand</field>
-<field name="composerSort">Morand, G.</field>
+<field name="composer">Georges Morand</field>
+<field name="composerSort">Morand, Georges</field>
 <field name="year">1905</field>
 <field name="date">1905</field>
 <field name="librettist">Virgile Thomas</field>

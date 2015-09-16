@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10204529</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Der Tod des Herrn</field>
@@ -7,8 +8,8 @@
 		
 		
 		<field name="date">1906</field>
-		<field name="composer">Paul Hartmann von Aue der Lan-Hochbrunn</field>
-		<field name="composerSort">Hartmann von Aue der Lan-Hochbrunn, Paul</field>
+		<field name="composer">Paul Hartmann von An der Lan-Hochbrunn</field>
+		<field name="composerSort">Hartmann von An der Lan-Hochbrunn, Paul</field>
 		
 		
 		

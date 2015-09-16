@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10201889</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Historien om Jonas</field>
@@ -7,8 +8,8 @@
 		
 		
 		
-		<field name="composer">Carl Aage Rasmussen</field>
-		<field name="composerSort">Rasmussen, Carl Aage</field>
+		<field name="composer">Karl Aage Rasmussen</field>
+		<field name="composerSort">Rasmussen, Karl Aage</field>
 		<field name="librettist">Poul Borum</field>
 		<field name="librettistSort">Borum, Poul</field>
 		

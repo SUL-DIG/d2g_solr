@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107688</field>
 <field name="genre">Operas</field>
 <field name="title">Uilenspiegel</field>
 <field name="titleSort">Uilenspiegel</field>
 <field name="composer">Jean De Winter</field>
-<field name="composerSort">Winter, Jean De</field>
+<field name="composerSort">De Winter, Jean</field>
 <field name="year">1877</field>
 <field name="date">1877</field>
 <field name="librettist">Frédéric Lints</field>

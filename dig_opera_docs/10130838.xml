@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10130838</field>
 <field name="genre">Operas</field>
 <field name="title">Être aimé ou mourir!</field>
 <field name="titleSort">Être aimé ou mourir!</field>
-<field name="composer">__ Terrillon</field>
-<field name="composerSort">Terrillon, __</field>
+<field name="composer">F. Terrillon</field>
+<field name="composerSort">Terrillon, F.</field>
 <field name="year">1885</field>
 <field name="date">1885</field>
 <field name="librettist">Eugène Scribe</field>

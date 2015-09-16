@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10106275</field>
 <field name="genre">Operas</field>
 <field name="title">Déa</field>
 <field name="titleSort">Déa</field>
-<field name="composer">Jules Émile David Cohen</field>
-<field name="composerSort">Cohen, Jules Émile David</field>
+<field name="composer">Jules Cohen</field>
+<field name="composerSort">Cohen, Jules</field>
 <field name="year">1870</field>
 <field name="date">1870</field>
 <field name="librettist">[Pierre-Étienne Piestre] Eugène Cormon</field>

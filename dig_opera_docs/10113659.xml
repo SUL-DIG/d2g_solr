@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10113659</field>
 <field name="genre">Operas</field>
 <field name="title">Skveta partie</field>
 <field name="titleSort">Skveta partie</field>
-<field name="composer">__ Hasler</field>
-<field name="composerSort">Hasler, __</field>
+<field name="composer">Karel Hasler</field>
+<field name="composerSort">Hasler, Karel</field>
 <field name="year">1910</field>
 <field name="date">1910</field>
 <field name="librettist">Emil Staré</field>

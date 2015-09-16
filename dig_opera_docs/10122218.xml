@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10122218</field>
 <field name="genre">Operas</field>
 <field name="title">A princesa dos cajueiros</field>
 <field name="titleSort">princesa dos cajueiros</field>
-<field name="composer">Francisco de Sá Noronha</field>
-<field name="composerSort">Noronha, Francisco de Sá</field>
+<field name="composer">Francisco da Sá Noronha</field>
+<field name="composerSort">Noronha, Francisco da Sá</field>
 <field name="year">1880</field>
 <field name="date">1880</field>
 <field name="librettist">Artur Azevedo</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131432</field>
 <field name="genre">Operas</field>
 <field name="title">Alarich und Zaïde, oder Die bezauberte Leyer</field>
 <field name="titleSort">Alarich und Zaïde, oder Die bezauberte Leyer</field>
-<field name="composer">Vincenc Tucek</field>
-<field name="composerSort">Tucek, Vincenc</field>
+<field name="composer">František Vincenc Tuček</field>
+<field name="composerSort">Tuček, František Vincenc</field>
 <field name="year">1809</field>
 <field name="date">1809</field>
 <field name="librettist">Joseph Alois Gleich</field>

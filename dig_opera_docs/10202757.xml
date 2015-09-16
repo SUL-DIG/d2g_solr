@@ -8,8 +8,8 @@
 		<field name="month">June</field>
 		<field name="day">1</field>
 		<field name="date">June 1, 1920</field>
-		<field name="composer">Jaroslav Jeremiás</field>
-		<field name="composerSort">Jeremiás, Jaroslav</field>
+		<field name="composer">Jaroslav Jeremiáš</field>
+		<field name="composerSort">Jeremiáš, Jaroslav</field>
 		<field name="librettist">František Serafínský Procházka</field>
 		<field name="librettistSort">Procházka, František Serafínský</field>
 		

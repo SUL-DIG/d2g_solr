@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10120298</field>
 <field name="genre">Operas</field>
 <field name="title">Giulietta e Romeo</field>
 <field name="titleSort">Giulietta e Romeo</field>
 <field name="composer">Antonio Mercadal y Pons</field>
-<field name="composerSort">Pons, Antonio Mercadal y</field>
+<field name="composerSort">Mercadal y Pons, Antonio</field>
 <field name="year">1873</field>
 <field name="date">1873</field>
 <field name="librettist">William Shakespeare</field>

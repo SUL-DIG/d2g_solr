@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Korylla</field>
 <field name="titleSort">Korylla</field>
-<field name="composer">Stanislaw Duniecki</field>
-<field name="composerSort">Duniecki, Stanislaw</field>
+<field name="composer">Stanisław Duniecki</field>
+<field name="composerSort">Duniecki, Stanisław</field>
 <field name="year">1859</field>
 <field name="date">1859</field>
 <field name="librettist">Paweł Duniecki</field>

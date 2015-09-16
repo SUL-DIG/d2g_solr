@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10121909</field>
 <field name="genre">Operas</field>
 <field name="title">Die Damen von Olymp</field>
 <field name="titleSort">Damen von Olymp</field>
 <field name="composer">[Rudolf Lewysohn] Rudolf Nelson</field>
-<field name="composerSort">Nelson, [Rudolf Lewysohn] Rudolf</field>
+<field name="composerSort">Nelson, Rudolf [Rudolf Lewysohn]</field>
 <field name="year">1923</field>
 <field name="date">1923</field>
 <field name="librettist">Rudolf Schanzer</field>

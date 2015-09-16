@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117402</field>
 <field name="genre">Operas</field>
 <field name="title">Themidore</field>
 <field name="titleSort">Themidore</field>
 <field name="composer">Digby La Touche</field>
-<field name="composerSort">Touche, Digby La</field>
+<field name="composerSort">La Touche, Digby</field>
 <field name="year">1911</field>
 <field name="date">1911</field>
 <field name="librettist">F. Steffan</field>

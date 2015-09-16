@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10126924</field>
 <field name="genre">Operas</field>
 <field name="title">Svatojanské proudy (The St. John's Rapids)</field>
 <field name="titleSort">Svatojanské proudy (The St. John's Rapids)</field>
-<field name="composer">Josef Richard Rozkosný</field>
-<field name="composerSort">Rozkosný, Josef Richard</field>
+<field name="composer">Josef Richard Rozkošný</field>
+<field name="composerSort">Rozkošný, Josef Richard</field>
 <field name="year">1871</field>
 <field name="date">1871</field>
 <field name="librettist">Eduard Rüffer</field>

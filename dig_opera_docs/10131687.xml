@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131687</field>
 <field name="genre">Operas</field>
 <field name="title">The Land Between the Rivers</field>
 <field name="titleSort">Land Between the Rivers</field>
 <field name="composer">Carl Van Buskirk</field>
-<field name="composerSort">Buskirk, Carl Van</field>
+<field name="composerSort">Van Buskirk, Carl</field>
 <field name="year">1956</field>
 <field name="date">1956</field>
 <field name="librettist">Carl Van Buskirk</field>

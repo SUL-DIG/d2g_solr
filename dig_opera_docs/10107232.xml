@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107232</field>
 <field name="genre">Operas</field>
 <field name="title">Le Bandoléro</field>
 <field name="titleSort">Bandoléro</field>
-<field name="composer">Jean Jacques Debillemont</field>
-<field name="composerSort">Debillemont, Jean Jacques</field>
+<field name="composer">Jean-Jacques Debillemont</field>
+<field name="composerSort">Debillemont, Jean-Jacques</field>
 <field name="year">1850</field>
 <field name="date">1850</field>
 <field name="librettist">Henry Boisseaux</field>

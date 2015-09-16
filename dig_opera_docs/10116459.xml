@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Zenichové (The Bridegrooms)</field>
 <field name="titleSort">Zenichové (The Bridegrooms)</field>
-<field name="composer">Karel Kovarovic</field>
-<field name="composerSort">Kovarovic, Karel</field>
+<field name="composer">Karel Kovařovic</field>
+<field name="composerSort">Kovařovic, Karel</field>
 <field name="year">1884</field>
 <field name="date">1884</field>
 <field name="librettist">Antonín Koukl</field>

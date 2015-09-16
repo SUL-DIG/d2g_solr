@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131059</field>
 <field name="genre">Operas</field>
 <field name="title">Die Teufelsbrücke</field>
 <field name="titleSort">Teufelsbrücke</field>
-<field name="composer">Theodor Tomásek</field>
-<field name="composerSort">Tomásek, Theodor</field>
+<field name="composer">Theodor Tomášek</field>
+<field name="composerSort">Tomášek, Theodor</field>
 <field name="year">1891</field>
 <field name="date">1891</field>
 <field name="librettist">Richard Genée</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10123844</field>
 <field name="genre">Operas</field>
 <field name="title">Marcel, ou L'héritier supposé</field>
 <field name="titleSort">Marcel, ou L'héritier supposé</field>
-<field name="composer">Louis-Luc Loiseau de Persius</field>
-<field name="composerSort">Persius, Louis-Luc Loiseau de</field>
+<field name="composer">Louis-Luc Loiseau de Persuis</field>
+<field name="composerSort">Persuis, Louis-Luc Loiseau de</field>
 <field name="year">1801</field>
 <field name="date">1801</field>
 <field name="librettist">René-Charles Guilbert de Pixérécourt</field>

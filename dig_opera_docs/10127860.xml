@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Matija Gubec</field>
 <field name="titleSort">Matija Gubec</field>
-<field name="composer">[Friedrich von Schirza] Risto Savin</field>
-<field name="composerSort">Savin, [Friedrich von Schirza] Risto</field>
+<field name="composer">[Friderik Širca] Risto Savin</field>
+<field name="composerSort">Savin, Risto [Friderik Širca]</field>
 <field name="year">1936</field>
 <field name="date">1936</field>
 <field name="librettist">[Friderik Širca] Risto Savin</field>

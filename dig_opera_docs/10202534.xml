@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10202534</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Luceafărul (The Evening Star)</field>
@@ -7,8 +8,8 @@
 		
 		
 		<field name="date">1969</field>
-		<field name="composer">Nicolae Branzeu</field>
-		<field name="composerSort">Branzeu, Nicolae</field>
+		<field name="composer">Nicolae Brânzeu</field>
+		<field name="composerSort">Brânzeu, Nicolae</field>
 		<field name="librettist">[Mihai Eminovici] Mihai Eminescu</field>
 		<field name="librettistSort">Eminescu, Mihai [Mihai Eminovici]</field>
 		

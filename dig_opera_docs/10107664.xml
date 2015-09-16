@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107664</field>
 <field name="genre">Operas</field>
 <field name="title">Dworek na goscincu (Manor House by the Wayside)</field>
 <field name="titleSort">Dworek na goscincu (Manor House by the Wayside)</field>
-<field name="composer">Józef Deszczynski</field>
-<field name="composerSort">Deszczynski, Józef</field>
+<field name="composer">Józef Deszczyński</field>
+<field name="composerSort">Deszczyński, Józef</field>
 <field name="year">1809</field>
 <field name="date">1809</field>
 <field name="librettist">Ludwik Adam Dmuszewski</field>

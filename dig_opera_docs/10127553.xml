@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10127553</field>
 <field name="genre">Operas</field>
 <field name="title">Doreya</field>
 <field name="titleSort">Doreya</field>
 <field name="composer">Eduardo Sánchez de Fuentes</field>
-<field name="composerSort">Fuentes, Eduardo Sánchez de</field>
+<field name="composerSort">Sánchez de Fuentes, Eduardo</field>
 <field name="year">1918</field>
 <field name="date">1918</field>
 <field name="librettist">Hilarión Cabrisas</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10130325</field>
 <field name="genre">Operas</field>
 <field name="title">In seinem Garten liebt Don Perlimplin Belisa</field>
 <field name="titleSort">In seinem Garten liebt Don Perlimplin Belisa</field>
-<field name="composer">Baldwin Sulzer</field>
-<field name="composerSort">Sulzer, Baldwin</field>
+<field name="composer">Balduin Sulzer</field>
+<field name="composerSort">Sulzer, Balduin</field>
 <field name="year">1984</field>
 <field name="date">1984</field>
 <field name="librettist">Federico García Lorca</field>

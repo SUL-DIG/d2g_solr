@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117954</field>
 <field name="genre">Operas</field>
 <field name="title">Le rêveur éveillé</field>
 <field name="titleSort">rêveur éveillé</field>
 <field name="composer">Étienne Alexandre Le Prévost</field>
-<field name="composerSort">Prévost, Étienne Alexandre Le</field>
+<field name="composerSort">Le Prévost, Étienne Alexandre</field>
 <field name="year">1848</field>
 <field name="date">1848</field>
 <field name="librettist">Cécile Duval</field>

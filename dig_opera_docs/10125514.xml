@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10125514</field>
 <field name="genre">Operas</field>
 <field name="title">Dnevnik jednog ludaka (The Diary of a Fool)</field>
 <field name="titleSort">Dnevnik jednog ludaka (The Diary of a Fool)</field>
-<field name="composer">Stanojlo Rajicic</field>
-<field name="composerSort">Rajicic, Stanojlo</field>
+<field name="composer">Stanojlo Rajičić</field>
+<field name="composerSort">Rajičić, Stanojlo</field>
 <field name="year">1981</field>
 <field name="date">1981</field>
 <field name="librettist">Nikolay Vasil'yevich Gogol</field>

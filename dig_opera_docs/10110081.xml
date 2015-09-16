@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10110081</field>
 <field name="genre">Operas</field>
 <field name="title">Uncle Tom's Cabin</field>
 <field name="titleSort">Uncle Tom's Cabin</field>
 <field name="composer">[William James Robjohn] Caryl Florio</field>
-<field name="composerSort">Florio, [William James Robjohn] Caryl</field>
+<field name="composerSort">Florio, Caryl [William James Robjohn]</field>
 <field name="year">1882</field>
 <field name="date">1882</field>
 <field name="librettist">H. Wayne Ellis</field>

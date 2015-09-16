@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10104461</field>
 <field name="genre">Operas</field>
 <field name="title">Racte odpusdit (Please Forgive Me)</field>
 <field name="titleSort">Racte odpusdit (Please Forgive Me)</field>
-<field name="composer">Emil Frantisek Burian</field>
-<field name="composerSort">Burian, Emil Frantisek</field>
+<field name="composer">Emil František Burian</field>
+<field name="composerSort">Burian, Emil František</field>
 <field name="year">1956</field>
 <field name="date">1956</field>
 <field name="librettist">Radovan Krátký</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10102216</field>
 <field name="genre">Operas</field>
 <field name="title">Les petits savoyards</field>
 <field name="titleSort">petits savoyards</field>
-<field name="composer">__ Bellefleur</field>
-<field name="composerSort">Bellefleur, __</field>
+<field name="composer">Maurice Bellefleur</field>
+<field name="composerSort">Bellefleur, Maurice</field>
 <field name="year">1895</field>
 <field name="date">1895</field>
 <field name="librettist">J. Provost</field>

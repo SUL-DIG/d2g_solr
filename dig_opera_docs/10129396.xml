@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129396</field>
 <field name="genre">Operas</field>
 <field name="title">Edipo y Yocasta</field>
 <field name="titleSort">Edipo y Yocasta</field>
-<field name="composer">Josep Soler Sardа</field>
-<field name="composerSort">Sardа, Josep Soler</field>
+<field name="composer">Josep Soler i Sardà</field>
+<field name="composerSort">Soler i Sardà, Josep</field>
 <field name="year">1974</field>
 <field name="date">1974</field>
 <field name="librettist">Lucius Annaeus Seneca</field>

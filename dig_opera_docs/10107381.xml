@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107381</field>
 <field name="genre">Operas</field>
 <field name="title">La luce dell'Asia</field>
 <field name="titleSort">luce dell'Asia</field>
 <field name="composer">[Isidore Cohen] Isidore De Lara</field>
-<field name="composerSort">Lara, [Isidore Cohen] Isidore De</field>
+<field name="composerSort">De Lara, Isidore [Isidore Cohen]</field>
 <field name="year">1892</field>
 <field name="date">1892</field>
 <field name="librettist">William Beatty-Kingston</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10112255</field>
 <field name="genre">Operas</field>
 <field name="title">À deux pas du bonheur</field>
 <field name="titleSort">À deux pas du bonheur</field>
-<field name="composer">Dieudonné-Félix Godefroid</field>
-<field name="composerSort">Godefroid, Dieudonné-Félix</field>
+<field name="composer">Félix Godefroid</field>
+<field name="composerSort">Godefroid, Félix</field>
 <field name="year">1856</field>
 <field name="date">1856</field>
 <field name="librettist">[Léocadie-Aimée Doze] Mme. Roger de Beauvoir</field>

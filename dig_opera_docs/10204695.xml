@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10204695</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">El triumfata Debora</field>
@@ -7,8 +8,8 @@
 		
 		
 		
-		<field name="composer">Josep Picaсol</field>
-		<field name="composerSort">Pica_ol, Josep</field>
+		<field name="composer">Josep Picañol</field>
+		<field name="composerSort">Picañol, Josep</field>
 		
 		
 		<field name="theater">Real Congregación del Oratorio de San Felipe Neri</field>

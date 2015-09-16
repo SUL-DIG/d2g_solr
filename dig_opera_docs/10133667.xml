@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10133667</field>
 <field name="genre">Operas</field>
 <field name="title">Selim og Mirza</field>
 <field name="titleSort">Selim og Mirza</field>
-<field name="composer">Hartnack Otto Konrad Zinck</field>
-<field name="composerSort">Zinck, Hartnack Otto Konrad</field>
+<field name="composer">Hardenack Otto Konrad Zinck</field>
+<field name="composerSort">Zinck, Hardenack Otto Konrad</field>
 <field name="year">1790</field>
 <field name="date">1790</field>
 <field name="librettist">Peter Andreas Heiberg</field>

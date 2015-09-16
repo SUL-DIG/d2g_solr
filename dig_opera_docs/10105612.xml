@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105612</field>
 <field name="genre">Operas</field>
 <field name="title">L'anneau perdu et retrouvé</field>
 <field name="titleSort">anneau perdu et retrouvé</field>
-<field name="composer">Louis-Claude-Armand Chardiny</field>
-<field name="composerSort">Chardiny, Louis-Claude-Armand</field>
+<field name="composer">Louis-Armand Chardiny</field>
+<field name="composerSort">Chardiny, Louis-Armand</field>
 <field name="year">1788</field>
 <field name="date">1788</field>
 <field name="librettist">Michel-Jean Sedaine</field>

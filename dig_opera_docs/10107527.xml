@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107527</field>
 <field name="genre">Operas</field>
 <field name="title">Courting</field>
 <field name="titleSort">Courting</field>
 <field name="composer">Mark De Palma</field>
-<field name="composerSort">Palma, Mark De</field>
+<field name="composerSort">De Palma, Mark</field>
 <field name="year">1983</field>
 <field name="date">1983</field><field name="theater">Brooklyn College Opera Theater</field>
 <field name="city">New York</field>

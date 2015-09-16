@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10102691</field>
 <field name="genre">Operas</field>
 <field name="title">Le serment de Pierrot</field>
 <field name="titleSort">serment de Pierrot</field>
 <field name="composer">Albert de Bertier de Sauvigny</field>
-<field name="composerSort">Sauvigny, Albert de Bertier de</field>
+<field name="composerSort">Bertier de Sauvigny, Albert de</field>
 <field name="year">1905</field>
 <field name="date">1905</field>
 <field name="librettist">Georges Brunet</field>

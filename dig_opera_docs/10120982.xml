@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10120982</field>
 <field name="genre">Operas</field>
 <field name="title">Le musée Petruschini</field>
 <field name="titleSort">musée Petruschini</field>
-<field name="composer">Joseph Jean Baptiste Monsigu</field>
-<field name="composerSort">Monsigu, Joseph Jean Baptiste</field>
+<field name="composer">Joseph Monsigu</field>
+<field name="composerSort">Monsigu, Joseph</field>
 <field name="year">1892</field>
 <field name="date">1892</field>
 <field name="librettist">__ Rébouillon</field>

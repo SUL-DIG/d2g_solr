@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10125378</field>
 <field name="genre">Operas</field>
 <field name="title">Rose et Florbel</field>
 <field name="titleSort">Rose et Florbel</field>
-<field name="composer">__ Quinebaud</field>
-<field name="composerSort">Quinebaud, __</field>
+<field name="composer">__ Quinebaux</field>
+<field name="composerSort">Quinebaux, __</field>
 <field name="year">1800</field>
 <field name="date">1800</field>
 <field name="librettist">Joseph Patrat</field>

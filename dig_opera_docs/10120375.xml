@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10120375</field>
 <field name="genre">Operas</field>
 <field name="title">La réduction de Paris par Henri IV</field>
 <field name="titleSort">réduction de Paris par Henri IV</field>
-<field name="composer">Nicolas-Jean Méreaux</field>
-<field name="composerSort">Méreaux, Nicolas-Jean</field>
+<field name="composer">Nicolas-Jean Le Froid de Méreaux</field>
+<field name="composerSort">Le Froid de Méreaux, Nicolas-Jean</field>
 <field name="year">1781</field>
 <field name="date">1781</field>
 <field name="librettist">Charles-Louis Ducrest</field>

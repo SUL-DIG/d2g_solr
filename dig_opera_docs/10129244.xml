@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129244</field>
 <field name="genre">Operas</field>
 <field name="title">La fiançée du gnome</field>
 <field name="titleSort">fiançée du gnome</field>
-<field name="composer">Jan Nepomuk Skroup</field>
-<field name="composerSort">Skroup, Jan Nepomuk</field>
+<field name="composer">Jan Nepomuk Škroup</field>
+<field name="composerSort">Škroup, Jan Nepomuk</field>
 
 
 

@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Pierre Luc, ou Le cultivateur du Mont Blanc</field>
 <field name="titleSort">Pierre Luc, ou Le cultivateur du Mont Blanc</field>
-<field name="composer">__ Froment</field>
-<field name="composerSort">Froment, __</field>
+<field name="composer">__ Fromant</field>
+<field name="composerSort">Fromant, __</field>
 <field name="year">1799</field>
 <field name="date">1799</field>
 <field name="librettist">Jean-François-Jacques Corsange de La Plante</field>

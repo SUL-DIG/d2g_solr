@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Atala</field>
 <field name="titleSort">Atala</field>
-<field name="composer">G. Hörger</field>
-<field name="composerSort">Hörger, G.</field>
+<field name="composer">Georg Hörger</field>
+<field name="composerSort">Hörger, Georg</field>
 <field name="year">1834</field>
 <field name="date">1834</field>
 <field name="librettist">Christian Gottlob Müller</field>

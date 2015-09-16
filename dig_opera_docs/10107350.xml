@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107350</field>
 <field name="genre">Operas</field>
 <field name="title">The Canterbury Pilgrims</field>
 <field name="titleSort">Canterbury Pilgrims</field>
 <field name="composer">Reginald De Koven</field>
-<field name="composerSort">Koven, Reginald De</field>
+<field name="composerSort">De Koven, Reginald</field>
 <field name="year">1917</field>
 <field name="date">1917</field>
 <field name="librettist">Percy MacKaye</field>

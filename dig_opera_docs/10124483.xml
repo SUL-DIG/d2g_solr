@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10124483</field>
 <field name="genre">Operas</field>
 <field name="title">Palma, ou Le voyage en Grèce</field>
 <field name="titleSort">Palma, ou Le voyage en Grèce</field>
-<field name="composer">Charles Henri Plantade</field>
-<field name="composerSort">Plantade, Charles Henri</field>
+<field name="composer">Charles-Henri Plantade</field>
+<field name="composerSort">Plantade, Charles-Henri</field>
 <field name="year">1797</field>
 <field name="date">1797</field>
 <field name="librettist">Pierre Édouard Lemontey</field>

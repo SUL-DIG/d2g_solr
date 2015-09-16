@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10118272</field>
 <field name="genre">Operas</field>
 <field name="title">L'abadía del Rosario</field>
 <field name="titleSort">abadía del Rosario</field>
 <field name="composer">Antonio Llanos y Berete</field>
-<field name="composerSort">Berete, Antonio Llanos y</field>
+<field name="composerSort">Llanos y Berete, Antonio</field>
 <field name="year">1880</field>
 <field name="date">1880</field>
 <field name="librettist">Marcos Zapata</field>

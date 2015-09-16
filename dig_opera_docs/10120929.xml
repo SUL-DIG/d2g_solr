@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Beata</field>
 <field name="titleSort">Beata</field>
-<field name="composer">Stanislaw Moniuszko</field>
-<field name="composerSort">Moniuszko, Stanislaw</field>
+<field name="composer">Stanisław Moniuszko</field>
+<field name="composerSort">Moniuszko, Stanisław</field>
 <field name="year">1872</field>
 <field name="date">1872</field>
 <field name="librettist">Jan Chęciński</field>

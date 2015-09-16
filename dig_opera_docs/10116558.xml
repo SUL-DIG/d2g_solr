@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Le portrait de famille</field>
 <field name="titleSort">portrait de famille</field>
-<field name="composer">Charles Frédéric Kreubé</field>
-<field name="composerSort">Kreubé, Charles Frédéric</field>
+<field name="composer">Charles-Frédéric Kreubé</field>
+<field name="composerSort">Kreubé, Charles-Frédéric</field>
 <field name="year">1814</field>
 <field name="date">1814</field>
 <field name="librettist">Eugène de Planard</field>

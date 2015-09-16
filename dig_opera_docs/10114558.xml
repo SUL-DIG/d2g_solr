@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10114558</field>
 <field name="genre">Operas</field>
 <field name="title">Der Kaufmann von Smyrna</field>
 <field name="titleSort">Kaufmann von Smyrna</field>
-<field name="composer">Ondrej Frantisek Holý</field>
-<field name="composerSort">Holý, Ondrej Frantisek</field>
+<field name="composer">Ondřej František Holý</field>
+<field name="composerSort">Holý, Ondřej František</field>
 <field name="year">1773</field>
 <field name="date">1773</field>
 <field name="librettist">Christian Friedrich Schwann</field>

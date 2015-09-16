@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10121990</field>
 <field name="genre">Operas</field>
 <field name="title">Idalka</field>
 <field name="titleSort">Idalka</field>
-<field name="composer">Frantisek Neumann</field>
-<field name="composerSort">Neumann, Frantisek</field>
+<field name="composer">František Neumann</field>
+<field name="composerSort">Neumann, František</field>
 <field name="year">1895</field>
 <field name="date">1895</field>
 <field name="librettist">Vittorio di Dio</field>

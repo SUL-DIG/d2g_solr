@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131802</field>
 <field name="genre">Operas</field>
 <field name="title">The Poisoned Kiss</field>
 <field name="titleSort">Poisoned Kiss</field>
 <field name="composer">Ralph Vaughan Williams</field>
-<field name="composerSort">Williams, Ralph Vaughan</field>
+<field name="composerSort">Vaughan Williams, Ralph</field>
 <field name="year">1936</field>
 <field name="date">1936</field>
 <field name="librettist">Evelyn Sharp</field>

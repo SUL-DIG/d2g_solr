@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10100256</field>
 <field name="genre">Operas</field>
 <field name="title">Gli amanti di Teruel</field>
 <field name="titleSort">amanti di Teruel</field>
-<field name="composer">Avelino de Aguirre Lizaola</field>
-<field name="composerSort">Lizaola, Avelino de Aguirre</field>
+<field name="composer">Lizaola Avelino de Aguirre</field>
+<field name="composerSort">Avelino de Aguirre, Lizaola</field>
 <field name="year">1865</field>
 <field name="date">1865</field>
 <field name="librettist">Rosario Zapater</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117822</field>
 <field name="genre">Operas</field>
 <field name="title">Le tombeau de Mirabeau</field>
 <field name="titleSort">tombeau de Mirabeau</field>
-<field name="composer">Jean Frédéric Auguste Lemière de Corvey</field>
-<field name="composerSort">Corvey, Jean Frédéric Auguste Lemière de</field>
+<field name="composer">Jean-Frédéric-Auguste Lemière de Corvey</field>
+<field name="composerSort">Lemière de Corvey, Jean-Frédéric-Auguste</field>
 <field name="year">1794</field>
 <field name="date">1794</field>
 <field name="city">Paris</field>

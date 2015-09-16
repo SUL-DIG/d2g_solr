@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Odaliski</field>
 <field name="titleSort">Odaliski</field>
-<field name="composer">Stanislaw Duniecki</field>
-<field name="composerSort">Duniecki, Stanislaw</field>
+<field name="composer">Stanisław Duniecki</field>
+<field name="composerSort">Duniecki, Stanisław</field>
 <field name="year">1866</field>
 <field name="date">1866</field>
 <field name="librettist">Paweł Duniecki</field>

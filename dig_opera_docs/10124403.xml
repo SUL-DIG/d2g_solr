@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Divá Bará</field>
 <field name="titleSort">Divá Bará</field>
-<field name="composer">Adolf Piskacek</field>
-<field name="composerSort">Piskacek, Adolf</field>
+<field name="composer">Adolf Piskáček</field>
+<field name="composerSort">Piskáček, Adolf</field>
 <field name="year">1910</field>
 <field name="date">1910</field>
 <field name="librettist">Božena Němcová</field>

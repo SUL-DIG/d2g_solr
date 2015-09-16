@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10202661</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Il martirio di Santa Benedetta</field>
@@ -7,8 +8,8 @@
 		
 		
 		<field name="date">1704</field>
-		<field name="composer">Pietro Giuseppe Sandoni</field>
-		<field name="composerSort">Sandoni, Pietro Giuseppe</field>
+		<field name="composer">Pier Giuseppe Sandoni</field>
+		<field name="composerSort">Sandoni, Pier Giuseppe</field>
 		<field name="librettist">Francesco Magagnoli</field>
 		<field name="librettistSort">Magagnoli, Francesco</field>
 		

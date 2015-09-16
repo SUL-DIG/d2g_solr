@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10103715</field>
 <field name="genre">Operas</field>
 <field name="title">Satyr</field>
 <field name="titleSort">Satyr</field>
-<field name="composer">Pavel Borkovec</field>
-<field name="composerSort">Borkovec, Pavel</field>
+<field name="composer">Pavel Bořkovec</field>
+<field name="composerSort">Bořkovec, Pavel</field>
 <field name="year">1942</field>
 <field name="date">1942</field>
 <field name="librettist">Otakar Fischer</field>

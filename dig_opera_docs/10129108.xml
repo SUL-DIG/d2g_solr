@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129108</field>
 <field name="genre">Operas</field>
 <field name="title">L'arrache-coeur</field>
 <field name="titleSort">arrache-coeur</field>
-<field name="composer">Elzbieta Sikora</field>
-<field name="composerSort">Sikora, Elzbieta</field>
+<field name="composer">Elżbieta Sikora</field>
+<field name="composerSort">Sikora, Elżbieta</field>
 <field name="year">1983</field>
 <field name="date">1983</field>
 <field name="librettist">Boris Vian</field>

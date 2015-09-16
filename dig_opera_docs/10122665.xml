@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10122665</field>
 <field name="genre">Operas</field>
 <field name="title">Lautaro (la conquista) Chile: 1553-1558</field>
 <field name="titleSort">Lautaro (la conquista) Chile: 1553-1558</field>
 <field name="composer">Eleodoro Ortiz de Zárate</field>
-<field name="composerSort">Zárate, Eleodoro Ortiz de</field>
+<field name="composerSort">Ortiz de Zárate, Eleodoro</field>
 <field name="year">1902</field>
 <field name="date">1902</field>
 <field name="librettist">Alonso de Ercilla y Zuсiga</field>

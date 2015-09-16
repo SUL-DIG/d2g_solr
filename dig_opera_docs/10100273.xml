@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10100273</field>
 <field name="genre">Operas</field>
 <field name="title">La fée Urgèle</field>
 <field name="titleSort">fée Urgèle</field>
-<field name="composer">Pamphile-Léopold-François Aimon</field>
-<field name="composerSort">Aimon, Pamphile-Léopold-François</field>
+<field name="composer">Léopold Aimon</field>
+<field name="composerSort">Aimon, Léopold</field>
 <field name="year">1821</field>
 <field name="date">1821</field>
 <field name="librettist">Charles Simon Favart</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107452</field>
 <field name="genre">Operas</field>
 <field name="title">L'oncle valet</field>
 <field name="titleSort">oncle valet</field>
 <field name="composer">Dominique Della Maria</field>
-<field name="composerSort">Maria, Dominique Della</field>
+<field name="composerSort">Della Maria, Dominique</field>
 <field name="year">1798</field>
 <field name="date">1798</field>
 <field name="librettist">[Alexandre Vincent Pineux-Duval] Alexandre Duval</field>

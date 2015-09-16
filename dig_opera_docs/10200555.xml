@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10200555</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Cavelier de La Salle</field>
@@ -8,7 +9,7 @@
 		
 		<field name="date">1887</field>
 		<field name="composer">Frédéric Le Rey</field>
-		<field name="composerSort">Rey, Frédéric Le</field>
+		<field name="composerSort">Le Rey, Frédéric</field>
 		<field name="librettist">Louis Bricourt</field>
 		<field name="librettistSort">Bricourt, Louis</field>
 		

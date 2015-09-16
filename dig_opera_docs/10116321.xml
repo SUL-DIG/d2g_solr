@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Seljaci (The Peasants)</field>
 <field name="titleSort">Seljaci (The Peasants)</field>
-<field name="composer">Petar Konjovic</field>
-<field name="composerSort">Konjovic, Petar</field>
+<field name="composer">Petar Konjović</field>
+<field name="composerSort">Konjović, Petar</field>
 <field name="year">1951</field>
 <field name="date">1951</field>
 <field name="librettist">Jovan Konjović</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10118158</field>
 <field name="genre">Operas</field>
 <field name="title">Le maître chanteur</field>
 <field name="titleSort">maître chanteur</field>
-<field name="composer">Armand Marie Limnander de Niewehove</field>
-<field name="composerSort">Niewehove, Armand Marie Limnander de</field>
+<field name="composer">Armand Limnander de Niewehove</field>
+<field name="composerSort">Limnander de Niewehove, Armand</field>
 <field name="year">1853</field>
 <field name="date">1853</field>
 <field name="librettist">Henri Trianon</field>

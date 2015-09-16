@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10203606</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Le retour de Tobie</field>
@@ -7,8 +8,8 @@
 		
 		
 		<field name="date">1785</field>
-		<field name="composer">Louis-Claude-Armand Chardiny</field>
-		<field name="composerSort">Chardiny, Louis-Claude-Armand</field>
+		<field name="composer">Louis-Armand Chardiny</field>
+		<field name="composerSort">Chardiny, Louis-Armand</field>
 		
 		
 		<field name="theater">Concert spirituel</field>

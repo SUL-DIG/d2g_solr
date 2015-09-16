@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">En avant!Marche!Alt!!!</field>
 <field name="titleSort">En avant!Marche!Alt!!!</field>
-<field name="composer">Fulgenzio Guerrieri</field>
-<field name="composerSort">Guerrieri, Fulgenzio</field>
+<field name="composer">Fulgenzio Guerriero Guerrieri</field>
+<field name="composerSort">Guerrieri, Fulgenzio Guerriero</field>
 <field name="year">1893</field>
 <field name="date">1893</field>
 <field name="librettist">Federico Carbonetti</field>

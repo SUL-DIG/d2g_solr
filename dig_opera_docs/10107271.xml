@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107271</field>
 <field name="genre">Operas</field>
 <field name="title">Don Carlo (Filippo II)</field>
 <field name="titleSort">Don Carlo (Filippo II)</field>
 <field name="composer">Serafino De Ferrari</field>
-<field name="composerSort">Ferrari, Serafino De</field>
+<field name="composerSort">De Ferrari, Serafino</field>
 <field name="year">1854</field>
 <field name="date">1854</field>
 <field name="librettist">Giovanni Pannacchi</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10110603</field>
 <field name="genre">Operas</field>
 <field name="title">Imrice, ou La fille de la nature</field>
 <field name="titleSort">Imrice, ou La fille de la nature</field>
-<field name="composer">__ Froment</field>
-<field name="composerSort">Froment, __</field>
+<field name="composer">__ Fromant</field>
+<field name="composerSort">Fromant, __</field>
 <field name="year">1800</field>
 <field name="date">1800</field>
 <field name="librettist">__ Bénard</field>

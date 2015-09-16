@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10108966</field>
 <field name="genre">Operas</field>
 <field name="title">Noël</field>
 <field name="titleSort">Noël</field>
 <field name="composer">Frédéric d'Erlanger</field>
-<field name="composerSort">d'Erlanger, Frédéric</field>
+<field name="composerSort">Erlanger, Frédéric d'</field>
 <field name="year">1910</field>
 <field name="date">1910</field>
 <field name="librettist">Paul Ferrier</field>

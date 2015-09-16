@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107428</field>
 <field name="genre">Operas</field>
 <field name="title">Yvonne et Loïc</field>
 <field name="titleSort">Yvonne et Loïc</field>
-<field name="composer">Charles Delioux de Savignac</field>
-<field name="composerSort">Savignac, Charles Delioux de</field>
+<field name="composer">Charles Delioux</field>
+<field name="composerSort">Delioux, Charles</field>
 <field name="year">1851</field>
 <field name="date">1851</field>
 <field name="librettist">Charles Narrey</field>

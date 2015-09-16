@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105485</field>
 <field name="genre">Operas</field>
 <field name="title">Tataři na Moravě</field>
 <field name="titleSort">Tataři na Moravě</field>
-<field name="composer">Milos Cerný</field>
-<field name="composerSort">Cerný, Milos</field>
+<field name="composer">Miloš Černý</field>
+<field name="composerSort">Černý, Miloš</field>
 <field name="year">1906</field>
 <field name="date">1906</field>
 <field name="librettist">R. Zvak-Vobowský</field>

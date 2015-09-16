@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Cyganie (The Gypsies)</field>
 <field name="titleSort">Cyganie (The Gypsies)</field>
-<field name="composer">Stanislaw Moniuszko</field>
-<field name="composerSort">Moniuszko, Stanislaw</field>
+<field name="composer">Stanisław Moniuszko</field>
+<field name="composerSort">Moniuszko, Stanisław</field>
 <field name="year">1852</field>
 <field name="date">1852</field>
 <field name="librettist">Franciszek Dionizy Kniaźnin</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115432</field>
 <field name="genre">Operas</field>
 <field name="title">Le talisman</field>
 <field name="titleSort">talisman</field>
-<field name="composer">Jean Marie Josse</field>
-<field name="composerSort">Josse, Jean Marie</field>
+<field name="composer">Jean-Marie Josse</field>
+<field name="composerSort">Josse, Jean-Marie</field>
 <field name="year">1850</field>
 <field name="date">1850</field>
 <field name="librettist">[Charles Voirin] Victor Varin</field>

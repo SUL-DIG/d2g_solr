@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10119892</field>
 <field name="genre">Operas</field>
 <field name="title">Aphrodite</field>
 <field name="titleSort">Aphrodite</field>
-<field name="composer">Karl M. May</field>
-<field name="composerSort">May, Karl M.</field>
+<field name="composer">Karl Michael May</field>
+<field name="composerSort">May, Karl Michael</field>
 <field name="year">1928</field>
 <field name="date">1928</field>
 <field name="librettist">Ernst Reif</field>

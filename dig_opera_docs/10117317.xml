@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117317</field>
 <field name="genre">Operas</field>
 <field name="title">L'amant corsaire</field>
 <field name="titleSort">amant corsaire</field>
 <field name="composer">Adrien-Nicolas de La Salle</field>
-<field name="composerSort">Salle, Adrien-Nicolas de La</field>
+<field name="composerSort">La Salle, Adrien-Nicolas de</field>
 <field name="year">1762</field>
 <field name="date">1762</field>
 <field name="librettist">Louis Anseaume</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10108129</field>
 <field name="genre">Operas</field>
 <field name="title">Le petit souper</field>
 <field name="titleSort">petit souper</field>
-<field name="composer">Victor-Charles-Paul Dourlen</field>
-<field name="composerSort">Dourlen, Victor-Charles-Paul</field>
+<field name="composer">Victor Dourlen</field>
+<field name="composerSort">Dourlen, Victor</field>
 <field name="year">1822</field>
 <field name="date">1822</field>
 <field name="librettist">Jean-Baptiste-Rose-Bonaventure de Violet d'Épagny</field>

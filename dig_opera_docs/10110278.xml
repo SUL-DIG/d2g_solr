@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10110278</field>
 <field name="genre">Operas</field>
 <field name="title">Le pouvoir de l'amour</field>
 <field name="titleSort">pouvoir de l'amour</field>
 <field name="composer">Alphonse-Toussaint Fortia de Piles</field>
-<field name="composerSort">Piles, Alphonse-Toussaint Fortia de</field>
+<field name="composerSort">Fortia de Piles, Alphonse-Toussaint</field>
 <field name="year">1785</field>
 <field name="date">1785</field>
 <field name="city">Nancy</field>

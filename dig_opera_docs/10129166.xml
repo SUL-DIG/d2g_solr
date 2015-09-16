@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129166</field>
 <field name="genre">Operas</field>
 <field name="title">La double recompense, ou Le stratagème inutile</field>
 <field name="titleSort">double recompense, ou Le stratagème inutile</field>
-<field name="composer">Louis Victor Simon</field>
-<field name="composerSort">Simon, Louis Victor</field>
+<field name="composer">Louis-Victor Simon</field>
+<field name="composerSort">Simon, Louis-Victor</field>
 <field name="year">1798</field>
 <field name="date">1798</field>
 <field name="librettist">Alphonse-Marie-Denis Devismes de Saint-Alphonse</field>

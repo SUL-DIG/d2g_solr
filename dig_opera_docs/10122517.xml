@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10122517</field>
 <field name="genre">Operas</field>
 <field name="title">Jakob, der Lautenspieler</field>
 <field name="titleSort">Jakob, der Lautenspieler</field>
-<field name="composer">Henryk Opienski</field>
-<field name="composerSort">Opienski, Henryk</field>
+<field name="composer">Henryk Opieński</field>
+<field name="composerSort">Opieński, Henryk</field>
 <field name="year">1927</field>
 <field name="date">1927</field><field name="theater">Teatr Wielki</field>
 <field name="city">Poznan</field>

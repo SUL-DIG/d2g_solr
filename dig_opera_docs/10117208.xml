@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117208</field>
 <field name="genre">Operas</field>
 <field name="title">Der Freibrief</field>
 <field name="titleSort">Freibrief</field>
 <field name="composer">[Georg Ernst Lüderwald] Ernst Lange</field>
-<field name="composerSort">Lange, [Georg Ernst Lüderwald] Ernst</field>
+<field name="composerSort">Lange, Ernst [Georg Ernst Lüderwald]</field>
 <field name="year">1791</field>
 <field name="date">1791</field>
 <field name="librettist">[Georg Ernst Lüderwald] Ernst Lange</field>

@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">La fausse croissade</field>
 <field name="titleSort">fausse croissade</field>
-<field name="composer">Jean Frédéric Auguste Lemière de Corvey</field>
-<field name="composerSort">Corvey, Jean Frédéric Auguste Lemière de</field>
+<field name="composer">Jean-Frédéric-Auguste Lemière de Corvey</field>
+<field name="composerSort">Lemière de Corvey, Jean-Frédéric-Auguste</field>
 <field name="year">1825</field>
 <field name="date">1825</field>
 <field name="librettist">Auguste Lepoitevin de L'Égreville</field>

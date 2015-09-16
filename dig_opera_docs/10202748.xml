@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10202748</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Miserere</field>
@@ -7,8 +8,8 @@
 		<field name="month">April</field>
 		<field name="day">9</field>
 		<field name="date">April 9, 1841</field>
-		<field name="composer">Józef Wladyslaw Krogulski</field>
-		<field name="composerSort">Krogulski, Józef Wladyslaw</field>
+		<field name="composer">Józef Władysław Krogulski</field>
+		<field name="composerSort">Krogulski, Józef Władysław</field>
 		
 		
 		

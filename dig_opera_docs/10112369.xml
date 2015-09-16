@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10112369</field>
 <field name="genre">Operas</field>
 <field name="title">Rock le barbu</field>
 <field name="titleSort">Rock le barbu</field>
 <field name="composer">José Melchor Gomis y Colomer</field>
-<field name="composerSort">Colomer, José Melchor Gomis y</field>
+<field name="composerSort">Gomis y Colomer, José Melchor</field>
 <field name="year">1836</field>
 <field name="date">1836</field>
 <field name="librettist">Paul Duport</field>

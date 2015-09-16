@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129820</field>
 <field name="genre">Operas</field>
 <field name="title">Fleurette</field>
 <field name="titleSort">Fleurette</field>
-<field name="composer">Emma Roberta Steiner</field>
-<field name="composerSort">Steiner, Emma Roberta</field>
+<field name="composer">Emma Roberto Steiner</field>
+<field name="composerSort">Steiner, Emma Roberto</field>
 <field name="year">1891</field>
 <field name="date">1891</field>
 <field name="librettist">Edgar Smith</field>

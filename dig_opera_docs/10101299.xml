@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10101299</field>
 <field name="genre">Operas</field>
 <field name="title">Le cercle vicieux</field>
 <field name="titleSort">cercle vicieux</field>
 <field name="composer">Raoul d'Ast</field>
-<field name="composerSort">d'Ast, Raoul</field>
+<field name="composerSort">Ast, Raoul d'</field>
 <field name="year">1913</field>
 <field name="date">1913</field>
 <field name="librettist">Jean Sartène</field>

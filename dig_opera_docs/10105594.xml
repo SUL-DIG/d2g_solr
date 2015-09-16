@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105594</field>
 <field name="genre">Operas</field>
 <field name="title">Circe</field>
 <field name="titleSort">Circe</field>
 <field name="composer">Ruperto Chapí y Llorente</field>
-<field name="composerSort">Llorente, Ruperto Chapí y</field>
+<field name="composerSort">Chapí y Llorente, Ruperto</field>
 <field name="year">1902</field>
 <field name="date">1902</field>
 <field name="librettist">Miguel Ramos Carrión</field>

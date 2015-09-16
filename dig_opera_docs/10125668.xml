@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10125668</field>
 <field name="genre">Operas</field>
 <field name="title">Aus grosser Fahrt</field>
 <field name="titleSort">Aus grosser Fahrt</field>
 <field name="composer">[Friedrich Raimund Vesely] Fred Raymond</field>
-<field name="composerSort">Raymond, [Friedrich Raimund Vesely] Fred</field>
+<field name="composerSort">Raymond, Fred [Friedrich Raimund Vesely]</field>
 <field name="year">1936</field>
 <field name="date">1936</field>
 <field name="librettist">[Günther Franzke] Günther Schwenn</field>

@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Opéra lui même</field>
 <field name="titleSort">Opéra lui même</field>
-<field name="composer">__ Tac-Coen</field>
-<field name="composerSort">Tac-Coen, __</field>
+<field name="composer">[Pierre Tac-Coen] Tac-Coen</field>
+<field name="composerSort">Tac-Coen, [Pierre Tac-Coen]</field>
 <field name="year">1884</field>
 <field name="date">1884</field>
 <field name="librettist">[Paul de Haen] Paul de Néha</field>

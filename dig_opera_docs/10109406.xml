@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10109406</field>
 <field name="genre">Operas</field>
 <field name="title">Urania</field>
 <field name="titleSort">Urania</field>
-<field name="composer">Alberto Favara Mistretta</field>
-<field name="composerSort">Mistretta, Alberto Favara</field>
+<field name="composer">Alberto Favara</field>
+<field name="composerSort">Favara, Alberto</field>
 <field name="year">1918</field>
 <field name="date">1918</field>
 <field name="librettist">Ugo Fleres</field>

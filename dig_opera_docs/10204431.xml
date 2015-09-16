@@ -8,8 +8,8 @@
 		<field name="month">October</field>
 		<field name="day">15</field>
 		<field name="date">October 15, 1886</field>
-		<field name="composer">Antonín Dvorák</field>
-		<field name="composerSort">Dvorák, Antonín</field>
+		<field name="composer">Antonín Dvořák</field>
+		<field name="composerSort">Dvořák, Antonín</field>
 		<field name="librettist">[Emil Bohuslav Frída] Jaroslav Vrchlický</field>
 		<field name="librettistSort">Vrchlický, Jaroslav, [Emil Bohuslav Frída]</field>
 		

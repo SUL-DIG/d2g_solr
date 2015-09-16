@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10126470</field>
 <field name="genre">Operas</field>
 <field name="title">Effets de lune</field>
 <field name="titleSort">Effets de lune</field>
-<field name="composer">Édouard Roger</field>
-<field name="composerSort">Roger, Édouard</field>
+<field name="composer">Edmond Roger</field>
+<field name="composerSort">Roger, Edmond</field>
 <field name="year">1898</field>
 <field name="date">1898</field>
 <field name="librettist">__ Saint-Jean (2)</field>

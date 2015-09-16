@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10108125</field>
 <field name="genre">Operas</field>
 <field name="title">La dupe de son art, ou Les deux amants</field>
 <field name="titleSort">dupe de son art, ou Les deux amants</field>
-<field name="composer">Victor-Charles-Paul Dourlen</field>
-<field name="composerSort">Dourlen, Victor-Charles-Paul</field>
+<field name="composer">Victor Dourlen</field>
+<field name="composerSort">Dourlen, Victor</field>
 <field name="year">1809</field>
 <field name="date">1809</field>
 <field name="librettist">Louis Charles Sapey</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10102690</field>
 <field name="genre">Operas</field>
 <field name="title">Mathias Corvin</field>
 <field name="titleSort">Mathias Corvin</field>
 <field name="composer">[Sándor Bertha] Alexandre de Bertha</field>
-<field name="composerSort">Bertha, Alexandre de[Sándor Bertha]</field>
+<field name="composerSort">Bertha, Alexandre de [Sándor Bertha]</field>
 <field name="year">1883</field>
 <field name="date">1883</field>
 <field name="librettist">Paul Milliet</field>

@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">L'illustre Gaspard</field>
 <field name="titleSort">illustre Gaspard</field>
-<field name="composer">Eugène Prosper Prévost</field>
-<field name="composerSort">Prévost, Eugène Prosper</field>
+<field name="composer">Eugène-Prosper Prévost</field>
+<field name="composerSort">Prévost, Eugène-Prosper</field>
 <field name="year">1863</field>
 <field name="date">1863</field>
 <field name="librettist">Félix-Auguste Duvert</field>

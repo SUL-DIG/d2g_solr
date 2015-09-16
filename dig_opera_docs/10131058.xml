@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131058</field>
 <field name="genre">Operas</field>
 <field name="title">Das steinerne Herz</field>
 <field name="titleSort">steinerne Herz</field>
-<field name="composer">Anton Tomásek</field>
-<field name="composerSort">Tomásek, Anton</field>
+<field name="composer">Anton Tomášek</field>
+<field name="composerSort">Tomášek, Anton</field>
 <field name="year">1925</field>
 <field name="date">1925</field>
 <field name="librettist">Karl Hans Strobl</field>

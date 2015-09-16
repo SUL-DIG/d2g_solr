@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10133188</field>
 <field name="genre">Operas</field>
 <field name="title">Wikingerfahrt</field>
 <field name="titleSort">Wikingerfahrt</field>
-<field name="composer">Felix von Woyrsch</field>
-<field name="composerSort">Woyrsch, Felix von</field>
+<field name="composer">Felix Woyrsch</field>
+<field name="composerSort">Woyrsch, Felix</field>
 <field name="year">1896</field>
 <field name="date">1896</field>
 <field name="librettist">Felix von Woyrsch</field>

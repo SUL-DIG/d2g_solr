@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117128</field>
 <field name="genre">Operas</field>
 <field name="title">The Kitchen Sink</field>
 <field name="titleSort">Kitchen Sink</field>
 <field name="composer">Susan La Mothe</field>
-<field name="composerSort">Mothe, Susan La</field>
+<field name="composerSort">La Mothe, Susan</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
 <field name="librettist">David Posner</field>

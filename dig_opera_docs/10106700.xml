@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Giordano Bruno</field>
 <field name="titleSort">Giordano Bruno</field>
-<field name="composer">Sergey Cortes</field>
-<field name="composerSort">Cortes, Sergey</field>
+<field name="composer">Sergey Albertovich Kortes</field>
+<field name="composerSort">Kortes, Sergey Albertovich</field>
 <field name="year">1977</field>
 <field name="date">1977</field>
 <field name="librettist">Vladimir Khalip</field>

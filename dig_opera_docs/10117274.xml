@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117274</field>
 <field name="genre">Operas</field>
 <field name="title">Gaspard de Besse</field>
 <field name="titleSort">Gaspard de Besse</field>
 <field name="composer">__ La Pérouse</field>
-<field name="composerSort">Pérouse, __ La</field>
+<field name="composerSort">La Pérouse, __</field>
 <field name="year">1913</field>
 <field name="date">1913</field>
 <field name="librettist">Paul Barlatier</field>

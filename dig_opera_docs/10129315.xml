@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129315</field>
 <field name="genre">Operas</field>
 <field name="title">Dalskabáty, hříšná ves</field>
 <field name="titleSort">Dalskabáty, hříšná ves</field>
-<field name="composer">Jirí Smutný</field>
-<field name="composerSort">Smutný, Jirí</field>
+<field name="composer">Jiří Smutný</field>
+<field name="composerSort">Smutný, Jiří</field>
 <field name="year">1962</field>
 <field name="date">1962</field>
 <field name="librettist">Jan Drda</field>

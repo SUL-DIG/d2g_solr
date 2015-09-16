@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115778</field>
 <field name="genre">Operas</field>
 <field name="title">Mari et femme</field>
 <field name="titleSort">Mari et femme</field>
-<field name="composer">Wiktor Kazynski</field>
-<field name="composerSort">Kazynski, Wiktor</field>
+<field name="composer">Wiktor Każyński</field>
+<field name="composerSort">Każyński, Wiktor</field>
 <field name="year">1848</field>
 <field name="date">1848</field><field name="theater">Alexandrinsky Teatr</field>
 <field name="city">St. Petersburg</field>

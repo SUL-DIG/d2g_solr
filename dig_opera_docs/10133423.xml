@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10133423</field>
 <field name="genre">Operas</field>
 <field name="title">Konrad Wallenrod</field>
 <field name="titleSort">Konrad Wallenrod</field>
-<field name="composer">Wladyslaw Zelenski</field>
-<field name="composerSort">Zelenski, Wladyslaw</field>
+<field name="composer">Władysław Żeleński</field>
+<field name="composerSort">Żeleński, Władysław</field>
 <field name="year">1885</field>
 <field name="date">1885</field>
 <field name="librettist">Zygmunt Sarnecki</field>

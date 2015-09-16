@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10130478</field>
 <field name="genre">Operas</field>
 <field name="title">Raquel</field>
 <field name="titleSort">Raquel</field>
 <field name="composer">Ricardo Taboada Steger</field>
-<field name="composerSort">Steger, Ricardo Taboada</field>
+<field name="composerSort">Taboada Steger, Ricardo</field>
 <field name="year">1891</field>
 <field name="date">1891</field>
 <field name="librettist">Lasso de la Vega</field>

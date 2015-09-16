@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10200012</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Abdul und Erinnieh, oder Die beiden Todten</field>
@@ -7,8 +8,8 @@
 		
 		
 		<field name="date">1828</field>
-		<field name="composer">Karl Friedrich Curshmann</field>
-		<field name="composerSort">Curshmann, Karl Friedrich</field>
+		<field name="composer">Karl Friedrich Curschmann</field>
+		<field name="composerSort">Curschmann, Karl Friedrich</field>
 		
 		
 		<field name="theater">Kurfürstliches Theater</field>

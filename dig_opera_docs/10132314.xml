@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10132314</field>
 <field name="genre">Operas</field>
 <field name="title">The Fisher Maiden</field>
 <field name="titleSort">Fisher Maiden</field>
 <field name="composer">[Harold Gumm] Harry Von Tilzer</field>
-<field name="composerSort">Tilzer, [Harold Gumm] Harry Von</field>
+<field name="composerSort">Von Tilzer, Harry [Harold Gumm]</field>
 <field name="year">1903</field>
 <field name="date">1903</field>
 <field name="librettist">Arthur J. Lamb</field>

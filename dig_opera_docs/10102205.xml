@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10102205</field>
 <field name="genre">Operas</field>
 <field name="title">Geschichten aus dem Wiener Wald</field>
 <field name="titleSort">Geschichten aus dem Wiener Wald</field>
-<field name="composer">Miro Belamaric</field>
-<field name="composerSort">Belamaric, Miro</field>
+<field name="composer">Miro Belamarić</field>
+<field name="composerSort">Belamarić, Miro</field>
 <field name="year">1993</field>
 <field name="date">1993</field>
 <field name="librettist">Ödön von Horváth</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10132313</field>
 <field name="genre">Operas</field>
 <field name="title">Vodník (The Watersprite)</field>
 <field name="titleSort">Vodník (The Watersprite)</field>
-<field name="composer">Boleslav Vomácka</field>
-<field name="composerSort">Vomácka, Boleslav</field>
+<field name="composer">Boleslav Vomáčka</field>
+<field name="composerSort">Vomáčka, Boleslav</field>
 <field name="year">1937</field>
 <field name="date">1937</field>
 <field name="librettist">Adolf Wenig</field>

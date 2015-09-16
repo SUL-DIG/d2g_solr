@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10128216</field>
 <field name="genre">Operas</field>
 <field name="title">Les aventures de Télémaque</field>
 <field name="titleSort">aventures de Télémaque</field>
-<field name="composer">O. V. Schiff</field>
-<field name="composerSort">Schiff, O. V.</field>
+<field name="composer">Otto Victor Schiff</field>
+<field name="composerSort">Schiff, Otto Victor</field>
 <field name="year">1901</field>
 <field name="date">1901</field>
 <field name="librettist">Charles Lancelin</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129242</field>
 <field name="genre">Operas</field>
 <field name="title">Der Prinz und die Schlange</field>
 <field name="titleSort">Prinz und die Schlange</field>
-<field name="composer">Frantisek Jan Skroup</field>
-<field name="composerSort">Skroup, Frantisek Jan</field>
+<field name="composer">František Jan Škroup</field>
+<field name="composerSort">Škroup, František Jan</field>
 <field name="year">1829</field>
 <field name="date">1829</field>
 <field name="librettist">Ferdinand Ernst</field>

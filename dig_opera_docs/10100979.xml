@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10100979</field>
 <field name="genre">Operas</field>
 <field name="title">I tre coscritti</field>
 <field name="titleSort">tre coscritti</field>
 <field name="composer">Nicola d'Arienzo</field>
-<field name="composerSort">d'Arienzo, Nicola</field>
+<field name="composerSort">Arienzo, Nicola d'</field>
 <field name="year">1880</field>
 <field name="date">1880</field>
 <field name="librettist">Leone Emanuele Bardare</field>

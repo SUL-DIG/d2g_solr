@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10203366</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Les Perses</field>
@@ -7,8 +8,8 @@
 		
 		
 		
-		<field name="composer">Jean Prodomidès</field>
-		<field name="composerSort">Prodomidès, Jean</field>
+		<field name="composer">Jean Prodromidès</field>
+		<field name="composerSort">Prodromidès, Jean</field>
 		<field name="librettist">Jean Prat</field>
 		<field name="librettistSort">Prat, Jean</field>
 		<field name="librettist">Aeschylus</field>

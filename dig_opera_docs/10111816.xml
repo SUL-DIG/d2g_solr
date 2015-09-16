@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10111816</field>
 <field name="genre">Operas</field>
 <field name="title">Das Fräulein von Amt</field>
 <field name="titleSort">Fräulein von Amt</field>
 <field name="composer">[Max Winterfeld] Jean Gilbert</field>
-<field name="composerSort">Gilbert, [Max Winterfeld] Jean</field>
+<field name="composerSort">Gilbert, Jean [Max Winterfeld]</field>
 <field name="year">1915</field>
 <field name="date">1915</field>
 <field name="librettist">Georg Okonkowsky</field>

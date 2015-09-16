@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10118217</field>
 <field name="genre">Operas</field>
 <field name="title">La fleur, la branche et le bouton</field>
 <field name="titleSort">fleur, la branche et le bouton</field>
-<field name="composer">__ Linnès</field>
-<field name="composerSort">Linnès, __</field>
+<field name="composer">Émile Linnès</field>
+<field name="composerSort">Linnès, Émile</field>
 <field name="year">1922</field>
 <field name="date">1922</field>
 <field name="librettist">André Luc</field>

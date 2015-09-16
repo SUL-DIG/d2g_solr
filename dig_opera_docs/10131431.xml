@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131431</field>
 <field name="genre">Operas</field>
 <field name="title">The Undertaker</field>
 <field name="titleSort">Undertaker</field>
-<field name="composer">Antonín Tucapský</field>
-<field name="composerSort">Tucapský, Antonín</field>
+<field name="composer">Antonín Tučapský</field>
+<field name="composerSort">Tučapský, Antonín</field>
 <field name="year">1993</field>
 <field name="date">1993</field>
 <field name="librettist">Aleksandr Sergeyevich Pushkin</field>

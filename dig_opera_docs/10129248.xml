@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129248</field>
 <field name="genre">Operas</field>
 <field name="title">Der Liebesring</field>
 <field name="titleSort">Liebesring</field>
-<field name="composer">Frantisek Zdenek Skuherský</field>
-<field name="composerSort">Skuherský, Frantisek Zdenek</field>
+<field name="composer">František Zdeněk Skuherský</field>
+<field name="composerSort">Skuherský, František Zdeněk</field>
 <field name="year">1861</field>
 <field name="date">1861</field>
 <field name="librettist">Hermann Schmid</field>

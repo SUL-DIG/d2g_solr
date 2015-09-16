@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105586</field>
 <field name="genre">Operas</field>
 <field name="title">Goanna et Jennuy</field>
 <field name="titleSort">Goanna et Jennuy</field>
-<field name="composer">Pierre-David-Augustin Chapelle</field>
-<field name="composerSort">Chapelle, Pierre-David-Augustin</field>
+<field name="composer">Augustin Chapelle</field>
+<field name="composerSort">Chapelle, Augustin</field>
 <field name="year">1795</field>
 <field name="date">1795</field>
 <field name="librettist">Pierre de Lamontagne</field>

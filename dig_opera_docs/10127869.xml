@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10127869</field>
 <field name="genre">Operas</field>
 <field name="title">Orfeo vedovo</field>
 <field name="titleSort">Orfeo vedovo</field>
 <field name="composer">[Andrea De Chirico] Alberto Savinio</field>
-<field name="composerSort">Savinio, [Andrea De Chirico] Alberto</field>
+<field name="composerSort">Savinio, Alberto [Andrea De Chirico]</field>
 <field name="year">1950</field>
 <field name="date">1950</field>
 <field name="librettist">[Andrea De Chirico] Alberto Savinio</field>

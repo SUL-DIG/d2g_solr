@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10121703</field>
 <field name="genre">Operas</field>
 <field name="title">Farnace</field>
 <field name="titleSort">Farnace</field>
-<field name="composer">Josef Myslivecek</field>
-<field name="composerSort">Myslivecek, Josef</field>
+<field name="composer">Josef Mysliveček</field>
+<field name="composerSort">Mysliveček, Josef</field>
 <field name="year">1767</field>
 <field name="date">1767</field>
 <field name="librettist">Antonio Maria Lucchini</field>

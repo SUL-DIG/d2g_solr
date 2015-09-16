@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10108130</field>
 <field name="genre">Operas</field>
 <field name="title">Philoclès</field>
 <field name="titleSort">Philoclès</field>
-<field name="composer">Victor-Charles-Paul Dourlen</field>
-<field name="composerSort">Dourlen, Victor-Charles-Paul</field>
+<field name="composer">Victor Dourlen</field>
+<field name="composerSort">Dourlen, Victor</field>
 <field name="year">1806</field>
 <field name="date">1806</field>
 <field name="librettist">Justin Marie Alexis Gensoul</field>

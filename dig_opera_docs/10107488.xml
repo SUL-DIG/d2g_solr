@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107488</field>
 <field name="genre">Operas</field>
 <field name="title">In Sardegna</field>
 <field name="titleSort">In Sardegna</field>
 <field name="composer">Giuseppe Del Pinto</field>
-<field name="composerSort">Pinto, Giuseppe Del</field>
+<field name="composerSort">Del Pinto, Giuseppe</field>
 <field name="year">1906</field>
 <field name="date">1906</field>
 <field name="librettist">G. Bossoli</field>

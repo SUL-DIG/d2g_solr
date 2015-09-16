@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Vanda</field>
 <field name="titleSort">Vanda</field>
-<field name="composer">Antonín Dvorák</field>
-<field name="composerSort">Dvorák, Antonín</field>
+<field name="composer">Antonín Dvořák</field>
+<field name="composerSort">Dvořák, Antonín</field>
 <field name="year">1876</field>
 <field name="date">1876</field>
 <field name="librettist">František Zákrejs</field>

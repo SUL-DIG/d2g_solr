@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10127563</field>
 <field name="genre">Operas</field>
 <field name="title">Rahabba</field>
 <field name="titleSort">Rahabba</field>
 <field name="composer">Francesc Sánchez Gavagnach</field>
-<field name="composerSort">Gavagnach, Francesc Sánchez</field>
+<field name="composerSort">Sánchez Gavagnach, Francesc</field>
 <field name="year">1867</field>
 <field name="date">1867</field><field name="theater">Gran Teatre del Liceu</field>
 <field name="city">Barcelona</field>

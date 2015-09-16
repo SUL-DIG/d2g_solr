@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10104611</field>
 <field name="genre">Operas</field>
 <field name="title">Lo stordito deluso</field>
 <field name="titleSort">stordito deluso</field>
-<field name="composer">Nicolò Calandro</field>
-<field name="composerSort">Calandro, Nicolò</field>
+<field name="composer">Nicola Calandra</field>
+<field name="composerSort">Calandra, Nicola</field>
 <field name="year">1758</field>
 <field name="date">1758</field><field name="theater">Teatro del Pubblico</field>
 <field name="city">Bologna</field>

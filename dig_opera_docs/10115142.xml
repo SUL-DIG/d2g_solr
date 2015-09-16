@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115142</field>
 <field name="genre">Operas</field>
 <field name="title">Milord Sir Smith</field>
 <field name="titleSort">Milord Sir Smith</field>
 <field name="composer">[Edward Belville] Edward Jakobowski</field>
-<field name="composerSort">Jakobowski, [Edward Belville] Edward</field>
+<field name="composerSort">Jakobowski, Edward [Edward Belville]</field>
 <field name="year">1898</field>
 <field name="date">1898</field>
 <field name="librettist">George D. Day</field>

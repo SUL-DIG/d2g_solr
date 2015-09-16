@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10126150</field>
 <field name="genre">Operas</field>
 <field name="title">Le coquelin</field>
 <field name="titleSort">coquelin</field>
-<field name="composer">A. Rieu</field>
-<field name="composerSort">Rieu, A.</field>
+<field name="composer">Albert Rieu</field>
+<field name="composerSort">Rieu, Albert</field>
 <field name="year">1922</field>
 <field name="date">1922</field>
 <field name="city">Algiers</field>

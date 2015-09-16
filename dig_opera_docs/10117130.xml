@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117130</field>
 <field name="genre">Operas</field>
 <field name="title">Rinaldo d'Asti</field>
 <field name="titleSort">Rinaldo d'Asti</field>
-<field name="composer">Alessandro Fochet La Motte</field>
-<field name="composerSort">Motte, Alessandro Fochet La</field>
+<field name="composer">Alessandro La Motte</field>
+<field name="composerSort">La Motte, Alessandro</field>
 <field name="year">1795</field>
 <field name="date">1795</field><field name="theater">Teatro di via del Cocomero</field>
 <field name="city">Florence</field>

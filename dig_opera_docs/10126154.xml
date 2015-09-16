@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10126154</field>
 <field name="genre">Operas</field>
 <field name="title">Un jour de réception</field>
 <field name="titleSort">jour de réception</field>
-<field name="composer">Louis Victor Étienne Rifaut</field>
-<field name="composerSort">Rifaut, Louis Victor Étienne</field>
+<field name="composer">Victor Rifaut</field>
+<field name="composerSort">Rifaut, Victor</field>
 <field name="year">1828</field>
 <field name="date">1828</field>
 <field name="librettist">Henri Dupin</field>

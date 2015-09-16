@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117816</field>
 <field name="genre">Operas</field>
 <field name="title">La moitié du chemin</field>
 <field name="titleSort">moitié du chemin</field>
-<field name="composer">Jean Frédéric Auguste Lemière de Corvey</field>
-<field name="composerSort">Corvey, Jean Frédéric Auguste Lemière de</field>
+<field name="composer">Jean-Frédéric-Auguste Lemière de Corvey</field>
+<field name="composerSort">Lemière de Corvey, Jean-Frédéric-Auguste</field>
 <field name="year">1796</field>
 <field name="date">1796</field><field name="theater">Salle de la rue Louvois</field>
 <field name="city">Paris</field>

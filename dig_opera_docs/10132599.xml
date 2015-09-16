@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10132599</field>
 <field name="genre">Operas</field>
 <field name="title">Die dreyfach Hochzitt em Bäsäthal</field>
 <field name="titleSort">dreyfach Hochzitt em Bäsäthal</field>
-<field name="composer">Jean-Baptiste-Théodore Weckerlin</field>
-<field name="composerSort">Weckerlin, Jean-Baptiste-Théodore</field>
+<field name="composer">Jean-Baptiste Weckerlin</field>
+<field name="composerSort">Weckerlin, Jean-Baptiste</field>
 <field name="year">1863</field>
 <field name="date">1863</field>
 <field name="librettist">Johann Thomas Mangold</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10119484</field>
 <field name="genre">Operas</field>
 <field name="title">Pesnolyubie (Beloved Songs)</field>
 <field name="titleSort">Pesnolyubie (Beloved Songs)</field>
 <field name="composer">Vincent Martín y Soler</field>
-<field name="composerSort">Soler, Vincent Martín y</field>
+<field name="composerSort">Martín y Soler, Vincent</field>
 <field name="year">1790</field>
 <field name="date">1790</field>
 <field name="librettist">Aleksandr Vasileyevich Khrapovitsky</field>

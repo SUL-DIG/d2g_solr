@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10122738</field>
 <field name="genre">Operas</field>
 <field name="title">Spoku stundа (The Ghostly Hour)</field>
 <field name="titleSort">Spoku stundа (The Ghostly Hour)</field>
-<field name="composer">Jekabs Ozols</field>
-<field name="composerSort">Ozols, Jekabs</field>
+<field name="composer">Jēkabs Ozols</field>
+<field name="composerSort">Ozols, Jēkabs</field>
 <field name="year">1893</field>
 <field name="date">1893</field>
 <field name="librettist">[Jekabs Arins] Jekabs Duburs</field>

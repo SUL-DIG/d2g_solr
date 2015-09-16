@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10130482</field>
 <field name="genre">Operas</field>
 <field name="title">La princesse Babouche</field>
 <field name="titleSort">princesse Babouche</field>
-<field name="composer">__ Tac-Coen</field>
-<field name="composerSort">Tac-Coen, __</field>
+<field name="composer">[Pierre Tac-Coen] Tac-Coen</field>
+<field name="composerSort">Tac-Coen, [Pierre Tac-Coen]</field>
 <field name="year">1888</field>
 <field name="date">1888</field>
 <field name="librettist">Louis Bataille</field>

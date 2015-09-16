@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10100322</field>
 <field name="genre">Operas</field>
 <field name="title">Der Stier von Olivera</field>
 <field name="titleSort">Stier von Olivera</field>
 <field name="composer">Eugen d'Albert</field>
-<field name="composerSort">d'Albert, Eugen</field>
+<field name="composerSort">Albert, Eugen d’</field>
 <field name="year">1918</field>
 <field name="date">1918</field>
 <field name="librettist">Richard Batka</field>

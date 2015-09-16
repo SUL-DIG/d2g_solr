@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Ukradený měsíc</field>
 <field name="titleSort">Ukradený měsíc</field>
-<field name="composer">Frantisek Kovaricek</field>
-<field name="composerSort">Kovaricek, Frantisek</field>
+<field name="composer">František Kovaříček</field>
+<field name="composerSort">Kovaříček, František</field>
 <field name="year">1970</field>
 <field name="date">1970</field>
 <field name="librettist">Ludvík Aškenazy</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10133075</field>
 <field name="genre">Operas</field>
 <field name="title">La princesse lointaine</field>
 <field name="titleSort">princesse lointaine</field>
-<field name="composer">Georges Martin Witkowski</field>
-<field name="composerSort">Witkowski, Georges Martin</field>
+<field name="composer">Georges-Martin Witkowski</field>
+<field name="composerSort">Witkowski, Georges-Martin</field>
 <field name="year">1934</field>
 <field name="date">1934</field>
 <field name="librettist">Georges Witkowski</field>

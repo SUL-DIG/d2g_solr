@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10121701</field>
 <field name="genre">Operas</field>
 <field name="title">Erifile</field>
 <field name="titleSort">Erifile</field>
-<field name="composer">Josef Myslivecek</field>
-<field name="composerSort">Myslivecek, Josef</field>
+<field name="composer">Josef Mysliveček</field>
+<field name="composerSort">Mysliveček, Josef</field>
 <field name="year">1773</field>
 <field name="date">1773</field><field name="theater">Residenztheater (Cuvilliéstheater)</field>
 <field name="city">Munich</field>

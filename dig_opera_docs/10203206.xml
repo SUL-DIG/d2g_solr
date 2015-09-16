@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10203206</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">La passion</field>
@@ -8,7 +9,7 @@
 		
 		
 		<field name="composer">Jean-François Le Sueur</field>
-		<field name="composerSort">Sueur, Jean-François Le</field>
+		<field name="composerSort">Le Sueur, Jean-François</field>
 		
 		
 		<field name="theater">Chapelle du château des Tuileries</field>

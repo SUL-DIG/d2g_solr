@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107305</field>
 <field name="genre">Operas</field>
 <field name="title">Lea</field>
 <field name="titleSort">Lea</field>
 <field name="composer">Carlo De Giannetti</field>
-<field name="composerSort">Giannetti, Carlo De</field>
+<field name="composerSort">De Giannetti, Carlo</field>
 <field name="year">1922</field>
 <field name="date">1922</field>
 <field name="librettist">Emilio Zanardini</field>

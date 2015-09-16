@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129117</field>
 <field name="genre">Operas</field>
 <field name="title">Enfermez-la</field>
 <field name="titleSort">Enfermez-la</field>
-<field name="composer">[Mme. Peigné] Max Silni</field>
-<field name="composerSort">Silni, [Mme. Peigné] Max</field>
+<field name="composer">[Mme. Peigné] Max Silny</field>
+<field name="composerSort">Silny, Max [Mme. Peigné]</field>
 <field name="year">1867</field>
 <field name="date">1867</field>
 <field name="librettist">Paul Ferrier</field>

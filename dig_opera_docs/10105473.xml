@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105473</field>
 <field name="genre">Operas</field>
 <field name="title">L'equivoco curioso</field>
 <field name="titleSort">equivoco curioso</field>
-<field name="composer">Domenico Cerciа</field>
-<field name="composerSort">Cerciа, Domenico</field>
+<field name="composer">Domenico Cercià</field>
+<field name="composerSort">Cercià, Domenico</field>
 <field name="year">1790</field>
 <field name="date">1790</field>
 <field name="librettist">Giuseppe Palomba</field>

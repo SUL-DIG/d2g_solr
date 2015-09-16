@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129285</field>
 <field name="genre">Operas</field>
 <field name="title">Dvě vdovy (The Two Widows)</field>
 <field name="titleSort">Dvě vdovy (The Two Widows)</field>
-<field name="composer">Bedrich Smetana</field>
-<field name="composerSort">Smetana, Bedrich</field>
+<field name="composer">Bedřich Smetana</field>
+<field name="composerSort">Smetana, Bedřich</field>
 <field name="year">1874</field>
 <field name="date">1874</field>
 <field name="librettist">Ruggero Reduzzi</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10130959</field>
 <field name="genre">Operas</field>
 <field name="title">Die Bonifaziusnacht</field>
 <field name="titleSort">Bonifaziusnacht</field>
 <field name="composer">[Karl Paumgarten] Friedrich von Thul</field>
-<field name="composerSort">Thul, [Karl Paumgarten] Friedrich von</field>
+<field name="composerSort">Thul, Friedrich von [Karl Paumgarten]</field>
 <field name="year">1888</field>
 <field name="date">1888</field>
 <field name="librettist">[Ludwig Déschan von Hansen] Ludwig Sendach</field>

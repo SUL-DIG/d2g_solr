@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10121961</field>
 <field name="genre">Operas</field>
 <field name="title">Perdita</field>
 <field name="titleSort">Perdita</field>
-<field name="composer">Josef Nesvera</field>
-<field name="composerSort">Nesvera, Josef</field>
+<field name="composer">Josef Nešvera</field>
+<field name="composerSort">Nešvera, Josef</field>
 <field name="year">1897</field>
 <field name="date">1897</field>
 <field name="librettist">Jaroslav Kvapil</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131693</field>
 <field name="genre">Operas</field>
 <field name="title">Le talisman du père François</field>
 <field name="titleSort">talisman du père François</field>
-<field name="composer">J. Vandenesse</field>
-<field name="composerSort">Vandenesse, J.</field>
+<field name="composer">Jacques-Arthur Vandenesse</field>
+<field name="composerSort">Vandenesse, Jacques-Arthur</field>
 <field name="year">1873</field>
 <field name="date">1873</field>
 <field name="librettist">Émile Durafour</field>

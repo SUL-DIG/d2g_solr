@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10121911</field>
 <field name="genre">Operas</field>
 <field name="title">Miss Dudelsack</field>
 <field name="titleSort">Miss Dudelsack</field>
 <field name="composer">[Rudolf Lewysohn] Rudolf Nelson</field>
-<field name="composerSort">Nelson, [Rudolf Lewysohn] Rudolf</field>
+<field name="composerSort">Nelson, Rudolf [Rudolf Lewysohn]</field>
 <field name="year">1909</field>
 <field name="date">1909</field>
 <field name="librettist">Fritz Grünbaum</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10123345</field>
 <field name="genre">Operas</field>
 <field name="title">Gipsy Gabriel</field>
 <field name="titleSort">Gipsy Gabriel</field>
 <field name="composer">[Joseph Williams] Florian Pascal</field>
-<field name="composerSort">Pascal, [Joseph Williams] Florian</field>
+<field name="composerSort">Pascal, Florian [Joseph Williams]</field>
 <field name="year">1887</field>
 <field name="date">1887</field>
 <field name="librettist">Walter Parke</field>

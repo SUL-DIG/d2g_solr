@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10118363</field>
 <field name="genre">Operas</field>
 <field name="title">Agnes de Chatillon</field>
 <field name="titleSort">Agnes de Chatillon</field>
-<field name="composer">Guillon de Loise</field>
-<field name="composerSort">Loise, Guillon de</field>
+<field name="composer">__ Guillon de Loise</field>
+<field name="composerSort">Guillon de Loise, __</field>
 <field name="year">1792</field>
 <field name="date">1792</field>
 <field name="librettist">Barthélmi-Ambroise Planterre</field>

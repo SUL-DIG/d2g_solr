@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10114538</field>
 <field name="genre">Operas</field>
 <field name="title">Die Wände</field>
 <field name="titleSort">Wände</field>
-<field name="composer">Adriana Hölsky</field>
-<field name="composerSort">Hölsky, Adriana</field>
+<field name="composer">Adriana Hölszky</field>
+<field name="composerSort">Hölszky, Adriana</field>
 <field name="year">1995</field>
 <field name="date">1995</field>
 <field name="librettist">Thomas Körner</field>

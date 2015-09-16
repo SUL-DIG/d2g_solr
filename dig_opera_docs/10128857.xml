@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10128857</field>
 <field name="genre">Operas</field>
 <field name="title">Crispin rival de son maître</field>
 <field name="titleSort">Crispin rival de son maître</field>
-<field name="composer">Adolphe-Valentin Sellenick</field>
-<field name="composerSort">Sellenick, Adolphe-Valentin</field>
+<field name="composer">Adolphe Sellenick</field>
+<field name="composerSort">Sellenick, Adolphe</field>
 <field name="year">1860</field>
 <field name="date">1860</field>
 <field name="librettist">Samuel-Henri Berthoud</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10106971</field>
 <field name="genre">Operas</field>
 <field name="title">La fattuchiera</field>
 <field name="titleSort">fattuchiera</field>
 <field name="composer">Vincenc Cuyás y Borés</field>
-<field name="composerSort">Borés, Vincenc Cuyás y</field>
+<field name="composerSort">Cuyás y Borés, Vincenc</field>
 <field name="year">1838</field>
 <field name="date">1838</field>
 <field name="librettist">Felice Romani</field>

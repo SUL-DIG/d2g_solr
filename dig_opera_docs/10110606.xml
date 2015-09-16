@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10110606</field>
 <field name="genre">Operas</field>
 <field name="title">Le vieux soldat et sa pupille</field>
 <field name="titleSort">vieux soldat et sa pupille</field>
-<field name="composer">__ Froment</field>
-<field name="composerSort">Froment, __</field>
+<field name="composer">__ Fromant</field>
+<field name="composerSort">Fromant, __</field>
 <field name="year">1785</field>
 <field name="date">1785</field>
 <field name="librettist">Eve Maillot</field>

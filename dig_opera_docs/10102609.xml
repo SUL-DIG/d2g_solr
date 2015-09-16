@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10102609</field>
 <field name="genre">Operas</field>
 <field name="title">Le carrosse du Saint-Sacrement</field>
 <field name="titleSort">carrosse du Saint-Sacrement</field>
 <field name="composer">[Gerald Hugh Thrwhitt-Wilson] Lord Berners</field>
-<field name="composerSort">Berners, [Gerald Hugh Thrwhitt-Wilson] Lord</field>
+<field name="composerSort">Berners, Lord [Gerald Hugh Thrwhitt-Wilson]</field>
 <field name="year">1923</field>
 <field name="date">1923</field>
 <field name="librettist">Prosper Mérimée</field>

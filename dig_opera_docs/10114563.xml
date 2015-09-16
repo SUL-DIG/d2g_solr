@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10114563</field>
 <field name="genre">Operas</field>
 <field name="title">Der Zauberer</field>
 <field name="titleSort">Zauberer</field>
-<field name="composer">Ondrej Frantisek Holý</field>
-<field name="composerSort">Holý, Ondrej Frantisek</field>
+<field name="composer">Ondřej František Holý</field>
+<field name="composerSort">Holý, Ondřej František</field>
 <field name="year">1772</field>
 <field name="date">1772</field>
 <field name="librettist">Karl Franz Henisch</field>

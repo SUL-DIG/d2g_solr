@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10113411</field>
 <field name="genre">Operas</field>
 <field name="title">Die ledige Frau</field>
 <field name="titleSort">ledige Frau</field>
 <field name="composer">[Richard Levy] Richard Haller</field>
-<field name="composerSort">Haller, [Richard Levy] Richard</field>
+<field name="composerSort">Haller, Richard [Richard Levy]</field>
 <field name="year">1902</field>
 <field name="date">1902</field>
 <field name="librettist">Julius Wilhelm</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107392</field>
 <field name="genre">Operas</field>
 <field name="title">Wrong Notes</field>
 <field name="titleSort">Wrong Notes</field>
 <field name="composer">[Isidore Cohen] Isidore De Lara</field>
-<field name="composerSort">Lara, [Isidore Cohen] Isidore De</field>
+<field name="composerSort">De Lara, Isidore [Isidore Cohen]</field>
 <field name="year">1883</field>
 <field name="date">1883</field>
 

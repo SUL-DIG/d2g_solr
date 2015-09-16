@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115194</field>
 <field name="genre">Operas</field>
 <field name="title">Das Musikantenmädel</field>
 <field name="titleSort">Musikantenmädel</field>
 <field name="composer">[György Kohner] Georg Jarno</field>
-<field name="composerSort">Jarno, [György Kohner] Georg</field>
+<field name="composerSort">Jarno, Georg [György Kohner]</field>
 <field name="year">1910</field>
 <field name="date">1910</field>
 <field name="librettist">Bernhard Buchbinder</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107268</field>
 <field name="genre">Operas</field>
 <field name="title">La fonte miracolosa</field>
 <field name="titleSort">fonte miracolosa</field>
 <field name="composer">Alberto De Feo</field>
-<field name="composerSort">Feo, Alberto De</field>
+<field name="composerSort">De Feo, Alberto</field>
 <field name="year">1921</field>
 <field name="date">1921</field>
 <field name="librettist">Alberto Pampi</field>

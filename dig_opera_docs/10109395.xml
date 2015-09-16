@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">La pagode</field>
 <field name="titleSort">pagode</field>
-<field name="composer">Benoit Constant Fauconier</field>
-<field name="composerSort">Fauconier, Benoit Constant</field>
+<field name="composer">Benoît-Constant Fauconier</field>
+<field name="composerSort">Fauconier, Benoît-Constant</field>
 <field name="year">1859</field>
 <field name="date">1859</field>
 <field name="librettist">Henri de Saint-Georges</field>

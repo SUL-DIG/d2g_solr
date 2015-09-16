@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107543</field>
 <field name="genre">Operas</field>
 <field name="title">Il Macigno</field>
 <field name="titleSort">Macigno</field>
 <field name="composer">Victor De Sabata</field>
-<field name="composerSort">Sabata, Victor De</field>
+<field name="composerSort">De Sabata, Victor</field>
 <field name="year">1917</field>
 <field name="date">1917</field>
 <field name="librettist">Alberto Colantuoni</field>

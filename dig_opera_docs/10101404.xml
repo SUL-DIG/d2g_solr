@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10101404</field>
 <field name="genre">Operas</field>
 <field name="title">Les amants querelleurs</field>
 <field name="titleSort">amants querelleurs</field>
-<field name="composer">Prudent Louis Aubéry du Boulley</field>
-<field name="composerSort">Boulley, Prudent Louis Aubéry du</field>
+<field name="composer">Prudent-Louis Aubéry Du Boulley</field>
+<field name="composerSort">Aubéry Du Boulley, Prudent-Louis</field>
 <field name="year">1824</field>
 <field name="date">1824</field><field name="theater">Théâtre du Gymnase</field>
 <field name="city">Paris</field>

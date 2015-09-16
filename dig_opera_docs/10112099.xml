@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10112099</field>
 <field name="genre">Operas</field>
 <field name="title">Pharamond</field>
 <field name="titleSort">Pharamond</field>
-<field name="composer">Antoine-Charles Glachant</field>
-<field name="composerSort">Glachant, Antoine-Charles</field>
+<field name="composer">Antoine Glachant</field>
+<field name="composerSort">Glachant, Antoine</field>
 <field name="year">1790</field>
 <field name="date">1790</field>
 <field name="librettist">Philippe-Aristide-Louis-Pierre Plancher de Valcour</field>

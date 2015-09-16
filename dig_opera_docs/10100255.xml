@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10100255</field>
 <field name="genre">Operas</field>
 <field name="title">La zingara</field>
 <field name="titleSort">zingara</field>
 <field name="composer">Corradino d'Aguillo</field>
-<field name="composerSort">d'Aguillo, Corradino</field>
+<field name="composerSort">Aguillo, Corradino d'</field>
 <field name="year">1900</field>
 <field name="date">1900</field>
 <field name="librettist">Nicolas d'Aguillo</field>

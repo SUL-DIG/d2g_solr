@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10203290</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">La passione nell'orto</field>
@@ -7,8 +8,8 @@
 		<field name="month">April</field>
 		<field name="day">6</field>
 		<field name="date">April 6, 1708</field>
-		<field name="composer">Marc Antonio Ziani</field>
-		<field name="composerSort">Ziani, Marc Antonio</field>
+		<field name="composer">Marc'Antonio Ziani</field>
+		<field name="composerSort">Ziani, Marc'Antonio</field>
 		<field name="librettist">Pietro Antonio Bernardoni</field>
 		<field name="librettistSort">Bernardoni, Pietro Antonio</field>
 		

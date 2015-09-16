@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10111842</field>
 <field name="genre">Operas</field>
 <field name="title">Zwi um Eine</field>
 <field name="titleSort">Zwi um Eine</field>
 <field name="composer">[Max Winterfeld] Jean Gilbert</field>
-<field name="composerSort">Gilbert, [Max Winterfeld] Jean</field>
+<field name="composerSort">Gilbert, Jean [Max Winterfeld]</field>
 <field name="year">1924</field>
 <field name="date">1924</field>
 <field name="librettist">Leopold Jacobson</field>

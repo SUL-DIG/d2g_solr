@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10124406</field>
 <field name="genre">Operas</field>
 <field name="title">Ughlu</field>
 <field name="titleSort">Ughlu</field>
-<field name="composer">Adolf Piskacek</field>
-<field name="composerSort">Piskacek, Adolf</field>
+<field name="composer">Adolf Piskáček</field>
+<field name="composerSort">Piskáček, Adolf</field>
 <field name="year">1914</field>
 <field name="date">1914</field><field name="theater">Národní Divadlo</field>
 <field name="city">Prague</field>

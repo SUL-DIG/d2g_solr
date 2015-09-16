@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Drahomíra</field>
 <field name="titleSort">Drahomíra</field>
-<field name="composer">Karel Richard Sebor</field>
-<field name="composerSort">Sebor, Karel Richard</field>
+<field name="composer">Karel Richard Šebor</field>
+<field name="composerSort">Šebor, Karel Richard</field>
 <field name="year">1867</field>
 <field name="date">1867</field>
 <field name="librettist">Jindřich Böhm</field>

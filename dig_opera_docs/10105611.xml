@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105611</field>
 <field name="genre">Operas</field>
 <field name="title">L'amant sculpteur (Les parents réunis)</field>
 <field name="titleSort">amant sculpteur (Les parents réunis)</field>
-<field name="composer">Louis-Claude-Armand Chardiny</field>
-<field name="composerSort">Chardiny, Louis-Claude-Armand</field>
+<field name="composer">Louis-Armand Chardiny</field>
+<field name="composerSort">Chardiny, Louis-Armand</field>
 <field name="year">1790</field>
 <field name="date">1790</field>
 <field name="librettist">François-Pierre-Auguste Léger</field>

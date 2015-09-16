@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107608</field>
 <field name="genre">Operas</field>
 <field name="title">Ulrike, een antieke tragedie</field>
 <field name="titleSort">Ulrike, een antieke tragedie</field>
 <field name="composer">Raoul De Smet</field>
-<field name="composerSort">Smet, Raoul De</field>
+<field name="composerSort">De Smet, Raoul</field>
 <field name="year">1989</field>
 <field name="date">1989</field>
 <field name="librettist">Leo Geerts</field>

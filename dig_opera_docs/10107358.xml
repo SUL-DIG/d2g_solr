@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107358</field>
 <field name="genre">Operas</field>
 <field name="title">The Knickerbockers</field>
 <field name="titleSort">Knickerbockers</field>
 <field name="composer">Reginald De Koven</field>
-<field name="composerSort">Koven, Reginald De</field>
+<field name="composerSort">De Koven, Reginald</field>
 <field name="year">1893</field>
 <field name="date">1893</field>
 <field name="librettist">Harry Bache Smith</field>

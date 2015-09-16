@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107229</field>
 <field name="genre">Operas</field>
 <field name="title">Le 13 coup de minuit</field>
 <field name="titleSort">13 coup de minuit</field>
-<field name="composer">Jean Jacques Debillemont</field>
-<field name="composerSort">Debillemont, Jean Jacques</field>
+<field name="composer">Jean-Jacques Debillemont</field>
+<field name="composerSort">Debillemont, Jean-Jacques</field>
 <field name="year">1874</field>
 <field name="date">1874</field>
 <field name="librettist">[Louis-François Nicolaïe] Clairville</field>

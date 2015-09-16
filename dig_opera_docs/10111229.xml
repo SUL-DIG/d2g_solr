@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10111229</field>
 <field name="genre">Operas</field>
 <field name="title">Le buisson vert</field>
 <field name="titleSort">buisson vert</field>
-<field name="composer">Léon-Gustave-Cyprien Gastinel</field>
-<field name="composerSort">Gastinel, Léon-Gustave-Cyprien</field>
+<field name="composer">Léon Gastinel</field>
+<field name="composerSort">Gastinel, Léon</field>
 <field name="year">1861</field>
 <field name="date">1861</field>
 <field name="librettist">[Michel Carré] Fonteille</field>

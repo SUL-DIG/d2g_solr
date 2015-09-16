@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10118006</field>
 <field name="genre">Operas</field>
 <field name="title">Ossian, ou Les bardes</field>
 <field name="titleSort">Ossian, ou Les bardes</field>
 <field name="composer">Jean-François Le Sueur</field>
-<field name="composerSort">Sueur, Jean-François Le</field>
+<field name="composerSort">Le Sueur, Jean-François</field>
 <field name="year">1804</field>
 <field name="date">1804</field>
 <field name="librettist">[__ Palat] P. Dercy</field>

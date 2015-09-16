@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117124</field>
 <field name="genre">Operas</field>
 <field name="title">Hesperia</field>
 <field name="titleSort">Hesperia</field>
 <field name="composer">Joan Lamote de Grignon</field>
-<field name="composerSort">Grignon, Joan Lamote de</field>
+<field name="composerSort">Lamote de Grignon, Joan</field>
 <field name="year">1907</field>
 <field name="date">1907</field>
 <field name="librettist">Juan Oliva Bridgman</field>

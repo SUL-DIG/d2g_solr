@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131853</field>
 <field name="genre">Operas</field>
 <field name="title">La double épreuve</field>
 <field name="titleSort">double épreuve</field>
-<field name="composer">Léon Vercken de Vreuschmen</field>
-<field name="composerSort">Vreuschmen, Léon Vercken de</field>
+<field name="composer">Léon Vercken</field>
+<field name="composerSort">Vercken, Léon</field>
 <field name="year">1880</field>
 <field name="date">1880</field>
 <field name="librettist">Ernest Dubreuil</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10109547</field>
 <field name="genre">Operas</field>
 <field name="title">Sin de monio no hay fortuna</field>
 <field name="titleSort">Sin de monio no hay fortuna</field>
 <field name="composer">Jorge Fernández Guerra</field>
-<field name="composerSort">Guerra, Jorge Fernández</field>
+<field name="composerSort">Fernández Guerra, Jorge</field>
 <field name="year">1987</field>
 <field name="date">1987</field>
 <field name="librettist">Leopoldo Alas</field>

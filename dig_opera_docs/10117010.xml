@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117010</field>
 <field name="genre">Operas</field>
 <field name="title">La croix de ma mère</field>
 <field name="titleSort">croix de ma mère</field>
-<field name="composer">__ Lafaye</field>
-<field name="composerSort">Lafaye, __</field>
+<field name="composer">F. Lafaye</field>
+<field name="composerSort">Lafaye, F.</field>
 <field name="year">1868</field>
 <field name="date">1868</field>
 <field name="librettist">Édouard Varney</field>

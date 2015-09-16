@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Les bourgeois de Reims</field>
 <field name="titleSort">bourgeois de Reims</field>
-<field name="composer">François Joseph Fétis</field>
-<field name="composerSort">Fétis, François Joseph</field>
+<field name="composer">François-Joseph Fétis</field>
+<field name="composerSort">Fétis, François-Joseph</field>
 <field name="year">1825</field>
 <field name="date">1825</field>
 <field name="librettist">Henri de Saint-Georges</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105188</field>
 <field name="genre">Operas</field>
 <field name="title">The Earl and the Girl</field>
 <field name="titleSort">Earl and the Girl</field>
 <field name="composer">[Félix Marie Henri Tilkin] Ivan Caryll</field>
-<field name="composerSort">Caryll, [Félix Marie Henri Tilkin] Ivan</field>
+<field name="composerSort">Caryll, Ivan [Félix Marie Henri Tilkin]</field>
 <field name="year">1903</field>
 <field name="date">1903</field>
 <field name="librettist">Edward Seymour Hicks</field>

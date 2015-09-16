@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10120368</field>
 <field name="genre">Operas</field>
 <field name="title">Dormenon et Beauval, ou Le fils corrigé</field>
 <field name="titleSort">Dormenon et Beauval, ou Le fils corrigé</field>
-<field name="composer">Nicolas-Jean Méreaux</field>
-<field name="composerSort">Méreaux, Nicolas-Jean</field>
+<field name="composer">Nicolas-Jean Le Froid de Méreaux</field>
+<field name="composerSort">Le Froid de Méreaux, Nicolas-Jean</field>
 <field name="year">1787</field>
 <field name="date">1787</field><field name="theater">Comédie-Italienne</field>
 <field name="city">Paris</field>

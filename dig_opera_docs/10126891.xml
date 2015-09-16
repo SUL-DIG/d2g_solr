@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10126891</field>
 <field name="genre">Operas</field>
 <field name="title">La cloche du Rhin</field>
 <field name="titleSort">cloche du Rhin</field>
-<field name="composer">Samuel Alexandre Rousseau</field>
-<field name="composerSort">Rousseau, Samuel Alexandre</field>
+<field name="composer">Samuel Rousseau</field>
+<field name="composerSort">Rousseau, Samuel</field>
 <field name="year">1898</field>
 <field name="date">1898</field>
 <field name="librettist">[Octave Lebesgue] Georges Montorgueil</field>

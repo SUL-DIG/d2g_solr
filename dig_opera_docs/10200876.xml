@@ -8,8 +8,8 @@
 		
 		
 		<field name="date">1687</field>
-		<field name="composer">Marc Antonio Ziani</field>
-		<field name="composerSort">Ziani, Marc Antonio</field>
+		<field name="composer">Marc'Antonio Ziani</field>
+		<field name="composerSort">Ziani, Marc'Antonio</field>
 		<field name="librettist">Lorenzo Verzuso Beretti Landi</field>
 		<field name="librettistSort">Verzuso Beretti Landi, Lorenzo</field>
 		

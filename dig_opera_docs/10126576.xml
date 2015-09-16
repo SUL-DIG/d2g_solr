@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10126576</field>
 <field name="genre">Operas</field>
 <field name="title">Did You Ring?</field>
 <field name="titleSort">Did You Ring?</field>
 <field name="composer">[Landon Ronald Russell] Landon Ronald</field>
-<field name="composerSort">Ronald, [LandonRussell] Landon</field>
+<field name="composerSort">Ronald, Landon [Landon Ronald Russell]</field>
 <field name="year">1892</field>
 <field name="date">1892</field>
 <field name="librettist">John Houghton</field>

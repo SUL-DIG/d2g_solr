@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10119312</field>
 <field name="genre">Operas</field>
 <field name="title">Miska</field>
 <field name="titleSort">Miska</field>
 <field name="composer">[Eugène Boursin] Géo Marelly</field>
-<field name="composerSort">Marelly, [Eugène Boursin] Géo</field>
+<field name="composerSort">Marelly, Géo [Eugène Boursin]</field>
 <field name="year">1910</field>
 <field name="date">1910</field>
 <field name="librettist">Victor Hoerter</field>

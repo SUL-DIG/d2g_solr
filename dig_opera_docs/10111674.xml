@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10111674</field>
 <field name="genre">Operas</field>
 <field name="title">La rivista militare</field>
 <field name="titleSort">rivista militare</field>
-<field name="composer">__ Gherzi</field>
-<field name="composerSort">Gherzi, __</field>
+<field name="composer">Delfina Gherzi</field>
+<field name="composerSort">Gherzi, Delfina</field>
 <field name="year">1893</field>
 <field name="date">1893</field><field name="theater">Galeria Umberto</field>
 <field name="city">Turin</field>

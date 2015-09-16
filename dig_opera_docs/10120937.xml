@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10120937</field>
 <field name="genre">Operas</field>
 <field name="title">Loteria (The Lottery)</field>
 <field name="titleSort">Loteria (The Lottery)</field>
-<field name="composer">Stanislaw Moniuszko</field>
-<field name="composerSort">Moniuszko, Stanislaw</field>
+<field name="composer">Stanisław Moniuszko</field>
+<field name="composerSort">Moniuszko, Stanisław</field>
 <field name="year">1843</field>
 <field name="date">1843</field>
 <field name="librettist">Oskar Milewski</field>

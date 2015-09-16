@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10110208</field>
 <field name="genre">Operas</field>
 <field name="title">Le chevalier de Canolle</field>
 <field name="titleSort">chevalier de Canolle</field>
-<field name="composer">Hippolyte Honoré de Fontmichel</field>
-<field name="composerSort">Fontmichel, Hippolyte Honoré de</field>
+<field name="composer">Hippolyte de Fontmichel</field>
+<field name="composerSort">Fontmichel, Hippolyte de</field>
 <field name="year">1836</field>
 <field name="date">1836</field>
 <field name="librettist">Sophie Gay</field>

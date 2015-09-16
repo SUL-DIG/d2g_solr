@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10108462</field>
 <field name="genre">Operas</field>
 <field name="title">Doktor Pandolfo</field>
 <field name="titleSort">Doktor Pandolfo</field>
-<field name="composer">Stanislaw Duniecki</field>
-<field name="composerSort">Duniecki, Stanislaw</field>
+<field name="composer">Stanisław Duniecki</field>
+<field name="composerSort">Duniecki, Stanisław</field>
 <field name="year">1866</field>
 <field name="date">1866</field><field name="theater">Stary Teatr</field>
 <field name="city">Cracow</field>

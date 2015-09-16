@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10122664</field>
 <field name="genre">Operas</field>
 <field name="title">Juana la loca</field>
 <field name="titleSort">Juana la loca</field>
 <field name="composer">Eleodoro Ortiz de Zárate</field>
-<field name="composerSort">Zárate, Eleodoro Ortiz de</field>
+<field name="composerSort">Ortiz de Zárate, Eleodoro</field>
 
 <field name="date">theaterConservatorio di Musica</field>
 <field name="city">Milan</field>

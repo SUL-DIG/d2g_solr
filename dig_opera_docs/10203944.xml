@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10203944</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Sancta civitas</field>
@@ -8,7 +9,7 @@
 		<field name="day">7</field>
 		<field name="date">May 7, 1926</field>
 		<field name="composer">Ralph Vaughan Williams</field>
-		<field name="composerSort">Williams, Ralph Vaughan</field>
+		<field name="composerSort">Vaughan Williams, Ralph</field>
 		
 		
 		<field name="theater">Sheldonian Theatre</field>

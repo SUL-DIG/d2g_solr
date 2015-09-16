@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Le diadesté, ou La gageure arabe</field>
 <field name="titleSort">diadesté, ou La gageure arabe</field>
-<field name="composer">Jules Joseph Godefroid</field>
-<field name="composerSort">Godefroid, Jules Joseph</field>
+<field name="composer">Jules Godefroid</field>
+<field name="composerSort">Godefroid, Jules</field>
 <field name="year">1836</field>
 <field name="date">1836</field>
 <field name="librettist">Léon Pillet</field>

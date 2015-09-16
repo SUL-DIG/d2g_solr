@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10128817</field>
 <field name="genre">Operas</field>
 <field name="title">Nevěsta husitská (The Hussite Bride)</field>
 <field name="titleSort">Nevěsta husitská (The Hussite Bride)</field>
-<field name="composer">Karel Richard Sebor</field>
-<field name="composerSort">Sebor, Karel Richard</field>
+<field name="composer">Karel Richard Šebor</field>
+<field name="composerSort">Šebor, Karel Richard</field>
 <field name="year">1868</field>
 <field name="date">1868</field>
 <field name="librettist">Eduard Rüffer</field>

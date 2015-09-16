@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10108964</field>
 <field name="genre">Operas</field>
 <field name="title">Inès Mendo</field>
 <field name="titleSort">Inès Mendo</field>
 <field name="composer">Frédéric d'Erlanger</field>
-<field name="composerSort">d'Erlanger, Frédéric</field>
+<field name="composerSort">Erlanger, Frédéric d'</field>
 <field name="year">1897</field>
 <field name="date">1897</field>
 <field name="librettist">Pierre Decourcelle</field>

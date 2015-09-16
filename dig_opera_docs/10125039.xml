@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">L'emprunt secret</field>
 <field name="titleSort">emprunt secret</field>
-<field name="composer">Louis Barthélmy Pradher</field>
-<field name="composerSort">Pradher, Louis Barthélmy</field>
+<field name="composer">Louis-Barthélmy Pradher</field>
+<field name="composerSort">Pradher, Louis-Barthélmy</field>
 <field name="year">1812</field>
 <field name="date">1812</field>
 <field name="librettist">Eugène de Planard</field>

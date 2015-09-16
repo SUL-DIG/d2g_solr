@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10112366</field>
 <field name="genre">Operas</field>
 <field name="title">Le diable а Seville</field>
 <field name="titleSort">diable а Seville</field>
 <field name="composer">José Melchor Gomis y Colomer</field>
-<field name="composerSort">Colomer, José Melchor Gomis y</field>
+<field name="composerSort">Gomis y Colomer, José Melchor</field>
 <field name="year">1831</field>
 <field name="date">1831</field>
 <field name="librettist">Antonio Hurtado y Valhondo</field>

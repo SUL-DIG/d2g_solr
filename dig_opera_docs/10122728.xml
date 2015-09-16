@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10122728</field>
 <field name="genre">Operas</field>
 <field name="title">Fernando Cortez</field>
 <field name="titleSort">Fernando Cortez</field>
 <field name="composer">Ignacio Ovejero y Ramos</field>
-<field name="composerSort">Ramos, Ignacio Ovejero y</field>
+<field name="composerSort">Ovejero y Ramos, Ignacio</field>
 <field name="year">1848</field>
 <field name="date">1848</field>
 <field name="librettist">Enrico Bensa Capponi</field>

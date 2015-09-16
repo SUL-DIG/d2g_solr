@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10123344</field>
 <field name="genre">Operas</field>
 <field name="title">Cymbia, or The Magic Thimble</field>
 <field name="titleSort">Cymbia, or The Magic Thimble</field>
 <field name="composer">[Joseph Williams] Florian Pascal</field>
-<field name="composerSort">Pascal, [Joseph Williams] Florian</field>
+<field name="composerSort">Pascal, Florian [Joseph Williams]</field>
 <field name="year">1883</field>
 <field name="date">1883</field>
 <field name="librettist">Harry Paulton</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129877</field>
 <field name="genre">Operas</field>
 <field name="title">La suocera</field>
 <field name="titleSort">suocera</field>
 <field name="composer">[Florence Skinner] Fiorenza Steward-Stresa</field>
-<field name="composerSort">Steward-Stresa, [Florence Skinner] Fiorenza</field>
+<field name="composerSort">Steward-Stresa, Fiorenza [Florence Skinner]</field>
 <field name="year">1877</field>
 <field name="date">1877</field><field name="theater">Teatro Nuovo sopra Toledo</field>
 <field name="city">Naples</field>

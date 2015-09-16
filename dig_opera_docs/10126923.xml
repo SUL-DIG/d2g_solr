@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Stoja</field>
 <field name="titleSort">Stoja</field>
-<field name="composer">Josef Richard Rozkosný</field>
-<field name="composerSort">Rozkosný, Josef Richard</field>
+<field name="composer">Josef Richard Rozkošný</field>
+<field name="composerSort">Rozkošný, Josef Richard</field>
 <field name="year">1894</field>
 <field name="date">1894</field>
 <field name="librettist">Otakar Kučera</field>

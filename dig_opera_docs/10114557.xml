@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10114557</field>
 <field name="genre">Operas</field>
 <field name="title">Die Jagd</field>
 <field name="titleSort">Jagd</field>
-<field name="composer">Ondrej Frantisek Holý</field>
-<field name="composerSort">Holý, Ondrej Frantisek</field>
+<field name="composer">Ondřej František Holý</field>
+<field name="composerSort">Holý, Ondřej František</field>
 <field name="year">1772</field>
 <field name="date">1772</field>
 <field name="librettist">Christian Felix Weisse</field>

@@ -6,7 +6,7 @@
 <field name="title">Fleur d'epine</field>
 <field name="titleSort">Fleur d'epine</field>
 <field name="composer">[Marie-Emmanuelle Bayon] Mme. Louis</field>
-<field name="composerSort">Louis, [Marie-Emmanuelle Bayon] Mme.</field>
+<field name="composerSort">Louis, Mme. [Marie-Emmanuelle Bayon]</field>
 <field name="year">1776</field>
 <field name="date">1776</field>
 <field name="librettist">Claude-Henri de Fusée de Voisenon</field>

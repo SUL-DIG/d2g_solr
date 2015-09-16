@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115146</field>
 <field name="genre">Operas</field>
 <field name="title">La tarantella</field>
 <field name="titleSort">tarantella</field>
 <field name="composer">[Edward Belville] Edward Jakobowski</field>
-<field name="composerSort">Jakobowski, [Edward Belville] Edward</field>
+<field name="composerSort">Jakobowski, Edward [Edward Belville]</field>
 <field name="year">1899</field>
 <field name="date">1899</field>
 <field name="librettist">Alfred Murray</field>

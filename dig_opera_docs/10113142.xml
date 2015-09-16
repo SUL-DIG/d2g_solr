@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10113142</field>
 <field name="genre">Operas</field>
 <field name="title">Wolf Cub Village</field>
 <field name="titleSort">Wolf Cub Village</field>
 <field name="composer">Guo Wenjing</field>
-<field name="composerSort">Wenjing, Guo</field>
+<field name="composerSort">Guo Wenjing</field>
 <field name="year">1994</field>
 <field name="date">1994</field>
 <field name="librettist">Zeng Lili</field>

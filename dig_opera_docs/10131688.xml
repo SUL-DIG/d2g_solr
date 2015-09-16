@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131688</field>
 <field name="genre">Operas</field>
 <field name="title">Death of the Hired Man</field>
 <field name="titleSort">Death of the Hired Man</field>
 <field name="composer">Nancy Van de Vate</field>
-<field name="composerSort">Vate, Nancy Van de</field>
+<field name="composerSort">Van de Vate, Nancy</field>
 <field name="year">1960</field>
 <field name="date">1960</field>
 <field name="librettist">Nancy Van de Vate</field>

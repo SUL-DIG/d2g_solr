@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10106894</field>
 <field name="genre">Operas</field>
 <field name="title">Görög Ilona</field>
 <field name="titleSort">Görög Ilona</field>
-<field name="composer">Boldizsár Csiky</field>
-<field name="composerSort">Csiky, Boldizsár</field>
+<field name="composer">Boldizsár Csíky</field>
+<field name="composerSort">Csíky, Boldizsár</field>
 <field name="year">1967</field>
 <field name="date">1967</field>
 <field name="city">Tirgu-Mures</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10113161</field>
 <field name="genre">Operas</field>
 <field name="title">Macías</field>
 <field name="titleSort">Macías</field>
 <field name="composer">Felipe Gutiérrez Espina</field>
-<field name="composerSort">Espina, Felipe Gutiérrez</field>
+<field name="composerSort">Gutiérrez Espina, Felipe</field>
 <field name="year">1977</field>
 <field name="date">1977</field>
 <field name="librettist">Alejandro Tapia y Rivera</field>

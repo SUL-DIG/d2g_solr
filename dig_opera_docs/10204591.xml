@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10204591</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Los tres milagros de Santa Cecilia</field>
@@ -7,8 +8,8 @@
 		
 		
 		<field name="date">1921</field>
-		<field name="composer">Padre José Antonio de Donostia</field>
-		<field name="composerSort">Donostia, Padre José Antonio de </field>
+		<field name="composer">José Antonio de Donostia</field>
+		<field name="composerSort">Donostia, José Antonio de</field>
 		
 		
 		

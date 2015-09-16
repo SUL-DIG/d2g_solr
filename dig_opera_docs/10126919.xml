@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10126919</field>
 <field name="genre">Operas</field>
 <field name="title">Mikulás</field>
 <field name="titleSort">Mikulás</field>
-<field name="composer">Josef Richard Rozkosný</field>
-<field name="composerSort">Rozkosný, Josef Richard</field>
+<field name="composer">Josef Richard Rozkošný</field>
+<field name="composerSort">Rozkošný, Josef Richard</field>
 <field name="year">1870</field>
 <field name="date">1870</field>
 <field name="librettist">Karel Sabina</field>

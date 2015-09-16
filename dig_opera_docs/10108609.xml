@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10108609</field>
 <field name="genre">Operas</field>
 <field name="title">Tvrdé palice (The Stubborn Lovers)</field>
 <field name="titleSort">Tvrdé palice (The Stubborn Lovers)</field>
-<field name="composer">Antonín Dvorák</field>
-<field name="composerSort">Dvorák, Antonín</field>
+<field name="composer">Antonín Dvořák</field>
+<field name="composerSort">Dvořák, Antonín</field>
 <field name="year">1881</field>
 <field name="date">1881</field>
 <field name="librettist">Josef Stolba</field>

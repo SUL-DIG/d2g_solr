@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10120091</field>
 <field name="genre">Operas</field>
 <field name="title">Vaidelote (The Priestess)</field>
 <field name="titleSort">Vaidelote (The Priestess)</field>
-<field name="composer">Jazeps Medins</field>
-<field name="composerSort">Medins, Jazeps</field>
+<field name="composer">Jāzeps Mediņš</field>
+<field name="composerSort">Mediņš, Jāzeps</field>
 <field name="year">1927</field>
 <field name="date">1927</field>
 <field name="librettist">[Elza Rozenberga Plieksane] Aspazija</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10120088</field>
 <field name="genre">Operas</field>
 <field name="title">Luteklite (The Little Darling)</field>
 <field name="titleSort">Luteklite (The Little Darling)</field>
-<field name="composer">Janis Medins</field>
-<field name="composerSort">Medins, Janis</field>
+<field name="composer">Jānis Mediņš</field>
+<field name="composerSort">Mediņš, Jānis</field>
 <field name="year">1939</field>
 <field name="date">1939</field>
 <field name="librettist">Arturs Ozols</field>

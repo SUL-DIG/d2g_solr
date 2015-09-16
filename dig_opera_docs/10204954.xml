@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10204954</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Zeit und Ewigkeit</field>
@@ -7,8 +8,8 @@
 		<field name="month">June</field>
 		
 		<field name="date">June 1838</field>
-		<field name="composer">Xaver Schnyder von Wartensee</field>
-		<field name="composerSort">Wartensee, Xaver Schnyder von</field>
+		<field name="composer">Franz Xaver Schnyder von Wartensee</field>
+		<field name="composerSort">Schnyder von Wartensee, Franz Xaver</field>
 		<field name="librettist">Friedrich Gottlieb Klopstock</field>
 		<field name="librettistSort">Klopstock, Friedrich Gottli</field>
 		

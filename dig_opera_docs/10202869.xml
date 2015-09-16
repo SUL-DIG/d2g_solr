@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10202869</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Moses</field>
@@ -7,8 +8,8 @@
 		<field name="month">December</field>
 		<field name="day">25</field>
 		<field name="date">December 25, 1836</field>
-		<field name="composer">Franz Lachner</field>
-		<field name="composerSort">Lachner, Franz</field>
+		<field name="composer">Franz Paul Lachner</field>
+		<field name="composerSort">Lachner, Franz Paul</field>
 		<field name="librettist">Eduard von Bauernfeld</field>
 		<field name="librettistSort">Bauernfeld, Eduard von</field>
 		

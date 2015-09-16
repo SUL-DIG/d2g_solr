@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Na starém bělidle (At the Old Bleachery)</field>
 <field name="titleSort">Na starém bělidle (At the Old Bleachery)</field>
-<field name="composer">Karel Kovarovic</field>
-<field name="composerSort">Kovarovic, Karel</field>
+<field name="composer">Karel Kovařovic</field>
+<field name="composerSort">Kovařovic, Karel</field>
 <field name="year">1901</field>
 <field name="date">1901</field>
 <field name="librettist">Karel Šipek</field>

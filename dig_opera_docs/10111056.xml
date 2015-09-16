@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10111056</field>
 <field name="genre">Operas</field>
 <field name="title">Manita en el suelo</field>
 <field name="titleSort">Manita en el suelo</field>
 <field name="composer">Alejandro García Caturla</field>
-<field name="composerSort">Caturla, Alejandro García</field>
+<field name="composerSort">García Caturla, Alejandro</field>
 <field name="year">1985</field>
 <field name="date">1985</field>
 <field name="librettist">Alejo Carpentier</field>

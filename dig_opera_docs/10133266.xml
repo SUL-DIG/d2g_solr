@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10133266</field>
 <field name="genre">Operas</field>
 <field name="title">Marcia</field>
 <field name="titleSort">Marcia</field>
 <field name="composer">Cleto Zabala y Arrambari</field>
-<field name="composerSort">Zabala yArrambari, Cleto</field>
+<field name="composerSort">Zabala y Arrambari, Cleto</field>
 <field name="year">1901</field>
 <field name="date">1901</field>
 <field name="librettist">Gonzalvo Canto</field>

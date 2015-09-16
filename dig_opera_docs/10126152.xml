@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10126152</field>
 <field name="genre">Operas</field>
 <field name="title">Le duel, ou Une loi de Frédéric</field>
 <field name="titleSort">duel, ou Une loi de Frédéric</field>
-<field name="composer">Louis Victor Étienne Rifaut</field>
-<field name="composerSort">Rifaut, Louis Victor Étienne</field>
+<field name="composer">Victor Rifaut</field>
+<field name="composerSort">Rifaut, Victor</field>
 <field name="year">1826</field>
 <field name="date">1826</field>
 <field name="librettist">Joseph Desessarts d'Ambreville</field>

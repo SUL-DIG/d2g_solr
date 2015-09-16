@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10116827</field>
 <field name="genre">Operas</field>
 <field name="title">Cecylia Piaseczyńska </field>
 <field name="titleSort">Cecylia Piaseczyńska </field>
-<field name="composer">Karol Kazimierz Kurpinski</field>
-<field name="composerSort">Kurpinski, Karol Kazimierz</field>
+<field name="composer">Karol Kazimierz Kurpiński</field>
+<field name="composerSort">Kurpiński, Karol Kazimierz</field>
 <field name="year">1829</field>
 <field name="date">1829</field>
 <field name="librettist">Ludwik Adam Dmuszewski</field>

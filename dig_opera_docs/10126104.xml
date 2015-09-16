@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10126104</field>
 <field name="genre">Operas</field>
 <field name="title">...und der Papagei lacht</field>
 <field name="titleSort">und der Papagei lacht</field>
 <field name="composer">Franz Richter Herf</field>
-<field name="composerSort">Herf, Franz Richter</field>
+<field name="composerSort">Richter Herf, Franz</field>
 <field name="year">1960</field>
 <field name="date">1960</field>
 <field name="librettist">Hans Schröck</field>

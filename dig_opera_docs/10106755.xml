@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10106755</field>
 <field name="genre">Operas</field>
 <field name="title">Ines de Castro</field>
 <field name="titleSort">Ines de Castro</field>
 <field name="composer">Vicente Costa y Nogueras</field>
-<field name="composerSort">Nogueras, Vicente Costa y</field>
+<field name="composerSort">Costa y Nogueras, Vicente</field>
 <field name="year">1905</field>
 <field name="date">1905</field><field name="theater">Teatre Eldorado</field>
 <field name="city">Barcelona</field>

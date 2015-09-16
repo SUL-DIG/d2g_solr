@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10122518</field>
 <field name="genre">Operas</field>
 <field name="title">Maria</field>
 <field name="titleSort">Maria</field>
-<field name="composer">Henryk Opienski</field>
-<field name="composerSort">Opienski, Henryk</field>
+<field name="composer">Henryk Opieński</field>
+<field name="composerSort">Opieński, Henryk</field>
 <field name="year">1922</field>
 <field name="date">1922</field>
 <field name="city">Warsaw</field>

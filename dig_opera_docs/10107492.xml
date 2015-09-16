@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107492</field>
 <field name="genre">Operas</field>
 <field name="title">Manfredi di Svevia</field>
 <field name="titleSort">Manfredi di Svevia</field>
 <field name="composer">Ferdinando Del Re</field>
-<field name="composerSort">Re, Ferdinando Del</field>
+<field name="composerSort">Del Re, Ferdinando</field>
 <field name="year">1879</field>
 <field name="date">1879</field>
 <field name="librettist">Giuseppe Santangelo</field>

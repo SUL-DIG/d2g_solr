@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10114099</field>
 <field name="genre">Operas</field>
 <field name="title">Elena</field>
 <field name="titleSort">Elena</field>
 <field name="composer">Eduardo Hernández Moncada</field>
-<field name="composerSort">Moncada, Eduardo Hernández</field>
+<field name="composerSort">Hernández Moncada, Eduardo</field>
 <field name="year">1948</field>
 <field name="date">1948</field>
 <field name="librettist">Francisco Zendejas Gómez</field>

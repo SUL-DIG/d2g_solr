@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10116835</field>
 <field name="genre">Operas</field>
 <field name="title">Marcinowa w seraju (Marcin's Wife in the Harem)</field>
 <field name="titleSort">Marcinowa w seraju (Marcin's Wife in the Harem)</field>
-<field name="composer">Karol Kazimierz Kurpinski</field>
-<field name="composerSort">Kurpinski, Karol Kazimierz</field>
+<field name="composer">Karol Kazimierz Kurpiński</field>
+<field name="composerSort">Kurpiński, Karol Kazimierz</field>
 <field name="year">1812</field>
 <field name="date">1812</field>
 <field name="librettist">Wojciech Pekalski</field>

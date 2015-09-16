@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10116626</field>
 <field name="genre">Operas</field>
 <field name="title">České jesličky (Bohemian Nativity)</field>
 <field name="titleSort">České jesličky (Bohemian Nativity)</field>
-<field name="composer">Jaroslav Kricka</field>
-<field name="composerSort">Kricka, Jaroslav</field>
+<field name="composer">Jaroslav Křička</field>
+<field name="composerSort">Křička, Jaroslav</field>
 <field name="year">1949</field>
 <field name="date">1949</field>
 <field name="librettist">Jan Port</field>

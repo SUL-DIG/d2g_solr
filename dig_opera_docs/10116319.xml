@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Knez od Zete (The Prince of Zeta)</field>
 <field name="titleSort">Knez od Zete (The Prince of Zeta)</field>
-<field name="composer">Petar Konjovic</field>
-<field name="composerSort">Konjovic, Petar</field>
+<field name="composer">Petar Konjović</field>
+<field name="composerSort">Konjović, Petar</field>
 <field name="year">1929</field>
 <field name="date">1929</field>
 <field name="librettist">Laza Kostić</field>

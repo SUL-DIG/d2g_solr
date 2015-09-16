@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10204434</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Svi smo mi jedna partija (We're All One Party)</field>
@@ -7,8 +8,8 @@
 		
 		
 		<field name="date">1979</field>
-		<field name="composer">Rudolf Bruci</field>
-		<field name="composerSort">Bruci, Rudolf</field>
+		<field name="composer">Rudolf Bruči</field>
+		<field name="composerSort">Bruči, Rudolf</field>
 		
 		
 		

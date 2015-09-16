@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10109084</field>
 <field name="genre">Operas</field>
 <field name="title">The Queen's Portrait</field>
 <field name="titleSort">Queen's Portrait</field>
 <field name="composer">[Oskar von Ernsthausen] Oscar Eve</field>
-<field name="composerSort">Eve, [Oskar von Ernsthausen] Oscar</field>
+<field name="composerSort">Eve, Oscar [Oskar von Ernsthausen]</field>
 <field name="year">1912</field>
 <field name="date">1912</field>
 <field name="librettist">Richard Ogle</field>

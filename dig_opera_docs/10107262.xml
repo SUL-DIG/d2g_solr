@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107262</field>
 <field name="genre">Operas</field>
 <field name="title">I pregiudizi della zia Teresa</field>
 <field name="titleSort">pregiudizi della zia Teresa</field>
 <field name="composer">Ettore De Champs</field>
-<field name="composerSort">Champs, Ettore De</field>
+<field name="composerSort">De Champs, Ettore</field>
 <field name="year">1880</field>
 <field name="date">1880</field>
 <field name="librettist">Pietro Lastrucci</field>

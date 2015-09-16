@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10118222</field>
 <field name="genre">Operas</field>
 <field name="title">Die liebe Unschuld</field>
 <field name="titleSort">liebe Unschuld</field>
-<field name="composer">[Ladislaus Lubomirski] W. Lirsky</field>
-<field name="composerSort">Lirsky, [Ladislaus Lubomirski] W.</field>
+<field name="composer">[Władysław Lubomirski] W. Lirsky</field>
+<field name="composerSort">Lirsky, W. [Władysław Lubomirski]</field>
 <field name="year">1912</field>
 <field name="date">1912</field>
 <field name="librettist">[Felix Biedermann] Felix Dörmann</field>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10204455</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Te Deum</field>
@@ -7,8 +8,8 @@
 		<field name="month">December</field>
 		<field name="day">20</field>
 		<field name="date">December 20, 1913</field>
-		<field name="composer">Paul Hartmann von Aue der Lan-Hochbrunn</field>
-		<field name="composerSort">Hartmann von Aue der Lan-Hochbrunn, Paul</field>
+		<field name="composer">Paul Hartmann von An der Lan-Hochbrunn</field>
+		<field name="composerSort">Hartmann von An der Lan-Hochbrunn, Paul</field>
 		<field name="librettist">Giacomo Alessandro Ghezzi</field>
 		<field name="librettistSort">Ghezzi, Giacomo Alessandro</field>
 		

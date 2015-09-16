@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10101751</field>
 <field name="genre">Operas</field>
 <field name="title">A fekete hájo</field>
 <field name="titleSort">fekete hájo</field>
-<field name="composer">György Banffy</field>
-<field name="composerSort">Banffy, György</field>
+<field name="composer">György Bánffy</field>
+<field name="composerSort">Bánffy, György</field>
 <field name="year">1883</field>
 <field name="date">1883</field>
 <field name="librettist">Jenö Rákosi</field>

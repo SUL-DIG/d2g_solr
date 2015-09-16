@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117950</field>
 <field name="genre">Operas</field>
 <field name="title">Flavia</field>
 <field name="titleSort">Flavia</field>
 <field name="composer">__ Le Page</field>
-<field name="composerSort">Page, __ Le</field>
+<field name="composerSort">Le Page, __</field>
 <field name="year">1911</field>
 <field name="date">1911</field>
 <field name="librettist">[Paul Léautaud] Maurice Boissard</field>

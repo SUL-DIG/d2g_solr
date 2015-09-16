@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131987</field>
 <field name="genre">Operas</field>
 <field name="title">Cristóbal Colón</field>
 <field name="titleSort">Cristóbal Colón</field>
 <field name="composer">Andrés Vidal y Llimona</field>
-<field name="composerSort">Llimona, Andrés Vidal y</field>
+<field name="composerSort">Vidal y Llimona, Andrés</field>
 <field name="year">1892</field>
 <field name="date">1892</field>
 <field name="city">Barcelona</field>

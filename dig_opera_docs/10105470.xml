@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105470</field>
 <field name="genre">Operas</field>
 <field name="title">I commedianti</field>
 <field name="titleSort">commedianti</field>
-<field name="composer">Domenico Cerciа</field>
-<field name="composerSort">Cerciа, Domenico</field>
+<field name="composer">Domenico Cercià</field>
+<field name="composerSort">Cercià, Domenico</field>
 <field name="year">1795</field>
 <field name="date">1795</field>
 <field name="librettist">Giuseppe Palomba</field>

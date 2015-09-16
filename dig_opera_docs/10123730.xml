@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10123730</field>
 <field name="genre">Operas</field>
 <field name="title">Luz oscura llama</field>
 <field name="titleSort">Luz oscura llama</field>
 <field name="composer">Eduardo Pérez Maseda</field>
-<field name="composerSort">Maseda, Eduardo Pérez</field>
+<field name="composerSort">Pérez Maseda, Eduardo</field>
 <field name="year">1991</field>
 <field name="date">1991</field>
 <field name="librettist">Clara Janés</field>

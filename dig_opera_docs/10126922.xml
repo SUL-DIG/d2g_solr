@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Satanella</field>
 <field name="titleSort">Satanella</field>
-<field name="composer">Josef Richard Rozkosný</field>
-<field name="composerSort">Rozkosný, Josef Richard</field>
+<field name="composer">Josef Richard Rozkošný</field>
+<field name="composerSort">Rozkošný, Josef Richard</field>
 <field name="year">1898</field>
 <field name="date">1898</field>
 <field name="librettist">Karel Kádner</field>

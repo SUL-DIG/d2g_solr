@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129102</field>
 <field name="genre">Operas</field>
 <field name="title">De bron van Badrah</field>
 <field name="titleSort">bron van Badrah</field>
 <field name="composer">Bernhard van den Sigtenhorst Meyer</field>
-<field name="composerSort">Meyer, Bernhard van den Sigtenhorst</field>
+<field name="composerSort">Sigtenhorst Meyer, Bernhard van den</field>
 <field name="year">1917</field>
 <field name="date">1917</field>
 <field name="librettist">Rient van Santen</field>

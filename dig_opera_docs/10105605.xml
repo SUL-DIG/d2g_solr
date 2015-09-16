@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105605</field>
 <field name="genre">Operas</field>
 <field name="title">Roger de Flor</field>
 <field name="titleSort">Roger de Flor</field>
 <field name="composer">Ruperto Chapí y Llorente</field>
-<field name="composerSort">Llorente, Ruperto Chapí y</field>
+<field name="composerSort">Chapí y Llorente, Ruperto</field>
 <field name="year">1878</field>
 <field name="date">1878</field>
 <field name="librettist">Mariano Capdepón y Maseres</field>

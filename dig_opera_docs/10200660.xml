@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10200660</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Colombo</field>
@@ -7,8 +8,8 @@
 		<field name="month">October</field>
 		<field name="day">12</field>
 		<field name="date">October 12, 1892</field>
-		<field name="composer">Carlo Gomes</field>
-		<field name="composerSort">Gomes, Carlo</field>
+		<field name="composer">Carlos Gomes</field>
+		<field name="composerSort">Gomes, Carlos</field>
 		
 		
 		

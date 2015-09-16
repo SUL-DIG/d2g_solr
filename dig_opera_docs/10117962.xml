@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117962</field>
 <field name="genre">Operas</field>
 <field name="title">Hermann et Dorothée</field>
 <field name="titleSort">Hermann et Dorothée</field>
 <field name="composer">Frédéric Le Rey</field>
-<field name="composerSort">Rey, Frédéric Le</field>
+<field name="composerSort">Le Rey, Frédéric</field>
 <field name="year">1897</field>
 <field name="date">1897</field>
 <field name="librettist">Julien Goujon</field>

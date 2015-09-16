@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10130600</field>
 <field name="genre">Operas</field>
 <field name="title">La réconciliation villageoise</field>
 <field name="titleSort">réconciliation villageoise</field>
-<field name="composer">Théodore Jean Tarade</field>
-<field name="composerSort">Tarade, Théodore Jean</field>
+<field name="composer">Théodore-Jean Tarade</field>
+<field name="composerSort">Tarade, Théodore-Jean</field>
 <field name="year">1765</field>
 <field name="date">1765</field>
 <field name="librettist">Antoine-Alexandre-Henri Poinsinet</field>

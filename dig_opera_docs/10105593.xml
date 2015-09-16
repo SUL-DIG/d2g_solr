@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">La vieillesse d'Annette et Lubin</field>
 <field name="titleSort">vieillesse d'Annette et Lubin</field>
-<field name="composer">Pierre-David-Augustin Chapelle</field>
-<field name="composerSort">Chapelle, Pierre-David-Augustin</field>
+<field name="composer">Augustin Chapelle</field>
+<field name="composerSort">Chapelle, Augustin</field>
 <field name="year">1790</field>
 <field name="date">1790</field>
 <field name="librettist">Auguste-Louis Bertin d'Antilly</field>

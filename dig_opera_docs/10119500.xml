@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10119500</field>
 <field name="genre">Operas</field>
 <field name="title">Los nueves rigos</field>
 <field name="titleSort">nueves rigos</field>
 <field name="composer">Manuel Martínez Faixá</field>
-<field name="composerSort">Faixá, Manuel Martínez</field>
+<field name="composerSort">Martínez Faixá, Manuel</field>
 <field name="year">1920</field>
 <field name="date">1920</field><field name="theater">Teatro del Centro</field>
 <field name="city">Madrid</field>

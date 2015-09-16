@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107454</field>
 <field name="genre">Operas</field>
 <field name="title">Le prisonnier, ou La ressemblance</field>
 <field name="titleSort">prisonnier, ou La ressemblance</field>
 <field name="composer">Dominique Della Maria</field>
-<field name="composerSort">Maria, Dominique Della</field>
+<field name="composerSort">Della Maria, Dominique</field>
 <field name="year">1798</field>
 <field name="date">1798</field>
 <field name="librettist">[Alexandre Vincent Pineux-Duval] Alexandre Duval</field>

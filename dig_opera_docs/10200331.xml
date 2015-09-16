@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10200331</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Balada steagului (Ballad to the Standard)</field>
@@ -7,8 +8,8 @@
 		
 		
 		<field name="date">1961</field>
-		<field name="composer">Sigismund Toduta</field>
-		<field name="composerSort">Toduta, Sigismund</field>
+		<field name="composer">Sigismund Toduţă</field>
+		<field name="composerSort">Toduţă, Sigismund</field>
 		<field name="librettist">Victor Tulbure</field>
 		<field name="librettistSort">Tulbure, Victor</field>
 		

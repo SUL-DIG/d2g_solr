@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10116013</field>
 <field name="genre">Operas</field>
 <field name="title">Waldblume</field>
 <field name="titleSort">Waldblume</field>
-<field name="composer">Jan Bedrich Kittl</field>
-<field name="composerSort">Kittl, Jan Bedrich</field>
+<field name="composer">Jan Bedřich Kittl</field>
+<field name="composerSort">Kittl, Jan Bedřich</field>
 <field name="year">1852</field>
 <field name="date">1852</field>
 <field name="librettist">Johann Karl Hickel</field>

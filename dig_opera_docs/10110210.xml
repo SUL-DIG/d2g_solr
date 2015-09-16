@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Il gitano</field>
 <field name="titleSort">gitano</field>
-<field name="composer">Hippolyte Honoré de Fontmichel</field>
-<field name="composerSort">Fontmichel, Hippolyte Honoré de</field>
+<field name="composer">Hippolyte de Fontmichel</field>
+<field name="composerSort">Fontmichel, Hippolyte de</field>
 <field name="year">1834</field>
 <field name="date">1834</field>
 <field name="librettist">__ Partouneaux</field>

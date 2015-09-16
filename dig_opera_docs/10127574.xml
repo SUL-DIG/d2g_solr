@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10127574</field>
 <field name="genre">Operas</field>
 <field name="title">Issipile</field>
 <field name="titleSort">Issipile</field>
-<field name="composer">Pietro Giuseppe Sandoni</field>
-<field name="composerSort">Sandoni, Pietro Giuseppe</field>
+<field name="composer">Pier Giuseppe Sandoni</field>
+<field name="composerSort">Sandoni, Pier Giuseppe</field>
 <field name="year">1735</field>
 <field name="date">1735</field>
 <field name="librettist">Angelo Maria Cori</field>

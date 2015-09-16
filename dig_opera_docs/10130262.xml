@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10130262</field>
 <field name="genre">Operas</field>
 <field name="title">Peggy</field>
 <field name="titleSort">Peggy</field>
 <field name="composer">[Thomas Augustine Barrett] Leslie Stuart</field>
-<field name="composerSort">Stuart, [Thomas Augustine Barrett] Leslie</field>
+<field name="composerSort">Stuart, Leslie [Thomas Augustine Barrett]</field>
 <field name="year">1911</field>
 <field name="date">1911</field>
 <field name="librettist">George Grossmith (jr.)</field>

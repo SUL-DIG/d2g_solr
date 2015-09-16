@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10203073</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Oratorio de Noël</field>
@@ -7,8 +8,8 @@
 		<field name="month">January</field>
 		<field name="day">11</field>
 		<field name="date">January 11, 1829</field>
-		<field name="composer">__ Savene</field>
-		<field name="composerSort">Savene, __</field>
+		<field name="composer">__  Savène</field>
+		<field name="composerSort">Savène, __</field>
 		<field name="librettist">Amédée Decampe</field>
 		<field name="librettistSort">Decampe, Amédée</field>
 		

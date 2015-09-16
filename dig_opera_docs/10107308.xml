@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107308</field>
 <field name="genre">Operas</field>
 <field name="title">La casa di tre artisti</field>
 <field name="titleSort">casa di tre artisti</field>
 <field name="composer">Nicola De Giosa</field>
-<field name="composerSort">Giosa, Nicola De</field>
+<field name="composerSort">De Giosa, Nicola</field>
 <field name="year">1842</field>
 <field name="date">1842</field>
 <field name="librettist">Andrea Passaro</field>

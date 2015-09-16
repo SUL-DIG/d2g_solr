@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10121912</field>
 <field name="genre">Operas</field>
 <field name="title">Principessa</field>
 <field name="titleSort">Principessa</field>
 <field name="composer">[Rudolf Lewysohn] Rudolf Nelson</field>
-<field name="composerSort">Nelson, [Rudolf Lewysohn] Rudolf</field>
+<field name="composerSort">Nelson, Rudolf [Rudolf Lewysohn]</field>
 <field name="year">1908</field>
 <field name="date">1908</field>
 <field name="librettist">Fritz Grünbaum</field>

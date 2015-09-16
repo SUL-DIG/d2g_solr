@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10108267</field>
 <field name="genre">Operas</field>
 <field name="title">Constantin Brâncoveanu</field>
 <field name="titleSort">Constantin Brâncoveanu</field>
-<field name="composer">Sabin Vasile Dragoi</field>
-<field name="composerSort">Dragoi, Sabin Vasile</field>
+<field name="composer">Sabin Vasile Drăgoi</field>
+<field name="composerSort">Drăgoi, Sabin Vasile</field>
 <field name="year">1935</field>
 <field name="date">1935</field>
 <field name="librettist">Sandu Tudor</field>

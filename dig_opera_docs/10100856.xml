@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10100856</field>
 <field name="genre">Operas</field>
 <field name="title">Otto der Schütz, Landgraf zu Hessen</field>
 <field name="titleSort">Otto der Schütz, Landgraf zu Hessen</field>
 <field name="composer">Ferdinand d'Antoine</field>
-<field name="composerSort">d'Antoine, Ferdinand</field>
+<field name="composerSort">Antoine, Ferdinand d'</field>
 <field name="year">1792</field>
 <field name="date">1792</field>
 <field name="librettist">Ernst Christian Gottlieb Schneider</field>

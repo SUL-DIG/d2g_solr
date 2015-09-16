@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10113160</field>
 <field name="genre">Operas</field>
 <field name="title">Guarionex</field>
 <field name="titleSort">Guarionex</field>
 <field name="composer">Felipe Gutiérrez Espina</field>
-<field name="composerSort">Espina, Felipe Gutiérrez</field>
+<field name="composerSort">Gutiérrez Espina, Felipe</field>
 <field name="year">1855</field>
 <field name="date">1855</field>
 <field name="librettist">Alejandro Tapia y Rivera</field>

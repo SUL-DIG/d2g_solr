@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10101767</field>
 <field name="genre">Operas</field>
 <field name="title">Pim Pom</field>
 <field name="titleSort">Pim Pom</field>
-<field name="composer">Edward T. de Banzie</field>
-<field name="composerSort">Banzie, Edward T. de</field>
+<field name="composer">Edward T. De Banzie</field>
+<field name="composerSort">De Banzie, Edward T.</field>
 <field name="year">1890</field>
 <field name="date">1890</field><field name="theater">Royal Princess's Theatre</field>
 <field name="city">Glasgow</field>

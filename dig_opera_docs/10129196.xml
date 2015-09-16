@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129196</field>
 <field name="genre">Operas</field>
 <field name="title">A compadecida (Our Lady of Mercy)</field>
 <field name="titleSort">compadecida (Our Lady of Mercy)</field>
-<field name="composer">José Siqueira</field>
-<field name="composerSort">Siqueira, José</field>
+<field name="composer">José de Lima Siqueira</field>
+<field name="composerSort">Siqueira, José de Lima</field>
 <field name="year">1961</field>
 <field name="date">1961</field>
 <field name="librettist">Ariano Suassuna</field>

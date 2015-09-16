@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">So oder so</field>
 <field name="titleSort">So oder so</field>
-<field name="composer">Dieter de la Motte</field>
-<field name="composerSort">Motte, Dieter de la</field>
+<field name="composer">Diether de La Motte</field>
+<field name="composerSort">La Motte, Diether de</field>
 <field name="year">1975</field>
 <field name="date">1975</field>
 <field name="librettist">Diether de La Motte</field>

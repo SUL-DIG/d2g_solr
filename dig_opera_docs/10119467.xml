@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10119467</field>
 <field name="genre">Operas</field>
 <field name="title">L'amor geloso</field>
 <field name="titleSort">amor geloso</field>
 <field name="composer">Vincent Martín y Soler</field>
-<field name="composerSort">Soler, Vincent Martín y</field>
+<field name="composerSort">Martín y Soler, Vincent</field>
 <field name="year">1782</field>
 <field name="date">1782</field><field name="theater">Palazzo Reale</field>
 <field name="city">Naples</field>

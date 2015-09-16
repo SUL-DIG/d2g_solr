@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10133397</field>
 <field name="genre">Operas</field>
 <field name="title">Kungs un spelmanitis</field>
 <field name="titleSort">Kungs un spelmanitis</field>
-<field name="composer">Margers Zarins</field>
-<field name="composerSort">Zarins, Margers</field>
+<field name="composer">Marģeris Zariņš</field>
+<field name="composerSort">Zariņš, Marģeris</field>
 <field name="year">1939</field>
 <field name="date">1939</field>
 

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117289</field>
 <field name="genre">Operas</field>
 <field name="title">Madame Candaule</field>
 <field name="titleSort">Madame Candaule</field>
-<field name="composer">__ Larnaudie</field>
-<field name="composerSort">Larnaudie, __</field>
+<field name="composer">Ph.-A. Larnaudie</field>
+<field name="composerSort">Larnaudie, Ph.-A.</field>
 <field name="year">1914</field>
 <field name="date">1914</field>
 <field name="librettist">Paul Moncousin</field>

@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">La basse</field>
 <field name="titleSort">basse</field>
-<field name="composer">A. Dodémont</field>
-<field name="composerSort">Dodémont, A.</field>
+<field name="composer">Arthur Dodemont</field>
+<field name="composerSort">Dodemont, Arthur</field>
 <field name="year">1905</field>
 <field name="date">1905</field>
 <field name="librettist">Gabriel Patrigeon</field>

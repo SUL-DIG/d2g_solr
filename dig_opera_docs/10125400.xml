@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10125400</field>
 <field name="genre">Operas</field>
 <field name="title">Gintaro krantas (The Amber Shore)</field>
 <field name="titleSort">Gintaro krantas (The Amber Shore)</field>
-<field name="composer">Antanas Raciunas</field>
-<field name="composerSort">Raciunas, Antanas</field>
+<field name="composer">Antanas Račiūnas</field>
+<field name="composerSort">Račiūnas, Antanas</field>
 <field name="year">1940</field>
 <field name="date">1940</field>
 <field name="librettist">Antanas Jasiunas</field>

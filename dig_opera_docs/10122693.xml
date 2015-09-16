@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10122693</field>
 <field name="genre">Operas</field>
 <field name="title">Vlasty skon (The Death of Vlasta)</field>
 <field name="titleSort">Vlasty skon (The Death of Vlasta)</field>
-<field name="composer">Otakar Ostrcil</field>
-<field name="composerSort">Ostrcil, Otakar</field>
+<field name="composer">Otakar Ostrčil</field>
+<field name="composerSort">Ostrčil, Otakar</field>
 <field name="year">1904</field>
 <field name="date">1904</field>
 <field name="librettist">Karel Pippich</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117294</field>
 <field name="genre">Operas</field>
 <field name="title">Ivan</field>
 <field name="titleSort">Ivan</field>
 <field name="composer">Pasquale La Rotella</field>
-<field name="composerSort">Rotella, Pasquale La</field>
+<field name="composerSort">La Rotella, Pasquale</field>
 <field name="year">1900</field>
 <field name="date">1900</field>
 <field name="librettist">Vincenzo Fiore</field>

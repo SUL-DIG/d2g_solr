@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Ženidba Miloša Obilića, ili Vilin veo</field>
 <field name="titleSort">Ženidba Miloša Obilića, ili Vilin veo</field>
-<field name="composer">Petar Konjovic</field>
-<field name="composerSort">Konjovic, Petar</field>
+<field name="composer">Petar Konjović</field>
+<field name="composerSort">Konjović, Petar</field>
 <field name="year">1917</field>
 <field name="date">1917</field>
 <field name="librettist">Dragutin Ilić</field>

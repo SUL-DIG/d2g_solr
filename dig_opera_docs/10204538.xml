@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10204538</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Der Tod Jesu</field>
@@ -7,8 +8,8 @@
 		
 		
 		<field name="date">1850</field>
-		<field name="composer">Franz Müller</field>
-		<field name="composerSort">Müller, Franz</field>
+		<field name="composer">Franz Ferdinand Georg Müller</field>
+		<field name="composerSort">Müller, Franz Ferdinand Georg</field>
 		<field name="librettist">Karl Wilhelm Ramler</field>
 		<field name="librettistSort">Ramler, Karl Wilhelm</field>
 		

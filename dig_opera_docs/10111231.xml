@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10111231</field>
 <field name="genre">Operas</field>
 <field name="title">L'opéra aux fenêtres</field>
 <field name="titleSort">opéra aux fenêtres</field>
-<field name="composer">Léon-Gustave-Cyprien Gastinel</field>
-<field name="composerSort">Gastinel, Léon-Gustave-Cyprien</field>
+<field name="composer">Léon Gastinel</field>
+<field name="composerSort">Gastinel, Léon</field>
 <field name="year">1857</field>
 <field name="date">1857</field>
 <field name="librettist">Ludovic Halévy</field>

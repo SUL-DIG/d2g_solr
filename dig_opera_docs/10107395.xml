@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107395</field>
 <field name="genre">Operas</field>
 <field name="title">Carmela</field>
 <field name="titleSort">Carmela</field>
 <field name="composer">Luigi Del Corona</field>
-<field name="composerSort">Corona, Luigi Del</field>
+<field name="composerSort">Del Corona, Luigi</field>
 <field name="year">1874</field>
 <field name="date">1874</field>
 <field name="librettist">Leopoldo Marenco</field>

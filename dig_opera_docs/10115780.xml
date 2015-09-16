@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115780</field>
 <field name="genre">Operas</field>
 <field name="title">Szczególniejsze spotkanie</field>
 <field name="titleSort">Szczególniejsze spotkanie</field>
-<field name="composer">Wiktor Kazynski</field>
-<field name="composerSort">Kazynski, Wiktor</field>
+<field name="composer">Wiktor Każyński</field>
+<field name="composerSort">Każyński, Wiktor</field>
 <field name="year">1832</field>
 <field name="date">1832</field>
 <field name="librettist">E. Sakowicz</field>

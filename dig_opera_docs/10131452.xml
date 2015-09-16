@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131452</field>
 <field name="genre">Operas</field>
 <field name="title">Der Zauberkuss, oder Die Stunde der Erlösung</field>
 <field name="titleSort">Zauberkuss, oder Die Stunde der Erlösung</field>
-<field name="composer">Vincenc Tucek</field>
-<field name="composerSort">Tucek, Vincenc</field>
+<field name="composer">František Vincenc Tuček</field>
+<field name="composerSort">Tuček, František Vincenc</field>
 <field name="year">1807</field>
 <field name="date">1807</field>
 <field name="librettist">Josef Hofmüller</field>

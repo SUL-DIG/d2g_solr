@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10132015</field>
 <field name="genre">Operas</field>
 <field name="title">Au clair de la lune</field>
 <field name="titleSort">Au clair de la lune</field>
-<field name="composer">Alphonse-Zoé-Charles Renaud de Vilbac</field>
-<field name="composerSort">Vilbac, Alphonse-Zoé-Charles Renaud de</field>
+<field name="composer">Charles Renaud de Vilback</field>
+<field name="composerSort">Renaud de Vilback, Charles</field>
 <field name="year">1857</field>
 <field name="date">1857</field>
 <field name="librettist">[Alfred Desroziers] de Léris</field>

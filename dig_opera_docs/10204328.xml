@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10204328</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Smrt Dobrovského (Dobrovsky's Death)</field>
@@ -7,8 +8,8 @@
 		
 		
 		<field name="date">1988</field>
-		<field name="composer">Milos Stedron</field>
-		<field name="composerSort">Stedron, Milos</field>
+		<field name="composer">Miloš Štědroň</field>
+		<field name="composerSort">Štědroň, Miloš</field>
 		
 		
 		

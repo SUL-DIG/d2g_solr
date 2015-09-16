@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105596</field>
 <field name="genre">Operas</field>
 <field name="title">Curro Vargas</field>
 <field name="titleSort">Curro Vargas</field>
 <field name="composer">Ruperto Chapí y Llorente</field>
-<field name="composerSort">Llorente, Ruperto Chapí y</field>
+<field name="composerSort">Chapí y Llorente, Ruperto</field>
 <field name="year">1898</field>
 <field name="date">1898</field>
 <field name="librettist">Joaquín Dicenta</field>

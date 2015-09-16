@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10111831</field>
 <field name="genre">Operas</field>
 <field name="title">Onkel Casimir</field>
 <field name="titleSort">Onkel Casimir</field>
 <field name="composer">[Max Winterfeld] Jean Gilbert</field>
-<field name="composerSort">Gilbert, [Max Winterfeld] Jean</field>
+<field name="composerSort">Gilbert, Jean [Max Winterfeld]</field>
 <field name="year">1908</field>
 <field name="date">1908</field>
 <field name="librettist">Heinz Gorden</field>

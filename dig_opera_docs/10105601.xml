@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105601</field>
 <field name="genre">Operas</field>
 <field name="title">Juan Francisco (Entre rocas)</field>
 <field name="titleSort">Juan Francisco (Entre rocas)</field>
 <field name="composer">Ruperto Chapí y Llorente</field>
-<field name="composerSort">Llorente, Ruperto Chapí y</field>
+<field name="composerSort">Chapí y Llorente, Ruperto</field>
 <field name="year">1904</field>
 <field name="date">1904</field>
 <field name="librettist">Joaquín Dicenta</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10120376</field>
 <field name="genre">Operas</field>
 <field name="title">La rencontre imprévue</field>
 <field name="titleSort">rencontre imprévue</field>
-<field name="composer">Nicolas-Jean Méreaux</field>
-<field name="composerSort">Méreaux, Nicolas-Jean</field>
+<field name="composer">Nicolas-Jean Le Froid de Méreaux</field>
+<field name="composerSort">Le Froid de Méreaux, Nicolas-Jean</field>
 <field name="year">1774</field>
 <field name="date">1774</field>
 <field name="librettist">Louis Anseaume</field>

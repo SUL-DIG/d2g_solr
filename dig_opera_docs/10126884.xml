@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10126884</field>
 <field name="genre">Operas</field>
 <field name="title">Petit Blaise</field>
 <field name="titleSort">Petit Blaise</field>
-<field name="composer">Paul-Louis Rougnon</field>
-<field name="composerSort">Rougnon, Paul-Louis</field>
+<field name="composer">Paul Rougnon</field>
+<field name="composerSort">Rougnon, Paul</field>
 <field name="year">1889</field>
 <field name="date">1889</field>
 <field name="librettist">Victor Pittié</field>

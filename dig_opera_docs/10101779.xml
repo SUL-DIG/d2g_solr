@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10101779</field>
 <field name="genre">Operas</field>
 <field name="title">Nevjesta od Cetingrada (Bride from Cetingrad)</field>
 <field name="titleSort">Nevjesta od Cetingrada (Bride from Cetingrad)</field>
-<field name="composer">Kresimir Baranovic</field>
-<field name="composerSort">Baranovic, Kresimir</field>
+<field name="composer">Krešimir Baranović</field>
+<field name="composerSort">Baranović, Krešimir</field>
 <field name="year">1951</field>
 <field name="date">1951</field>
 <field name="librettist">Marko Fotez</field>

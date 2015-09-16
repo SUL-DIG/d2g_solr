@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129171</field>
 <field name="genre">Operas</field>
 <field name="title">Matilde d'Inghilterra</field>
 <field name="titleSort">Matilde d'Inghilterra</field>
-<field name="composer">Andrea de Simone</field>
-<field name="composerSort">Simone, Andrea de</field>
+<field name="composer">Andrea De Simone</field>
+<field name="composerSort">De Simone, Andrea</field>
 <field name="year">1841</field>
 <field name="date">1841</field>
 <field name="librettist">Leopoldo Tarantini</field>

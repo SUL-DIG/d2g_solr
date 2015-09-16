@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10112097</field>
 <field name="genre">Operas</field>
 <field name="title">Les deux dragons</field>
 <field name="titleSort">deux dragons</field>
-<field name="composer">Antoine-Charles Glachant</field>
-<field name="composerSort">Glachant, Antoine-Charles</field>
+<field name="composer">Antoine Glachant</field>
+<field name="composerSort">Glachant, Antoine</field>
 
 <field name="date">theater</field>
 <field name="city">Arras</field>

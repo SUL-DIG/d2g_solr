@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Le Florentin</field>
 <field name="titleSort">Florentin</field>
-<field name="composer">Charles Fern Lenepveu</field>
-<field name="composerSort">Lenepveu, Charles Fern</field>
+<field name="composer">Charles Lenepveu</field>
+<field name="composerSort">Lenepveu, Charles</field>
 <field name="year">1874</field>
 <field name="date">1874</field>
 <field name="librettist">Henri de Saint-Georges</field>

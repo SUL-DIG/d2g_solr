@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117401</field>
 <field name="genre">Operas</field>
 <field name="title">Freddy und Teddy</field>
 <field name="titleSort">Freddy und Teddy</field>
 <field name="composer">Digby La Touche</field>
-<field name="composerSort">Touche, Digby La</field>
+<field name="composerSort">La Touche, Digby</field>
 <field name="year">1912</field>
 <field name="date">1912</field>
 <field name="librettist">Carl Lindau</field>

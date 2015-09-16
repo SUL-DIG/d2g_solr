@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10123191</field>
 <field name="genre">Operas</field>
 <field name="title">Il paradiso terrestre</field>
 <field name="titleSort">paradiso terrestre</field>
-<field name="composer">__ Pannaria</field>
-<field name="composerSort">Pannaria, __</field>
+<field name="composer">Francesco Pannaria</field>
+<field name="composerSort">Pannaria, Francesco</field>
 <field name="year">1896</field>
 <field name="date">1896</field>
 <field name="librettist">Ulisse Barbieri</field>

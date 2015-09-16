@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">André, ou La sentinelle perdue</field>
 <field name="titleSort">André, ou La sentinelle perdue</field>
-<field name="composer">Louis Victor Étienne Rifaut</field>
-<field name="composerSort">Rifaut, Louis Victor Étienne</field>
+<field name="composer">Victor Rifaut</field>
+<field name="composerSort">Rifaut, Victor</field>
 <field name="year">1834</field>
 <field name="date">1834</field>
 <field name="librettist">Henri de Saint-Georges</field>

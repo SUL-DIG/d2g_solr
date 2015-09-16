@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107238</field>
 <field name="genre">Operas</field>
 <field name="title">Le Mousseline-Club</field>
 <field name="titleSort">Mousseline-Club</field>
-<field name="composer">Jean Jacques Debillemont</field>
-<field name="composerSort">Debillemont, Jean Jacques</field>
+<field name="composer">Jean-Jacques Debillemont</field>
+<field name="composerSort">Debillemont, Jean-Jacques</field>
 <field name="year">1868</field>
 <field name="date">1868</field><field name="theater">Théâtre des Menus-Plaisirs</field>
 <field name="city">Paris</field>

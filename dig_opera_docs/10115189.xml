@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115189</field>
 <field name="genre">Operas</field>
 <field name="title">Die Förster-Christl</field>
 <field name="titleSort">Förster-Christl</field>
 <field name="composer">[György Kohner] Georg Jarno</field>
-<field name="composerSort">Jarno, [György Kohner] Georg</field>
+<field name="composerSort">Jarno, Georg [György Kohner]</field>
 <field name="year">1907</field>
 <field name="date">1907</field>
 <field name="librettist">Bernhard Buchbinder</field>

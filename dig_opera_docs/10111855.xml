@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10111855</field>
 <field name="genre">Operas</field>
 <field name="title">Pit-Pit</field>
 <field name="titleSort">Pit-Pit</field>
 <field name="composer">[David Robert Winterfeld] Robert Gilbert</field>
-<field name="composerSort">Gilbert, [David Robert Winterfeld] Robert</field>
+<field name="composerSort">Gilbert, Robert [David Robert Winterfeld]</field>
 <field name="year">1927</field>
 <field name="date">1927</field>
 <field name="librettist">Hans Hellmut Zerlett</field>

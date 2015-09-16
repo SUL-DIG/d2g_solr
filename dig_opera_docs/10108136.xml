@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10108136</field>
 <field name="genre">Operas</field>
 <field name="title">Dr. Ambrosius - His Secret</field>
 <field name="titleSort">Dr. Ambrosius - His Secret</field>
 <field name="composer">Richard D'Oyly Carte</field>
-<field name="composerSort">Carte, Richard D'Oyly</field>
+<field name="composerSort">D'Oyly Carte, Richard</field>
 <field name="year">1868</field>
 <field name="date">1868</field>
 <field name="librettist">Nathaniel Thomas Haynes Bayly</field>

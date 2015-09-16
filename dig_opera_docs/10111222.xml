@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10111222</field>
 <field name="genre">Operas</field>
 <field name="title">Die heimliche Ehe (Das Löwe von Venedig)</field>
 <field name="titleSort">heimliche Ehe (Das Löwe von Venedig)</field>
 <field name="composer">[Heinrich Köselitz] Peter Gast</field>
-<field name="composerSort">Gast, [Heinrich Köselitz] Peter</field>
+<field name="composerSort">Gast, Peter [Heinrich Köselitz]</field>
 <field name="year">1891</field>
 <field name="date">1891</field>
 <field name="librettist">[Heinrich Köselitz] Peter Gast</field>

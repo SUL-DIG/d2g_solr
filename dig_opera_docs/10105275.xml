@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105275</field>
 <field name="genre">Operas</field>
 <field name="title">Atzimba</field>
 <field name="titleSort">Atzimba</field>
 <field name="composer">Ricardo Castro Herrera</field>
-<field name="composerSort">Herrera, Ricardo Castro</field>
+<field name="composerSort">Castro Herrera, Ricardo</field>
 <field name="year">1900</field>
 <field name="date">1900</field>
 <field name="librettist">Alberto Michel</field>

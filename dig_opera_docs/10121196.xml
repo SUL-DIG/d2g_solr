@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10121196</field>
 <field name="genre">Operas</field>
 <field name="title">La virgen de mayo</field>
 <field name="titleSort">virgen de mayo</field>
 <field name="composer">Federico Moreno Torroba</field>
-<field name="composerSort">Torroba, Federico Moreno</field>
+<field name="composerSort">Moreno Torroba, Federico</field>
 <field name="year">1925</field>
 <field name="date">1925</field>
 <field name="librettist">Fernando Luque</field>

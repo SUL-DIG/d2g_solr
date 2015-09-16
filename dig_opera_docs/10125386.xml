@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10125386</field>
 <field name="genre">Operas</field>
 <field name="title">Pour le troisième Carron</field>
 <field name="titleSort">Pour le troisième Carron</field>
-<field name="composer">G. Rabany</field>
-<field name="composerSort">Rabany, G.</field>
+<field name="composer">Charles-Guillaume Rabany</field>
+<field name="composerSort">Rabany, Charles-Guillaume</field>
 <field name="year">1910</field>
 <field name="date">1910</field>
 <field name="librettist">Georges Rose (fils)</field>

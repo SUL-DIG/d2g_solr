@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10102122</field>
 <field name="genre">Operas</field>
 <field name="title">Le mari au bal</field>
 <field name="titleSort">mari au bal</field>
-<field name="composer">Louis Joseph Amédée de Beauplan</field>
-<field name="composerSort">Beauplan, Louis Joseph Amédée de</field>
+<field name="composer">Amédée de Beauplan</field>
+<field name="composerSort">Beauplan, Amédée de</field>
 <field name="year">1845</field>
 <field name="date">1845</field>
 <field name="librettist">Émile Deschamps</field>

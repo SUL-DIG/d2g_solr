@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115607</field>
 <field name="genre">Operas</field>
 <field name="title">Lolitas brinumputns (Lolita's Wonderbird)</field>
 <field name="titleSort">Lolitas brinumputns (Lolita's Wonderbird)</field>
-<field name="composer">Janis Kalnins</field>
-<field name="composerSort">Kalnins, Janis</field>
+<field name="composer">Jānis Kalniņš</field>
+<field name="composerSort">Kalniņš, Jānis</field>
 <field name="year">1934</field>
 <field name="date">1934</field>
 <field name="librettist">Anna Brigadere</field>

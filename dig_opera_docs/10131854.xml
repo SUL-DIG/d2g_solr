@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">La légende du diable</field>
 <field name="titleSort">légende du diable</field>
-<field name="composer">Léon Vercken de Vreuschmen</field>
-<field name="composerSort">Vreuschmen, Léon Vercken de</field>
+<field name="composer">Léon Vercken</field>
+<field name="composerSort">Vercken, Léon</field>
 <field name="year">1865</field>
 <field name="date">1865</field>
 <field name="librettist">G. du Bosch</field>

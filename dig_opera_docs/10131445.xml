@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131445</field>
 <field name="genre">Operas</field>
 <field name="title">Moses' Tod</field>
 <field name="titleSort">Moses' Tod</field>
-<field name="composer">Vincenc Tucek</field>
-<field name="composerSort">Tucek, Vincenc</field>
+<field name="composer">František Vincenc Tuček</field>
+<field name="composerSort">Tuček, František Vincenc</field>
 <field name="year">1812</field>
 <field name="date">1812</field>
 <field name="librettist">Vincenc Tucek</field>

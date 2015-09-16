@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10200548</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">A Cartload of Shoes</field>
@@ -7,8 +8,8 @@
 		
 		
 		<field name="date">1996</field>
-		<field name="composer">Romald Senator</field>
-		<field name="composerSort">Senator, Romald</field>
+		<field name="composer">Ronald Senator</field>
+		<field name="composerSort">Senator, Ronald</field>
 		<field name="librettist">Bertolt Brecht</field>
 		<field name="librettistSort">Brecht, Bertolt</field>
 		<field name="librettist">Primo Levi</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10132544</field>
 <field name="genre">Operas</field>
 <field name="title">Fortunat mit dem Säckel und Wunschhütlein</field>
 <field name="titleSort">Fortunat mit dem Säckel und Wunschhütlein</field>
-<field name="composer">Xaver Schnyder von Wartensee</field>
-<field name="composerSort">Wartensee, Xaver Schnyder von</field>
+<field name="composer">Franz Xaver Schnyder von Wartensee</field>
+<field name="composerSort">Schnyder von Wartensee, Franz Xaver</field>
 <field name="year">1831</field>
 <field name="date">1831</field>
 <field name="librettist">Georg Döring</field>

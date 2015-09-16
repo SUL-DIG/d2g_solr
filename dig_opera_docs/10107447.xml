@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107447</field>
 <field name="genre">Operas</field>
 <field name="title">La fausse duègne</field>
 <field name="titleSort">fausse duègne</field>
 <field name="composer">Dominique Della Maria</field>
-<field name="composerSort">Maria, Dominique Della</field>
+<field name="composerSort">Della Maria, Dominique</field>
 <field name="year">1802</field>
 <field name="date">1802</field>
 <field name="librettist">G. Montcloux d'Épinay</field>

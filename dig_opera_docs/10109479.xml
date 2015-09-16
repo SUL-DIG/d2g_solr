@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10109479</field>
 <field name="genre">Operas</field>
 <field name="title">Les toquades</field>
 <field name="titleSort">toquades</field>
-<field name="composer">D. Feinsinger</field>
-<field name="composerSort">Feinsinger, D.</field>
+<field name="composer">D.-R. Feinsinger</field>
+<field name="composerSort">Feinsinger, D.-R.</field>
 <field name="year">1896</field>
 <field name="date">1896</field>
 <field name="librettist">H. Bonnet</field>

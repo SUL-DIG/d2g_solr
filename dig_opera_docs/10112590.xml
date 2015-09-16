@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10112590</field>
 <field name="genre">Operas</field>
 <field name="title">La vergine del Castello</field>
 <field name="titleSort">vergine del Castello</field>
-<field name="composer">Giuseppe Grassi de Jannon</field>
-<field name="composerSort">Jannon, Giuseppe Grassi de</field>
+<field name="composer">Giuseppe Grassi de Joannon</field>
+<field name="composerSort">Grassi de Joannon, Giuseppe</field>
 <field name="year">1846</field>
 <field name="date">1846</field>
 <field name="librettist">Luigi Aloè</field>

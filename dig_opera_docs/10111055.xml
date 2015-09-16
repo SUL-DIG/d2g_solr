@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10111055</field>
 <field name="genre">Operas</field>
 <field name="title">El hijo del mar</field>
 <field name="titleSort">hijo del mar</field>
 <field name="composer">Juan García Catalá</field>
-<field name="composerSort">Catalá, Juan García</field>
+<field name="composerSort">García Catalá, Juan</field>
 
 
 <field name="librettist">José Zalvidar</field>

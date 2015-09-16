@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115913</field>
 <field name="genre">Operas</field>
 <field name="title">Les deux saltimbanques</field>
 <field name="titleSort">deux saltimbanques</field>
-<field name="composer">H. Kern</field>
-<field name="composerSort">Kern, H.</field>
+<field name="composer">Henri Kern</field>
+<field name="composerSort">Kern, Henri</field>
 <field name="year">1885</field>
 <field name="date">1885</field>
 <field name="librettist">Victor Couailhac</field>

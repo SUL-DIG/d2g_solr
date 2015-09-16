@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Die Lieder des Euripides</field>
 <field name="titleSort">Lieder des Euripides</field>
-<field name="composer">[Sigwart Botho zu Eulenburg] Botho Sigwart</field>
-<field name="composerSort">Sigwart, [Sigwart Botho zu Eulenburg] Botho</field>
+<field name="composer">Botho Sigwart zu Eulenburg</field>
+<field name="composerSort">Eulenburg, Botho Sigwart zu</field>
 <field name="year">1915</field>
 <field name="date">1915</field>
 <field name="librettist">Botho Sigwart zu Eulenburg</field>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10202345</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Le jugement dernier</field>
@@ -7,8 +8,8 @@
 		
 		
 		
-		<field name="composer">Jean-Baptiste-Théodore Weckerlin</field>
-		<field name="composerSort">Weckerlin, Jean-Baptiste-Théodore</field>
+		<field name="composer">Jean-Baptiste Weckerlin</field>
+		<field name="composerSort">Weckerlin, Jean-Baptiste</field>
 		
 		
 		

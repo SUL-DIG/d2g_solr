@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10102121</field>
 <field name="genre">Operas</field>
 <field name="title">L'Amazone</field>
 <field name="titleSort">Amazone</field>
-<field name="composer">Louis Joseph Amédée de Beauplan</field>
-<field name="composerSort">Beauplan, Louis Joseph Amédée de</field>
+<field name="composer">Amédée de Beauplan</field>
+<field name="composerSort">Beauplan, Amédée de</field>
 <field name="year">1830</field>
 <field name="date">1830</field>
 <field name="librettist">[Charles-Gaspard Poirson] Delestre-Poirson</field>

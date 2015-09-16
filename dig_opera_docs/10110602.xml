@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Goburge dans l'isle des falots</field>
 <field name="titleSort">Goburge dans l'isle des falots</field>
-<field name="composer">__ Froment</field>
-<field name="composerSort">Froment, __</field>
+<field name="composer">__ Fromant</field>
+<field name="composerSort">Fromant, __</field>
 <field name="year">1797</field>
 <field name="date">1797</field>
 <field name="librettist">François-Marie Mayeur de Saint-Paul</field>

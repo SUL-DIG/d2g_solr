@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10116901</field>
 <field name="genre">Operas</field>
 <field name="title">Alix et Alexis</field>
 <field name="titleSort">Alix et Alexis</field>
 <field name="composer">Jean-Benjamin La Borde</field>
-<field name="composerSort">Borde, Jean-Benjamin La</field>
+<field name="composerSort">La Borde, Jean-Benjamin</field>
 <field name="year">1769</field>
 <field name="date">1769</field>
 <field name="librettist">Antoine-Alexandre-Henri Poinsinet</field>

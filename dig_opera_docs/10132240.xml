@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10132240</field>
 <field name="genre">Operas</field>
 <field name="title">Gredin et Pigoche</field>
 <field name="titleSort">Gredin et Pigoche</field>
-<field name="composer">Charles-Louis-Adolphe Vogel</field>
-<field name="composerSort">Vogel, Charles-Louis-Adolphe</field>
+<field name="composer">Adolphe Vogel</field>
+<field name="composerSort">Vogel, Adolphe</field>
 <field name="year">1866</field>
 <field name="date">1866</field>
 <field name="librettist">Georges Fath</field>

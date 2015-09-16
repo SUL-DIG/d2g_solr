@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10124479</field>
 <field name="genre">Operas</field>
 <field name="title">Bayard а la Ferté</field>
 <field name="titleSort">Bayard а la Ferté</field>
-<field name="composer">Charles Henri Plantade</field>
-<field name="composerSort">Plantade, Charles Henri</field>
+<field name="composer">Charles-Henri Plantade</field>
+<field name="composerSort">Plantade, Charles-Henri</field>
 <field name="year">1811</field>
 <field name="date">1811</field>
 <field name="librettist">Justin Marie Alexis Gensoul</field>

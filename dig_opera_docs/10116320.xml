@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Kostana</field>
 <field name="titleSort">Kostana</field>
-<field name="composer">Petar Konjovic</field>
-<field name="composerSort">Konjovic, Petar</field>
+<field name="composer">Petar Konjović</field>
+<field name="composerSort">Konjović, Petar</field>
 <field name="year">1931</field>
 <field name="date">1931</field>
 <field name="librettist">Borisav Stanković</field>

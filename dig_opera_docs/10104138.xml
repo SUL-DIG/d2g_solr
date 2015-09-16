@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10104138</field>
 <field name="genre">Operas</field>
 <field name="title">Ivan IV</field>
 <field name="titleSort">Ivan IV</field>
-<field name="composer">Camille Brion d'Orgeval</field>
-<field name="composerSort">d'Orgeval, Camille Brion</field>
+<field name="composer">Camille Brion</field>
+<field name="composerSort">Brion, Camille</field>
 <field name="year">1876</field>
 <field name="date">1876</field>
 <field name="librettist">Hippolyte Matabon</field>

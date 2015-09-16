@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10122222</field>
 <field name="genre">Operas</field>
 <field name="title">Se eu fosse rei</field>
 <field name="titleSort">Se eu fosse rei</field>
-<field name="composer">Francisco de Sá Noronha</field>
-<field name="composerSort">Noronha, Francisco de Sá</field>
+<field name="composer">Francisco da Sá Noronha</field>
+<field name="composerSort">Noronha, Francisco da Sá</field>
 <field name="year">1875</field>
 <field name="date">1875</field><field name="theater">Teatro Baquet</field>
 <field name="city">Oporto</field>

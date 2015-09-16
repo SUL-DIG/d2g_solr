@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10125121</field>
 <field name="genre">Operas</field>
 <field name="title">Les pontons de Cadix</field>
 <field name="titleSort">pontons de Cadix</field>
-<field name="composer">Eugène Prosper Prévost</field>
-<field name="composerSort">Prévost, Eugène Prosper</field>
+<field name="composer">Eugène-Prosper Prévost</field>
+<field name="composerSort">Prévost, Eugène-Prosper</field>
 <field name="year">1836</field>
 <field name="date">1836</field>
 <field name="librettist">Jacques-Arsène Ancelot</field>

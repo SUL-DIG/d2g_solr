@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10119213</field>
 <field name="genre">Operas</field>
 <field name="title">Les deux espagnols</field>
 <field name="titleSort">deux espagnols</field>
-<field name="composer">Charles Casimir Manry</field>
-<field name="composerSort">Manry, Charles Casimir</field>
+<field name="composer">Charles Manry</field>
+<field name="composerSort">Manry, Charles</field>
 <field name="year">1854</field>
 <field name="date">1854</field>
 <field name="librettist">Édouard Fournier</field>

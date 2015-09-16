@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10200402</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Betlehem und Golgatha</field>
@@ -8,7 +9,7 @@
 		
 		<field name="date">1902</field>
 		<field name="composer">[Eduard Kreusch] C. E. Robert</field>
-		<field name="composerSort">Robert, C. E. [Eduard Kreusch] </field>
+		<field name="composerSort">Robert, C. E. [Eduard Kreusch]</field>
 		
 		
 		

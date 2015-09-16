@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10114082</field>
 <field name="genre">Operas</field>
 <field name="title">Galeotto Manfredi</field>
 <field name="titleSort">Galeotto Manfredi</field>
 <field name="composer">[Hermann Cohen] Carlo Hermann</field>
-<field name="composerSort">Hermann, [Hermann Cohen] Carlo</field>
+<field name="composerSort">Hermann, Carlo [Hermann Cohen]</field>
 <field name="year">1842</field>
 <field name="date">1842</field>
 <field name="librettist">Temistocle Solera</field>

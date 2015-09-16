@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105479</field>
 <field name="genre">Operas</field>
 <field name="title">Scipione in Cartagena</field>
 <field name="titleSort">Scipione in Cartagena</field>
-<field name="composer">Domenico Cerciа</field>
-<field name="composerSort">Cerciа, Domenico</field>
+<field name="composer">Domenico Cercià</field>
+<field name="composerSort">Cercià, Domenico</field>
 <field name="year">1801</field>
 <field name="date">1801</field>
 <field name="librettist">Paolo Ferretti</field>

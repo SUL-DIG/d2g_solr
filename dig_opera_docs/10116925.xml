@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10116925</field>
 <field name="genre">Operas</field>
 <field name="title">La rossignol, ou Le mariage secret</field>
 <field name="titleSort">rossignol, ou Le mariage secret</field>
 <field name="composer">Jean-Benjamin La Borde</field>
-<field name="composerSort">Borde, Jean-Benjamin La</field>
+<field name="composerSort">La Borde, Jean-Benjamin</field>
 <field name="year">1751</field>
 <field name="date">1751</field>
 <field name="librettist">Charles Collé</field>

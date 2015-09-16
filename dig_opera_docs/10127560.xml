@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10127560</field>
 <field name="genre">Operas</field>
 <field name="title">Ruggero, ossia La congiura di Venezia</field>
 <field name="titleSort">Ruggero, ossia La congiura di Venezia</field>
 <field name="composer">Ventura Sánchez de la Madrid</field>
-<field name="composerSort">Madrid, Ventura Sánchez de la</field>
+<field name="composerSort">Sánchez de la Madrid, Ventura</field>
 <field name="year">1841</field>
 <field name="date">1841</field>
 <field name="librettist">Cesare Perrini</field>

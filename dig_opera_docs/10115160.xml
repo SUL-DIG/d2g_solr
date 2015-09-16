@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115160</field>
 <field name="genre">Operas</field>
 <field name="title">Šárka</field>
 <field name="titleSort">Šárka</field>
-<field name="composer">Leos Janácek</field>
-<field name="composerSort">Janácek, Leos</field>
+<field name="composer">Leoš Janáček</field>
+<field name="composerSort">Janáček, Leoš</field>
 <field name="year">1925</field>
 <field name="date">1925</field>
 <field name="librettist">Julius Zeyer</field>

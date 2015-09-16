@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107588</field>
 <field name="genre">Operas</field>
 <field name="title">L'opera dei centosedici</field>
 <field name="titleSort">opera dei centosedici</field>
 <field name="composer">Roberto De Simone</field>
-<field name="composerSort">Simone, Roberto De</field>
+<field name="composerSort">De Simone, Roberto</field>
 <field name="year">1995</field>
 <field name="date">1995</field>
 <field name="librettist">Roberto De Simone</field>

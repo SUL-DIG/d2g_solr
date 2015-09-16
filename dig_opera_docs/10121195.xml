@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10121195</field>
 <field name="genre">Operas</field>
 <field name="title">El poeta</field>
 <field name="titleSort">poeta</field>
 <field name="composer">Federico Moreno Torroba</field>
-<field name="composerSort">Torroba, Federico Moreno</field>
+<field name="composerSort">Moreno Torroba, Federico</field>
 <field name="year">1980</field>
 <field name="date">1980</field>
 <field name="librettist">José Méndez Herrera</field>

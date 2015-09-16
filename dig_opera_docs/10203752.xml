@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10203752</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">St. Adalbert</field>
@@ -7,8 +8,8 @@
 		
 		
 		
-		<field name="composer">Adolf Piskacek</field>
-		<field name="composerSort">Piskacek, Adolf</field>
+		<field name="composer">Adolf Piskáček</field>
+		<field name="composerSort">Piskáček, Adolf</field>
 		
 		
 		

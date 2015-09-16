@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Le château de Barbe-Bleu</field>
 <field name="titleSort">château de Barbe-Bleu</field>
-<field name="composer">Armand Marie Limnander de Niewehove</field>
-<field name="composerSort">Niewehove, Armand Marie Limnander de</field>
+<field name="composer">Armand Limnander de Niewehove</field>
+<field name="composerSort">Limnander de Niewehove, Armand</field>
 <field name="year">1851</field>
 <field name="date">1851</field>
 <field name="librettist">Henri de Saint-Georges</field>

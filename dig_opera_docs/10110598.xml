@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10110598</field>
 <field name="genre">Operas</field>
 <field name="title">Der Frühling</field>
 <field name="titleSort">Frühling</field>
-<field name="composer">J. G. A. Fritzschen</field>
-<field name="composerSort">Fritzschen, J. G. A.</field>
+<field name="composer">Johann Gottlieb August Fritzschen</field>
+<field name="composerSort">Fritzschen, Johann Gottlieb August</field>
 <field name="year">1749</field>
 <field name="date">1749</field>
 <field name="librettist">[Johann Sigismund Scholze] Sperontes</field>

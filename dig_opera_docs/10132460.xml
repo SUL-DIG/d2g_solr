@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10132460</field>
 <field name="genre">Operas</field>
 <field name="title">Pan Tvardovski</field>
 <field name="titleSort">Pan Tvardovski</field>
-<field name="composer">Boleslaw Wallek-Walewski</field>
-<field name="composerSort">Wallek-Walewski, Boleslaw</field>
+<field name="composer">Bolesław Wallek-Walewski</field>
+<field name="composerSort">Wallek-Walewski, Bolesław</field>
 <field name="year">1915</field>
 <field name="date">1915</field>
 <field name="librettist">Alexander Bandrowski-Sas</field>

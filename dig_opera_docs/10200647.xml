@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10200647</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Cîntecul renaşterii (Song of the Renaissance)</field>
 		<field name="titleSort">Cîntecul renaşterii (Song of the Renaissance)</field>
 		<field name="year">1951</field>	
 		<field name="date">1951</field>
-		<field name="composer">Stefan Neaga</field>
-		<field name="composerSort">Neaga, Stefan</field>
+		<field name="composer">Ştefan Neaga</field>
+		<field name="composerSort">Neaga, Ştefan</field>
 		<field name="librettist">F. Cabarin</field>
 		<field name="librettistSort">Cabarin, F.</field>		
 		

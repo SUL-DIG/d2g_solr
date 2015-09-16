@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">La ruse villageoise</field>
 <field name="titleSort">ruse villageoise</field>
-<field name="composer">Pierre-David-Augustin Chapelle</field>
-<field name="composerSort">Chapelle, Pierre-David-Augustin</field>
+<field name="composer">Augustin Chapelle</field>
+<field name="composerSort">Chapelle, Augustin</field>
 <field name="year">1793</field>
 <field name="date">1793</field>
 <field name="librettist">[Charles-Augustin Bassompierre] Sewrin</field>

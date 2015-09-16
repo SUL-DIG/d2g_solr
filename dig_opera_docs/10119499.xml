@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10119499</field>
 <field name="genre">Operas</field>
 <field name="title">¡Buena noche!</field>
 <field name="titleSort">Buena noche!</field>
 <field name="composer">Manuel Martínez Faixá</field>
-<field name="composerSort">Faixá, Manuel Martínez</field>
+<field name="composerSort">Martínez Faixá, Manuel</field>
 <field name="year">1915</field>
 <field name="date">1915</field>
 <field name="librettist">Luis Llaneza</field>

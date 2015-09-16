@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105423</field>
 <field name="genre">Operas</field>
 <field name="title">Když proni se vrátí</field>
 <field name="titleSort">Když proni se vrátí</field>
-<field name="composer">Milos Celedy</field>
-<field name="composerSort">Celedy, Milos</field>
+<field name="composer">Miloš Čeledy</field>
+<field name="composerSort">Čeledy, Miloš</field>
 <field name="year">1913</field>
 <field name="date">1913</field>
 <field name="librettist">Anton Raab</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10123843</field>
 <field name="genre">Operas</field>
 <field name="title">La Jérusalem délivrée</field>
 <field name="titleSort">Jérusalem délivrée</field>
-<field name="composer">Louis-Luc Loiseau de Persius</field>
-<field name="composerSort">Persius, Louis-Luc Loiseau de</field>
+<field name="composer">Louis-Luc Loiseau de Persuis</field>
+<field name="composerSort">Persuis, Louis-Luc Loiseau de</field>
 <field name="year">1812</field>
 <field name="date">1812</field>
 <field name="librettist">Louis-Pierre Baour-Lormian</field>

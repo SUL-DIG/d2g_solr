@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107257</field>
 <field name="genre">Operas</field>
 <field name="title">Il califfo</field>
 <field name="titleSort">califfo</field>
 <field name="composer">Ettore De Champs</field>
-<field name="composerSort">Champs, Ettore De</field>
+<field name="composerSort">De Champs, Ettore</field>
 <field name="year">1871</field>
 <field name="date">1871</field>
 <field name="librettist">Giovanni Battista Canovai</field>

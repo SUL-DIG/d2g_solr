@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131896</field>
 <field name="genre">Operas</field>
 <field name="title">Der eingemauerte Bräutigam</field>
 <field name="titleSort">eingemauerte Bräutigam</field>
 <field name="composer">[Karl Hutterstrasser] Charles Verney</field>
-<field name="composerSort">Verney, [Karl Hutterstrasser] Charles</field>
+<field name="composerSort">Verney, Charles [Karl Hutterstrasser]</field>
 <field name="year">1898</field>
 <field name="date">1898</field>
 <field name="librettist">Lambert Loidabruck</field>

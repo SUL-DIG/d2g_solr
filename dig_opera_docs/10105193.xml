@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105193</field>
 <field name="genre">Operas</field>
 <field name="title">Love's Trickery</field>
 <field name="titleSort">Love's Trickery</field>
 <field name="composer">[Félix Marie Henri Tilkin] Ivan Caryll</field>
-<field name="composerSort">Caryll, [Félix Marie Henri Tilkin] Ivan</field>
+<field name="composerSort">Caryll, Ivan [Félix Marie Henri Tilkin]</field>
 <field name="year">1889</field>
 <field name="date">1889</field>
 <field name="librettist">Cunningham V. Bridgman</field>

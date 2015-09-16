@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10118442</field>
 <field name="genre">Operas</field>
 <field name="title">Il sogno di Alma</field>
 <field name="titleSort">sogno di Alma</field>
 <field name="composer">Carlo López Buchardo</field>
-<field name="composerSort">Buchardo, Carlo López</field>
+<field name="composerSort">López Buchardo, Carlo</field>
 <field name="year">1914</field>
 <field name="date">1914</field>
 <field name="librettist">Sem Benelli</field>

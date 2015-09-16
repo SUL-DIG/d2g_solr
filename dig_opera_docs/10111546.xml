@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10111546</field>
 <field name="genre">Operas</field>
 <field name="title">Zelma</field>
 <field name="titleSort">Zelma</field>
 <field name="composer">Tomás Genovés y Lapetra</field>
-<field name="composerSort">Lapetra, Tomás Genovés y</field>
+<field name="composerSort">Genovés y Lapetra, Tomás</field>
 <field name="year">1835</field>
 <field name="date">1835</field>
 <field name="librettist">Giuseppe Regaldi</field>

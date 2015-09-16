@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10109502</field>
 <field name="genre">Operas</field>
 <field name="title">Rouge et noir</field>
 <field name="titleSort">Rouge et noir</field>
 <field name="composer">[Felix Krzysniowski] Karl Felix</field>
-<field name="composerSort">Felix, [Felix Krzysniowski] Karl</field>
+<field name="composerSort">Felix, Karl [Felix Krzysniowski]</field>
 <field name="year">1908</field>
 <field name="date">1908</field>
 <field name="librettist">[Felix Krzysniowski] Karl Felix</field>

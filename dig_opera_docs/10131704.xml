@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131704</field>
 <field name="genre">Operas</field>
 <field name="title">Madame la comtesse</field>
 <field name="titleSort">Madame la comtesse</field>
 <field name="composer">Georges Van Parys</field>
-<field name="composerSort">Parys, Georges Van</field>
+<field name="composerSort">Van Parys, Georges</field>
 <field name="year">1922</field>
 <field name="date">1922</field>
 <field name="librettist">[Maurice Clément] Mauclay</field>

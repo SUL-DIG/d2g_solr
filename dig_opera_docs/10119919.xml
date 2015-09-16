@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10119919</field>
 <field name="genre">Operas</field>
 <field name="title">An Easter Egg</field>
 <field name="titleSort">Easter Egg</field>
 <field name="composer">[Willert Beale] Walter Maynard</field>
-<field name="composerSort">Maynard Walter, [Willert Beale]</field>
+<field name="composerSort">Maynard, Walter [Willert Beale]</field>
 <field name="year">1893</field>
 <field name="date">1893</field>
 <field name="librettist">[Willert Beale] Walter Maynard</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107512</field>
 <field name="genre">Operas</field>
 <field name="title">Le chanteur de médicine</field>
 <field name="titleSort">chanteur de médicine</field>
 <field name="composer">Frans De Mol</field>
-<field name="composerSort">Mol, Frans De</field>
+<field name="composerSort">De Mol, Frans</field>
 <field name="year">1881</field>
 <field name="date">1881</field>
 <field name="librettist">G. Delongchamps</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10109678</field>
 <field name="genre">Operas</field>
 <field name="title">L'amant et le mari</field>
 <field name="titleSort">amant et le mari</field>
-<field name="composer">François Joseph Fétis</field>
-<field name="composerSort">Fétis, François Joseph</field>
+<field name="composer">François-Joseph Fétis</field>
+<field name="composerSort">Fétis, François-Joseph</field>
 <field name="year">1820</field>
 <field name="date">1820</field>
 <field name="librettist">Charles-Guillaume Étienne</field>

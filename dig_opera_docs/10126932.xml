@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10126932</field>
 <field name="genre">Operas</field>
 <field name="title">Meduza</field>
 <field name="titleSort">Meduza</field>
-<field name="composer">Ludomir Rózycki</field>
-<field name="composerSort">Rózycki, Ludomir</field>
+<field name="composer">Ludomir Różycki</field>
+<field name="composerSort">Różycki, Ludomir</field>
 <field name="year">1912</field>
 <field name="date">1912</field>
 <field name="librettist">Cezary Jellenta</field>

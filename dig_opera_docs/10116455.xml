@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10116455</field>
 <field name="genre">Operas</field>
 <field name="title">Edip král (King Oedipus)</field>
 <field name="titleSort">Edip král (King Oedipus)</field>
-<field name="composer">Karel Kovarovic</field>
-<field name="composerSort">Kovarovic, Karel</field>
+<field name="composer">Karel Kovařovic</field>
+<field name="composerSort">Kovařovic, Karel</field>
 <field name="year">1894</field>
 <field name="date">1894</field>
 <field name="librettist">August Vojtech Nevsímal</field>

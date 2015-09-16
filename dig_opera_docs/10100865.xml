@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10100865</field>
 <field name="genre">Operas</field>
 <field name="title">Amazilda e Zamoro</field>
 <field name="titleSort">Amazilda e Zamoro</field>
 <field name="composer">Antonio d'Antoni</field>
-<field name="composerSort">d'Antoni, Antonio</field>
+<field name="composerSort">Antoni, Antonio d'</field>
 <field name="year">1826</field>
 <field name="date">1826</field><field name="theater">Teatro di via della Pergola</field>
 <field name="city">Florence</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117051</field>
 <field name="genre">Operas</field>
 <field name="title">Le songe de la réligieuse</field>
 <field name="titleSort">songe de la réligieuse</field>
 <field name="composer">Louise Geneviève Rousseau de La Hyde</field>
-<field name="composerSort">Hyde, Louise Geneviève Rousseau de La</field>
+<field name="composerSort">Rousseau de La Hyde, Louise Geneviève</field>
 <field name="year">1835</field>
 <field name="date">1835</field><field name="theater">Hôtel de Ville</field>
 <field name="city">Paris</field>

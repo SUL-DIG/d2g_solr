@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131695</field>
 <field name="genre">Operas</field>
 <field name="title">Kermisweelde</field>
 <field name="titleSort">Kermisweelde</field>
 <field name="composer">Arthur Van Dooren</field>
-<field name="composerSort">Dooren, Arthur Van</field>
+<field name="composerSort">Van Dooren, Arthur</field>
 <field name="year">1907</field>
 <field name="date">1907</field>
 <field name="librettist">Georges Rouckhout</field>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10204438</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Sw. Franciszek z Asyzu</field>
@@ -7,8 +8,8 @@
 		<field name="month">May</field>
 		<field name="day">19</field>
 		<field name="date">May 19, 1985</field>
-		<field name="composer">Juliusz Luciuk</field>
-		<field name="composerSort">Luciuk, Juliusz</field>
+		<field name="composer">Juliusz Łuciuk</field>
+		<field name="composerSort">Łuciuk, Juliusz</field>
 		<field name="librettist">Marek Skwarnicki</field>
 		<field name="librettistSort">Skwarnicki, Marek</field>
 		

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10202891</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">La muerte de Cristo</field>
@@ -8,7 +9,7 @@
 		<field name="day">7</field>
 		<field name="date">April 7, 1939</field>
 		<field name="composer">José de Jesús Ravelo</field>
-		<field name="composerSort">Ravelo, José de Jesús</field>
+		<field name="composerSort">Jesús Ravelo, José de</field>
 		
 		
 		<field name="theater">Basilica de Santa María la Menor</field>

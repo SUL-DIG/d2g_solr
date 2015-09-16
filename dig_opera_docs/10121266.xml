@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10121266</field>
 <field name="genre">Operas</field>
 <field name="title">Le mari sans le savoir</field>
 <field name="titleSort">mari sans le savoir</field>
-<field name="composer">Charles Auguste de Morny</field>
-<field name="composerSort">Morny, Charles Auguste de</field>
+<field name="composer">Auguste de Morny</field>
+<field name="composerSort">Morny, Auguste de</field>
 <field name="year">1860</field>
 <field name="date">1860</field>
 <field name="librettist">Léon Halévy</field>

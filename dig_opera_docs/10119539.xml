@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10119539</field>
 <field name="genre">Operas</field>
 <field name="title">Veselohra na mostě (Comedy on the Bridge)</field>
 <field name="titleSort">Veselohra na mostě (Comedy on the Bridge)</field>
-<field name="composer">Bohuslav Martinu</field>
-<field name="composerSort">Martinu, Bohuslav</field>
+<field name="composer">Bohuslav Martinů</field>
+<field name="composerSort">Martinů, Bohuslav</field>
 <field name="year">1937</field>
 <field name="date">1937</field>
 <field name="librettist">Václav Kliment Klicpera</field>

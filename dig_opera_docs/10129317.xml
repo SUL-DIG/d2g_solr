@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129317</field>
 <field name="genre">Operas</field>
 <field name="title">Když dva dělají totéž, aneb Zenská ctnost</field>
 <field name="titleSort">Když dva dělají totéž, aneb Zenská ctnost</field>
-<field name="composer">Jirí Smutný</field>
-<field name="composerSort">Smutný, Jirí</field>
+<field name="composer">Jiří Smutný</field>
+<field name="composerSort">Smutný, Jiří</field>
 <field name="year">1960</field>
 <field name="date">1960</field>
 <field name="librettist">Ivo Havlu</field>

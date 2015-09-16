@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115233</field>
 <field name="genre">Operas</field>
 <field name="title">Svatba na Klecanech</field>
 <field name="titleSort">Svatba na Klecanech</field>
-<field name="composer">Josef Jerábek</field>
-<field name="composerSort">Jerábek, Josef</field>
+<field name="composer">Josef Jeřábek</field>
+<field name="composerSort">Jeřábek, Josef</field>
 <field name="year">1900</field>
 <field name="date">1900</field>
 <field name="librettist">Cyril Krodba</field>

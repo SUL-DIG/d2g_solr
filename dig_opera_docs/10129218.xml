@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129218</field>
 <field name="genre">Operas</field>
 <field name="title">Svitanje (Dawn)</field>
 <field name="titleSort">Svitanje (Dawn)</field>
-<field name="composer">Pavel Sivic</field>
-<field name="composerSort">Sivic, Pavel</field>
+<field name="composer">Pavel Šivic</field>
+<field name="composerSort">Šivic, Pavel</field>
 <field name="year">1979</field>
 <field name="date">1979</field>
 <field name="librettist">Pavel Sivic</field>

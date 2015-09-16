@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117807</field>
 <field name="genre">Operas</field>
 <field name="title">La blonde et la brune</field>
 <field name="titleSort">blonde et la brune</field>
-<field name="composer">Jean Frédéric Auguste Lemière de Corvey</field>
-<field name="composerSort">Corvey, Jean Frédéric Auguste Lemière de</field>
+<field name="composer">Jean-Frédéric-Auguste Lemière de Corvey</field>
+<field name="composerSort">Lemière de Corvey, Jean-Frédéric-Auguste</field>
 <field name="year">1795</field>
 <field name="date">1795</field>
 <field name="librettist">[Charles-Augustin Bassompierre] Sewrin</field>

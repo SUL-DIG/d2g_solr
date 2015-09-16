@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10122204</field>
 <field name="genre">Operas</field>
 <field name="title">Artur, ou dezasseis anos depois</field>
 <field name="titleSort">Artur, ou dezasseis anos depois</field>
-<field name="composer">Francisco de Sá Noronha</field>
-<field name="composerSort">Noronha, Francisco de Sá</field>
+<field name="composer">Francisco da Sá Noronha</field>
+<field name="composerSort">Noronha, Francisco da Sá</field>
 <field name="year">1854</field>
 <field name="date">1854</field>
 <field name="city">Lisbon</field>

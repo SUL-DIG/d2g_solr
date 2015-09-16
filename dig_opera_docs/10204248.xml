@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10204248</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Les sept paroles du Christ</field>
@@ -7,8 +8,8 @@
 		<field name="month">April</field>
 		<field name="day">19</field>
 		<field name="date">April 19, 1867</field>
-		<field name="composer">Adolphe Édouard Marie Deslandres</field>
-		<field name="composerSort">Deslandres, Adolphe Édouard Marie</field>
+		<field name="composer">Adolphe-Édouard-Marie Deslandres</field>
+		<field name="composerSort">Deslandres, Adolphe-Édouard-Marie</field>
 		
 		
 		

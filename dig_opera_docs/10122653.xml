@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10122653</field>
 <field name="genre">Operas</field>
 <field name="title">L'eremo di Senloph</field>
 <field name="titleSort">eremo di Senloph</field>
-<field name="composer">Luigi dei Conti Orsini</field>
-<field name="composerSort">Orsini, Luigi dei Conti</field>
+<field name="composer">Luigi Orsini</field>
+<field name="composerSort">Orsini, Luigi</field>
 <field name="year">1834</field>
 <field name="date">1834</field>
 <field name="librettist">Giuseppe Checcherini</field>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10202298</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Judas Iscariothes</field>
@@ -7,8 +8,8 @@
 		
 		
 		
-		<field name="composer">Frantisek Xaver Brixi</field>
-		<field name="composerSort">Brixi, Frantisek Xaver</field>
+		<field name="composer">František Xaver Brixi</field>
+		<field name="composerSort">Brixi, František Xaver</field>
 		
 		
 		

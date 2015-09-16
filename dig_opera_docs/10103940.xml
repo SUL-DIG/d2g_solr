@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10103940</field>
 <field name="genre">Operas</field>
 <field name="title">Telmah</field>
 <field name="titleSort">Telmah</field>
-<field name="composer">Darijan Bozic</field>
-<field name="composerSort">Bozic, Darijan</field>
+<field name="composer">Darijan Božič</field>
+<field name="composerSort">Božič, Darijan</field>
 <field name="year">1990</field>
 <field name="date">1990</field>
 <field name="librettist">William Shakespeare</field>

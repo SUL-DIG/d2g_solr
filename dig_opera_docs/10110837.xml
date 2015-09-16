@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10110837</field>
 <field name="genre">Operas</field>
 <field name="title">Après l'orage</field>
 <field name="titleSort">Après l'orage</field>
-<field name="composer">Pierre Christophe Charles Galibert</field>
-<field name="composerSort">Galibert, Pierre Christophe Charles</field>
+<field name="composer">Pierre-Christophe-Charles Galibert</field>
+<field name="composerSort">Galibert, Pierre-Christophe-Charles</field>
 <field name="year">1857</field>
 <field name="date">1857</field>
 <field name="librettist">Henry Boisseaux</field>

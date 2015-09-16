@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117025</field>
 <field name="genre">Operas</field>
 <field name="title">Aeglé</field>
 <field name="titleSort">Aeglé</field>
 <field name="composer">Pierre de La Garde</field>
-<field name="composerSort">Garde, Pierre de La</field>
+<field name="composerSort">La Garde, Pierre de</field>
 <field name="year">1748</field>
 <field name="date">1748</field>
 <field name="librettist">Pierre Laujon</field>

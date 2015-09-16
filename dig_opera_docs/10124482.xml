@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Le mari de circonstance</field>
 <field name="titleSort">mari de circonstance</field>
-<field name="composer">Charles Henri Plantade</field>
-<field name="composerSort">Plantade, Charles Henri</field>
+<field name="composer">Charles-Henri Plantade</field>
+<field name="composerSort">Plantade, Charles-Henri</field>
 <field name="year">1813</field>
 <field name="date">1813</field>
 <field name="librettist">Eugène de Planard</field>

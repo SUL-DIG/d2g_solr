@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10108137</field>
 <field name="genre">Operas</field>
 <field name="title">Happy Hampstead</field>
 <field name="titleSort">Happy Hampstead</field>
 <field name="composer">Richard D'Oyly Carte</field>
-<field name="composerSort">Carte, Richard D'Oyly</field>
+<field name="composerSort">D'Oyly Carte, Richard</field>
 <field name="year">1876</field>
 <field name="date">1876</field>
 <field name="librettist">Frank Desprez</field>

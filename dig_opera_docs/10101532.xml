@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10101532</field>
 <field name="genre">Operas</field>
 <field name="title">Przygoda króla Artura</field>
 <field name="titleSort">Przygoda króla Artura</field>
-<field name="composer">Grazyna Bacewicz</field>
-<field name="composerSort">Bacewicz, Grazyna</field>
+<field name="composer">Grażyna Bacewicz</field>
+<field name="composerSort">Bacewicz, Grażyna</field>
 <field name="year">1959</field>
 <field name="date">1959</field>
 <field name="librettist">Edward Fischer</field>

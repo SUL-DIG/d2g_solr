@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Straszny dwór (The Haunted Manor)</field>
 <field name="titleSort">Straszny dwór (The Haunted Manor)</field>
-<field name="composer">Stanislaw Moniuszko</field>
-<field name="composerSort">Moniuszko, Stanislaw</field>
+<field name="composer">Stanisław Moniuszko</field>
+<field name="composerSort">Moniuszko, Stanisław</field>
 <field name="year">1865</field>
 <field name="date">1865</field>
 <field name="librettist">Jan Chęciński</field>

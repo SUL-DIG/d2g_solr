@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10110338</field>
 <field name="genre">Operas</field>
 <field name="title">La fiançée du Tonkin</field>
 <field name="titleSort">fiançée du Tonkin</field>
-<field name="composer">Georges Auguste Fragerolle</field>
-<field name="composerSort">Fragerolle, Georges Auguste</field>
+<field name="composer">Georges Fragerolle</field>
+<field name="composerSort">Fragerolle, Georges</field>
 <field name="year">1886</field>
 <field name="date">1886</field>
 <field name="librettist">Guillaume Livet</field>

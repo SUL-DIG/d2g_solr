@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10102215</field>
 <field name="genre">Operas</field>
 <field name="title">Boulapotaf</field>
 <field name="titleSort">Boulapotaf</field>
-<field name="composer">__ Bellefleur</field>
-<field name="composerSort">Bellefleur, __</field>
+<field name="composer">Maurice Bellefleur</field>
+<field name="composerSort">Bellefleur, Maurice</field>
 <field name="year">1894</field>
 <field name="date">1894</field>
 <field name="librettist">J. Provost</field>

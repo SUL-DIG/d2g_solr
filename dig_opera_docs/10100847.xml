@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10100847</field>
 <field name="genre">Operas</field>
 <field name="title">Il faut semer pour récolter</field>
 <field name="titleSort">Il faut semer pour récolter</field>
-<field name="composer">Eugène Jean Baptiste Anthiome</field>
-<field name="composerSort">Anthiome, Eugène Jean Baptiste</field>
+<field name="composer">Eugène Anthiome</field>
+<field name="composerSort">Anthiome, Eugène</field>
 <field name="year">1866</field>
 <field name="date">1866</field>
 <field name="librettist">A. di Pietro</field>

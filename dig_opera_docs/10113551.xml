@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10113551</field>
 <field name="genre">Operas</field>
 <field name="title">Poceden Prométheova (Prometheus's Torch)</field>
 <field name="titleSort">Poceden Prométheova (Prometheus's Torch)</field>
-<field name="composer">Jan Hanus</field>
-<field name="composerSort">Hanus, Jan</field>
+<field name="composer">Jan Hanuš</field>
+<field name="composerSort">Hanuš, Jan</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
 <field name="librettist">Jaroslav Pokorný</field>

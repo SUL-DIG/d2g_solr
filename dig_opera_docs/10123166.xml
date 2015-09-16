@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10123166</field>
 <field name="genre">Operas</field>
 <field name="title">Pietro d'Albano</field>
 <field name="titleSort">Pietro d'Albano</field>
 <field name="composer">Cenobio Paniagua y Vasques</field>
-<field name="composerSort">Vasques, Cenobio Paniagua y</field>
+<field name="composerSort">Paniagua y Vasques, Cenobio</field>
 <field name="year">1861</field>
 <field name="date">1861</field>
 <field name="librettist">Antonio Boni</field>

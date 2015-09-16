@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10201201</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Ester</field>
@@ -7,8 +8,8 @@
 		
 		
 		<field name="date">1781</field>
-		<field name="composer">Josef Schuster</field>
-		<field name="composerSort">Schuster, Josef</field>
+		<field name="composer">Joseph Schuster</field>
+		<field name="composerSort">Schuster, Joseph</field>
 		
 		
 		<field name="theater">Ospedale dei Derelitti ai Santi Giovanni e Paolo (Ospedaletto)</field>

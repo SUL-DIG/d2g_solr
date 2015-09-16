@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10203598</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">La résurrection</field>
@@ -8,7 +9,7 @@
 		
 		<field name="date">1780</field>
 		<field name="composer">Nicolas-Jean Le Froid de Méreaux</field>
-		<field name="composerSort">Méreaux, Nicolas-Jean Le Froid de </field>
+		<field name="composerSort">Le Froid de Méreaux, Nicolas-Jean</field>
 		<field name="librettist">Pierre-Louis Moline</field>
 		<field name="librettistSort">Moline, Pierre-Louis</field>
 		

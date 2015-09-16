@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10120371</field>
 <field name="genre">Operas</field>
 <field name="title">Grisélide, ou La vertu а l'épreuve</field>
 <field name="titleSort">Grisélide, ou La vertu а l'épreuve</field>
-<field name="composer">Nicolas-Jean Méreaux</field>
-<field name="composerSort">Méreaux, Nicolas-Jean</field>
+<field name="composer">Nicolas-Jean Le Froid de Méreaux</field>
+<field name="composerSort">Le Froid de Méreaux, Nicolas-Jean</field>
 <field name="year">1791</field>
 <field name="date">1791</field>
 <field name="librettist">[Pierre-Jean-Baptiste Choudard] Desforges</field>

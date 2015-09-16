@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10127215</field>
 <field name="genre">Operas</field>
 <field name="title">Les amours de Diane et d'Endymion</field>
 <field name="titleSort">amours de Diane et d'Endymion</field>
 <field name="composer">Jean de Granouilhet de Sablières</field>
-<field name="composerSort">Sablières, Jean de Granouilhet de</field>
+<field name="composerSort">Granouilhet de Sablières, Jean de</field>
 <field name="year">1671</field>
 <field name="date">1671</field>
 <field name="librettist">Henry Guichard</field>

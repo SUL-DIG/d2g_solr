@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Mariana</field>
 <field name="titleSort">Mariana</field>
-<field name="composer">Vaclav Felix</field>
-<field name="composerSort">Felix, Vaclav</field>
+<field name="composer">Václav Felix</field>
+<field name="composerSort">Felix, Václav</field>
 <field name="year">1985</field>
 <field name="date">1985</field>
 <field name="librettist">Zbyšek Malý</field>

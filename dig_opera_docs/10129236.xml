@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129236</field>
 <field name="genre">Operas</field>
 <field name="title">Dráteník (The Tinker)</field>
 <field name="titleSort">Dráteník (The Tinker)</field>
-<field name="composer">Frantisek Jan Skroup</field>
-<field name="composerSort">Skroup, Frantisek Jan</field>
+<field name="composer">František Jan Škroup</field>
+<field name="composerSort">Škroup, František Jan</field>
 <field name="year">1826</field>
 <field name="date">1826</field>
 <field name="librettist">Josef Krasoslav Chmelenský</field>

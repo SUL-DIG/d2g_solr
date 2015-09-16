@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107401</field>
 <field name="genre">Operas</field>
 <field name="title">Algala</field>
 <field name="titleSort">Algala</field>
 <field name="composer">Francesco Bartolomeo De Leone</field>
-<field name="composerSort">Leone, Francesco Bartolomeo De</field>
+<field name="composerSort">De Leone, Francesco Bartolomeo</field>
 <field name="year">1924</field>
 <field name="date">1924</field>
 <field name="librettist">Cecil Fanning</field>

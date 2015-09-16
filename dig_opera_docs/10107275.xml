@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107275</field>
 <field name="genre">Operas</field>
 <field name="title">The London 'Prentice</field>
 <field name="titleSort">London 'Prentice</field>
 <field name="composer">William De Fesch</field>
-<field name="composerSort">Fesch, William De</field>
+<field name="composerSort">De Fesch, William</field>
 <field name="year">1754</field>
 <field name="date">1754</field><field name="theater">Theatre Royal, Drury Lane</field>
 <field name="city">London</field>

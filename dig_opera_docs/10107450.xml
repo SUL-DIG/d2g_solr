@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107450</field>
 <field name="genre">Operas</field>
 <field name="title">La maison du Marais</field>
 <field name="titleSort">maison du Marais</field>
 <field name="composer">Dominique Della Maria</field>
-<field name="composerSort">Maria, Dominique Della</field>
+<field name="composerSort">Della Maria, Dominique</field>
 <field name="year">1799</field>
 <field name="date">1799</field>
 <field name="librettist">[Alexandre Vincent Pineux-Duval] Alexandre Duval</field>

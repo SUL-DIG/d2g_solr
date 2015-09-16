@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Le mannequin de Bergame</field>
 <field name="titleSort">mannequin de Bergame</field>
-<field name="composer">François Joseph Fétis</field>
-<field name="composerSort">Fétis, François Joseph</field>
+<field name="composer">François-Joseph Fétis</field>
+<field name="composerSort">Fétis, François-Joseph</field>
 <field name="year">1832</field>
 <field name="date">1832</field>
 <field name="librettist">Eugène de Planard</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10100079</field>
 <field name="genre">Operas</field>
 <field name="title">Mamaduka</field>
 <field name="titleSort">Mamaduka</field>
 <field name="composer">Jorge Luis Acevedo Vargas</field>
-<field name="composerSort">Vargas, Jorge Luis Acevedo</field>
+<field name="composerSort">Acevedo Vargas, Jorge Luis</field>
 <field name="year">1984</field>
 <field name="date">1984</field><field name="theater">Teatro Castella</field>
 <field name="city">Castalla</field>

@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Paleček Tom (Tom Thumb)</field>
 <field name="titleSort">Paleček Tom (Tom Thumb)</field>
-<field name="composer">Pavel Borkovec</field>
-<field name="composerSort">Borkovec, Pavel</field>
+<field name="composer">Pavel Bořkovec</field>
+<field name="composerSort">Bořkovec, Pavel</field>
 <field name="year">1958</field>
 <field name="date">1958</field>
 <field name="librettist">František Kubka</field>

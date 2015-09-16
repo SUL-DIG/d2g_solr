@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10101716</field>
 <field name="genre">Operas</field>
 <field name="title">Il suffit d'un peu d'air</field>
 <field name="titleSort">suffit d'un peu d'air</field>
-<field name="composer">Claude Ballif</field>
-<field name="composerSort">Ballif, Claude</field>
+<field name="composer">Claude Baliff</field>
+<field name="composerSort">Baliff, Claude</field>
 <field name="year">1991</field>
 <field name="date">1991</field>
 <field name="librettist">Renald Tremblay</field>

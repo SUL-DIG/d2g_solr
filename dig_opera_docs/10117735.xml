@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117735</field>
 <field name="genre">Operas</field>
 <field name="title">Le mariage а la rose</field>
 <field name="titleSort">mariage а la rose</field>
-<field name="composer">__ Leguay</field>
-<field name="composerSort">Leguay, __</field>
+<field name="composer">A. Leguay</field>
+<field name="composerSort">Leguay, A.</field>
 <field name="year">1869</field>
 <field name="date">1869</field>
 <field name="city">Blois</field>

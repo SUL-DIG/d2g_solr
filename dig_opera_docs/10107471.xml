@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107471</field>
 <field name="genre">Operas</field>
 <field name="title">The Triumph of St. Joan (The Trial at Rouen)</field>
 <field name="titleSort">Triumph of St. Joan (Trial at Rouen)</field>
 <field name="composer">Norman Dello Joio</field>
-<field name="composerSort">Joio, Norman Dello</field>
+<field name="composerSort">Dello Joio, Norman</field>
 <field name="year">1950</field>
 <field name="date">1950</field>
 <field name="librettist">Joseph Machlis</field>

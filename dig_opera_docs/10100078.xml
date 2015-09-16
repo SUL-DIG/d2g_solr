@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10100078</field>
 <field name="genre">Operas</field>
 <field name="title">Caupolicán</field>
 <field name="titleSort">Caupolicán</field>
 <field name="composer">Remigio Acevedo Guajardo</field>
-<field name="composerSort">Guajardo, Remigio Acevedo</field>
+<field name="composerSort">Acevedo Guajardo, Remigio</field>
 <field name="year">1942</field>
 <field name="date">1942</field>
 <field name="librettist">Pedro Antonio Pérez</field>

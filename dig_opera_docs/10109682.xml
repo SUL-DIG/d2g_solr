@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Les soeurs jumelles</field>
 <field name="titleSort">soeurs jumelles</field>
-<field name="composer">François Joseph Fétis</field>
-<field name="composerSort">Fétis, François Joseph</field>
+<field name="composer">François-Joseph Fétis</field>
+<field name="composerSort">Fétis, François-Joseph</field>
 <field name="year">1823</field>
 <field name="date">1823</field>
 <field name="librettist">Eugène de Planard</field>

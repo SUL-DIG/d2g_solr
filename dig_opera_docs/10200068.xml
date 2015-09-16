@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10200068</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Abramo</field>
@@ -8,7 +9,7 @@
 		
 		<field name="date">1800</field>
 		<field name="composer">Luigi De Santis</field>
-		<field name="composerSort">Santis, Luigi De</field>
+		<field name="composerSort">De Santis, Luigi</field>
 		
 		
 		

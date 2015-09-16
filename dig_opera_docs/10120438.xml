@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10120438</field>
 <field name="genre">Operas</field>
 <field name="title">La légende du carillon</field>
 <field name="titleSort">légende du carillon</field>
 <field name="composer">[Eugène Siebel] Eugène Météhen</field>
-<field name="composerSort">Météhen, [Eugène Siebel] Eugène</field>
+<field name="composerSort">Météhen, Eugène [Eugène Siebel]</field>
 <field name="year">1910</field>
 <field name="date">1910</field>
 <field name="librettist">J. Richard</field>

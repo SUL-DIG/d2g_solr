@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10114562</field>
 <field name="genre">Operas</field>
 <field name="title">Die Verwechslung, oder Der Teufel in allen Ecken</field>
 <field name="titleSort">Verwechslung, oder Der Teufel in allen Ecken</field>
-<field name="composer">Ondrej Frantisek Holý</field>
-<field name="composerSort">Holý, Ondrej Frantisek</field>
+<field name="composer">Ondřej František Holý</field>
+<field name="composerSort">Holý, Ondřej František</field>
 <field name="year">1769</field>
 <field name="date">1769</field>
 <field name="librettist">Karl Franz Henisch</field>

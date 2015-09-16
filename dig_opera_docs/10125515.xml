@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10125515</field>
 <field name="genre">Operas</field>
 <field name="title">Karađorđe</field>
 <field name="titleSort">Karađorđe</field>
-<field name="composer">Stanojlo Rajicic</field>
-<field name="composerSort">Rajicic, Stanojlo</field>
+<field name="composer">Stanojlo Rajičić</field>
+<field name="composerSort">Rajičić, Stanojlo</field>
 <field name="year">1977</field>
 <field name="date">1977</field>
 <field name="librettist">Ivan Studen</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131410</field>
 <field name="genre">Operas</field>
 <field name="title">Amaranta</field>
 <field name="titleSort">Amaranta</field>
-<field name="composer">Hanus Trnecek</field>
-<field name="composerSort">Trnecek, Hanus</field>
+<field name="composer">Hanuš Trneček</field>
+<field name="composerSort">Trneček, Hanuš</field>
 <field name="year">1890</field>
 <field name="date">1890</field>
 <field name="librettist">Demetrius Harnicke</field>

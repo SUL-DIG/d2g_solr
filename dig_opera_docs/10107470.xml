@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107470</field>
 <field name="genre">Operas</field>
 <field name="title">The Ruby</field>
 <field name="titleSort">Ruby</field>
 <field name="composer">Norman Dello Joio</field>
-<field name="composerSort">Joio, Norman Dello</field>
+<field name="composerSort">Dello Joio, Norman</field>
 <field name="year">1955</field>
 <field name="date">1955</field>
 <field name="librettist">[William Gibson] William Mass</field>

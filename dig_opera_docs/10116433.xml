@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10116433</field>
 <field name="genre">Operas</field>
 <field name="title">Dalibor</field>
 <field name="titleSort">Dalibor</field>
-<field name="composer">Frantisek Bedrich Kott</field>
-<field name="composerSort">Kott, Frantisek Bedrich</field>
+<field name="composer">František Bedřich Kott</field>
+<field name="composerSort">Kott, František Bedřich</field>
 <field name="year">1844</field>
 <field name="date">1844</field>
 <field name="librettist">Anton von Perger</field>

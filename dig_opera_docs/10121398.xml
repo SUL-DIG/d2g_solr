@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10121398</field>
 <field name="genre">Operas</field>
 <field name="title">Der Aufsichtsrat</field>
 <field name="titleSort">Aufsichtsrat</field>
-<field name="composer">Dieter de la Motte</field>
-<field name="composerSort">Motte, Dieter de la</field>
+<field name="composer">Diether de La Motte</field>
+<field name="composerSort">La Motte, Diether de</field>
 <field name="year">1970</field>
 <field name="date">1970</field>
 <field name="librettist">Rolf Schneider</field>

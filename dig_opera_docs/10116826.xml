@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10116826</field>
 <field name="genre">Operas</field>
 <field name="title">Umsturz im Harem</field>
 <field name="titleSort">Umsturz im Harem</field>
-<field name="composer">R. Kurmann</field>
-<field name="composerSort">Kurmann, R.</field>
+<field name="composer">Robert Kurmann</field>
+<field name="composerSort">Kurmann, Robert</field>
 <field name="year">1921</field>
 <field name="date">1921</field>
 <field name="librettist">[Ludwig Richter] Lothar Ring</field>

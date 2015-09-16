@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10203045</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Oktobra oratorija</field>
@@ -7,8 +8,8 @@
 		
 		
 		<field name="date">1967</field>
-		<field name="composer">Imants Kalnins</field>
-		<field name="composerSort">Kalnins, Imants</field>
+		<field name="composer">Imants Kalniņš</field>
+		<field name="composerSort">Kalniņš, Imants</field>
 		<field name="librettist">Yevgeny Yevtushenko</field>
 		<field name="librettistSort">Yevtushenko, Yevgeny</field>
 		

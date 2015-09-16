@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10118008</field>
 <field name="genre">Operas</field>
 <field name="title">Télémaque</field>
 <field name="titleSort">Télémaque</field>
 <field name="composer">Jean-François Le Sueur</field>
-<field name="composerSort">Sueur, Jean-François Le</field>
+<field name="composerSort">Le Sueur, Jean-François</field>
 <field name="year">1796</field>
 <field name="date">1796</field>
 <field name="librettist">[__ Palat] P. Dercy</field>

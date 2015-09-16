@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10126343</field>
 <field name="genre">Operas</field>
 <field name="title">Doktor Matthäus</field>
 <field name="titleSort">Doktor Matthäus</field>
 <field name="composer">[Eduard Kreusch] C. E. Robert</field>
-<field name="composerSort">Robert, [Eduard Kreusch] C. E.</field>
+<field name="composerSort">Robert, C. E. [Eduard Kreusch]</field>
 <field name="year">1916</field>
 <field name="date">1916</field>
 <field name="librettist">[Eduard Kreusch] C. E. Robert</field>

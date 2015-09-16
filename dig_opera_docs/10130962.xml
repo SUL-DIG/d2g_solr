@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10130962</field>
 <field name="genre">Operas</field>
 <field name="title">Die von Humpenburg</field>
 <field name="titleSort">von Humpenburg</field>
 <field name="composer">[Karl Paumgarten] Friedrich von Thul</field>
-<field name="composerSort">Thul, [Karl Paumgarten] Friedrich von</field>
+<field name="composerSort">Thul, Friedrich von [Karl Paumgarten]</field>
 <field name="year">1884</field>
 <field name="date">1884</field>
 <field name="librettist">A. K. Vollmut</field>

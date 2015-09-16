@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131468</field>
 <field name="genre">Operas</field>
 <field name="title">Midas in kulaklari (The Ears of Midas)</field>
 <field name="titleSort">Midas in kulaklari (The Ears of Midas)</field>
-<field name="composer">Ferit Tuzun</field>
-<field name="composerSort">Tuzun, Ferit</field>
+<field name="composer">Ferit Tüzün</field>
+<field name="composerSort">Tüzün, Ferit</field>
 <field name="year">1969</field>
 <field name="date">1969</field>
 <field name="librettist">Güngör Dilmen</field>

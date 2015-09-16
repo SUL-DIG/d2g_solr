@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10120450</field>
 <field name="genre">Operas</field>
 <field name="title">Annalena</field>
 <field name="titleSort">Annalena</field>
-<field name="composer">Pietro Meucci di Signa</field>
-<field name="composerSort">Signa, Pietro Meucci di</field>
+<field name="composer">Pietro Meucci</field>
+<field name="composerSort">Meucci, Pietro</field>
 <field name="year">1893</field>
 <field name="date">1893</field>
 <field name="librettist">Francesco Marrucci</field>

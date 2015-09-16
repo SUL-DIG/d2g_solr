@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10203947</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Sanctus Petrus</field>
@@ -7,8 +8,8 @@
 		<field name="month">January</field>
 		<field name="day">8</field>
 		<field name="date">January 8, 1900</field>
-		<field name="composer">Paul Hartmann von Aue der Lan-Hochbrunn</field>
-		<field name="composerSort">Hartmann von Aue der Lan-Hochbrunn, Paul</field>
+		<field name="composer">Paul Hartmann von An der Lan-Hochbrunn</field>
+		<field name="composerSort">Hartmann von An der Lan-Hochbrunn, Paul</field>
 		<field name="librettist">Anton Müller</field>
 		<field name="librettistSort">Müller, Anton</field>
 		

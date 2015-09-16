@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10122689</field>
 <field name="genre">Operas</field>
 <field name="title">Jan Zhorelecký</field>
 <field name="titleSort">Jan Zhorelecký</field>
-<field name="composer">Otakar Ostrcil</field>
-<field name="composerSort">Ostrcil, Otakar</field>
+<field name="composer">Otakar Ostrčil</field>
+<field name="composerSort">Ostrčil, Otakar</field>
 <field name="year">1939</field>
 <field name="date">1939</field>
 <field name="librettist">Antonín Setelík</field>

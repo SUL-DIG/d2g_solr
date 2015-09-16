@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10120089</field>
 <field name="genre">Operas</field>
 <field name="title">Sprīdītis (Tom Thumb)</field>
 <field name="titleSort">Sprīdītis (Tom Thumb)</field>
-<field name="composer">Janis Medins</field>
-<field name="composerSort">Medins, Janis</field>
+<field name="composer">Jānis Mediņš</field>
+<field name="composerSort">Mediņš, Jānis</field>
 <field name="year">1927</field>
 <field name="date">1927</field>
 <field name="librettist">Anna Brigadere</field>

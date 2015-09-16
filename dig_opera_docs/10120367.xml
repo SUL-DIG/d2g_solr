@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10120367</field>
 <field name="genre">Operas</field>
 <field name="title">Alexandre aux Indes</field>
 <field name="titleSort">Alexandre aux Indes</field>
-<field name="composer">Nicolas-Jean Méreaux</field>
-<field name="composerSort">Méreaux, Nicolas-Jean</field>
+<field name="composer">Nicolas-Jean Le Froid de Méreaux</field>
+<field name="composerSort">Le Froid de Méreaux, Nicolas-Jean</field>
 <field name="year">1783</field>
 <field name="date">1783</field>
 <field name="librettist">Étienne Morel de Chédeville</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10110277</field>
 <field name="genre">Operas</field>
 <field name="title">L'officier français а l'armée</field>
 <field name="titleSort">officier français а l'armée</field>
 <field name="composer">Alphonse-Toussaint Fortia de Piles</field>
-<field name="composerSort">Piles, Alphonse-Toussaint Fortia de</field>
+<field name="composerSort">Fortia de Piles, Alphonse-Toussaint</field>
 <field name="year">1786</field>
 <field name="date">1786</field>
 <field name="librettist">Jean-François-Henri Collot</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10106078</field>
 <field name="genre">Operas</field>
 <field name="title">La vie de Jean Bart</field>
 <field name="titleSort">vie de Jean Bart</field>
 <field name="composer">[Mme. S. Pallier] Ferdinand Clausen</field>
-<field name="composerSort">Clausen, [Mme. S. Pallier] Ferdinand</field>
+<field name="composerSort">Clausen, Ferdinand [Mme. S. Pallier]</field>
 <field name="year">1900</field>
 <field name="date">1900</field><field name="theater">Théâtre Municipal</field>
 <field name="city">Dunkerque</field>

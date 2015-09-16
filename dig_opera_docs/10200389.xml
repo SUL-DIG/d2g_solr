@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10200389</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">La Bersabea</field>
@@ -8,7 +9,7 @@
 		
 		<field name="date">1686</field>
 		<field name="composer">Giulio d'Alessandri Chiapetta</field>
-		<field name="composerSort">d'Alessandri Chiapetta, Giulio</field>
+		<field name="composerSort">Alessandri Chiapetta, Giulio d'</field>
 		<field name="librettist">Michele Brugueres</field>
 		<field name="librettistSort">Brugueres, Michele</field>
 		

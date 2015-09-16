@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10110339</field>
 <field name="genre">Operas</field>
 <field name="title">La fleur de lotus</field>
 <field name="titleSort">fleur de lotus</field>
-<field name="composer">Georges Auguste Fragerolle</field>
-<field name="composerSort">Fragerolle, Georges Auguste</field>
+<field name="composer">Georges Fragerolle</field>
+<field name="composerSort">Fragerolle, Georges</field>
 <field name="year">1887</field>
 <field name="date">1887</field>
 <field name="librettist">Guillaume Livet</field>

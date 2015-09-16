@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107665</field>
 <field name="genre">Operas</field>
 <field name="title">Egbert, czyli Połączenie się Anglików</field>
 <field name="titleSort">Egbert, czyli Połączenie się Anglików</field>
-<field name="composer">Józef Deszczynski</field>
-<field name="composerSort">Deszczynski, Józef</field>
+<field name="composer">Józef Deszczyński</field>
+<field name="composerSort">Deszczyński, Józef</field>
 <field name="year">1810</field>
 <field name="date">1810</field>
 <field name="librettist">J. Wolski</field>

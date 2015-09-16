@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129233</field>
 <field name="genre">Operas</field>
 <field name="title">Columbus</field>
 <field name="titleSort">Columbus</field>
-<field name="composer">Frantisek Jan Skroup</field>
-<field name="composerSort">Skroup, Frantisek Jan</field>
+<field name="composer">František Jan Škroup</field>
+<field name="composerSort">Škroup, František Jan</field>
 <field name="year">1942</field>
 <field name="date">1942</field>
 <field name="librettist">Johann Karl Hickel</field>

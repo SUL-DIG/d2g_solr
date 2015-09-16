@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105598</field>
 <field name="genre">Operas</field>
 <field name="title">Hesperia</field>
 <field name="titleSort">Hesperia</field>
 <field name="composer">Ruperto Chapí y Llorente</field>
-<field name="composerSort">Llorente, Ruperto Chapí y</field>
+<field name="composerSort">Chapí y Llorente, Ruperto</field>
 <field name="year">1908</field>
 <field name="date">1908</field><field name="theater">Teatro Real</field>
 <field name="city">Madrid</field>

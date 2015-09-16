@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131819</field>
 <field name="genre">Operas</field>
 <field name="title">Kaupo</field>
 <field name="titleSort">Kaupo</field>
-<field name="composer">Adolph Vedro</field>
-<field name="composerSort">Vedro, Adolph</field>
+<field name="composer">Adolf Vedro</field>
+<field name="composerSort">Vedro, Adolf</field>
 <field name="year">1932</field>
 <field name="date">1932</field>
 <field name="librettist">Georg Tuksam</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107777</field>
 <field name="genre">Operas</field>
 <field name="title">Orfeo</field>
 <field name="titleSort">Orfeo</field>
 <field name="composer">Giuseppe Di Dia</field>
-<field name="composerSort">Dia, Giuseppe Di</field>
+<field name="composerSort">Di Dia, Giuseppe</field>
 <field name="year">1676</field>
 <field name="date">1676</field>
 <field name="librettist">Paolo Chirico</field>

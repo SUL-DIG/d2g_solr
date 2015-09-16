@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Paria</field>
 <field name="titleSort">Paria</field>
-<field name="composer">Stanislaw Moniuszko</field>
-<field name="composerSort">Moniuszko, Stanislaw</field>
+<field name="composer">Stanisław Moniuszko</field>
+<field name="composerSort">Moniuszko, Stanisław</field>
 <field name="year">1869</field>
 <field name="date">1869</field>
 <field name="librettist">Jan Chęciński</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117121</field>
 <field name="genre">Operas</field>
 <field name="title">Erode the Great</field>
 <field name="titleSort">Erode the Great</field>
 <field name="composer">John La Montaine</field>
-<field name="composerSort">Montaine, John La</field>
+<field name="composerSort">La Montaine, John</field>
 <field name="year">1969</field>
 <field name="date">1969</field>
 <field name="librettist">John La Montaine</field>

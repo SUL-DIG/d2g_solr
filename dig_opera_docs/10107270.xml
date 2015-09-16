@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107270</field>
 <field name="genre">Operas</field>
 <field name="title">Il cadetto di Guascogna</field>
 <field name="titleSort">cadetto di Guascogna</field>
 <field name="composer">Serafino De Ferrari</field>
-<field name="composerSort">Ferrari, Serafino De</field>
+<field name="composerSort">De Ferrari, Serafino</field>
 <field name="year">1864</field>
 <field name="date">1864</field>
 <field name="librettist">Raffaele Berninzone</field>

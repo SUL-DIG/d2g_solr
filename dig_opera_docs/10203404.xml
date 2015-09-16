@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10203404</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Il pianto de' discepoli nella morte di Gesù Cristo</field>
@@ -7,8 +8,8 @@
 		<field name="month">April</field>
 		<field name="day">13</field>
 		<field name="date">April 13, 1770</field>
-		<field name="composer">Bernardino Ottani</field>
-		<field name="composerSort">Ottani, Bernardino</field>
+		<field name="composer">Bernardo Ottani</field>
+		<field name="composerSort">Ottani, Bernardo</field>
 		
 		
 		

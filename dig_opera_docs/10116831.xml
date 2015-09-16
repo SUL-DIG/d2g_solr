@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10116831</field>
 <field name="genre">Operas</field>
 <field name="title">Jan Kochanowski w Czarnym Lesie</field>
 <field name="titleSort">Jan Kochanowski w Czarnym Lesie</field>
-<field name="composer">Karol Kazimierz Kurpinski</field>
-<field name="composerSort">Kurpinski, Karol Kazimierz</field>
+<field name="composer">Karol Kazimierz Kurpiński</field>
+<field name="composerSort">Kurpiński, Karol Kazimierz</field>
 <field name="year">1817</field>
 <field name="date">1817</field>
 <field name="librettist">Julian Ursyn Niemcewicz</field>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107801</field>
 <field name="genre">Operas</field>
 <field name="title">L'allegra brigata</field>
 <field name="titleSort">allegra brigata</field>
 <field name="composer">Giuseppe Di Franco</field>
-<field name="composerSort">Franco, Giuseppe Di</field>
+<field name="composerSort">Di Franco, Giuseppe</field>
 <field name="year">1911</field>
 <field name="date">1911</field>
 <field name="librettist">Angelo Monici</field>

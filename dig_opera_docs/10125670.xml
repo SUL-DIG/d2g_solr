@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10125670</field>
 <field name="genre">Operas</field>
 <field name="title">Das Bett der Pompadour</field>
 <field name="titleSort">Bett der Pompadour</field>
 <field name="composer">[Friedrich Raimund Vesely] Fred Raymond</field>
-<field name="composerSort">Raymond, [Friedrich Raimund Vesely] Fred</field>
+<field name="composerSort">Raymond, Fred [Friedrich Raimund Vesely]</field>
 <field name="year">1939</field>
 <field name="date">1939</field>
 <field name="librettist">Max Wallner</field>

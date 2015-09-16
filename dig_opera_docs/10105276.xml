@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105276</field>
 <field name="genre">Operas</field>
 <field name="title">La légende de Rudel</field>
 <field name="titleSort">légende de Rudel</field>
 <field name="composer">Ricardo Castro Herrera</field>
-<field name="composerSort">Herrera, Ricardo Castro</field>
+<field name="composerSort">Castro Herrera, Ricardo</field>
 <field name="year">1906</field>
 <field name="date">1906</field>
 <field name="librettist">Henri Brody</field>

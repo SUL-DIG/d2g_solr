@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107685</field>
 <field name="genre">Operas</field>
 <field name="title">Déborah</field>
 <field name="titleSort">Déborah</field>
-<field name="composer">Jean-Adolphe-Hippolyte Devin-Duvivier</field>
-<field name="composerSort">Devin-Duvivier, Jean-Adolphe-Hippolyte</field>
+<field name="composer">Adolphe Devin-Duvivier</field>
+<field name="composerSort">Devin-Duvivier, Adolphe</field>
 <field name="year">1867</field>
 <field name="date">1867</field>
 <field name="librettist">Adolphe Favre</field>

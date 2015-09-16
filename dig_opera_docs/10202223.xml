@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10202223</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Job</field>
@@ -7,8 +8,8 @@
 		<field name="month">March</field>
 		<field name="day">3</field>
 		<field name="date">March 3, 1913</field>
-		<field name="composer">Josef Nesvera</field>
-		<field name="composerSort">Nesvera, Josef</field>
+		<field name="composer">Josef Nešvera</field>
+		<field name="composerSort">Nešvera, Josef</field>
 		
 		
 		

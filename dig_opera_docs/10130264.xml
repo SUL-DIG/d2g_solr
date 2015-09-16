@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10130264</field>
 <field name="genre">Operas</field>
 <field name="title">The Silver Slipper</field>
 <field name="titleSort">Silver Slipper</field>
 <field name="composer">[Thomas Augustine Barrett] Leslie Stuart</field>
-<field name="composerSort">Stuart, [Thomas Augustine Barrett] Leslie</field>
+<field name="composerSort">Stuart, Leslie [Thomas Augustine Barrett]</field>
 <field name="year">1901</field>
 <field name="date">1901</field>
 <field name="librettist">[James Davis] Owen Hall</field>
