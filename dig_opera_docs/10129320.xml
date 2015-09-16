@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10129320</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1964</field>
 <field name="librettist">J. M. Prusa</field>
 <field name="librettistSort">Prusa, J. M.</field>
-<field name="librettist">Karel Capek</field>
-<field name="librettistSort">Capek, Karel</field>
+<field name="librettist">Karel Čapek</field>
+<field name="librettistSort">Čapek, Karel</field>
 <field name="theater">Czech Television (Ceska Televize)</field>
 <field name="city">Prague</field>
 

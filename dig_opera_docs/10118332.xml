@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10118332</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Logar, Mihovil</field>
 <field name="year">1956</field>
 <field name="date">1956</field>
-<field name="librettist">Jovan Sterija Popovic</field>
-<field name="librettistSort">Popovic, Jovan Sterija</field>
+<field name="librettist">Jovan Sterija Popović</field>
+<field name="librettistSort">Popović, Jovan Sterija</field>
 <field name="theater">Narodno Pozorista</field>
 <field name="city">Belgrade</field>
 

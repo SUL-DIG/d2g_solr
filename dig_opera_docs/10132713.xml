@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10132713</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1934</field>
 <field name="librettist">Bohumir Polách</field>
 <field name="librettistSort">Polách, Bohumir</field>
-<field name="librettist">Jirí Zalman</field>
-<field name="librettistSort">Zalman, Jirí</field>
+<field name="librettist">Jiří Žalman</field>
+<field name="librettistSort">Žalman, Jiří</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>

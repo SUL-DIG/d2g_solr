@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<add><doc>
 		<field name="id">10204373</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Lo sposalizio di San Gioseffo con Maria Vergine</field>
@@ -9,8 +9,8 @@
 		<field name="date">1706</field>
 		<field name="composer">Pietro Giuseppe Sandoni</field>
 		<field name="composerSort">Sandoni, Pietro Giuseppe</field>
-		<field name="librettist">F. Marmocchi</field>
-		<field name="librettistSort">Marmocchi, F.</field>
+		<field name="librettist">Francesco Marmocchi</field>
+		<field name="librettistSort">Marmocchi, Francesco</field>
 		
 		
 		<field name="city">Bologna</field>

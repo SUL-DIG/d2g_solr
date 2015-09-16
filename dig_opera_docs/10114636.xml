@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10114636</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Horký, Karel</field>
 <field name="year">1969</field>
 <field name="date">1969</field>
-<field name="librettist">Václav Renc</field>
-<field name="librettistSort">Renc, Václav</field>
-<field name="librettist">Milos Rejnus</field>
-<field name="librettistSort">Rejnus, Milos</field>
+<field name="librettist">Václav Renč</field>
+<field name="librettistSort">Renč, Václav</field>
+<field name="librettist">Miloš Rejnuš</field>
+<field name="librettistSort">Rejnuš, Miloš</field>
 <field name="theater">Janáckova Opera</field>
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>

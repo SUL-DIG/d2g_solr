@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10117999</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Lessel, Wincenty Ferdynand</field>
 <field name="year">1820</field>
 <field name="date">1820</field>
-<field name="librettist">Adam Klodzinski</field>
-<field name="librettistSort">Klodzinski, Adam</field>
+<field name="librettist">Adam Kłodziński</field>
+<field name="librettistSort">Kłodziński, Adam</field>
 
 <field name="city">Sieniawa</field>
 <field name="region">Podkarpackie</field>

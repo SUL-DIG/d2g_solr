@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10122847</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1823</field>
 <field name="librettist">Luigi Romanelli</field>
 <field name="librettistSort">Romanelli, Luigi</field>
-<field name="librettist">Victor Joseph Étienne de Jouy</field>
-<field name="librettistSort">Jouy, Victor Joseph Étienne de</field>
+<field name="librettist">Étienne de Jouy</field>
+<field name="librettistSort">Jouy, Étienne de</field>
 <field name="theater">Teatro alla Scala</field>
 <field name="city">Milan</field>
 <field name="region">Lombardia</field>

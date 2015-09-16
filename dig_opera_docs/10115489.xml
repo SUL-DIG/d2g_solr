@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10115489</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1717</field>
 <field name="librettist">Johann Gottlob Dietrich</field>
 <field name="librettistSort">Dietrich, Johann Gottlob</field>
-<field name="librettist">Antoine Houdar de Lamotte</field>
-<field name="librettistSort">Lamotte, Antoine Houdar de</field>
+<field name="librettist">Antoine Houdar de La Motte</field>
+<field name="librettistSort">La Motte, Antoine Houdar de</field>
 <field name="theater">Schauplatz</field>
 <field name="city">Durlach</field>
 <field name="region">Baden-Württemberg</field>

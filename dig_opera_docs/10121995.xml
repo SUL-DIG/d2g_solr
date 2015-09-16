@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10121995</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1919</field>
 <field name="librettist">Ida Schneider</field>
 <field name="librettistSort">Schneider, Ida</field>
-<field name="librettist">Ivo Vojnovic</field>
-<field name="librettistSort">Vojnovic, Ivo</field>
+<field name="librettist">Ivo Vojnović</field>
+<field name="librettistSort">Vojnović, Ivo</field>
 <field name="theater">Deutsches Oper</field>
 <field name="city">Charlottenburg</field>
 <field name="region">Berlin</field>

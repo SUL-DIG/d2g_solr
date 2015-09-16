@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10115603</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Kalnins, Imants</field>
 <field name="year">1982</field>
 <field name="date">1982</field>
-<field name="librettist">[Viktors Kalnins] Viks</field>
-<field name="librettistSort">Viks, [Viktors Kalnins]</field>
+<field name="librettist">[Viktors Kalniņš] Viks</field>
+<field name="librettistSort">Viks, [Viktors Kalniņš]</field>
 <field name="theater">Latviyskiy Teatr Operï i Baleta</field>
 <field name="city">Riga</field>
 

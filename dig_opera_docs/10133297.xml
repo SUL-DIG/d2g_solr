@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10133297</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Zajc, Ivan</field>
 <field name="year">1896</field>
 <field name="date">1896</field>
-<field name="librettist">August Harambasic</field>
-<field name="librettistSort">Harambasic, August</field>
-<field name="librettist">Stjepan Miletic</field>
-<field name="librettistSort">Miletic, Stjepan</field>
+<field name="librettist">August Harambašić</field>
+<field name="librettistSort">Harambašić, August</field>
+<field name="librettist">Stjepan Miletić</field>
+<field name="librettistSort">Miletić, Stjepan</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Zagreb</field>
 

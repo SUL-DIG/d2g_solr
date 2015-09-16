@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10116709</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1949</field>
 <field name="librettist">Lev Václav Pohl</field>
 <field name="librettistSort">Pohl, Lev Václav</field>
-<field name="librettist">Ladislav Stroupeznický</field>
-<field name="librettistSort">Stroupeznický, Ladislav</field>
+<field name="librettist">Ladislav Stroupežnický</field>
+<field name="librettistSort">Stroupežnický, Ladislav</field>
 <field name="theater">Státní divadlo Zdenka Nejedlého</field>
 <field name="city">Ostrava</field>
 <field name="region">Severomoravsky Kraj</field>

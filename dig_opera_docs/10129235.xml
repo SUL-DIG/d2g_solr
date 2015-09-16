@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10129235</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Skroup, Frantisek Jan</field>
 <field name="year">1848</field>
 <field name="date">1848</field>
-<field name="librettist">Václav Alois Svoboda-Navarovský</field>
-<field name="librettistSort">Svoboda-Navarovský, Václav Alois</field>
+<field name="librettist">Václav Alois Svoboda</field>
+<field name="librettistSort">Svoboda, Václav Alois</field>
 <field name="theater">Prozatímní Divadlo</field>
 <field name="city">Prague</field>
 

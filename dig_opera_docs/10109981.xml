@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10109981</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1984</field>
 <field name="librettist">Jan Frank Fischer</field>
 <field name="librettistSort">Fischer, Jan Frank</field>
-<field name="librettist">Oldrich Danek</field>
-<field name="librettistSort">Danek, Oldrich</field>
+<field name="librettist">Oldřich Daněk</field>
+<field name="librettistSort">Daněk, Oldřich</field>
 <field name="theater">Smetanovo Divadlo</field>
 <field name="city">Prague</field>
 

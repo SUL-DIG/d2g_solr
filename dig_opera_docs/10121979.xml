@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10121979</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Neumann, __</field>
 <field name="year">1837</field>
 <field name="date">1837</field>
-<field name="librettist">Johann Josef Reiff</field>
-<field name="librettistSort">Reiff, Johann Josef</field>
+<field name="librettist">Johann Joseph Reiff</field>
+<field name="librettistSort">Reiff, Johann Joseph</field>
 
 <field name="city">Koblenz</field>
 <field name="region">Rheinland-Pfalz</field>

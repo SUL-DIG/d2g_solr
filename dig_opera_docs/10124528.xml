@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10124528</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Podést, Ludvík</field>
 <field name="year">1960</field>
 <field name="date">1960</field>
-<field name="librettist">Vladimír Dubsky</field>
-<field name="librettistSort">Dubsky, Vladimír</field>
+<field name="librettist">Vladimír Dubský</field>
+<field name="librettistSort">Dubský, Vladimír</field>
 <field name="librettist">Josef Barchánek</field>
 <field name="librettistSort">Barchánek, Josef</field>
 <field name="theater">Divadlo na Fidlovacce</field>

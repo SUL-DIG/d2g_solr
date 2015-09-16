@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10113224</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Hába, Karel</field>
 <field name="year">1950</field>
 <field name="date">1950</field>
-<field name="librettist">Václav Ctvrtek</field>
-<field name="librettistSort">Ctvrtek, Václav</field>
+<field name="librettist">[Václav Cafourek] Václav Čtvrtek</field>
+<field name="librettistSort">Čtvrtek, Václav [Václav Cafourek]</field>
 <field name="theater">Radio Praga</field>
 <field name="city">Prague</field>
 

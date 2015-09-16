@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10130251</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Strunz, Joseph</field>
 <field name="year">1818</field>
 <field name="date">1818</field>
-<field name="librettist">Victor Joseph Étienne de Jouy</field>
-<field name="librettistSort">Jouy, Victor Joseph Étienne de</field>
+<field name="librettist">Étienne de Jouy</field>
+<field name="librettistSort">Jouy, Étienne de</field>
 <field name="librettist">Nicolas Gersin</field>
 <field name="librettistSort">Gersin, Nicolas</field>
 <field name="theater">Opéra-Comique</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10108835</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Elsner, Józef</field>
 <field name="year">1797</field>
 <field name="date">1797</field>
-<field name="librettist">Wojciech Boguslawski</field>
-<field name="librettistSort">Boguslawski, Wojciech</field>
+<field name="librettist">Wojciech Bogusławski</field>
+<field name="librettistSort">Bogusławski, Wojciech</field>
 <field name="theater">Boguslawski's Theater</field>
 <field name="city">L'viv</field>
 <field name="region">L'vivs'ka Oblast</field>

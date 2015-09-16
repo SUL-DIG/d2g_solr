@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10130597</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Tansman, Alexandre</field>
 <field name="year">1955</field>
 <field name="date">1955</field>
-<field name="librettist">[Mlle. Obey &amp; Mme. A.-M. Jullien] Dominique Vincent</field>
-<field name="librettistSort">Vincent, Dominique [Mlle. Obey &amp; Mme. A.-M. Jullien]</field>
+<field name="librettist">[Mme. A.-M. Jullien] Dominique Vincent</field>
+<field name="librettistSort">Vincent, Dominique [Mme. A.-M. Jullien]</field>
 <field name="librettist">Honoré de Balzac</field>
 <field name="librettistSort">Balzac, Honoré de</field>
 <field name="theater">Théâtre-Royal de la Monnaie</field>

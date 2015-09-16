@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10121093</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Moor, Karel</field>
 <field name="year">1905</field>
 <field name="date">1905</field>
-<field name="librettist">Frantisek Khol</field>
-<field name="librettistSort">Khol, Frantisek</field>
+<field name="librettist">František Khol</field>
+<field name="librettistSort">Khol, František</field>
 <field name="librettist">Henrik Ibsen</field>
 <field name="librettistSort">Ibsen, Henrik</field>
 <field name="theater">Národní Divadlo</field>

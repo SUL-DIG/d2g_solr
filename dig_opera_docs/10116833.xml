@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10116833</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Kurpinski, Karol Kazimierz</field>
 <field name="year">1821</field>
 <field name="date">1821</field>
-<field name="librettist">Józef Korwin Krasinski</field>
-<field name="librettistSort">Krasinski, Józef Korwin</field>
+<field name="librettist">Józef Korwin-Krasiński</field>
+<field name="librettistSort">Korwin-Krasiński, Józef</field>
 <field name="theater">Teatr Narodowy</field>
 <field name="city">Warsaw</field>
 

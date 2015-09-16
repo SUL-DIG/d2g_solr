@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10106982</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1982</field>
 <field name="librettist">Leon Janowicz</field>
 <field name="librettistSort">Janowicz, Leon</field>
-<field name="librettist">Konstanty Ildefons Galczynski</field>
-<field name="librettistSort">Galczynski, Konstanty Ildefons</field>
+<field name="librettist">Konstanty Ildefons Gałczyński</field>
+<field name="librettistSort">Gałczyński, Konstanty Ildefons</field>
 <field name="theater">Teatr Wielki</field>
 <field name="city">Warsaw</field>
 

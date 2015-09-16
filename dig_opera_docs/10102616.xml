@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10102616</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Bernicat, Firmin</field>
 <field name="year">1869</field>
 <field name="date">1869</field>
-<field name="librettist">[G. Delafontaine] Gédhé</field>
-<field name="librettistSort">Gédhé, [G. Delafontaine]</field>
+<field name="librettist">[Georges Delafontaine] Céhem-Gédhé</field>
+<field name="librettistSort">Céhem-Gédhé, [Georges Delafontaine]</field>
 <field name="theater">Théâtre de l'Alcazar</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>

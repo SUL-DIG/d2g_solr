@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10123224</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Papavoine, __</field>
 <field name="year">1760</field>
 <field name="date">1760</field>
-<field name="librettist">Antoine-Jacques Labbet de Morambert</field>
-<field name="librettistSort">Morambert, Antoine-Jacques Labbet de</field>
+<field name="librettist">Antoine-Jacques Labbet</field>
+<field name="librettistSort">Labbet, Antoine-Jacques</field>
 <field name="librettist">François-Joseph de Lagrange-Chancel</field>
 <field name="librettistSort">Lagrange-Chancel, François-Joseph de</field>
 <field name="theater">Comédie-Italienne</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10117834</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Lemoyne, Jean-Baptiste</field>
 <field name="year">1789</field>
 <field name="date">1789</field>
-<field name="librettist">François Benoît Hoffman</field>
-<field name="librettistSort">Hoffman, François Benoît</field>
+<field name="librettist">François-Benoît Hoffman</field>
+<field name="librettistSort">Hoffman, François-Benoît</field>
 <field name="librettist">Thomas Corneille</field>
 <field name="librettistSort">Corneille, Thomas</field>
 <field name="theater">Opéra</field>

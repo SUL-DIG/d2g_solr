@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10125449</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Ragué, Louis-Charles</field>
 <field name="year">1786</field>
 <field name="date">1786</field>
-<field name="librettist">Barnabé Farmian de Rosoi</field>
-<field name="librettistSort">Rosoi, Barnabé Farmian de</field>
+<field name="librettist">Barnabé Farmian Durosoy</field>
+<field name="librettistSort">Durosoy, Barnabé Farmian</field>
 <field name="librettist">Johann Jacob Engel</field>
 <field name="librettistSort">Engel, Johann Jacob</field>
 <field name="theater">Comédie-Italienne</field>

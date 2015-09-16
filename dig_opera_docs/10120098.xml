@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10120098</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Méhul, Étienne-Nicolas</field>
 <field name="year">1799</field>
 <field name="date">1799</field>
-<field name="librettist">François Benoît Hoffman</field>
-<field name="librettistSort">Hoffman, François Benoît</field>
+<field name="librettist">François-Benoît Hoffman</field>
+<field name="librettistSort">Hoffman, François-Benoît</field>
 <field name="librettist">Pietro Metastasio</field>
 <field name="librettistSort">Metastasio, Pietro</field>
 <field name="theater">Opéra</field>

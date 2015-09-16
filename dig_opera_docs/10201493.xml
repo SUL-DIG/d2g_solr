@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<add><doc>
 		<field name="id">10201493</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Gerusalemme destrutta da Tito</field>
@@ -9,8 +9,8 @@
 		<field name="date">1691</field>
 		<field name="composer">Giovanni Lorenzo Cattani</field>
 		<field name="composerSort">Cattani, Giovanni Lorenzo</field>
-		<field name="librettist">Antonio da Fineschi Radda</field>
-		<field name="librettistSort">Fineschi Radda, Antonio da</field>
+		<field name="librettist">Antonio Fineschi Radda</field>
+		<field name="librettistSort">Fineschi Radda, Antonio</field>
 		<field name="librettist">Flavius Josephus</field>
 		<field name="librettistSort">Josephus, Flavius</field>
 		

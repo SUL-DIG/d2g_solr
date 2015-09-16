@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10121096</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Moor, Karel</field>
 <field name="year">1933</field>
 <field name="date">1933</field>
-<field name="librettist">A. Prerovský-Caletka</field>
-<field name="librettistSort">Prerovský-Caletka, A.</field>
+<field name="librettist">A. Přerovský-Caletka</field>
+<field name="librettistSort">Přerovský-Caletka, A.</field>
 
 <field name="city">Prague</field>
 

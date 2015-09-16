@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10120242</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1869</field>
 <field name="librettist">Giuseppe Sapio</field>
 <field name="librettistSort">Sapio, Giuseppe</field>
-<field name="librettist">François René de Chateaubriand</field>
-<field name="librettistSort">Chateaubriand, François René de</field>
+<field name="librettist">François-René de Chateaubriand</field>
+<field name="librettistSort">Chateaubriand, François-René de</field>
 <field name="theater">Teatro Alarcón</field>
 <field name="city">Guadalajara</field>
 <field name="region">Jalisco</field>

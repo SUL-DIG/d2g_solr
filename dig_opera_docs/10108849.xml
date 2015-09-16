@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10108849</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1808</field>
 <field name="librettist">Alexander Huisson</field>
 <field name="librettistSort">Huisson, Alexander</field>
-<field name="librettist">Augustin-François Creuzé de Lesser</field>
-<field name="librettistSort">Creuzé de Lesser, Augustin-François</field>
+<field name="librettist">Auguste Creuzé de Lesser</field>
+<field name="librettistSort">Creuzé de Lesser, Auguste</field>
 <field name="theater">Teatr Narodowy</field>
 <field name="city">Warsaw</field>
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10112934</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Guerrieri, Fulgenzio</field>
 <field name="year">1893</field>
 <field name="date">1893</field>
-<field name="librettist">__ Andressi</field>
-<field name="librettistSort">Andressi, __</field>
+<field name="librettist">Federico Carbonetti</field>
+<field name="librettistSort">Carbonetti, Federico</field>
 <field name="theater">Teatro Andreani</field>
 <field name="city">Mantua</field>
 <field name="region">Lombardia</field>

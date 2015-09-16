@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10111294</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Gaveaux, Pierre</field>
 <field name="year">1798</field>
 <field name="date">1798</field>
-<field name="librettist">Guillaume Denis Thomas Levrier Champ-Rion</field>
-<field name="librettistSort">Champ-Rion, Guillaume Denis Thomas Levrier</field>
+<field name="librettist">Guillaume-Denis-Thomas Levrier Champ-Rion</field>
+<field name="librettistSort">Levrier Champ-Rion, Guillaume-Denis-Thomas</field>
 <field name="theater">Théâtre des Amis des Arts</field>
 <field name="city">Paris</field>
 

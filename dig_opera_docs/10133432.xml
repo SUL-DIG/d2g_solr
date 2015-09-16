@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10133432</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Zelinka, Jan Evangelista</field>
 <field name="year">1960</field>
 <field name="date">1960</field>
-<field name="librettist">Frantisek Doubrava</field>
-<field name="librettistSort">Doubrava, Frantisek</field>
+<field name="librettist">František Doubrava</field>
+<field name="librettistSort">Doubrava, František</field>
 <field name="librettist">Carlo Goldoni</field>
 <field name="librettistSort">Goldoni, Carlo</field>
 <field name="theater">Czech Radio</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10101793</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1982</field>
 <field name="librettist">Anghel Ionescu Arbore</field>
 <field name="librettistSort">Ionescu Arbore, Anghel</field>
-<field name="librettist">Mircea Stefanescu</field>
-<field name="librettistSort">Stefanescu, Mircea</field>
+<field name="librettist">Mircea Ștefănescu</field>
+<field name="librettistSort">Ștefănescu, Mircea</field>
 <field name="theater">Opera de Stat</field>
 <field name="city">Iasi</field>
 <field name="region">Iasi</field>

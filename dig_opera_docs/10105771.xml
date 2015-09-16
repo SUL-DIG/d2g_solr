@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10105771</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1893</field>
 <field name="librettist">Louis Dourel-Roydel</field>
 <field name="librettistSort">Dourel-Roydel, Louis</field>
-<field name="librettist">Lucien Février</field>
-<field name="librettistSort">Février, Lucien</field>
+<field name="librettist">L. Février</field>
+<field name="librettistSort">Février, L.</field>
 <field name="theater">Théâtre de l'Alcazar</field>
 <field name="city">Tours</field>
 <field name="region">Indre-et-Loire</field>

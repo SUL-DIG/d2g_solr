@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10104174</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Brkanovic, Ivan</field>
 <field name="year">1950</field>
 <field name="date">1950</field>
-<field name="librettist">Tomislav Prpic</field>
-<field name="librettistSort">Prpic, Tomislav</field>
-<field name="librettist">Ivo Vojnovic</field>
-<field name="librettistSort">Vojnovic, Ivo</field>
+<field name="librettist">Tomislav Prpić</field>
+<field name="librettistSort">Prpić, Tomislav</field>
+<field name="librettist">Ivo Vojnović</field>
+<field name="librettistSort">Vojnović, Ivo</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Zagreb</field>
 

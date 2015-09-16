@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10123661</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1989</field>
 <field name="librettist">Krystna Meissner</field>
 <field name="librettistSort">Meissner, Krystna</field>
-<field name="librettist">Slawomir Mrozek</field>
-<field name="librettistSort">Mrozek, Slawomir</field>
+<field name="librettist">Sławomir Mrożek</field>
+<field name="librettistSort">Mrożek, Sławomir</field>
 
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wyspa+róz+Rose+Island+Zbigniew+Penherski&amp;search_field=search</field>

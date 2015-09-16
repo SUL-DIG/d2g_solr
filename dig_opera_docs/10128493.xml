@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10128493</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Schulhoff, Ervín</field>
 <field name="year">1932</field>
 <field name="date">1932</field>
-<field name="librettist">Karel Josef Benes</field>
-<field name="librettistSort">Benes, Karel Josef</field>
+<field name="librettist">Karel Josef Beneš</field>
+<field name="librettistSort">Beneš, Karel Josef</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>

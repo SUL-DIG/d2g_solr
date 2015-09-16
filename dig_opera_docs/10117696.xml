@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10117696</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1796</field>
 <field name="librettist">François-Pierre-Auguste Léger</field>
 <field name="librettistSort">Léger, François-Pierre-Auguste</field>
-<field name="librettist">Jean François Cailhava d'Estandoux</field>
-<field name="librettistSort">Cailhava d'Estandoux, Jean François</field>
+<field name="librettist">Jean-François Cailhava de L’Estandoux</field>
+<field name="librettistSort">Cailhava de L’Estandoux, Jean-François</field>
 <field name="theater">Théâtre du Vaudeville</field>
 <field name="city">Paris</field>
 

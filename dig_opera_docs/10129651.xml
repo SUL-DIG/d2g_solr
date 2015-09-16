@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10129651</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Spontini, Gasparo</field>
 <field name="year">1804</field>
 <field name="date">1804</field>
-<field name="librettist">Victor Joseph Étienne de Jouy</field>
-<field name="librettistSort">Jouy, Victor Joseph Étienne de</field>
+<field name="librettist">Étienne de Jouy</field>
+<field name="librettistSort">Jouy, Étienne de</field>
 <field name="librettist">Michel Dieulafoy</field>
 <field name="librettistSort">Dieulafoy, Michel</field>
 <field name="theater">Opéra-Comique</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10115156</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Janácek, Leos</field>
 <field name="year">1921</field>
 <field name="date">1921</field>
-<field name="librettist">Leos Janácek</field>
-<field name="librettistSort">Janácek, Leos</field>
+<field name="librettist">Leoš Janáček</field>
+<field name="librettistSort">Janáček, Leoš</field>
 <field name="librettist">Aleksandr Nikolayevich Ostrovsky</field>
 <field name="librettistSort">Ostrovsky, Aleksandr Nikolayevich</field>
 <field name="theater">Národní Divadlo</field>

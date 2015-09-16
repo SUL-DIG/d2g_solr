@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10114719</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Hristic, Stevan</field>
 <field name="year">1925</field>
 <field name="date">1925</field>
-<field name="librettist">Ivo Vojnovic</field>
-<field name="librettistSort">Vojnovic, Ivo</field>
+<field name="librettist">Ivo Vojnović</field>
+<field name="librettistSort">Vojnović, Ivo</field>
 <field name="theater">Narodno Pozorista</field>
 <field name="city">Belgrade</field>
 

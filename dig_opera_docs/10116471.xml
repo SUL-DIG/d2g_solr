@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10116471</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Kozina, Marjan</field>
 <field name="year">1946</field>
 <field name="date">1946</field>
-<field name="librettist">Ivo Vojnovic</field>
-<field name="librettistSort">Vojnovic, Ivo</field>
+<field name="librettist">Ivo Vojnović</field>
+<field name="librettistSort">Vojnović, Ivo</field>
 <field name="theater">Slovensko Dazelno Gledalisce</field>
 <field name="city">Ljubljana</field>
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10129432</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1802</field>
 <field name="librettist">François-Pierre-Auguste Léger</field>
 <field name="librettistSort">Léger, François-Pierre-Auguste</field>
-<field name="librettist">René-André-Polydore Alissan de Chazet</field>
-<field name="librettistSort">Chazet, René-André-Polydore Alissan de</field>
+<field name="librettist">René de Chazet</field>
+<field name="librettistSort">Chazet, René de</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10129104</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Sigwart, [Sigwart Botho zu Eulenburg] Botho</field>
 <field name="year">1915</field>
 <field name="date">1915</field>
-<field name="librettist">[Sigwart Botho zu Eulenburg] Botho Sigwart</field>
-<field name="librettistSort">Sigwart, Botho [Sigwart Botho zu Eulenburg]</field>
+<field name="librettist">Botho Sigwart zu Eulenburg</field>
+<field name="librettistSort">Eulenburg, Botho Sigwart zu</field>
 <field name="librettist">Ernst von Wildenbruch</field>
 <field name="librettistSort">Wildenbruch, Ernst von</field>
 <field name="theater">Hoftheater</field>

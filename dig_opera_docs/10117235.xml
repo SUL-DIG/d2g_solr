@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10117235</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Langlé, Honoré</field>
 <field name="year">1786</field>
 <field name="date">1786</field>
-<field name="librettist">Barnabé Farmian de Rosoi</field>
-<field name="librettistSort">Rosoi, Barnabé Farmian de</field>
+<field name="librettist">Barnabé Farmian Durosoy</field>
+<field name="librettistSort">Durosoy, Barnabé Farmian</field>
 <field name="theater">Château de Versailles</field>
 <field name="city">Versailles</field>
 <field name="region">Yvelines</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10105558</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Champein, Stanislas</field>
 <field name="year">1809</field>
 <field name="date">1809</field>
-<field name="librettist">Jean-Henri-Ferdinand La Martellière</field>
-<field name="librettistSort">La Martellière, Jean-Henri-Ferdinand</field>
+<field name="librettist">Jean-Henri-Ferdinand Lamartellière</field>
+<field name="librettistSort">Lamartellière, Jean-Henri-Ferdinand</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 

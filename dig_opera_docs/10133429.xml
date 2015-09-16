@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10133429</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Zelinka, Jan Evangelista</field>
 <field name="year">1931</field>
 <field name="date">1931</field>
-<field name="librettist">Ruzena Jesenská</field>
-<field name="librettistSort">Jesenská, Ruzena</field>
+<field name="librettist">Růžena Jesenská</field>
+<field name="librettistSort">Jesenská, Růžena</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Prague</field>
 

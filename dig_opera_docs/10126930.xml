@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10126930</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Rózycki, Ludomir</field>
 <field name="year">1914</field>
 <field name="date">1914</field>
-<field name="librettist">Jerzy Zulawski</field>
-<field name="librettistSort">Zulawski, Jerzy</field>
+<field name="librettist">Jerzy Żuławski</field>
+<field name="librettistSort">Żuławski, Jerzy</field>
 <field name="theater">Stadttheater</field>
 <field name="city">Wroclaw</field>
 <field name="region">Dolnoslaskie</field>

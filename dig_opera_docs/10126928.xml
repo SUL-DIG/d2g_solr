@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10126928</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1909</field>
 <field name="librettist">Alexander Bandrowski-Sas</field>
 <field name="librettistSort">Bandrowski-Sas, Alexander</field>
-<field name="librettist">Stanislaw Wyspianski</field>
-<field name="librettistSort">Wyspianski, Stanislaw</field>
+<field name="librettist">Stanisław Wyspiański</field>
+<field name="librettistSort">Wyspiański, Stanisław</field>
 <field name="theater">Teatr Miejski</field>
 <field name="city">L'viv</field>
 <field name="region">L'vivs'ka Oblast</field>

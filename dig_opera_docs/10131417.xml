@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10131417</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Trojan, Václav</field>
 <field name="year">1951</field>
 <field name="date">1951</field>
-<field name="librettist">Frantisek Rachlík</field>
-<field name="librettistSort">Rachlík, Frantisek</field>
+<field name="librettist">František Rachlík</field>
+<field name="librettistSort">Rachlík, František</field>
 <field name="librettist">Josef Kajetán Tyl</field>
 <field name="librettistSort">Tyl, Josef Kajetán</field>
 <field name="theater">Karlín State Theater</field>

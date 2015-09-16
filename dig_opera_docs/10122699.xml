@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10122699</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Ots, Charles</field>
 <field name="year">1808</field>
 <field name="date">1808</field>
-<field name="librettist">Jean François Cailhava d'Estandoux</field>
-<field name="librettistSort">d'Estandoux, Jean François Cailhava</field>
+<field name="librettist">Jean-François Cailhava de L’Estandoux</field>
+<field name="librettistSort">Cailhava de L’Estandoux, Jean-François</field>
 <field name="theater">Théâtre-Royal de la Monnaie</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>

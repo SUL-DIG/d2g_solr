@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<add><doc>
 		<field name="id">10202770</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">La mort d'Abel</field>
@@ -9,8 +9,8 @@
 		<field name="date">1787</field>
 		<field name="composer">Louis-Sébastien Lebrun</field>
 		<field name="composerSort">Lebrun, Louis-Sébastien</field>
-		<field name="librettist">Jean Jacques Le Franc de Pompignan</field>
-		<field name="librettistSort">Le Franc de Pompignan, Jean</field>
+		<field name="librettist">Jean-Jacques Le Franc de Pompignan</field>
+		<field name="librettistSort">Le Franc de Pompignan, Jean-Jacques</field>
 		
 		<field name="theater">Concert spirituel</field>
 		<field name="city">Paris</field>

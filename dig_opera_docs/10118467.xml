@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10118467</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1839</field>
 <field name="librettist">Albert Lortzing</field>
 <field name="librettistSort">Lortzing, Albert</field>
-<field name="librettist">Amable Villain de Saint-Hilaire</field>
-<field name="librettistSort">Saint-Hilaire, Amable Villain de</field>
+<field name="librettist">Amable de Saint-Hilaire</field>
+<field name="librettistSort">Saint-Hilaire, Amable de</field>
 <field name="theater">Altes Stadttheater</field>
 <field name="city">Leipzig</field>
 <field name="region">Sachsen</field>

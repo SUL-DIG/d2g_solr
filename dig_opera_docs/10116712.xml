@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10116712</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Kubín, Rudolf</field>
 <field name="year">1930</field>
 <field name="date">1930</field>
-<field name="librettist">Frantisek Lasek</field>
-<field name="librettistSort">Lasek, Frantisek</field>
-<field name="librettist">Frantisek Balej</field>
-<field name="librettistSort">Balej, Frantisek</field>
+<field name="librettist">František Lasek</field>
+<field name="librettistSort">Lasek, František</field>
+<field name="librettist">František Balej</field>
+<field name="librettistSort">Balej, František</field>
 <field name="theater">Comic Opera</field>
 <field name="city">Prague</field>
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10103211</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Blatný, Pavel</field>
 <field name="year">1979</field>
 <field name="date">1979</field>
-<field name="librettist">Zbysek Malý</field>
-<field name="librettistSort">Malý, Zbysek</field>
+<field name="librettist">Zbyšek Malý</field>
+<field name="librettistSort">Malý, Zbyšek</field>
 <field name="theater">Czech Television (Ceska Televize)</field>
 <field name="city">Prague</field>
 

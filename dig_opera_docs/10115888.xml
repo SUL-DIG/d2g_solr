@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10115888</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Kepitis, Janis</field>
 <field name="year">1960</field>
 <field name="date">1960</field>
-<field name="librettist">Martins Ziverts</field>
-<field name="librettistSort">Ziverts, Martins</field>
+<field name="librettist">Mārtiņš Zīverts</field>
+<field name="librettistSort">Zīverts, Mārtiņš</field>
 
 <field name="city">Liepaja</field>
 <field name="region">Liepaja</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10115217</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Jenko, Davorin</field>
 <field name="year">1892</field>
 <field name="date">1892</field>
-<field name="librettist">Janko Milosev Veselinovic</field>
-<field name="librettistSort">Veselinovic, Janko Milosev</field>
-<field name="librettist">Dragomir Brzák</field>
-<field name="librettistSort">Brzák, Dragomir</field>
+<field name="librettist">Janko Milosev Veselinović</field>
+<field name="librettistSort">Veselinović, Janko Milosev</field>
+<field name="librettist">Dragomir Brzak</field>
+<field name="librettistSort">Brzak, Dragomir</field>
 <field name="theater">Narodno Pozorista</field>
 <field name="city">Belgrade</field>
 

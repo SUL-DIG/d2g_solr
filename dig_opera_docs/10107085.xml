@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10107085</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Damse, Józef</field>
 <field name="year">1844</field>
 <field name="date">1844</field>
-<field name="librettist">Stanislaw Kostka Boguslawski</field>
-<field name="librettistSort">Boguslawski, Stanislaw Kostka</field>
+<field name="librettist">Stanisław Kostka Bogusławski</field>
+<field name="librettistSort">Bogusławski, Stanisław Kostka</field>
 <field name="theater">Teatr Rozmaitosci</field>
 <field name="city">Warsaw</field>
 

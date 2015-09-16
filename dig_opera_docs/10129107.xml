@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10129107</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Sikora, Elzbieta</field>
 <field name="year">1979</field>
 <field name="date">1979</field>
-<field name="librettist">Stanislaw Kasprzysiak</field>
-<field name="librettistSort">Kasprzysiak, Stanislaw</field>
+<field name="librettist">Stanisław Kasprzysiak</field>
+<field name="librettistSort">Kasprzysiak, Stanisław</field>
 <field name="librettist">Cesare Pavese</field>
 <field name="librettistSort">Pavese, Cesare</field>
 

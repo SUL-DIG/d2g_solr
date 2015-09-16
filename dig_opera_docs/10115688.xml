@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10115688</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Kaslík, Václav</field>
 <field name="year">1980</field>
 <field name="date">1980</field>
-<field name="librettist">Václav Kaslík</field>
-<field name="librettistSort">Kaslík, Václav</field>
+<field name="librettist">Václav Kašlík</field>
+<field name="librettistSort">Kašlík, Václav</field>
 <field name="librettist">Federico Fellini</field>
 <field name="librettistSort">Fellini, Federico</field>
 <field name="theater">Smetanovo Divadlo</field>

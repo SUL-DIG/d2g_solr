@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10124125</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Piccinni, Luigi</field>
 <field name="year">1809</field>
 <field name="date">1809</field>
-<field name="librettist">René-André-Polydore Alissan de Chazet</field>
-<field name="librettistSort">Chazet, René-André-Polydore Alissan de</field>
+<field name="librettist">René de Chazet</field>
+<field name="librettistSort">Chazet, René de</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 

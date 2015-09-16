@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10123126</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Palmer, Geoffrey Molyneux</field>
 <field name="year">1923</field>
 <field name="date">1923</field>
-<field name="librettist">Tomás O'Kelly</field>
-<field name="librettistSort">O'Kelly, Tomás</field>
+<field name="librettist">[Thomas O’Kelly] Tomás Ó Ceallaigh</field>
+<field name="librettistSort">Ó Ceallaigh, Tomás [Thomas O’Kelly]</field>
 <field name="theater">Gaiety Theatre</field>
 <field name="city">Dublin</field>
 <field name="region">Leinster</field>

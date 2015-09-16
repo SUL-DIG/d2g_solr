@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10115987</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Kirchhoff, J. Wilhelm</field>
 <field name="year">1847</field>
 <field name="date">1847</field>
-<field name="librettist">Friedrich Wilhlem Alexander Held</field>
-<field name="librettistSort">Held, Friedrich Wilhlem Alexander</field>
+<field name="librettist">Friedrich Wilhelm Alexander Held</field>
+<field name="librettistSort">Held, Friedrich Wilhelm Alexander</field>
 <field name="theater">Stadttheater</field>
 <field name="city">Ulm</field>
 <field name="region">Baden-Württemberg</field>

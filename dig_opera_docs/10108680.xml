@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10108680</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Ebner, Georg</field>
 <field name="year">1932</field>
 <field name="date">1932</field>
-<field name="librettist">J. Mehlhart</field>
-<field name="librettistSort">Mehlhart, J.</field>
+<field name="librettist">Josef Mehlhart</field>
+<field name="librettistSort">Mehlhart, Josef</field>
 <field name="librettist">Gottfried Keller</field>
 <field name="librettistSort">Keller, Gottfried</field>
 

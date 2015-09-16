@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10103539</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1893</field>
 <field name="librettist">Jules Oudot</field>
 <field name="librettistSort">Oudot, Jules</field>
-<field name="librettist">__ Brévaire</field>
-<field name="librettistSort">Brévaire, __</field>
+<field name="librettist">René Bréviaire</field>
+<field name="librettistSort">Bréviaire, René</field>
 
 <field name="city">Paris</field>
 

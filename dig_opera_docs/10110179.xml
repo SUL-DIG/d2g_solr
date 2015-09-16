@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10110179</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1902</field>
 <field name="librettist">Paul Collin</field>
 <field name="librettistSort">Collin, Paul</field>
-<field name="librettist">François René de Chateaubriand</field>
-<field name="librettistSort">Chateaubriand, François René de</field>
+<field name="librettist">François-René de Chateaubriand</field>
+<field name="librettistSort">Chateaubriand, François-René de</field>
 <field name="theater">Grand-Théâtre</field>
 <field name="city">Lille</field>
 <field name="region">Nord</field>

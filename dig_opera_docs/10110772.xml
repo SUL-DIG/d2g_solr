@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10110772</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Gaetano, [Kajetan Majer]</field>
 <field name="year">1779</field>
 <field name="date">1779</field>
-<field name="librettist">Leon Pierozynski</field>
-<field name="librettistSort">Pierozynski, Leon</field>
+<field name="librettist">Leon Pierożyński</field>
+<field name="librettistSort">Pierożyński, Leon</field>
 <field name="theater">Teatr Narodowy</field>
 <field name="city">Warsaw</field>
 

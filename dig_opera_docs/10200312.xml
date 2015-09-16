@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<add><doc>
 		<field name="id">10200312</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Die Auferweckung des Lazarus</field>
@@ -9,8 +9,8 @@
 		<field name="date">May 18, 1837</field>
 		<field name="composer">Eduard Sobolewski</field>
 		<field name="composerSort">Sobolewski, Eduard</field>
-		<field name="librettist">Johann Gottfried Herder</field>
-		<field name="librettistSort">Herder, Johann Gottfried</field>
+		<field name="librettist">Johann Gottfried von Herder</field>
+		<field name="librettistSort">Herder, Johann Gottfried von</field>
 		
 		
 		

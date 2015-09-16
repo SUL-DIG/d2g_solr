@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10116213</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Koczalski, Raoul</field>
 <field name="year">1902</field>
 <field name="date">1902</field>
-<field name="librettist">Alexander Fredro</field>
-<field name="librettistSort">Fredro, Alexander</field>
+<field name="librettist">Aleksander Fredro</field>
+<field name="librettistSort">Fredro, Aleksander</field>
 <field name="librettist">Victor Emanuel Mussa</field>
 <field name="librettistSort">Mussa, Victor Emanuel</field>
 <field name="theater">Stadttheater</field>

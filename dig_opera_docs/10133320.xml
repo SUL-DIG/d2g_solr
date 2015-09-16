@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10133320</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Zajc, Ivan</field>
 <field name="year">1880</field>
 <field name="date">1880</field>
-<field name="librettist">Josip Eugen Tomic</field>
-<field name="librettistSort">Tomic, Josip Eugen</field>
+<field name="librettist">Josip Eugen Tomić</field>
+<field name="librettistSort">Tomić, Josip Eugen</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Zagreb</field>
 

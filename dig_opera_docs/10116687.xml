@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10116687</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Krstic, Petar</field>
 <field name="year">1927</field>
 <field name="date">1927</field>
-<field name="librettist">Svetozar Corovic</field>
-<field name="librettistSort">Corovic, Svetozar</field>
-<field name="librettist">Aleksa Santic</field>
-<field name="librettistSort">Santic, Aleksa</field>
+<field name="librettist">Svetozar Ćorović</field>
+<field name="librettistSort">Ćorović, Svetozar</field>
+<field name="librettist">Aleksa Šantić</field>
+<field name="librettistSort">Šantić, Aleksa</field>
 <field name="theater">Narodno Pozorista</field>
 <field name="city">Belgrade</field>
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<add><doc>
 		<field name="id">10203387</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Die Pfade zur Gottheit</field>
@@ -9,8 +9,8 @@
 		<field name="date">June 4, 1834</field>
 		<field name="composer">Friedrich Wilhelm Liebau</field>
 		<field name="composerSort">Liebau, Friedrich Wilhelm</field>
-		<field name="librettist">J. W. Fügemann</field>
-		<field name="librettistSort">Fügemann, J. W.</field>
+		<field name="librettist">F. L. Fügemann</field>
+		<field name="librettistSort">Fügemann, F. L.</field>
 		
 		
 		<field name="city">Quedlinburg</field>

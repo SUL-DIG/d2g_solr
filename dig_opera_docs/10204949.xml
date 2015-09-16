@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<add><doc>
 		<field name="id">10204949</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Zanaleziene Swietego Krzyza (The Discovery of the Holy Cross)</field>
@@ -9,8 +9,8 @@
 		<field name="date">1906</field>
 		<field name="composer">Feliks Nowowiejski</field>
 		<field name="composerSort">Nowowiejski, Feliks</field>
-		<field name="librettist">A. Herolasek</field>
-		<field name="librettistSort">Herolasek, A.</field>
+		<field name="librettist">Arno Herolaska</field>
+		<field name="librettistSort">Herolaska, Arno</field>
 		
 		
 		<field name="city">L'viv</field>

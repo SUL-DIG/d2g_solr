@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10123254</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Parenti, Paolo Francesco</field>
 <field name="year">1790</field>
 <field name="date">1790</field>
-<field name="librettist">Charles-Joseph Loeuillard d'Avrigny</field>
-<field name="librettistSort">Loeuillard d'Avrigny, Charles-Joseph</field>
+<field name="librettist">Charles-Joseph Loeillard d'Avrigny</field>
+<field name="librettistSort">Avrigny, Charles-Joseph Loeillard d'</field>
 <field name="theater">Comédie-Italienne</field>
 <field name="city">Paris</field>
 

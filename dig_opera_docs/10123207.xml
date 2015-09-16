@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10123207</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Panseron, Auguste</field>
 <field name="year">1823</field>
 <field name="date">1823</field>
-<field name="librettist">Pierre-Joseph Rousseau</field>
-<field name="librettistSort">Rousseau, Pierre-Joseph</field>
-<field name="librettist">__ Ménard</field>
-<field name="librettistSort">Ménard, __</field>
+<field name="librettist">Auguste Rousseau</field>
+<field name="librettistSort">Rousseau, Auguste</field>
+<field name="librettist">Jean-Baptiste Mesnard</field>
+<field name="librettistSort">Mesnard, Jean-Baptiste</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 

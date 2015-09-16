@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<add><doc>
 		<field name="id">10200466</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Buna protiv dahija (Uprising Against Dahias)</field>
@@ -9,8 +9,8 @@
 		<field name="date">1978</field>
 		<field name="composer">Rajko Maksimovíc</field>
 		<field name="composerSort">Maksimovíc, Rajko</field>
-		<field name="librettist">Filip Visnjic</field>
-		<field name="librettistSort">Visnjic, Filip</field>
+		<field name="librettist">Filip Višnjić</field>
+		<field name="librettistSort">Višnjić, Filip</field>
 		
 		
 		

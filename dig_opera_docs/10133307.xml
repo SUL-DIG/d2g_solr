@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10133307</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Zajc, Ivan</field>
 <field name="year">1911</field>
 <field name="date">1911</field>
-<field name="librettist">Antonije Kassowitz-Cvijic</field>
-<field name="librettistSort">Kassowitz-Cvijic, Antonije</field>
+<field name="librettist">Antonije Kassowitz–Cvijić</field>
+<field name="librettistSort">Kassowitz–Cvijić, Antonije</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Zagreb</field>
 

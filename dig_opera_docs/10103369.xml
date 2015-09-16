@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10103369</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Boguslawski, Edward</field>
 <field name="year">1977</field>
 <field name="date">1977</field>
-<field name="librettist">Edward Boguslawski</field>
-<field name="librettistSort">Boguslawski, Edward</field>
-<field name="librettist">Stanislaw Ignacy Witkiewicz</field>
-<field name="librettistSort">Witkiewicz, Stanislaw Ignacy</field>
+<field name="librettist">Edward Bogusławski</field>
+<field name="librettistSort">Bogusławski, Edward</field>
+<field name="librettist">Stanisław Ignacy Witkiewicz</field>
+<field name="librettistSort">Witkiewicz, Stanisław Ignacy</field>
 <field name="theater">Opera Dolnoslaska</field>
 <field name="city">Wroclaw</field>
 <field name="region">Dolnoslaskie</field>

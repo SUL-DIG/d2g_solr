@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10102496</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Berkovec, Jirí</field>
 <field name="year">1961</field>
 <field name="date">1961</field>
-<field name="librettist">Jirí Berkovec</field>
-<field name="librettistSort">Berkovec, Jirí</field>
-<field name="librettist">Karel Capek</field>
-<field name="librettistSort">Capek, Karel</field>
+<field name="librettist">Jiří Berkovec</field>
+<field name="librettistSort">Berkovec, Jiří</field>
+<field name="librettist">Karel Čapek</field>
+<field name="librettistSort">Čapek, Karel</field>
 <field name="theater">Janáckova Divadlo</field>
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>

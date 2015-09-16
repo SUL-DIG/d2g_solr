@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10126912</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Royer, Joseph-Nicolas-Pancrace</field>
 <field name="year">1743</field>
 <field name="date">1743</field>
-<field name="librettist">Charles-Hugues Lefebvre de Saint-Marc</field>
-<field name="librettistSort">Saint-Marc, Charles-Hugues Lefebvre de</field>
+<field name="librettist">Charles-Hugues Le Febvre de Saint-Marc</field>
+<field name="librettistSort">Le Febvre de Saint-Marc, Charles-Hugues</field>
 <field name="theater">Opéra</field>
 <field name="city">Paris</field>
 

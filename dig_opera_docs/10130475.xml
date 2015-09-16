@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10130475</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Szymanowski, Karol</field>
 <field name="year">1926</field>
 <field name="date">1926</field>
-<field name="librettist">Jaroslaw Iwaszkiewicz</field>
-<field name="librettistSort">Iwaszkiewicz, Jaroslaw</field>
+<field name="librettist">Jarosław Iwaszkiewicz</field>
+<field name="librettistSort">Iwaszkiewicz, Jarosław</field>
 <field name="librettist">Karol Szymanowski</field>
 <field name="librettistSort">Szymanowski, Karol</field>
 <field name="theater">Teatr Wielki</field>

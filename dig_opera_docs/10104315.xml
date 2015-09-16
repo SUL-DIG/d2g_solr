@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10104315</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Bruni, Antonio Bartolomeo</field>
 <field name="year">1794</field>
 <field name="date">1794</field>
-<field name="librettist">__ Baunier</field>
-<field name="librettistSort">Baunier, __</field>
+<field name="librettist">A.-L. Beaunier</field>
+<field name="librettistSort">Beaunier, A.-L.</field>
 <field name="librettist">J.-F.-C. Blanvillain</field>
 <field name="librettistSort">Blanvillain, J.-F.-C.</field>
 <field name="theater">Théâtre de l'Egalité</field>

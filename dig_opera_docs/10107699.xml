@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10107699</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Dezède, Nicolas</field>
 <field name="year">1783</field>
 <field name="date">1783</field>
-<field name="librettist">Louis Edmé Billardon de Sauvigny</field>
-<field name="librettistSort">Billardon de Sauvigny, Louis Edmé</field>
+<field name="librettist">Edme-Louis Billardon de Sauvigny</field>
+<field name="librettistSort">Billardon de Sauvigny, Edme-Louis</field>
 <field name="theater">Opéra</field>
 <field name="city">Paris</field>
 

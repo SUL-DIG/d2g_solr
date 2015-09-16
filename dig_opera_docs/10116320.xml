@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10116320</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Konjovic, Petar</field>
 <field name="year">1931</field>
 <field name="date">1931</field>
-<field name="librettist">Borisav Stankovic</field>
-<field name="librettistSort">Stankovic, Borisav</field>
+<field name="librettist">Borisav Stanković</field>
+<field name="librettistSort">Stanković, Borisav</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Zagreb</field>
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10133318</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Zajc, Ivan</field>
 <field name="year">1876</field>
 <field name="date">1876</field>
-<field name="librettist">Hugo Badalic</field>
-<field name="librettistSort">Badalic, Hugo</field>
+<field name="librettist">Hugo Badalić</field>
+<field name="librettistSort">Badalić, Hugo</field>
 <field name="librettist">Theodor Körner</field>
 <field name="librettistSort">Körner, Theodor</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>

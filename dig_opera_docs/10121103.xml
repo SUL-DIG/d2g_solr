@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10121103</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Moor, Karel</field>
 <field name="year">1903</field>
 <field name="date">1903</field>
-<field name="librettist">Frantisek Khol</field>
-<field name="librettistSort">Khol, Frantisek</field>
+<field name="librettist">František Khol</field>
+<field name="librettistSort">Khol, František</field>
 <field name="librettist">Nikolay Vasil'yevich Gogol</field>
 <field name="librettistSort">Gogol, Nikolay Vasil'yevich</field>
 <field name="theater">Národní Divadlo</field>

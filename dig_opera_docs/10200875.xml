@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<add><doc>
 		<field name="id">10200875</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Davide in Terebinto, figura del Salvatore</field>
@@ -9,8 +9,8 @@
 		<field name="date">April 19, 1794</field>
 		<field name="composer">Johann Gottlieb Naumann</field>
 		<field name="composerSort">Naumann, Johann Gottlieb</field>
-		<field name="librettist">Catterino Mazzolа</field>
-		<field name="librettistSort">Mazzol_, Catterino</field>
+		<field name="librettist">Caterino Mazzolà</field>
+		<field name="librettistSort">Mazzolà, Caterino</field>
 		
 		<field name="theater">Hofkapelle</field>
 		<field name="city">Dresden</field>

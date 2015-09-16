@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10129332</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1920</field>
 <field name="librettist">Theo Halton</field>
 <field name="librettistSort">Halton, Theo</field>
-<field name="librettist">M. E. Fischer</field>
-<field name="librettistSort">Fischer, M. E.</field>
+<field name="librettist">Max Eduard Fischer</field>
+<field name="librettistSort">Fischer, Max Eduard</field>
 <field name="theater">Centraltheater</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>

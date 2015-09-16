@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10115216</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Jenko, Davorin</field>
 <field name="year">1914</field>
 <field name="date">1914</field>
-<field name="librettist">Franc Saleski Finzgar</field>
-<field name="librettistSort">Finzgar, Franc Saleski</field>
+<field name="librettist">Fran Saleški Finžgar</field>
+<field name="librettistSort">Saleški Finžgar, Fran</field>
 <field name="theater">Narodno Pozorista</field>
 <field name="city">Belgrade</field>
 

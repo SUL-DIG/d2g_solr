@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10104025</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1943</field>
 <field name="librettist">Chera Pavel</field>
 <field name="librettistSort">Pavel, Chera</field>
-<field name="librettist">Mihail Saulescu</field>
-<field name="librettistSort">Saulescu, Mihail</field>
+<field name="librettist">Mihail Săulescu</field>
+<field name="librettistSort">Săulescu, Mihail</field>
 <field name="theater">Opera Româna</field>
 <field name="city">Bucharest</field>
 

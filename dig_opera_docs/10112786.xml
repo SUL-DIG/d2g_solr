@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10112786</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Grimm, Jean</field>
 <field name="year">1892</field>
 <field name="date">1892</field>
-<field name="librettist">F. Hartmann</field>
-<field name="librettistSort">Hartmann, F.</field>
+<field name="librettist">Franz Hartmann</field>
+<field name="librettistSort">Hartmann, Franz</field>
 <field name="theater">Liebhaber-Theater</field>
 <field name="city">Tallinn</field>
 <field name="region">Harju</field>
