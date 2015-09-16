@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10115514</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Kaiser, Emil</field>
 <field name="year">1891</field>
 <field name="date">1891</field>
-<field name="librettist">Eduard Dubský</field>
-<field name="librettistSort">Dubský, Eduard</field>
+<field name="librettist">Eduard Dubsky</field>
+<field name="librettistSort">Dubsky, Eduard</field>
 <field name="librettist">__ Wiltenau</field>
 <field name="librettistSort">Wiltenau, __</field>
 <field name="theater">Neues Stadttheater</field>

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10113093</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1814</field>
 <field name="librettist">Joseph von Seyfried</field>
 <field name="librettistSort">Seyfried, Joseph von</field>
-<field name="librettist">Étienne de Jouy</field>
-<field name="librettistSort">Jouy, Étienne de</field>
+<field name="librettist">Victor Joseph Étienne de Jouy</field>
+<field name="librettistSort">Jouy, Victor Joseph Étienne de</field>
 <field name="theater">Königliche Schauspielhaus</field>
 <field name="city">Kassel</field>
 <field name="region">Hessen</field>

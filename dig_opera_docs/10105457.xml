@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10105457</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Cellot, Henri</field>
 <field name="year">1868</field>
 <field name="date">1868</field>
-<field name="librettist">Georges Corrard</field>
-<field name="librettistSort">Corrard, Georges</field>
+<field name="librettist">__ Corrard</field>
+<field name="librettistSort">Corrard, __</field>
 <field name="librettist">Paul Renard</field>
 <field name="librettistSort">Renard, Paul</field>
 <field name="theater">Café-concert de l'Eldorado</field>

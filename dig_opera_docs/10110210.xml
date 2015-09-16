@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110210</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Fontmichel, Hippolyte Honoré de</field>
 <field name="year">1834</field>
 <field name="date">1834</field>
-<field name="librettist">__ Partouneaux</field>
-<field name="librettistSort">Partouneaux, __</field>
+<field name="librettist">__ Partouncaux</field>
+<field name="librettistSort">Partouncaux, __</field>
 <field name="librettist">Eugène Sue</field>
 <field name="librettistSort">Sue, Eugène</field>
 <field name="theater">Grand-Théâtre</field>

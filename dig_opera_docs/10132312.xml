@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132312</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Vomácka, Boleslav</field>
 <field name="year">1957</field>
 <field name="date">1957</field>
-<field name="librettist">Boleslav Vomáčka</field>
-<field name="librettistSort">Vomáčka, Boleslav</field>
+<field name="librettist">Boleslav Vomácka</field>
+<field name="librettistSort">Vomácka, Boleslav</field>
 <field name="librettist">Milan Jaris</field>
 <field name="librettistSort">Jaris, Milan</field>
 <field name="theater">Národní Divadlo</field>

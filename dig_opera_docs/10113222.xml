@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10113222</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Hába, Karel</field>
 <field name="year">1934</field>
 <field name="date">1934</field>
-<field name="librettist">Antonín Klášterský</field>
-<field name="librettistSort">Klášterský, Antonín</field>
+<field name="librettist">Antonín Klásterský</field>
+<field name="librettistSort">Klásterský, Antonín</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Prague</field>
 

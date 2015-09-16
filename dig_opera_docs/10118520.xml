@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10118520</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Louis, [Marie-Emmanuelle Bayon] Mme.</field>
 <field name="year">1776</field>
 <field name="date">1776</field>
-<field name="librettist">Claude-Henri de Fusée de Voisenon</field>
-<field name="librettistSort">Voisenon , Claude-Henri de Fusée de</field>
+<field name="librettist">Claude-Henri de Fuzée de Voisenon</field>
+<field name="librettistSort">Voisenon, Claude-Henri de Fuzée de</field>
 <field name="theater">Comédie-Italienne</field>
 <field name="city">Paris</field>
 

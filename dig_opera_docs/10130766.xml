@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10130766</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1724</field>
 <field name="librettist">Georg Philipp Telemann</field>
 <field name="librettistSort">Telemann, Georg Philipp</field>
-<field name="librettist">Antoine Houdar de La Motte</field>
-<field name="librettistSort">La Motte, Antoine Houdar de</field>
+<field name="librettist">Antoine Houdar de Lamotte</field>
+<field name="librettistSort">Lamotte, Antoine Houdar de</field>
 <field name="theater">Schauplatz am Gänsemarkt</field>
 <field name="city">Hamburg</field>
 <field name="region">Hamburg</field>

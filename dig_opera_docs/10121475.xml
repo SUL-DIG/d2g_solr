@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10121475</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Mühle, Nikolaus</field>
 <field name="year">1783</field>
 <field name="date">1783</field>
-<field name="librettist">Julius von Soden</field>
-<field name="librettistSort">Soden, Julius von</field>
+<field name="librettist">Friedrich Julius Heinrich von Soden von Sassanfart</field>
+<field name="librettistSort">Soden von Sassanfart, Friedrich Julius Heinrich von</field>
 
 <field name="city">Jelgava</field>
 <field name="region">Zemgale</field>

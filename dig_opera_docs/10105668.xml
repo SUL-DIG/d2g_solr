@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10105668</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Chelard, Hippolyte-André</field>
 <field name="year">1827</field>
 <field name="date">1827</field>
-<field name="librettist">Claude Joseph Rouget de Lisle</field>
-<field name="librettistSort">Rouget de Lisle, Claude Joseph</field>
+<field name="librettist">Claude-Joseph Rouget de Lisle</field>
+<field name="librettistSort">Rouget de Lisle, Claude-Joseph</field>
 <field name="librettist">Auguste Hix</field>
 <field name="librettistSort">Hix, Auguste</field>
 <field name="theater">Opéra</field>

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10106832</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1825</field>
 <field name="librettist">Louis-Benoît Picard</field>
 <field name="librettistSort">Picard, Louis-Benoît</field>
-<field name="librettist">Édouard-Joseph-Ennemond Mazères</field>
-<field name="librettistSort">Mazères, Édouard-Joseph-Ennemond</field>
+<field name="librettist">Edmond-Joseph Ennemond Mazères</field>
+<field name="librettistSort">Mazères, Edmond-Joseph Ennemond</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 

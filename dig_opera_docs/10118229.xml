@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10118229</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1825</field>
 <field name="librettist">Emmanuel Théaulon</field>
 <field name="librettistSort">Théaulon, Emmanuel</field>
-<field name="librettist">Armand-Jean de Rancé</field>
-<field name="librettistSort">Rancé, Armand-Jean de</field>
+<field name="librettist">Armand-Jean Le Bouthillier de Rancé</field>
+<field name="librettistSort">Rancé, Armand-Jean Le Bouthillier de</field>
 <field name="theater">Opéra</field>
 <field name="city">Paris</field>
 

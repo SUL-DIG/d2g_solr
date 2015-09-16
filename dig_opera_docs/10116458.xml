@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10116458</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Kovarovic, Karel</field>
 <field name="year">1898</field>
 <field name="date">1898</field>
-<field name="librettist">Karel Šipek</field>
-<field name="librettistSort">Šipek, Karel</field>
+<field name="librettist">Karel Sípek</field>
+<field name="librettistSort">Sípek, Karel</field>
 <field name="librettist">Alois Jirásek</field>
 <field name="librettistSort">Jirásek, Alois</field>
 <field name="theater">Národní Divadlo</field>

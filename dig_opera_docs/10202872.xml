@@ -1,4 +1,4 @@
-<add><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10202872</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Moses</field>
@@ -9,8 +9,8 @@
 		<field name="date">1997</field>
 		<field name="composer">Sven-David Sandström</field>
 		<field name="composerSort">Sandström, Sven-David</field>
-		<field name="librettist">Eyvind Skeie</field>
-		<field name="librettistSort">Skeie, Eyvind</field>
+		<field name="librettist">E. Skie</field>
+		<field name="librettistSort">Skie, E.</field>
 		
 		<field name="theater">Domkirke</field>
 		<field name="city">Oslo</field>

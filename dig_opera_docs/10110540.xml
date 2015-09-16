@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110540</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Fribec, Kresimir</field>
 <field name="year">1952</field>
 <field name="date">1952</field>
-<field name="librettist">Krešimir Fribec</field>
-<field name="librettistSort">Fribec, Krešimir</field>
+<field name="librettist">Kresimir Fribec</field>
+<field name="librettistSort">Fribec, Kresimir</field>
 <field name="librettist">Ivan Cankar</field>
 <field name="librettistSort">Cankar, Ivan</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>

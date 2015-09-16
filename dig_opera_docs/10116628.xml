@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10116628</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Kricka, Jaroslav</field>
 <field name="year">1917</field>
 <field name="date">1917</field>
-<field name="librettist">Jaroslav Křička</field>
-<field name="librettistSort">Křička, Jaroslav</field>
-<field name="librettist">Petr Křička</field>
-<field name="librettistSort">Křička, Petr</field>
+<field name="librettist">Jaroslav Kricka</field>
+<field name="librettistSort">Kricka, Jaroslav</field>
+<field name="librettist">Petr Kricka</field>
+<field name="librettistSort">Kricka, Petr</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Prague</field>
 

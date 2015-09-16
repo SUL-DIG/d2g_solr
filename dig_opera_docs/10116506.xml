@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10116506</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Krejcí, Isa</field>
 <field name="year">1934</field>
 <field name="date">1934</field>
-<field name="librettist">Iša Krejčí</field>
-<field name="librettistSort">Krejčí, Iša</field>
+<field name="librettist">Isa Krejcí</field>
+<field name="librettistSort">Krejcí, Isa</field>
 <field name="theater">Uranie Divadlo</field>
 <field name="city">Prague</field>
 

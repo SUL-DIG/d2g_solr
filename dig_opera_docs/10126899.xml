@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10126899</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Rouvier, J. M.</field>
 <field name="year">1874</field>
 <field name="date">1874</field>
-<field name="librettist">Elysée Bach</field>
-<field name="librettistSort">Bach, Elysée</field>
+<field name="librettist">Elisa Bach</field>
+<field name="librettistSort">Bach, Elisa</field>
 <field name="librettist">__ Corny</field>
 <field name="librettistSort">Corny, __</field>
 

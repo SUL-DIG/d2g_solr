@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132459</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Wallek-Walewski, Boleslaw</field>
 <field name="year">1919</field>
 <field name="date">1919</field>
-<field name="librettist">Bolesław Wallek-Walewski</field>
-<field name="librettistSort">Wallek-Walewski, Bolesław</field>
+<field name="librettist">Boleslaw Wallek-Walewski</field>
+<field name="librettistSort">Wallek-Walewski, Boleslaw</field>
 <field name="theater">Teatr Miejski</field>
 <field name="city">Cracow</field>
 <field name="region">Malopolskie</field>

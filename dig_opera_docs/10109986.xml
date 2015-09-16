@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10109986</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Fischer, Jan Frank</field>
 <field name="year">1957</field>
 <field name="date">1957</field>
-<field name="librettist">Simeon Karel Macháček</field>
-<field name="librettistSort">Macháček, Simeon Karel</field>
+<field name="librettist">Simeon Karel Machácek</field>
+<field name="librettistSort">Machácek, Simeon Karel</field>
 <field name="theater">Janáckova Divadlo</field>
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10119537</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Martinu, Bohuslav</field>
 <field name="year">1935</field>
 <field name="date">1935</field>
-<field name="librettist">Bohuslav Martinů</field>
-<field name="librettistSort">Martinů, Bohuslav</field>
+<field name="librettist">Bohuslav Martinu</field>
+<field name="librettistSort">Martinu, Bohuslav</field>
 <field name="librettist">Julius Zeyer</field>
 <field name="librettistSort">Zeyer, Julius</field>
 <field name="theater">Národní Divadlo</field>

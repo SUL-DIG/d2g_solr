@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10120090</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Medins, Janis</field>
 <field name="year">1921</field>
 <field name="date">1921</field>
-<field name="librettist">[Jānis Pliekšāns] Jānis Rainis</field>
-<field name="librettistSort">Rainis, Jānis [Jānis Pliekšāns]</field>
+<field name="librettist">[Janis Plieksans] Janis Rainis</field>
+<field name="librettistSort">Rainis, Janis [Janis Plieksans]</field>
 
 <field name="city">Riga</field>
 

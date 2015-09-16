@@ -1,4 +1,4 @@
-<add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
     <doc>
         <field name="id">20100004</field>
         <field name="genre">Operas</field>
@@ -10,9 +10,9 @@
         <!-- The composer's name should be put in Indirect Order: Last, First Middle, etc. -->
         <field name="composerSort">Picker, Tobias</field>
         <!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
-        <field name="librettist">Joseph Donald McClatchy</field>
+        <field name="librettist">John Donald McClatchy</field>
         <!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
-        <field name="librettistSort">McClatchy, Joseph Donald</field>
+        <field name="librettistSort">McClatchy, John Donald</field>
 	    <field name="librettist">Judith Rossner</field>
         <!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
         <field name="librettistSort">Rossner, Judith</field>

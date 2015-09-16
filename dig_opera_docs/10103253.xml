@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10103253</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Bloch, Augustyn</field>
 <field name="year">1968</field>
 <field name="date">1968</field>
-<field name="librettist">Jarosław Iwaszkiewicz</field>
-<field name="librettistSort">Iwaszkiewicz, Jarosław</field>
+<field name="librettist">Jaroslaw Iwaszkiewicz</field>
+<field name="librettistSort">Iwaszkiewicz, Jaroslaw</field>
 <field name="theater">Teatr Wielki</field>
 <field name="city">Warsaw</field>
 

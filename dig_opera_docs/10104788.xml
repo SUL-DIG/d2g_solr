@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10104788</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Campra, André</field>
 <field name="year">1697</field>
 <field name="date">1697</field>
-<field name="librettist">Antoine Houdar de La Motte</field>
-<field name="librettistSort">La Motte, Antoine Houdar de</field>
+<field name="librettist">Antoine Houdar de Lamotte</field>
+<field name="librettistSort">Lamotte, Antoine Houdar de</field>
 <field name="theater">Opéra</field>
 <field name="city">Paris</field>
 

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10133347</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Zámecnik, Evzen</field>
 <field name="year">1968</field>
 <field name="date">1968</field>
-<field name="librettist">Evžen Zámečník</field>
-<field name="librettistSort">Zámečník, Evžen</field>
+<field name="librettist">Evzen Zámecnik</field>
+<field name="librettistSort">Zámecnik, Evzen</field>
 <field name="theater">Janáckova Opera</field>
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>

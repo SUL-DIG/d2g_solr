@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10119528</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Martinu, Bohuslav</field>
 <field name="year">1936</field>
 <field name="date">1936</field>
-<field name="librettist">Bohuslav Martinů</field>
-<field name="librettistSort">Martinů, Bohuslav</field>
+<field name="librettist">Bohuslav Martinu</field>
+<field name="librettistSort">Martinu, Bohuslav</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>

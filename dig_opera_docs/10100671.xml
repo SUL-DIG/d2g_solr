@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100671</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Andrasovan, Tibor</field>
 <field name="year">1975</field>
 <field name="date">1975</field>
-<field name="librettist">Tibor Andrašovan</field>
-<field name="librettistSort">Andrašovan, Tibor</field>
+<field name="librettist">Tibor Andrasovan</field>
+<field name="librettistSort">Andrasovan, Tibor</field>
 <field name="theater">Státna Opera</field>
 <field name="city">Banská Bystrica</field>
 <field name="region">Stredoslovensky Kraj</field>

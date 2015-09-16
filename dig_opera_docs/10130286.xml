@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10130286</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Suchon, Eugen</field>
 <field name="year">1960</field>
 <field name="date">1960</field>
-<field name="librettist">Eugen Suchoň</field>
-<field name="librettistSort">Suchoň, Eugen</field>
+<field name="librettist">Eugen Suchon</field>
+<field name="librettistSort">Suchon, Eugen</field>
 <field name="librettist">Ivan Stodola</field>
 <field name="librettistSort">Stodola, Ivan</field>
 <field name="theater">Slovenské Narodné Divadlo</field>

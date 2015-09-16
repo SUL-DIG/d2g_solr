@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10133402</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1958</field>
 <field name="librettist">Fritz Rokpelnis</field>
 <field name="librettistSort">Rokpelnis, Fritz</field>
-<field name="librettist">Marģeris Zariņš</field>
-<field name="librettistSort">Zariņš, Marģeris</field>
+<field name="librettist">Margers Zarins</field>
+<field name="librettistSort">Zarins, Margers</field>
 <field name="theater">Latviyskiy Teatr Operï i Baleta</field>
 <field name="city">Riga</field>
 

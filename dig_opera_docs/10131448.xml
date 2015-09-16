@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10131448</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Tucek, Vincenc</field>
 <field name="year">1795</field>
 <field name="date">1795</field>
-<field name="librettist">Prokop František Šedivý</field>
-<field name="librettistSort">Šedivý, Prokop František</field>
+<field name="librettist">Prokop Sedivy</field>
+<field name="librettistSort">Sedivy, Prokop</field>
 <field name="theater">Praga u Hybernu Divadlo</field>
 <field name="city">Prague</field>
 

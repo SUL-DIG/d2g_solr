@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10106378</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Comisel, Florin</field>
 <field name="year">1970</field>
 <field name="date">1970</field>
-<field name="librettist">Nicușor Constantinescu</field>
-<field name="librettistSort">Constantinescu, Nicușor</field>
+<field name="librettist">Nicusor Constantinescu</field>
+<field name="librettistSort">Constantinescu, Nicusor</field>
 <field name="librettist">Alexandre Dumas</field>
 <field name="librettistSort">Dumas, Alexandre</field>
 <field name="theater">Teatrul Opereta</field>

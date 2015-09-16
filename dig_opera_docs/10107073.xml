@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10107073</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Dambis, Pauls</field>
 <field name="year">1976</field>
 <field name="date">1976</field>
-<field name="librettist">Jānis Peters</field>
-<field name="librettistSort">Peters, Jānis</field>
+<field name="librettist">Janis Peters</field>
+<field name="librettistSort">Peters, Janis</field>
 
 <field name="city">Riga</field>
 

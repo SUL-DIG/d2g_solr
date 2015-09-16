@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10125417</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Radlegger, Alois</field>
 <field name="year">1904</field>
 <field name="date">1904</field>
-<field name="librettist">Gustav Bondi</field>
-<field name="librettistSort">Bondi, Gustav</field>
+<field name="librettist">Gustavo Bondi</field>
+<field name="librettistSort">Bondi, Gustavo</field>
 <field name="librettist">Louis Angely</field>
 <field name="librettistSort">Angely, Louis</field>
 <field name="theater">Neues Stadttheater</field>

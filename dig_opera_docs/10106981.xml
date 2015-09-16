@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10106981</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Czyz, Henryk</field>
 <field name="year">1962</field>
 <field name="date">1962</field>
-<field name="librettist">Henryk Czyż</field>
-<field name="librettistSort">Czyż, Henryk</field>
+<field name="librettist">Henryk Czyz</field>
+<field name="librettistSort">Czyz, Henryk</field>
 <field name="librettist">Danuta Baduszkowa</field>
 <field name="librettistSort">Baduszkowa, Danuta</field>
 <field name="theater">Teatr Wielki</field>

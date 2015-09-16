@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114113</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Hérold, Ferdinand</field>
 <field name="year">1823</field>
 <field name="date">1823</field>
-<field name="librettist">Claude-Étienne Chaillou des Barres</field>
-<field name="librettistSort">Chaillou des Barres, Claude-Étienne</field>
+<field name="librettist">B. Chaillou</field>
+<field name="librettistSort">Chaillou, B.</field>
 <field name="librettist">Étienne-François de Lantier</field>
 <field name="librettistSort">Lantier, Étienne-François de</field>
 <field name="theater">Opéra</field>

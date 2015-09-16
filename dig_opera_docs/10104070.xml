@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10104070</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Brendler, Franz Friedrich Eduard</field>
 <field name="year">1834</field>
 <field name="date">1834</field>
-<field name="librettist">Bernhard von Beskow</field>
-<field name="librettistSort">Beskow, Bernhard von</field>
+<field name="librettist">Hans von Beskow</field>
+<field name="librettistSort">Beskow, Hans von</field>
 <field name="theater">Kungliga Teatern</field>
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10127309</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Saint-Amans, Louis Joseph</field>
 <field name="year">1782</field>
 <field name="date">1782</field>
-<field name="librettist">Claude-Henri de Fusée de Voisenon</field>
-<field name="librettistSort">Voisenon , Claude-Henri de Fusée de</field>
+<field name="librettist">Claude-Henri de Fuzée de Voisenon</field>
+<field name="librettistSort">Voisenon, Claude-Henri de Fuzée de</field>
 <field name="theater">Théâtre-Royal de la Monnaie</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>

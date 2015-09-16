@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10133420</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Zelenka, Jan Dismas</field>
 <field name="year">1723</field>
 <field name="date">1723</field>
-<field name="librettist">Matouš Zill</field>
-<field name="librettistSort">Zill, Matouš</field>
+<field name="librettist">Matous Zill</field>
+<field name="librettistSort">Zill, Matous</field>
 <field name="theater">Hradcin</field>
 <field name="city">Prague</field>
 

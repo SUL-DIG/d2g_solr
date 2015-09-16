@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10115581</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1993</field>
 <field name="librettist">[Abel Meeropol] Lewis Allan</field>
 <field name="librettistSort">Allan, Lewis [Abel Meeropol]</field>
-<field name="librettist">Karel &amp; Josef Čapek</field>
-<field name="librettistSort">Čapek, Karel &amp; Josef</field>
+<field name="librettist">Karel &amp; Josef Capek</field>
+<field name="librettistSort">Capek, Karel &amp; Josef</field>
 <field name="theater">Hunter College</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

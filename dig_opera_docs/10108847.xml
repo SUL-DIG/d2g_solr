@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10108847</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Elsner, Józef</field>
 <field name="year">1809</field>
 <field name="date">1809</field>
-<field name="librettist">Franciszek Wężyk</field>
-<field name="librettistSort">Wężyk, Franciszek</field>
+<field name="librettist">Franciszek Wezyk</field>
+<field name="librettistSort">Wezyk, Franciszek</field>
 <field name="theater">Teatr Narodowy</field>
 <field name="city">Warsaw</field>
 

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10127858</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Savin, [Friedrich von Schirza] Risto</field>
 <field name="year">1923</field>
 <field name="date">1923</field>
-<field name="librettist">Franjo Roš</field>
-<field name="librettistSort">Roš, Franjo</field>
+<field name="librettist">Franjo Ros</field>
+<field name="librettistSort">Ros, Franjo</field>
 <field name="theater">Slovensko Dazelno Gledalisce</field>
 <field name="city">Ljubljana</field>
 

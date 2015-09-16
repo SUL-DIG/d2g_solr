@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10117957</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Lerescu, Emil</field>
 <field name="year">1971</field>
 <field name="date">1971</field>
-<field name="librettist">Nicolae Tăutu</field>
-<field name="librettistSort">Tăutu, Nicolae</field>
+<field name="librettist">Nicolae Tautu</field>
+<field name="librettistSort">Tautu, Nicolae</field>
 <field name="theater">Opera Româna</field>
 <field name="city">Bucharest</field>
 

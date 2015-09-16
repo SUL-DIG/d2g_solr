@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10106994</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Dalayrac, Nicolas-Marie</field>
 <field name="year">1786</field>
 <field name="date">1786</field>
-<field name="librettist">Auguste-Étienne-Xavier Poisson de La Chaubeaussière</field>
-<field name="librettistSort">Poisson de La Chaubeaussière, Auguste-Étienne-Xavier</field>
+<field name="librettist">Ange Étienne Xavier Poisson de La Chaubeaussière</field>
+<field name="librettistSort">La Chaubeaussière, Ange Étienne Xavier Poisson de</field>
 <field name="theater">Château de Fontainebleau</field>
 <field name="city">Fontainebleau</field>
 <field name="region">Seine-et-Marne</field>

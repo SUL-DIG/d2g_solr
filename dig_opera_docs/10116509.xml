@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10116509</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Krejcí, Miroslav</field>
 <field name="year">1940</field>
 <field name="date">1940</field>
-<field name="librettist">Fráňa Šrámek</field>
-<field name="librettistSort">Šrámek, Fráňa</field>
+<field name="librettist">Frána Srámek</field>
+<field name="librettistSort">Srámek, Frána</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Prague</field>
 

@@ -1,4 +1,4 @@
-<add><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10204751</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Vaskrsenje (Resurrection)</field>
@@ -9,8 +9,8 @@
 		<field name="date">1912</field>
 		<field name="composer">Stevan Hristic</field>
 		<field name="composerSort">Hristic, Stevan</field>
-		<field name="librettist">Dragutin Ilić</field>
-		<field name="librettistSort">Ilić, Dragutin</field>
+		<field name="librettist">Dragutin Ilic</field>
+		<field name="librettistSort">Ilic, Dragutin</field>
 		
 		
 		

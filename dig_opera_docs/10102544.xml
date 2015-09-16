@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10102544</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Bernardin, [Bernard Courtois]</field>
 <field name="year">1860</field>
 <field name="date">1860</field>
-<field name="librettist">Gabriel de Lurieu</field>
-<field name="librettistSort">Lurieu, Gabriel de</field>
+<field name="librettist">[Jules-Joseph-Gabriel de Lurieu] Joseph Gabriel</field>
+<field name="librettistSort">Gabriel, Joseph [Jules-Joseph-Gabriel de Lurieu]</field>
 <field name="librettist">Charles Dupeuty</field>
 <field name="librettistSort">Dupeuty, Charles</field>
 <field name="theater">Théâtre des Folies-Nouvelles</field>

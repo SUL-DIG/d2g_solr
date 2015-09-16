@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10105671</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Chelard, Hippolyte-André</field>
 <field name="year">1829</field>
 <field name="date">1829</field>
-<field name="librettist">Gabriel de Lurieu</field>
-<field name="librettistSort">Lurieu, Gabriel de</field>
+<field name="librettist">[Jules-Joseph-Gabriel de Lurieu] Joseph Gabriel</field>
+<field name="librettistSort">Gabriel, Joseph [Jules-Joseph-Gabriel de Lurieu]</field>
 <field name="librettist">Théophile Marion Dumersan</field>
 <field name="librettistSort">Dumersan, Théophile Marion</field>
 <field name="theater">Opéra-Comique</field>

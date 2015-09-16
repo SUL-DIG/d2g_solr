@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10129743</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1807</field>
 <field name="librettist">Wojciech Pekalski</field>
 <field name="librettistSort">Pekalski, Wojciech</field>
-<field name="librettist">Józef Lipiński</field>
-<field name="librettistSort">Lipiński, Józef</field>
+<field name="librettist">Józef Lipinski</field>
+<field name="librettistSort">Lipinski, Józef</field>
 <field name="theater">Teatr Narodowy</field>
 <field name="city">Warsaw</field>
 

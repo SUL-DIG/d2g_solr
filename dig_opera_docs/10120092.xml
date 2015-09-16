@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10120092</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Medins, Jazeps</field>
 <field name="year">1960</field>
 <field name="date">1960</field>
-<field name="librettist">Pāvils Vilips</field>
-<field name="librettistSort">Vilips, Pāvils</field>
+<field name="librettist">Pavils Vilips</field>
+<field name="librettistSort">Vilips, Pavils</field>
 <field name="theater">Latvian Television (Latvijas Televizija)</field>
 <field name="city">Riga</field>
 

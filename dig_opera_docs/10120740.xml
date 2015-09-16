@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10120740</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1845</field>
 <field name="librettist">Napoleon Ekielski</field>
 <field name="librettistSort">Ekielski, Napoleon</field>
-<field name="librettist">Aleksander Fredro</field>
-<field name="librettistSort">Fredro, Aleksander</field>
+<field name="librettist">Alexander Fredro</field>
+<field name="librettistSort">Fredro, Alexander</field>
 <field name="theater">Teatr Miejski</field>
 <field name="city">Cracow</field>
 <field name="region">Malopolskie</field>

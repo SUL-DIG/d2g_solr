@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10130435</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Szeligowski, Tadeusz</field>
 <field name="year">1963</field>
 <field name="date">1963</field>
-<field name="librettist">Czesław Chruszczewski</field>
-<field name="librettistSort">Chruszczewski, Czesław</field>
+<field name="librettist">Czeslaw Chruszczewski</field>
+<field name="librettistSort">Chruszczewski, Czeslaw</field>
 <field name="theater">Opera Dolnoslaska</field>
 <field name="city">Wroclaw</field>
 <field name="region">Dolnoslaskie</field>

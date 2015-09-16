@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10122780</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1818</field>
 <field name="librettist">Antonio Peracchi</field>
 <field name="librettistSort">Peracchi, Antonio</field>
-<field name="librettist">François-René de Chateaubriand</field>
-<field name="librettistSort">Chateaubriand, François-René de</field>
+<field name="librettist">François René de Chateaubriand</field>
+<field name="librettistSort">Chateaubriand, François René de</field>
 <field name="theater">Teatro Nuovo</field>
 <field name="city">Padua</field>
 <field name="region">Veneto</field>

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10124131</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Piccinni, Luigi</field>
 <field name="year">1786</field>
 <field name="date">1786</field>
-<field name="librettist">Person de Bérainville</field>
-<field name="librettistSort">Bérainville, Person de</field>
+<field name="librettist">Chevalier Person de Bérainville</field>
+<field name="librettistSort">Person de Bérainville, Chevalier</field>
 <field name="theater">Théâtre de Monseigneur le comte de Beaujolais</field>
 <field name="city">Paris</field>
 

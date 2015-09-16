@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10133711</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1941</field>
 <field name="librettist">Alexandru Zirra</field>
 <field name="librettistSort">Zirra, Alexandru</field>
-<field name="librettist">Ion Creangă</field>
-<field name="librettistSort">Creangă, Ion</field>
+<field name="librettist">Ion Creanga</field>
+<field name="librettistSort">Creanga, Ion</field>
 <field name="theater">Opera Româna</field>
 <field name="city">Bucharest</field>
 

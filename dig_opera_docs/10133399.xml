@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10133399</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Zarins, Margers</field>
 <field name="year">1970</field>
 <field name="date">1970</field>
-<field name="librettist">Jūlijs Vanags</field>
-<field name="librettistSort">Vanags, Jūlijs</field>
-<field name="librettist">Marģeris Zariņš</field>
-<field name="librettistSort">Zariņš, Marģeris</field>
+<field name="librettist">Julijs Vanags</field>
+<field name="librettistSort">Vanags, Julijs</field>
+<field name="librettist">Margers Zarins</field>
+<field name="librettistSort">Zarins, Margers</field>
 <field name="theater">Latviyskiy Teatr Operï i Baleta</field>
 <field name="city">Riga</field>
 

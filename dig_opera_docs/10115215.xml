@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10115215</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Jenko, Davorin</field>
 <field name="year">1887</field>
 <field name="date">1887</field>
-<field name="librettist">Ljubinko Petrović</field>
-<field name="librettistSort">Petrović, Ljubinko</field>
+<field name="librettist">Ljubinko Petrovic</field>
+<field name="librettistSort">Petrovic, Ljubinko</field>
 <field name="theater">Narodno Pozorista</field>
 <field name="city">Belgrade</field>
 

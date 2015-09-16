@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110419</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1864</field>
 <field name="librettist">Adolphe Joly</field>
 <field name="librettistSort">Joly, Adolphe</field>
-<field name="librettist">L. d'Obréo</field>
-<field name="librettistSort">Obréo, L. d'</field>
+<field name="librettist">__ Obreo</field>
+<field name="librettistSort">Obreo, __</field>
 <field name="theater">Grand-Théâtre</field>
 <field name="city">Dijon</field>
 <field name="region">Côtes-d'Or</field>

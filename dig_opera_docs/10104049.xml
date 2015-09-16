@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10104049</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Bravnicar, Matija</field>
 <field name="year">1930</field>
 <field name="date">1930</field>
-<field name="librettist">Matija Bravničar</field>
-<field name="librettistSort">Bravničar, Matija</field>
+<field name="librettist">Matija Bravnicar</field>
+<field name="librettistSort">Bravnicar, Matija</field>
 <field name="librettist">Ivan Cankar</field>
 <field name="librettistSort">Cankar, Ivan</field>
 <field name="theater">Slovensko Dazelno Gledalisce</field>

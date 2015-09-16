@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10103370</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1978</field>
 <field name="librettist">Josef Bohác</field>
 <field name="librettistSort">Bohác, Josef</field>
-<field name="librettist">Drahoslava Makovičky</field>
-<field name="librettistSort">Makovičky, Drahoslava</field>
+<field name="librettist">Drahoslava Makovicky</field>
+<field name="librettistSort">Makovicky, Drahoslava</field>
 <field name="theater">Státní divadlo Zdenka Nejedlého</field>
 <field name="city">Ostrava</field>
 <field name="region">Severomoravsky Kraj</field>

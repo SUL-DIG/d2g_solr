@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10104032</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Bratu, Teodor</field>
 <field name="year">1979</field>
 <field name="date">1979</field>
-<field name="librettist">Sebastian Popescu</field>
-<field name="librettistSort">Popescu, Sebastian</field>
-<field name="librettist">Constantin Ghinea</field>
-<field name="librettistSort">Ghinea, Constantin</field>
+<field name="librettist">Silvia Popescu</field>
+<field name="librettistSort">Popescu, Silvia</field>
+<field name="librettist">C. Ghinea</field>
+<field name="librettistSort">Ghinea, C.</field>
 <field name="theater">Opera de Stat</field>
 <field name="city">Iasi</field>
 <field name="region">Iasi</field>

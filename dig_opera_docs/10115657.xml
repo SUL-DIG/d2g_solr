@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10115657</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Kapp, Eugen</field>
 <field name="year">1958</field>
 <field name="date">1958</field>
-<field name="librettist">Jossif Nasalevitš</field>
-<field name="librettistSort">Nasalevitš, Jossif</field>
+<field name="librettist">Jossif Nasalevits</field>
+<field name="librettistSort">Nasalevits, Jossif</field>
 <field name="theater">Teatr Vanemuine</field>
 <field name="city">Tartu</field>
 <field name="region">Tartu</field>

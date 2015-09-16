@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10127665</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1876</field>
 <field name="librettist">Antal Váradi</field>
 <field name="librettistSort">Váradi, Antal</field>
-<field name="librettist">François-René de Chateaubriand</field>
-<field name="librettistSort">Chateaubriand, François-René de</field>
+<field name="librettist">François René de Chateaubriand</field>
+<field name="librettistSort">Chateaubriand, François René de</field>
 <field name="theater">Várszínház</field>
 <field name="city">Budapest</field>
 

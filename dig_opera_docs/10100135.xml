@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100135</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Adam, Adolphe</field>
 <field name="year">1835</field>
 <field name="date">1835</field>
-<field name="librettist">Amable de Saint-Hilaire</field>
-<field name="librettistSort">Saint-Hilaire, Amable de</field>
+<field name="librettist">Amable Villain de Saint-Hilaire</field>
+<field name="librettistSort">Saint-Hilaire, Amable Villain de</field>
 <field name="librettist">[Auguste-Michel-Benoît Gaudichot-Masson] Michel Masson</field>
 <field name="librettistSort">Masson, Michel [Auguste-Michel-Benoît Gaudichot-Masson]</field>
 <field name="theater">Opéra-Comique</field>

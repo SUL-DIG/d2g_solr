@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10125416</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Radines, __</field>
 <field name="year">1895</field>
 <field name="date">1895</field>
-<field name="librettist">Francis Yralts</field>
-<field name="librettistSort">Yralts, Francis</field>
+<field name="librettist">__ Yralto</field>
+<field name="librettistSort">Yralto, __</field>
 <field name="theater">Théâtre Municipal</field>
 <field name="city">Montpellier</field>
 <field name="region">Hérault</field>

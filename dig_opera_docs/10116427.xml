@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10116427</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1962</field>
 <field name="librettist">Jovan Putnik</field>
 <field name="librettistSort">Putnik, Jovan</field>
-<field name="librettist">Kosta Trifković</field>
-<field name="librettistSort">Trifković, Kosta</field>
+<field name="librettist">Kosta Trifkovic</field>
+<field name="librettistSort">Trifkovic, Kosta</field>
 <field name="theater">Narodno Pozorista</field>
 <field name="city">Belgrade</field>
 

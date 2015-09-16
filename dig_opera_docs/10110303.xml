@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110303</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Fortuné, J.</field>
 <field name="year">1913</field>
 <field name="date">1913</field>
-<field name="librettist">René Malot</field>
-<field name="librettistSort">Malot, René</field>
+<field name="librettist">P. Malot</field>
+<field name="librettistSort">Malot, P.</field>
 
 <field name="city">Lyon</field>
 <field name="region">Rhône du Lyonnais</field>

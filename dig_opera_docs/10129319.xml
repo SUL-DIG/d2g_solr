@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10129319</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Smutný, Jirí</field>
 <field name="year">1967</field>
 <field name="date">1967</field>
-<field name="librettist">Jiří Smutný</field>
-<field name="librettistSort">Smutný, Jiří</field>
+<field name="librettist">Jirí Smutný</field>
+<field name="librettistSort">Smutný, Jirí</field>
 <field name="librettist">Berthold Cerník</field>
 <field name="librettistSort">Cerník, Berthold</field>
 <field name="theater">Czech Radio</field>

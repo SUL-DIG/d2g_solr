@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10127861</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Savin, [Friedrich von Schirza] Risto</field>
 <field name="year">1906</field>
 <field name="date">1906</field>
-<field name="librettist">[Friderik Širca] Risto Savin</field>
-<field name="librettistSort">Savin, Risto [Friderik Širca]</field>
-<field name="librettist">Anton Aškerc</field>
-<field name="librettistSort">Aškerc, Anton</field>
+<field name="librettist">[Friedrich von Schirza] Risto Savin</field>
+<field name="librettistSort">Savin, Risto [Friedrich von Schirza]</field>
+<field name="librettist">Anton Askerc</field>
+<field name="librettistSort">Askerc, Anton</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Zagreb</field>
 

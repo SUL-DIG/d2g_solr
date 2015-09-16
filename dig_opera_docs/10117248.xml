@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10117248</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1802</field>
 <field name="librettist">Joseph Patrat</field>
 <field name="librettistSort">Patrat, Joseph</field>
-<field name="librettist">Michel-Nicolas Balisson de Rougemont</field>
-<field name="librettistSort">Balisson de Rougemont, Michel-Nicolas</field>
+<field name="librettist">Michel Nicolas Ballison de Rougemont</field>
+<field name="librettistSort">Rougemont, Michel Nicolas Ballison de</field>
 <field name="theater">Théâtre des Jeunes Artistes</field>
 <field name="city">Paris</field>
 

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10129312</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Smol'sky, Dzmitri Branislavavich</field>
 <field name="year">1990</field>
 <field name="date">1990</field>
-<field name="librettist">Svetlana Klimkovich</field>
-<field name="librettistSort">Klimkovich, Svetlana</field>
+<field name="librettist">S. Klimkovich</field>
+<field name="librettistSort">Klimkovich, S.</field>
 <field name="theater">Belarusian Television</field>
 <field name="city">Minsk</field>
 <field name="region">Minsk Oblast</field>

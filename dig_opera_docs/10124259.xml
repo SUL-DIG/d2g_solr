@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10124259</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Picka, Franz</field>
 <field name="year">1907</field>
 <field name="date">1907</field>
-<field name="librettist">Karel Mašek</field>
-<field name="librettistSort">Mašek, Karel</field>
+<field name="librettist">Karel Masek</field>
+<field name="librettistSort">Masek, Karel</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Prague</field>
 

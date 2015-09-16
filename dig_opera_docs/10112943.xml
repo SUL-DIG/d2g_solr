@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10112943</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1884</field>
 <field name="librettist">Giulio Cappuccini</field>
 <field name="librettistSort">Cappuccini, Giulio</field>
-<field name="librettist">François-René de Chateaubriand</field>
-<field name="librettistSort">Chateaubriand, François-René de</field>
+<field name="librettist">François René de Chateaubriand</field>
+<field name="librettistSort">Chateaubriand, François René de</field>
 <field name="theater">Teatro Carcano</field>
 <field name="city">Milan</field>
 <field name="region">Lombardia</field>

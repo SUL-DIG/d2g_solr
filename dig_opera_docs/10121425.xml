@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10121425</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Moyzes, Alexander</field>
 <field name="year">1935</field>
 <field name="date">1935</field>
-<field name="librettist">Ľudo Zúbek</field>
-<field name="librettistSort">Zúbek, Ľudo</field>
+<field name="librettist">Ludo Zúbek</field>
+<field name="librettistSort">Zúbek, Ludo</field>
 <field name="librettist">Alexander Moyzes</field>
 <field name="librettistSort">Moyzes, Alexander</field>
 <field name="theater">Radio Bratislava</field>

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10108850</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1805</field>
 <field name="librettist">__ Matuszewski</field>
 <field name="librettistSort">Matuszewski, __</field>
-<field name="librettist">François-Benoît Hoffman</field>
-<field name="librettistSort">Hoffman, François-Benoît</field>
+<field name="librettist">François Benoît Hoffman</field>
+<field name="librettistSort">Hoffman, François Benoît</field>
 <field name="theater">Teatr Narodowy</field>
 <field name="city">Warsaw</field>
 

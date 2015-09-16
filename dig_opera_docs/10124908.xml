@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10124908</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Porta, Bernardo</field>
 <field name="year">1800</field>
 <field name="date">1800</field>
-<field name="librettist">Jean-Baptiste-Gabriel-Marie de Milcent</field>
-<field name="librettistSort">Milcent, Jean-Baptiste-Gabriel-Marie de</field>
+<field name="librettist">Jean-Baptiste-Gabriel-Marie Milcent</field>
+<field name="librettistSort">Milcent, Jean-Baptiste-Gabriel-Marie</field>
 <field name="theater">Théâtre de l'Ambigu-Comique</field>
 <field name="city">Paris</field>
 

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10105824</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Chlubna, Osvald</field>
 <field name="year">1921</field>
 <field name="date">1921</field>
-<field name="librettist">[Emil Bohuslav Frída] Jaroslav Vrchlický</field>
-<field name="librettistSort">Vrchlický, Jaroslav, [Emil Bohuslav Frída]</field>
+<field name="librettist">[Emil Bohus Frída] Jaroslav Vrchlický</field>
+<field name="librettistSort">Vrchlický, Jaroslav [Emil Bohus Frída]</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>

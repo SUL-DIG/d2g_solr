@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10126660</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Rosellen, Léon</field>
 <field name="year">1896</field>
 <field name="date">1896</field>
-<field name="librettist">G. Praylauré</field>
-<field name="librettistSort">Praylauré, G.</field>
+<field name="librettist">G. de Praylauré</field>
+<field name="librettistSort">Praylauré, G. de</field>
 
 <field name="city">Colombes</field>
 <field name="region">Hauts-de-Seine</field>

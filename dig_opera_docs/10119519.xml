@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10119519</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Martini, Johann Paul Aegidius</field>
 <field name="year">1794</field>
 <field name="date">1794</field>
-<field name="librettist">Constance de Salm</field>
-<field name="librettistSort">Salm, Constance de</field>
+<field name="librettist">Constance Marie de Théis de Salm-Dyck</field>
+<field name="librettistSort">Salm-Dyck, Constance Marie de Théis de</field>
 
 <field name="city">Paris</field>
 

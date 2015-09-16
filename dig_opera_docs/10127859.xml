@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10127859</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1909</field>
 <field name="librettist">Richard Batka</field>
 <field name="librettistSort">Batka, Richard</field>
-<field name="librettist">Josip Jurčič</field>
-<field name="librettistSort">Jurčič, Josip</field>
+<field name="librettist">Josip Jurcic</field>
+<field name="librettistSort">Jurcic, Josip</field>
 <field name="theater">Slovensko Dazelno Gledalisce</field>
 <field name="city">Ljubljana</field>
 

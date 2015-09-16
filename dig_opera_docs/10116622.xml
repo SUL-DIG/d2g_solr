@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10116622</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Kreutzer, Rodolphe</field>
 <field name="year">1792</field>
 <field name="date">1792</field>
-<field name="librettist">Auguste-Louis Bertin d'Antilly</field>
-<field name="librettistSort">Bertin d'Antilly, Auguste-Louis</field>
+<field name="librettist">Louis-Auguste Bertin d'Antilly</field>
+<field name="librettistSort">d'Antilly, Louis-Auguste Bertin</field>
 <field name="theater">Théâtre de la rue Feydeau</field>
 <field name="city">Paris</field>
 

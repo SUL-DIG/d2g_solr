@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10131548</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1984</field>
 <field name="librettist">Irina Yevgenyevna Taymanova</field>
 <field name="librettistSort">Taymanova, Irina Yevgenyevna</field>
-<field name="librettist">Karel Čapek</field>
-<field name="librettistSort">Čapek, Karel</field>
+<field name="librettist">Karel Capek</field>
+<field name="librettistSort">Capek, Karel</field>
 <field name="theater">Leningrad Television</field>
 <field name="city">St. Petersburg</field>
 

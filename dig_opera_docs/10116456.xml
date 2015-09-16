@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10116456</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Kovarovic, Karel</field>
 <field name="year">1901</field>
 <field name="date">1901</field>
-<field name="librettist">Karel Šipek</field>
-<field name="librettistSort">Šipek, Karel</field>
-<field name="librettist">Božena Němcová</field>
-<field name="librettistSort">Němcová, Božena</field>
+<field name="librettist">Karel Sípek</field>
+<field name="librettistSort">Sípek, Karel</field>
+<field name="librettist">Bozena Nemcová</field>
+<field name="librettistSort">Nemcová, Bozena</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Prague</field>
 

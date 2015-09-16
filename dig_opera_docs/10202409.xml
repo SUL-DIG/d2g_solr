@@ -1,4 +1,4 @@
-<add><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10202409</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Kráska a zvire (Beauty and the Beast)</field>
@@ -9,8 +9,8 @@
 		<field name="date">1974</field>
 		<field name="composer">Miloslav Istvan</field>
 		<field name="composerSort">Istvan, Miloslav</field>
-		<field name="librettist">František Hrubín</field>
-		<field name="librettistSort">Hrubín, František</field>
+		<field name="librettist">Frantisek Hrubín</field>
+		<field name="librettistSort">Hrubín, Frantisek</field>
 		<field name="librettist">Jeanne Marie Leprince de Beaumont</field>
 		<field name="librettistSort">Leprince de Beaumont, Jeanne Marie</field>
 		

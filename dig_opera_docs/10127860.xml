@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10127860</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Savin, [Friedrich von Schirza] Risto</field>
 <field name="year">1936</field>
 <field name="date">1936</field>
-<field name="librettist">[Friderik Širca] Risto Savin</field>
-<field name="librettistSort">Savin, Risto [Friderik Širca]</field>
+<field name="librettist">[Friedrich von Schirza] Risto Savin</field>
+<field name="librettistSort">Savin, Risto [Friedrich von Schirza]</field>
 <field name="librettist">Igo Gruden</field>
 <field name="librettistSort">Gruden, Igo</field>
 <field name="theater">Slovensko Dazelno Gledalisce</field>

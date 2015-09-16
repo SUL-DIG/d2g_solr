@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114716</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Hrazdira, Cyril Metodej</field>
 <field name="year">1902</field>
 <field name="date">1902</field>
-<field name="librettist">Karel Vojtěch Prokop</field>
-<field name="librettistSort">Prokop, Karel Vojtěch</field>
+<field name="librettist">Karel Vojtech Prokop</field>
+<field name="librettistSort">Prokop, Karel Vojtech</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>

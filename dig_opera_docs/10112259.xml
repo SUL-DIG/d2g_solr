@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10112259</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Godefroid, Jules Joseph</field>
 <field name="year">1839</field>
 <field name="date">1839</field>
-<field name="librettist">Amable de Saint-Hilaire</field>
-<field name="librettistSort">Saint-Hilaire, Amable de</field>
+<field name="librettist">Amable Villain de Saint-Hilaire</field>
+<field name="librettistSort">Saint-Hilaire, Amable Villain de</field>
 <field name="theater">Théâtre de la Renaissance</field>
 <field name="city">Paris</field>
 

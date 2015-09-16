@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10115467</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Juzeliunas, Julius</field>
 <field name="year">1991</field>
 <field name="date">1991</field>
-<field name="librettist">Julius Juzeliūnas</field>
-<field name="librettistSort">Juzeliūnas, Julius</field>
+<field name="librettist">Julius Juzeliunas</field>
+<field name="librettistSort">Juzeliunas, Julius</field>
 <field name="librettist">Friedrich Dürrenmatt</field>
 <field name="librettistSort">Dürrenmatt, Friedrich</field>
 <field name="theater">Operos ir Baleto Teatras</field>

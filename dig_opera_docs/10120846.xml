@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10120846</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1963</field>
 <field name="librettist">Kirill Valdimirovich Molchanov</field>
 <field name="librettistSort">Molchanov, Kirill Valdimirovich</field>
-<field name="librettist">Jan Otčenášek</field>
-<field name="librettistSort">Otčenášek, Jan</field>
+<field name="librettist">Jan Otcenásek</field>
+<field name="librettistSort">Otcenásek, Jan</field>
 <field name="theater">Malïy Opernïy Teatr</field>
 <field name="city">St. Petersburg</field>
 

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10130412</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Svete, Tomaz</field>
 <field name="year">1983</field>
 <field name="date">1983</field>
-<field name="librettist">Tomaž Svete</field>
-<field name="librettistSort">Svete, Tomaž</field>
+<field name="librettist">Tomaz Svete</field>
+<field name="librettistSort">Svete, Tomaz</field>
 <field name="librettist">Ivan Cankar</field>
 <field name="librettistSort">Cankar, Ivan</field>
 <field name="theater">Slovensko Dazelno Gledalisce</field>

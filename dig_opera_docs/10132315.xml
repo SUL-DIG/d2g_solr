@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132315</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1955</field>
 <field name="librettist">[Karel Vladimír Hloch] Vladimír Hloch Roklan</field>
 <field name="librettistSort">Roklan, Vladimír Hloch [Karel Vladimír Hloch]</field>
-<field name="librettist">Vítězslav Hálek</field>
-<field name="librettistSort">Hálek, Vítězslav</field>
+<field name="librettist">Víteslav Hálek</field>
+<field name="librettistSort">Hálek, Víteslav</field>
 <field name="theater">Stredoceské Divadlo</field>
 <field name="city">Kladno</field>
 <field name="region">Stredocesky Kraj</field>

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10120934</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Moniuszko, Stanislaw</field>
 <field name="year">1848</field>
 <field name="date">1848</field>
-<field name="librettist">Włodzimierz Wolski</field>
-<field name="librettistSort">Wolski, Włodzimierz</field>
-<field name="librettist">Kazimierz Władysław Wójcicki</field>
-<field name="librettistSort">Wójcicki, Kazimierz Władysław</field>
+<field name="librettist">Wlodzimierz Wolski</field>
+<field name="librettistSort">Wolski, Wlodzimierz</field>
+<field name="librettist">Kazimierz Wladyslaw Wójcicki</field>
+<field name="librettistSort">Wójcicki, Kazimierz Wladyslaw</field>
 
 <field name="city">Vilnius</field>
 

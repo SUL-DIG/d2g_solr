@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10131475</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1985</field>
 <field name="librettist">Romuald Twardowski</field>
 <field name="librettistSort">Twardowski, Romuald</field>
-<field name="librettist">Stefan Żeromski</field>
-<field name="librettistSort">Żeromski, Stefan</field>
+<field name="librettist">Stefan Zeromski</field>
+<field name="librettistSort">Zeromski, Stefan</field>
 <field name="theater">Polish Television (Telewizja Polska)</field>
 <field name="city">Warsaw</field>
 

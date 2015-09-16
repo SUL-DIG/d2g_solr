@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10112702</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1777</field>
 <field name="librettist">Pierre Laujon</field>
 <field name="librettistSort">Laujon, Pierre</field>
-<field name="librettist">Pierre-Claude La Chaussée</field>
-<field name="librettistSort">La Chaussée, Pierre-Claude</field>
+<field name="librettist">Pierre-Claude Nivelle de la Chaussée</field>
+<field name="librettistSort">Nivelle de la Chaussée, Pierre-Claude</field>
 <field name="theater">Théâtre de Gabriel</field>
 <field name="city">Versailles</field>
 <field name="region">Yvelines</field>

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10105300</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Catel, Charles-Simon</field>
 <field name="year">1818</field>
 <field name="date">1818</field>
-<field name="librettist">Étienne de Jouy</field>
-<field name="librettistSort">Jouy, Étienne de</field>
+<field name="librettist">Victor Joseph Étienne de Jouy</field>
+<field name="librettistSort">Jouy, Victor Joseph Étienne de</field>
 <field name="librettist">Noël Lefebvre</field>
 <field name="librettistSort">Lefebvre, Noël</field>
 <field name="theater">Opéra</field>

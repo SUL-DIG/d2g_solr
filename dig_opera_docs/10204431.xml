@@ -1,4 +1,4 @@
-<add><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10204431</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Svatá Ludmila (St. Ludmilla)</field>
@@ -9,8 +9,8 @@
 		<field name="date">October 15, 1886</field>
 		<field name="composer">Antonín Dvorák</field>
 		<field name="composerSort">Dvorák, Antonín</field>
-		<field name="librettist">[Emil Bohuslav Frída] Jaroslav Vrchlický</field>
-		<field name="librettistSort">Vrchlický, Jaroslav, [Emil Bohuslav Frída]</field>
+		<field name="librettist">[Emil Bohus Frída] Jaroslav Vrchlický</field>
+		<field name="librettistSort">Vrchlick, Jaroslav [Emil Bohus Frída]</field>
 		
 		<field name="theater">Leeds Musical Festival</field>
 		<field name="city">Leeds</field>

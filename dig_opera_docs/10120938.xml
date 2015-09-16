@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10120938</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Moniuszko, Stanislaw</field>
 <field name="year">1839</field>
 <field name="date">1839</field>
-<field name="librettist">Aleksander Fredro</field>
-<field name="librettistSort">Fredro, Aleksander</field>
+<field name="librettist">Alexander Fredro</field>
+<field name="librettistSort">Fredro, Alexander</field>
 
 <field name="city">Vilnius</field>
 

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123442</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Pauer, Jirí</field>
 <field name="year">1958</field>
 <field name="date">1958</field>
-<field name="librettist">Míla Mellanová</field>
-<field name="librettistSort">Mellanová, Míla</field>
+<field name="librettist">[Miroslava Mellanová] Míla Mellanová</field>
+<field name="librettistSort">Mellanová, Míla [Miroslava Mellanová]</field>
 <field name="librettist">Josef Hloucha</field>
 <field name="librettistSort">Hloucha, Josef</field>
 <field name="theater">Divadlo Jirího Volker</field>

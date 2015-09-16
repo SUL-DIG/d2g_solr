@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10112682</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Gresák, Jozef</field>
 <field name="year">1974</field>
 <field name="date">1974</field>
-<field name="librettist">Pavol Országh-Hviezdoslav</field>
-<field name="librettistSort">Országh-Hviezdoslav, Pavol</field>
+<field name="librettist">Pavel Országh-Hviezdoslav</field>
+<field name="librettistSort">Országh-Hviezdoslav, Pavel</field>
 <field name="theater">Slovenské Narodné Divadlo</field>
 <field name="city">Bratislava</field>
 

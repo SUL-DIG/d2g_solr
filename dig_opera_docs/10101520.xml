@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101520</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Baccelli, Domenico</field>
 <field name="year">1770</field>
 <field name="date">1770</field>
-<field name="librettist">Jean-François Cailhava de L’Estandoux</field>
-<field name="librettistSort">Cailhava de L’Estandoux, Jean-François</field>
+<field name="librettist">Jean François Cailhava d'Estandoux</field>
+<field name="librettistSort">d'Estandoux, Jean François Cailhava</field>
 <field name="theater">Comédie-Italienne</field>
 <field name="city">Paris</field>
 

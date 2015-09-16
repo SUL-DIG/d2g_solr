@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10115221</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Jenko, Davorin</field>
 <field name="year">1894</field>
 <field name="date">1894</field>
-<field name="librettist">Dragutin Ilić</field>
-<field name="librettistSort">Ilić, Dragutin</field>
+<field name="librettist">Dragutin Ilic</field>
+<field name="librettistSort">Ilic, Dragutin</field>
 <field name="theater">Narodno Pozorista</field>
 <field name="city">Belgrade</field>
 

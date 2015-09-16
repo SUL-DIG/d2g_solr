@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123236</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1941</field>
 <field name="librettist">Vladan Desnica</field>
 <field name="librettistSort">Desnica, Vladan</field>
-<field name="librettist">Niko Bartulović</field>
-<field name="librettistSort">Bartulović, Niko</field>
+<field name="librettist">Niko Bartulovic</field>
+<field name="librettistSort">Bartulovic, Niko</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Zagreb</field>
 

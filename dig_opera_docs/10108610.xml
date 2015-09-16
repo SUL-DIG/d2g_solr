@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10108610</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Dvorák, Antonín</field>
 <field name="year">1876</field>
 <field name="date">1876</field>
-<field name="librettist">František Zákrejs</field>
-<field name="librettistSort">Zákrejs, František</field>
-<field name="librettist">Václav Beneš-Šumavský</field>
-<field name="librettistSort">Beneš-Šumavský, Václav</field>
+<field name="librettist">Juljan Surzýcha</field>
+<field name="librettistSort">Surzýcha, Juljan</field>
+<field name="librettist">Václav Benes-Sumavský</field>
+<field name="librettistSort">Benes-Sumavský, Václav</field>
 <field name="theater">Prozatímní Divadlo</field>
 <field name="city">Prague</field>
 

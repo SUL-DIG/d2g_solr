@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10122270</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1924</field>
 <field name="librettist">Waleria Szalay-Groele</field>
 <field name="librettistSort">Szalay-Groele, Waleria</field>
-<field name="librettist">Kazimiera Jeżewska</field>
-<field name="librettistSort">Jeżewska, Kazimiera</field>
+<field name="librettist">Kazimiery Jezewska</field>
+<field name="librettistSort">Jezewska, Kazimiery</field>
 <field name="theater">Teatr Wielki</field>
 <field name="city">Poznan</field>
 <field name="region">Wielkopolskie</field>

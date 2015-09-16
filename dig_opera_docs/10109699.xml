@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10109699</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Fibich, Zdenek</field>
 <field name="year">1895</field>
 <field name="date">1895</field>
-<field name="librettist">[Emil Bohuslav Frída] Jaroslav Vrchlický</field>
-<field name="librettistSort">Vrchlický, Jaroslav, [Emil Bohuslav Frída]</field>
+<field name="librettist">[Emil Bohus Frída] Jaroslav Vrchlický</field>
+<field name="librettistSort">Vrchlický, Jaroslav [Emil Bohus Frída]</field>
 <field name="librettist">William Shakespeare</field>
 <field name="librettistSort">Shakespeare, William</field>
 <field name="theater">Národní Divadlo</field>

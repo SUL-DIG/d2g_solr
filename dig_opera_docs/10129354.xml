@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10129354</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Söderlind, Ragnar</field>
 <field name="year">1978</field>
 <field name="date">1978</field>
-<field name="librettist">Sigbjørn Obstfelder</field>
-<field name="librettistSort">Obstfelder, Sigbjørn</field>
+<field name="librettist">Sigurd Obstfelder</field>
+<field name="librettistSort">Obstfelder, Sigurd</field>
 <field name="theater">NRK Television (Norsk Rikskringkasting)</field>
 <field name="city">Oslo</field>
 

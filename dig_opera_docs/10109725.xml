@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10109725</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Figus, Viliam</field>
 <field name="year">1928</field>
 <field name="date">1928</field>
-<field name="librettist">[Ondrej Braxatoris] Andrej Sládkovič</field>
-<field name="librettistSort">Sládkovič, Andrej [Ondrej Braxatoris]</field>
+<field name="librettist">[Ondrej Braxatoris] Andrej Sládkovic</field>
+<field name="librettistSort">Sládkovic, Andrej [Ondrej Braxatoris]</field>
 <field name="theater">Slovenské Narodné Divadlo</field>
 <field name="city">Bratislava</field>
 

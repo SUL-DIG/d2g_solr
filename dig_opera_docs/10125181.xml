@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10125181</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Prudent, __</field>
 <field name="year">1772</field>
 <field name="date">1772</field>
-<field name="librettist">Roger-Timothée Régnard de Pleinchesne</field>
-<field name="librettistSort">Régnard de Pleinchesne, Roger-Timothée</field>
+<field name="librettist">Roger Timothée Regnard de Pleinchesne</field>
+<field name="librettistSort">Pleinchesne, Roger Timothée Regnard de</field>
 <field name="theater">Théâtre de l'Ambigu-Comique</field>
 <field name="city">Paris</field>
 

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10133291</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1985</field>
 <field name="librettist">V. Kuryans'ky</field>
 <field name="librettistSort">Kuryans'ky, V.</field>
-<field name="librettist">Karel Čapek</field>
-<field name="librettistSort">Čapek, Karel</field>
+<field name="librettist">Karel Capek</field>
+<field name="librettistSort">Capek, Karel</field>
 <field name="theater">Akademichnyy Teatr Opery ta Baletu imeni I. Franka</field>
 <field name="city">L'viv</field>
 <field name="region">L'vivs'ka Oblast</field>

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132714</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1936</field>
 <field name="librettist">Bohumir Polách</field>
 <field name="librettistSort">Polách, Bohumir</field>
-<field name="librettist">Jiří Žalman</field>
-<field name="librettistSort">Žalman, Jiří</field>
+<field name="librettist">Jirí Zalman</field>
+<field name="librettistSort">Zalman, Jirí</field>
 <field name="theater">Velká Opera 5. Kvetna</field>
 <field name="city">Prague</field>
 

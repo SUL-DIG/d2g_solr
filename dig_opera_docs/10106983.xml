@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10106983</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Czyz, Henryk</field>
 <field name="year">1967</field>
 <field name="date">1967</field>
-<field name="librettist">Sławomir Mrożek</field>
-<field name="librettistSort">Mrożek, Sławomir</field>
+<field name="librettist">Slawomir Mrozek</field>
+<field name="librettistSort">Mrozek, Slawomir</field>
 <field name="theater">Polish Television (Telewizja Polska)</field>
 <field name="city">Warsaw</field>
 

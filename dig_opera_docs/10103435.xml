@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10103435</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Boisval, Mme. Le Chevalier de</field>
 <field name="year">1895</field>
 <field name="date">1895</field>
-<field name="librettist">Gustave-Fabius de Champville</field>
-<field name="librettistSort">Champville, Gustave-Fabius de</field>
+<field name="librettist">Fabrice de Champville</field>
+<field name="librettistSort">Champville, Fabrice de</field>
 <field name="theater">Théâtre Municipal</field>
 <field name="city">Auxerre</field>
 <field name="region">Yonne</field>

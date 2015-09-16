@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10113553</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Hanus, Jan</field>
 <field name="year">1986</field>
 <field name="date">1986</field>
-<field name="librettist">Jan Hanuš</field>
-<field name="librettistSort">Hanuš, Jan</field>
+<field name="librettist">Jan Hanus</field>
+<field name="librettistSort">Hanus, Jan</field>
 <field name="librettist">Jan Frank Fischer</field>
 <field name="librettistSort">Fischer, Jan Frank</field>
 <field name="theater">Czech Television (Ceska Televize)</field>

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123441</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Pauer, Jirí</field>
 <field name="year">1958</field>
 <field name="date">1958</field>
-<field name="librettist">Jiří Pauer</field>
-<field name="librettistSort">Pauer, Jiří</field>
+<field name="librettist">Jirí Pauer</field>
+<field name="librettistSort">Pauer, Jirí</field>
 <field name="librettist">[Jan Jaroslav Strejcek] Jan Bor</field>
 <field name="librettistSort">Bor, Jan [Jan Jaroslav Strejcek]</field>
 <field name="theater">Národní Divadlo</field>

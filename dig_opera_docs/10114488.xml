@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114488</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1921</field>
 <field name="librettist">Richard Kessler</field>
 <field name="librettistSort">Kessler, Richard</field>
-<field name="librettist">Gebhardt Schätzler-Perasini</field>
-<field name="librettistSort">Schätzler-Perasini, Gebhardt</field>
+<field name="librettist">Gerhard Schätzler-Perasini</field>
+<field name="librettistSort">Schätzler-Perasini, Gerhard</field>
 <field name="theater">Residenztheater</field>
 <field name="city">Wiesbaden</field>
 <field name="region">Hessen</field>

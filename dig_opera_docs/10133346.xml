@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10133346</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Zámecnik, Evzen</field>
 <field name="year">1977</field>
 <field name="date">1977</field>
-<field name="librettist">Evžen Zámečník</field>
-<field name="librettistSort">Zámečník, Evžen</field>
+<field name="librettist">Evzen Zámecnik</field>
+<field name="librettistSort">Zámecnik, Evzen</field>
 <field name="librettist">Ondrej Sekora</field>
 <field name="librettistSort">Sekora, Ondrej</field>
 <field name="theater">Janáckova Opera</field>

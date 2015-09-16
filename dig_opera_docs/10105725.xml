@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10105725</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Cherubini, Luigi</field>
 <field name="year">1797</field>
 <field name="date">1797</field>
-<field name="librettist">François-Benoît Hoffman</field>
-<field name="librettistSort">Hoffman, François-Benoît</field>
+<field name="librettist">François Benoît Hoffman</field>
+<field name="librettistSort">Hoffman, François Benoît</field>
 <field name="librettist">Thomas Corneille</field>
 <field name="librettistSort">Corneille, Thomas</field>
 <field name="theater">Théâtre de la rue Feydeau</field>

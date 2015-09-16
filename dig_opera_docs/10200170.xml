@@ -1,4 +1,4 @@
-<add><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10200170</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Die Anbetung am Grabe Jesu</field>
@@ -9,8 +9,8 @@
 		<field name="date">1805</field>
 		<field name="composer">Franz Seraph von Destouches</field>
 		<field name="composerSort">Destouches, Franz Seraph von</field>
-		<field name="librettist">Johann Gottfried von Herder</field>
-		<field name="librettistSort">Herder, Johann Gottfried von</field>
+		<field name="librettist">Johann Gottfried Herder</field>
+		<field name="librettistSort">Herder, Johann Gottfried</field>
 		
 		
 		<field name="city">Weimar</field>

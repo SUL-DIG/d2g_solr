@@ -1,4 +1,4 @@
-<add><doc>
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10204679</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Il trionfo di Giuditta</field>
@@ -9,8 +9,8 @@
 		<field name="date">1869</field>
 		<field name="composer">Giovanni Pacini</field>
 		<field name="composerSort">Pacini, Giovanni</field>
-		<field name="librettist">Giuseppe Raffaele Abate</field>
-		<field name="librettistSort">Abate, Giuseppe Raffaele</field>
+		<field name="librettist">G. R. Abate</field>
+		<field name="librettistSort">Abate, G. R.</field>
 		
 		
 		<field name="city">Catania</field>

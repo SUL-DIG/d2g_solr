@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10120125</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Méhul, Étienne-Nicolas</field>
 <field name="year">1806</field>
 <field name="date">1806</field>
-<field name="librettist">Jacques-Maximilien Benjamin Bins de Saint-Victor</field>
-<field name="librettistSort">Saint-Victor, Jacques-Maximilien Benjamin Bins de</field>
+<field name="librettist">Jacques Maximilien Benjamin Bins de Saint-Victor</field>
+<field name="librettistSort">Bins de Saint-Victor, Jacques Maximilien Benjamin</field>
 <field name="librettist">[James Macpherson] Ossian</field>
 <field name="librettistSort">Ossian, [James Macpherson]</field>
 <field name="theater">Opéra-Comique</field>

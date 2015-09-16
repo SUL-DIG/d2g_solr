@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10124043</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1769</field>
 <field name="librettist">Charles Simon Favart</field>
 <field name="librettistSort">Favart, Charles Simon</field>
-<field name="librettist">Claude-Henri de Fusée de Voisenon</field>
-<field name="librettistSort">Voisenon , Claude-Henri de Fusée de</field>
+<field name="librettist">Claude-Henri de Fuzée de Voisenon</field>
+<field name="librettistSort">Voisenon, Claude-Henri de Fuzée de</field>
 <field name="theater">Comédie-Italienne</field>
 <field name="city">Paris</field>
 

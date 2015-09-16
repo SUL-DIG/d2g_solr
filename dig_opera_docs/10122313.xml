@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10122313</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Odak, Krsto</field>
 <field name="year">1934</field>
 <field name="date">1934</field>
-<field name="librettist">Duro Vilović</field>
-<field name="librettistSort">Vilović, Duro</field>
+<field name="librettist">Duro Vilovic</field>
+<field name="librettistSort">Vilovic, Duro</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Zagreb</field>
 

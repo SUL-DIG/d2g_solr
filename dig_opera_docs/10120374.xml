@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10120374</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Méreaux, Nicolas-Jean</field>
 <field name="year">1791</field>
 <field name="date">1791</field>
-<field name="librettist">Pierre-Antoine Duprat de Latouloubre</field>
-<field name="librettistSort">Duprat de Latouloubre, Pierre-Antoine</field>
+<field name="librettist">Pierre-Antoine Duprat de la Touloubre</field>
+<field name="librettistSort">Duprat de la Touloubre, Pierre-Antoine</field>
 <field name="theater">Opéra</field>
 <field name="city">Paris</field>
 

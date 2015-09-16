@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10125536</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1745</field>
 <field name="librettist">Jacques Autreau</field>
 <field name="librettistSort">Autreau, Jacques</field>
-<field name="librettist">Adrien-Joseph de Valois d'Orville</field>
-<field name="librettistSort">Valois d'Orville, Adrien-Joseph de</field>
+<field name="librettist">Adrien-Joseph Le Valois d'Orville</field>
+<field name="librettistSort">d'Orville, Adrien-Joseph Le Valois</field>
 <field name="theater">Théâtre des Grandes Écuries</field>
 <field name="city">Versailles</field>
 <field name="region">Yvelines</field>

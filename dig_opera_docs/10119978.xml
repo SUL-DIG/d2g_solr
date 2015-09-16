@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10119978</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1811</field>
 <field name="librettist">Cesare Arici</field>
 <field name="librettistSort">Arici, Cesare</field>
-<field name="librettist">François-Louis Gand Le Bland Du Roullet</field>
-<field name="librettistSort">Du Roullet, François-Louis Gand Le Bland</field>
+<field name="librettist">Marie-François-Louis Gand Leblanc du Roullet</field>
+<field name="librettistSort">Leblanc du Roullet, Marie-François-Louis Gand</field>
 <field name="theater">Teatro Grande</field>
 <field name="city">Brescia</field>
 <field name="region">Lombardia</field>

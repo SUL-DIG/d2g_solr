@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10129790</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Stegmann, Carl David</field>
 <field name="year">1777</field>
 <field name="date">1777</field>
-<field name="librettist">Conrad Ekhof</field>
-<field name="librettistSort">Ekhof, Conrad</field>
+<field name="librettist">__ Echof</field>
+<field name="librettistSort">Echof, __</field>
 <field name="theater">Schloss Friedenstein</field>
 <field name="city">Gotha</field>
 <field name="region">Thüringen</field>

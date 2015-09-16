@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100140</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1826</field>
 <field name="librettist">Eugène Scribe</field>
 <field name="librettistSort">Scribe, Eugène</field>
-<field name="librettist">Édouard-Joseph-Ennemond Mazères</field>
-<field name="librettistSort">Mazères, Édouard-Joseph-Ennemond</field>
+<field name="librettist">Edmond-Joseph Ennemond Mazères</field>
+<field name="librettistSort">Mazères, Edmond-Joseph Ennemond</field>
 <field name="theater">Théâtre du Gymnase</field>
 <field name="city">Paris</field>
 

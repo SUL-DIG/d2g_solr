@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10104458</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Burian, Emil Frantisek</field>
 <field name="year">1935</field>
 <field name="date">1935</field>
-<field name="librettist">Vítězslav Nezval</field>
-<field name="librettistSort">Nezval, Vítězslav</field>
+<field name="librettist">Víteslav Nezval</field>
+<field name="librettistSort">Nezval, Víteslav</field>
 
 <field name="city">Prague</field>
 

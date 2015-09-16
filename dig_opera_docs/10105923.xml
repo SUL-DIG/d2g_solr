@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10105923</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Cikker, Ján</field>
 <field name="year">1957</field>
 <field name="date">1957</field>
-<field name="librettist">[Ján Čietek] Ján Smrek</field>
-<field name="librettistSort">Smrek, Ján [Ján Čietek]</field>
+<field name="librettist">[Ján Cietek] Ján Smrek</field>
+<field name="librettistSort">Smrek, Ján [Ján Cietek]</field>
 <field name="theater">Slovenské Narodné Divadlo</field>
 <field name="city">Bratislava</field>
 

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10119814</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1970</field>
 <field name="librettist">Bernadetta Matuszczak</field>
 <field name="librettistSort">Matuszczak, Bernadetta</field>
-<field name="librettist">Jarosław Iwaszkiewicz</field>
-<field name="librettistSort">Iwaszkiewicz, Jarosław</field>
+<field name="librettist">Jaroslaw Iwaszkiewicz</field>
+<field name="librettistSort">Iwaszkiewicz, Jaroslaw</field>
 <field name="theater">Teatr Wielki</field>
 <field name="city">Warsaw</field>
 

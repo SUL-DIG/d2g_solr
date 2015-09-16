@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10121962</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Nesvera, Josef</field>
 <field name="year">1906</field>
 <field name="date">1906</field>
-<field name="librettist">[Bedřich Remes] B. Kaznicov</field>
-<field name="librettistSort">Kaznicov, B. [Bedřich Remes]</field>
+<field name="librettist">[Bedrich Remes] B. Kaznicov</field>
+<field name="librettistSort">Kaznicov, B. [Bedrich Remes]</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10116106</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Klinkova, Zhivka</field>
 <field name="year">1986</field>
 <field name="date">1986</field>
-<field name="librettist">Július Gyermek</field>
-<field name="librettistSort">Gyermek, Július</field>
+<field name="librettist">Júlis Gyermek</field>
+<field name="librettistSort">Gyermek, Júlis</field>
 <field name="librettist">Venko Markovski</field>
 <field name="librettistSort">Markovski, Venko</field>
 

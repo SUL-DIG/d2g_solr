@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10122259</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Novák, Vítezslav</field>
 <field name="year">1923</field>
 <field name="date">1923</field>
-<field name="librettist">Hanuš Jelínek</field>
-<field name="librettistSort">Jelínek, Hanuš</field>
+<field name="librettist">Hanus Jelínek</field>
+<field name="librettistSort">Jelínek, Hanus</field>
 <field name="librettist">Alois Jirásek</field>
 <field name="librettistSort">Jirásek, Alois</field>
 <field name="theater">Národní Divadlo</field>

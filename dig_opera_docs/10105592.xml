@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10105592</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1793</field>
 <field name="librettist">[Charles-Augustin Bassompierre] Sewrin</field>
 <field name="librettistSort">Sewrin, [Charles-Augustin Bassompierre]</field>
-<field name="librettist">René de Chazet</field>
-<field name="librettistSort">Chazet, René de</field>
+<field name="librettist">René-André-Polydore Alissan de Chazet</field>
+<field name="librettistSort">Chazet, René-André-Polydore Alissan de</field>
 <field name="theater">Salle de la rue Louvois</field>
 <field name="city">Paris</field>
 

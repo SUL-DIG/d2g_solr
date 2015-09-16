@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123264</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1831</field>
 <field name="librettist">Paul Duport</field>
 <field name="librettistSort">Duport, Paul</field>
-<field name="librettist">Amable de Saint-Hilaire</field>
-<field name="librettistSort">Saint-Hilaire, Amable de</field>
+<field name="librettist">Amable Villain de Saint-Hilaire</field>
+<field name="librettistSort">Saint-Hilaire, Amable Villain de</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 

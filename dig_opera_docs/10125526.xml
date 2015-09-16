@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10125526</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Rameau, Jean-Philippe</field>
 <field name="year">1739</field>
 <field name="date">1739</field>
-<field name="librettist">Charles-Antoine Le Clerc de La Bruère</field>
-<field name="librettistSort">Le Clerc de La Bruère, Charles-Antoine</field>
+<field name="librettist">Charles-Antoine Le Clerc de La Bruyere</field>
+<field name="librettistSort">Le Clerc de La Bruyere, Charles-Antoine</field>
 <field name="theater">Opéra</field>
 <field name="city">Paris</field>
 

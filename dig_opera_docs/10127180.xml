@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10127180</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1929</field>
 <field name="librettist">Piotr Rytel</field>
 <field name="librettistSort">Rytel, Piotr</field>
-<field name="librettist">Jerzy Żuławski</field>
-<field name="librettistSort">Żuławski, Jerzy</field>
+<field name="librettist">Jerzy Zulawski</field>
+<field name="librettistSort">Zulawski, Jerzy</field>
 <field name="theater">Teatr Wielki</field>
 <field name="city">Warsaw</field>
 

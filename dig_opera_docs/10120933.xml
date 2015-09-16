@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10120933</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Moniuszko, Stanislaw</field>
 <field name="year">1858</field>
 <field name="date">1858</field>
-<field name="librettist">Wojciech Bogusławski</field>
-<field name="librettistSort">Bogusławski, Wojciech</field>
+<field name="librettist">Wojciech Boguslawski</field>
+<field name="librettistSort">Boguslawski, Wojciech</field>
 <field name="theater">Teatr Wielki</field>
 <field name="city">Warsaw</field>
 

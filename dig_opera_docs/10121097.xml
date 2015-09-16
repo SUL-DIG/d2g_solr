@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10121097</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1930</field>
 <field name="librettist">[Emanuel Pauk] K. Vaurien</field>
 <field name="librettistSort">Vaurien, K. [Emanuel Pauk]</field>
-<field name="librettist">František Jaromír Rubeš</field>
-<field name="librettistSort">Rubeš, František Jaromír</field>
+<field name="librettist">Frantisek Jaromír Rubes</field>
+<field name="librettistSort">Rubes, Frantisek Jaromír</field>
 <field name="theater">Radio Praga</field>
 <field name="city">Prague</field>
 

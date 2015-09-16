@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10129737</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Stefani, Jan</field>
 <field name="year">1794</field>
 <field name="date">1794</field>
-<field name="librettist">Wojciech Bogusławski</field>
-<field name="librettistSort">Bogusławski, Wojciech</field>
+<field name="librettist">Wojciech Boguslawski</field>
+<field name="librettistSort">Boguslawski, Wojciech</field>
 <field name="librettist">Antoine-Alexandre-Henri Poinsinet</field>
 <field name="librettistSort">Poinsinet, Antoine-Alexandre-Henri</field>
 <field name="theater">Teatr Narodowy</field>

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10109433</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1896</field>
 <field name="librettist">Xavier Maunier</field>
 <field name="librettistSort">Maunier, Xavier</field>
-<field name="librettist">Charles Recoux</field>
-<field name="librettistSort">Recoux, Charles</field>
+<field name="librettist">__ Recoux</field>
+<field name="librettistSort">Recoux, __</field>
 <field name="theater">Théâtre Municipal</field>
 <field name="city">Toulon</field>
 <field name="region">Var</field>

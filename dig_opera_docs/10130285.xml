@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10130285</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Suchon, Eugen</field>
 <field name="year">1949</field>
 <field name="date">1949</field>
-<field name="librettist">Eugen Suchoň</field>
-<field name="librettistSort">Suchoň, Eugen</field>
-<field name="librettist">Štefan Hoza</field>
-<field name="librettistSort">Hoza, Štefan</field>
+<field name="librettist">Eugen Suchon</field>
+<field name="librettistSort">Suchon, Eugen</field>
+<field name="librettist">Stefan Hoza</field>
+<field name="librettistSort">Hoza, Stefan</field>
 <field name="theater">Slovenské Narodné Divadlo</field>
 <field name="city">Bratislava</field>
 

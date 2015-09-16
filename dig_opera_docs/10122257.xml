@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10122257</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Novák, Vítezslav</field>
 <field name="year">1926</field>
 <field name="date">1926</field>
-<field name="librettist">Antonín Klášterský</field>
-<field name="librettistSort">Klášterský, Antonín</field>
+<field name="librettist">Antonín Klásterský</field>
+<field name="librettistSort">Klásterský, Antonín</field>
 <field name="librettist">Adolf Heyduk</field>
 <field name="librettistSort">Heyduk, Adolf</field>
 <field name="theater">Národní Divadlo</field>

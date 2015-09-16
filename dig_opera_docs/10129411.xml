@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10129411</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Solié, Jean-Pierre</field>
 <field name="year">1809</field>
 <field name="date">1809</field>
-<field name="librettist">Auguste Creuzé de Lesser</field>
-<field name="librettistSort">Creuzé de Lesser, Auguste</field>
+<field name="librettist">Augustin-François Creuzé de Lesser</field>
+<field name="librettistSort">Creuzé de Lesser, Augustin-François</field>
 <field name="librettist">Michel-Jean Sedaine</field>
 <field name="librettistSort">Sedaine, Michel-Jean</field>
 <field name="theater">Opéra-Comique</field>

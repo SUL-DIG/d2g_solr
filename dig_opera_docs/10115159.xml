@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10115159</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Janácek, Leos</field>
 <field name="year">1924</field>
 <field name="date">1924</field>
-<field name="librettist">Leoš Janáček</field>
-<field name="librettistSort">Janáček, Leoš</field>
-<field name="librettist">Rudolf Těsnohlídek</field>
-<field name="librettistSort">Těsnohlídek, Rudolf</field>
+<field name="librettist">Leos Janácek</field>
+<field name="librettistSort">Janácek, Leos</field>
+<field name="librettist">Rudolf Tesnohlídek</field>
+<field name="librettistSort">Tesnohlídek, Rudolf</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>

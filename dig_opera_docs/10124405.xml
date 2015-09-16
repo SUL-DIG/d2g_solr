@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10124405</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Piskacek, Adolf</field>
 <field name="year">1912</field>
 <field name="date">1912</field>
-<field name="librettist">Luděk Archleb</field>
-<field name="librettistSort">Archleb, Luděk</field>
+<field name="librettist">Ludek Archleb</field>
+<field name="librettistSort">Archleb, Ludek</field>
 <field name="theater">Divadlo na Vinohradech</field>
 <field name="city">Prague</field>
 

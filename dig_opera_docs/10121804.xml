@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10121804</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1959</field>
 <field name="librettist">V. Goldner</field>
 <field name="librettistSort">Goldner, V.</field>
-<field name="librettist">Milovan Glišić</field>
-<field name="librettistSort">Glišić, Milovan</field>
+<field name="librettist">Milovan Glisic</field>
+<field name="librettistSort">Glisic, Milovan</field>
 <field name="theater">Narodno Pozorista</field>
 <field name="city">Belgrade</field>
 

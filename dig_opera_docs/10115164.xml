@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10115164</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Janácek, Leos</field>
 <field name="year">1930</field>
 <field name="date">1930</field>
-<field name="librettist">Leoš Janáček</field>
-<field name="librettistSort">Janáček, Leoš</field>
+<field name="librettist">Leos Janácek</field>
+<field name="librettistSort">Janácek, Leos</field>
 <field name="librettist">Fyodor Mikhaylovich Dostoyevsky</field>
 <field name="librettistSort">Dostoyevsky, Fyodor Mikhaylovich</field>
 <field name="theater">Národní Divadlo</field>

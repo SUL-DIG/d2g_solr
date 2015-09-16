@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10109696</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Fiala, Anton</field>
 <field name="year">1922</field>
 <field name="date">1922</field>
-<field name="librettist">Josef Jiří Stankovský</field>
-<field name="librettistSort">Stankovský, Josef Jiří</field>
+<field name="librettist">Josef Jirí Stankovský</field>
+<field name="librettistSort">Stankovský, Josef Jirí</field>
 
 <field name="city">Holesov</field>
 <field name="region">Jihomoravsky Kraj</field>

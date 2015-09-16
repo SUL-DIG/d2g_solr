@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10106701</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Cortes, Sergey</field>
 <field name="year">1982</field>
 <field name="date">1982</field>
-<field name="librettist">Vladimir Khalip</field>
-<field name="librettistSort">Khalip, Vladimir</field>
+<field name="librettist">Viktor Khalip</field>
+<field name="librettistSort">Khalip, Viktor</field>
 <field name="librettist">S. Shteyn</field>
 <field name="librettistSort">Shteyn, S.</field>
 <field name="theater">Kauno Valstybinis Muzikinas Teatras</field>

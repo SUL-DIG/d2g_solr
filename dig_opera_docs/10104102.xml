@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10104102</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1924</field>
 <field name="librettist">Nicolae Bretan</field>
 <field name="librettistSort">Bretan, Nicolae</field>
-<field name="librettist">Illés Kaczér</field>
-<field name="librettistSort">Kaczér, Illés</field>
+<field name="librettist">Illes Kaczér</field>
+<field name="librettistSort">Kaczér, Illes</field>
 <field name="theater">Maghiara Teatrul</field>
 <field name="city">Cluj-Napoca</field>
 <field name="region">Cluj</field>

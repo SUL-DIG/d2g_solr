@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10109704</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Fibich, Zdenek</field>
 <field name="year">1900</field>
 <field name="date">1900</field>
-<field name="librettist">Anežka Schulzová</field>
-<field name="librettistSort">Schulzová, Anežka</field>
+<field name="librettist">Anezka Schulzová</field>
+<field name="librettistSort">Schulzová, Anezka</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Prague</field>
 

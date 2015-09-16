@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10102615</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Bernicat, Firmin</field>
 <field name="year">1874</field>
 <field name="date">1874</field>
-<field name="librettist">[Georges Delafontaine] Céhem-Gédhé</field>
-<field name="librettistSort">Céhem-Gédhé, [Georges Delafontaine]</field>
+<field name="librettist">[G. Delafontaine] Gédhé</field>
+<field name="librettistSort">Gédhé, [G. Delafontaine]</field>
 <field name="theater">Théâtre des Folies-Bergère</field>
 <field name="city">Paris</field>
 

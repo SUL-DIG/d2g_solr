@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10131594</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Vacek, Milos</field>
 <field name="year">1986</field>
 <field name="date">1986</field>
-<field name="librettist">Nad'a Mauerová</field>
-<field name="librettistSort">Mauerová, Nad'a</field>
+<field name="librettist">Nada Mauerová</field>
+<field name="librettistSort">Mauerová, Nada</field>
 <field name="librettist">Josef Lada</field>
 <field name="librettistSort">Lada, Josef</field>
 <field name="theater">Janáckova Opera</field>

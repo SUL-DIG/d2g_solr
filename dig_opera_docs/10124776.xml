@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10124776</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Poniatowski, Giuseppe</field>
 <field name="year">1860</field>
 <field name="date">1860</field>
-<field name="librettist">Henri de Saint-Georges</field>
-<field name="librettistSort">Saint-Georges, Henri de</field>
+<field name="librettist">Jules-Henri Vernoy de Saint-Georges</field>
+<field name="librettistSort">Saint-Georges, Jules-Henri Vernoy de</field>
 <field name="librettist">Émilien Pacini</field>
 <field name="librettistSort">Pacini, Émilien</field>
 <field name="theater">Opéra</field>

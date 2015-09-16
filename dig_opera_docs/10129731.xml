@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10129731</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Stedron, Milos</field>
 <field name="year">1984</field>
 <field name="date">1984</field>
-<field name="librettist">Miloš Štědroň</field>
-<field name="librettistSort">Štědroň, Miloš</field>
-<field name="librettist">Ludvík Kundera</field>
-<field name="librettistSort">Kundera, Ludvík</field>
+<field name="librettist">Milos Stedron</field>
+<field name="librettistSort">Stedron, Milos</field>
+<field name="librettist">Ludvik Kundera</field>
+<field name="librettistSort">Kundera, Ludvik</field>
 <field name="theater">Janáckova Opera</field>
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>

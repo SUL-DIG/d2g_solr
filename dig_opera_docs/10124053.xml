@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10124053</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Philidor, François-André Danican</field>
 <field name="year">1768</field>
 <field name="date">1768</field>
-<field name="librettist">Roger-Timothée Régnard de Pleinchesne</field>
-<field name="librettistSort">Régnard de Pleinchesne, Roger-Timothée</field>
+<field name="librettist">Roger Timothée Regnard de Pleinchesne</field>
+<field name="librettistSort">Pleinchesne, Roger Timothée Regnard de</field>
 <field name="librettist">Pietro Metastasio</field>
 <field name="librettistSort">Metastasio, Pietro</field>
 <field name="theater">Comédie-Italienne</field>

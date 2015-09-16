@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10105560</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Champein, Stanislas</field>
 <field name="year">1817</field>
 <field name="date">1817</field>
-<field name="librettist">Auguste Lepoitevin de L'Égreville</field>
-<field name="librettistSort">Lepoitevin de L'Égreville, Auguste</field>
+<field name="librettist">Auguste Lepoitevin de Légreville Saint-Alme</field>
+<field name="librettistSort">Lepoitevin de Légreville Saint-Alme, Auguste</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 

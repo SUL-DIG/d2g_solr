@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10105848</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1933</field>
 <field name="librettist">André Barde</field>
 <field name="librettistSort">Barde, André</field>
-<field name="librettist">[Jean Granier de Cassagnac] Saint-Granier</field>
-<field name="librettistSort">Saint-Granier, [Jean Granier de Cassagnac]</field>
+<field name="librettist">[Jean de Granier de Cassagnac] Saint-Granier</field>
+<field name="librettistSort">Saint-Granier, [Jean de Granier de Cassagnac]</field>
 <field name="theater">Concert-Mayol</field>
 <field name="city">Paris</field>
 

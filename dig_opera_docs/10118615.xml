@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10118615</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Luciuk, Juliusz</field>
 <field name="year">1980</field>
 <field name="date">1980</field>
-<field name="librettist">Anna Świrszczyńska</field>
-<field name="librettistSort">Świrszczyńska, Anna</field>
+<field name="librettist">Anna Swirszczynska</field>
+<field name="librettistSort">Swirszczynska, Anna</field>
 <field name="theater">Opera Dolnoslaska</field>
 <field name="city">Wroclaw</field>
 <field name="region">Dolnoslaskie</field>

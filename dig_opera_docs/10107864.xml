@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10107864</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Doche, Joseph Denis</field>
 <field name="year">1802</field>
 <field name="date">1802</field>
-<field name="librettist">[Mathieu-Jean-Baptiste Nioche] Tournay</field>
-<field name="librettistSort">Tournay, [Mathieu-Jean-Baptiste Nioche]</field>
+<field name="librettist">Mathieu-Jean-Baptiste Nioche de Tournay</field>
+<field name="librettistSort">Tournay, Mathieu-Jean-Baptiste Nioche de</field>
 <field name="theater">Salle de la Porte-Saint-Martin</field>
 <field name="city">Paris</field>
 

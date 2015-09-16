@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10121801</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Nastasijevic, Svetomir</field>
 <field name="year">1940</field>
 <field name="date">1940</field>
-<field name="librettist">Momčilo Nastasijević</field>
-<field name="librettistSort">Nastasijević, Momčilo</field>
+<field name="librettist">Momcilo Nastasijevic</field>
+<field name="librettistSort">Nastasijevic, Momcilo</field>
 <field name="theater">Narodno Pozorista</field>
 <field name="city">Belgrade</field>
 

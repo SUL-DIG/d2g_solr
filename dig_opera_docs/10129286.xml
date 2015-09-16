@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10129286</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Smetana, Bedrich</field>
 <field name="year">1876</field>
 <field name="date">1876</field>
-<field name="librettist">[Jindřiška Pechová] Eliška Krásnohorská</field>
-<field name="librettistSort">Krásnohorská, Eliška [Jindřiška Pechová]</field>
-<field name="librettist">[Johana Mužáková] Karolina Světlá</field>
-<field name="librettistSort">Světlá, Karolina [Johana Mužáková]</field>
+<field name="librettist">[Jindriska Pechová] Eliska Krásnohorská</field>
+<field name="librettistSort">Krásnohorská, Eliska [Jindriska Pechová]</field>
+<field name="librettist">[Johana Muzáková] Karolina Svetlá</field>
+<field name="librettistSort">Svetlá, Karolina [Johana Muzáková]</field>
 <field name="theater">Prozatímní Divadlo</field>
 <field name="city">Prague</field>
 

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10109984</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Fischer, Jan Frank</field>
 <field name="year">1962</field>
 <field name="date">1962</field>
-<field name="librettist">Jan Otčenášek</field>
-<field name="librettistSort">Otčenášek, Jan</field>
+<field name="librettist">Jan Otcenásek</field>
+<field name="librettistSort">Otcenásek, Jan</field>
 <field name="theater">Janáckova Divadlo</field>
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>

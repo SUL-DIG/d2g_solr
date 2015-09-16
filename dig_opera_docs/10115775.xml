@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10115775</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Kazuro, Stanislaw</field>
 <field name="year">1916</field>
 <field name="date">1916</field>
-<field name="librettist">Bronisław Grabowski</field>
-<field name="librettistSort">Grabowski, Bronisław</field>
+<field name="librettist">Bronislaw Grabowski</field>
+<field name="librettistSort">Grabowski, Bronislaw</field>
 
 <field name="city">Warsaw</field>
 

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100225</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1866</field>
 <field name="librettist">Léon Docquier</field>
 <field name="librettistSort">Docquier, Léon</field>
-<field name="librettist">Edmond Courtier</field>
-<field name="librettistSort">Courtier, Edmond</field>
+<field name="librettist">__ Courtier</field>
+<field name="librettistSort">Courtier, __</field>
 <field name="theater">Private Performance</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>

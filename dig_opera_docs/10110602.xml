@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110602</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Froment, __</field>
 <field name="year">1797</field>
 <field name="date">1797</field>
-<field name="librettist">François-Marie Mayeur de Saint-Paul</field>
-<field name="librettistSort">Mayeur de Saint-Paul, François-Marie</field>
+<field name="librettist">François Marie Mayeur de Saint-Paul</field>
+<field name="librettistSort">Mayeur de Saint-Paul, François Marie</field>
 <field name="theater">Théâtre des Jeunes Artistes</field>
 <field name="city">Paris</field>
 

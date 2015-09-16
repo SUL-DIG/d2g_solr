@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114637</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1975</field>
 <field name="librettist">Jaroslav Nezval</field>
 <field name="librettistSort">Nezval, Jaroslav</field>
-<field name="librettist">Antonín Zápotocký</field>
-<field name="librettistSort">Zápotocký, Antonín</field>
+<field name="librettist">Antonin Zápotocky</field>
+<field name="librettistSort">Zápotocky, Antonin</field>
 <field name="theater">Janáckova Opera</field>
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>

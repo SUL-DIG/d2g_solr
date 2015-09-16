@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123070</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Palester, Roman</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
-<field name="librettist">Oscar Vladislas de Lubicz Milosz</field>
-<field name="librettistSort">Milosz, Oscar Vladislas de Lubicz</field>
+<field name="librettist">Oscar-Vladislas de Lubisez Milosz</field>
+<field name="librettistSort">Milosz, Oscar-Vladislas de Lubisez</field>
 <field name="theater">Belgian Radio (Radio Télévision Belge)</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>

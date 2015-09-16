@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10103123</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Bjelinski, Bruno</field>
 <field name="year">1963</field>
 <field name="date">1963</field>
-<field name="librettist">Matija Koletić</field>
-<field name="librettistSort">Koletić, Matija</field>
+<field name="librettist">Matija Koletic</field>
+<field name="librettistSort">Koletic, Matija</field>
 <field name="librettist">Waldemar Bonsels</field>
 <field name="librettistSort">Bonsels, Waldemar</field>
 <field name="theater">Hrvatsko Narodno Kazaliste Ivan Zajc</field>

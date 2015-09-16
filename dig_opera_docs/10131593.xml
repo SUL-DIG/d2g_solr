@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10131593</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Vacek, Milos</field>
 <field name="year">1984</field>
 <field name="date">1984</field>
-<field name="librettist">Nad'a Mauerová</field>
-<field name="librettistSort">Mauerová, Nad'a</field>
+<field name="librettist">Nada Mauerová</field>
+<field name="librettistSort">Mauerová, Nada</field>
 <field name="librettist">Miroslav Kroha</field>
 <field name="librettistSort">Kroha, Miroslav</field>
 <field name="theater">Státní divadlo Oldricha Stibora</field>

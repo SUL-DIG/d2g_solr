@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10112421</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1959</field>
 <field name="librettist">Vojmil Rabadan</field>
 <field name="librettistSort">Rabadan, Vojmil</field>
-<field name="librettist">Marin Držić</field>
-<field name="librettistSort">Držić, Marin</field>
+<field name="librettist">Marin Drzic</field>
+<field name="librettistSort">Drzic, Marin</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Zagreb</field>
 

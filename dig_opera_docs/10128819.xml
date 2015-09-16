@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10128819</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Sebor, Karel Richard</field>
 <field name="year">1879</field>
 <field name="date">1879</field>
-<field name="librettist">Marie Červinková-Riegrová</field>
-<field name="librettistSort">Červinková-Riegrová, Marie</field>
+<field name="librettist">Marie Cervinková-Riegrová</field>
+<field name="librettistSort">Cervinková-Riegrová, Marie</field>
 <field name="theater">Prozatímní Divadlo</field>
 <field name="city">Prague</field>
 

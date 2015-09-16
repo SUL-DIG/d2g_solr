@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10115046</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">d'Ivry, Paul Xavier Desiré</field>
 <field name="year">1867</field>
 <field name="date">1867</field>
-<field name="librettist">Paul de Richard d’Ivry</field>
-<field name="librettistSort">Ivry, Paul de Richard d’</field>
+<field name="librettist">Paul Xavier Desiré d'Ivry</field>
+<field name="librettistSort">d'Ivry, Paul Xavier Desiré</field>
 <field name="librettist">William Shakespeare</field>
 <field name="librettistSort">Shakespeare, William</field>
 <field name="theater">Salle Duprez</field>

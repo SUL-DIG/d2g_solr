@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10131068</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1956</field>
 <field name="librettist">Henri Tomasi</field>
 <field name="librettistSort">Tomasi, Henri</field>
-<field name="librettist">Oscar Vladislas de Lubicz Milosz</field>
-<field name="librettistSort">Milosz, Oscar Vladislas de Lubicz</field>
+<field name="librettist">Oscar-Vladislas de Lubisez Milosz</field>
+<field name="librettistSort">Milosz, Oscar-Vladislas de Lubisez</field>
 <field name="theater">Prinzregententheater</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100442</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1957</field>
 <field name="librettist">Sergey Leonidovich Severtsev</field>
 <field name="librettistSort">Severtsev, Sergey Leonidovich</field>
-<field name="librettist">Božena Němcová</field>
-<field name="librettistSort">Němcová, Božena</field>
+<field name="librettist">Bozena Nemcová</field>
+<field name="librettistSort">Nemcová, Bozena</field>
 
 <field name="city">Moscow</field>
 

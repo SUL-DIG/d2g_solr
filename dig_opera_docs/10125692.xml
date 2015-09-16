@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10125692</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1983</field>
 <field name="librettist">Joseph Mignolet</field>
 <field name="librettistSort">Mignolet, Joseph</field>
-<field name="librettist">Jules Barbey d'Aurevilly</field>
-<field name="librettistSort">Barbey d'Aurevilly, Jules</field>
+<field name="librettist">Jules-Amédée Barbey d'Aurevilly</field>
+<field name="librettistSort">d'Aurevilly, Jules-Amédée Barbey</field>
 <field name="theater">CBC French Television (Canadian Broadcasting Corporation)</field>
 <field name="city">Montreal</field>
 <field name="region">Quebec</field>
