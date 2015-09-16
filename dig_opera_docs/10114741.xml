@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10114741</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Hubatschek, Anton</field>
 <field name="year">1788</field>
 <field name="date">1788</field>
-<field name="librettist">Friedrich Julius Heinrich von Soden von Sassanfart</field>
-<field name="librettistSort">Soden von Sassanfart, Friedrich Julius Heinrich von</field>
+<field name="librettist">Julius von Soden</field>
+<field name="librettistSort">Soden, Julius von</field>
 <field name="librettist">Miguel de Cervantes Saavedra</field>
 <field name="librettistSort">Cervantes Saavedra, Miguel de</field>
 <field name="theater">Deutsches Nationaltheater</field>

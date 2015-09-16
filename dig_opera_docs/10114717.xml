@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10114717</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Hrimalý, Voytech</field>
 <field name="year">1896</field>
 <field name="date">1896</field>
-<field name="librettist">Jindrich Böhm</field>
-<field name="librettistSort">Böhm, Jindrich</field>
+<field name="librettist">Jindřich Böhm</field>
+<field name="librettistSort">Böhm, Jindřich</field>
 <field name="librettist">Karel Zelenský</field>
 <field name="librettistSort">Zelenský, Karel</field>
 <field name="theater">Ceské Divadlo</field>

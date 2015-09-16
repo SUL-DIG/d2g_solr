@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10204862</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">La vittoria innocente</field>
@@ -9,8 +10,8 @@
 		<field name="date">March 24, 1690</field>
 		<field name="composer">Giuseppe Pacieri</field>
 		<field name="composerSort">Pacieri, Giuseppe</field>
-		<field name="librettist">G. della Rosa</field>
-		<field name="librettistSort">Rosa, G. della</field>
+		<field name="librettist">Gregorio della Rosa</field>
+		<field name="librettistSort">Rosa, Gregorio della</field>
 		
 		<field name="theater">Palazzo Borghese</field>
 		<field name="city">Rome</field>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10125120</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1863</field>
 <field name="librettist">Félix-Auguste Duvert</field>
 <field name="librettistSort">Duvert, Félix-Auguste</field>
-<field name="librettist">Augustin-Théodore de Lauzanne de Vaux Rouxel</field>
-<field name="librettistSort">Lauzanne de Vaux Rouxel, Augustin-Théodore de</field>
+<field name="librettist">Augustin Théodore de Lauzanne de Vauroussel</field>
+<field name="librettistSort">Lauzanne de Vauroussel, Augustin Théodore de</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 

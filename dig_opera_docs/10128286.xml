@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10128286</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1991</field>
 <field name="librettist">Friedrich Huch</field>
 <field name="librettistSort">Huch, Friedrich</field>
-<field name="librettist">Karel Capek</field>
-<field name="librettistSort">Capek, Karel</field>
+<field name="librettist">Karel Čapek</field>
+<field name="librettistSort">Čapek, Karel</field>
 <field name="theater">Kellertheater</field>
 <field name="city">Leipzig</field>
 <field name="region">Sachsen</field>

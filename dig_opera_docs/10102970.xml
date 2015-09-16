@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10102970</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1805</field>
 <field name="librettist">Carl Alexander Herklots</field>
 <field name="librettistSort">Herklots, Carl Alexander</field>
-<field name="librettist">Germain François Poullain de Saintfoix</field>
-<field name="librettistSort">Saintfoix, Germain François Poullain de</field>
+<field name="librettist">Germain-François Poullain de Saint-Foix</field>
+<field name="librettistSort">Saint-Foix, Germain-François Poullain de</field>
 
 <field name="city">Vienna</field>
 

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10130289</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1903</field>
 <field name="librettist">Pavel Nebeský</field>
 <field name="librettistSort">Nebeský, Pavel</field>
-<field name="librettist">Eduard Simek</field>
-<field name="librettistSort">Simek, Eduard</field>
+<field name="librettist">Eduard Šimek</field>
+<field name="librettistSort">Šimek, Eduard</field>
 <field name="theater">Ceské Divadlo</field>
 <field name="city">Plzen</field>
 <field name="region">Západocesky Kraj</field>

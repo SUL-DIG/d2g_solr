@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107599</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Desmarets, Henry</field>
 <field name="year">1693</field>
 <field name="date">1693</field>
-<field name="librettist">Louise-Geneviève Gillot de Saintonge</field>
-<field name="librettistSort">Saintonge, Louise-Geneviève Gillot de</field>
+<field name="librettist">Louise-Geneviève de Saintonge</field>
+<field name="librettistSort">Saintonge, Louise-Geneviève de</field>
 <field name="theater">Opéra</field>
 <field name="city">Paris</field>
 

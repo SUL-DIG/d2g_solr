@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107123</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Danzi, Franz</field>
 <field name="year">1789</field>
 <field name="date">1789</field>
-<field name="librettist">Johann Friedrich von Binder von Kriegelstein</field>
-<field name="librettistSort">Binder von Kriegelstein, Johann Friedrich von</field>
+<field name="librettist">Johann Friedrich Binder von Kriegelstein</field>
+<field name="librettistSort">Binder von Kriegelstein, Johann Friedrich</field>
 <field name="librettist">Christoph Martin Wieland</field>
 <field name="librettistSort">Wieland, Christoph Martin</field>
 <field name="theater">National Schaubühne</field>

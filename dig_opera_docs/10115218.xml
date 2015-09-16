@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115218</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Jenko, Davorin</field>
 <field name="year">1892</field>
 <field name="date">1892</field>
-<field name="librettist">Todor Pinterovic</field>
-<field name="librettistSort">Pinterovic, Todor</field>
+<field name="librettist">Todor Pinterović</field>
+<field name="librettistSort">Pinterović, Todor</field>
 <field name="theater">Narodno Pozorista</field>
 <field name="city">Belgrade</field>
 

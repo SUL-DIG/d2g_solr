@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10132468</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Wallner, Hans Maria</field>
 <field name="year">1889</field>
 <field name="date">1889</field>
-<field name="librettist">W. F. Horak</field>
-<field name="librettistSort">Horak, W. F.</field>
+<field name="librettist">V. F. Horak</field>
+<field name="librettistSort">Horak, V. F.</field>
 <field name="librettist">Franz Heidrich</field>
 <field name="librettistSort">Heidrich, Franz</field>
 

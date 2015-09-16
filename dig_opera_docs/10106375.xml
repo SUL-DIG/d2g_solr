@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10106375</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1953</field>
 <field name="librettist">Paul Mihail Ionescu</field>
 <field name="librettistSort">Ionescu, Paul Mihail</field>
-<field name="librettist">Bogdan Caus</field>
-<field name="librettistSort">Caus, Bogdan</field>
+<field name="librettist">[Arșag Bogosian] Bogdan Căuș</field>
+<field name="librettistSort">Căuș, Bogdan [Arșag Bogosian]</field>
 <field name="theater">Teatrul Opereta</field>
 <field name="city">Bucharest</field>
 

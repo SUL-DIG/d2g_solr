@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10128960</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1893</field>
 <field name="librettist">Ernesto Palermi</field>
 <field name="librettistSort">Palermi, Ernesto</field>
-<field name="librettist">François René de Chateaubriand</field>
-<field name="librettistSort">Chateaubriand, François René de</field>
+<field name="librettist">François-René de Chateaubriand</field>
+<field name="librettistSort">Chateaubriand, François-René de</field>
 
 <field name="city">Rome</field>
 <field name="region">Lazio</field>

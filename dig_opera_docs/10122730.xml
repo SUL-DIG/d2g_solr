@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10122730</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Overeen, Mario van</field>
 <field name="year">1906</field>
 <field name="date">1906</field>
-<field name="librettist">H. Wannyn</field>
-<field name="librettistSort">Wannyn, H.</field>
+<field name="librettist">Honoré Wannyn</field>
+<field name="librettistSort">Wannyn, Honoré</field>
 <field name="librettist">Friedrich von Schiller</field>
 <field name="librettistSort">Schiller, Friedrich von</field>
 <field name="theater">Koninklijke Vlaamschen Schouwburg</field>

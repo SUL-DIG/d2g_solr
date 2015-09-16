@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105291</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1922</field>
 <field name="librettist">Joachim Cerdan</field>
 <field name="librettistSort">Cerdan, Joachim</field>
-<field name="librettist">L. Cernol</field>
-<field name="librettistSort">Cernol, L.</field>
+<field name="librettist">Louis Cernol</field>
+<field name="librettistSort">Cernol, Louis</field>
 <field name="theater">Opéra</field>
 <field name="city">Monte Carlo</field>
 

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10108270</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Dragoi, Sabin Vasile</field>
 <field name="year">1928</field>
 <field name="date">1928</field>
-<field name="librettist">Sabin Vasile Dragoi</field>
-<field name="librettistSort">Dragoi, Sabin Vasile</field>
+<field name="librettist">Sabin Vasile Drăgoi</field>
+<field name="librettistSort">Drăgoi, Sabin Vasile</field>
 <field name="librettist">Ion Luca Caragiale</field>
 <field name="librettistSort">Caragiale, Ion Luca</field>
 <field name="theater">Opera Româna</field>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131994</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Vieru, Anatol</field>
 <field name="year">1984</field>
 <field name="date">1984</field>
-<field name="librettist">Mihail Sorbul</field>
-<field name="librettistSort">Sorbul, Mihail</field>
+<field name="librettist">[Mihail Smolski] Mihail Sorbul</field>
+<field name="librettistSort">Sorbul, Mihail [Mihail Smolski]</field>
 <field name="theater">Opera Româna</field>
 <field name="city">Bucharest</field>
 

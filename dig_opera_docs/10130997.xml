@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10130997</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Tijardovic, Ivo</field>
 <field name="year">1926</field>
 <field name="date">1926</field>
-<field name="librettist">Ivo Tijardovic</field>
-<field name="librettistSort">Tijardovic, Ivo</field>
+<field name="librettist">Ivo Tijardović</field>
+<field name="librettistSort">Tijardović, Ivo</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Split</field>
 <field name="region">Split-Dalmatia</field>

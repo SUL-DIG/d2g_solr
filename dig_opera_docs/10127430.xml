@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10127430</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Salieri, Antonio</field>
 <field name="year">1784</field>
 <field name="date">1784</field>
-<field name="librettist">Marie-François-Louis Gand Leblanc du Roullet</field>
-<field name="librettistSort">Roullet, Marie-François-Louis Gand Leblanc du</field>
+<field name="librettist">François-Louis Gand Le Bland Du Roullet</field>
+<field name="librettistSort">Du Roullet, François-Louis Gand Le Bland</field>
 <field name="librettist">Louis Théodore de Tschudi</field>
 <field name="librettistSort">Tschudi, Louis Théodore de</field>
 <field name="theater">Opéra</field>

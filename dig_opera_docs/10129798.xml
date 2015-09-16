@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129798</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Steibelt, Daniel</field>
 <field name="year">1806</field>
 <field name="date">1806</field>
-<field name="librettist">Joseph Alphonse d'Esménard</field>
-<field name="librettistSort">d'Esménard, Joseph Alphonse</field>
+<field name="librettist">Joseph Esménard</field>
+<field name="librettistSort">Esménard, Joseph</field>
 <field name="theater">Opéra</field>
 <field name="city">Paris</field>
 

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10120935</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Moniuszko, Stanislaw</field>
 <field name="year">1860</field>
 <field name="date">1860</field>
-<field name="librettist">Wlodzimierz Wolski</field>
-<field name="librettistSort">Wolski, Wlodzimierz</field>
+<field name="librettist">Włodzimierz Wolski</field>
+<field name="librettistSort">Wolski, Włodzimierz</field>
 <field name="librettist">Józef Dzierzkowski</field>
 <field name="librettistSort">Dzierzkowski, Józef</field>
 <field name="theater">Teatr Wielki</field>

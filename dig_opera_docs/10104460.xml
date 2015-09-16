@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10104460</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Burian, Emil Frantisek</field>
 <field name="year">1925</field>
 <field name="date">1925</field>
-<field name="librettist">Bedrich Belohlávek</field>
-<field name="librettistSort">Belohlávek, Bedrich</field>
+<field name="librettist">Bedřich Bělohlávek</field>
+<field name="librettistSort">Bělohlávek, Bedřich</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Prague</field>
 

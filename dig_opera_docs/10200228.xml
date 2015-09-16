@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10200228</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Ariadne</field>
@@ -9,8 +10,8 @@
 		<field name="date">March 1880</field>
 		<field name="composer">Paul Kuczynski</field>
 		<field name="composerSort">Kuczynski, Paul</field>
-		<field name="librettist">Johann Gottfried Herder</field>
-		<field name="librettistSort">Herder, Johann Gottfried</field>
+		<field name="librettist">Johann Gottfried von Herder</field>
+		<field name="librettistSort">Herder, Johann Gottfried von</field>
 		
 		
 		<field name="city">Berlin</field>

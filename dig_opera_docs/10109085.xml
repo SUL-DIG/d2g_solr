@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10109085</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Everaerts, Pierre François</field>
 <field name="year">1845</field>
 <field name="date">1845</field>
-<field name="librettist">P. Bogaerts</field>
-<field name="librettistSort">Bogaerts, P.</field>
+<field name="librettist">Stefan Bogaerts</field>
+<field name="librettistSort">Bogaerts, Stefan</field>
 <field name="theater">Théâtre-Royal</field>
 <field name="city">Liège</field>
 <field name="region">Liège</field>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115010</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Isouard, Nicolas</field>
 <field name="year">1806</field>
 <field name="date">1806</field>
-<field name="librettist">Augustin-François Creuzé de Lesser</field>
-<field name="librettistSort">Creuzé de Lesser, Augustin-François</field>
+<field name="librettist">Auguste Creuzé de Lesser</field>
+<field name="librettistSort">Creuzé de Lesser, Auguste</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 

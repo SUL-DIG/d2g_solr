@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10120535</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1898</field>
 <field name="librettist">Emilio Grigico</field>
 <field name="librettistSort">Grigico, Emilio</field>
-<field name="librettist">François René de Chateaubriand</field>
-<field name="librettistSort">Chateaubriand, François René de</field>
+<field name="librettist">François-René de Chateaubriand</field>
+<field name="librettistSort">Chateaubriand, François-René de</field>
 <field name="theater">Teatro Mercadante</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>

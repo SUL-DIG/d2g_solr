@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10203424</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Pirosmani</field>
@@ -11,8 +12,8 @@
 		<field name="composerSort">Svanidze, Natela</field>
 		<field name="librettist">Titsian Tabidze</field>
 		<field name="librettistSort">Tabidze, Titsian</field>
-		<field name="librettist">Boris Pasternak</field>
-		<field name="librettistSort">Pasternak, Boris</field>
+		<field name="librettist">Boris Leonidovich Pasternak</field>
+		<field name="librettistSort">Pasternak, Boris Leonidovich</field>
 		
 		
 		

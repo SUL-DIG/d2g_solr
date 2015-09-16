@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115012</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Isouard, Nicolas</field>
 <field name="year">1797</field>
 <field name="date">1797</field>
-<field name="librettist">Charles-Georges Fenouillot de Falbaire</field>
-<field name="librettistSort">Fenouillot de Falbaire, Charles-Georges</field>
+<field name="librettist">Charles-Georges Fenouillot de Falbaire de Quingey</field>
+<field name="librettistSort">Fenouillot de Falbaire de Quingey, Charles-Georges</field>
 <field name="theater">Teatru Manoel</field>
 <field name="city">Valletta</field>
 

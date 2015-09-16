@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107866</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1905</field>
 <field name="librettist">Gabriel Patrigeon</field>
 <field name="librettistSort">Patrigeon, Gabriel</field>
-<field name="librettist">J. Vêtez</field>
-<field name="librettistSort">Vêtez, J.</field>
+<field name="librettist">J. Vetez</field>
+<field name="librettistSort">Vetez, J.</field>
 <field name="theater">Théâtre de la Tour Eiffel</field>
 <field name="city">Paris</field>
 

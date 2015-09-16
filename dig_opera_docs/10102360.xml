@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10102360</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Benes, Juraj</field>
 <field name="year">1969</field>
 <field name="date">1969</field>
-<field name="librettist">Juraj Benes</field>
-<field name="librettistSort">Benes, Juraj</field>
+<field name="librettist">Juraj Beneš</field>
+<field name="librettistSort">Beneš, Juraj</field>
 <field name="librettist">Hans Christian Andersen</field>
 <field name="librettistSort">Andersen, Hans Christian</field>
 <field name="theater">Slovenské Narodné Divadlo</field>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10126809</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1821</field>
 <field name="librettist">Jacopo Ferretti</field>
 <field name="librettistSort">Ferretti, Jacopo</field>
-<field name="librettist">François Benoît Hoffman</field>
-<field name="librettistSort">Hoffman, François Benoît</field>
+<field name="librettist">François-Benoît Hoffman</field>
+<field name="librettistSort">Hoffman, François-Benoît</field>
 <field name="theater">Teatro Apollo</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>

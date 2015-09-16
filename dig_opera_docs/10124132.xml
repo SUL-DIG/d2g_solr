@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10124132</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Piccinni, Niccolò</field>
 <field name="year">1781</field>
 <field name="date">1781</field>
-<field name="librettist">Jean-Paul-André Razins de Saint-Marc</field>
-<field name="librettistSort">Razins de Saint-Marc, Jean-Paul-André</field>
+<field name="librettist">Jean-Paul-André de Razins Saint-Marc</field>
+<field name="librettistSort">Saint-Marc, Jean-Paul-André de Razins</field>
 <field name="theater">Opéra</field>
 <field name="city">Paris</field>
 

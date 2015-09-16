@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10116322</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Konjovic, Petar</field>
 <field name="year">1917</field>
 <field name="date">1917</field>
-<field name="librettist">Dragutin Ilic</field>
-<field name="librettistSort">Ilic, Dragutin</field>
+<field name="librettist">Dragutin Ilić</field>
+<field name="librettistSort">Ilić, Dragutin</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Zagreb</field>
 

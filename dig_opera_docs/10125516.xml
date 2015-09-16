@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10125516</field>
 <field name="genre">Operas</field>
@@ -8,10 +9,10 @@
 <field name="composerSort">Rajicic, Stanojlo</field>
 <field name="year">1958</field>
 <field name="date">1958</field>
-<field name="librettist">Milutin Bojic</field>
-<field name="librettistSort">Bojic, Milutin</field>
-<field name="librettist">Josip Kulundzic</field>
-<field name="librettistSort">Kulundzic, Josip</field>
+<field name="librettist">Milutin Bojić</field>
+<field name="librettistSort">Bojić, Milutin</field>
+<field name="librettist">Josip Kulundžić</field>
+<field name="librettistSort">Kulundžić, Josip</field>
 <field name="theater">Narodno pozoriste</field>
 <field name="city">Sarajevo</field>
 

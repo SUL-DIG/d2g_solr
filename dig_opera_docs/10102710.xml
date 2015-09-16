@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10102710</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Berton, Henri</field>
 <field name="year">1810</field>
 <field name="date">1810</field>
-<field name="librettist">René-André-Polydore Alissan de Chazet</field>
-<field name="librettistSort">Chazet, René-André-Polydore Alissan de</field>
+<field name="librettist">René de Chazet</field>
+<field name="librettistSort">Chazet, René de</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 

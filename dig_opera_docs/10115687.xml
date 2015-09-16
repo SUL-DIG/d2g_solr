@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115687</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Kaslík, Václav</field>
 <field name="year">1984</field>
 <field name="date">1984</field>
-<field name="librettist">Václav Kaslík</field>
-<field name="librettistSort">Kaslík, Václav</field>
+<field name="librettist">Václav Kašlík</field>
+<field name="librettistSort">Kašlík, Václav</field>
 <field name="librettist">Viktor Dyck</field>
 <field name="librettistSort">Dyck, Viktor</field>
 <field name="theater">Komorní Divadlo</field>

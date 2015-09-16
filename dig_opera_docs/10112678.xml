@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10112678</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Grenet, François Lupien</field>
 <field name="year">1737</field>
 <field name="date">1737</field>
-<field name="librettist">Jean Jacques Le Franc de Pompignan</field>
-<field name="librettistSort">Le Franc de Pompignan, Jean Jacques</field>
+<field name="librettist">Jean-Jacques Le Franc de Pompignan</field>
+<field name="librettistSort">Le Franc de Pompignan, Jean-Jacques</field>
 <field name="theater">Opéra</field>
 <field name="city">Paris</field>
 

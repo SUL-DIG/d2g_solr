@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10113751</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Hatze, Josip</field>
 <field name="year">1911</field>
 <field name="date">1911</field>
-<field name="librettist">Srdjan Tucic</field>
-<field name="librettistSort">Tucic, Srdjan</field>
+<field name="librettist">Srđan Tucić</field>
+<field name="librettistSort">Tucić, Srđan</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Zagreb</field>
 

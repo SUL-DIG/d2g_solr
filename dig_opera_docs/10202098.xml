@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10202098</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Les Israélites а la montagne d'Oreb</field>
@@ -9,8 +10,8 @@
 		<field name="date">1758</field>
 		<field name="composer">Jean-Joseph Cassanéa de Mondonville</field>
 		<field name="composerSort">Mondonville, Jean-Joseph Cassanéa de</field>
-		<field name="librettist">Claude-Henri de Fuzée de Voisenon</field>
-		<field name="librettistSort">Voisenon, Claude-Henri de F</field>
+		<field name="librettist">Claude-Henri de Fusée de Voisenon</field>
+		<field name="librettistSort">Voisenon , Claude-Henri de Fusée de</field>
 		
 		<field name="theater">Concert spirituel</field>
 		<field name="city">Paris</field>

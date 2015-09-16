@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115601</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Kalnins, Alfreds</field>
 <field name="year">1926</field>
 <field name="date">1926</field>
-<field name="librettist">Alfreds Kalnins</field>
-<field name="librettistSort">Kalnins, Alfreds</field>
+<field name="librettist">Alfrēds Kalniņš</field>
+<field name="librettistSort">Kalniņš, Alfrēds</field>
 <field name="theater">Latïshskoy Natsional'noy Operï</field>
 <field name="city">Riga</field>
 

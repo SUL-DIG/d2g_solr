@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10120458</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Meyer, Krzysztof</field>
 <field name="year">1970</field>
 <field name="date">1970</field>
-<field name="librettist">Stanislaw Lem</field>
-<field name="librettistSort">Lem, Stanislaw</field>
+<field name="librettist">Stanisław Lem</field>
+<field name="librettistSort">Lem, Stanisław</field>
 <field name="theater">Polish Television (Telewizja Polska)</field>
 <field name="city">Warsaw</field>
 

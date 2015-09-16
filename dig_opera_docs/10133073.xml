@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10133073</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Wiszniewski, Zbigniew</field>
 <field name="year">1974</field>
 <field name="date">1974</field>
-<field name="librettist">Bronislaw Wiernik</field>
-<field name="librettistSort">Wiernik, Bronislaw</field>
+<field name="librettist">Bronisław Wiernik</field>
+<field name="librettistSort">Wiernik, Bronisław</field>
 <field name="librettist">[Romain Kacew] Romain Gary</field>
 <field name="librettistSort">Gary, Romain [Romain Kacew]</field>
 <field name="theater">Opera Dolnoslaska</field>

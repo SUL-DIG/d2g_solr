@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131990</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Vidosic, Tihomil</field>
 <field name="year">1960</field>
 <field name="date">1960</field>
-<field name="librettist">Tihomil Vidosic</field>
-<field name="librettistSort">Vidosic, Tihomil</field>
+<field name="librettist">Tihomil Vidošić</field>
+<field name="librettistSort">Vidošić, Tihomil</field>
 <field name="theater">Hrvatsko Narodno Kazaliste Ivan Zajc</field>
 <field name="city">Rijeka</field>
 <field name="region">Primorje-Gorski</field>

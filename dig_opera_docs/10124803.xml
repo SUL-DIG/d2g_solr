@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10124803</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Popovici, Doru</field>
 <field name="year">1979</field>
 <field name="date">1979</field>
-<field name="librettist">Victor Bârladeanu</field>
-<field name="librettistSort">Bârladeanu, Victor</field>
+<field name="librettist">Victor Bârlădeanu</field>
+<field name="librettistSort">Bârlădeanu, Victor</field>
 <field name="theater">Muzical Teatrul</field>
 <field name="city">Galati</field>
 <field name="region">Galati</field>

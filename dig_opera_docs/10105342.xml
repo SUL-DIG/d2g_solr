@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105342</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1900</field>
 <field name="librettist">Theobald Rehbaum</field>
 <field name="librettistSort">Rehbaum, Theobald</field>
-<field name="librettist">Nikolae Gane</field>
-<field name="librettistSort">Gane, Nikolae</field>
+<field name="librettist">Nicolae Gane</field>
+<field name="librettistSort">Gane, Nicolae</field>
 <field name="theater">Teatrul National</field>
 <field name="city">Bucharest</field>
 

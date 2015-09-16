@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10112402</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Gossec, François-Joseph</field>
 <field name="year">1792</field>
 <field name="date">1792</field>
-<field name="librettist">Claude-Joseph Rouget de Lisle</field>
-<field name="librettistSort">Rouget de Lisle, Claude-Joseph</field>
+<field name="librettist">Claude Joseph Rouget de Lisle</field>
+<field name="librettistSort">Rouget de Lisle, Claude Joseph</field>
 <field name="librettist">Marie-Joseph Chénier</field>
 <field name="librettistSort">Chénier, Marie-Joseph</field>
 <field name="theater">Opéra</field>

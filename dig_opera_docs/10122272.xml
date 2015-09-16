@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10122272</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Nowowiejski, Feliks</field>
 <field name="year">1929</field>
 <field name="date">1929</field>
-<field name="librettist">Emil Zegadlowicz</field>
-<field name="librettistSort">Zegadlowicz, Emil</field>
+<field name="librettist">Emil Zegadłowicz</field>
+<field name="librettistSort">Zegadłowicz, Emil</field>
 <field name="theater">Teatr Wielki</field>
 <field name="city">Poznan</field>
 <field name="region">Wielkopolskie</field>

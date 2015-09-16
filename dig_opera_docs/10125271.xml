@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10125271</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1810</field>
 <field name="librettist">Luigi Romanelli</field>
 <field name="librettistSort">Romanelli, Luigi</field>
-<field name="librettist">Victor Joseph Étienne de Jouy</field>
-<field name="librettistSort">Jouy, Victor Joseph Étienne de</field>
+<field name="librettist">Étienne de Jouy</field>
+<field name="librettistSort">Jouy, Étienne de</field>
 <field name="theater">King's Theatre, Haymarket</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10124527</field>
 <field name="genre">Operas</field>
@@ -8,10 +9,10 @@
 <field name="composerSort">Podést, Ludvík</field>
 <field name="year">1959</field>
 <field name="date">1959</field>
-<field name="librettist">Ludvík Podést</field>
-<field name="librettistSort">Podést, Ludvík</field>
-<field name="librettist">Karel Capek</field>
-<field name="librettistSort">Capek, Karel</field>
+<field name="librettist">Ludvík Podéšť</field>
+<field name="librettistSort">Podéšť, Ludvík</field>
+<field name="librettist">Karel Čapek</field>
+<field name="librettistSort">Čapek, Karel</field>
 <field name="theater">Brno Television</field>
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>

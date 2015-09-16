@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10113750</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1932</field>
 <field name="librettist">Branko Radica</field>
 <field name="librettistSort">Radica, Branko</field>
-<field name="librettist">Niko Bartulovic</field>
-<field name="librettistSort">Bartulovic, Niko</field>
+<field name="librettist">Niko Bartulović</field>
+<field name="librettistSort">Bartulović, Niko</field>
 <field name="theater">Slovensko Dazelno Gledalisce</field>
 <field name="city">Ljubljana</field>
 

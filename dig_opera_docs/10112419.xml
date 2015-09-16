@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10112419</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Gotovac, Jakov</field>
 <field name="year">1952</field>
 <field name="date">1952</field>
-<field name="librettist">Danko Andelinovic</field>
-<field name="librettistSort">Andelinovic, Danko</field>
+<field name="librettist">Danko Anđelinović</field>
+<field name="librettistSort">Anđelinović, Danko</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Zagreb</field>
 

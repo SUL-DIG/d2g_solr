@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10120948</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Moniuszko, Stanislaw</field>
 <field name="year">1841</field>
 <field name="date">1841</field>
-<field name="librettist">Franciszek Zablocki</field>
-<field name="librettistSort">Zablocki, Franciszek</field>
+<field name="librettist">Franciszek Zabłocki</field>
+<field name="librettistSort">Zabłocki, Franciszek</field>
 <field name="librettist">Pierre-Yon Barré</field>
 <field name="librettistSort">Barré, Pierre-Yon</field>
 

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10116910</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 
 <field name="librettist">Charles Simon Favart</field>
 <field name="librettistSort">Favart, Charles Simon</field>
-<field name="librettist">Antoine-René de Voyer d'Argenson de Paulmy</field>
-<field name="librettistSort">Paulmy, Antoine-René de Voyer d'Argenson de</field>
+<field name="librettist">Antoine-René de Voyer Argenson</field>
+<field name="librettistSort">Argenson, Antoine-René de Voyer</field>
 <field name="theater">Private Performance</field>
 <field name="city">Paris</field>
 

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10128161</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Scheidecker, __</field>
 <field name="year">1894</field>
 <field name="date">1894</field>
-<field name="librettist">__ Xantrac</field>
-<field name="librettistSort">Xantrac, __</field>
+<field name="librettist">E. Xantrac</field>
+<field name="librettistSort">Xantrac, E.</field>
 <field name="theater">Grand-concert Parisien</field>
 <field name="city">Paris</field>
 

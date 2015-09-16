@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10203020</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Nyuk tsin (The Perfect Jade)</field>
@@ -9,8 +10,8 @@
 		<field name="date">1961</field>
 		<field name="composer">Ignace Lilien</field>
 		<field name="composerSort">Lilien, Ignace</field>
-		<field name="librettist">James A. Michener</field>
-		<field name="librettistSort">Michener, James A.</field>
+		<field name="librettist">James Albert Michener</field>
+		<field name="librettistSort">Michener, James Albert</field>
 		
 		
 		

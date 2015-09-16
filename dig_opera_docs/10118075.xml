@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10118075</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1958</field>
 <field name="librettist">Ivo Lhotka-Kalinski</field>
 <field name="librettistSort">Lhotka-Kalinski, Ivo</field>
-<field name="librettist">Branislav Nusic</field>
-<field name="librettistSort">Nusic, Branislav</field>
+<field name="librettist">Branislav Nušić</field>
+<field name="librettistSort">Nušić, Branislav</field>
 <field name="theater">Belgrade Television</field>
 <field name="city">Belgrade</field>
 

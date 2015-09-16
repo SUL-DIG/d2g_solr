@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107569</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Deshayes, Prosper-Didier</field>
 <field name="year">1787</field>
 <field name="date">1787</field>
-<field name="librettist">Roger Timothée Regnard de Pleinchesne</field>
-<field name="librettistSort">Pleinchesne, Roger Timothée Regnard de</field>
+<field name="librettist">Roger-Timothée Régnard de Pleinchesne</field>
+<field name="librettistSort">Régnard de Pleinchesne, Roger-Timothée</field>
 <field name="librettist">Claude-Joseph Dorat</field>
 <field name="librettistSort">Dorat, Claude-Joseph</field>
 <field name="theater">Comédie-Italienne</field>

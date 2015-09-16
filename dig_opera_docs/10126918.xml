@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10126918</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Rozkosný, Josef Richard</field>
 <field name="year">1889</field>
 <field name="date">1889</field>
-<field name="librettist">Jaromir Borecký</field>
-<field name="librettistSort">Borecký, Jaromir</field>
+<field name="librettist">Jaromír Borecký</field>
+<field name="librettistSort">Borecký, Jaromír</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Prague</field>
 

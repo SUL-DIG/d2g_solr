@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105927</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Cikker, Ján</field>
 <field name="year">1954</field>
 <field name="date">1954</field>
-<field name="librettist">Stefan Hoza</field>
-<field name="librettistSort">Hoza, Stefan</field>
+<field name="librettist">Štefan Hoza</field>
+<field name="librettistSort">Hoza, Štefan</field>
 <field name="theater">Slovenské Narodné Divadlo</field>
 <field name="city">Bratislava</field>
 

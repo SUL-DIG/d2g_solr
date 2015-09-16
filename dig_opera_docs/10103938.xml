@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10103938</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Bozic, Darijan</field>
 <field name="year">1986</field>
 <field name="date">1986</field>
-<field name="librettist">Darijan Bozic</field>
-<field name="librettistSort">Bozic, Darijan</field>
+<field name="librettist">Darijan Božič</field>
+<field name="librettistSort">Božič, Darijan</field>
 <field name="librettist">William Shakespeare</field>
 <field name="librettistSort">Shakespeare, William</field>
 

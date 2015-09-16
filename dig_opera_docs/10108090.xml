@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10108090</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Douay, Georges</field>
 <field name="year">1868</field>
 <field name="date">1868</field>
-<field name="librettist">Mélanie de Villenave Waldor</field>
-<field name="librettistSort">Waldor, Mélanie de Villenave</field>
+<field name="librettist">Mélanie Waldor</field>
+<field name="librettistSort">Waldor, Mélanie</field>
 <field name="theater">Salle Herz</field>
 <field name="city">Paris</field>
 

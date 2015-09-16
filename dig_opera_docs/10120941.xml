@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10120941</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Moniuszko, Stanislaw</field>
 <field name="year">1869</field>
 <field name="date">1869</field>
-<field name="librettist">Jan Checinski</field>
-<field name="librettistSort">Checinski, Jan</field>
+<field name="librettist">Jan Chęciński</field>
+<field name="librettistSort">Chęciński, Jan</field>
 <field name="librettist">Casimir Delavigne</field>
 <field name="librettistSort">Delavigne, Casimir</field>
 <field name="theater">Teatr Wielki</field>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10110173</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Foignet, François</field>
 <field name="year">1803</field>
 <field name="date">1803</field>
-<field name="librettist">Michel Nicolas Ballison de Rougemont</field>
-<field name="librettistSort">Rougemont, Michel Nicolas Ballison de</field>
+<field name="librettist">Michel-Nicolas Balisson de Rougemont</field>
+<field name="librettistSort">Balisson de Rougemont, Michel-Nicolas</field>
 <field name="theater">Théâtre des Jeunes Artistes</field>
 <field name="city">Paris</field>
 

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10117814</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Corvey, Jean Frédéric Auguste Lemière de</field>
 <field name="year">1825</field>
 <field name="date">1825</field>
-<field name="librettist">Auguste Lepoitevin de Légreville Saint-Alme</field>
-<field name="librettistSort">Lepoitevin de Légreville Saint-Alme, Auguste</field>
+<field name="librettist">Auguste Lepoitevin de L'Égreville</field>
+<field name="librettistSort">Lepoitevin de L'Égreville, Auguste</field>
 <field name="librettist">Jean-Baptiste-Rose-Bonaventure de Violet d'Épagny</field>
 <field name="librettistSort">Épagny, Jean-Baptiste-Rose-Bonaventure de Violet d'</field>
 <field name="theater">Opéra-Comique</field>

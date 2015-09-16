@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10124057</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Philidor, François-André Danican</field>
 <field name="year">1770</field>
 <field name="date">1770</field>
-<field name="librettist">Alexandre Guillaume Mouslier de Moissy</field>
-<field name="librettistSort">Mouslier de Moissy, Alexandre Guillaume</field>
+<field name="librettist">Alexandre-Guillaume de Moissy</field>
+<field name="librettistSort">Moissy, Alexandre-Guillaume de</field>
 <field name="theater">Comédie-Italienne</field>
 <field name="city">Paris</field>
 

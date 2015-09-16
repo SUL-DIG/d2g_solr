@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10122327</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Oelschlegel, Alfred</field>
 <field name="year">1898</field>
 <field name="date">1898</field>
-<field name="librettist">F. Strahl</field>
-<field name="librettistSort">Strahl, F.</field>
+<field name="librettist">[Carl Schrader] A. C. Strahl</field>
+<field name="librettistSort">Strahl, A. C. [Carl Schrader]</field>
 <field name="theater">Herzogliches Hoftheater</field>
 <field name="city">Altenburg</field>
 <field name="region">Thüringen</field>

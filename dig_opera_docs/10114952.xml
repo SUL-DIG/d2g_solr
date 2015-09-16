@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10114952</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1892</field>
 <field name="librettist">Anton Funtek</field>
 <field name="librettistSort">Funtek, Anton</field>
-<field name="librettist">Ferdo Kocevar</field>
-<field name="librettistSort">Kocevar, Ferdo</field>
+<field name="librettist">Ferdo Kočevar</field>
+<field name="librettistSort">Kočevar, Ferdo</field>
 <field name="theater">Slovensko Dazelno Gledalisce</field>
 <field name="city">Ljubljana</field>
 

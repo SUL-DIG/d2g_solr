@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10128079</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Scarmolin, Anthony Louis</field>
 <field name="year">1950</field>
 <field name="date">1950</field>
-<field name="librettist">Anacleta Rubega</field>
-<field name="librettistSort">Rubega, Anacleta</field>
+<field name="librettist">Anacleto Rubega</field>
+<field name="librettistSort">Rubega, Anacleto</field>
 
 <field name="city">Lindenhurst</field>
 <field name="region">New York</field>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10126805</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Rossini, Gioachino</field>
 <field name="year">1829</field>
 <field name="date">1829</field>
-<field name="librettist">Victor Joseph Étienne de Jouy</field>
-<field name="librettistSort">Jouy, Victor Joseph Étienne de</field>
+<field name="librettist">Étienne de Jouy</field>
+<field name="librettistSort">Jouy, Étienne de</field>
 <field name="librettist">Hippolyte-Louis Bis</field>
 <field name="librettistSort">Bis, Hippolyte-Louis</field>
 <field name="theater">Opéra</field>

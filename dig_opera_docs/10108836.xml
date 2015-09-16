@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10108836</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Elsner, Józef</field>
 <field name="year">1807</field>
 <field name="date">1807</field>
-<field name="librettist">Ludwik Osinski</field>
-<field name="librettistSort">Osinski, Ludwik</field>
+<field name="librettist">Ludwik Osiński</field>
+<field name="librettistSort">Osiński, Ludwik</field>
 <field name="theater">Teatr Narodowy</field>
 <field name="city">Warsaw</field>
 

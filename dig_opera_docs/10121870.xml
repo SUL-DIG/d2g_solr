@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10121870</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Negrea, Martian</field>
 <field name="year">1934</field>
 <field name="date">1934</field>
-<field name="librettist">Martian Negrea</field>
-<field name="librettistSort">Negrea, Martian</field>
+<field name="librettist">Marțian Negrea</field>
+<field name="librettistSort">Negrea, Marțian</field>
 <field name="librettist">Mihail Sadoveanu</field>
 <field name="librettistSort">Sadoveanu, Mihail</field>
 <field name="theater">Opera de Stat</field>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10103875</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Bourgeois, Thomas-Louis</field>
 <field name="year">1714</field>
 <field name="date">1714</field>
-<field name="librettist">Pierre-François-Godard de Beauchamps</field>
-<field name="librettistSort">Beauchamps, Pierre-François-Godard de</field>
+<field name="librettist">Pierre-François Godard de Beauchamps</field>
+<field name="librettistSort">Beauchamps, Pierre-François Godard de</field>
 <field name="theater">Château de Sceaux</field>
 <field name="city">Sceaux</field>
 <field name="region">Hauts-de-Seine</field>

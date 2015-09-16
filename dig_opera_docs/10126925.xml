@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10126925</field>
 <field name="genre">Operas</field>
@@ -8,10 +9,10 @@
 <field name="composerSort">Rozkosný, Josef Richard</field>
 <field name="year">1877</field>
 <field name="date">1877</field>
-<field name="librettist">Jindrich Böhm</field>
-<field name="librettistSort">Böhm, Jindrich</field>
-<field name="librettist">Víteslav Hálek</field>
-<field name="librettistSort">Hálek, Víteslav</field>
+<field name="librettist">Jindřich Böhm</field>
+<field name="librettistSort">Böhm, Jindřich</field>
+<field name="librettist">Vítězslav Hálek</field>
+<field name="librettistSort">Hálek, Vítězslav</field>
 <field name="theater">Prozatímní Divadlo</field>
 <field name="city">Prague</field>
 

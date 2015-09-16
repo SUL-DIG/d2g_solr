@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10121399</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Motte, Dieter de la</field>
 <field name="year">1975</field>
 <field name="date">1975</field>
-<field name="librettist">Dieter de la Motte</field>
-<field name="librettistSort">Motte, Dieter de la</field>
+<field name="librettist">Diether de La Motte</field>
+<field name="librettistSort">La Motte, Diether de</field>
 <field name="theater">Hamburgisches Staatsoper</field>
 <field name="city">Hamburg</field>
 <field name="region">Hamburg</field>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10202610</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Maria Magdalena</field>
@@ -9,8 +10,8 @@
 		<field name="date">1875</field>
 		<field name="composer">Franz Coenen</field>
 		<field name="composerSort">Coenen, Franz</field>
-		<field name="librettist">Henriлtte Heinze-Berg</field>
-		<field name="librettistSort">Heinze-Berg, Henri_tte</field>
+		<field name="librettist">Henriëtte Heinze-Berg</field>
+		<field name="librettistSort">Heinze-Berg, Henriëtte</field>
 		
 		
 		<field name="city">Rotterdam</field>

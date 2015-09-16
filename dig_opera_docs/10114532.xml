@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10114532</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1960</field>
 <field name="librettist">Ladislav Holoubek</field>
 <field name="librettistSort">Holoubek, Ladislav</field>
-<field name="librettist">Ilja Prachar</field>
-<field name="librettistSort">Prachar, Ilja</field>
+<field name="librettist">Ilja Prachař</field>
+<field name="librettistSort">Prachař, Ilja</field>
 <field name="theater">Slovenské Narodné Divadlo</field>
 <field name="city">Bratislava</field>
 

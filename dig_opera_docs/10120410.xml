@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10120410</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1914</field>
 <field name="librettist">Robert de Flers</field>
 <field name="librettistSort">Flers, Robert de</field>
-<field name="librettist">Gaston Arman de Caillavet</field>
-<field name="librettistSort">Caillavet, Gaston Arman de</field>
+<field name="librettist">Gaston-Arman de Caillavet</field>
+<field name="librettistSort">Caillavet, Gaston-Arman de</field>
 <field name="theater">Opéra</field>
 <field name="city">Monte Carlo</field>
 

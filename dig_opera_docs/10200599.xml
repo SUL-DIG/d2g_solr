@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10200599</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Christi Wunder-Wercke bey den Schwachgläubigen</field>
@@ -9,8 +10,8 @@
 		<field name="date">June 1719</field>
 		<field name="composer">Johann Mattheson</field>
 		<field name="composerSort">Mattheson, Johann</field>
-		<field name="librettist">H. D. Hoefft</field>
-		<field name="librettistSort">Hoefft, H. D.</field>
+		<field name="librettist">Georg Jakob Hoefft</field>
+		<field name="librettistSort">Hoefft, Georg Jakob</field>
 		
 		<field name="theater">Dom-Kirche</field>
 		<field name="city">Hamburg</field>

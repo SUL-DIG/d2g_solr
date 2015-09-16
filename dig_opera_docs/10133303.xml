@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10133303</field>
 <field name="genre">Operas</field>
@@ -8,10 +9,10 @@
 <field name="composerSort">Zajc, Ivan</field>
 <field name="year">1886</field>
 <field name="date">1886</field>
-<field name="librettist">Josip Eugen Tomic</field>
-<field name="librettistSort">Tomic, Josip Eugen</field>
-<field name="librettist">Alexander Fredro</field>
-<field name="librettistSort">Fredro, Alexander</field>
+<field name="librettist">Josip Eugen Tomić</field>
+<field name="librettistSort">Tomić, Josip Eugen</field>
+<field name="librettist">Aleksander Fredro</field>
+<field name="librettistSort">Fredro, Aleksander</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Zagreb</field>
 

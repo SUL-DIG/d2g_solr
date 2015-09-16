@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10100272</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1852</field>
 <field name="librettist">A. Laverpillière</field>
 <field name="librettistSort">Laverpillière, A.</field>
-<field name="librettist">G. Sarrazin de Montferrier</field>
-<field name="librettistSort">Sarrazin de Montferrier, G.</field>
+<field name="librettist">[Jean Nicolas Gustave van Nieuvenhuysen] Gustave Vaëz</field>
+<field name="librettistSort">Vaëz, Gustave [Jean Nicolas Gustave van Nieuvenhuysen]</field>
 <field name="theater">Grand-Théâtre</field>
 <field name="city">Marseille</field>
 <field name="region">Bouches-du-Rhône</field>

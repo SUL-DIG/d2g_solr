@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105821</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1949</field>
 <field name="librettist">Osvald Chlubna</field>
 <field name="librettistSort">Chlubna, Osvald</field>
-<field name="librettist">Ladislav Stroupeznický</field>
-<field name="librettistSort">Stroupeznický, Ladislav</field>
+<field name="librettist">Ladislav Stroupežnický</field>
+<field name="librettistSort">Stroupežnický, Ladislav</field>
 <field name="theater">Janáckova Divadlo</field>
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>

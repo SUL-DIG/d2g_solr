@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115162</field>
 <field name="genre">Operas</field>
@@ -8,10 +9,10 @@
 <field name="composerSort">Janácek, Leos</field>
 <field name="year">1920</field>
 <field name="date">1920</field>
-<field name="librettist">Frantisek Serafin Procházka</field>
-<field name="librettistSort">Procházka, Frantisek Serafin</field>
-<field name="librettist">Svatopluk Cech</field>
-<field name="librettistSort">Cech, Svatopluk</field>
+<field name="librettist">František Serafínský Procházka</field>
+<field name="librettistSort">Procházka, František Serafínský</field>
+<field name="librettist">Svatopluk Čech</field>
+<field name="librettistSort">Čech, Svatopluk</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Prague</field>
 

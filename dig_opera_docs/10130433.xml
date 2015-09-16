@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10130433</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Szeligowski, Tadeusz</field>
 <field name="year">1956</field>
 <field name="date">1956</field>
-<field name="librettist">Krystyna Nizynska</field>
-<field name="librettistSort">Nizynska, Krystyna</field>
+<field name="librettist">Krystyna Niżyńska</field>
+<field name="librettistSort">Niżyńska, Krystyna</field>
 <field name="librettist">Ernst Theodor Amadeus Hoffmann</field>
 <field name="librettistSort">Hoffmann, Ernst Theodor Amadeus</field>
 <field name="theater">Panstwowa Opera Baltycka</field>

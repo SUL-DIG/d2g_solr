@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10119530</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Martinu, Bohuslav</field>
 <field name="year">1938</field>
 <field name="date">1938</field>
-<field name="librettist">Bohuslav Martinu</field>
-<field name="librettistSort">Martinu, Bohuslav</field>
+<field name="librettist">Bohuslav Martinů</field>
+<field name="librettistSort">Martinů, Bohuslav</field>
 <field name="librettist">Georges Neveux</field>
 <field name="librettistSort">Neveux, Georges</field>
 <field name="theater">Národní Divadlo</field>

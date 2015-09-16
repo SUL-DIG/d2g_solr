@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10102344</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Bendl, Karel</field>
 <field name="year">1868</field>
 <field name="date">1868</field>
-<field name="librettist">[Jindriska Pechová] Eliska Krásnohorská</field>
-<field name="librettistSort">Krásnohorská, Eliska [Jindriska Pechová]</field>
+<field name="librettist">[Jindřiška Pechová] Eliška Krásnohorská</field>
+<field name="librettistSort">Krásnohorská, Eliška [Jindřiška Pechová]</field>
 <field name="librettist">Edward Bulwer-Lytton</field>
 <field name="librettistSort">Bulwer-Lytton, Edward</field>
 <field name="theater">Prozatímní Divadlo</field>

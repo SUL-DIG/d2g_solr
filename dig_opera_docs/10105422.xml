@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105422</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Celanský, Ludvík</field>
 <field name="year">1897</field>
 <field name="date">1897</field>
-<field name="librettist">Ludvík Celanský</field>
-<field name="librettistSort">Celanský, Ludvík</field>
+<field name="librettist">Ludvík Čelanský</field>
+<field name="librettistSort">Čelanský, Ludvík</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Prague</field>
 

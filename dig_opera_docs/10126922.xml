@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10126922</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1898</field>
 <field name="librettist">Karel Kádner</field>
 <field name="librettistSort">Kádner, Karel</field>
-<field name="librettist">[Emil Bohus Frída] Jaroslav Vrchlický</field>
-<field name="librettistSort">Vrchlický, Jaroslav [Emil Bohus Frída]</field>
+<field name="librettist">[Emil Bohuslav Frída] Jaroslav Vrchlický</field>
+<field name="librettistSort">Vrchlický, Jaroslav, [Emil Bohuslav Frída]</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Prague</field>
 

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131525</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Urbanec, Bartolomej</field>
 <field name="year">1979</field>
 <field name="date">1979</field>
-<field name="librettist">Júlis Gyermek</field>
-<field name="librettistSort">Gyermek, Júlis</field>
+<field name="librettist">Július Gyermek</field>
+<field name="librettistSort">Gyermek, Július</field>
 <field name="librettist">Petra Zvona</field>
 <field name="librettistSort">Zvona, Petra</field>
 <field name="theater">Slovenské Narodné Divadlo</field>

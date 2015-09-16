@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10130413</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Svete, Tomaz</field>
 <field name="year">1993</field>
 <field name="date">1993</field>
-<field name="librettist">Tomaz Svete</field>
-<field name="librettistSort">Svete, Tomaz</field>
+<field name="librettist">Tomaž Svete</field>
+<field name="librettistSort">Svete, Tomaž</field>
 <field name="theater">Slovensko Dazelno Gledalisce</field>
 <field name="city">Ljubljana</field>
 

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10112730</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Grétry, André-Ernest-Modeste</field>
 <field name="year">1794</field>
 <field name="date">1794</field>
-<field name="librettist">Guillaume Denis Thomas Levrier Champ-Rion</field>
-<field name="librettistSort">Champ-Rion, Guillaume Denis Thomas Levrier</field>
+<field name="librettist">Guillaume-Denis-Thomas Levrier Champ-Rion</field>
+<field name="librettistSort">Levrier Champ-Rion, Guillaume-Denis-Thomas</field>
 <field name="theater">Comédie-Italienne</field>
 <field name="city">Paris</field>
 

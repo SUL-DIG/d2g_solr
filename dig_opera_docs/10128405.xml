@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10128405</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1883</field>
 <field name="librettist">Paul Schumacher</field>
 <field name="librettistSort">Schumacher, Paul</field>
-<field name="librettist">Victor Joseph Étienne de Jouy</field>
-<field name="librettistSort">Jouy, Victor Joseph Étienne de</field>
+<field name="librettist">Étienne de Jouy</field>
+<field name="librettistSort">Jouy, Étienne de</field>
 <field name="theater">Neues Stadttheater</field>
 <field name="city">Leipzig</field>
 <field name="region">Sachsen</field>

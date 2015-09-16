@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10119056</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1880</field>
 <field name="librettist">[Paul de Haen] Paul de Néha</field>
 <field name="librettistSort">Néha, Paul de [Paul de Haen]</field>
-<field name="librettist">F. de La Chesneraye</field>
-<field name="librettistSort">La Chesneraye, F. de</field>
+<field name="librettist">Félix de La Chesneraye</field>
+<field name="librettistSort">La Chesneraye, Félix de</field>
 <field name="theater">Café-concert de la Scala</field>
 <field name="city">Paris</field>
 

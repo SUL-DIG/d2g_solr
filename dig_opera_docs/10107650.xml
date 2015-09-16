@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107650</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Destouches, André Cardinal</field>
 <field name="year">1703</field>
 <field name="date">1703</field>
-<field name="librettist">Antoine Houdar de Lamotte</field>
-<field name="librettistSort">Lamotte, Antoine Houdar de</field>
+<field name="librettist">Antoine Houdar de La Motte</field>
+<field name="librettistSort">La Motte, Antoine Houdar de</field>
 <field name="theater">Château de Fontainebleau</field>
 <field name="city">Fontainebleau</field>
 <field name="region">Seine-et-Marne</field>

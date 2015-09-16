@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115264</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Jirák, Karel Boleslav</field>
 <field name="year">1928</field>
 <field name="date">1928</field>
-<field name="librettist">Jirí Karásek</field>
-<field name="librettistSort">Karásek, Jirí</field>
+<field name="librettist">Jiří Karásek</field>
+<field name="librettistSort">Karásek, Jiří</field>
 
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>

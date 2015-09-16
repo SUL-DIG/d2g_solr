@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10121092</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Moor, Karel</field>
 <field name="year">1925</field>
 <field name="date">1925</field>
-<field name="librettist">Jirí Balda</field>
-<field name="librettistSort">Balda, Jirí</field>
+<field name="librettist">Jiří Balda</field>
+<field name="librettistSort">Balda, Jiří</field>
 <field name="theater">Stredoceské Divadlo</field>
 <field name="city">Kladno</field>
 <field name="region">Stredocesky Kraj</field>

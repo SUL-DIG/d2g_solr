@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107448</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1798</field>
 <field name="librettist">Jean-Baptiste-Denis Desprès</field>
 <field name="librettistSort">Desprès, Jean-Baptiste-Denis</field>
-<field name="librettist">Claude-Joseph Rouget de Lisle</field>
-<field name="librettistSort">Rouget de Lisle, Claude-Joseph</field>
+<field name="librettist">Claude Joseph Rouget de Lisle</field>
+<field name="librettistSort">Rouget de Lisle, Claude Joseph</field>
 <field name="theater">Comédie-Italienne</field>
 <field name="city">Paris</field>
 

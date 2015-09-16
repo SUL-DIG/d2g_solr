@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10200318</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">L'aurora foriera della pace fra Giobbe ed Esaù</field>
@@ -9,8 +10,8 @@
 		<field name="date">1757</field>
 		<field name="composer">Nicola Sabatino</field>
 		<field name="composerSort">Sabatino, Nicola</field>
-		<field name="librettist">Nicola Giuseppe Morbili di Sant-Angelo</field>
-		<field name="librettistSort">Morbili di Sant-Angelo, Nic</field>
+		<field name="librettist">Nicola Giuseppe Morbilli</field>
+		<field name="librettistSort">Morbilli, Nicola Giuseppe</field>
 		
 		
 		<field name="city">Palermo</field>

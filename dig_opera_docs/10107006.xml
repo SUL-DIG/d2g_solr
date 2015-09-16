@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107006</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Dalayrac, Nicolas-Marie</field>
 <field name="year">1798</field>
 <field name="date">1798</field>
-<field name="librettist">François Benoît Hoffman</field>
-<field name="librettistSort">Hoffman, François Benoît</field>
+<field name="librettist">François-Benoît Hoffman</field>
+<field name="librettistSort">Hoffman, François-Benoît</field>
 <field name="theater">Comédie-Italienne</field>
 <field name="city">Paris</field>
 

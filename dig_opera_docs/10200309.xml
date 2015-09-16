@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10200309</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Die Auferweckung des Lazarus</field>
@@ -9,8 +10,8 @@
 		<field name="date">1773</field>
 		<field name="composer">Johann Christoph Friedrich Bach</field>
 		<field name="composerSort">Bach, Johann Christoph Friedrich</field>
-		<field name="librettist">Johann Gottfried Herder</field>
-		<field name="librettistSort">Herder, Johann Gottfried</field>
+		<field name="librettist">Johann Gottfried von Herder</field>
+		<field name="librettistSort">Herder, Johann Gottfried von</field>
 		
 		
 		<field name="city">Bückeburg</field>

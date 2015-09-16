@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10200649</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Cisarúv mim (The Emperor's Mime)</field>
@@ -9,8 +10,8 @@
 		<field name="date">1994</field>
 		<field name="composer">Zdenek Pololánik</field>
 		<field name="composerSort">Pololánik, Zdenek</field>
-		<field name="librettist">Václav Renc</field>
-		<field name="librettistSort">Renc, Václav</field>
+		<field name="librettist">Václav Renč</field>
+		<field name="librettistSort">Renč, Václav</field>
 		
 		
 		

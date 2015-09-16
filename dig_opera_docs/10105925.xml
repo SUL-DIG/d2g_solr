@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105925</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1963</field>
 <field name="librettist">Ján Cikker</field>
 <field name="librettistSort">Cikker, Ján</field>
-<field name="librettist">[Ján Cietek] Ján Smrek</field>
-<field name="librettistSort">Smrek, Ján [Ján Cietek]</field>
+<field name="librettist">[Ján Čietek] Ján Smrek</field>
+<field name="librettistSort">Smrek, Ján [Ján Čietek]</field>
 <field name="theater">Staatstheater</field>
 <field name="city">Kassel</field>
 <field name="region">Hessen</field>

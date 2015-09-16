@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10108604</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Dvorák, Antonín</field>
 <field name="year">1882</field>
 <field name="date">1882</field>
-<field name="librettist">Marie Cervinková-Riegrová</field>
-<field name="librettistSort">Cervinková-Riegrová, Marie</field>
+<field name="librettist">Marie Červinková-Riegrová</field>
+<field name="librettistSort">Červinková-Riegrová, Marie</field>
 <field name="theater">Nové Ceské Divadlo</field>
 <field name="city">Prague</field>
 

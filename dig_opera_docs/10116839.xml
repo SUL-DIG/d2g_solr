@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10116839</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Kurpinski, Karol Kazimierz</field>
 <field name="year">1814</field>
 <field name="date">1814</field>
-<field name="librettist">Alojzy Zólkowski</field>
-<field name="librettistSort">Zólkowski, Alojzy</field>
+<field name="librettist">Alojzy Żółkowski</field>
+<field name="librettistSort">Żółkowski, Alojzy</field>
 <field name="theater">Teatr Narodowy</field>
 <field name="city">Warsaw</field>
 

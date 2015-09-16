@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10110206</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Fontenelle, Granges de</field>
 <field name="year">1813</field>
 <field name="date">1813</field>
-<field name="librettist">Jean-Baptiste-Gabriel-Marie Milcent</field>
-<field name="librettistSort">Milcent, Jean-Baptiste-Gabriel-Marie</field>
+<field name="librettist">Jean-Baptiste-Gabriel-Marie de Milcent</field>
+<field name="librettistSort">Milcent, Jean-Baptiste-Gabriel-Marie de</field>
 <field name="theater">Opéra</field>
 <field name="city">Paris</field>
 

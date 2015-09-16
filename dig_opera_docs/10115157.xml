@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115157</field>
 <field name="genre">Operas</field>
@@ -8,10 +9,10 @@
 <field name="composerSort">Janácek, Leos</field>
 <field name="year">1934</field>
 <field name="date">1934</field>
-<field name="librettist">Leos Janácek</field>
-<field name="librettistSort">Janácek, Leos</field>
-<field name="librettist">Fedora Bartosová</field>
-<field name="librettistSort">Bartosová, Fedora</field>
+<field name="librettist">Leoš Janáček</field>
+<field name="librettistSort">Janáček, Leoš</field>
+<field name="librettist">Fedora Bartošová</field>
+<field name="librettistSort">Bartošová, Fedora</field>
 <field name="theater">Radio Brno</field>
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>

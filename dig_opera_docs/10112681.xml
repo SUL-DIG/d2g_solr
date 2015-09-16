@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10112681</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Gresák, Jozef</field>
 <field name="year">1987</field>
 <field name="date">1987</field>
-<field name="librettist">Martin Kukucin</field>
-<field name="librettistSort">Kukucin, Martin</field>
+<field name="librettist">Martin Kukučín</field>
+<field name="librettistSort">Kukučín, Martin</field>
 <field name="theater">Bratislava Festival</field>
 <field name="city">Bratislava</field>
 

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10121803</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Nastasijevic, Svetomir</field>
 <field name="year">1959</field>
 <field name="date">1959</field>
-<field name="librettist">Svetomir Nastasijevic</field>
-<field name="librettistSort">Nastasijevic, Svetomir</field>
+<field name="librettist">Svetomir Nastasijević</field>
+<field name="librettistSort">Nastasijević, Svetomir</field>
 <field name="theater">Narodno Pozorista</field>
 <field name="city">Belgrade</field>
 

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10118071</field>
 <field name="genre">Operas</field>
@@ -10,8 +11,8 @@
 <field name="date">1944</field>
 <field name="librettist">Marko Fotez</field>
 <field name="librettistSort">Fotez, Marko</field>
-<field name="librettist">Marin Drzic</field>
-<field name="librettistSort">Drzic, Marin</field>
+<field name="librettist">Marin Držić</field>
+<field name="librettistSort">Držić, Marin</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Zagreb</field>
 

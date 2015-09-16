@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115620</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Kamienski, Maciej</field>
 <field name="year">1779</field>
 <field name="date">1779</field>
-<field name="librettist">Stanislaw Szymanski</field>
-<field name="librettistSort">Szymanski, Stanislaw</field>
+<field name="librettist">Stanisław Szymański</field>
+<field name="librettistSort">Szymański, Stanisław</field>
 <field name="theater">Teatr Narodowy</field>
 <field name="city">Warsaw</field>
 

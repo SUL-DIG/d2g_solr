@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10129545</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Sourilas, Théodore</field>
 <field name="year">1906</field>
 <field name="date">1906</field>
-<field name="librettist">S. B. de Courpon</field>
-<field name="librettistSort">Courpon, S. B. de</field>
+<field name="librettist">Sophie Bouvet de Courpon</field>
+<field name="librettistSort">Courpon, Sophie Bouvet de</field>
 
 <field name="city">Charenton-le-Pont</field>
 <field name="region">Val-de-Marne</field>

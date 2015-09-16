@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10107957</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Donizetti, Gaetano</field>
 <field name="year">1840</field>
 <field name="date">1840</field>
-<field name="librettist">Jules-Henri Vernoy de Saint-Georges</field>
-<field name="librettistSort">Saint-Georges, Jules-Henri Vernoy de</field>
+<field name="librettist">Henri de Saint-Georges</field>
+<field name="librettistSort">Saint-Georges, Henri de</field>
 <field name="librettist">Jean-François-Alfred Bayard</field>
 <field name="librettistSort">Bayard, Jean-François-Alfred</field>
 <field name="theater">Opéra-Comique</field>

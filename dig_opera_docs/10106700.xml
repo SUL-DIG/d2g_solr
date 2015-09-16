@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10106700</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Cortes, Sergey</field>
 <field name="year">1977</field>
 <field name="date">1977</field>
-<field name="librettist">Viktor Khalip</field>
-<field name="librettistSort">Khalip, Viktor</field>
+<field name="librettist">Vladimir Khalip</field>
+<field name="librettistSort">Khalip, Vladimir</field>
 <field name="theater">Belorusskiy Teatr Operï i Baleta</field>
 <field name="city">Minsk</field>
 <field name="region">Minsk Oblast</field>

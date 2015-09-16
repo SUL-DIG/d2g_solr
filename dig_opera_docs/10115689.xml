@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115689</field>
 <field name="genre">Operas</field>
@@ -8,10 +9,10 @@
 <field name="composerSort">Kaslík, Václav</field>
 <field name="year">1948</field>
 <field name="date">1948</field>
-<field name="librettist">Václav Kaslík</field>
-<field name="librettistSort">Kaslík, Václav</field>
-<field name="librettist">Vlastimil Skolaudý</field>
-<field name="librettistSort">Skolaudý, Vlastimil</field>
+<field name="librettist">Václav Kašlík</field>
+<field name="librettistSort">Kašlík, Václav</field>
+<field name="librettist">Vlastimil Školaudy</field>
+<field name="librettistSort">Školaudy, Vlastimil</field>
 <field name="theater">Velká Opera 5. Kvetna</field>
 <field name="city">Prague</field>
 

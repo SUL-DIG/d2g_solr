@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10203006</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Le nozze di Tobia</field>
@@ -9,8 +10,8 @@
 		<field name="date">1692</field>
 		<field name="composer">Giovanni Buonaventura Viviani</field>
 		<field name="composerSort">Viviani, Giovanni Buonaventura</field>
-		<field name="librettist">Antonio da Fineschi Radda</field>
-		<field name="librettistSort">Fineschi Radda, Antonio da</field>
+		<field name="librettist">Antonio Fineschi Radda</field>
+		<field name="librettistSort">Fineschi Radda, Antonio</field>
 		
 		<field name="theater">Compagnia dell'Arcangelo Raffaello detta La Scala</field>
 		<field name="city">Florence</field>

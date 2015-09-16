@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10118160</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Niewehove, Armand Marie Limnander de</field>
 <field name="year">1859</field>
 <field name="date">1859</field>
-<field name="librettist">Jules-Henri Vernoy de Saint-Georges</field>
-<field name="librettistSort">Saint-Georges, Jules-Henri Vernoy de</field>
+<field name="librettist">Henri de Saint-Georges</field>
+<field name="librettistSort">Saint-Georges, Henri de</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 

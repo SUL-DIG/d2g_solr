@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10126931</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Rózycki, Ludomir</field>
 <field name="year">1933</field>
 <field name="date">1933</field>
-<field name="librettist">Juliusz Krzewinski-Maszynski</field>
-<field name="librettistSort">Krzewinski-Maszynski, Juliusz</field>
+<field name="librettist">Juliusz Krzewiński-Maszyński</field>
+<field name="librettistSort">Krzewiński-Maszyński, Juliusz</field>
 <field name="theater">Teatr Wielki</field>
 <field name="city">Poznan</field>
 <field name="region">Wielkopolskie</field>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115776</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Kazuro, Stanislaw</field>
 <field name="year">1936</field>
 <field name="date">1936</field>
-<field name="librettist">Stanislaw Kazuro</field>
-<field name="librettistSort">Kazuro, Stanislaw</field>
+<field name="librettist">Stanisław Kazuro</field>
+<field name="librettistSort">Kazuro, Stanisław</field>
 
 <field name="city">Warsaw</field>
 

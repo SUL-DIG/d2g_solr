@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10132343</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Wachmann, Ion Andrei</field>
 <field name="year">1848</field>
 <field name="date">1848</field>
-<field name="librettist">Ion Eliade Radulescu</field>
-<field name="librettistSort">Radulescu, Ion Eliade</field>
+<field name="librettist">Ion Heliade-Rădulescu</field>
+<field name="librettistSort">Heliade-Rădulescu, Ion</field>
 
 <field name="city">Bucharest</field>
 

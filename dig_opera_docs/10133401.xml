@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10133401</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Zarins, Margers</field>
 <field name="year">1954</field>
 <field name="date">1954</field>
-<field name="librettist">Vilis Lacis</field>
-<field name="librettistSort">Lacis, Vilis</field>
+<field name="librettist">Vilis Lācis</field>
+<field name="librettistSort">Lācis, Vilis</field>
 <field name="theater">Latviyskiy Teatr Operï i Baleta</field>
 <field name="city">Riga</field>
 

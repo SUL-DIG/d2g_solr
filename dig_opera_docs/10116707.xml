@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10116707</field>
 <field name="genre">Operas</field>
@@ -8,10 +9,10 @@
 <field name="composerSort">Kubín, Rudolf</field>
 <field name="year">1942</field>
 <field name="date">1942</field>
-<field name="librettist">Vojtech Polácek</field>
-<field name="librettistSort">Polácek, Vojtech</field>
-<field name="librettist">V. Ruml</field>
-<field name="librettistSort">Ruml, V.</field>
+<field name="librettist">Václav Polácek</field>
+<field name="librettistSort">Polácek, Václav</field>
+<field name="librettist">Václav Ruml</field>
+<field name="librettistSort">Ruml, Václav</field>
 <field name="theater">Národní Divadlo Moravsko-Slezské</field>
 <field name="city">Ostrava</field>
 <field name="region">Severomoravsky Kraj</field>

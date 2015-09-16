@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10115234</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Jeremiás, Otakar</field>
 <field name="year">1928</field>
 <field name="date">1928</field>
-<field name="librettist">Otakar Jeremiás</field>
-<field name="librettistSort">Jeremiás, Otakar</field>
+<field name="librettist">Otakar Jeremiáš</field>
+<field name="librettistSort">Jeremiáš, Otakar</field>
 <field name="librettist">Jaroslav Maria</field>
 <field name="librettistSort">Maria, Jaroslav</field>
 <field name="theater">Národní Divadlo</field>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10203148</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Ot imeni zemnogo shara (On Behalf of the Earth's Globe)</field>
@@ -9,8 +10,8 @@
 		<field name="date">1983</field>
 		<field name="composer">Aleksandr Vladimirovich Chaykovsky</field>
 		<field name="composerSort">Chaykovsky, Aleksandr Vladimirovich</field>
-		<field name="librettist">M. Sel'vinsky</field>
-		<field name="librettistSort">Sel'vinsky, M.</field>
+		<field name="librettist">Il'ya L'vovich Sel'vinsky</field>
+		<field name="librettistSort">Sel'vinsky, Il'ya L'vovich</field>
 		
 		
 		

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131411</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Trnecek, Hanus</field>
 <field name="year">1900</field>
 <field name="date">1900</field>
-<field name="librettist">Bohuslav Benes</field>
-<field name="librettistSort">Benes, Bohuslav</field>
+<field name="librettist">Bohuslav Beneš</field>
+<field name="librettistSort">Beneš, Bohuslav</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Prague</field>
 

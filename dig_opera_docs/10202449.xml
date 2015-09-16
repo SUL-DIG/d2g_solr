@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10202449</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Laudatio Szigetiana</field>
@@ -9,8 +10,8 @@
 		<field name="date">1966</field>
 		<field name="composer">Ferenc Farkas</field>
 		<field name="composerSort">Farkas, Ferenc</field>
-		<field name="librettist">Kаroly Vargha</field>
-		<field name="librettistSort">Vargha, K_roly</field>
+		<field name="librettist">Kàroly Vargha</field>
+		<field name="librettistSort">Vargha, Kàroly</field>
 		
 		
 		

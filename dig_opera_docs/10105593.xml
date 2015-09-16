@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105593</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Chapelle, Pierre-David-Augustin</field>
 <field name="year">1790</field>
 <field name="date">1790</field>
-<field name="librettist">Louis-Auguste Bertin d'Antilly</field>
-<field name="librettistSort">d'Antilly, Louis-Auguste Bertin</field>
+<field name="librettist">Auguste-Louis Bertin d'Antilly</field>
+<field name="librettistSort">Bertin d'Antilly, Auguste-Louis</field>
 <field name="theater">Comédie-Italienne</field>
 <field name="city">Paris</field>
 

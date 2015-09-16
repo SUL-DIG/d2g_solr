@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10126686</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Rosenlecker, Georges</field>
 <field name="year">1882</field>
 <field name="date">1882</field>
-<field name="librettist">[Marie-Joseph-Édouard Hardя de Périni] Jean de Villeurs</field>
-<field name="librettistSort">Villeurs, Jean de [Marie-Joseph-Édouard Hardя de Périni]</field>
+<field name="librettist">[Édouard Hardÿ de Périni] Jean de Villeurs</field>
+<field name="librettistSort">Villeurs, Jean de [Édouard Hardÿ de Périni]</field>
 <field name="librettist">Charles Velmont</field>
 <field name="librettistSort">Velmont, Charles</field>
 <field name="theater">Grand-Théâtre</field>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<?xml version='1.0' encoding='UTF8'?>
+<add><doc>
 		<field name="id">10202099</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Les Israélites au Mont-Oreb</field>
@@ -9,8 +10,8 @@
 		<field name="date">1779</field>
 		<field name="composer">Louis-Henry Paisible</field>
 		<field name="composerSort">Paisible, Louis-Henry</field>
-		<field name="librettist">Claude-Henri de Fuzée de Voisenon</field>
-		<field name="librettistSort">Voisenon, Claude-Henri de F</field>
+		<field name="librettist">Claude-Henri de Fusée de Voisenon</field>
+		<field name="librettistSort">Voisenon , Claude-Henri de Fusée de</field>
 		
 		
 		<field name="city">St. Petersburg</field>

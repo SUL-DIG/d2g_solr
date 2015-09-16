@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10105588</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Chapelle, Pierre-David-Augustin</field>
 <field name="year">1793</field>
 <field name="date">1793</field>
-<field name="librettist">François Marie Mayeur de Saint-Paul</field>
-<field name="librettistSort">Mayeur de Saint-Paul, François Marie</field>
+<field name="librettist">François-Marie Mayeur de Saint-Paul</field>
+<field name="librettistSort">Mayeur de Saint-Paul, François-Marie</field>
 <field name="theater">Théâtre de la Cité-Variétés</field>
 <field name="city">Paris</field>
 

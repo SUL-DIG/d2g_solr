@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version='1.0' encoding='UTF8'?>
+<add>
 <doc>
 <field name="id">10131238</field>
 <field name="genre">Operas</field>
@@ -8,8 +9,8 @@
 <field name="composerSort">Trailesco, Cornel</field>
 <field name="year">1964</field>
 <field name="date">1964</field>
-<field name="librettist">Tudor Musatescu</field>
-<field name="librettistSort">Musatescu, Tudor</field>
+<field name="librettist">Tudor Muşatescu</field>
+<field name="librettistSort">Muşatescu, Tudor</field>
 <field name="librettist">Nina Stoiceva</field>
 <field name="librettistSort">Stoiceva, Nina</field>
 <field name="theater">Opera Româna</field>
