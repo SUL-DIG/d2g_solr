@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10115615</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Kamienski, Maciej</field>
 <field name="year">1783</field>
 <field name="date">1783</field>
-<field name="librettist">Franciszek Zablocki</field>
-<field name="librettistSort">Zablocki, Franciszek</field>
+<field name="librettist">Franciszek Zabłocki</field>
+<field name="librettistSort">Zabłocki, Franciszek</field>
 <field name="librettist">Charles Simon Favart</field>
 <field name="librettistSort">Favart, Charles Simon</field>
 <field name="theater">Teatr Narodowy</field>

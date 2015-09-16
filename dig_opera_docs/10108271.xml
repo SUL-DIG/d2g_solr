@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10108271</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Dragoi, Sabin Vasile</field>
 <field name="year">1962</field>
 <field name="date">1962</field>
-<field name="librettist">Sabin Vasile Dragoi</field>
-<field name="librettistSort">Dragoi, Sabin Vasile</field>
+<field name="librettist">Sabin Vasile Drăgoi</field>
+<field name="librettistSort">Drăgoi, Sabin Vasile</field>
 <field name="librettist">Petre Dulfu</field>
 <field name="librettistSort">Dulfu, Petre</field>
 <field name="theater">Muzical Teatrul</field>

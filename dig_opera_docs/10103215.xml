@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10103215</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Blavet, Michel</field>
 <field name="year">1753</field>
 <field name="date">1753</field>
-<field name="librettist">Henri-Charles Comte de Senneterre</field>
-<field name="librettistSort">Senneterre, Henri-Charles Comte de</field>
+<field name="librettist">Henri-Charles de Senneterre</field>
+<field name="librettistSort">Senneterre, Henri-Charles de</field>
 <field name="theater">Château de Berny</field>
 <field name="city">Berny-sur-Noye</field>
 <field name="region">Somme</field>

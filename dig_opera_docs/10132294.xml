@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10132294</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Volkert, Franz</field>
 <field name="year">1817</field>
 <field name="date">1817</field>
-<field name="librettist">__ Kachler</field>
-<field name="librettistSort">Kachler, __</field>
+<field name="librettist">Johann Kachler</field>
+<field name="librettistSort">Kachler, Johann</field>
 <field name="librettist">Friedrich von Schiller</field>
 <field name="librettistSort">Schiller, Friedrich von</field>
 <field name="theater">Theater in der Leopoldstadt</field>

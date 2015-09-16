@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10123261</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Pariot, Charles</field>
 <field name="year">1901</field>
 <field name="date">1901</field>
-<field name="librettist">H. Chanteclair</field>
-<field name="librettistSort">Chanteclair, H.</field>
-<field name="librettist">G. Cuvelard</field>
-<field name="librettistSort">Cuvelard, G.</field>
+<field name="librettist">Henry Chanteclair</field>
+<field name="librettistSort">Chanteclair, Henry</field>
+<field name="librettist">Georges Cuvelard</field>
+<field name="librettistSort">Cuvelard, Georges</field>
 <field name="theater">Théâtre de la Bodinière</field>
 <field name="city">Paris</field>
 

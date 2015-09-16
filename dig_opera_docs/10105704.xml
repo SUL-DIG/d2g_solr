@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10105704</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Cherubini, Luigi</field>
 <field name="year">1813</field>
 <field name="date">1813</field>
-<field name="librettist">Victor Joseph Étienne de Jouy</field>
-<field name="librettistSort">Jouy, Victor Joseph Étienne de</field>
-<field name="librettist">François René de Chateaubriand</field>
-<field name="librettistSort">Chateaubriand, François René de</field>
+<field name="librettist">Étienne de Jouy</field>
+<field name="librettistSort">Jouy, Étienne de</field>
+<field name="librettist">François-René de Chateaubriand</field>
+<field name="librettistSort">Chateaubriand, François-René de</field>
 <field name="theater">Opéra</field>
 <field name="city">Paris</field>
 

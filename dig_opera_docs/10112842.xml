@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10112842</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Grossman, Ludwik</field>
 <field name="year">1867</field>
 <field name="date">1867</field>
-<field name="librettist">Jan Checinski</field>
-<field name="librettistSort">Checinski, Jan</field>
+<field name="librettist">Jan Chęciński</field>
+<field name="librettistSort">Chęciński, Jan</field>
 <field name="theater">Teatr Wielki</field>
 <field name="city">Warsaw</field>
 

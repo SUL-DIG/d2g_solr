@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10118285</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1833</field>
 <field name="librettist">Johann Christian Lobe</field>
 <field name="librettistSort">Lobe, Johann Christian</field>
-<field name="librettist">Philipp Karl Christian Sondershausen</field>
-<field name="librettistSort">Sondershausen, Philipp Karl Christian</field>
+<field name="librettist">Karl Sondershausen</field>
+<field name="librettistSort">Sondershausen, Karl</field>
 <field name="theater">Grossherzogliches Hoftheater</field>
 <field name="city">Weimar</field>
 <field name="region">Thüringen</field>

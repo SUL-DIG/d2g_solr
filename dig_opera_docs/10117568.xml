@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10117568</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1804</field>
 <field name="librettist">P.-G.-A. Bonel</field>
 <field name="librettistSort">Bonel, P.-G.-A.</field>
-<field name="librettist">Jean-Bernard-Eugène Cantiran de Boirie</field>
-<field name="librettistSort">Cantiran de Boirie, Jean-Bernard-Eugène </field>
+<field name="librettist">Eugène Cantiran de Boirie</field>
+<field name="librettistSort">Boirie, Eugène Cantiran de</field>
 <field name="theater">Théâtre de la Gaîté</field>
 <field name="city">Paris</field>
 

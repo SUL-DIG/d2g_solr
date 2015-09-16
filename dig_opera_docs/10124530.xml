@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10124530</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Podést, Ludvík</field>
 <field name="year">1963</field>
 <field name="date">1963</field>
-<field name="librettist">Ludvík Podést</field>
-<field name="librettistSort">Podést, Ludvík</field>
+<field name="librettist">Ludvík Podéšť</field>
+<field name="librettistSort">Podéšť, Ludvík</field>
 <field name="librettist">Jan Drda</field>
 <field name="librettistSort">Drda, Jan</field>
 <field name="theater">Divadlo Františeka Xaviera Salda</field>

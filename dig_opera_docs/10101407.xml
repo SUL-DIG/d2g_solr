@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10101407</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1866</field>
 <field name="librettist">Charles Simon Favart</field>
 <field name="librettistSort">Favart, Charles Simon</field>
-<field name="librettist">Antoine-René de Voyer d'Argenson de Paulmy</field>
-<field name="librettistSort">Paulmy, Antoine-René de Voyer d'Argenson de</field>
+<field name="librettist">Antoine-René de Voyer Argenson</field>
+<field name="librettistSort">Argenson, Antoine-René de Voyer</field>
 <field name="theater">Grand-Théâtre</field>
 <field name="city">Marseille</field>
 <field name="region">Bouches-du-Rhône</field>

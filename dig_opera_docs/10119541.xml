@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10119541</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Martinu, Bohuslav</field>
 <field name="year">1953</field>
 <field name="date">1953</field>
-<field name="librettist">Bohuslav Martinu</field>
-<field name="librettistSort">Martinu, Bohuslav</field>
+<field name="librettist">Bohuslav Martinů</field>
+<field name="librettistSort">Martinů, Bohuslav</field>
 <field name="librettist">Nikolay Vasil'yevich Gogol</field>
 <field name="librettistSort">Gogol, Nikolay Vasil'yevich</field>
 <field name="theater">NBC Television (National Broadcasting Company)</field>

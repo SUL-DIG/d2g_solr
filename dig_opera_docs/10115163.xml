@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10115163</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Janácek, Leos</field>
 <field name="year">1920</field>
 <field name="date">1920</field>
-<field name="librettist">Leos Janácek</field>
-<field name="librettistSort">Janácek, Leos</field>
-<field name="librettist">Svatopluk Cech</field>
-<field name="librettistSort">Cech, Svatopluk</field>
+<field name="librettist">Leoš Janáček</field>
+<field name="librettistSort">Janáček, Leoš</field>
+<field name="librettist">Svatopluk Čech</field>
+<field name="librettistSort">Čech, Svatopluk</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Prague</field>
 

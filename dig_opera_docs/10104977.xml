@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10104977</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Carafa, Michele</field>
 <field name="year">1822</field>
 <field name="date">1822</field>
-<field name="librettist">François-Antoine-Eugène de Planard</field>
-<field name="librettistSort">Planard, François-Antoine-Eugène de</field>
+<field name="librettist">Eugène de Planard</field>
+<field name="librettistSort">Planard, Eugène de</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 

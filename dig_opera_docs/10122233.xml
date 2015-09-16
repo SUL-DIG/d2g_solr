@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10122233</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Nottara, Constantin</field>
 <field name="year">1966</field>
 <field name="date">1966</field>
-<field name="librettist">S. Zaleski</field>
-<field name="librettistSort">Zaleski, S.</field>
+<field name="librettist">Sigismund Zaleski</field>
+<field name="librettistSort">Zaleski, Sigismund</field>
 <field name="librettist">Vasile Alecsandri</field>
 <field name="librettistSort">Alecsandri, Vasile</field>
 <field name="theater">Radio Bucharest</field>

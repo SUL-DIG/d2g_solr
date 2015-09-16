@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10114718</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Hrimalý, Voytech</field>
 <field name="year">1872</field>
 <field name="date">1872</field>
-<field name="librettist">Jindrich Böhm</field>
-<field name="librettistSort">Böhm, Jindrich</field>
+<field name="librettist">Jindřich Böhm</field>
+<field name="librettistSort">Böhm, Jindřich</field>
 <field name="theater">Novomestské Divadlo</field>
 <field name="city">Prague</field>
 

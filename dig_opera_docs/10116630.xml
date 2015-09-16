@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10116630</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Kricka, Jaroslav</field>
 <field name="year">1962</field>
 <field name="date">1962</field>
-<field name="librettist">Jaroslav Kricka</field>
-<field name="librettistSort">Kricka, Jaroslav</field>
+<field name="librettist">Jaroslav Křička</field>
+<field name="librettistSort">Křička, Jaroslav</field>
 <field name="librettist">Paola Lombroso</field>
 <field name="librettistSort">Lombroso, Paola</field>
 <field name="theater">Czech Television (Ceska Televize)</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10116538</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Krenn, Hans</field>
 <field name="year">1884</field>
 <field name="date">1884</field>
-<field name="librettist">W. F. Horak</field>
-<field name="librettistSort">Horak, W. F.</field>
+<field name="librettist">V. F. Horak</field>
+<field name="librettistSort">Horak, V. F.</field>
 <field name="theater">Fürsttheater im Prater</field>
 <field name="city">Vienna</field>
 

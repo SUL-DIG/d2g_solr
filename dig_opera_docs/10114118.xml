@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10114118</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Hérold, Ferdinand</field>
 <field name="year">1832</field>
 <field name="date">1832</field>
-<field name="librettist">François-Antoine-Eugène de Planard</field>
-<field name="librettistSort">Planard, François-Antoine-Eugène de</field>
+<field name="librettist">Eugène de Planard</field>
+<field name="librettistSort">Planard, Eugène de</field>
 <field name="librettist">Prosper Mérimée</field>
 <field name="librettistSort">Mérimée, Prosper</field>
 <field name="theater">Opéra-Comique</field>

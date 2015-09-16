@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10104310</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Bruni, Antonio Bartolomeo</field>
 <field name="year">1785</field>
 <field name="date">1785</field>
-<field name="librettist">__ Magnitot</field>
-<field name="librettistSort">Magnitot, __</field>
+<field name="librettist">__ Magnito</field>
+<field name="librettistSort">Magnito, __</field>
 <field name="librettist">__ Tacusset</field>
 <field name="librettistSort">Tacusset, __</field>
 <field name="theater">Château de Fontainebleau</field>

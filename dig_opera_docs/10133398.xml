@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10133398</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Zarins, Margers</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
-<field name="librettist">Margers Zarins</field>
-<field name="librettistSort">Zarins, Margers</field>
+<field name="librettist">Marģeris Zariņš</field>
+<field name="librettistSort">Zariņš, Marģeris</field>
 <field name="librettist">[Zanis Folmanis] Zanis Griva</field>
 <field name="librettistSort">Griva, Zanis [Zanis Folmanis]</field>
 <field name="theater">Latviyskiy Teatr Operï i Baleta</field>

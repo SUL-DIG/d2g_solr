@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<add><doc>
 		<field name="id">10201073</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Ecce homo</field>
@@ -9,10 +9,10 @@
 		<field name="date">1980</field>
 		<field name="composer">Jan Hanus</field>
 		<field name="composerSort">Hanus, Jan</field>
-		<field name="librettist">Václav Renc</field>
-		<field name="librettistSort">Renc, Václav</field>
-		<field name="librettist">Frantisek Trtilek</field>
-		<field name="librettistSort">Trtilek, Frantisek</field>
+		<field name="librettist">Václav Renč</field>
+		<field name="librettistSort">Renč, Václav</field>
+		<field name="librettist">František Trtilek</field>
+		<field name="librettistSort">Trtilek, František</field>
 		
 		
 		

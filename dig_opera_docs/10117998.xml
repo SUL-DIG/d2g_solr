@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10117998</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Lessel, Wincenty Ferdynand</field>
 <field name="year">1805</field>
 <field name="date">1805</field>
-<field name="librettist">Ignacy Tanski</field>
-<field name="librettistSort">Tanski, Ignacy</field>
+<field name="librettist">Ignacy Tański</field>
+<field name="librettistSort">Tański, Ignacy</field>
 
 <field name="city">Pulawy</field>
 <field name="region">Lubelskie</field>

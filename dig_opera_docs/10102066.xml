@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10102066</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1776</field>
 <field name="librettist">August Gottlieb Meissner</field>
 <field name="librettistSort">Meissner, August Gottlieb</field>
-<field name="librettist">Charles-Georges Fenouillot de Falbaire</field>
-<field name="librettistSort">Fenouillot de Falbaire, Charles-Georges </field>
+<field name="librettist">Charles-Georges Fenouillot de Falbaire de Quingey</field>
+<field name="librettistSort">Fenouillot de Falbaire de Quingey, Charles-Georges</field>
 <field name="theater">Wäser Gesellschaft</field>
 <field name="city">Wroclaw</field>
 <field name="region">Dolnoslaskie</field>

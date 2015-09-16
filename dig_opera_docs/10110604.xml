@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10110604</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Froment, __</field>
 <field name="year">1799</field>
 <field name="date">1799</field>
-<field name="librettist">Jean-François-Jacques Corsange de la Plante</field>
-<field name="librettistSort">Corsange de la Plante, Jean-François-Jacques</field>
+<field name="librettist">Jean-François-Jacques Corsange de La Plante</field>
+<field name="librettistSort">Corsange de La Plante, Jean-François-Jacques</field>
 <field name="librettist">Jean-Baptiste-Augustin Hapdé</field>
 <field name="librettistSort">Hapdé, Jean-Baptiste-Augustin</field>
 <field name="theater">Théâtre des Jeunes Artistes</field>

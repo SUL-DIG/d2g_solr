@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10105577</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Chancourtois, Louis</field>
 <field name="year">1824</field>
 <field name="date">1824</field>
-<field name="librettist">Ange Étienne Xavier Poisson de La Chaubeaussière</field>
-<field name="librettistSort">La Chaubeaussière, Ange Étienne Xavier Poisson de</field>
+<field name="librettist">Auguste-Étienne-Xavier Poisson de La Chaubeaussière</field>
+<field name="librettistSort">Poisson de La Chaubeaussière, Auguste-Étienne-Xavier</field>
 <field name="librettist">Bernard le Bovier de Fontenelle</field>
 <field name="librettistSort">Fontenelle, Bernard le Bovier de</field>
 <field name="theater">Opéra-Comique</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10110773</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Gaetano, [Kajetan Majer]</field>
 <field name="year">1787</field>
 <field name="date">1787</field>
-<field name="librettist">Leon Pierozynski</field>
-<field name="librettistSort">Pierozynski, Leon</field>
+<field name="librettist">Leon Pierożyński</field>
+<field name="librettistSort">Pierożyński, Leon</field>
 <field name="librettist">Louis Anseaume</field>
 <field name="librettistSort">Anseaume, Louis</field>
 <field name="theater">Teatr Narodowy</field>

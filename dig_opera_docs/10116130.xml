@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10116130</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1920</field>
 <field name="librettist">Oskar Engel</field>
 <field name="librettistSort">Engel, Oskar</field>
-<field name="librettist">George l'Orange</field>
-<field name="librettistSort">l'Orange, George</field>
+<field name="librettist">Georg l'Orange</field>
+<field name="librettistSort">l'Orange, Georg</field>
 <field name="theater">Neues Operetten-Theater</field>
 <field name="city">Gera</field>
 <field name="region">Thüringen</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10122260</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Novák, Vítezslav</field>
 <field name="year">1915</field>
 <field name="date">1915</field>
-<field name="librettist">Ladislav Stroupeznický</field>
-<field name="librettistSort">Stroupeznický, Ladislav</field>
+<field name="librettist">Ladislav Stroupežnický</field>
+<field name="librettistSort">Stroupežnický, Ladislav</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Prague</field>
 

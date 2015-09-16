@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10109419</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Fay, Étienne</field>
 <field name="year">1800</field>
 <field name="date">1800</field>
-<field name="librettist">Marie-Émilie Mayon de Montanclos</field>
-<field name="librettistSort">Montanclos, Marie-Émilie Mayon de</field>
+<field name="librettist">Marie-Émilie de Montanclos</field>
+<field name="librettistSort">Montanclos, Marie-Émilie de</field>
 <field name="theater">Théâtre de la rue Feydeau</field>
 <field name="city">Paris</field>
 

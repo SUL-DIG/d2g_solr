@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10112417</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Gotovac, Jakov</field>
 <field name="year">1935</field>
 <field name="date">1935</field>
-<field name="librettist">Milan Begovic</field>
-<field name="librettistSort">Begovic, Milan</field>
+<field name="librettist">Milan Begović</field>
+<field name="librettistSort">Begović, Milan</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Zagreb</field>
 

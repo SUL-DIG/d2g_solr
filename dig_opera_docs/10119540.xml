@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10119540</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Martinu, Bohuslav</field>
 <field name="year">1928</field>
 <field name="date">1928</field>
-<field name="librettist">Jan Löwenbach Budin</field>
-<field name="librettistSort">Budin, Jan Löwenbach</field>
+<field name="librettist">Jan Löwenbach-Budin</field>
+<field name="librettistSort">Löwenbach-Budin, Jan</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>

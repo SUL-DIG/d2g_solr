@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10110098</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Flotow, Friedrich</field>
 <field name="year">1865</field>
 <field name="date">1865</field>
-<field name="librettist">Jules-Henri Vernoy de Saint-Georges</field>
-<field name="librettistSort">Saint-Georges, Jules-Henri Vernoy de</field>
+<field name="librettist">Henri de Saint-Georges</field>
+<field name="librettistSort">Saint-Georges, Henri de</field>
 <field name="librettist">Ludovic Halévy</field>
 <field name="librettistSort">Halévy, Ludovic</field>
 <field name="theater">Mariinsky Teatr</field>

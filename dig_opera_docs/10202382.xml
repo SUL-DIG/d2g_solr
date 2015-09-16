@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<add><doc>
 		<field name="id">10202382</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Die Kindheit Jesu</field>
@@ -9,8 +9,8 @@
 		<field name="date">1773</field>
 		<field name="composer">Johann Christoph Friedrich Bach</field>
 		<field name="composerSort">Bach, Johann Christoph Friedrich</field>
-		<field name="librettist">Johann Gottfried Herder</field>
-		<field name="librettistSort">Herder, Johann Gottfried</field>
+		<field name="librettist">Johann Gottfried von Herder</field>
+		<field name="librettistSort">Herder, Johann Gottfried von</field>
 		
 		
 		<field name="city">Bückeburg</field>

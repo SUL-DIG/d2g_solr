@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10120249</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Menge, W.</field>
 <field name="year">1887</field>
 <field name="date">1887</field>
-<field name="librettist">__ Dondorf</field>
-<field name="librettistSort">Dondorf, __</field>
+<field name="librettist">__ Donndorf</field>
+<field name="librettistSort">Donndorf, __</field>
 <field name="librettist">Paul de Kock</field>
 <field name="librettistSort">Kock, Paul de</field>
 

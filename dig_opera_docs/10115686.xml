@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10115686</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1961</field>
 <field name="librettist">Otakar Vávra</field>
 <field name="librettistSort">Vávra, Otakar</field>
-<field name="librettist">Karel Capek</field>
-<field name="librettistSort">Capek, Karel</field>
+<field name="librettist">Karel Čapek</field>
+<field name="librettistSort">Čapek, Karel</field>
 <field name="theater">Czech Television (Ceska Televize)</field>
 <field name="city">Prague</field>
 

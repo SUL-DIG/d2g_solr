@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10124403</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Piskacek, Adolf</field>
 <field name="year">1910</field>
 <field name="date">1910</field>
-<field name="librettist">Bozena Nemcová</field>
-<field name="librettistSort">Nemcová, Bozena</field>
+<field name="librettist">Božena Němcová</field>
+<field name="librettistSort">Němcová, Božena</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Prague</field>
 

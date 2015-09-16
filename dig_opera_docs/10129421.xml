@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10129421</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Solié, Jean-Pierre</field>
 <field name="year">1804</field>
 <field name="date">1804</field>
-<field name="librettist">François Benoît Hoffman</field>
-<field name="librettistSort">Hoffman, François Benoît</field>
+<field name="librettist">François-Benoît Hoffman</field>
+<field name="librettistSort">Hoffman, François-Benoît</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 

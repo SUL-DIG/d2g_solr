@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10107082</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Damse, Józef</field>
 <field name="year">1836</field>
 <field name="date">1836</field>
-<field name="librettist">Stanislaw Doliwa Starzynski</field>
-<field name="librettistSort">Starzynski, Stanislaw Doliwa</field>
+<field name="librettist">Stanisław Doliwa Starzyński</field>
+<field name="librettistSort">Doliwa Starzyński, Stanisław</field>
 <field name="theater">Teatr Rozmaitosci</field>
 <field name="city">Warsaw</field>
 

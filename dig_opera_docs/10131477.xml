@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10131477</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1969</field>
 <field name="librettist">Romuald Twardowski</field>
 <field name="librettistSort">Twardowski, Romuald</field>
-<field name="librettist">Jaroslaw Iwaszkiewicz</field>
-<field name="librettistSort">Iwaszkiewicz, Jaroslaw</field>
+<field name="librettist">Jarosław Iwaszkiewicz</field>
+<field name="librettistSort">Iwaszkiewicz, Jarosław</field>
 <field name="theater">Polish Radio (Polskie Radio)</field>
 
 <field name="country">Poland</field>

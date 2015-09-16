@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10115269</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Jirásek, Ivo</field>
 <field name="year">1956</field>
 <field name="date">1956</field>
-<field name="librettist">Vladimir Srámek</field>
-<field name="librettistSort">Srámek, Vladimir</field>
+<field name="librettist">Vladimír Šrámek</field>
+<field name="librettistSort">Šrámek, Vladimír</field>
 <field name="librettist">Alois Jirásek</field>
 <field name="librettistSort">Jirásek, Alois</field>
 <field name="theater">Slezské Divadlo Zdenka Nejedlého</field>

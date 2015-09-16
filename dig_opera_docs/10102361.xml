@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10102361</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Benes, Juraj</field>
 <field name="year">1984</field>
 <field name="date">1984</field>
-<field name="librettist">Juraj Benes</field>
-<field name="librettistSort">Benes, Juraj</field>
-<field name="librettist">Pavel Országh-Hviezdoslav</field>
-<field name="librettistSort">Országh-Hviezdoslav, Pavel</field>
+<field name="librettist">Juraj Beneš</field>
+<field name="librettistSort">Beneš, Juraj</field>
+<field name="librettist">Pavol Országh-Hviezdoslav</field>
+<field name="librettistSort">Országh-Hviezdoslav, Pavol</field>
 <field name="theater">Slovenské Narodné Divadlo</field>
 <field name="city">Bratislava</field>
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10126982</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Rudzinski, Zbigniew</field>
 <field name="year">1983</field>
 <field name="date">1983</field>
-<field name="librettist">Zbigniew Rudzinski</field>
-<field name="librettistSort">Rudzinski, Zbigniew</field>
+<field name="librettist">Zbigniew Rudziński</field>
+<field name="librettistSort">Rudziński, Zbigniew</field>
 <field name="librettist">Bruno Schulz</field>
 <field name="librettistSort">Schulz, Bruno</field>
 <field name="theater">Opera Dolnoslaska</field>

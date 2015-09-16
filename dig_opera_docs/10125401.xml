@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10125401</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1953</field>
 <field name="librettist">Antanas Venclov</field>
 <field name="librettistSort">Venclov, Antanas</field>
-<field name="librettist">Petras Keidosius</field>
-<field name="librettistSort">Keidosius, Petras</field>
+<field name="librettist">Petras Keidošius</field>
+<field name="librettistSort">Keidošius, Petras</field>
 <field name="theater">Litovsky Teatr Operï i Baleta</field>
 <field name="city">Vilnius</field>
 

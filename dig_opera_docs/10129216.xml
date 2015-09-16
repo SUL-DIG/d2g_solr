@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10129216</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Sivic, Pavel</field>
 <field name="year">1931</field>
 <field name="date">1931</field>
-<field name="librettist">Maks Simoncic</field>
-<field name="librettistSort">Simoncic, Maks</field>
+<field name="librettist">Maks Simončič</field>
+<field name="librettistSort">Simončič, Maks</field>
 
 <field name="city">Ljubljana</field>
 

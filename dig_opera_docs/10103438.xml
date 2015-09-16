@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10103438</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Boisval, Mme. Le Chevalier de</field>
 <field name="year">1895</field>
 <field name="date">1895</field>
-<field name="librettist">__ Mérini</field>
-<field name="librettistSort">Mérini, __</field>
+<field name="librettist">Fernand Mérini</field>
+<field name="librettistSort">Mérini, Fernand</field>
 <field name="librettist">Pierre Carlet de Chamblain de Marivaux</field>
 <field name="librettistSort">Marivaux, Pierre Carlet de Chamblain de</field>
 

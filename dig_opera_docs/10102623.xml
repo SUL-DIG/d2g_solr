@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10102623</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Bernicat, Firmin</field>
 <field name="year">1876</field>
 <field name="date">1876</field>
-<field name="librettist">[G. Delafontaine] Gédhé</field>
-<field name="librettistSort">Gédhé, [G. Delafontaine]</field>
+<field name="librettist">[Georges Delafontaine] Céhem-Gédhé</field>
+<field name="librettistSort">Céhem-Gédhé, [Georges Delafontaine]</field>
 <field name="librettist">William Busnach</field>
 <field name="librettistSort">Busnach, William</field>
 <field name="theater">Théâtre des Fantaisies-Oller</field>

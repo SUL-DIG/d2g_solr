@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10101151</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Arquier, Joseph</field>
 <field name="year">1789</field>
 <field name="date">1789</field>
-<field name="librettist">François-Emmanuel Comte de Saint-Priest</field>
-<field name="librettistSort">Saint-Priest, François-Emmanuel Comte de</field>
+<field name="librettist">François-Emmanuel Guignard de Saint-Priest</field>
+<field name="librettistSort">Saint-Priest, François-Emmanuel Guignard de</field>
 <field name="theater">Grand-Théâtre</field>
 <field name="city">Marseille</field>
 <field name="region">Bouches-du-Rhône</field>

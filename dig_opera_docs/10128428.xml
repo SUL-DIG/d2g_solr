@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10128428</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Schottländer, Leo</field>
 <field name="year">1905</field>
 <field name="date">1905</field>
-<field name="librettist">C. Loevenberg</field>
-<field name="librettistSort">Loevenberg, C.</field>
+<field name="librettist">T. Lövenberg</field>
+<field name="librettistSort">Lövenberg, T.</field>
 <field name="theater">Residenztheater</field>
 <field name="city">Kolobrzeg</field>
 <field name="region">Zachodniopomorskie</field>

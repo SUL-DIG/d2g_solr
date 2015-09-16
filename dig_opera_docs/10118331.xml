@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10118331</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Logar, Mihovil</field>
 <field name="year">1961</field>
 <field name="date">1961</field>
-<field name="librettist">Momir Nikolic</field>
-<field name="librettistSort">Nikolic, Momir</field>
-<field name="librettist">Oskar Davico</field>
-<field name="librettistSort">Davico, Oskar</field>
+<field name="librettist">Momir Nikolić</field>
+<field name="librettistSort">Nikolić, Momir</field>
+<field name="librettist">Oskar Davičo</field>
+<field name="librettistSort">Davičo, Oskar</field>
 <field name="theater">Narodno pozoriste</field>
 <field name="city">Sarajevo</field>
 

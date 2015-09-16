@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10107334</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Déjazet, Eugène-Joseph</field>
 <field name="year">1852</field>
 <field name="date">1852</field>
-<field name="librettist">Jules-Henri Vernoy de Saint-Georges</field>
-<field name="librettistSort">Saint-Georges, Jules-Henri Vernoy de</field>
+<field name="librettist">Henri de Saint-Georges</field>
+<field name="librettistSort">Saint-Georges, Henri de</field>
 <field name="librettist">Henri Dupin</field>
 <field name="librettistSort">Dupin, Henri</field>
 <field name="theater">Théâtre-Lyrique</field>

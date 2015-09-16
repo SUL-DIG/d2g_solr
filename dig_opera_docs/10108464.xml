@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10108464</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Duniecki, Stanislaw</field>
 <field name="year">1866</field>
 <field name="date">1866</field>
-<field name="librettist">Pawel Duniecki</field>
-<field name="librettistSort">Duniecki, Pawel</field>
+<field name="librettist">Paweł Duniecki</field>
+<field name="librettistSort">Duniecki, Paweł</field>
 <field name="theater">Stary Teatr</field>
 <field name="city">Cracow</field>
 <field name="region">Malopolskie</field>

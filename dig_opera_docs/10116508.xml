@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10116508</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Krejcí, Isa</field>
 <field name="year">1955</field>
 <field name="date">1955</field>
-<field name="librettist">Isa Krejcí</field>
-<field name="librettistSort">Krejcí, Isa</field>
+<field name="librettist">Iša Krejčí</field>
+<field name="librettistSort">Krejčí, Iša</field>
 <field name="librettist">Josef Bachtík</field>
 <field name="librettistSort">Bachtík, Josef</field>
 <field name="theater">Olomoucké Divadlo</field>

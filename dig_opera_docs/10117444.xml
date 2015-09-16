@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10117444</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1881</field>
 <field name="librettist">Amédée Burion</field>
 <field name="librettistSort">Burion, Amédée</field>
-<field name="librettist">G. Lelio</field>
-<field name="librettistSort">Lelio, G.</field>
+<field name="librettist">Georges Lélio</field>
+<field name="librettistSort">Lélio, Georges</field>
 <field name="theater">Théâtre du Château d'eau</field>
 <field name="city">Paris</field>
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10122690</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Ostrcil, Otakar</field>
 <field name="year">1908</field>
 <field name="date">1908</field>
-<field name="librettist">Karel Masek</field>
-<field name="librettistSort">Masek, Karel</field>
+<field name="librettist">Karel Mašek</field>
+<field name="librettistSort">Mašek, Karel</field>
 <field name="librettist">Julius Zeyer</field>
 <field name="librettistSort">Zeyer, Julius</field>
 <field name="theater">Národní Divadlo</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10103408</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Boieldieu, Adrien</field>
 <field name="year">1813</field>
 <field name="date">1813</field>
-<field name="librettist">Augustin-François Creuzé de Lesser</field>
-<field name="librettistSort">Creuzé de Lesser, Augustin-François</field>
+<field name="librettist">Auguste Creuzé de Lesser</field>
+<field name="librettistSort">Creuzé de Lesser, Auguste</field>
 <field name="librettist">Jean-François Roger</field>
 <field name="librettistSort">Roger, Jean-François</field>
 <field name="theater">Opéra-Comique</field>

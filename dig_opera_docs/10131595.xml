@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10131595</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Vacek, Milos</field>
 <field name="year">1987</field>
 <field name="date">1987</field>
-<field name="librettist">Nada Mauerová</field>
-<field name="librettistSort">Mauerová, Nada</field>
-<field name="librettist">Frantisek Hrubín</field>
-<field name="librettistSort">Hrubín, Frantisek</field>
+<field name="librettist">Nad'a Mauerová</field>
+<field name="librettistSort">Mauerová, Nad'a</field>
+<field name="librettist">František Hrubín</field>
+<field name="librettistSort">Hrubín, František</field>
 <field name="theater">Jihoceské Národní Divadlo</field>
 <field name="city">Ceské Budejovice</field>
 <field name="region">Jihocesky Kraj</field>

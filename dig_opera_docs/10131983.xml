@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10131983</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1893</field>
 <field name="librettist">Henri Le Pointe</field>
 <field name="librettistSort">Le Pointe, Henri</field>
-<field name="librettist">G. Sutra</field>
-<field name="librettistSort">Sutra, G.</field>
+<field name="librettist">[Georges Artus] Géo Sutra</field>
+<field name="librettistSort">Sutra, Géo [Georges Artus]</field>
 <field name="theater">Théâtre de la Bodinière</field>
 <field name="city">Paris</field>
 

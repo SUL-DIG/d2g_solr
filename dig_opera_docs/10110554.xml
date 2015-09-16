@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10110554</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Friebert, Joseph</field>
 <field name="year">1778</field>
 <field name="date">1778</field>
-<field name="librettist">J. Nuth</field>
-<field name="librettistSort">Nuth, J.</field>
+<field name="librettist">Franz Anton Nuth</field>
+<field name="librettistSort">Nuth, Franz Anton</field>
 
 <field name="city">Nuremberg</field>
 <field name="region">Bayern</field>

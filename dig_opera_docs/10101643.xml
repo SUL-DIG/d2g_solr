@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10101643</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Bajic, Isidor</field>
 <field name="year">1911</field>
 <field name="date">1911</field>
-<field name="librettist">Branislav Nusic</field>
-<field name="librettistSort">Nusic, Branislav</field>
+<field name="librettist">Branislav Nušić</field>
+<field name="librettistSort">Nušić, Branislav</field>
 <field name="theater">Narodno Pozorista</field>
 <field name="city">Belgrade</field>
 

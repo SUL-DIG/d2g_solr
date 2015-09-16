@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10108795</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Eisenhuth, Duro</field>
 <field name="year">1878</field>
 <field name="date">1878</field>
-<field name="librettist">Franz Zigrovic von Pretocki</field>
-<field name="librettistSort">Pretocki, Franz Zigrovic von</field>
+<field name="librettist">Franz Žigrović-Pretočki</field>
+<field name="librettistSort">Žigrović-Pretočki, Franz</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Zagreb</field>
 

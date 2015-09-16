@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10133434</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Zelinka, Jan Evangelista</field>
 <field name="year">1949</field>
 <field name="date">1949</field>
-<field name="librettist">Frantisek Kozík</field>
-<field name="librettistSort">Kozík, Frantisek</field>
+<field name="librettist">František Kožík</field>
+<field name="librettistSort">Kožík, František</field>
 <field name="theater">Czech Radio</field>
 <field name="city">Prague</field>
 

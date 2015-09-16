@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10105222</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1973</field>
 <field name="librettist">Bernard George</field>
 <field name="librettistSort">George, Bernard</field>
-<field name="librettist">Jules-Amédée Barbey d'Aurevilly</field>
-<field name="librettistSort">d'Aurevilly, Jules-Amédée Barbey</field>
+<field name="librettist">Jules Barbey d'Aurevilly</field>
+<field name="librettistSort">Barbey d'Aurevilly, Jules</field>
 <field name="theater">Théâtre du Capitole</field>
 <field name="city">Toulouse</field>
 <field name="region">Haute-Garonne</field>

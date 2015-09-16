@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10110856</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1712</field>
 <field name="librettist">John Hughes</field>
 <field name="librettistSort">Hughes, John</field>
-<field name="librettist">François de Salignac de La Mothe-Fénelon</field>
-<field name="librettistSort">La Mothe-Fénelon, François de Salignac de</field>
+<field name="librettist">François de Fénelon</field>
+<field name="librettistSort">Fénelon, François de</field>
 <field name="theater">Queen's Theatre, Haymarket</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

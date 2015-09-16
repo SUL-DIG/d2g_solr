@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10116625</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Kricka, Jaroslav</field>
 <field name="year">1929</field>
 <field name="date">1929</field>
-<field name="librettist">Jan Löwenbach Budin</field>
-<field name="librettistSort">Budin, Jan Löwenbach</field>
+<field name="librettist">Jan Löwenbach-Budin</field>
+<field name="librettistSort">Löwenbach-Budin, Jan</field>
 <field name="librettist">Oscar Wilde</field>
 <field name="librettistSort">Wilde, Oscar</field>
 <field name="theater">Národní Divadlo</field>

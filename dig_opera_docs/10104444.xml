@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10104444</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Burghauser, Jarmil</field>
 <field name="year">1955</field>
 <field name="date">1955</field>
-<field name="librettist">Ludek Mandaus</field>
-<field name="librettistSort">Mandaus, Ludek</field>
+<field name="librettist">Luděk Mandaus</field>
+<field name="librettistSort">Mandaus, Luděk</field>
 <field name="librettist">Carlo Goldoni</field>
 <field name="librettistSort">Goldoni, Carlo</field>
 <field name="theater">Olomoucké Divadlo</field>

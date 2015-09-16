@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10132318</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1960</field>
 <field name="librettist">Jan Wenig</field>
 <field name="librettistSort">Wenig, Jan</field>
-<field name="librettist">Frantisek Kubka</field>
-<field name="librettistSort">Kubka, Frantisek</field>
+<field name="librettist">František Kubka</field>
+<field name="librettistSort">Kubka, František</field>
 <field name="theater">Divadlo Zdenka Nejedlého</field>
 <field name="city">Ustí nad Labem</field>
 <field name="region">Severocesky Kraj</field>

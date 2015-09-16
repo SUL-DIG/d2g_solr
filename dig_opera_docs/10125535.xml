@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10125535</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Rameau, Jean-Philippe</field>
 <field name="year">1760</field>
 <field name="date">1760</field>
-<field name="librettist">Duplat de Monticourt</field>
-<field name="librettistSort">Monticourt, Duplat de</field>
+<field name="librettist">Jean-François Duplat de Monticourt</field>
+<field name="librettistSort">Duplat de Monticourt, Jean-François</field>
 <field name="theater">Opéra</field>
 <field name="city">Paris</field>
 

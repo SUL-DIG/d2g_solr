@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10105293</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Catel, Charles-Simon</field>
 <field name="year">1807</field>
 <field name="date">1807</field>
-<field name="librettist">Jean François Joseph Jalabert</field>
-<field name="librettistSort">Jalabert, Jean François Joseph</field>
+<field name="librettist">Jean-François-Joseph Jalabert</field>
+<field name="librettistSort">Jalabert, Jean-François-Joseph</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 

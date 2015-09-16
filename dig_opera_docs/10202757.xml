@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<add><doc>
 		<field name="id">10202757</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Mistr Jan Hus</field>
@@ -9,8 +9,8 @@
 		<field name="date">June 1, 1920</field>
 		<field name="composer">Jaroslav Jeremiás</field>
 		<field name="composerSort">Jeremiás, Jaroslav</field>
-		<field name="librettist">Frantisek Serafinský Procházka</field>
-		<field name="librettistSort">Procházka, Frantisek Serafi</field>
+		<field name="librettist">František Serafínský Procházka</field>
+		<field name="librettistSort">Procházka, František Serafínský</field>
 		
 		
 		<field name="city">Prague</field>

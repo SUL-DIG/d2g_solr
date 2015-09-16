@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10121582</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Müller, Wenzel</field>
 <field name="year">1813</field>
 <field name="date">1813</field>
-<field name="librettist">D. Wohl</field>
-<field name="librettistSort">Wohl, D.</field>
+<field name="librettist">J. Wohl</field>
+<field name="librettistSort">Wohl, J.</field>
 <field name="theater">Theater in der Leopoldstadt</field>
 <field name="city">Vienna</field>
 

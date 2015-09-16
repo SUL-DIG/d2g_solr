@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10112713</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Grétry, André-Ernest-Modeste</field>
 <field name="year">1792</field>
 <field name="date">1792</field>
-<field name="librettist">Claude-Joseph Rouget de Lisle</field>
-<field name="librettistSort">Rouget de Lisle, Claude-Joseph</field>
+<field name="librettist">Claude Joseph Rouget de Lisle</field>
+<field name="librettistSort">Rouget de Lisle, Claude Joseph</field>
 <field name="librettist">Jean-Baptiste-Denis Desprès</field>
 <field name="librettistSort">Desprès, Jean-Baptiste-Denis</field>
 <field name="theater">Comédie-Italienne</field>

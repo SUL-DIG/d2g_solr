@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10103714</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Borkovec, Pavel</field>
 <field name="year">1958</field>
 <field name="date">1958</field>
-<field name="librettist">Frantisek Kubka</field>
-<field name="librettistSort">Kubka, Frantisek</field>
+<field name="librettist">František Kubka</field>
+<field name="librettistSort">Kubka, František</field>
 <field name="theater">Smetanovo Divadlo</field>
 <field name="city">Prague</field>
 

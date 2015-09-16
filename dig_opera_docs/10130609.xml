@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10130609</field>
 <field name="genre">Operas</field>
@@ -10,8 +10,8 @@
 <field name="date">1970</field>
 <field name="librettist">Ilie Balea</field>
 <field name="librettistSort">Balea, Ilie</field>
-<field name="librettist">Deak Tamás</field>
-<field name="librettistSort">Tamás, Deak</field>
+<field name="librettist">Tamás Deak</field>
+<field name="librettistSort">Deak, Tamás</field>
 <field name="theater">Opera de Stat</field>
 <field name="city">Cluj-Napoca</field>
 <field name="region">Cluj</field>

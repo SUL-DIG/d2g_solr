@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10122427</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Oginski, Michael Kazimierz</field>
 <field name="year">1786</field>
 <field name="date">1786</field>
-<field name="librettist">Franciszek Dionizy Kniaznin</field>
-<field name="librettistSort">Kniaznin, Franciszek Dionizy</field>
+<field name="librettist">Franciszek Dionizy Kniaźnin</field>
+<field name="librettistSort">Kniaźnin, Franciszek Dionizy</field>
 <field name="theater">Prince Oginski Residence</field>
 <field name="city">Siedlce</field>
 <field name="region">Mazowieckie</field>

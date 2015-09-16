@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10129318</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Smutný, Jirí</field>
 <field name="year">1969</field>
 <field name="date">1969</field>
-<field name="librettist">Jirí Smutný</field>
-<field name="librettistSort">Smutný, Jirí</field>
+<field name="librettist">Jiří Smutný</field>
+<field name="librettistSort">Smutný, Jiří</field>
 <field name="librettist">[Jean-Marcel Bruller] Vercors</field>
 <field name="librettistSort">Vercors, [Jean-Marcel Bruller]</field>
 <field name="theater">Czech Radio</field>

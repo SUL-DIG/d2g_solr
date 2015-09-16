@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10112841</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Grossman, Ludwik</field>
 <field name="year">1875</field>
 <field name="date">1875</field>
-<field name="librettist">Wladyslaw Ludwik Anczyc</field>
-<field name="librettistSort">Anczyc, Wladyslaw Ludwik</field>
+<field name="librettist">Władysław Ludwik Anczyc</field>
+<field name="librettistSort">Anczyc, Władysław Ludwik</field>
 <field name="theater">Teatr Wielki</field>
 <field name="city">Warsaw</field>
 

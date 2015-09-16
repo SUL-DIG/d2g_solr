@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10120179</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Melcer-Szczawinski, Henryk</field>
 <field name="year">1904</field>
 <field name="date">1904</field>
-<field name="librettist">Gustaw Stefan Szczawinski</field>
-<field name="librettistSort">Szczawinski, Gustaw Stefan</field>
+<field name="librettist">Gustaw Stefan Szczawiński</field>
+<field name="librettistSort">Szczawiński, Gustaw Stefan</field>
 <field name="librettist">Antoni Malczewski</field>
 <field name="librettistSort">Malczewski, Antoni</field>
 

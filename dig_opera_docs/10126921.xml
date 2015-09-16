@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10126921</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Rozkosný, Josef Richard</field>
 <field name="year">1878</field>
 <field name="date">1878</field>
-<field name="librettist">Jindrich Böhm</field>
-<field name="librettistSort">Böhm, Jindrich</field>
+<field name="librettist">Jindřich Böhm</field>
+<field name="librettistSort">Böhm, Jindřich</field>
 <field name="theater">Mestanská Beseda</field>
 <field name="city">Prague</field>
 

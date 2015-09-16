@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10128849</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Sekles, Bernhard</field>
 <field name="year">1921</field>
 <field name="date">1921</field>
-<field name="librettist">Roderich Moor</field>
-<field name="librettistSort">Moor, Roderich</field>
+<field name="librettist">Roderich Morr</field>
+<field name="librettistSort">Morr, Roderich</field>
 <field name="theater">Landestheater</field>
 <field name="city">Wiesbaden</field>
 <field name="region">Hessen</field>

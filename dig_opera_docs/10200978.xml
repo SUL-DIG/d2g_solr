@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+<add><doc>
 		<field name="id">10200978</field>
 		<field name="genre">Oratorios</field>
 		<field name="title">Dialogo per musica fra il beato Andrea Conti e un'anima divota</field>
@@ -9,8 +9,8 @@
 		<field name="date">October 24, 1724</field>
 		<field name="composer">Antonio Tonelli</field>
 		<field name="composerSort">Tonelli, Antonio</field>
-		<field name="librettist">A. Zallotti</field>
-		<field name="librettistSort">Zallotti, A.</field>
+		<field name="librettist">Alessandro Zallotti</field>
+		<field name="librettistSort">Zallotti, Alessandro</field>
 		
 		<field name="theater">Chiesa di San Francesco</field>
 		<field name="city">Finale Emilia</field>

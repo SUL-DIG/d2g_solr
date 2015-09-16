@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10123223</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Papandopulo, Boris</field>
 <field name="year">1942</field>
 <field name="date">1942</field>
-<field name="librettist">Marko Soljacic</field>
-<field name="librettistSort">Soljacic, Marko</field>
-<field name="librettist">Ivan Gundulic</field>
-<field name="librettistSort">Gundulic, Ivan</field>
+<field name="librettist">Marko Soljačić</field>
+<field name="librettistSort">Soljačić, Marko</field>
+<field name="librettist">Ivan Gundulić</field>
+<field name="librettistSort">Gundulić, Ivan</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Zagreb</field>
 

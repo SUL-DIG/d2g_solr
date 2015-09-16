@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10104906</field>
 <field name="genre">Operas</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Capotosti, __</field>
 <field name="year">1886</field>
 <field name="date">1886</field>
-<field name="librettist">V. Arabia</field>
-<field name="librettistSort">Arabia, V.</field>
+<field name="librettist">Vincenzo Arabia</field>
+<field name="librettistSort">Arabia, Vincenzo</field>
 <field name="theater">Teatro Partenope</field>
 <field name="city">Naples</field>
 <field name="region">Campania</field>

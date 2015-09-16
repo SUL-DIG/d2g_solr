@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<add>
 <doc>
 <field name="id">10126927</field>
 <field name="genre">Operas</field>
@@ -8,10 +8,10 @@
 <field name="composerSort">Rózycki, Ludomir</field>
 <field name="year">1927</field>
 <field name="date">1927</field>
-<field name="librettist">Stefania Rózycka</field>
-<field name="librettistSort">Rózycka, Stefania</field>
-<field name="librettist">Juliusz Slowacki</field>
-<field name="librettistSort">Slowacki, Juliusz</field>
+<field name="librettist">Stefania Różycka</field>
+<field name="librettistSort">Różycka, Stefania</field>
+<field name="librettist">Juliusz Słowacki</field>
+<field name="librettistSort">Słowacki, Juliusz</field>
 <field name="theater">Teatr Wielki</field>
 <field name="city">Warsaw</field>
 
