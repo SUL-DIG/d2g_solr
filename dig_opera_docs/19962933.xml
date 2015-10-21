@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962933</field>
+<field name="title">Twilight Voices</field>
+<field name="titlesort">Twilight Voices</field>
+<field name="composer">Stan Hoffman</field>
+<field name="composersort">Hoffman, Stan</field>
+<field name="year">1999</field>
+<field name="date">September 10, 1999</field>
+<field name="librettist">Darlene LeFaive</field>
+<field name="librettistsort">LeFaive, Darlene</field>
+<field name="theater">Meydenbauer Center Theater</field>
+<field name="city">Bellevue</field>
+<field name="region">Washington</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Twilight+Voices+Stan+Hoffman&amp;search_field=search</field>
+</doc>
+</add>

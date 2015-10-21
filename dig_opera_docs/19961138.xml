@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961138</field>
+<field name="title">I Will Wait</field>
+<field name="titlesort">I Will Wait</field>
+<field name="composer">Arif Mardin</field>
+<field name="composersort">Mardin, Arif</field>
+<field name="year">1998</field>
+<field name="date">June 19, 1998</field>
+<field name="librettist">Arif Mardin</field>
+<field name="librettistsort">Mardin, Arif</field>
+<field name="theater">Salon Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+Will+Wait+Arif+Mardin&amp;search_field=search</field>
+</doc>
+</add>

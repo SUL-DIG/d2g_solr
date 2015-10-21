@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961811</field>
+<field name="title">Nätverket (The Network)</field>
+<field name="titlesort">Nätverket (The Network)</field>
+<field name="composer">Sven-David Sandström</field>
+<field name="composersort">Sandström, Sven-David</field>
+<field name="year">2009</field>
+<field name="date">November 28, 2009</field>
+<field name="librettist">Claes Fellbom</field>
+<field name="librettistsort">Fellbom, Claes</field>
+<field name="theater">Operahögskolan</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+<field name="genre">Opera</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nätverket+(The+Network)+Sven-David+Sandström&amp;search_field=search</field>
+</doc>
+</add>

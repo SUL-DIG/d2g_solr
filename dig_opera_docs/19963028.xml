@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963028</field>
+<field name="title">Vyasnovaya pesnya (Spring Song)</field>
+<field name="titlesort">Vyasnovaya pesnya (Spring Song)</field>
+<field name="composer">Viktor Antonovich Voytik</field>
+<field name="composersort">Voytik, Viktor Antonovich</field>
+<field name="year">1995</field>
+<field name="librettist">Svetlana Klimkovich</field>
+<field name="librettistsort">Klimkovich, Svetlana</field>
+<field name="theater">Belorusskiy Teatr Operï i Baleta</field>
+<field name="city">Minsk</field>
+<field name="region">Minsk Oblast</field>
+<field name="country">Belarus</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vyasnovaya+pesnya+(Spring+Song)+Viktor+Antonovich+Voytik&amp;search_field=search</field>
+</doc>
+</add>

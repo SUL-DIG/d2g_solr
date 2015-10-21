@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962799</field>
+<field name="title">The Tin Knight</field>
+<field name="titlesort">Tin Knight</field>
+<field name="composer">Francis Shaw</field>
+<field name="composersort">Shaw, Francis</field>
+<field name="year">1986</field>
+<field name="librettist">Michael Finch</field>
+<field name="librettistsort">Finch, Michael</field>
+<field name="theater">W11 Opera</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tin+Knight+Francis+Shaw&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961756</field>
+<field name="title">Monsieur de Balzac fait son théâtre</field>
+<field name="titlesort">Monsieur de Balzac fait son théâtre</field>
+<field name="composer">Isabelle Aboulker</field>
+<field name="composersort">Aboulker, Isabelle</field>
+<field name="year">1999</field>
+<field name="date">May 14, 1999</field>
+<field name="librettist">Rémi Laureillard</field>
+<field name="librettistsort">Laureillard, Rémi</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Tours</field>
+<field name="region">Indre-et-Loire</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Monsieur+de+Balzac+fait+son+théâtre+Isabelle+Aboulker&amp;search_field=search</field>
+</doc>
+</add>

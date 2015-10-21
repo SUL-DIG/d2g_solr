@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960743</field>
+<field name="title">Eclogue</field>
+<field name="titlesort">Eclogue</field>
+<field name="composer">Jason Kaminski</field>
+<field name="composersort">Kaminski, Jason</field>
+<field name="year">1997</field>
+<field name="date">May 23, 1997</field>
+<field name="librettist">Jason Kaminski</field>
+<field name="librettistsort">Kaminski, Jason</field>
+<field name="theater">Bats Theatre</field>
+<field name="city">Wellington</field>
+<field name="country">New Zealand</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eclogue+Jason+Kaminski&amp;search_field=search</field>
+</doc>
+</add>

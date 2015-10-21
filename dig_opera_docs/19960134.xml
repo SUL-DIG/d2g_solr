@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960134</field>
+<field name="title">Amalie</field>
+<field name="titlesort">Amalie</field>
+<field name="composer">John Frandsen</field>
+<field name="composersort">Frandsen, John</field>
+<field name="year">1995</field>
+<field name="date">May 1, 1995</field>
+<field name="librettist">Niels Pihl</field>
+<field name="librettistsort">Pihl, Niels</field>
+<field name="theater">Musikteateret Undergrunden</field>
+<field name="city">Århus</field>
+<field name="region">Midtjylland</field>
+<field name="country">Denmark</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amalie+John+Frandsen&amp;search_field=search</field>
+</doc>
+</add>

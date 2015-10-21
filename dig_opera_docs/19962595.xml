@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962595</field>
+<field name="title">The Inman Diaries</field>
+<field name="titlesort">Inman Diaries</field>
+<field name="composer">Thomas Oboe Lee</field>
+<field name="composersort">Lee, Thomas Oboe</field>
+<field name="year">2007</field>
+<field name="date">September 14, 2007</field>
+<field name="librettist">Jesse J. Martin</field>
+<field name="librettistsort">Martin, Jesse J.</field>
+<field name="theater">Massachusetts College of Art and Design</field>
+<field name="city">Boston</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Inman+Diaries+Thomas+Oboe+Lee&amp;search_field=search</field>
+</doc>
+</add>

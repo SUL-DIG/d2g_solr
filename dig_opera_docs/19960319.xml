@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960319</field>
+<field name="title">Bing</field>
+<field name="titlesort">Bing</field>
+<field name="composer">Detlev Müller-Siemens</field>
+<field name="composersort">Müller-Siemens, Detlev</field>
+<field name="year">2001</field>
+<field name="date">December 13, 2001</field>
+<field name="librettist">Elmar Tophoven </field>
+<field name="librettistsort">Tophoven, Elmar</field>
+<field name="librettist">Samuel Beckett</field>
+<field name="librettistsort">Beckett, Samuel</field>
+<field name="theater">Bundeskunsthalle</field>
+<field name="city">Bonn</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bing+Detlev+Müller-Siemens&amp;search_field=search</field>
+</doc>
+</add>

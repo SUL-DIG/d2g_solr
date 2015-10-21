@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963105</field>
+<field name="title">Zhenit'ba (The Marriage)</field>
+<field name="titlesort">Zhenit'ba (The Marriage)</field>
+<field name="composer">Aleksandr Tikhonovich Grechaninov</field>
+<field name="composersort">Grechaninov, Aleksandr Tikhonovich</field>
+<field name="year">1950</field>
+<field name="date">October 8, 1950</field>
+<field name="librettist">Nikolay Vasil'yevich Gogol</field>
+<field name="librettistsort">Gogol, Nikolay Vasil'yevich</field>
+<field name="theater">Russian Opera Theatre</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zhenit'ba+(The+Marriage)+Aleksandr+Tikhonovich+Grechaninov&amp;search_field=search</field>
+</doc>
+</add>

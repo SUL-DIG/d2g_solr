@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961745</field>
+<field name="title">Moby Dick</field>
+<field name="titlesort">Moby Dick</field>
+<field name="composer">Eugeniusz Knapik</field>
+<field name="composersort">Knapik, Eugeniusz</field>
+<field name="year">2014</field>
+<field name="date">June 25, 2014</field>
+<field name="librettist">Krzysztof Koehler</field>
+<field name="librettistsort">Koehler, Krzysztof</field>
+<field name="librettist">Herman Melville</field>
+<field name="librettistsort">Melville, Herman</field>
+<field name="theater">Teatr Wielki</field>
+<field name="city">Warsaw</field>
+<field name="country">Poland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Moby+Dick+Eugeniusz+Knapik&amp;search_field=search</field>
+</doc>
+</add>

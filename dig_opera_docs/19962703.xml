@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962703</field>
+<field name="title">The Price of Eggs</field>
+<field name="titlesort">Price of Eggs</field>
+<field name="composer">Thomas Cain</field>
+<field name="composersort">Cain, Thomas</field>
+<field name="year">1982</field>
+<field name="date">January 24, 1982</field>
+<field name="librettist">Eugène Ionesco</field>
+<field name="librettistsort">Ionesco, Eugène</field>
+<field name="theater">Publick Playhouse</field>
+<field name="city">Cheverly</field>
+<field name="region">Maryland</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Price+of+Eggs+Thomas+Cain&amp;search_field=search</field>
+</doc>
+</add>

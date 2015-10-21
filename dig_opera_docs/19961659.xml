@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961659</field>
+<field name="title">Maria di Venosa</field>
+<field name="titlesort">Maria di Venosa</field>
+<field name="composer">Francesco d'Avalos</field>
+<field name="composersort">d'Avalos, Francesco</field>
+<field name="year">2013</field>
+<field name="date">July 19, 2013</field>
+<field name="theater">Festival della Valle d’Itria, Palazzo Ducale</field>
+<field name="city">Martina Franca</field>
+<field name="region">Apulia</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maria+di+Venosa+Francesco+d'Avalos&amp;search_field=search</field>
+</doc>
+</add>

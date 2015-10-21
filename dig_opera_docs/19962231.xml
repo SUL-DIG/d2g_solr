@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962231</field>
+<field name="title">Schneewittchen</field>
+<field name="titlesort">Schneewittchen</field>
+<field name="composer">Marius Felix Lange</field>
+<field name="composersort">Lange, Marius Felix</field>
+<field name="year">2011</field>
+<field name="date">April 21, 2011</field>
+<field name="librettist">Marius Felix Lange</field>
+<field name="librettistsort">Lange, Marius Felix</field>
+<field name="librettist">Jakob & Wilhelm Grimm</field>
+<field name="librettistsort">Grimm, Jakob & Wilhelm</field>
+<field name="theater">Kinderoper, Altes Pfandhaus</field>
+<field name="city">Cologne</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schneewittchen+Marius+Felix+Lange&amp;search_field=search</field>
+</doc>
+</add>

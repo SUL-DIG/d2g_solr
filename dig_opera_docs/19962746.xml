@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962746</field>
+<field name="title">The Secret Garden</field>
+<field name="titlesort">Secret Garden</field>
+<field name="composer">Stephen McNeff</field>
+<field name="composersort">McNeff, Stephen</field>
+<field name="year">2012</field>
+<field name="date">July 4, 2012</field>
+<field name="librettist">Joan MacLeod</field>
+<field name="librettistsort">MacLeod, Joan</field>
+<field name="librettist">Frances Hodgeson Burnett</field>
+<field name="librettistsort">Burnett, Frances Hodgeson</field>
+<field name="theater">Trinity Laban Conservatoire of Music</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Secret+Garden+Stephen+McNeff&amp;search_field=search</field>
+</doc>
+</add>

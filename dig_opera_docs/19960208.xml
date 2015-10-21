@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960208</field>
+<field name="title">Arsène Lupin Banquier</field>
+<field name="titlesort">Arsène Lupin Banquier</field>
+<field name="composer">Maurice Lattès</field>
+<field name="composersort">Lattès, Maurice</field>
+<field name="year">1930</field>
+<field name="date">May 7, 1930</field>
+<field name="librettist">Yves Mirande</field>
+<field name="librettistsort">Mirande, Yves</field>
+<field name="librettist">Albert Willemetz</field>
+<field name="librettistsort">Willemetz, Albert</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arsène+Lupin+Banquier+Maurice+Lattès&amp;search_field=search</field>
+</doc>
+</add>

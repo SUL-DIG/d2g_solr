@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962591</field>
+<field name="title">The Image Maker</field>
+<field name="titlesort">Image Maker</field>
+<field name="composer">Bruce Saylor</field>
+<field name="composersort">Saylor, Bruce</field>
+<field name="year">2012</field>
+<field name="date">May 4, 2012</field>
+<field name="librettist">James Merrill</field>
+<field name="librettistsort">Merrill, James</field>
+<field name="theater">Queens College</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Image+Maker+Bruce+Saylor&amp;search_field=search</field>
+</doc>
+</add>

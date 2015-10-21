@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960496</field>
+<field name="title">Das D'Amato System</field>
+<field name="titlesort">Das D'Amato System</field>
+<field name="composer">Helmut Oehring</field>
+<field name="composersort">Oehring, Helmut</field>
+<field name="year">1996</field>
+<field name="date">May 9, 1996</field>
+<field name="librettist">Helmut Oehring</field>
+<field name="librettistsort">Oehring, Helmut</field>
+<field name="theater">Biennale</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+D'Amato+System+Helmut+Oehring&amp;search_field=search</field>
+</doc>
+</add>

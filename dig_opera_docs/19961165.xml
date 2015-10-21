@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961165</field>
+<field name="title">Il re</field>
+<field name="titlesort">re</field>
+<field name="composer">Giulio Castagnoli</field>
+<field name="composersort">Castagnoli, Giulio</field>
+<field name="year">1999</field>
+<field name="date">May 10, 1999</field>
+<field name="librettist">Carlo Cignetti</field>
+<field name="librettistsort">Cignetti, Carlo</field>
+<field name="theater">Accademia Filarmonica Romana</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=re+Giulio+Castagnoli&amp;search_field=search</field>
+</doc>
+</add>

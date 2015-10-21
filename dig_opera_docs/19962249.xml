@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962249</field>
+<field name="title">Senso</field>
+<field name="titlesort">Senso</field>
+<field name="composer">Marco Tutino</field>
+<field name="composersort">Tutino, Marco</field>
+<field name="year">2011</field>
+<field name="date">February 28, 2011</field>
+<field name="librettist">Giuseppe Di Leva</field>
+<field name="librettistsort">Di Leva, Giuseppe</field>
+<field name="librettist">Camillo Boito</field>
+<field name="librettistsort">Boito, Camillo</field>
+<field name="theater">Teatro Massimo</field>
+<field name="city">Palermo </field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Senso+Marco+Tutino&amp;search_field=search</field>
+</doc>
+</add>

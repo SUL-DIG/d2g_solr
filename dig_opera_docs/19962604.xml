@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962604</field>
+<field name="title">The Juniper Tree</field>
+<field name="titlesort">Juniper Tree</field>
+<field name="composer">Andrew Toovey</field>
+<field name="composersort">Toovey, Andrew</field>
+<field name="year">1993</field>
+<field name="date">July 17, 1993</field>
+<field name="librettist">Die Edwards</field>
+<field name="librettistsort">Edwards, Die</field>
+<field name="librettist">Jakob & Wilhelm Grimm</field>
+<field name="librettistsort">Grimm, Jakob & Wilhelm</field>
+<field name="theater">Broomhill Opera</field>
+<field name="city">Tunbridge Wells</field>
+<field name="region">Kent</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Juniper+Tree+Andrew+Toovey&amp;search_field=search</field>
+</doc>
+</add>

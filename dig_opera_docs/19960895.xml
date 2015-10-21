@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960895</field>
+<field name="title">Fitness</field>
+<field name="titlesort">Fitness</field>
+<field name="composer">Kirmo Lintinen</field>
+<field name="composersort">Lintinen, Kirmo</field>
+<field name="year">2007</field>
+<field name="date">March 10, 2007</field>
+<field name="librettist">Veli-Pekka Hänninen</field>
+<field name="librettistsort">Hänninen, Veli-Pekka</field>
+<field name="theater">Aleksanterin teatteri</field>
+<field name="city">Helsinki</field>
+<field name="region">Uusimaa</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fitness+Kirmo+Lintinen&amp;search_field=search</field>
+</doc>
+</add>

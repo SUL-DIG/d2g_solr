@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962448</field>
+<field name="title">The Ant and the Grasshopper</field>
+<field name="titlesort">Ant and the Grasshopper</field>
+<field name="composer">Allen Shawn</field>
+<field name="composersort">Shawn, Allen</field>
+<field name="year">1999</field>
+<field name="date">November 27, 1999</field>
+<field name="librettist">Penny Orloff</field>
+<field name="librettistsort">Orloff, Penny</field>
+<field name="theater">Meydenbauer Center Theater</field>
+<field name="city">Bellevue</field>
+<field name="region">Washington</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ant+and+the+Grasshopper+Allen+Shawn&amp;search_field=search</field>
+</doc>
+</add>

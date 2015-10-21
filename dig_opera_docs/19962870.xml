@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962870</field>
+<field name="title">Through His Teeth</field>
+<field name="titlesort">Through His Teeth</field>
+<field name="composer">Luke Bedford</field>
+<field name="composersort">Bedford, Luke</field>
+<field name="year">2014</field>
+<field name="date">April 3, 2014</field>
+<field name="librettist">David Harrower</field>
+<field name="librettistsort">Harrower, David</field>
+<field name="theater">Linbury Studio, Royal Opera House</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Through+His+Teeth+Luke+Bedford&amp;search_field=search</field>
+</doc>
+</add>

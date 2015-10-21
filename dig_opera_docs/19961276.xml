@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961276</field>
+<field name="title">Kalif Storch</field>
+<field name="titlesort">Kalif Storch</field>
+<field name="composer">Chiel Meijering</field>
+<field name="composersort">Meijering, Chiel</field>
+<field name="year">2012</field>
+<field name="date">April 14, 2012</field>
+<field name="librettist">Wilhelm Hauffs</field>
+<field name="librettistsort">Hauffs, Wilhelm</field>
+<field name="theater">Opernhaus Studio</field>
+<field name="city">Kiel</field>
+<field name="region">Schleswig-Holstein</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kalif+Storch+Chiel+Meijering&amp;search_field=search</field>
+</doc>
+</add>

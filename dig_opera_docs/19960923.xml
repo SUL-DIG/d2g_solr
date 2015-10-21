@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960923</field>
+<field name="title">Fresh Ghosts</field>
+<field name="titlesort">Fresh Ghosts</field>
+<field name="composer">Julian Yu</field>
+<field name="composersort">Yu, Julian</field>
+<field name="year">1997</field>
+<field name="date">November 27, 1997</field>
+<field name="librettist">Glenn Perry</field>
+<field name="librettistsort">Perry, Glenn</field>
+<field name="librettist">Lu Xun</field>
+<field name="librettistsort">Lu Xun</field>
+<field name="theater">Theatre Works</field>
+<field name="city">St. Kilda</field>
+<field name="region">Victoria</field>
+<field name="country">Australia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fresh+Ghosts+Julian+Yu&amp;search_field=search</field>
+</doc>
+</add>

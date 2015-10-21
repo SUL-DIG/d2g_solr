@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962958</field>
+<field name="title">Une bonne à rien faire</field>
+<field name="titlesort">bonne à rien faire</field>
+<field name="composer">Georges Van Parys</field>
+<field name="composersort">Van Parys, Georges</field>
+<field name="year">1923</field>
+<field name="date">November 18, 1923</field>
+<field name="librettist">__ Hanry-Jaunet</field>
+<field name="librettistsort">Hanry-Jaunet, __</field>
+<field name="librettist">R. Le Mesle</field>
+<field name="librettistsort">Le Mesle, R.</field>
+<field name="theater">Théâtre des Jeunes Artistes</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=bonne+à+rien+faire+Georges+Van+Parys&amp;search_field=search</field>
+</doc>
+</add>

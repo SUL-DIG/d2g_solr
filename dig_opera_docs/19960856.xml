@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960856</field>
+<field name="title">Falsch verbunden</field>
+<field name="titlesort">Falsch verbunden</field>
+<field name="composer">Johanna Doderer</field>
+<field name="composersort">Doderer, Johanna</field>
+<field name="year">2007</field>
+<field name="date">March 2, 2007</field>
+<field name="librettist">Daniel Glattauer</field>
+<field name="librettistsort">Glattauer, Daniel</field>
+<field name="theater">Tiroler Landestheater</field>
+<field name="city">Innsbruck</field>
+<field name="region">Tirol</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Falsch+verbunden+Johanna+Doderer&amp;search_field=search</field>
+</doc>
+</add>

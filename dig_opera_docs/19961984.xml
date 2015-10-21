@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961984</field>
+<field name="title">Perelà, uomo di fumo</field>
+<field name="titlesort">Perelà, uomo di fumo</field>
+<field name="composer">Pascal Dusapin</field>
+<field name="composersort">Dusapin, Pascal</field>
+<field name="year">2003</field>
+<field name="date">February 24, 2003</field>
+<field name="librettist">Pascal Dusapin</field>
+<field name="librettistsort">Dusapin, Pascal</field>
+<field name="librettist">Aldo Palazzeschi</field>
+<field name="librettistsort">Palazzeschi, Aldo</field>
+<field name="theater">Opéra Bastille</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Perelà,+uomo+di+fumo+Pascal+Dusapin&amp;search_field=search</field>
+</doc>
+</add>

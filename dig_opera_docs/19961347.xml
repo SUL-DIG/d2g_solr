@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961347</field>
+<field name="title">Kursk</field>
+<field name="titlesort">Kursk</field>
+<field name="composer">David Chisholm</field>
+<field name="composersort">Chisholm, David</field>
+<field name="year">2011</field>
+<field name="date">October 22, 2011</field>
+<field name="librettist">Anzhelina Polonskaya</field>
+<field name="librettistsort">Polonskaya, Anzhelina</field>
+<field name="theater">Melbourne Recital Centre</field>
+<field name="city">Melbourne</field>
+<field name="region">Victoria</field>
+<field name="country">Australia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kursk+David+Chisholm&amp;search_field=search</field>
+</doc>
+</add>

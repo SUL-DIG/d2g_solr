@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962572</field>
+<field name="title">The Golden Ass</field>
+<field name="titlesort">Golden Ass</field>
+<field name="composer">Randolph Peters</field>
+<field name="composersort">Peters, Randolph</field>
+<field name="year">1999</field>
+<field name="date">April 13, 1999</field>
+<field name="librettist">Robertson Davies</field>
+<field name="librettistsort">Davies, Robertson</field>
+<field name="librettist">Lucius Apuleius</field>
+<field name="librettistsort">Apuleius, Lucius</field>
+<field name="theater">Hummingbird Centre</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Golden+Ass+Randolph+Peters&amp;search_field=search</field>
+</doc>
+</add>

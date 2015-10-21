@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960498</field>
+<field name="title">Das Gesicht im Spiegel</field>
+<field name="titlesort">Gesicht im Spiegel</field>
+<field name="composer">Jörg Widmann</field>
+<field name="composersort">Widmann, Jörg</field>
+<field name="year">2003</field>
+<field name="date">July 17, 2003</field>
+<field name="librettist">Roland Schimmelpfennig</field>
+<field name="librettistsort">Schimmelpfennig, Roland</field>
+<field name="theater">Residenztheater (Cuvilliéstheater)</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gesicht+im+Spiegel+Jörg+Widmann&amp;search_field=search</field>
+</doc>
+</add>

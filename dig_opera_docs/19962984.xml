@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962984</field>
+<field name="title">Vedem</field>
+<field name="titlesort">Vedem</field>
+<field name="composer">Lori Laitman</field>
+<field name="composersort">Laitman, Lori</field>
+<field name="year">2010</field>
+<field name="date">May 10, 2010</field>
+<field name="librettist">David Mason</field>
+<field name="librettistsort">Mason, David</field>
+<field name="theater">Benaroya Hall</field>
+<field name="city">Seattle</field>
+<field name="region">Washington</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vedem+Lori+Laitman&amp;search_field=search</field>
+</doc>
+</add>

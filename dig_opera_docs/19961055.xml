@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961055</field>
+<field name="title">Häuptling Abendwind</field>
+<field name="titlesort">Häuptling Abendwind</field>
+<field name="composer">Franz Hummel</field>
+<field name="composersort">Hummel, Franz</field>
+<field name="year">2010</field>
+<field name="date">November 10, 2010</field>
+<field name="librettist">Sandra Hummel</field>
+<field name="librettistsort">Hummel, Sandra</field>
+<field name="librettist">Johann Nepomuk Nestroy</field>
+<field name="librettistsort">Nestroy, Johann Nepomuk</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Wels</field>
+<field name="region">Oberösterreich</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Häuptling+Abendwind+Franz+Hummel&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961690</field>
+<field name="title">Matricide</field>
+<field name="titlesort">Matricide</field>
+<field name="composer">Elena Kats-Chernin</field>
+<field name="composersort">Kats-Chernin, Elena</field>
+<field name="year">1998</field>
+<field name="date">November 27, 1998</field>
+<field name="librettist">Kathleen Mary Fallon</field>
+<field name="librettistsort">Fallon, Kathleen Mary</field>
+<field name="theater">The Unallocated Space</field>
+<field name="city">Melbourne</field>
+<field name="region">Victoria</field>
+<field name="country">Australia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Matricide+Elena+Kats-Chernin&amp;search_field=search</field>
+</doc>
+</add>

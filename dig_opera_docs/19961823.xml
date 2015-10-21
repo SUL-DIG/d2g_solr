@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961823</field>
+<field name="title">Nicholas and Alexandra</field>
+<field name="titlesort">Nicholas and Alexandra</field>
+<field name="composer">Deborah Dratell</field>
+<field name="composersort">Dratell, Deborah</field>
+<field name="year">2003</field>
+<field name="date">September 14, 2003</field>
+<field name="librettist">Nicholas von Hoffman </field>
+<field name="librettistsort">Hoffman, Nicholas von</field>
+<field name="theater">Dorothy Chandler Pavilion</field>
+<field name="city">Los Angeles</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nicholas+and+Alexandra+Deborah+Dratell&amp;search_field=search</field>
+</doc>
+</add>

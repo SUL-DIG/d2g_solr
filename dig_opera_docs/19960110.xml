@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960110</field>
+<field name="title">Aliados</field>
+<field name="titlesort">Aliados</field>
+<field name="composer">Sebastian Rivas</field>
+<field name="composersort">Rivas, Sebastian</field>
+<field name="year">2013</field>
+<field name="date">June 14, 2013</field>
+<field name="librettist">Esteban Buch</field>
+<field name="librettistsort">Buch, Esteban</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Gennevilliers</field>
+<field name="region">Hauts-de-Seine</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aliados+Sebastian+Rivas&amp;search_field=search</field>
+</doc>
+</add>

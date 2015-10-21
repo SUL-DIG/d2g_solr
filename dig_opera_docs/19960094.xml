@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960094</field>
+<field name="title">Airline Icarus</field>
+<field name="titlesort">Airline Icarus</field>
+<field name="composer">Brian Current</field>
+<field name="composersort">Current, Brian</field>
+<field name="year">2014</field>
+<field name="date">June 3, 2014</field>
+<field name="librettist">Anton Piatigorsky</field>
+<field name="librettistsort">Piatigorsky, Anton</field>
+<field name="theater">Ada Slaight Hall, Daniels Spectrum</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Airline+Icarus+Brian+Current&amp;search_field=search</field>
+</doc>
+</add>

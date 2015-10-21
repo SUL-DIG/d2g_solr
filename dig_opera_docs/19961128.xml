@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961128</field>
+<field name="title">I Am Hungry</field>
+<field name="titlesort">I Am Hungry</field>
+<field name="composer">Richard Payne</field>
+<field name="composersort">Payne, Richard</field>
+<field name="year">2001</field>
+<field name="librettist">Richard Payne</field>
+<field name="librettistsort">Payne, Richard</field>
+<field name="city">Victoria</field>
+<field name="region">British Columbia</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+Am+Hungry+Richard+Payne&amp;search_field=search</field>
+</doc>
+</add>

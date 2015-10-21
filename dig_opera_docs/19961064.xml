@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961064</field>
+<field name="title">Hel</field>
+<field name="titlesort">Hel</field>
+<field name="composer">Sigurdur Saevarsson</field>
+<field name="composersort">Saevarsson, Sigurdur</field>
+<field name="year">2009</field>
+<field name="date">May 23, 2009</field>
+<field name="librettist">Sigurdur Nordal</field>
+<field name="librettistsort">Nordal, Sigurdur</field>
+<field name="theater">Listahátíd í Reykjavík</field>
+<field name="city">Reykjavik</field>
+<field name="country">Iceland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hel+Sigurdur+Saevarsson&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961648</field>
+<field name="title">Mansfield Park</field>
+<field name="titlesort">Mansfield Park</field>
+<field name="composer">Jonathan Dove</field>
+<field name="composersort">Dove, Jonathan</field>
+<field name="year">2011</field>
+<field name="date">July 30, 2011</field>
+<field name="librettist">Alasdair Middleton</field>
+<field name="librettistsort">Middleton, Alasdair</field>
+<field name="librettist">Jane Austen</field>
+<field name="librettistsort">Austen, Jane</field>
+<field name="theater">Boughton House</field>
+<field name="region">Northamptonshire</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mansfield+Park+Jonathan+Dove&amp;search_field=search</field>
+</doc>
+</add>

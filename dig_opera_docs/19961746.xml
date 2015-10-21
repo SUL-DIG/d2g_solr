@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961746</field>
+<field name="title">Moby Dick: Scenes from an Imaginary Opera</field>
+<field name="titlesort">Moby Dick: Scenes from an Imaginary Opera</field>
+<field name="composer">Peter Westergaard</field>
+<field name="composersort">Westergaard, Peter</field>
+<field name="year">2004</field>
+<field name="date">October 27, 2004</field>
+<field name="librettist">Peter Westergaard</field>
+<field name="librettistsort">Westergaard, Peter</field>
+<field name="librettist">Herman Melville</field>
+<field name="librettistsort">Melville, Herman</field>
+<field name="theater">Princeton University</field>
+<field name="city">Princeton</field>
+<field name="region">New Jersey</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Moby+Dick:+Scenes+from+an+Imaginary+Opera+Peter+Westergaard&amp;search_field=search</field>
+</doc>
+</add>

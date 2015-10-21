@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962383</field>
+<field name="title">Sukey in the Dark</field>
+<field name="titlesort">Sukey in the Dark</field>
+<field name="composer">Thomas Whitman</field>
+<field name="composersort">Whitman, Thomas</field>
+<field name="year">2001</field>
+<field name="date">October 27, 2001</field>
+<field name="librettist">Nathalie Anderson</field>
+<field name="librettistsort">Anderson, Nathalie</field>
+<field name="theater">Swarthmore college</field>
+<field name="city">Swarthmore </field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sukey+in+the+Dark+Thomas+Whitman&amp;search_field=search</field>
+</doc>
+</add>

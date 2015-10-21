@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962233</field>
+<field name="title">Schwarz wie Tinte</field>
+<field name="titlesort">Schwarz wie Tinte</field>
+<field name="composer">Astrid Kruisselbrink</field>
+<field name="composersort">Kruisselbrink, Astrid</field>
+<field name="year">2009</field>
+<field name="date">October 3, 2009</field>
+<field name="librettist">Wim Hofman</field>
+<field name="librettistsort">Hofman, Wim</field>
+<field name="theater">Bürgerhaus Weserterrassen</field>
+<field name="city">Bremen</field>
+<field name="region">Bremen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schwarz+wie+Tinte+Astrid+Kruisselbrink&amp;search_field=search</field>
+</doc>
+</add>

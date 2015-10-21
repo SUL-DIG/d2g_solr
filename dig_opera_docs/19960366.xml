@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960366</field>
+<field name="title">Bruknelė (The Tiny Ligonberry)</field>
+<field name="titlesort">Bruknelė (The Tiny Ligonberry)</field>
+<field name="composer">Jonas Tamulionis</field>
+<field name="composersort">Tamulionis, Jonas</field>
+<field name="year">2010</field>
+<field name="date">March 20, 2010</field>
+<field name="librettist">Milda Brėdikytė</field>
+<field name="librettistsort">Brėdikytė, Milda</field>
+<field name="librettist">Martynas Vainilaitis</field>
+<field name="librettistsort">Vainilaitis, Martynas</field>
+<field name="theater">Lietuvos Nacionalinis Operos ir Baleto Teatras</field>
+<field name="city">Vilnius</field>
+<field name="country">Lithuania</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bruknelė+(The+Tiny+Ligonberry)+Jonas+Tamulionis&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960513</field>
+<field name="title">Das tapfere Schneiderlein</field>
+<field name="titlesort">tapfere Schneiderlein</field>
+<field name="composer">Wolfgang Mitterer</field>
+<field name="composersort">Mitterer, Wolfgang</field>
+<field name="year">2006</field>
+<field name="date">December 8, 2006</field>
+<field name="librettist">Helga Utz</field>
+<field name="librettistsort">Utz, Helga</field>
+<field name="theater">Dschungel, Theaterhaus für junges Publikum</field>
+<field name="city">Vienna</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=tapfere+Schneiderlein+Wolfgang+Mitterer&amp;search_field=search</field>
+</doc>
+</add>

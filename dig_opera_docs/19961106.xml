@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961106</field>
+<field name="title">Hopper’s Wife</field>
+<field name="titlesort">Hopper’s Wife</field>
+<field name="composer">Stewart Wallace</field>
+<field name="composersort">Wallace, Stewart</field>
+<field name="year">1997</field>
+<field name="date">June 14, 1997</field>
+<field name="librettist">Michael Korie</field>
+<field name="librettistsort">Korie, Michael</field>
+<field name="theater">California State University</field>
+<field name="city">Long  Beach</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hopper’s+Wife+Stewart+Wallace&amp;search_field=search</field>
+</doc>
+</add>

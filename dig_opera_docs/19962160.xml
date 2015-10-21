@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962160</field>
+<field name="title">Rip Van Winkle</field>
+<field name="titlesort">Rip Van Winkle</field>
+<field name="composer">Gregg Smith</field>
+<field name="composersort">Smith, Gregg</field>
+<field name="year">1990</field>
+<field name="librettist">Kim Rich</field>
+<field name="librettistsort">Rich, Kim</field>
+<field name="librettist">Washington Irving</field>
+<field name="librettistsort">Irving, Washington</field>
+<field name="theater">Central Park East Elementary School</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rip+Van+Winkle+Gregg+Smith&amp;search_field=search</field>
+</doc>
+</add>

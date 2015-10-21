@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962711</field>
+<field name="title">The Queen of Sheba's Legs</field>
+<field name="titlesort">Queen of Sheba's Legs</field>
+<field name="composer">Julian Grant</field>
+<field name="composersort">Grant, Julian</field>
+<field name="year">1992</field>
+<field name="librettist">Marina Warner</field>
+<field name="librettistsort">Warner, Marina</field>
+<field name="theater">English National Opera Workshop (Baylis Programme)</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Queen+of+Sheba's+Legs+Julian+Grant&amp;search_field=search</field>
+</doc>
+</add>

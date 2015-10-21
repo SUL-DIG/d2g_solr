@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960387</field>
+<field name="title">Cake Talk</field>
+<field name="titlesort">Cake Talk</field>
+<field name="composer">Edward McGuire</field>
+<field name="composersort">McGuire, Edward</field>
+<field name="year">1996</field>
+<field name="date">November 7, 1996</field>
+<field name="librettist">Marianne Carey</field>
+<field name="librettistsort">Carey, Marianne</field>
+<field name="theater">Tramway</field>
+<field name="city">Glasgow</field>
+<field name="region">Scotland</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cake+Talk+Edward+McGuire&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960755</field>
+<field name="title">Ein Fest in die Zukunft</field>
+<field name="titlesort">Fest in die Zukunft</field>
+<field name="composer">Alexander Blechinger</field>
+<field name="composersort">Blechinger, Alexander</field>
+<field name="year">1988</field>
+<field name="date">November 25, 1988</field>
+<field name="librettist">Elisabeth Schrattenholzer</field>
+<field name="librettistsort">Schrattenholzer, Elisabeth</field>
+<field name="theater">Musikverein</field>
+<field name="city">Vienna</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fest+in+die+Zukunft+Alexander+Blechinger&amp;search_field=search</field>
+</doc>
+</add>

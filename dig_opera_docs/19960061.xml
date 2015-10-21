@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960061</field>
+<field name="title">A vida inteira</field>
+<field name="titlesort">vida inteira</field>
+<field name="composer">Tiago Cabrita</field>
+<field name="composersort">Cabrita, Tiago</field>
+<field name="year">2012</field>
+<field name="date">March 2, 2012</field>
+<field name="librettist">António Carlos Cortez</field>
+<field name="librettistsort">Cortez, António Carlos</field>
+<field name="librettist">Ruy Belo</field>
+<field name="librettistsort">Belo, Ruy</field>
+<field name="theater">Teatro de São Carlos</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=vida+inteira+Tiago+Cabrita&amp;search_field=search</field>
+</doc>
+</add>

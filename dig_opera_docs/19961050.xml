@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961050</field>
+<field name="title">Hasanaginica</field>
+<field name="titlesort">Hasanaginica</field>
+<field name="composer">Asim Horozić </field>
+<field name="composersort">Horozić, Asim</field>
+<field name="year">2000</field>
+<field name="date">March 18, 2000</field>
+<field name="librettist">Nijaz Alispahić</field>
+<field name="librettistsort">Alispahić, Nijaz</field>
+<field name="theater">Narodno pozoriste</field>
+<field name="city">Sarajevo</field>
+<field name="country">Bosnia-Hercegovina</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hasanaginica+Asim+Horozić+&amp;search_field=search</field>
+</doc>
+</add>

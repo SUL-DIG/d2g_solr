@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962955</field>
+<field name="title">Under Himlen</field>
+<field name="titlesort">Under Himlen</field>
+<field name="composer">Bent Sørensen</field>
+<field name="composersort">Sørensen, Bent</field>
+<field name="year">2004</field>
+<field name="date">March 15, 2004</field>
+<field name="librettist">Peter Asmussen</field>
+<field name="librettistsort">Asmussen, Peter</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Under+Himlen+Bent+Sørensen&amp;search_field=search</field>
+</doc>
+</add>

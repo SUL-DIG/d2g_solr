@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961728</field>
+<field name="title">Mihail Strogov</field>
+<field name="titlesort">Mihail Strogov</field>
+<field name="composer">Asen Karastoyanov</field>
+<field name="composersort">Karastoyanov, Asen</field>
+<field name="year">1940</field>
+<field name="city">Sofia</field>
+<field name="country">Bulgaria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mihail+Strogov+Asen+Karastoyanov&amp;search_field=search</field>
+</doc>
+</add>

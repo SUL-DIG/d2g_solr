@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961870</field>
+<field name="title">Odin den' Ivana Denisovicha</field>
+<field name="titlesort">Odin den' Ivana Denisovicha</field>
+<field name="composer">Aleksandr Vladimirovich Chaykovsky</field>
+<field name="composersort">Chaykovsky, Aleksandr Vladimirovich</field>
+<field name="year">2009</field>
+<field name="librettist">Aleksandr Solzhenitzyn</field>
+<field name="librettistsort">Solzhenitzyn, Aleksandr</field>
+<field name="theater">Teatr Operï i Baleta</field>
+<field name="city">Perm'</field>
+<field name="region">Perm' Oblast</field>
+<field name="country">Russia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Odin+den'+Ivana+Denisovicha+Aleksandr+Vladimirovich+Chaykovsky&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960322</field>
+<field name="title">Birds. Barks. Bones.</field>
+<field name="titlesort">Birds. Barks. Bones.</field>
+<field name="composer">Edward Rushton</field>
+<field name="composersort">Rushton, Edward</field>
+<field name="year">2004</field>
+<field name="date">July 19, 2004</field>
+<field name="librettist">Dagny Gioulami</field>
+<field name="librettistsort">Gioulami, Dagny</field>
+<field name="theater">Opera Group</field>
+<field name="city">Cheltenham</field>
+<field name="region">Gloucestershire</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Birds.+Barks.+Bones.+Edward+Rushton&amp;search_field=search</field>
+</doc>
+</add>

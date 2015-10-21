@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961830</field>
+<field name="title">Niña de cera</field>
+<field name="titlesort">Niña de cera</field>
+<field name="composer">Keiko Fujiie</field>
+<field name="composersort">Fujiie, Keiko</field>
+<field name="year">1996</field>
+<field name="date">April 28, 1996</field>
+<field name="librettist">Maritza Nuñez</field>
+<field name="librettistsort">Nuñez, Maritza</field>
+<field name="theater">Festival Green Peace</field>
+<field name="city">Kyoto</field>
+<field name="region">Kyoto</field>
+<field name="country">Japan</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Niña+de+cera+Keiko+Fujiie&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960448</field>
+<field name="title">Claude</field>
+<field name="titlesort">Claude</field>
+<field name="composer">Thierry Escaich</field>
+<field name="composersort">Escaich, Thierry</field>
+<field name="year">2013</field>
+<field name="date">March 27, 2013</field>
+<field name="librettist">Robert Badinter</field>
+<field name="librettistsort">Badinter, Robert</field>
+<field name="librettist">Victor Hugo</field>
+<field name="librettistsort">Hugo, Victor</field>
+<field name="theater">Opéra</field>
+<field name="city">Lyon</field>
+<field name="region">Rhône du Lyonnais</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Claude+Thierry+Escaich&amp;search_field=search</field>
+</doc>
+</add>

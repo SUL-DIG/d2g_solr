@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961616</field>
+<field name="title">Macbeth²</field>
+<field name="titlesort">Macbeth²</field>
+<field name="composer">Jan Sandström</field>
+<field name="composersort">Sandström, Jan</field>
+<field name="year">2001</field>
+<field name="date">May 5, 2001</field>
+<field name="librettist">KG Johansson</field>
+<field name="librettistsort">Johansson, KG</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistsort">Shakespeare, William</field>
+<field name="theater">GöteborgsOperan</field>
+<field name="city">Göteborg</field>
+<field name="region">Göteborg och Bohus</field>
+<field name="country">Sweden</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Macbeth²+Jan+Sandström&amp;search_field=search</field>
+</doc>
+</add>

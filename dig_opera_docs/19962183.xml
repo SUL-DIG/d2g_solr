@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962183</field>
+<field name="title">Rote Laterne</field>
+<field name="titlesort">Rote Laterne</field>
+<field name="composer">Christian Jost</field>
+<field name="composersort">Jost, Christian</field>
+<field name="year">2015</field>
+<field name="date">March 8, 2015</field>
+<field name="librettist">Christian Jost</field>
+<field name="librettistsort">Jost, Christian</field>
+<field name="librettist">Su Tong</field>
+<field name="librettistsort">Su Tong</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Zürich</field>
+<field name="region">Zürich</field>
+<field name="country">Switzerland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rote+Laterne+Christian+Jost&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963081</field>
+<field name="title">Yggdrasil</field>
+<field name="titlesort">Yggdrasil</field>
+<field name="composer">Fredrik Österling</field>
+<field name="composersort">Österling, Fredrik</field>
+<field name="year">2000</field>
+<field name="date">February 26, 2000</field>
+<field name="librettist">Hans Berndtsson</field>
+<field name="librettistsort">Berndtsson, Hans</field>
+<field name="theater">GöteborgsOperan</field>
+<field name="city">Göteborg</field>
+<field name="region">Göteborg och Bohus</field>
+<field name="country">Sweden</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Yggdrasil+Fredrik+Österling&amp;search_field=search</field>
+</doc>
+</add>

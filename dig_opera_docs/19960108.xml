@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960108</field>
+<field name="title">Ali Baba und die 40 Räuber</field>
+<field name="titlesort">Ali Baba und die 40 Räuber</field>
+<field name="composer">Taner Akyol</field>
+<field name="composersort">Akyol, Taner</field>
+<field name="year">2012</field>
+<field name="date">November 3, 2012</field>
+<field name="librettist">Cetin Ipekkaya</field>
+<field name="librettistsort">Ipekkaya, Cetin</field>
+<field name="librettist">Marietta Rohrer-Ipekkaya</field>
+<field name="librettistsort">Rohrer-Ipekkaya, Marietta</field>
+<field name="theater">Komische Oper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ali+Baba+und+die+40+Räuber+Taner+Akyol&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960722</field>
+<field name="title">Drei Schwestern</field>
+<field name="titlesort">Drei Schwestern</field>
+<field name="composer">Peter Eötvös</field>
+<field name="composersort">Eötvös, Peter</field>
+<field name="year">1998</field>
+<field name="date">March 13, 1998</field>
+<field name="librettist">Claus H. Henneberg</field>
+<field name="librettistsort">Henneberg, Claus H.</field>
+<field name="librettist">Anton Pavlovich Chekhov</field>
+<field name="librettistsort">Chekhov, Anton Pavlovich</field>
+<field name="theater">Opéra</field>
+<field name="city">Lyon</field>
+<field name="region">Rhône du Lyonnais</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Drei+Schwestern+Peter+Eötvös&amp;search_field=search</field>
+</doc>
+</add>

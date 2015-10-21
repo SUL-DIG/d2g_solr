@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960675</field>
+<field name="title">Dockdoktom (The Doll Doctor)</field>
+<field name="titlesort">Dockdoktom (The Doll Doctor)</field>
+<field name="composer">Bengt Perry</field>
+<field name="composersort">Perry, Bengt</field>
+<field name="year">2001</field>
+<field name="date">March 23, 2001</field>
+<field name="librettist">Bengt Perry</field>
+<field name="librettistsort">Perry, Bengt</field>
+<field name="theater">GöteborgsOperan</field>
+<field name="city">Göteborg</field>
+<field name="region">Göteborg och Bohus</field>
+<field name="country">Sweden</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dockdoktom+(The+Doll+Doctor)+Bengt+Perry&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962291</field>
+<field name="title">Simsalabad</field>
+<field name="titlesort">Simsalabad</field>
+<field name="composer">Andy Pape</field>
+<field name="composersort">Pape, Andy</field>
+<field name="year">2004</field>
+<field name="date">February 1, 2004</field>
+<field name="librettist">Nina Malinovski</field>
+<field name="librettistsort">Malinovski, Nina</field>
+<field name="theater">Funen Opera</field>
+<field name="city">Odense</field>
+<field name="region">Syddanmark</field>
+<field name="country">Denmark</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Simsalabad+Andy+Pape&amp;search_field=search</field>
+</doc>
+</add>

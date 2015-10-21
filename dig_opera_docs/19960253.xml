@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960253</field>
+<field name="title">Babel,n</field>
+<field name="titlesort">Babel,n</field>
+<field name="composer">Walther Soyka</field>
+<field name="composersort">Soyka, Walther</field>
+<field name="year">2004</field>
+<field name="date">October 20, 2004</field>
+<field name="librettist">Ferdinand Schmatz</field>
+<field name="librettistsort">Schmatz, Ferdinand</field>
+<field name="theater">Kunsthaus Muerz</field>
+<field name="city">Mürzzuschlag</field>
+<field name="region">Steiermark</field>
+<field name="country">Austria</field>
+<field name="genre">Oratorio</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Babel,n+Walther+Soyka&amp;search_field=search</field>
+</doc>
+</add>

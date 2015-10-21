@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962770</field>
+<field name="title">The Song of Eddie</field>
+<field name="titlesort">Song of Eddie</field>
+<field name="composer">Harold Farberman</field>
+<field name="composersort">Farberman, Harold</field>
+<field name="year">2004</field>
+<field name="date">July 2, 2004</field>
+<field name="librettist">Andrew Joffe</field>
+<field name="librettistsort">Joffe, Andrew</field>
+<field name="theater">Bard College</field>
+<field name="city">Annandale-on-Hudson</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Song+of+Eddie+Harold+Farberman&amp;search_field=search</field>
+</doc>
+</add>

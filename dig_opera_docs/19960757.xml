@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960757</field>
+<field name="title">Eine Feste Burg</field>
+<field name="titlesort">Feste Burg</field>
+<field name="composer">Daniel Schnyder</field>
+<field name="composersort">Schnyder, Daniel</field>
+<field name="year">2013</field>
+<field name="date">October 26, 2013</field>
+<field name="theater">Frauenkirche</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Feste+Burg+Daniel+Schnyder&amp;search_field=search</field>
+</doc>
+</add>

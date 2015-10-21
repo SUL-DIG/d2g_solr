@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962227</field>
+<field name="title">Schitz</field>
+<field name="titlesort">Schitz</field>
+<field name="composer">Yoni Rechter</field>
+<field name="composersort">Rechter, Yoni</field>
+<field name="year">2015</field>
+<field name="date">July 6, 2015</field>
+<field name="librettist">Hanoch Levin</field>
+<field name="librettistsort">Levin, Hanoch</field>
+<field name="theater">Israeli Opera</field>
+<field name="city">Tel Aviv</field>
+<field name="country">Israel</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schitz+Yoni+Rechter&amp;search_field=search</field>
+</doc>
+</add>

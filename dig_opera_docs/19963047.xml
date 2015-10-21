@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963047</field>
+<field name="title">What to Wear</field>
+<field name="titlesort">What to Wear</field>
+<field name="composer">Michael Gordon</field>
+<field name="composersort">Gordon, Michael</field>
+<field name="year">2006</field>
+<field name="date">September 20, 2006</field>
+<field name="librettist">Richard Foreman</field>
+<field name="librettistsort">Foreman, Richard</field>
+<field name="theater">REDCAT Center for New Performance</field>
+<field name="city">Los Angeles</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=What+to+Wear+Michael+Gordon&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960820</field>
+<field name="title">Ester</field>
+<field name="titlesort">Ester</field>
+<field name="composer">José María Ponce de León</field>
+<field name="composersort">Ponce de León, José María</field>
+<field name="year">1874</field>
+<field name="date">2 Jul 1874</field>
+<field name="librettist">Manuel Briceño</field>
+<field name="librettistsort">Briceño, Manuel</field>
+<field name="librettist">Rafael Pombo</field>
+<field name="librettistsort">Pombo, Rafael</field>
+<field name="city">Bogota</field>
+<field name="country">Colombia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ester+José+María+Ponce+de+León&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962707</field>
+<field name="title">The Prodigal Son</field>
+<field name="titlesort">Prodigal Son</field>
+<field name="composer">James Stepleton</field>
+<field name="composersort">Stepleton, James</field>
+<field name="year">1983</field>
+<field name="date">May 8, 1983</field>
+<field name="theater">Barnard College</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prodigal+Son+James+Stepleton&amp;search_field=search</field>
+</doc>
+</add>

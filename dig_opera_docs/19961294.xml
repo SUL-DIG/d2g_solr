@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961294</field>
+<field name="title">Kaspar Hauser: A Foundling's Opera</field>
+<field name="titlesort">Kaspar Hauser: A Foundling's Opera</field>
+<field name="composer">Elizabeth Swados</field>
+<field name="composersort">Swados, Elizabeth</field>
+<field name="year">2009</field>
+<field name="date">February 13, 2009</field>
+<field name="librettist">Elizabeth Swados</field>
+<field name="librettistsort">Swados, Elizabeth</field>
+<field name="librettist">Erin Courtney</field>
+<field name="librettistsort">Courtney, Erin</field>
+<field name="theater">Flea Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kaspar+Hauser:+A+Foundling's+Opera+Elizabeth+Swados&amp;search_field=search</field>
+</doc>
+</add>

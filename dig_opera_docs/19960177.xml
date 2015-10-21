@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960177</field>
+<field name="title">Anon</field>
+<field name="titlesort">Anon</field>
+<field name="composer">Errollyn Wallen</field>
+<field name="composersort">Wallen, Errollyn</field>
+<field name="year">2013</field>
+<field name="date">July 26, 2013</field>
+<field name="librettist">Errollyn Wallen</field>
+<field name="librettistsort">Wallen, Errollyn</field>
+<field name="librettist">Antoine-François, Abbé Prévost d'Exiles</field>
+<field name="librettistsort">Prévost d'Exiles, Abbé Antoine-François</field>
+<field name="theater">Riverside Studios</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anon+Errollyn+Wallen&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960054</field>
+<field name="title">A Requiem for Our Time</field>
+<field name="titlesort">Requiem for Our Time</field>
+<field name="composer">Roger Ames</field>
+<field name="composersort">Ames, Roger</field>
+<field name="year">2007</field>
+<field name="date">November 9, 2007</field>
+<field name="librettist">Roger Ames</field>
+<field name="librettistsort">Ames, Roger</field>
+<field name="librettist">Anne Sexton</field>
+<field name="librettistsort">Sexton, Anne</field>
+<field name="theater">Old South Church</field>
+<field name="city">Boston</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Requiem+for+Our+Time+Roger+Ames&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960913</field>
+<field name="title">Four Sisters</field>
+<field name="titlesort">Four Sisters</field>
+<field name="composer">Elena Langer</field>
+<field name="composersort">Langer, Elena</field>
+<field name="year">2012</field>
+<field name="date">March 9, 2012</field>
+<field name="librettist">John Lloyd-Davies</field>
+<field name="librettistsort">Lloyd-Davies, John</field>
+<field name="theater">Bard College</field>
+<field name="city">Annandale-on-Hudson</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Four+Sisters+Elena+Langer&amp;search_field=search</field>
+</doc>
+</add>

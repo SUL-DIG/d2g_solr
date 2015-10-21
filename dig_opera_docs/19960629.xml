@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960629</field>
+<field name="title">Die Intendanten</field>
+<field name="titlesort">Intendanten</field>
+<field name="composer">Franz Hummel</field>
+<field name="composersort">Hummel, Franz</field>
+<field name="year">1997</field>
+<field name="date">April 3, 1997</field>
+<field name="theater">Bundeskunsthalle</field>
+<field name="city">Bonn</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Intendanten+Franz+Hummel&amp;search_field=search</field>
+</doc>
+</add>

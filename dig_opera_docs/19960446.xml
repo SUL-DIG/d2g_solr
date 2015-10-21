@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960446</field>
+<field name="title">Circus Universal</field>
+<field name="titlesort">Circus Universal</field>
+<field name="composer">Dimitri Tersakis</field>
+<field name="composersort">Tersakis, Dimitri</field>
+<field name="year">1975</field>
+<field name="date">December 30, 1975</field>
+<field name="librettist">Angelos Terzakis</field>
+<field name="librettistsort">Terzakis, Angelos</field>
+<field name="theater">Opernstudio</field>
+<field name="city">Kiel</field>
+<field name="region">Schleswig-Holstein</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Circus+Universal+Dimitri+Tersakis&amp;search_field=search</field>
+</doc>
+</add>

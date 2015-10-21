@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962568</field>
+<field name="title">The Girl from Nogami</field>
+<field name="titlesort">Girl from Nogami</field>
+<field name="composer">Carey Blyton</field>
+<field name="composersort">Blyton, Carey</field>
+<field name="year">1977</field>
+<field name="date">March 15, 1977</field>
+<field name="librettist">Jack Grey</field>
+<field name="librettistsort">Grey, Jack</field>
+<field name="theater">Guildhall School for Music</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Girl+from+Nogami+Carey+Blyton&amp;search_field=search</field>
+</doc>
+</add>

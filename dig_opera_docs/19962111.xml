@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962111</field>
+<field name="title">Räuber Hotzenplotz</field>
+<field name="titlesort">Räuber Hotzenplotz</field>
+<field name="composer">Andreas Tarkmann</field>
+<field name="composersort">Tarkmann, Andreas</field>
+<field name="year">2009</field>
+<field name="date">April 3, 2009</field>
+<field name="librettist">Jörg Schade</field>
+<field name="librettistsort">Schade, Jörg</field>
+<field name="librettist">Otfried Preussler</field>
+<field name="librettistsort">Preussler, Otfried</field>
+<field name="theater">Städtische Bühnen</field>
+<field name="city">Aachen</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Räuber+Hotzenplotz+Andreas+Tarkmann&amp;search_field=search</field>
+</doc>
+</add>

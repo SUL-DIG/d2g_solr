@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960875</field>
+<field name="title">Feist</field>
+<field name="titlesort">Feist</field>
+<field name="composer">Jury Everhartz</field>
+<field name="composersort">Everhartz, Jury</field>
+<field name="year">2001</field>
+<field name="date">June 30, 2001</field>
+<field name="librettist">Günter Rupp</field>
+<field name="librettistsort">Rupp, Günter</field>
+<field name="theater">Künstlerhaus</field>
+<field name="city">Vienna</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Feist+Jury+Everhartz&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960152</field>
+<field name="title">An unserem Fluss (By Our River)</field>
+<field name="titlesort">An unserem Fluss (By Our River)</field>
+<field name="composer">Lior Navok</field>
+<field name="composersort">Navok, Lior</field>
+<field name="year">2015</field>
+<field name="date">May 31, 2015</field>
+<field name="librettist">Lior Navok</field>
+<field name="librettistsort">Navok, Lior</field>
+<field name="librettist">Kristian Lutze</field>
+<field name="librettistsort">Lutze, Kristian</field>
+<field name="theater">Schauspielhaus</field>
+<field name="city">Frankfurt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=An+unserem+Fluss+(By+Our+River)+Lior+Navok&amp;search_field=search</field>
+</doc>
+</add>

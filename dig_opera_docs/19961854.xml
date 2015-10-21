@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961854</field>
+<field name="title">Nove frammenti</field>
+<field name="titlesort">Nove frammenti</field>
+<field name="composer">Luca Mosca</field>
+<field name="composersort">Mosca, Luca</field>
+<field name="year">1997</field>
+<field name="date">May 25, 1997</field>
+<field name="librettist">Pilar Garcia</field>
+<field name="librettistsort">Garcia, Pilar</field>
+<field name="librettist">Franz Kafka</field>
+<field name="librettistsort">Kafka, Franz</field>
+<field name="theater">Taller Amsterdam</field>
+<field name="city">Amsterdam</field>
+<field name="region">Noord Holland</field>
+<field name="country">Netherlands</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nove+frammenti+Luca+Mosca&amp;search_field=search</field>
+</doc>
+</add>

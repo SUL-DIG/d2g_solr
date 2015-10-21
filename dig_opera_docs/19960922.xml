@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960922</field>
+<field name="title">Fresh Faust</field>
+<field name="titlesort">Fresh Faust</field>
+<field name="composer">Leroy Jenkins</field>
+<field name="composersort">Jenkins, Leroy</field>
+<field name="year">1994</field>
+<field name="date">March 1, 1994</field>
+<field name="librettist">Greg Tate</field>
+<field name="librettistsort">Tate, Greg</field>
+<field name="theater">Institute of Contemporary Arts</field>
+<field name="city">Boston</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fresh+Faust+Leroy+Jenkins&amp;search_field=search</field>
+</doc>
+</add>

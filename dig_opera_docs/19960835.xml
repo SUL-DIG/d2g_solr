@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960835</field>
+<field name="title">Exercices du silence</field>
+<field name="titlesort">Exercices du silence</field>
+<field name="composer">Brice Pauset</field>
+<field name="composersort">Pauset, Brice</field>
+<field name="year">2008</field>
+<field name="date">December 6, 2008</field>
+<field name="librettist">Brice Pauset</field>
+<field name="librettistsort">Pauset, Brice</field>
+<field name="librettist">Louise du Néant</field>
+<field name="librettistsort">Néant, Louise du</field>
+<field name="theater">Opéra Bastille Amphithéâtre</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Exercices+du+silence+Brice+Pauset&amp;search_field=search</field>
+</doc>
+</add>

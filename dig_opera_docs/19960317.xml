@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960317</field>
+<field name="title">Billie and Zelda</field>
+<field name="titlesort">Billie and Zelda</field>
+<field name="composer">Tina Davidson</field>
+<field name="composersort">Davidson, Tina</field>
+<field name="year">1998</field>
+<field name="date">December 11, 1998</field>
+<field name="librettist">Eva Davidson</field>
+<field name="librettistsort">Davidson, Eva</field>
+<field name="librettist">Lale Davidson</field>
+<field name="librettistsort">Davidson, Lale</field>
+<field name="theater">Grand Opera House</field>
+<field name="city">Wilmington</field>
+<field name="region">Delaware</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Billie+and+Zelda+Tina+Davidson&amp;search_field=search</field>
+</doc>
+</add>

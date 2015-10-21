@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960599</field>
+<field name="title">Des Landes Verwiesen</field>
+<field name="titlesort">Landes Verwiesen</field>
+<field name="composer">Juan Allende-Blin</field>
+<field name="composersort">Allende-Blin, Juan</field>
+<field name="year">2009</field>
+<field name="date">March 22, 2009</field>
+<field name="librettist">Jean Pierre Faye</field>
+<field name="librettistsort">Faye, Jean Pierre</field>
+<field name="theater">Theater der Stadt</field>
+<field name="city">Bonn</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Landes+Verwiesen+Juan+Allende-Blin&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963017</field>
+<field name="title">Voir Dire</field>
+<field name="titlesort">Voir Dire</field>
+<field name="composer">Matthew Peterson </field>
+<field name="composersort">Peterson, Matthew</field>
+<field name="year">2014</field>
+<field name="date">May 8, 2014</field>
+<field name="librettist">Jason Zencka </field>
+<field name="librettistsort">Zencka, Jason</field>
+<field name="theater">McDavid Studio</field>
+<field name="city">Fort Worth</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Voir+Dire+Matthew+Peterson+&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962077</field>
+<field name="title">Pyramus and Thisbe</field>
+<field name="titlesort">Pyramus and Thisbe</field>
+<field name="composer">Neely Bruce</field>
+<field name="composersort">Bruce, Neely</field>
+<field name="year">1965</field>
+<field name="librettist">Neely Bruce</field>
+<field name="librettistsort">Bruce, Neely</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistsort">Shakespeare, William</field>
+<field name="theater">University of Alabama</field>
+<field name="city">Tuscaloosa</field>
+<field name="region">Alabama</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pyramus+and+Thisbe+Neely+Bruce&amp;search_field=search</field>
+</doc>
+</add>

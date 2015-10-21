@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962610</field>
+<field name="title">The Lady and the Peddler</field>
+<field name="titlesort">Lady and the Peddler</field>
+<field name="composer">Haim Permont</field>
+<field name="composersort">Permont, Haim</field>
+<field name="year">2015</field>
+<field name="date">July 6, 2015</field>
+<field name="librettist">Tzruya Lahav</field>
+<field name="librettistsort">Lahav, Tzruya</field>
+<field name="librettist">Shmuel Yosef Agnon</field>
+<field name="librettistsort">Agnon, Shmuel Yosef</field>
+<field name="theater">Israeli Opera</field>
+<field name="city">Tel Aviv</field>
+<field name="country">Israel</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lady+and+the+Peddler+Haim+Permont&amp;search_field=search</field>
+</doc>
+</add>

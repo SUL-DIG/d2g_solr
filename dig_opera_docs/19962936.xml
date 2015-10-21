@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962936</field>
+<field name="title">Two Sisters, A Rose, A Flood and Snow</field>
+<field name="titlesort">Two Sisters, A Rose, A Flood and Snow</field>
+<field name="composer">Alasdair Nicolson</field>
+<field name="composersort">Nicolson, Alasdair</field>
+<field name="year">2006</field>
+<field name="date">June 1, 2006</field>
+<field name="librettist">Stewart Conn</field>
+<field name="librettistsort">Conn, Stewart</field>
+<field name="theater">Jerwood Hall St. Luke's</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Two+Sisters,+A+Rose,+A+Flood+and+Snow+Alasdair+Nicolson&amp;search_field=search</field>
+</doc>
+</add>

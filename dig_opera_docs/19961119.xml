@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961119</field>
+<field name="title">Hulda og Garborg</field>
+<field name="titlesort">Hulda og Garborg</field>
+<field name="composer">Glenn Erik Haugland</field>
+<field name="composersort">Haugland, Glenn Erik</field>
+<field name="year">2001</field>
+<field name="date">March 3, 2001</field>
+<field name="librettist">Rolf Norsen</field>
+<field name="librettistsort">Norsen, Rolf</field>
+<field name="librettist">Stella Bjørnstad</field>
+<field name="librettistsort">Bjørnstad, Stella</field>
+<field name="city">Tynset</field>
+<field name="region">Hedmark</field>
+<field name="country">Norway</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hulda+og+Garborg+Glenn+Erik+Haugland&amp;search_field=search</field>
+</doc>
+</add>

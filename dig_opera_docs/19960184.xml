@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960184</field>
+<field name="title">Antigona Furiosa</field>
+<field name="titlesort">Antigona Furiosa</field>
+<field name="composer">Jorge Liderman</field>
+<field name="composersort">Liderman, Jorge</field>
+<field name="year">1992</field>
+<field name="date">April 29, 1992</field>
+<field name="librettist">Jorge Liderman</field>
+<field name="librettistsort">Liderman, Jorge</field>
+<field name="librettist">Griselda Gambaro</field>
+<field name="librettistsort">Gambaro, Griselda</field>
+<field name="theater">Biennale</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Antigona+Furiosa+Jorge+Liderman&amp;search_field=search</field>
+</doc>
+</add>

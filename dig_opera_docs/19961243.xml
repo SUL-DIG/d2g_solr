@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961243</field>
+<field name="title">Jordbaer-Liv</field>
+<field name="titlesort">Jordbaer-Liv</field>
+<field name="composer">Knut Anders Vestad</field>
+<field name="composersort">Vestad, Knut Anders</field>
+<field name="year">2000</field>
+<field name="librettist">Kjersti Lie</field>
+<field name="librettistsort">Lie, Kjersti</field>
+<field name="theater">Kibnebfestivalen</field>
+<field name="city">Lensvik</field>
+<field name="region">Sør-Trøndelag</field>
+<field name="country">Norway</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jordbaer-Liv+Knut+Anders+Vestad&amp;search_field=search</field>
+</doc>
+</add>

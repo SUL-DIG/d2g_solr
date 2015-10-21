@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962518</field>
+<field name="title">The Dream Healer</field>
+<field name="titlesort">Dream Healer</field>
+<field name="composer">Lloyd Burritt</field>
+<field name="composersort">Burritt, Lloyd</field>
+<field name="year">2008</field>
+<field name="date">March 2, 2008</field>
+<field name="librettist">Christopher Allan</field>
+<field name="librettistsort">Allan, Christopher</field>
+<field name="librettist">Timothy Findley</field>
+<field name="librettistsort">Findley, Timothy</field>
+<field name="theater">University of British Columbia</field>
+<field name="city">Vancouver</field>
+<field name="region">British Columbia</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dream+Healer+Lloyd+Burritt&amp;search_field=search</field>
+</doc>
+</add>

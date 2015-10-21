@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961772</field>
+<field name="title">Mr. Hyde?</field>
+<field name="titlesort">Mr. Hyde?</field>
+<field name="composer">Giampaolo Coral</field>
+<field name="composersort">Coral, Giampaolo</field>
+<field name="year">2008</field>
+<field name="date">December 2, 2008</field>
+<field name="librettist">Attilio Cucari</field>
+<field name="librettistsort">Cucari, Attilio</field>
+<field name="librettist">Robert Louis Stevenson</field>
+<field name="librettistsort">Stevenson, Robert Louis</field>
+<field name="theater">Sala Tripcovich</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mr.+Hyde?+Giampaolo+Coral&amp;search_field=search</field>
+</doc>
+</add>

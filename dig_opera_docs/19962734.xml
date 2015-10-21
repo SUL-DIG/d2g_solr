@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962734</field>
+<field name="title">The Scarlet Letter</field>
+<field name="titlesort">Scarlet Letter</field>
+<field name="composer">Lori Laitman</field>
+<field name="composersort">Laitman, Lori</field>
+<field name="year">2008</field>
+<field name="date">November 6, 2008</field>
+<field name="librettist">David Mason</field>
+<field name="librettistsort">Mason, David</field>
+<field name="librettist">Nathaniel Hawthorne</field>
+<field name="librettistsort">Hawthorne, Nathaniel</field>
+<field name="theater">University of Central Arkansas</field>
+<field name="city">Conway</field>
+<field name="region">Arkansas</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Scarlet+Letter+Lori+Laitman&amp;search_field=search</field>
+</doc>
+</add>

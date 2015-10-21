@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960247</field>
+<field name="title">Ayodhya</field>
+<field name="titlesort">Ayodhya</field>
+<field name="composer">Somtow Sucharitkul</field>
+<field name="composersort">Sucharitkul, Somtow</field>
+<field name="year">2006</field>
+<field name="date">November 16, 2006</field>
+<field name="librettist">Somtow Sucharitkul</field>
+<field name="librettistsort">Sucharitkul, Somtow</field>
+<field name="theater">Thailand Cultural Center</field>
+<field name="city">Bangkok</field>
+<field name="country">Thailand</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ayodhya+Somtow+Sucharitkul&amp;search_field=search</field>
+</doc>
+</add>

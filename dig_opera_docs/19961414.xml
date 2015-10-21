@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961414</field>
+<field name="title">La liberta chiama la liberta</field>
+<field name="titlesort">liberta chiama la liberta</field>
+<field name="composer">Eugeniusz Knapik</field>
+<field name="composersort">Knapik, Eugeniusz</field>
+<field name="year">2010</field>
+<field name="date">October 16, 2010</field>
+<field name="librettist">Jan Fabre</field>
+<field name="librettistsort">Fabre, Jan </field>
+<field name="theater">Opera Dolnoslaska</field>
+<field name="city">Wroclaw</field>
+<field name="region">Dolnoslaskie</field>
+<field name="country">Poland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=liberta+chiama+la+liberta+Eugeniusz+Knapik&amp;search_field=search</field>
+</doc>
+</add>

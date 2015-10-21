@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962138</field>
+<field name="title">Requiem for a Nun</field>
+<field name="titlesort">Requiem for a Nun</field>
+<field name="composer">Oscar Strasnoy</field>
+<field name="composersort">Strasnoy, Oscar</field>
+<field name="year">2014</field>
+<field name="date">June 10, 2014</field>
+<field name="librettist">Mathew Jocelyn</field>
+<field name="librettistsort">Jocelyn, Mathew</field>
+<field name="librettist">William Faulkner</field>
+<field name="librettistsort">Faulkner, William</field>
+<field name="theater">Teatro Colón</field>
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Requiem+for+a+Nun+Oscar+Strasnoy&amp;search_field=search</field>
+</doc>
+</add>

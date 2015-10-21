@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960388</field>
+<field name="title">Caliban Dreams</field>
+<field name="titlesort">Caliban Dreams</field>
+<field name="composer">Clark Suprynowicz</field>
+<field name="composersort">Suprynowicz, Clark </field>
+<field name="year">2011</field>
+<field name="date">July 30, 2011</field>
+<field name="librettist">Amanda Moody</field>
+<field name="librettistsort">Moody, Amanda </field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistsort">Shakespeare, William</field>
+<field name="theater">West Edge Opera</field>
+<field name="city">Berkeley</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Caliban+Dreams+Clark Suprynowicz&amp;search_field=search</field>
+</doc>
+</add>

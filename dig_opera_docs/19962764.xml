@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962764</field>
+<field name="title">The Sinking of the Rainbow Warrior</field>
+<field name="titlesort">Sinking of the Rainbow Warrior</field>
+<field name="composer">Colin Bright</field>
+<field name="composersort">Bright, Colin</field>
+<field name="year">1997</field>
+<field name="date">January 1, 1997</field>
+<field name="librettist">Amanda Stewart</field>
+<field name="librettistsort">Stewart, Amanda</field>
+<field name="theater">Australian National Maritime Museum</field>
+<field name="city">Sydney</field>
+<field name="region">New South Wales</field>
+<field name="country">Australia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sinking+of+the+Rainbow+Warrior+Colin+Bright&amp;search_field=search</field>
+</doc>
+</add>

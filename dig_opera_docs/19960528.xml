@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960528</field>
+<field name="title">De Vreemde Ruiter</field>
+<field name="titlesort">De Vreemde Ruiter</field>
+<field name="composer">Frédéric Devreese</field>
+<field name="composersort">Devreese, Frédéric</field>
+<field name="year">1967</field>
+<field name="librettist">Michel de Ghelderode</field>
+<field name="librettistsort">Ghelderode, Michel de</field>
+<field name="theater">Belgian Television (Radio Télévision Belge)</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=De+Vreemde+Ruiter+Frédéric+Devreese&amp;search_field=search</field>
+</doc>
+</add>

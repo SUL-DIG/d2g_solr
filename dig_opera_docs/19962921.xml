@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962921</field>
+<field name="title">Truth</field>
+<field name="titlesort">Truth</field>
+<field name="composer">Paula M. Kimper</field>
+<field name="composersort">Kimper, Paula M.</field>
+<field name="year">2012</field>
+<field name="date">February 16, 2012</field>
+<field name="librettist">Talaya Delaney</field>
+<field name="librettistsort">Delaney, Talaya</field>
+<field name="theater">Academy of Music</field>
+<field name="city">Northampton</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Truth+Paula+M.+Kimper&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961184</field>
+<field name="title">In the Shadow of the Glen</field>
+<field name="titlesort">In the Shadow of the Glen</field>
+<field name="composer">Nancy Van de Vate</field>
+<field name="composersort">Van de Vate, Nancy</field>
+<field name="year">1999</field>
+<field name="date">March 12, 1999</field>
+<field name="librettist">Nancy Van de Vate</field>
+<field name="librettistsort">Van de Vate, Nancy</field>
+<field name="librettist">John Millington Synge</field>
+<field name="librettistsort">Synge, John Millington</field>
+<field name="theater">Longy School of Music</field>
+<field name="city">Cambridge</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=In+the+Shadow+of+the+Glen+Nancy+Van+de+Vate&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961787</field>
+<field name="title">Musik</field>
+<field name="titlesort">Musik</field>
+<field name="composer">Michael Langemann</field>
+<field name="composersort">Langemann, Michael</field>
+<field name="year">2013</field>
+<field name="date">December 7, 2013</field>
+<field name="librettist">Helene Hegemann</field>
+<field name="librettistsort">Hegemann, Helene</field>
+<field name="theater">Opera der Stadt</field>
+<field name="city">Cologne</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Musik+Michael+Langemann&amp;search_field=search</field>
+</doc>
+</add>

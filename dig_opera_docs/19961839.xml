@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961839</field>
+<field name="title">Nocturno</field>
+<field name="titlesort">Nocturno</field>
+<field name="composer">Georg Friedrich Haas</field>
+<field name="composersort">Haas, Georg Friedrich</field>
+<field name="year">2013</field>
+<field name="date">March 23, 2013</field>
+<field name="theater">Bundeskunsthalle</field>
+<field name="city">Bonn</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nocturno+Georg+Friedrich+Haas&amp;search_field=search</field>
+</doc>
+</add>

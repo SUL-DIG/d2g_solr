@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961596</field>
+<field name="title">Love Fail</field>
+<field name="titlesort">Love Fail</field>
+<field name="composer">David Lang</field>
+<field name="composersort">Lang, David</field>
+<field name="year">2012</field>
+<field name="date">June 29, 2012</field>
+<field name="librettist">David Lang</field>
+<field name="librettistsort">Lang, David</field>
+<field name="librettist">Lydia Davis</field>
+<field name="librettistsort">Davis, Lydia</field>
+<field name="theater">Yale Repertory Theater</field>
+<field name="city">New Haven</field>
+<field name="region">Connecticut</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Love+Fail+David+Lang&amp;search_field=search</field>
+</doc>
+</add>

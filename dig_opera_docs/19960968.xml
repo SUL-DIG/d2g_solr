@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960968</field>
+<field name="title">Geisterritter</field>
+<field name="titlesort">Geisterritter</field>
+<field name="composer">James Reynolds</field>
+<field name="composersort">Reynolds, James</field>
+<field name="year">2011</field>
+<field name="date">November 27, 2011</field>
+<field name="librettist">Christoph Klimke</field>
+<field name="librettistsort">Klimke, Christoph</field>
+<field name="librettist">Cornelia Funke</field>
+<field name="librettistsort">Funke, Cornelia</field>
+<field name="theater">Oldenburgische Staatstheater</field>
+<field name="city">Oldenburg</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Geisterritter+James+Reynolds&amp;search_field=search</field>
+</doc>
+</add>

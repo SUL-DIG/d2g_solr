@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960039</field>
+<field name="title">A Harlot's Progress</field>
+<field name="titlesort">Harlot's Progress</field>
+<field name="composer">Iain Bell</field>
+<field name="composersort">Bell, Iain</field>
+<field name="year">2013</field>
+<field name="date">October 13, 2013</field>
+<field name="librettist">Peter Ackroyd</field>
+<field name="librettistsort">Ackroyd, Peter</field>
+<field name="librettist">William Hogarth</field>
+<field name="librettistsort">Hogarth, William</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Harlot's+Progress+Iain+Bell&amp;search_field=search</field>
+</doc>
+</add>

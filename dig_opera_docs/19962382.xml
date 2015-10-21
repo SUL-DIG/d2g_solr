@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962382</field>
+<field name="title">Sudden Rain</field>
+<field name="titlesort">Sudden Rain</field>
+<field name="composer">Aleksander Nowak</field>
+<field name="composersort">Nowak, Aleksander</field>
+<field name="year">2010</field>
+<field name="date">May 6, 2010</field>
+<field name="librettist">Anna Konieczna</field>
+<field name="librettistsort">Konieczna, Anna</field>
+<field name="librettist">Aleksander Nowak</field>
+<field name="librettistsort">Nowak, Aleksander</field>
+<field name="theater">Teatr Wielki</field>
+<field name="city">Warsaw</field>
+<field name="country">Poland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sudden+Rain+Aleksander+Nowak&amp;search_field=search</field>
+</doc>
+</add>

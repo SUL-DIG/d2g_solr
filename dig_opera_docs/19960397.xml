@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960397</field>
+<field name="title">Carmilla</field>
+<field name="titlesort">Carmilla</field>
+<field name="composer">Ben Johnston</field>
+<field name="composersort">Johnston, Ben</field>
+<field name="year">1970</field>
+<field name="date">November 12, 1970</field>
+<field name="librettist">Wilford Leach</field>
+<field name="librettistsort">Leach, Wilford</field>
+<field name="librettist">Joseph Sheridan Le Fanu</field>
+<field name="librettistsort">Le Fanu, Joseph Sheridan</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Carmilla+Ben+Johnston&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962894</field>
+<field name="title">Tone Test</field>
+<field name="titlesort">Tone Test</field>
+<field name="composer">Nick Brooke</field>
+<field name="composersort">Brooke, Nick</field>
+<field name="year">2004</field>
+<field name="date">July 22, 2004</field>
+<field name="librettist">Nick Brooke</field>
+<field name="librettistsort">Brooke, Nick</field>
+<field name="theater">Clark Studio Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tone+Test+Nick+Brooke&amp;search_field=search</field>
+</doc>
+</add>

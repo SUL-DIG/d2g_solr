@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961717</field>
+<field name="title">Menyasszonytánc (The Wedding Dance)</field>
+<field name="titlesort">Menyasszonytánc (The Wedding Dance)</field>
+<field name="composer">Ferenc Jávori</field>
+<field name="composersort">Jávori, Ferenc</field>
+<field name="year">2006</field>
+<field name="date">March 17, 2006</field>
+<field name="librettist">Tibor Miklós</field>
+<field name="librettistsort">Miklós, Tibor</field>
+<field name="theater">Budapesti Operettszínház </field>
+<field name="city">Budapest</field>
+<field name="country">Hungary</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Menyasszonytánc+(The+Wedding+Dance)+Ferenc+Jávori&amp;search_field=search</field>
+</doc>
+</add>

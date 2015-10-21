@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960718</field>
+<field name="title">Dreaming of Wonderland</field>
+<field name="titlesort">Dreaming of Wonderland</field>
+<field name="composer">Manly Romero</field>
+<field name="composersort">Romero, Manly</field>
+<field name="year">2001</field>
+<field name="date">May 8, 2001</field>
+<field name="librettist">Manly Romero</field>
+<field name="librettistsort">Romero, Manly</field>
+<field name="librettist">[Charles Lutwidge Dodgson] Lewis Carroll</field>
+<field name="librettistsort">Carroll, Lewis [Charles Lutwidge Dodgson]</field>
+<field name="theater">New York City Opera</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dreaming+of+Wonderland+Manly+Romero&amp;search_field=search</field>
+</doc>
+</add>

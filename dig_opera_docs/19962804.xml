@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962804</field>
+<field name="title">The Trial</field>
+<field name="titlesort">Trial</field>
+<field name="composer">Philip Glass</field>
+<field name="composersort">Glass, Philip</field>
+<field name="year">2014</field>
+<field name="date">October 10, 2014</field>
+<field name="librettist">Christopher Hampton</field>
+<field name="librettistsort">Hampton, Christopher</field>
+<field name="librettist">Franz Kafka</field>
+<field name="librettistsort">Kafka, Franz</field>
+<field name="theater">Linbury Studio, Royal Opera House</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Trial+Philip+Glass&amp;search_field=search</field>
+</doc>
+</add>

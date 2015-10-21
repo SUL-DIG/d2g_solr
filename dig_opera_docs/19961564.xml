@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961564</field>
+<field name="title">Linkerhand</field>
+<field name="titlesort">Linkerhand</field>
+<field name="composer">Moritz Eggert</field>
+<field name="composersort">Eggert, Moritz</field>
+<field name="year">2009</field>
+<field name="date">May 10, 2009</field>
+<field name="librettist">Andrea Heuser</field>
+<field name="librettistsort">Heuser, Andrea</field>
+<field name="librettist">Brigitte Reimann</field>
+<field name="librettistsort">Reimann, Brigitte</field>
+<field name="theater">Lausitzhalle</field>
+<field name="city">Hoyerswerda</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Linkerhand+Moritz+Eggert&amp;search_field=search</field>
+</doc>
+</add>

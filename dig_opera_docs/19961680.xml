@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961680</field>
+<field name="title">Mary Shelley</field>
+<field name="titlesort">Mary Shelley</field>
+<field name="composer">Allan Jaffe</field>
+<field name="composersort">Jaffe, Allan</field>
+<field name="year">2002</field>
+<field name="date">May 16, 2002</field>
+<field name="librettist">Deborah Atherton</field>
+<field name="librettistsort">Atherton, Deborah</field>
+<field name="theater">New York Society for Ethical Culture</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mary+Shelley+Allan+Jaffe&amp;search_field=search</field>
+</doc>
+</add>

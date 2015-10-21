@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961980</field>
+<field name="title">Peer Gynt</field>
+<field name="titlesort">Peer Gynt</field>
+<field name="composer">Jüri Reinvere</field>
+<field name="composersort">Reinvere, Jüri</field>
+<field name="year">2014</field>
+<field name="date">December 1, 2014</field>
+<field name="librettist">Jüri Reinvere</field>
+<field name="librettistsort">Reinvere, Jüri</field>
+<field name="librettist">Henrik Ibsen</field>
+<field name="librettistsort">Ibsen, Henrik</field>
+<field name="theater">Den Norske Opera</field>
+<field name="city">Oslo</field>
+<field name="country">Norway</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Peer+Gynt+Jüri+Reinvere&amp;search_field=search</field>
+</doc>
+</add>

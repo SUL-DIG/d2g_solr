@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963061</field>
+<field name="title">Winnie</field>
+<field name="titlesort">Winnie</field>
+<field name="composer">Bongani Ndodana-Breen</field>
+<field name="composersort">Ndodana-Breen, Bongani</field>
+<field name="year">2011</field>
+<field name="date">April 27, 2011</field>
+<field name="librettist">Warren Wilensky</field>
+<field name="librettistsort">Wilensky, Warren</field>
+<field name="librettist">Mfundi Vundla</field>
+<field name="librettistsort">Vundla, Mfundi</field>
+<field name="theater">State Theatre</field>
+<field name="city">Pretoria</field>
+<field name="region">Gauteng</field>
+<field name="country">South Africa</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Winnie+Bongani+Ndodana-Breen&amp;search_field=search</field>
+</doc>
+</add>

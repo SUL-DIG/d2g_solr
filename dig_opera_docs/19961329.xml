@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961329</field>
+<field name="title">Kontrabass</field>
+<field name="titlesort">Kontrabass</field>
+<field name="composer">Gerhard Schedl</field>
+<field name="composersort">Schedl, Gerhard</field>
+<field name="year">1984</field>
+<field name="date">February 8, 1984</field>
+<field name="librettist">Attila Böcs</field>
+<field name="librettistsort">Böcs, Attila</field>
+<field name="librettist">Siegfried Pietschmann</field>
+<field name="librettistsort">Pietschmann, Siegfried</field>
+<field name="theater">Sächsische Staatsoper</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kontrabass+Gerhard+Schedl&amp;search_field=search</field>
+</doc>
+</add>

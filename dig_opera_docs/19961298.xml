@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961298</field>
+<field name="title">Kaupen, mans milais (Kaupen, My Dear)</field>
+<field name="titlesort">Kaupen, mans milais (Kaupen, My Dear)</field>
+<field name="composer">Jānis Lūsēns</field>
+<field name="composersort">Lūsēns, Jānis</field>
+<field name="year">1999</field>
+<field name="librettist">Māra Zālīte</field>
+<field name="librettistsort">Zālīte, Māra</field>
+<field name="theater">Liepajas Teatris</field>
+<field name="city">Liepaja</field>
+<field name="region">Liepaja</field>
+<field name="country">Latvia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kaupen,+mans+milais+(Kaupen,+My+Dear)+Jānis+Lūsēns&amp;search_field=search</field>
+</doc>
+</add>

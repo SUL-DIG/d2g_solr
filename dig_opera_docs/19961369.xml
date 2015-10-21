@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961369</field>
+<field name="title">L'ombra di Banquo, ossia La lezione di potere</field>
+<field name="titlesort">ombra di Banquo, ossia La lezione di potere</field>
+<field name="composer">Paolo Renosto</field>
+<field name="composersort">Renosto, Paolo</field>
+<field name="year">1976</field>
+<field name="date">October 11, 1976</field>
+<field name="librettist">Bruno Cagli</field>
+<field name="librettistsort">Cagli, Bruno</field>
+<field name="theater">Teatro Caio Melisso  </field>
+<field name="city">Spoleto</field>
+<field name="region">Umbria</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=ombra+di+Banquo,+ossia+La+lezione+di+potere+Paolo+Renosto&amp;search_field=search</field>
+</doc>
+</add>

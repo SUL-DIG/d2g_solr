@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962765</field>
+<field name="title">The Sky Scrappers</field>
+<field name="titlesort">Sky Scrappers</field>
+<field name="composer">Mabel Osborne</field>
+<field name="composersort">Osborne, Mabel</field>
+<field name="year">1907</field>
+<field name="librettist">Caroline Wright</field>
+<field name="librettistsort">Wright, Caroline</field>
+<field name="librettist">Sara M. Bourke</field>
+<field name="librettistsort">Bourke, Sara M.</field>
+<field name="theater">Radcliffe College</field>
+<field name="city">Cambridge</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sky+Scrappers+Mabel+Osborne&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962896</field>
+<field name="title">Toufar</field>
+<field name="titlesort">Toufar</field>
+<field name="composer">Aleš Březina</field>
+<field name="composersort">Březina, Aleš</field>
+<field name="year">2013</field>
+<field name="date">September 18, 2013</field>
+<field name="librettist">Aleš Březina</field>
+<field name="librettistsort">Březina, Aleš</field>
+<field name="theater">Divadlo Kolowra</field>
+<field name="city">Prague</field>
+<field name="country">Czech Republic</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Toufar+Aleš+Březina&amp;search_field=search</field>
+</doc>
+</add>

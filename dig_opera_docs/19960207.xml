@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960207</field>
+<field name="title">Arrión</field>
+<field name="titlesort">Arrión</field>
+<field name="composer">José Antonio Montaño</field>
+<field name="composersort">Montaño, José Antonio</field>
+<field name="year">2014</field>
+<field name="date">April 26, 2014</field>
+<field name="theater">Gran Premio Nacional de Canto Coral</field>
+<field name="city">Zaragoza</field>
+<field name="region">Aragon</field>
+<field name="country">Spain</field>
+<field name="genre">Oratorio</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arrión+José+Antonio+Montaño&amp;search_field=search</field>
+</doc>
+</add>

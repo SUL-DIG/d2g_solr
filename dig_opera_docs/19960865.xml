@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960865</field>
+<field name="title">Fatal Desire</field>
+<field name="titlesort">Fatal Desire</field>
+<field name="composer">Shen Nalin</field>
+<field name="composersort">Shen Nalin</field>
+<field name="year">2007</field>
+<field name="date">February 10, 2007</field>
+<field name="librettist">Shen Nalin</field>
+<field name="librettistsort">Shen Nalin</field>
+<field name="librettist">Gu Cheng </field>
+<field name="librettistsort">Gu Cheng </field>
+<field name="theater">Te Whaea</field>
+<field name="city">Wellington</field>
+<field name="country">New Zealand</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fatal+Desire+Shen+Nalin&amp;search_field=search</field>
+</doc>
+</add>

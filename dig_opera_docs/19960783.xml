@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960783</field>
+<field name="title">Electra</field>
+<field name="titlesort">Electra</field>
+<field name="composer">Catherine Kontz</field>
+<field name="composersort">Kontz, Catherine</field>
+<field name="year">2008</field>
+<field name="date">August 7, 2008</field>
+<field name="librettist">Alexia Anastasiadis</field>
+<field name="librettistsort">Anastasiadis, Alexia</field>
+<field name="theater">Riverside Studios</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Electra+Catherine+Kontz&amp;search_field=search</field>
+</doc>
+</add>

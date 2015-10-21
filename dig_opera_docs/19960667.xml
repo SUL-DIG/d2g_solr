@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960667</field>
+<field name="title">Different Fields</field>
+<field name="titlesort">Different Fields</field>
+<field name="composer">Mike Reid</field>
+<field name="composersort">Reid, Mike</field>
+<field name="year">1996</field>
+<field name="date">February 7, 1996</field>
+<field name="librettist">Sarah Schlesinger</field>
+<field name="librettistsort">Schlesinger, Sarah</field>
+<field name="theater">New Victory Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Different+Fields+Mike+Reid&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961273</field>
+<field name="title">Kafka's Chimp</field>
+<field name="titlesort">Kafka's Chimp</field>
+<field name="composer">John Metcalf</field>
+<field name="composersort">Metcalf, John</field>
+<field name="year">1996</field>
+<field name="date">August 1, 1996</field>
+<field name="librettist">Mark Morris</field>
+<field name="librettistsort">Morris, Mark</field>
+<field name="theater">Banff Centre</field>
+<field name="city">Banff</field>
+<field name="region">Alberta</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kafka's+Chimp+John+Metcalf&amp;search_field=search</field>
+</doc>
+</add>

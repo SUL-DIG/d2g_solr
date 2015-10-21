@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961589</field>
+<field name="title">Loss of Eden</field>
+<field name="titlesort">Loss of Eden</field>
+<field name="composer">Cary John Franklin</field>
+<field name="composersort">Franklin, Cary John</field>
+<field name="year">2002</field>
+<field name="date">June 2, 2002</field>
+<field name="librettist">Michael Patrick Albano</field>
+<field name="librettistsort">Albano, Michael Patrick</field>
+<field name="theater">Loretto-Hilton Theater</field>
+<field name="city">St. Louis</field>
+<field name="region">Missouri</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Loss+of+Eden+Cary+John+Franklin&amp;search_field=search</field>
+</doc>
+</add>

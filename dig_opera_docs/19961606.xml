@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961606</field>
+<field name="title">Lupus in fabula</field>
+<field name="titlesort">Lupus in fabula</field>
+<field name="composer">Raffaele Sargenti</field>
+<field name="composersort">Sargenti, Raffaele</field>
+<field name="year">2010</field>
+<field name="date">March 2, 2010</field>
+<field name="librettist">Andrea Avantaggiato</field>
+<field name="librettistsort">Avantaggiato, Andrea</field>
+<field name="theater">Teatro Sociale</field>
+<field name="city">Como</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lupus+in+fabula+Raffaele+Sargenti&amp;search_field=search</field>
+</doc>
+</add>

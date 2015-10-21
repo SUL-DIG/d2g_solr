@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962280</field>
+<field name="title">Si camminava sull'Arno</field>
+<field name="titlesort">Si camminava sull'Arno</field>
+<field name="composer">Marco Simoni</field>
+<field name="composersort">Simoni, Marco</field>
+<field name="year">2014</field>
+<field name="date">April 4, 2014</field>
+<field name="librettist">Fabrizio Altieri</field>
+<field name="librettistsort">Altieri, Fabrizio</field>
+<field name="theater">Teatro Comunale Verdi</field>
+<field name="city">Pisa</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Si+camminava+sull'Arno+Marco+Simoni&amp;search_field=search</field>
+</doc>
+</add>

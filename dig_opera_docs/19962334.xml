@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962334</field>
+<field name="title">Songs at the Well</field>
+<field name="titlesort">Songs at the Well</field>
+<field name="composer">Elena Langer</field>
+<field name="composersort">Langer, Elena</field>
+<field name="year">2009</field>
+<field name="date">May 10, 2009</field>
+<field name="librettist">Elena Langer</field>
+<field name="librettistsort">Langer, Elena</field>
+<field name="theater">Carnegie Hall, Weill Recital Hall</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Songs+at+the+Well+Elena+Langer&amp;search_field=search</field>
+</doc>
+</add>

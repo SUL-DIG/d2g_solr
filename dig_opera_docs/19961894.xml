@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961894</field>
+<field name="title">Ondine</field>
+<field name="titlesort">Ondine</field>
+<field name="composer">Akira Miyoshi</field>
+<field name="composersort">Miyoshi, Akira</field>
+<field name="year">1960</field>
+<field name="librettist">Eriki Kishida</field>
+<field name="librettistsort">Kishida, Eriki</field>
+<field name="librettist">Friedrich de La Motte-Fouqué</field>
+<field name="librettistsort">La Motte-Fouqué, Friedrich de</field>
+<field name="theater">Prix Italia (Nippon Hoso Kyokai Radio)</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ondine+Akira+Miyoshi&amp;search_field=search</field>
+</doc>
+</add>

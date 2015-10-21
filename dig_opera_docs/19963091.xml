@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963091</field>
+<field name="title">Yvonne, princesse de Bourgogne</field>
+<field name="titlesort">Yvonne, princesse de Bourgogne</field>
+<field name="composer">Philippe Boesmans</field>
+<field name="composersort">Boesmans, Philippe</field>
+<field name="year">2009</field>
+<field name="date">January 24, 2009</field>
+<field name="librettist">Luc Bondy</field>
+<field name="librettistsort">Bondy, Luc</field>
+<field name="librettist">Witold Gombrowicz</field>
+<field name="librettistsort">Gombrowicz, Witold</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Yvonne,+princesse+de+Bourgogne+Philippe+Boesmans&amp;search_field=search</field>
+</doc>
+</add>

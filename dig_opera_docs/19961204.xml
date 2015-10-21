@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961204</field>
+<field name="title">Is-slottet</field>
+<field name="titlesort">Is-slottet</field>
+<field name="composer">Magnar Am</field>
+<field name="composersort">Am, Magnar</field>
+<field name="year">2014</field>
+<field name="date">September 16, 2014</field>
+<field name="librettist">Jesper Baestrup Karlsen</field>
+<field name="librettistsort">Karlsen, Jesper Baestrup</field>
+<field name="librettist">Tarjei Vesaas</field>
+<field name="librettistsort">Vesaas, Tarjei</field>
+<field name="theater">Musikhuset</field>
+<field name="city">Esbjerg</field>
+<field name="region">Syddanmark</field>
+<field name="country">Denmark</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Is-slottet+Magnar+Am&amp;search_field=search</field>
+</doc>
+</add>

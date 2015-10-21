@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962154</field>
+<field name="title">Riesen, Zwerge, Menschenfresser</field>
+<field name="titlesort">Riesen, Zwerge, Menschenfresser</field>
+<field name="composer">Gerhard Schedl</field>
+<field name="composersort">Schedl, Gerhard</field>
+<field name="year">2000</field>
+<field name="date">August 2, 2000</field>
+<field name="librettist">Herbert Vogg</field>
+<field name="librettistsort">Vogg, Herbert</field>
+<field name="librettist">Oscar Wilde</field>
+<field name="librettistsort">Wilde, Oscar</field>
+<field name="theater">Kongresszentrum Kärnten</field>
+<field name="city">Villach</field>
+<field name="region">Kärnten</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Riesen,+Zwerge,+Menschenfresser+Gerhard+Schedl&amp;search_field=search</field>
+</doc>
+</add>

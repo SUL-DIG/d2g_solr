@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961164</field>
+<field name="title">Il principe Barbablu</field>
+<field name="titlesort">principe Barbablu</field>
+<field name="composer">Hendrik Pienaar Hofmeyr</field>
+<field name="composersort">Hofmeyr, Hendrik Pienaar</field>
+<field name="year">1986</field>
+<field name="librettist">Hendrik Pienaar Hofmeyr</field>
+<field name="librettistsort">Hofmeyr, Hendrik Pienaar</field>
+<field name="theater">Festa musicale stiana</field>
+<field name="city">Stia</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=principe+Barbablu+Hendrik+Pienaar+Hofmeyr&amp;search_field=search</field>
+</doc>
+</add>

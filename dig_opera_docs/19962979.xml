@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962979</field>
+<field name="title">Vapauden vanki</field>
+<field name="titlesort">Vapauden vanki</field>
+<field name="composer">lkka Kuusisto</field>
+<field name="composersort">Kuusisto, Ilkka</field>
+<field name="year">2007</field>
+<field name="date">July 1, 2007</field>
+<field name="librettist">Markus Nummi</field>
+<field name="librettistsort">Nummi, Markus</field>
+<field name="city">Huittinen</field>
+<field name="region">Satakunta</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vapauden+vanki+lkka+Kuusisto&amp;search_field=search</field>
+</doc>
+</add>

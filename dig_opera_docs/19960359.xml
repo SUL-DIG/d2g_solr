@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960359</field>
+<field name="title">Breakfast Waltzes</field>
+<field name="titlesort">Breakfast Waltzes</field>
+<field name="composer">Harold Blumenfeld</field>
+<field name="composersort">Blumenfeld, Harold</field>
+<field name="year">1997</field>
+<field name="date">July 12, 1997</field>
+<field name="librettist">Charles Kondek</field>
+<field name="librettistsort">Kondek, Charles</field>
+<field name="librettist">Ferenc Molnár</field>
+<field name="librettistsort">Molnár, Ferenc</field>
+<field name="theater">Simpson College</field>
+<field name="city">Indianola</field>
+<field name="region">Iowa</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Breakfast+Waltzes+Harold+Blumenfeld&amp;search_field=search</field>
+</doc>
+</add>

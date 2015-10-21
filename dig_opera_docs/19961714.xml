@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961714</field>
+<field name="title">Memento</field>
+<field name="titlesort">Memento</field>
+<field name="composer">Salavat Akhmadeevich Nizametdinov</field>
+<field name="composersort">Nizametdinov, Salavat Akhmadeevich</field>
+<field name="year">2000</field>
+<field name="theater">Teatr Operï i Baleta</field>
+<field name="city">Perm'</field>
+<field name="region">Perm' Oblast</field>
+<field name="country">Russia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Memento+Salavat+Akhmadeevich+Nizametdinov&amp;search_field=search</field>
+</doc>
+</add>

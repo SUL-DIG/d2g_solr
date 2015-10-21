@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962155</field>
+<field name="title">Rime of the Ancient Mariner</field>
+<field name="titlesort">Rime of the Ancient Mariner</field>
+<field name="composer">Hollis Thoms</field>
+<field name="composersort">Thoms, Hollis</field>
+<field name="year">2010</field>
+<field name="date">February 14, 2010</field>
+<field name="librettist">Samuel Taylor Coleridge</field>
+<field name="librettistsort">Coleridge, Samuel Taylor</field>
+<field name="theater">St. John's College </field>
+<field name="city">Annapolis</field>
+<field name="region">Maryland</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rime+of+the+Ancient+Mariner+Hollis+Thoms&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960343</field>
+<field name="title">Bombi Bitt and Nick Carter</field>
+<field name="titlesort">Bombi Bitt and Nick Carter</field>
+<field name="composer">Jan Sandström</field>
+<field name="composersort">Sandström, Jan</field>
+<field name="year">1994</field>
+<field name="date">March 5, 1994</field>
+<field name="librettist">Lars Sjögren</field>
+<field name="librettistsort">Sjögren, Lars</field>
+<field name="librettist">Fritiof Nilsson</field>
+<field name="librettistsort">Nilsson, Fritiof</field>
+<field name="theater">NorrlandsOperan</field>
+<field name="city">Malmö</field>
+<field name="region">Skåne</field>
+<field name="country">Sweden</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bombi+Bitt+and+Nick+Carter+Jan+Sandström&amp;search_field=search</field>
+</doc>
+</add>

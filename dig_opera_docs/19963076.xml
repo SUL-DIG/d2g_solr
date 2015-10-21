@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963076</field>
+<field name="title">X und Y</field>
+<field name="titlesort">X und Y</field>
+<field name="composer">Sidney Corbett</field>
+<field name="composersort">Corbett, Sidney</field>
+<field name="year">2002</field>
+<field name="date">February 3, 2002</field>
+<field name="librettist">Anja Tuckermann</field>
+<field name="librettistsort">Tuckermann, Anja</field>
+<field name="theater">Eclat Festival</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=X+und+Y+Sidney+Corbett&amp;search_field=search</field>
+</doc>
+</add>

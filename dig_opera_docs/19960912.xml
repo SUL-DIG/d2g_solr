@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960912</field>
+<field name="title">Four Seasons</field>
+<field name="titlesort">Four Seasons</field>
+<field name="composer">Michael Torke</field>
+<field name="composersort">Torke, Michael</field>
+<field name="year">1999</field>
+<field name="date">October 9, 1999</field>
+<field name="librettist">Philip Littell</field>
+<field name="librettistsort">Littell, Philip</field>
+<field name="theater">Avery Fisher Hall</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Four+Seasons+Michael+Torke&amp;search_field=search</field>
+</doc>
+</add>

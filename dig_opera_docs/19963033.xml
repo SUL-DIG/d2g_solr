@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963033</field>
+<field name="title">Waiting for Miss Monroe</field>
+<field name="titlesort">Waiting for Miss Monroe</field>
+<field name="composer">Robin de Raaff</field>
+<field name="composersort">Raaff, Robin de</field>
+<field name="year">2012</field>
+<field name="date">June 9, 2012</field>
+<field name="librettist">Janine Brogt</field>
+<field name="librettistsort">Brogt, Janine</field>
+<field name="theater">Gashouder, Westergasfabriek</field>
+<field name="city">Amsterdam</field>
+<field name="region">Noord Holland</field>
+<field name="country">Netherlands</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Waiting+for+Miss+Monroe+Robin+de+Raaff&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961123</field>
+<field name="title">Hypathia</field>
+<field name="titlesort">Hypathia</field>
+<field name="composer">Roffredo Caetani</field>
+<field name="composersort">Caetani, Roffredo</field>
+<field name="year">1926</field>
+<field name="date">May 23, 1926</field>
+<field name="librettist">Roffredo Caetani</field>
+<field name="librettistsort">Caetani, Roffredo</field>
+<field name="theater">Deutsches Nationaltheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hypathia+Roffredo+Caetani&amp;search_field=search</field>
+</doc>
+</add>

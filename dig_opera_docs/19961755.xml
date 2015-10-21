@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961755</field>
+<field name="title">Monkey: Journey to the West</field>
+<field name="titlesort">Monkey: Journey to the West</field>
+<field name="composer">Damon Albarn</field>
+<field name="composersort">Albarn, Damon</field>
+<field name="year">2007</field>
+<field name="date">June 28, 2007</field>
+<field name="librettist">Chen Shi-zheng</field>
+<field name="librettistsort">Chen Shi-zheng</field>
+<field name="librettist">Wu Cheng'en</field>
+<field name="librettistsort">Wu Cheng'en</field>
+<field name="theater">Palace Theatre</field>
+<field name="city">Manchester</field>
+<field name="region">Greater Manchester</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Monkey:+Journey+to+the+West+Damon+Albarn&amp;search_field=search</field>
+</doc>
+</add>

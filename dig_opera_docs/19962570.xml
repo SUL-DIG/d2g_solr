@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962570</field>
+<field name="title">The Glass Armonica</field>
+<field name="titlesort">Glass Armonica</field>
+<field name="composer">Garry Eister</field>
+<field name="composersort">Eister, Garry</field>
+<field name="year">1997</field>
+<field name="date">August 1, 1997</field>
+<field name="librettist">Garry Eister</field>
+<field name="librettistsort">Eister, Garry</field>
+<field name="theater">Mozart Festival</field>
+<field name="city">San Luis Obispo</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Glass+Armonica+Garry+Eister&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962134</field>
+<field name="title">Rembrandt's Wife</field>
+<field name="titlesort">Rembrandt's Wife</field>
+<field name="composer">Andrew Ford</field>
+<field name="composersort">Ford, Andrew</field>
+<field name="year">2009</field>
+<field name="date">April 18, 2009</field>
+<field name="librettist">Sue Smith</field>
+<field name="librettistsort">Smith, Sue</field>
+<field name="theater">Merlyn Theatre, CUB Malthouse</field>
+<field name="city">Melbourne</field>
+<field name="region">Victoria</field>
+<field name="country">Australia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rembrandt's+Wife+Andrew+Ford&amp;search_field=search</field>
+</doc>
+</add>

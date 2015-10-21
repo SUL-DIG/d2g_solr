@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962451</field>
+<field name="title">The Araboolies of Liberty Street</field>
+<field name="titlesort">Araboolies of Liberty Street</field>
+<field name="composer">Ronald Perera</field>
+<field name="composersort">Perera, Ronald</field>
+<field name="year">2002</field>
+<field name="date">March 3, 2002</field>
+<field name="librettist">Constance Congdon</field>
+<field name="librettistsort">Congdon, Constance</field>
+<field name="librettist">Sam Swope</field>
+<field name="librettistsort">Swope, Sam</field>
+<field name="theater">Manhattan School of Music</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Araboolies+of+Liberty+Street+Ronald+Perera&amp;search_field=search</field>
+</doc>
+</add>

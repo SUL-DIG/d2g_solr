@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962196</field>
+<field name="title">Ruth</field>
+<field name="titlesort">Ruth</field>
+<field name="composer">Philip Hagemann</field>
+<field name="composersort">Hagemann, Philip</field>
+<field name="year">2001</field>
+<field name="date">December 1, 2001</field>
+<field name="librettist">Philip Hagemann</field>
+<field name="librettistsort">Hagemann, Philip</field>
+<field name="theater">Rockland County Choral Society</field>
+<field name="city">Suffern</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ruth+Philip+Hagemann&amp;search_field=search</field>
+</doc>
+</add>

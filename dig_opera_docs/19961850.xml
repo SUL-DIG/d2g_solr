@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961850</field>
+<field name="title">Nosferatu</field>
+<field name="titlesort">Nosferatu</field>
+<field name="composer">Dmitri Kourliandski</field>
+<field name="composersort">Kourliandski, Dmitri</field>
+<field name="year">2014</field>
+<field name="date">June 13, 2014</field>
+<field name="librettist">Dimitris Yalamas</field>
+<field name="librettistsort">Yalamas, Dimitris</field>
+<field name="theater">Akademicheskiy Teatr Operï i Baleta imeni P. I. Chaykovskovo</field>
+<field name="city">Perm'</field>
+<field name="region">Perm' Oblast</field>
+<field name="country">Russia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nosferatu+Dmitri+Kourliandski&amp;search_field=search</field>
+</doc>
+</add>

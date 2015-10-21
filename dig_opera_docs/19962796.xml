@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962796</field>
+<field name="title">The Three Willies</field>
+<field name="titlesort">Three Willies</field>
+<field name="composer">Leroy Jenkins</field>
+<field name="composersort">Jenkins, Leroy</field>
+<field name="year">1996</field>
+<field name="date">November 15, 1996</field>
+<field name="librettist">Homer Jackson</field>
+<field name="librettistsort">Jackson, Homer</field>
+<field name="theater">Painted Bride Arts Center</field>
+<field name="city">Philadelphia</field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Three+Willies+Leroy+Jenkins&amp;search_field=search</field>
+</doc>
+</add>

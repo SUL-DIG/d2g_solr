@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962913</field>
+<field name="title">Tristoeil et Brunehouille</field>
+<field name="titlesort">Tristoeil et Brunehouille</field>
+<field name="composer">Georges Van Parys</field>
+<field name="composersort">Van Parys, Georges</field>
+<field name="year">1950</field>
+<field name="librettist">Jean Marsan</field>
+<field name="librettistsort">Marsan, Jean</field>
+<field name="theater">Théâtre de la Michodière</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tristoeil+et+Brunehouille+Georges+Van+Parys&amp;search_field=search</field>
+</doc>
+</add>

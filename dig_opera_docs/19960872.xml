@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960872</field>
+<field name="title">Faustine</field>
+<field name="titlesort">Faustine</field>
+<field name="composer">Arlene Sierra</field>
+<field name="composersort">Sierra, Arlene</field>
+<field name="year">2011</field>
+<field name="date">November 11, 2011</field>
+<field name="librettist">Lucy Thurber</field>
+<field name="librettistsort">Thurber, Lucy</field>
+<field name="librettist">Emma Tennant</field>
+<field name="librettistsort">Tennant, Emma</field>
+<field name="theater">New York City Opera VOX Festival</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Faustine+Arlene+Sierra&amp;search_field=search</field>
+</doc>
+</add>

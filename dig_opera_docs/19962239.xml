@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962239</field>
+<field name="title">Seed</field>
+<field name="titlesort">Seed</field>
+<field name="composer">Gerald Cohen</field>
+<field name="composersort">Cohen, Gerald</field>
+<field name="year">2011</field>
+<field name="date">June 2, 2011</field>
+<field name="librettist">David Simpatico</field>
+<field name="librettistsort">Simpatico, David</field>
+<field name="theater">Symphony Space</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Seed+Gerald+Cohen&amp;search_field=search</field>
+</doc>
+</add>

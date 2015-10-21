@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960067</field>
+<field name="title">Abends am Fluss</field>
+<field name="titlesort">Abends am Fluss</field>
+<field name="composer">Johannes Harneit</field>
+<field name="composersort">Harneit, Johannes</field>
+<field name="year">2015</field>
+<field name="date">February 6, 2015</field>
+<field name="librettist">Gero Troike</field>
+<field name="librettistsort">Troike, Gero</field>
+<field name="theater">Theater der Stadt</field>
+<field name="city">Heidelberg</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Abends+am+Fluss+Johannes+Harneit&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961188</field>
+<field name="title">Inês morre</field>
+<field name="titlesort">Inês morre</field>
+<field name="composer">Sofia Sousa Rocha</field>
+<field name="composersort">Rocha, Sofia Sousa</field>
+<field name="year">2012</field>
+<field name="date">March 2, 2012</field>
+<field name="librettist">Sofia Sousa Rocha</field>
+<field name="librettistsort">Rocha, Sofia Sousa</field>
+<field name="librettist">Miguel Jesus</field>
+<field name="librettistsort">Jesus, Miguel</field>
+<field name="theater">Teatro de São Carlos</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Inês+morre+Sofia+Sousa+Rocha&amp;search_field=search</field>
+</doc>
+</add>

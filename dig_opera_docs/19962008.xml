@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962008</field>
+<field name="title">Piers the Plowman</field>
+<field name="titlesort">Piers the Plowman</field>
+<field name="composer">Charles Jones</field>
+<field name="composersort">Jones, Charles</field>
+<field name="year">1963</field>
+<field name="librettist">William Langland</field>
+<field name="librettistsort">Langland, William</field>
+<field name="theater">Interracial Chorus of New York</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Piers+the+Plowman+Charles+Jones&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962150</field>
+<field name="title">Rickshaw Boy</field>
+<field name="titlesort">Rickshaw Boy</field>
+<field name="composer">Guo Wenjing</field>
+<field name="composersort">Guo Wenjing</field>
+<field name="year">2014</field>
+<field name="date">June 25, 2014</field>
+<field name="librettist">Xu Ying</field>
+<field name="librettistsort">Xu Ying</field>
+<field name="librettist">Lao She</field>
+<field name="librettistsort">Lao She</field>
+<field name="theater">National Centre for the performing Art</field>
+<field name="city">Beijing</field>
+<field name="country">China</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rickshaw+Boy+Guo+Wenjing&amp;search_field=search</field>
+</doc>
+</add>

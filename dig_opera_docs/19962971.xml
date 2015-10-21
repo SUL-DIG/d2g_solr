@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962971</field>
+<field name="title">Valentina</field>
+<field name="titlesort">Valentina</field>
+<field name="composer">Artūrs Maskats</field>
+<field name="composersort">Maskats, Artūrs</field>
+<field name="year">2014</field>
+<field name="date">December 5, 2014</field>
+<field name="librettist">Liāna Langa</field>
+<field name="librettistsort">Langa, Liāna</field>
+<field name="theater">Latviyskiy Teatr Operï i Baleta</field>
+<field name="city">Riga</field>
+<field name="country">Latvia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Valentina+Artūrs+Maskats&amp;search_field=search</field>
+</doc>
+</add>

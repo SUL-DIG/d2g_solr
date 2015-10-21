@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961824</field>
+<field name="title">Nico. Sphinx aus Eis</field>
+<field name="titlesort">Nico. Sphinx aus Eis</field>
+<field name="composer">Ari Benjamin Meyers</field>
+<field name="composersort">Meyers, Ari Benjamin</field>
+<field name="year">2005</field>
+<field name="date">June 3, 2005</field>
+<field name="librettist">Werner Fritsch</field>
+<field name="librettistsort">Fritsch, Werner</field>
+<field name="librettist">Nina Gühlstorff</field>
+<field name="librettistsort">Gühlstorff, Nina</field>
+<field name="theater">Sächsische Staatsoper</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nico.+Sphinx+aus+Eis+Ari+Benjamin+Meyers&amp;search_field=search</field>
+</doc>
+</add>

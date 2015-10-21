@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961080</field>
+<field name="title">Heute Abend Boris Godunow</field>
+<field name="titlesort">Heute Abend Boris Godunow</field>
+<field name="composer">Karmella Tsepkolenko</field>
+<field name="composersort">Tsepkolenko, Karmella</field>
+<field name="year">2011</field>
+<field name="date">November 4, 2011</field>
+<field name="librettist">Kristine Tornquist</field>
+<field name="librettistsort">Tornquist, Kristine</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Heute+Abend+Boris+Godunow+Karmella+Tsepkolenko&amp;search_field=search</field>
+</doc>
+</add>

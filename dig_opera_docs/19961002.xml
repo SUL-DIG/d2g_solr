@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961002</field>
+<field name="title">God's Liar</field>
+<field name="titlesort">God's Liar</field>
+<field name="composer">John Casken</field>
+<field name="composersort">Casken, John</field>
+<field name="year">2001</field>
+<field name="date">July 6, 2001</field>
+<field name="librettist">John Casken</field>
+<field name="librettistsort">Casken, John</field>
+<field name="librettist">Emma Warner</field>
+<field name="librettistsort">Warner, Emma</field>
+<field name="theater">Almeida Theatre King's Cross</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=God's+Liar+John+Casken&amp;search_field=search</field>
+</doc>
+</add>

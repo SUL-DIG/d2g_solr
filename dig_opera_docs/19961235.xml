@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961235</field>
+<field name="title">Jocasta</field>
+<field name="titlesort">Jocasta</field>
+<field name="composer">Ruth Schonthal</field>
+<field name="composersort">Schonthal, Ruth</field>
+<field name="year">1998</field>
+<field name="date">June 9, 1998</field>
+<field name="librettist">Hélène Cicoux</field>
+<field name="librettistsort">Cicoux, Hélène</field>
+<field name="librettist">Christiane Makward</field>
+<field name="librettistsort">Makward, Christiane</field>
+<field name="theater">Cornelia Connelly Center for Education</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jocasta+Ruth+Schonthal&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961584</field>
+<field name="title">Lord Byron</field>
+<field name="titlesort">Lord Byron</field>
+<field name="composer">Agustí Charles</field>
+<field name="composersort">Charles, Agustí</field>
+<field name="year">2011</field>
+<field name="date">March 12, 2011</field>
+<field name="librettist">Marc Rosich</field>
+<field name="librettistsort">Rosich, Marc</field>
+<field name="theater">Staatstheater</field>
+<field name="city">Darmstadt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lord+Byron+Agustí+Charles&amp;search_field=search</field>
+</doc>
+</add>

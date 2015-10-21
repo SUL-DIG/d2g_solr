@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961280</field>
+<field name="title">Kannst du pfeifen, Johanna?</field>
+<field name="titlesort">Kannst du pfeifen, Johanna?</field>
+<field name="composer">Gordon Kampe</field>
+<field name="composersort">Kampe, Gordon</field>
+<field name="year">2013</field>
+<field name="date">November 30, 2013</field>
+<field name="librettist">Dorothea Hartmann</field>
+<field name="librettistsort">Hartmann, Dorothea</field>
+<field name="librettist">Ulf Stark</field>
+<field name="librettistsort">Stark, Ulf</field>
+<field name="theater">Deutsche Oper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kannst+du+pfeifen,+Johanna?+Gordon+Kampe&amp;search_field=search</field>
+</doc>
+</add>

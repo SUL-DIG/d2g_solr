@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960790</field>
+<field name="title">Eloise</field>
+<field name="titlesort">Eloise</field>
+<field name="composer">Karl Jenkins</field>
+<field name="composersort">Jenkins, Karl</field>
+<field name="year">1997</field>
+<field name="date">December 6, 1997</field>
+<field name="librettist">Carol Barratt</field>
+<field name="librettistsort">Barratt, Carol</field>
+<field name="theater">Saint James Norland Church</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eloise+Karl+Jenkins&amp;search_field=search</field>
+</doc>
+</add>

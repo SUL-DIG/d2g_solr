@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960096</field>
+<field name="title">Akas Kas</field>
+<field name="titlesort">Akas Kas</field>
+<field name="composer">Nilo Velarde </field>
+<field name="composersort">Velarde, Nilo</field>
+<field name="year">2012</field>
+<field name="date">July 13, 2012</field>
+<field name="librettist">Celeste Viale</field>
+<field name="librettistsort">Viale, Celeste</field>
+<field name="theater">Gran Teatro Nacional</field>
+<field name="city">Lima</field>
+<field name="country">Peru</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Akas+Kas+Nilo+Velarde+&amp;search_field=search</field>
+</doc>
+</add>

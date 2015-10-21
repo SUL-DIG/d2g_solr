@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961434</field>
+<field name="title">La Passion selon Marie</field>
+<field name="titlesort">Passion selon Marie</field>
+<field name="composer">Zad Moultaka</field>
+<field name="composersort">Moultaka, Zad</field>
+<field name="year">2011</field>
+<field name="date">September 23, 2011</field>
+<field name="theater">Abbaye Notre-Dame d'Ambronay</field>
+<field name="city">Ambronay</field>
+<field name="region">Rhône-Alpes</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Passion+selon+Marie+Zad+Moultaka&amp;search_field=search</field>
+</doc>
+</add>

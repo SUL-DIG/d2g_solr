@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960987</field>
+<field name="title">Ghost Patrol</field>
+<field name="titlesort">Ghost Patrol</field>
+<field name="composer">Stuart MacRae</field>
+<field name="composersort">MacRae, Stuart</field>
+<field name="year">2012</field>
+<field name="date">August 30, 2012</field>
+<field name="librettist">Louise Welsh</field>
+<field name="librettistsort">Welsh, Louise</field>
+<field name="theater">Traverse Theatre</field>
+<field name="city">Edinburgh</field>
+<field name="region">Scotland</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ghost+Patrol+Stuart+MacRae&amp;search_field=search</field>
+</doc>
+</add>

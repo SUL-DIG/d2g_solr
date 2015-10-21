@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962767</field>
+<field name="title">The Smiling Carcass</field>
+<field name="titlesort">Smiling Carcass</field>
+<field name="composer">Andrea Molino</field>
+<field name="composersort">Molino, Andrea</field>
+<field name="year">1998</field>
+<field name="date">September 30, 1998</field>
+<field name="librettist">Berthold Schneider</field>
+<field name="librettistsort">Schneider, Berthold</field>
+<field name="librettist">Oliviero Toscani</field>
+<field name="librettistsort">Toscani, Oliviero</field>
+<field name="theater">Festspielhaus Hellerau</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Smiling+Carcass+Andrea+Molino&amp;search_field=search</field>
+</doc>
+</add>

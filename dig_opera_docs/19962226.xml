@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962226</field>
+<field name="title">Schillers Räuber</field>
+<field name="titlesort">Schillers Räuber</field>
+<field name="composer">Ludger Vollmer</field>
+<field name="composersort">Vollmer, Ludger</field>
+<field name="year">2009</field>
+<field name="date">June 8, 2009</field>
+<field name="librettist">Ludger Vollmer</field>
+<field name="librettistsort">Vollmer, Ludger</field>
+<field name="librettist">Philip Kapala</field>
+<field name="librettistsort">Kapala, Philip</field>
+<field name="theater">Domenik Beykirch Theaterhaus</field>
+<field name="city">Jena</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schillers+Räuber+Ludger+Vollmer&amp;search_field=search</field>
+</doc>
+</add>

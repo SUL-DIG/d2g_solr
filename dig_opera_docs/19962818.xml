@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962818</field>
+<field name="title">The Urchin and the Crawfish</field>
+<field name="titlesort">Urchin and the Crawfish</field>
+<field name="composer">Emily S. Coolidge</field>
+<field name="composersort">Coolidge, Emily S.</field>
+<field name="year">1908</field>
+<field name="date">March 20, 1908</field>
+<field name="librettist">Elizabeth B. Nichols</field>
+<field name="librettistsort">Nichols, Elizabeth B.</field>
+<field name="librettist">Mildred Selfridge</field>
+<field name="librettistsort">Selfridge, Mildred</field>
+<field name="theater">Radcliffe College</field>
+<field name="city">Cambridge</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Urchin+and+the+Crawfish+Emily+S.+Coolidge&amp;search_field=search</field>
+</doc>
+</add>

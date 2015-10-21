@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961988</field>
+<field name="title">Persona</field>
+<field name="titlesort">Persona</field>
+<field name="composer">Michael Langemann</field>
+<field name="composersort">Langemann, Michael</field>
+<field name="year">2015</field>
+<field name="date">July 4, 2015</field>
+<field name="librettist">Michael Langemann</field>
+<field name="librettistsort">Langemann, Michael</field>
+<field name="librettist">Kerstin Schüssler-Bach</field>
+<field name="librettistsort">Schüssler-Bach, Kerstin</field>
+<field name="theater">Opera Stabile, Hamburgisches Staatsoper</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Persona+Michael+Langemann&amp;search_field=search</field>
+</doc>
+</add>

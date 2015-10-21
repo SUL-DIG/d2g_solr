@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960785</field>
+<field name="title">Elijah’s Kite</field>
+<field name="titlesort">Elijah’s Kite</field>
+<field name="composer">James Rolfe</field>
+<field name="composersort">Rolfe, James</field>
+<field name="year">2006</field>
+<field name="date">April 9, 2006</field>
+<field name="librettist">Camyar Chai</field>
+<field name="librettistsort">Chai, Camyar</field>
+<field name="theater">Manhattan School of Music</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elijah’s+Kite+James+Rolfe&amp;search_field=search</field>
+</doc>
+</add>

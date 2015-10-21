@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963094</field>
+<field name="title">Zagmuk</field>
+<field name="titlesort">Zagmuk</field>
+<field name="composer">Aleksandr Abramovich Krein</field>
+<field name="composersort">Krein, Aleksandr Abramovich</field>
+<field name="year">1930</field>
+<field name="librettist">Anatolii Glebov</field>
+<field name="librettistsort">Glebov, Anatolii</field>
+<field name="theater">Bol'shoy Teatr</field>
+<field name="city">Moscow</field>
+<field name="country">Russia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zagmuk+Aleksandr+Abramovich+Krein&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962514</field>
+<field name="title">The Doctor of Myddfai</field>
+<field name="titlesort">Doctor of Myddfai</field>
+<field name="composer">Peter Maxwell Davies</field>
+<field name="composersort">Davies, Peter Maxwell</field>
+<field name="year">1996</field>
+<field name="date">July 10, 1996</field>
+<field name="librettist">David Pountney</field>
+<field name="librettistsort">Pountney, David</field>
+<field name="theater">North Wales Theatre</field>
+<field name="city">Llandudno</field>
+<field name="region">Wales</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Doctor+of+Myddfai+Peter+Maxwell+Davies&amp;search_field=search</field>
+</doc>
+</add>

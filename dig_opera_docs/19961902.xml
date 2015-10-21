@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961902</field>
+<field name="title">Onti-Ora</field>
+<field name="titlesort">Onti-Ora</field>
+<field name="composer">Gustav Hinrichs</field>
+<field name="composersort">Hinrichs, Gustav</field>
+<field name="year">1890</field>
+<field name="date">28 Jul 1890</field>
+<field name="librettist">Mary Bertha McKenzie Toland</field>
+<field name="librettistsort">Toland, Mary Bertha McKenzie</field>
+<field name="theater">Grand Opera House</field>
+<field name="city">Philadelphia</field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Onti-Ora+Gustav+Hinrichs&amp;search_field=search</field>
+</doc>
+</add>

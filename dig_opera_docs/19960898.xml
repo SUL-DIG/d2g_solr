@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960898</field>
+<field name="title">Fleur et le miroir magique</field>
+<field name="titlesort">Fleur et le miroir magique</field>
+<field name="composer">Nicolas Bacri</field>
+<field name="composersort">Bacri, Nicolas</field>
+<field name="year">2012</field>
+<field name="date">May 16, 2012</field>
+<field name="librettist">Charles Juliet</field>
+<field name="librettistsort">Juliet, Charles</field>
+<field name="theater">Salle Jacques Brel</field>
+<field name="city">Lille</field>
+<field name="region">Nord</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fleur+et+le+miroir+magique+Nicolas+Bacri&amp;search_field=search</field>
+</doc>
+</add>

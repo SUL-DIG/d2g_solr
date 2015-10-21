@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960774</field>
+<field name="title">EL palacio imaginado</field>
+<field name="titlesort">palacio imaginado</field>
+<field name="composer">Hilda Paredes</field>
+<field name="composersort">Paredes, Hilda</field>
+<field name="year">2003</field>
+<field name="date">June 12, 2003</field>
+<field name="librettist">Adriana Diaz-Enciso</field>
+<field name="librettistsort">Diaz-Enciso, Adriana</field>
+<field name="librettist">Isabel Allende</field>
+<field name="librettistsort">Allende, Isabel</field>
+<field name="theater">Festival of Arts and Ideas</field>
+<field name="city">New Haven</field>
+<field name="region">Connecticut</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=palacio+imaginado+Hilda+Paredes&amp;search_field=search</field>
+</doc>
+</add>

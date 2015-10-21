@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960377</field>
+<field name="title">Butterfly</field>
+<field name="titlesort">Butterfly</field>
+<field name="composer">Tõnu Kõrvits</field>
+<field name="composersort">Kõrvits, Tõnu</field>
+<field name="year">2013</field>
+<field name="date">September 13, 2013</field>
+<field name="librettist">Maria Lee Liivak</field>
+<field name="librettistsort">Liivak, Maria Lee</field>
+<field name="librettist">Lauri Kaldoja</field>
+<field name="librettistsort">Kaldoja, Lauri</field>
+<field name="theater">Teatr Estoniya</field>
+<field name="city">Tallinn</field>
+<field name="region">Harju</field>
+<field name="country">Estonia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Butterfly+Tõnu+Kõrvits&amp;search_field=search</field>
+</doc>
+</add>

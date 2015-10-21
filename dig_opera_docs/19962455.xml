@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962455</field>
+<field name="title">The Bee Opera</field>
+<field name="titlesort">Bee Opera</field>
+<field name="composer">Sorrel Hays</field>
+<field name="composersort">Hays, Sorrel</field>
+<field name="year">2003</field>
+<field name="date">October 1, 2003</field>
+<field name="librettist">Sorrel Hays</field>
+<field name="librettistsort">Hays, Sorrel</field>
+<field name="librettist">Denise Duhamel</field>
+<field name="librettistsort">Duhamel, Denise</field>
+<field name="theater">Medicine Show Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bee+Opera+Sorrel+Hays&amp;search_field=search</field>
+</doc>
+</add>

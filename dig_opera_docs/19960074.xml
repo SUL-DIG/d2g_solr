@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960074</field>
+<field name="title">Adorjánok és Jenők</field>
+<field name="titlesort">Adorjánok és Jenők</field>
+<field name="composer">László Sáry</field>
+<field name="composersort">Sáry, László</field>
+<field name="year">1995</field>
+<field name="librettist">László Sáry</field>
+<field name="librettistsort">Sáry, László</field>
+<field name="librettist">Miklós Jósika</field>
+<field name="librettistsort">Jósika, Miklós</field>
+<field name="theater">Hungarian Television (Magyar Televízió)</field>
+<field name="city">Budapest</field>
+<field name="country">Hungary</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adorjánok+és+Jenők+László+Sáry&amp;search_field=search</field>
+</doc>
+</add>

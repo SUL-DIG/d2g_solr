@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962452</field>
+<field name="title">The Aspern Papers</field>
+<field name="titlesort">Aspern Papers</field>
+<field name="composer">Michael Hurd</field>
+<field name="composersort">Hurd, Michael</field>
+<field name="year">1995</field>
+<field name="date">October 14, 1995</field>
+<field name="librettist">Michael Hurd</field>
+<field name="librettistsort">Hurd, Michael</field>
+<field name="librettist">Henry James</field>
+<field name="librettistsort">James, Henry</field>
+<field name="theater">Spring Festival</field>
+<field name="city">Port Fairy</field>
+<field name="region">Victoria</field>
+<field name="country">Australia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aspern+Papers+Michael+Hurd&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962941</field>
+<field name="title">Ubu</field>
+<field name="titlesort">Ubu</field>
+<field name="composer">Andrew Toovey</field>
+<field name="composersort">Toovey, Andrew</field>
+<field name="year">1992</field>
+<field name="date">September 5, 1992</field>
+<field name="librettist">Michael Finnissy</field>
+<field name="librettistsort">Finnissy, Michael</field>
+<field name="librettist">Andrew Toovey</field>
+<field name="librettistsort">Toovey, Andrew</field>
+<field name="theater">St. David's Hall</field>
+<field name="city">Cardiff</field>
+<field name="region">Wales</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ubu+Andrew+Toovey&amp;search_field=search</field>
+</doc>
+</add>

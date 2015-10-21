@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962725</field>
+<field name="title">The Sacrifice</field>
+<field name="titlesort">Sacrifice</field>
+<field name="composer">James MacMillan</field>
+<field name="composersort">MacMillan, James</field>
+<field name="year">2007</field>
+<field name="date">September 22, 2007</field>
+<field name="librettist">Michael Symmons Roberts</field>
+<field name="librettistsort">Roberts, Michael Symmons</field>
+<field name="theater">Millennium Centre</field>
+<field name="city">Cardiff</field>
+<field name="region">Wales</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sacrifice+James+MacMillan&amp;search_field=search</field>
+</doc>
+</add>

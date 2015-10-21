@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962632</field>
+<field name="title">The Little Thieves of Bethlehem</field>
+<field name="titlesort">Little Thieves of Bethlehem</field>
+<field name="composer">Paul Stuart</field>
+<field name="composersort">Stuart, Paul</field>
+<field name="year">1997</field>
+<field name="date">December 7, 1997</field>
+<field name="librettist">Sally M. Gall</field>
+<field name="librettistsort">Gall, Sally M.</field>
+<field name="theater">Third Presbyterian Church</field>
+<field name="city">Rochester</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Little+Thieves+of+Bethlehem+Paul+Stuart&amp;search_field=search</field>
+</doc>
+</add>

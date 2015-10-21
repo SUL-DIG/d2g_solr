@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960189</field>
+<field name="title">Antiphony</field>
+<field name="titlesort">Antiphony</field>
+<field name="composer">Graham Preskett</field>
+<field name="composersort">Preskett, Graham</field>
+<field name="year">1994</field>
+<field name="librettist">John Kane</field>
+<field name="librettistsort">Kane, John</field>
+<field name="theater">W11 Opera</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Antiphony+Graham+Preskett&amp;search_field=search</field>
+</doc>
+</add>

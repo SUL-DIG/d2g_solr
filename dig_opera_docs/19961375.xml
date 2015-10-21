@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961375</field>
+<field name="title">L’eau qui danse, la pomme qui chante et l’oiseau qui dit la vérité</field>
+<field name="titlesort">eau qui danse, la pomme qui chante et l’oiseau qui dit la vérité</field>
+<field name="composer">Gilles Tremblay</field>
+<field name="composersort">Tremblay, Gilles</field>
+<field name="year">2009</field>
+<field name="date">November 19, 2009</field>
+<field name="librettist">Pierre Morency</field>
+<field name="librettistsort">Morency, Pierre</field>
+<field name="theater">Monument-National</field>
+<field name="city">Montreal</field>
+<field name="region">Quebec</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=eau+qui+danse,+la+pomme+qui+chante+et+l’oiseau+qui+dit+la+vérité+Gilles+Tremblay&amp;search_field=search</field>
+</doc>
+</add>

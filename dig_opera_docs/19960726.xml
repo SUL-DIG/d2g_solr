@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960726</field>
+<field name="title">Dry Smoke</field>
+<field name="titlesort">Dry Smoke</field>
+<field name="composer">Victor Kioulaphides</field>
+<field name="composersort">Kioulaphides, Victor</field>
+<field name="year">1998</field>
+<field name="librettist">Adele Edling Shank</field>
+<field name="librettistsort">Shank, Adele Edling</field>
+<field name="theater">Merkin Concert Hall</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dry+Smoke+Victor+Kioulaphides&amp;search_field=search</field>
+</doc>
+</add>

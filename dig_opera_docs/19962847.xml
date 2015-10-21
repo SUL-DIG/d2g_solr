@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962847</field>
+<field name="title">The Wolf by the Ears</field>
+<field name="titlesort">Wolf by the Ears</field>
+<field name="composer">Dana Wilson</field>
+<field name="composersort">Wilson, Dana </field>
+<field name="year">2012</field>
+<field name="date">May 2, 2012</field>
+<field name="librettist">J. Robert Lennon</field>
+<field name="librettistsort">Lennon, J. Robert  </field>
+<field name="theater">Ithaca College</field>
+<field name="city">Ithaca</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wolf+by+the+Ears+Dana+Wilson&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960725</field>
+<field name="title">Dronning Boudicca (Queen Boudica)</field>
+<field name="titlesort">Dronning Boudicca (Queen Boudica)</field>
+<field name="composer">John Frandsen</field>
+<field name="composersort">Frandsen, John</field>
+<field name="year">1997</field>
+<field name="date">April 5, 1997</field>
+<field name="librettist">Michael Hall</field>
+<field name="librettistsort">Hall, Michael</field>
+<field name="theater">Den Anden Opera</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dronning+Boudicca+(Queen+Boudica)+John+Frandsen&amp;search_field=search</field>
+</doc>
+</add>

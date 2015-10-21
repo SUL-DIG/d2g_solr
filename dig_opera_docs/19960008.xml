@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960008</field>
+<field name="title">3 Franks</field>
+<field name="titlesort">3 Franks</field>
+<field name="composer">David Griffiths</field>
+<field name="composersort">Griffiths, David</field>
+<field name="year">2005</field>
+<field name="date">August 18, 2005</field>
+<field name="librettist">Frank Sargeson</field>
+<field name="librettistsort">Sargeson, Frank</field>
+<field name="theater">Waikato University</field>
+<field name="city">Hamilton</field>
+<field name="country">New Zealand</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=3+Franks+David+Griffiths&amp;search_field=search</field>
+</doc>
+</add>

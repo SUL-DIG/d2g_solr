@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961254</field>
+<field name="title">Juan Salvador Gaviota</field>
+<field name="titlesort">Juan Salvador Gaviota</field>
+<field name="composer">Andrés Saborío Bejarano</field>
+<field name="composersort">Saborío Bejarano, Andrés</field>
+<field name="year">2002</field>
+<field name="librettist">Ricardo Dobles</field>
+<field name="librettistsort">Dobles, Ricardo</field>
+<field name="librettist">Richard Bach</field>
+<field name="librettistsort">Bach, Richard</field>
+<field name="theater">Teatro Arnoldo Herrera</field>
+<field name="city">Castella</field>
+<field name="country">Costa Rica</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Juan+Salvador+Gaviota+Andrés+Saborío+Bejarano&amp;search_field=search</field>
+</doc>
+</add>

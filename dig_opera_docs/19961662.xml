@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961662</field>
+<field name="title">Marie Antoinette</field>
+<field name="titlesort">Marie Antoinette</field>
+<field name="composer">Daniel Börtz</field>
+<field name="composersort">Börtz, Daniel</field>
+<field name="year">1998</field>
+<field name="date">January 21, 1998</field>
+<field name="librettist">Claes Fellbom</field>
+<field name="librettistsort">Fellbom, Claes</field>
+<field name="theater">Folkoperan</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marie+Antoinette+Daniel+Börtz&amp;search_field=search</field>
+</doc>
+</add>

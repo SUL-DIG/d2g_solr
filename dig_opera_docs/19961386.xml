@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961386</field>
+<field name="title">La Celestina</field>
+<field name="titlesort">Celestina</field>
+<field name="composer">Joaquín Nin-Culmell</field>
+<field name="composersort">Nin-Culmell, Joaquín</field>
+<field name="year">2008</field>
+<field name="date">September 19, 2008</field>
+<field name="librettist">Joaquín Nin-Culmell</field>
+<field name="librettistsort">Nin-Culmell, Joaquín</field>
+<field name="librettist">Fernando de Rojas</field>
+<field name="librettistsort">Rojas, Fernando de</field>
+<field name="theater">Teatro de la Zarzuela</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="genre">Opera</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Celestina+Joaquín+Nin-Culmell&amp;search_field=search</field>
+</doc>
+</add>

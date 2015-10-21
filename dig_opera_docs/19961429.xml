@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961429</field>
+<field name="title">La nuit de Gutenberg</field>
+<field name="titlesort">nuit de Gutenberg</field>
+<field name="composer">Philippe Manoury</field>
+<field name="composersort">Manoury, Philippe</field>
+<field name="year">2011</field>
+<field name="date">September 24, 2011</field>
+<field name="librettist">Jean-Pierre Milovanoff</field>
+<field name="librettistsort">Milovanoff, Jean-Pierre</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Strasbourg</field>
+<field name="region">Bas-Rhin</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=nuit+de+Gutenberg+Philippe+Manoury&amp;search_field=search</field>
+</doc>
+</add>

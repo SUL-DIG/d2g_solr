@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961651</field>
+<field name="title">Manuscrit Trouvé à Saragosse</field>
+<field name="titlesort">Manuscrit Trouvé à Saragosse</field>
+<field name="composer">José Evangelista</field>
+<field name="composersort">Evangelista, José</field>
+<field name="year">2001</field>
+<field name="date">November 22, 2001</field>
+<field name="librettist">Alexis Nouss</field>
+<field name="librettistsort">Nouss, Alexis</field>
+<field name="librettist">Jan Potocki</field>
+<field name="librettistsort">Potocki, Jan</field>
+<field name="theater">Université du Québec à Montréal</field>
+<field name="city">Montreal</field>
+<field name="region">Quebec</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Manuscrit+Trouvé+à+Saragosse+José+Evangelista&amp;search_field=search</field>
+</doc>
+</add>

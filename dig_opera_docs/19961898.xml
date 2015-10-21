@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961898</field>
+<field name="title">One Lump or Two?</field>
+<field name="titlesort">One Lump or Two?</field>
+<field name="composer">Glenn James</field>
+<field name="composersort">James, Glenn</field>
+<field name="year">2009</field>
+<field name="date">March 27, 2009</field>
+<field name="librettist">Sandy Pool</field>
+<field name="librettistsort">Pool, Sandy</field>
+<field name="theater">Harbourfront Centre</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=One+Lump+or+Two?+Glenn+James&amp;search_field=search</field>
+</doc>
+</add>

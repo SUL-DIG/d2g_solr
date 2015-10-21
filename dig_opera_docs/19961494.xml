@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961494</field>
+<field name="title">Le rossignol et l'empereur</field>
+<field name="titlesort">rossignol et l'empereur</field>
+<field name="composer">Raymond Gallois-Montbrun</field>
+<field name="composersort">Gallois-Montbrun, Raymond</field>
+<field name="year">1959</field>
+<field name="librettist">Philippe Soupault</field>
+<field name="librettistsort">Soupault, Philippe</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistsort">Andersen, Hans Christian</field>
+<field name="theater">RTF Radio (Radio-Télévision Française)</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=rossignol+et+l'empereur+Raymond+Gallois-Montbrun&amp;search_field=search</field>
+</doc>
+</add>

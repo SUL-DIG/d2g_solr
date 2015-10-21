@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960224</field>
+<field name="title">Atchafalaya</field>
+<field name="titlesort">Atchafalaya</field>
+<field name="composer">Isabelle Aboulker</field>
+<field name="composersort">Aboulker, Isabelle</field>
+<field name="year">1996</field>
+<field name="date">June 1, 1996</field>
+<field name="librettist">Rémi Laureillard</field>
+<field name="librettistsort">Laureillard, Rémi</field>
+<field name="theater">Festival d'opéra</field>
+<field name="city">La Chapelle-Saint-Mesmin</field>
+<field name="region">Loiret</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Atchafalaya+Isabelle+Aboulker&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961130</field>
+<field name="title">I falsari (Les faux-monnayeurs)</field>
+<field name="titlesort">falsari (Les faux-monnayeurs)</field>
+<field name="composer">Pierre Thilloy</field>
+<field name="composersort">Thilloy, Pierre</field>
+<field name="year">2014</field>
+<field name="date">July 24, 2014</field>
+<field name="librettist">Jean Pierre Prévost</field>
+<field name="librettistsort">Prévost, Jean Pierre</field>
+<field name="librettist">André Gide</field>
+<field name="librettistsort">Gide, André</field>
+<field name="theater">Teatro Poliziano</field>
+<field name="city">Montepulciano</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=falsari+(Les+faux-monnayeurs)+Pierre+Thilloy&amp;search_field=search</field>
+</doc>
+</add>

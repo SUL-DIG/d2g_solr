@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960740</field>
+<field name="title">Earthrise</field>
+<field name="titlesort">Earthrise</field>
+<field name="composer">Lewis Spratlan</field>
+<field name="composersort">Spratlan, Lewis</field>
+<field name="year">2004</field>
+<field name="librettist">Constance Congdon</field>
+<field name="librettistsort">Congdon, Constance</field>
+<field name="theater">Opera Workshop</field>
+<field name="city">San Francisco</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Earthrise+Lewis+Spratlan&amp;search_field=search</field>
+</doc>
+</add>

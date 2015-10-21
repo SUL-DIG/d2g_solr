@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961916</field>
+<field name="title">Orfeo 14</field>
+<field name="titlesort">Orfeo 14</field>
+<field name="composer">Helmut Oehring</field>
+<field name="composersort">Oehring, Helmut</field>
+<field name="year">2014</field>
+<field name="date">June 18, 2014</field>
+<field name="librettist">Stefanie Wördemann</field>
+<field name="librettistsort">Wördemann, Stefanie</field>
+<field name="theater">Opéra</field>
+<field name="city">Lille</field>
+<field name="region">Nord</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orfeo+14+Helmut+Oehring&amp;search_field=search</field>
+</doc>
+</add>

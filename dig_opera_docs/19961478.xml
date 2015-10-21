@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961478</field>
+<field name="title">Le diable amoureux</field>
+<field name="titlesort">diable amoureux</field>
+<field name="composer">Robert Xavier Rodriguez</field>
+<field name="composersort">Rodriguez, Robert Xavier</field>
+<field name="year">1982</field>
+<field name="librettist">Frans Boerlage</field>
+<field name="librettistsort">Boerlage, Frans</field>
+<field name="librettist">Jacques Cazotte</field>
+<field name="librettistsort">Cazotte, Jacques</field>
+<field name="theater">Midwestern State University </field>
+<field name="city">Wichita Falls</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=diable+amoureux+Robert+Xavier+Rodriguez&amp;search_field=search</field>
+</doc>
+</add>

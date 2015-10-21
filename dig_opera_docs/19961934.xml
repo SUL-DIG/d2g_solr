@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961934</field>
+<field name="title">Our American Cousin</field>
+<field name="titlesort">Our American Cousin</field>
+<field name="composer">Eric Sawyer</field>
+<field name="composersort">Sawyer, Eric</field>
+<field name="year">2008</field>
+<field name="date">June 20, 2008</field>
+<field name="librettist">John Shoptaw</field>
+<field name="librettistsort">Shoptaw, John</field>
+<field name="theater">Academy of Music </field>
+<field name="city">Northampton</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Our+American+Cousin+Eric+Sawyer&amp;search_field=search</field>
+</doc>
+</add>

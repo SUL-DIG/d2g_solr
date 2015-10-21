@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961049</field>
+<field name="title">Has It Happened Yet?</field>
+<field name="titlesort">Has It Happened Yet?</field>
+<field name="composer">Bill Bankes-Jones</field>
+<field name="composersort">Bankes-Jones, Bill</field>
+<field name="year">2002</field>
+<field name="date">February 18, 2002</field>
+<field name="librettist">David Bruce</field>
+<field name="librettistsort">Bruce, David</field>
+<field name="theater">Bridewell Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Has+It+Happened+Yet?+Bill+Bankes-Jones&amp;search_field=search</field>
+</doc>
+</add>

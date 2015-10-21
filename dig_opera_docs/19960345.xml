@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960345</field>
+<field name="title">Bonhoeffer</field>
+<field name="titlesort">Bonhoeffer</field>
+<field name="composer">Ann K. Gebuhr</field>
+<field name="composersort">Gebuhr, Ann K.</field>
+<field name="year">2000</field>
+<field name="date">May 19, 2000</field>
+<field name="librettist">Robert S. Hatten</field>
+<field name="librettistsort">Hatten, Robert S.</field>
+<field name="theater">Houston Baptist University</field>
+<field name="city">Houston</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bonhoeffer+Ann+K.+Gebuhr&amp;search_field=search</field>
+</doc>
+</add>

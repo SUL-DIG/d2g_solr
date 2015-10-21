@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962830</field>
+<field name="title">The Walled-Up Wife</field>
+<field name="titlesort">Walled-Up Wife</field>
+<field name="composer">Gilda Lyons</field>
+<field name="composersort">Lyons, Gilda</field>
+<field name="year">2007</field>
+<field name="date">March 30, 2007</field>
+<field name="librettist">Gilda Lyons</field>
+<field name="librettistsort">Lyons, Gilda</field>
+<field name="theater">South Oxford Space, Brooklyn</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Walled-Up+Wife+Gilda+Lyons&amp;search_field=search</field>
+</doc>
+</add>

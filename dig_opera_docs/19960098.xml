@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960098</field>
+<field name="title">Akmulla</field>
+<field name="titlesort">Akmulla</field>
+<field name="composer">Zagir Garipovich Ismagilov</field>
+<field name="composersort">Ismagilov, Zagir Garipovich</field>
+<field name="year">1995</field>
+<field name="date">October 5, 1995</field>
+<field name="librettist">Ishmulla Dilmukhametov</field>
+<field name="librettistsort">Dilmukhametov, Ishmulla</field>
+<field name="theater">Bashkirskiy Teatr Operï i Baleta</field>
+<field name="city">Ufa</field>
+<field name="region">Bashkortostan Republic</field>
+<field name="country">Russia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Akmulla+Zagir+Garipovich+Ismagilov&amp;search_field=search</field>
+</doc>
+</add>

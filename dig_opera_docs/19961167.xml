@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961167</field>
+<field name="title">Il ritratto di Dorian Gray</field>
+<field name="titlesort">ritratto di Dorian Gray</field>
+<field name="composer">Irma Ravinale</field>
+<field name="composersort">Ravinale, Irma</field>
+<field name="year">1975</field>
+<field name="librettist">Oscar Wilde</field>
+<field name="librettistsort">Wilde, Oscar</field>
+<field name="theater">Orchestra Sinfonica Nazionale della RAI</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=ritratto+di+Dorian+Gray+Irma+Ravinale&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962716</field>
+<field name="title">The Raven King</field>
+<field name="titlesort">Raven King</field>
+<field name="composer">Mervyn Burtch</field>
+<field name="composersort">Burtch, Mervyn</field>
+<field name="year">1999</field>
+<field name="date">July 6, 1999</field>
+<field name="librettist">Mark Morris</field>
+<field name="librettistsort">Morris, Mark</field>
+<field name="theater">Blackwood Miners' Institute</field>
+<field name="city">Caerphilly</field>
+<field name="region">Wales</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Raven+King+Mervyn+Burtch&amp;search_field=search</field>
+</doc>
+</add>

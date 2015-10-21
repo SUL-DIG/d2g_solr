@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962639</field>
+<field name="title">The Magic Flint</field>
+<field name="titlesort">Magic Flint</field>
+<field name="composer">Yevhen Dosenko</field>
+<field name="composersort">Dosenko, Yevhen</field>
+<field name="year">2013</field>
+<field name="date">September 15, 2013</field>
+<field name="librettist">M. Petrenko</field>
+<field name="librettistsort">Petrenko, M.</field>
+<field name="theater">Akademichnyy Teatr Opery ta Baletu imeni I. Franka</field>
+<field name="city">L'viv</field>
+<field name="region">L'vivs'ka Oblast</field>
+<field name="country">Ukraine</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Magic+Flint+Yevhen+Dosenko&amp;search_field=search</field>
+</doc>
+</add>

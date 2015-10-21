@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960989</field>
+<field name="title">Gilgameš</field>
+<field name="titlesort">Gilgameš</field>
+<field name="composer">Rudolf Bruči</field>
+<field name="composersort">Bruči, Rudolf</field>
+<field name="year">1986</field>
+<field name="librettist">Arsenije Milosevic</field>
+<field name="librettistsort">Milosevic, Arsenije</field>
+<field name="theater">Srpsko narodno pozorište</field>
+<field name="city">Novi Sad</field>
+<field name="region">Juznobacki Okrug</field>
+<field name="country">Serbia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gilgameš+Rudolf+Bruči&amp;search_field=search</field>
+</doc>
+</add>

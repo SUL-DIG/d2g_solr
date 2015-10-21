@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962684</field>
+<field name="title">The Perfect American</field>
+<field name="titlesort">Perfect American</field>
+<field name="composer">Philip Glass</field>
+<field name="composersort">Glass, Philip</field>
+<field name="year">2013</field>
+<field name="date">January 22, 2013</field>
+<field name="librettist">Rudolph Wurlitzer</field>
+<field name="librettistsort">Wurlitzer, Rudolph</field>
+<field name="librettist">Peter Stephan Jungk</field>
+<field name="librettistsort">Jungk, Peter Stephan</field>
+<field name="theater">Teatro Real</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Perfect+American+Philip+Glass&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962286</field>
+<field name="title">Silkitromman (The Silken Drum)</field>
+<field name="titlesort">Silkitromman (The Silken Drum)</field>
+<field name="composer">Atli Heimir Sveinsson</field>
+<field name="composersort">Sveinsson, Atli Heimir</field>
+<field name="year">1982</field>
+<field name="librettist">Örnolfur Arnason</field>
+<field name="librettistsort">Arnason, Örnolfur</field>
+<field name="librettist"> [Hiraoka Kimitake] Yukio Mishima</field>
+<field name="librettistsort">Mishima, Yukio [Hiraoka Kimitake]</field>
+<field name="theater">Íslenska óperan</field>
+<field name="city">Reykjavik</field>
+<field name="country">Iceland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Silkitromman+(The+Silken+Drum)+Atli+Heimir+Sveinsson&amp;search_field=search</field>
+</doc>
+</add>

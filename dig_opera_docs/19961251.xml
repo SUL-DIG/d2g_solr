@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961251</field>
+<field name="title">Jour 54</field>
+<field name="titlesort">Jour 54</field>
+<field name="composer">Pierre Jodlowski</field>
+<field name="composersort">Jodlowski, Pierre</field>
+<field name="year">2009</field>
+<field name="date">September 20, 2009</field>
+<field name="librettist">Georges Perec</field>
+<field name="librettistsort">Perec, Georges</field>
+<field name="theater">Radio France</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jour+54+Pierre+Jodlowski&amp;search_field=search</field>
+</doc>
+</add>

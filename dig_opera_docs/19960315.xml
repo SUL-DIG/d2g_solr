@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960315</field>
+<field name="title">Biedermann und die Brandstifter</field>
+<field name="titlesort">Biedermann und die Brandstifter</field>
+<field name="composer">Simon Vosecek</field>
+<field name="composersort">Vosecek, Simon</field>
+<field name="year">2013</field>
+<field name="date">September 17, 2013</field>
+<field name="librettist">Simon Vosecek</field>
+<field name="librettistsort">Vosecek, Simon</field>
+<field name="librettist">Max Frisch</field>
+<field name="librettistsort">Frisch, Max</field>
+<field name="theater">Neue Oper Wien</field>
+<field name="city">Vienna</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Biedermann+und+die+Brandstifter+Simon+Vosecek&amp;search_field=search</field>
+</doc>
+</add>

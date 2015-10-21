@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963042</field>
+<field name="title">We Are Sons</field>
+<field name="titlesort">We Are Sons</field>
+<field name="composer">Rudolf Rojahn</field>
+<field name="composersort">Rojahn, Rudolf</field>
+<field name="year">2008</field>
+<field name="date">September 17, 2008</field>
+<field name="librettist">Rudolf Rojahn</field>
+<field name="librettistsort">Rojahn, Rudolf</field>
+<field name="theater">Boston Conservatory</field>
+<field name="city">Boston</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=We+Are+Sons+Rudolf+Rojahn&amp;search_field=search</field>
+</doc>
+</add>

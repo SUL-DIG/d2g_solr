@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961631</field>
+<field name="title">Magnus-Maria</field>
+<field name="titlesort">Magnus-Maria</field>
+<field name="composer">Karólína Eiríksdóttir</field>
+<field name="composersort">Eiríksdóttir, Karólína</field>
+<field name="year">2014</field>
+<field name="date">July 15, 2014</field>
+<field name="librettist">Katarina Gäddnäs</field>
+<field name="librettistsort">Gäddnäs, Katarina</field>
+<field name="theater">Alandica</field>
+<field name="city">Mariehamn</field>
+<field name="region">Ahvenanmaa</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Magnus-Maria+Karólína+Eiríksdóttir&amp;search_field=search</field>
+</doc>
+</add>

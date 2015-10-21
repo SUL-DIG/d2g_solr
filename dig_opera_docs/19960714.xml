@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960714</field>
+<field name="title">Dream Hunter</field>
+<field name="titlesort">Dream Hunter</field>
+<field name="composer">Nicola LeFanu</field>
+<field name="composersort">LeFanu, Nicola</field>
+<field name="year">2011</field>
+<field name="date">October 25, 2011</field>
+<field name="librettist">John Fuller</field>
+<field name="librettistsort">Fuller, John</field>
+<field name="theater">Aberystwyth Arts Centre</field>
+<field name="city">Aberystwyth</field>
+<field name="region">Wales</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dream+Hunter+Nicola+LeFanu&amp;search_field=search</field>
+</doc>
+</add>

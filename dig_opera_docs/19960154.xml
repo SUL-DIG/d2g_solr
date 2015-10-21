@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960154</field>
+<field name="title">Anaïs Nin</field>
+<field name="titlesort">Anaïs Nin</field>
+<field name="composer">Louis Andriessen</field>
+<field name="composersort">Andriessen, Louis</field>
+<field name="year">2010</field>
+<field name="date">July 10, 2010</field>
+<field name="librettist">Anaïs Nin</field>
+<field name="librettistsort">Nin, Anaïs</field>
+<field name="theater">Accademia Musicale Chigiana</field>
+<field name="city">Siena</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anaïs+Nin+Louis+Andriessen&amp;search_field=search</field>
+</doc>
+</add>

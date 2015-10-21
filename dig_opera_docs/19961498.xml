@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961498</field>
+<field name="title">Le Valchirie</field>
+<field name="titlesort">Valchirie</field>
+<field name="composer">Boudewijn Buckinx</field>
+<field name="composersort">Buckinx, Boudewijn</field>
+<field name="year">1997</field>
+<field name="theater">Koninklijk Conservatorium</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Valchirie+Boudewijn+Buckinx&amp;search_field=search</field>
+</doc>
+</add>

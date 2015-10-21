@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962626</field>
+<field name="title">The Lion, the Unicorn, and Me</field>
+<field name="titlesort">Lion, the Unicorn, and Me</field>
+<field name="composer">Jeanine Tesori</field>
+<field name="composersort">Tesori, Jeanine</field>
+<field name="year">2013</field>
+<field name="date">December 14, 2013</field>
+<field name="librettist">Joseph Donald McClatchy</field>
+<field name="librettistsort">McClatchy, Joseph Donald</field>
+<field name="librettist">Jeanette Winterson</field>
+<field name="librettistsort">Winterson, Jeanette</field>
+<field name="theater">Kennedy Center</field>
+<field name="city">Washington </field>
+<field name="region">District of Columbia</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lion,+the+Unicorn,+and+Me+Jeanine+Tesori&amp;search_field=search</field>
+</doc>
+</add>

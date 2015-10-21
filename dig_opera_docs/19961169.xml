@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961169</field>
+<field name="title">Il sole, di chi È?</field>
+<field name="titlesort">sole, di chi È?</field>
+<field name="composer">Silvia Colasanti</field>
+<field name="composersort">Colasanti, Silvia</field>
+<field name="year">2009</field>
+<field name="date">March 5, 2009</field>
+<field name="librettist">Roberto Piumini</field>
+<field name="librettistsort">Piumini, Roberto</field>
+<field name="theater">Teatro Ponchielli</field>
+<field name="city">Cremona</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=sole,+di+chi+È?+Silvia+Colasanti&amp;search_field=search</field>
+</doc>
+</add>

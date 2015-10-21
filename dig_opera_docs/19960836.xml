@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960836</field>
+<field name="title">Exile</field>
+<field name="titlesort">Exile</field>
+<field name="composer">Helen Gifford</field>
+<field name="composersort">Gifford, Helen</field>
+<field name="year">2010</field>
+<field name="date">June 22, 2010</field>
+<field name="librettist">Richard Meredith</field>
+<field name="librettistsort">Meredith, Richard</field>
+<field name="theater">Iwaki Auditorium</field>
+<field name="city">Melbourne</field>
+<field name="region">Victoria</field>
+<field name="country">Australia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Exile+Helen+Gifford&amp;search_field=search</field>
+</doc>
+</add>

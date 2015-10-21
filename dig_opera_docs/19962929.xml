@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962929</field>
+<field name="title">Turtle Wakes</field>
+<field name="titlesort">Turtle Wakes</field>
+<field name="composer">Allan Gordon Bell</field>
+<field name="composersort">Bell, Allan Gordon</field>
+<field name="year">2001</field>
+<field name="date">February 6, 2001</field>
+<field name="librettist">Rick McNair</field>
+<field name="librettistsort">McNair, Rick</field>
+<field name="theater">Southern Alberta Jubilee Auditorium</field>
+<field name="city">Calgary</field>
+<field name="region">Alberta</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Turtle+Wakes+Allan+Gordon+Bell&amp;search_field=search</field>
+</doc>
+</add>

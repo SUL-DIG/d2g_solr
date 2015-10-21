@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961121</field>
+<field name="title">Humpty Dumpty and Alice</field>
+<field name="titlesort">Humpty Dumpty and Alice</field>
+<field name="composer">Judith Dvorkin</field>
+<field name="composersort">Dvorkin, Judith</field>
+<field name="year">1988</field>
+<field name="date">March 28, 1988</field>
+<field name="librettist">Judith Dvorkin</field>
+<field name="librettistsort">Dvorkin, Judith</field>
+<field name="librettist">[Charles Lutwidge Dodgson] Lewis Carroll</field>
+<field name="librettistsort">Carroll, Lewis [Charles Lutwidge Dodgson] </field>
+<field name="theater">Lincoln Center Library</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Humpty+Dumpty+and+Alice+Judith+Dvorkin&amp;search_field=search</field>
+</doc>
+</add>

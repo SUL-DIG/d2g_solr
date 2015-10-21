@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961558</field>
+<field name="title">Lilith</field>
+<field name="titlesort">Lilith</field>
+<field name="composer">Dimitar Bodurov</field>
+<field name="composersort">Bodurov, Dimitar</field>
+<field name="year">2012</field>
+<field name="date">June 2, 2012</field>
+<field name="librettist">Carola Luther</field>
+<field name="librettistsort">Luther, Carola</field>
+<field name="theater">Bellevue Theater</field>
+<field name="city">Amsterdam</field>
+<field name="region">Noord Holland</field>
+<field name="country">Netherlands</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lilith+Dimitar+Bodurov&amp;search_field=search</field>
+</doc>
+</add>

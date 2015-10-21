@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962279</field>
+<field name="title">Shylock!</field>
+<field name="titlesort">Shylock!</field>
+<field name="composer">Stephan Kanyar</field>
+<field name="composersort">Kanyar, Stephan</field>
+<field name="year">2012</field>
+<field name="date">May 5, 2012</field>
+<field name="librettist">Brigitte Fassbaender</field>
+<field name="librettistsort">Fassbaender, Brigitte</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistsort">Shakespeare, William</field>
+<field name="theater">Tiroler Landestheater</field>
+<field name="city">Innsbruck</field>
+<field name="region">Tirol</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Shylock!+Stephan+Kanyar&amp;search_field=search</field>
+</doc>
+</add>

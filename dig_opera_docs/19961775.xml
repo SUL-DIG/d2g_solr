@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961775</field>
+<field name="title">Mririda</field>
+<field name="titlesort">Mririda</field>
+<field name="composer">Ahmed Essyad</field>
+<field name="composersort">Essyad, Ahmed</field>
+<field name="year">2008</field>
+<field name="date">July 1, 2008</field>
+<field name="librettist">Claudine Galéa</field>
+<field name="librettistsort">Galéa, Claudine</field>
+<field name="librettist">Mririda N’aït Attik</field>
+<field name="librettistsort">Mririda N’aït Attik</field>
+<field name="theater">Timitar Festival</field>
+<field name="city">Agadir</field>
+<field name="country">Morocco</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mririda+Ahmed+Essyad&amp;search_field=search</field>
+</doc>
+</add>

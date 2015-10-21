@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960942</field>
+<field name="title">Gabriel, tule takaisin! (Come Back, Gabriel!)</field>
+<field name="titlesort">Gabriel, tule takaisin! (Come Back, Gabriel!)</field>
+<field name="composer">lkka Kuusisto</field>
+<field name="composersort">Kuusisto, Ilkka</field>
+<field name="year">1998</field>
+<field name="date">February 11, 1998</field>
+<field name="librettist">Esko Elstelä</field>
+<field name="librettistsort">Elstelä, Esko</field>
+<field name="librettist">Mika Waltari</field>
+<field name="librettistsort">Waltari, Mika</field>
+<field name="theater">Suomen Kansallisooppera</field>
+<field name="city">Helsinki</field>
+<field name="region">Uusimaa</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gabriel,+tule+takaisin!+(Come+Back,+Gabriel!)+lkka+Kuusisto&amp;search_field=search</field>
+</doc>
+</add>

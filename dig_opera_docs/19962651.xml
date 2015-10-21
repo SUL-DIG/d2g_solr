@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962651</field>
+<field name="title">The Minotaur Trilogy</field>
+<field name="titlesort">Minotaur Trilogy</field>
+<field name="composer">David Young</field>
+<field name="composersort">Young, David</field>
+<field name="year">2012</field>
+<field name="date">October 18, 2012</field>
+<field name="librettist">Margaret Cameron</field>
+<field name="librettistsort">Cameron, Margaret</field>
+<field name="theater">Salon, Melbourne Recital Centre</field>
+<field name="city">Melbourne</field>
+<field name="region">Victoria</field>
+<field name="country">Australia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Minotaur+Trilogy+David+Young&amp;search_field=search</field>
+</doc>
+</add>

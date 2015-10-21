@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960121</field>
+<field name="title">Alice's Adventures in Wonderland</field>
+<field name="titlesort">Alice's Adventures in Wonderland</field>
+<field name="composer">Will Todd</field>
+<field name="composersort">Todd, Will</field>
+<field name="year">2013</field>
+<field name="date">July 20, 2013</field>
+<field name="librettist">Maggie Gottlieb</field>
+<field name="librettistsort">Gottlieb, Maggie</field>
+<field name="librettist">[Charles Lutwidge Dodgson] Lewis Carroll</field>
+<field name="librettistsort">Carroll, Lewis [Charles Lutwidge Dodgson] </field>
+<field name="theater">Holland Park Gardens</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alice's+Adventures+in+Wonderland+Will+Todd&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960642</field>
+<field name="title">Die Nachtigall und die Rose</field>
+<field name="titlesort">Nachtigall und die Rose</field>
+<field name="composer">Birke Jasmin Bertelsmeier</field>
+<field name="composersort">Bertelsmeier, Birke Jasmin</field>
+<field name="year">2014</field>
+<field name="date">June 20, 2014</field>
+<field name="librettist">Nina Dudek</field>
+<field name="librettistsort">Dudek, Nina</field>
+<field name="librettist">Birke Jasmin Bertelsmeier</field>
+<field name="librettistsort">Bertelsmeier, Birke Jasmin</field>
+<field name="theater">Deutsche Oper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nachtigall+und+die+Rose+Birke+Jasmin+Bertelsmeier&amp;search_field=search</field>
+</doc>
+</add>

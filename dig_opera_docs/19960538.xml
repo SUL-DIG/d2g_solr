@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960538</field>
+<field name="title">DeCachetitoRaspado</field>
+<field name="titlesort">DeCachetitoRaspado</field>
+<field name="composer">Juan Trigos</field>
+<field name="composersort">Trigos, Juan</field>
+<field name="year">1999</field>
+<field name="date">September 21, 1999</field>
+<field name="librettist">Juan Trigos</field>
+<field name="librettistsort">Trigos, Juan</field>
+<field name="theater">Centro Cultural Helénico</field>
+<field name="city">Mexico City</field>
+<field name="country">Mexico</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=DeCachetitoRaspado+Juan+Trigos&amp;search_field=search</field>
+</doc>
+</add>

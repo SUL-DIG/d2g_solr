@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961173</field>
+<field name="title">Im Westen nichts Neues</field>
+<field name="titlesort">Im Westen nichts Neues</field>
+<field name="composer">Nancy Van de Vate</field>
+<field name="composersort">Van de Vate, Nancy</field>
+<field name="year">2003</field>
+<field name="date">September 28, 2003</field>
+<field name="librettist">Nancy Van de Vate</field>
+<field name="librettistsort">Van de Vate, Nancy</field>
+<field name="librettist">Erich Maria Remarque </field>
+<field name="librettistsort">Remarque, Erich Maria</field>
+<field name="theater">Grosses Haus am Domhof</field>
+<field name="city">Osnabrück</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Im+Westen+nichts+Neues+Nancy+Van+de+Vate&amp;search_field=search</field>
+</doc>
+</add>

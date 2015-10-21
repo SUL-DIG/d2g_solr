@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961408</field>
+<field name="title">La fugitive</field>
+<field name="titlesort">fugitive</field>
+<field name="composer">Lucio Gregoretti</field>
+<field name="composersort">Gregoretti, Lucio</field>
+<field name="year">2009</field>
+<field name="date">June 27, 2009</field>
+<field name="librettist">Daniel Goldenberg</field>
+<field name="librettistsort">Goldenberg, Daniel</field>
+<field name="theater">Teatro dell'Opera</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=fugitive+Lucio+Gregoretti&amp;search_field=search</field>
+</doc>
+</add>

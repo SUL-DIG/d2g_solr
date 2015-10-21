@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962620</field>
+<field name="title">The Letter</field>
+<field name="titlesort">Letter</field>
+<field name="composer">Paul Moravec</field>
+<field name="composersort">Moravec, Paul</field>
+<field name="year">2009</field>
+<field name="date">July 25, 2009</field>
+<field name="librettist">Terry Teachout</field>
+<field name="librettistsort">Teachout, Terry</field>
+<field name="theater">Opera</field>
+<field name="city">Santa Fe</field>
+<field name="region">New Mexico</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Letter+Paul+Moravec&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960660</field>
+<field name="title">Die Versicherung</field>
+<field name="titlesort">Versicherung</field>
+<field name="composer">Jan Müller-Wieland</field>
+<field name="composersort">Müller-Wieland, Jan</field>
+<field name="year">1999</field>
+<field name="date">February 27, 1999</field>
+<field name="librettist">Jan Müller-Wieland</field>
+<field name="librettistsort">Müller-Wieland, Jan</field>
+<field name="librettist">Peter Weiss</field>
+<field name="librettistsort">Weiss, Peter</field>
+<field name="theater">Staatstheater</field>
+<field name="city">Darmstadt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Versicherung+Jan+Müller-Wieland&amp;search_field=search</field>
+</doc>
+</add>

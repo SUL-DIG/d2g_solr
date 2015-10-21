@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960781</field>
+<field name="title">Eleanor Roosevelt</field>
+<field name="titlesort">Eleanor Roosevelt</field>
+<field name="composer">Persis Anne Parshall Vehar</field>
+<field name="composersort">Vehar, Persis Anne Parshall</field>
+<field name="year">2011</field>
+<field name="date">February 12, 2012</field>
+<field name="librettist">Gabrielle Vehar</field>
+<field name="librettistsort">Vehar, Gabrielle</field>
+<field name="librettist">Rhoda Lerman</field>
+<field name="librettistsort">Lerman, Rhoda</field>
+<field name="theater">Hamilton College</field>
+<field name="city">Clinton</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eleanor+Roosevelt+Persis+Anne+Parshall+Vehar&amp;search_field=search</field>
+</doc>
+</add>

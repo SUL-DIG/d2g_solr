@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961511</field>
+<field name="title">Leif</field>
+<field name="titlesort">Leif</field>
+<field name="composer">Andy Vores</field>
+<field name="composersort">Vores, Andy</field>
+<field name="year">2008</field>
+<field name="date">October 3, 2008</field>
+<field name="librettist">Frederick Choi</field>
+<field name="librettistsort">Choi, Frederick</field>
+<field name="theater">Boston University</field>
+<field name="city">Boston</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leif+Andy+Vores&amp;search_field=search</field>
+</doc>
+</add>

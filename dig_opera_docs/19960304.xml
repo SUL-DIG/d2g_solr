@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960304</field>
+<field name="title">Berenice</field>
+<field name="titlesort">Berenice</field>
+<field name="composer">Johannes Maria Staud</field>
+<field name="composersort">Staud, Johannes Maria</field>
+<field name="year">2004</field>
+<field name="date">May 12, 2004</field>
+<field name="librettist">Durs Grünbein</field>
+<field name="librettistsort">Grünbein, Durs</field>
+<field name="librettist">Edgar Allan Poe</field>
+<field name="librettistsort">Poe, Edgar Allan</field>
+<field name="theater">Biennale</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Berenice+Johannes+Maria+Staud&amp;search_field=search</field>
+</doc>
+</add>

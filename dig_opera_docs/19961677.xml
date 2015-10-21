@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961677</field>
+<field name="title">Martin squelette</field>
+<field name="titlesort">Martin squelette</field>
+<field name="composer">Isabelle Aboulker</field>
+<field name="composersort">Aboulker, Isabelle</field>
+<field name="year">2005</field>
+<field name="date">September 30, 2005</field>
+<field name="librettist">Christian Eymery</field>
+<field name="librettistsort">Eymery, Christian</field>
+<field name="librettist">Pierre Véry</field>
+<field name="librettistsort">Véry, Pierre</field>
+<field name="theater">L'espace Jacques Prévert</field>
+<field name="city">Aulnay-sous-Bois</field>
+<field name="region">Seine-Saint-Denis</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Martin+squelette+Isabelle+Aboulker&amp;search_field=search</field>
+</doc>
+</add>

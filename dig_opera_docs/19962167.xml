@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962167</field>
+<field name="title">Robin Hood</field>
+<field name="titlesort">Robin Hood</field>
+<field name="composer">Frank Schwemmer</field>
+<field name="composersort">Schwemmer, Frank</field>
+<field name="year">2008</field>
+<field name="date">November 2, 2008</field>
+<field name="librettist">Michael Frowin</field>
+<field name="librettistsort">Frowin, Michael</field>
+<field name="librettist">Torstein Bugge Høverstad</field>
+<field name="librettistsort">Høverstad, Torstein Bugge</field>
+<field name="theater">Komische Oper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Robin+Hood+Frank+Schwemmer&amp;search_field=search</field>
+</doc>
+</add>

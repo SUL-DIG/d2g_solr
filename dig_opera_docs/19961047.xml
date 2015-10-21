@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961047</field>
+<field name="title">Haroun and the Sea of Stories</field>
+<field name="titlesort">Haroun and the Sea of Stories</field>
+<field name="composer">Charles Wuorinen</field>
+<field name="composersort">Wuorinen, Charles</field>
+<field name="year">2004</field>
+<field name="date">October 31, 2004</field>
+<field name="librettist">James Fenton</field>
+<field name="librettistsort">Fenton, James</field>
+<field name="librettist">Salmon Rushdie</field>
+<field name="librettistsort">Salmon, Rushdie</field>
+<field name="theater">New York City Opera</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Haroun+and+the+Sea+of+Stories+Charles+Wuorinen&amp;search_field=search</field>
+</doc>
+</add>

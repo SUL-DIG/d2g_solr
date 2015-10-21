@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960919</field>
+<field name="title">Free Will</field>
+<field name="titlesort">Free Will</field>
+<field name="composer">Markus Fagerudd</field>
+<field name="composersort">Fagerudd, Markus</field>
+<field name="year">2012</field>
+<field name="date">July 21, 2012</field>
+<field name="librettist">Iida Hämeen-Anttila</field>
+<field name="librettistsort">Hämeen-Anttila, Iida</field>
+<field name="theater">Savonlinnan Ooperajuhlat</field>
+<field name="city">Savonlinna</field>
+<field name="region">Etelä-Savo</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Free+Will+Markus+Fagerudd&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961016</field>
+<field name="title">Green Sneakers</field>
+<field name="titlesort">Green Sneakers</field>
+<field name="composer">Ricky Ian Gordon</field>
+<field name="composersort">Gordon, Ricky Ian</field>
+<field name="year">2008</field>
+<field name="date">July 15, 2008</field>
+<field name="librettist">Ricky Ian Gordon</field>
+<field name="librettistsort">Gordon, Ricky Ian</field>
+<field name="theater">Vilar Performing Arts Center</field>
+<field name="city">Beaver Creek</field>
+<field name="region">Colorado</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Green+Sneakers+Ricky+Ian+Gordon&amp;search_field=search</field>
+</doc>
+</add>

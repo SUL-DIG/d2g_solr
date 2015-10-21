@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960524</field>
+<field name="title">De Rolstoel</field>
+<field name="titlesort">Rolstoel</field>
+<field name="composer">Boudewijn Buckinx</field>
+<field name="composersort">Buckinx, Boudewijn</field>
+<field name="year">2010</field>
+<field name="date">July 22, 2010</field>
+<field name="theater">Zuivelmarkt</field>
+<field name="city">Hasselt</field>
+<field name="region">Limburg</field>
+<field name="country">Belgium</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rolstoel+Boudewijn+Buckinx&amp;search_field=search</field>
+</doc>
+</add>

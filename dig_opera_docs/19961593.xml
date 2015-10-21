@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961593</field>
+<field name="title">Louis' Trumpet</field>
+<field name="titlesort">Louis' Trumpet</field>
+<field name="composer">Evelyn Swensson</field>
+<field name="composersort">Swensson, Evelyn</field>
+<field name="year">2000</field>
+<field name="date">March 4, 2000</field>
+<field name="librettist">Joseph Robinette</field>
+<field name="librettistsort">Robinette, Joseph</field>
+<field name="librettist">Evelyn Swensson</field>
+<field name="librettistsort">Swensson, Evelyn</field>
+<field name="theater">Grand Opera House</field>
+<field name="city">Wilmington</field>
+<field name="region">Delaware</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Louis'+Trumpet+Evelyn+Swensson&amp;search_field=search</field>
+</doc>
+</add>

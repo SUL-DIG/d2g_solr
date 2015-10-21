@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960970</field>
+<field name="title">Geneviève</field>
+<field name="titlesort">Geneviève</field>
+<field name="composer">Aloys Fornerod</field>
+<field name="composersort">Fornerod, Aloys</field>
+<field name="year">1954</field>
+<field name="librettist">Josè Bruyr</field>
+<field name="librettistsort">Bruyr, Josè</field>
+<field name="librettist">Giovanni Boccaccio</field>
+<field name="librettistsort">Boccaccio, Giovanni</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Lausanne</field>
+<field name="region">Vaud</field>
+<field name="country">Switzerland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Geneviève+Aloys+Fornerod&amp;search_field=search</field>
+</doc>
+</add>

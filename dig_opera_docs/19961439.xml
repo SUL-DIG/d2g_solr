@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961439</field>
+<field name="title">La porta della legge</field>
+<field name="titlesort">porta della legge</field>
+<field name="composer">Salvatore Sciarrino</field>
+<field name="composersort">Sciarrino, Salvatore</field>
+<field name="year">2009</field>
+<field name="date">April 25, 2009</field>
+<field name="librettist">Salvatore Sciarrino</field>
+<field name="librettistsort">Sciarrino, Salvatore</field>
+<field name="librettist">Franz Kafka</field>
+<field name="librettistsort">Kafka, Franz</field>
+<field name="theater">Städtische Bühnen</field>
+<field name="city">Wuppertal</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=porta+della+legge+Salvatore+Sciarrino&amp;search_field=search</field>
+</doc>
+</add>

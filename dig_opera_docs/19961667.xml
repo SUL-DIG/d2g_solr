@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961667</field>
+<field name="title">Mark Twain and the General</field>
+<field name="titlesort">Mark Twain and the General</field>
+<field name="composer">Robert W. Butts</field>
+<field name="composersort">Butts, Robert W.</field>
+<field name="year">2012</field>
+<field name="date">August 12, 2012</field>
+<field name="librettist">Jewel Seehaus-Fisher</field>
+<field name="librettistsort">Seehaus-Fisher, Jewel</field>
+<field name="theater">Dolan Performance Hall, College of St. Elizabeth</field>
+<field name="city">Morristown</field>
+<field name="region">New Jersey</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mark+Twain+and+the+General+Robert+W.+Butts&amp;search_field=search</field>
+</doc>
+</add>

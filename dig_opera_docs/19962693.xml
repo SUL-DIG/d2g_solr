@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962693</field>
+<field name="title">The Pied Piper</field>
+<field name="titlesort">Pied Piper</field>
+<field name="composer">Kate Pearson</field>
+<field name="composersort">Pearson, Kate</field>
+<field name="year">2005</field>
+<field name="date">October 18, 2005</field>
+<field name="librettist">Jane Buckler</field>
+<field name="librettistsort">Buckler, Jane</field>
+<field name="theater">Hull University</field>
+<field name="city">Kingston on Hull</field>
+<field name="region">Humberside</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pied+Piper+Kate+Pearson&amp;search_field=search</field>
+</doc>
+</add>

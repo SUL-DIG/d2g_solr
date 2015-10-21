@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961468</field>
+<field name="title">Laura</field>
+<field name="titlesort">Laura</field>
+<field name="composer">Béla Tardos </field>
+<field name="composersort">Tardos, Béla</field>
+<field name="year">1966</field>
+<field name="librettist">Miklós Gyárfás</field>
+<field name="librettistsort">Gyárfás, Miklós</field>
+<field name="theater">Csokonai Nemzeti Színház</field>
+<field name="city">Debrecen</field>
+<field name="region">Hajdú-Bihar</field>
+<field name="country">Hungary</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Laura+Béla+Tardos+&amp;search_field=search</field>
+</doc>
+</add>

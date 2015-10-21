@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960226</field>
+<field name="title">Atonement</field>
+<field name="titlesort">Atonement</field>
+<field name="composer">Elizabeth Swados</field>
+<field name="composersort">Swados, Elizabeth</field>
+<field name="year">2007</field>
+<field name="date">October 1, 2007</field>
+<field name="librettist">Elizabeth Swados</field>
+<field name="librettistsort">Swados, Elizabeth</field>
+<field name="librettist">Rebecca Keren-Eisenstadt</field>
+<field name="librettistsort">Keren-Eisenstadt, Rebecca</field>
+<field name="theater">Cathedral of St. John the Divine</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Atonement+Elizabeth+Swados&amp;search_field=search</field>
+</doc>
+</add>

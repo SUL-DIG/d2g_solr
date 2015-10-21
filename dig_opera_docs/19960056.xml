@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960056</field>
+<field name="title">A Scandal in Bohemia</field>
+<field name="titlesort">Scandal in Bohemia</field>
+<field name="composer">Thomas Whitman</field>
+<field name="composersort">Whitman, Thomas</field>
+<field name="year">2009</field>
+<field name="date">February 6, 2009</field>
+<field name="librettist">Nathalie Anderson</field>
+<field name="librettistsort">Anderson, Nathalie</field>
+<field name="librettist">Arthur Conan Doyle</field>
+<field name="librettistsort">Doyle, Arthur Conan</field>
+<field name="theater">Perelman Theater, Kimmel Center</field>
+<field name="city">Philadelphia</field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Scandal+in+Bohemia+Thomas+Whitman&amp;search_field=search</field>
+</doc>
+</add>

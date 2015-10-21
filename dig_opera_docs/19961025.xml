@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961025</field>
+<field name="title">Gulliver in Lilliput</field>
+<field name="titlesort">Gulliver in Lilliput</field>
+<field name="composer">Priti Paintal</field>
+<field name="composersort">Paintal, Priti</field>
+<field name="year">1995</field>
+<field name="librettist">Caroline Gawn</field>
+<field name="librettistsort">Gawn, Caroline</field>
+<field name="librettist">Jonathan Swift</field>
+<field name="librettistsort">Swift, Jonathan</field>
+<field name="city">Maidstone</field>
+<field name="region">Kent</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gulliver+in+Lilliput+Priti+Paintal&amp;search_field=search</field>
+</doc>
+</add>

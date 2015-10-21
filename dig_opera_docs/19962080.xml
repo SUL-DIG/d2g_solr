@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962080</field>
+<field name="title">Quantum Mechanic</field>
+<field name="titlesort">Quantum Mechanic</field>
+<field name="composer">John G. Bilotta</field>
+<field name="composersort">Bilotta, John G.</field>
+<field name="year">2007</field>
+<field name="date">August 15, 2007</field>
+<field name="librettist">John F. McGrew</field>
+<field name="librettistsort">McGrew, John F.</field>
+<field name="theater">City Hall</field>
+<field name="city">American Fork</field>
+<field name="region">Utah</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Quantum+Mechanic+John+G.+Bilotta&amp;search_field=search</field>
+</doc>
+</add>

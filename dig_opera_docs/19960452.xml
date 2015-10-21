@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960452</field>
+<field name="title">Closing Time</field>
+<field name="titlesort">Closing Time</field>
+<field name="composer">Kenneth LaFave</field>
+<field name="composersort">LaFave, Kenneth</field>
+<field name="year">1999</field>
+<field name="date">April 22, 1999</field>
+<field name="librettist">Robert Kastenbaum</field>
+<field name="librettistsort">Kastenbaum, Robert</field>
+<field name="theater">Pima Community College</field>
+<field name="city">Tucson</field>
+<field name="region">Arizona</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Closing+Time+Kenneth+LaFave&amp;search_field=search</field>
+</doc>
+</add>

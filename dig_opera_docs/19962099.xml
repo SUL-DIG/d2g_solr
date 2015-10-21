@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962099</field>
+<field name="title">Rain Dance</field>
+<field name="titlesort">Rain Dance</field>
+<field name="composer">Stuart Hancock</field>
+<field name="composersort">Hancock, Stuart</field>
+<field name="year">2010</field>
+<field name="date">December 4, 2010</field>
+<field name="librettist">Donald Sturrock</field>
+<field name="librettistsort">Sturrock, Donald</field>
+<field name="librettist">Tish Farrell</field>
+<field name="librettistsort">Farrell, Tish</field>
+<field name="theater">Riverside Studios</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rain+Dance+Stuart+Hancock&amp;search_field=search</field>
+</doc>
+</add>

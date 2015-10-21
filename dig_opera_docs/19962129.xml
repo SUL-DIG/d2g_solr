@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962129</field>
+<field name="title">Reinaert de vos</field>
+<field name="titlesort">Reinaert de vos</field>
+<field name="composer">Marius Monnikendam</field>
+<field name="composersort">Monnikendam, Marius</field>
+<field name="year">1967</field>
+<field name="date">April 1, 1967</field>
+<field name="librettist">Michel Brochon</field>
+<field name="librettistsort">Brochon, Michel</field>
+<field name="theater">Koninklijke Vlaamse Opera</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Reinaert+de+vos+Marius+Monnikendam&amp;search_field=search</field>
+</doc>
+</add>

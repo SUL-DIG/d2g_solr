@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961630</field>
+<field name="title">Mágia</field>
+<field name="titlesort">Mágia</field>
+<field name="composer">Ricard Lamote de Grignon</field>
+<field name="composersort">Lamote de Grignon, Ricard</field>
+<field name="year">1953</field>
+<field name="date">August 30, 1953</field>
+<field name="librettist">Ricard Lamote de Grignon</field>
+<field name="librettistsort">Lamote de Grignon, Ricard</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mágia+Ricard+Lamote+de+Grignon&amp;search_field=search</field>
+</doc>
+</add>

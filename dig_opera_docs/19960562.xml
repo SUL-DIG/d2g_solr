@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960562</field>
+<field name="title">Der Flaschengeist</field>
+<field name="titlesort">Flaschengeist</field>
+<field name="composer">Wilfried Hiller</field>
+<field name="composersort">Hiller, Wilfried</field>
+<field name="year">2014</field>
+<field name="date">January 23, 2014</field>
+<field name="librettist">Felix Mitterer</field>
+<field name="librettistsort">Mitterer, Felix</field>
+<field name="librettist">Robert Louis Stevenson</field>
+<field name="librettistsort">Stevenson, Robert Louis</field>
+<field name="theater">Staatstheater am Gärtnerplatz</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Flaschengeist+Wilfried+Hiller&amp;search_field=search</field>
+</doc>
+</add>

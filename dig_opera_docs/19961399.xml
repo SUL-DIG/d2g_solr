@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961399</field>
+<field name="title">La Divina Commedia</field>
+<field name="titlesort">Divina Commedia</field>
+<field name="composer">Marco Frisina</field>
+<field name="composersort">Frisina, Marco</field>
+<field name="year">2007</field>
+<field name="date">November 22, 2007</field>
+<field name="librettist">Gianmario Pagano</field>
+<field name="librettistsort">Pagano, Gianmario</field>
+<field name="librettist">Dante Alighieri</field>
+<field name="librettistsort">Dante Alighieri</field>
+<field name="theater">Teatro Divina Commedia, Tor Vergata</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Divina+Commedia+Marco+Frisina&amp;search_field=search</field>
+</doc>
+</add>

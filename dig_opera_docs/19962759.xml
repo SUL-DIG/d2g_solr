@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962759</field>
+<field name="title">The Silent Twins</field>
+<field name="titlesort">Silent Twins</field>
+<field name="composer">Errollyn Wallen</field>
+<field name="composersort">Wallen, Errollyn</field>
+<field name="year">2007</field>
+<field name="date">July 5, 2007</field>
+<field name="librettist">April de Angelis</field>
+<field name="librettistsort">Angelis, April de</field>
+<field name="librettist">Marjorie Wallace</field>
+<field name="librettistsort">Wallace, Marjorie</field>
+<field name="theater">Almeida Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Silent+Twins+Errollyn+Wallen&amp;search_field=search</field>
+</doc>
+</add>

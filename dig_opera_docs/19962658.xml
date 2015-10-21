@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962658</field>
+<field name="title">The Moustache</field>
+<field name="titlesort">Moustache</field>
+<field name="composer">Hollis Thoms</field>
+<field name="composersort">Thoms, Hollis</field>
+<field name="year">2009</field>
+<field name="date">February 15, 2009</field>
+<field name="librettist">Hollis Thoms</field>
+<field name="librettistsort">Thoms, Hollis</field>
+<field name="theater">St. John's College </field>
+<field name="city">Annapolis</field>
+<field name="region">Maryland</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Moustache+Hollis+Thoms&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961528</field>
+<field name="title">Les Liaisons dangereuses </field>
+<field name="titlesort">Liaisons dangereuses </field>
+<field name="composer">Piet Swerts</field>
+<field name="composersort">Swerts, Piet</field>
+<field name="year">1996</field>
+<field name="date">December 17, 1996</field>
+<field name="librettist">Dirk Van der Cruysse</field>
+<field name="librettistsort">Van der Cruysse, Dirk</field>
+<field name="librettist">Pierre-Ambroise-François Choderlos de Laclos</field>
+<field name="librettistsort">Laclos, Pierre-Ambroise-François Choderlos de</field>
+<field name="theater">Vlaamse Opera</field>
+<field name="city">Ghent</field>
+<field name="region">Flaanderen</field>
+<field name="country">Belgium</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Liaisons+dangereuses++Piet+Swerts&amp;search_field=search</field>
+</doc>
+</add>

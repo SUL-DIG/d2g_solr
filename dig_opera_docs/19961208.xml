@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961208</field>
+<field name="title">Isontaloon Antti (Antti Isotalo)</field>
+<field name="titlesort">Isontaloon Antti (Antti Isotalo)</field>
+<field name="composer">Atso Almila</field>
+<field name="composersort">Almila, Atso</field>
+<field name="year">2000</field>
+<field name="date">June 14, 2000</field>
+<field name="librettist">Antti Tuuri</field>
+<field name="librettistsort">Tuuri, Antti</field>
+<field name="theater">Ilmajoen musiikkijuhlat</field>
+<field name="city">Ilmajoki</field>
+<field name="region">Etelä-Pohjanmaa</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Isontaloon+Antti+(Antti+Isotalo)+Atso+Almila&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962079</field>
+<field name="title">Quai Ouest</field>
+<field name="titlesort">Quai Ouest</field>
+<field name="composer">Régis Campo</field>
+<field name="composersort">Campo, Régis</field>
+<field name="year">2015</field>
+<field name="date">January 12, 2015</field>
+<field name="librettist">Kristian Frédric</field>
+<field name="librettistsort">Frédric, Kristian</field>
+<field name="librettist">Florence Doublet</field>
+<field name="librettistsort">Doublet, Florence</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Nuremberg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Quai+Ouest+Régis+Campo&amp;search_field=search</field>
+</doc>
+</add>

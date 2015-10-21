@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962109</field>
+<field name="title">Rasputin</field>
+<field name="titlesort">Rasputin</field>
+<field name="composer">Einojuhani Rautavaara</field>
+<field name="composersort">Rautavaara, Einojuhani</field>
+<field name="year">2003</field>
+<field name="date">September 19, 2003</field>
+<field name="librettist">Einojuhani Rautavaara</field>
+<field name="librettistsort">Rautavaara, Einojuhani</field>
+<field name="theater">Suomen Kansallisooppera</field>
+<field name="city">Helsinki</field>
+<field name="region">Uusimaa</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rasputin+Einojuhani+Rautavaara&amp;search_field=search</field>
+</doc>
+</add>

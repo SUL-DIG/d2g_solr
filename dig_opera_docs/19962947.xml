@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962947</field>
+<field name="title">Un amour en guerre</field>
+<field name="titlesort">amour en guerre</field>
+<field name="composer">Caroline Glory</field>
+<field name="composersort">Glory, Caroline</field>
+<field name="year">2014</field>
+<field name="date">October 24, 2014</field>
+<field name="librettist">Patrick Poivre d'Arvor</field>
+<field name="librettistsort">Poivre d'Arvor, Patrick</field>
+<field name="theater">Opéra</field>
+<field name="city">Metz</field>
+<field name="region">Moselle</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=amour+en+guerre+Caroline+Glory&amp;search_field=search</field>
+</doc>
+</add>

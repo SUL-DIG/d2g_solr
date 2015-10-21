@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961413</field>
+<field name="title">La liberazione di Ruggiero dall'isola di Alcina</field>
+<field name="titlesort">liberazione di Ruggiero dall'isola di Alcina</field>
+<field name="composer">Ada Gentile</field>
+<field name="composersort">Gentile, Ada</field>
+<field name="year">1994</field>
+<field name="date">April 30, 1994</field>
+<field name="librettist">Francesca Caccini</field>
+<field name="librettistsort">Caccini, Francesca</field>
+<field name="librettist">Ferdinando Saracinelli</field>
+<field name="librettistsort">Saracinelli, Ferdinando</field>
+<field name="theater">Biennale</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=liberazione+di+Ruggiero+dall'isola+di+Alcina+Ada+Gentile&amp;search_field=search</field>
+</doc>
+</add>

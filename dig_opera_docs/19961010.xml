@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961010</field>
+<field name="title">Gorbatschow</field>
+<field name="titlesort">Gorbatschow</field>
+<field name="composer">Franz Hummel</field>
+<field name="composersort">Hummel, Franz</field>
+<field name="year">1994</field>
+<field name="date">June 6, 1994</field>
+<field name="librettist">Thomas Körner</field>
+<field name="librettistsort">Körner, Thomas</field>
+<field name="theater">Bundeskunsthalle</field>
+<field name="city">Bonn</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gorbatschow+Franz+Hummel&amp;search_field=search</field>
+</doc>
+</add>

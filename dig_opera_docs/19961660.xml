@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961660</field>
+<field name="title">Maria Theresia</field>
+<field name="titlesort">Maria Theresia</field>
+<field name="composer">Roland Baumgartner</field>
+<field name="composersort">Baumgartner, Roland</field>
+<field name="year">2012</field>
+<field name="date">October 11, 2012</field>
+<field name="librettist">Rainer Lewandowski</field>
+<field name="librettistsort">Lewandowski, Rainer</field>
+<field name="theater">Slovenské Narodné Divadlo</field>
+<field name="city">Bratislava</field>
+<field name="country">Slovakia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maria+Theresia+Roland+Baumgartner&amp;search_field=search</field>
+</doc>
+</add>

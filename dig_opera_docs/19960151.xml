@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960151</field>
+<field name="title">An Turus (The Journey)</field>
+<field name="titlesort">An Turus (The Journey)</field>
+<field name="composer">William Sweeney</field>
+<field name="composersort">Sweeney, William</field>
+<field name="year">1998</field>
+<field name="date">January 31, 1998</field>
+<field name="librettist">Aonghas MacNeacail</field>
+<field name="librettistsort">MacNeacail, Aonghas</field>
+<field name="theater">Old Fruitmarket</field>
+<field name="city">Glasgow</field>
+<field name="region">Scotland</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=An+Turus+(The+Journey)+William+Sweeney&amp;search_field=search</field>
+</doc>
+</add>

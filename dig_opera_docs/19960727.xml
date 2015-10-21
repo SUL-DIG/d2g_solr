@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960727</field>
+<field name="title">Du Bist Da, Du Bist Fort</field>
+<field name="titlesort">Du Bist Da, Du Bist Fort</field>
+<field name="composer">Simon Wills</field>
+<field name="composersort">Wills, Simon</field>
+<field name="year">2012</field>
+<field name="date">October 17, 2012</field>
+<field name="librettist">Annette Bieker</field>
+<field name="librettistsort">Bieker, Annette</field>
+<field name="librettist">Bart Moeyaert </field>
+<field name="librettistsort">Moeyaert, Bart</field>
+<field name="theater">Junges Schauspielhaus</field>
+<field name="city">Düsseldorf</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Du+Bist+Da,+Du+Bist+Fort+Simon+Wills&amp;search_field=search</field>
+</doc>
+</add>

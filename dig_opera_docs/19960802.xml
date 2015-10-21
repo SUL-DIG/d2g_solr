@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960802</field>
+<field name="title">Enchanted Island</field>
+<field name="titlesort">Enchanted Island</field>
+<field name="composer">David Farquhar</field>
+<field name="composersort">Farquhar, David</field>
+<field name="year">2005</field>
+<field name="date">July 9, 2005</field>
+<field name="librettist">David Farquhar</field>
+<field name="librettistsort">Farquhar, David</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistsort">Shakespeare, William</field>
+<field name="theater">Victoria University</field>
+<field name="city">Wellington</field>
+<field name="country">New Zealand</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Enchanted+Island+David+Farquhar&amp;search_field=search</field>
+</doc>
+</add>

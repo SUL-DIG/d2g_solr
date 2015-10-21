@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960478</field>
+<field name="title">Cuerpos deshabitados</field>
+<field name="titlesort">Cuerpos deshabitados</field>
+<field name="composer">José María Sánchez-Verdú</field>
+<field name="composersort">Sánchez-Verdú, José María</field>
+<field name="year">2003</field>
+<field name="date">September 29, 2003</field>
+<field name="librettist">Marina Bollaín </field>
+<field name="librettistsort">Bollaín, Marina</field>
+<field name="librettist">Rafael Alberti</field>
+<field name="librettistsort">Alberti, Rafael</field>
+<field name="theater">Residencia de Estudiantes</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cuerpos+deshabitados+José+María+Sánchez-Verdú&amp;search_field=search</field>
+</doc>
+</add>

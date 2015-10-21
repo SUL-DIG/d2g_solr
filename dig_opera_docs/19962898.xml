@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962898</field>
+<field name="title">Toyon of Alaska</field>
+<field name="titlesort">Toyon of Alaska</field>
+<field name="composer">William Straight</field>
+<field name="composersort">Straight, William</field>
+<field name="year">1967</field>
+<field name="date">July 7, 1967</field>
+<field name="librettist">Frank Brink</field>
+<field name="librettistsort">Brink, Frank</field>
+<field name="theater">Hering Auditorium</field>
+<field name="city">Anchorage</field>
+<field name="region">Alaska</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Toyon+of+Alaska+William+Straight&amp;search_field=search</field>
+</doc>
+</add>

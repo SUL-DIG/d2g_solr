@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960277</field>
+<field name="title">Barabbas</field>
+<field name="titlesort">Barabbas</field>
+<field name="composer">Ketil Hvoslef</field>
+<field name="composersort">Hvoslef, Ketil</field>
+<field name="year">2004</field>
+<field name="date">April 22, 2004</field>
+<field name="librettist">Ketil Hvoslef</field>
+<field name="librettistsort">Hvoslef, Ketil</field>
+<field name="librettist">Michel de Ghelderode</field>
+<field name="librettistsort">Ghelderode, Michel de</field>
+<field name="theater">Den Norske Opera</field>
+<field name="city">Oslo</field>
+<field name="country">Norway</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Barabbas+Ketil+Hvoslef&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960874</field>
+<field name="title">Fedra</field>
+<field name="titlesort">Fedra</field>
+<field name="composer">Mario Perusso</field>
+<field name="composersort">Perusso, Mario</field>
+<field name="year">2011</field>
+<field name="date">October 18, 2011</field>
+<field name="librettist">Marcelo Perusso</field>
+<field name="librettistsort">Perusso, Marcelo</field>
+<field name="theater">Teatro Colón</field>
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fedra+Mario+Perusso&amp;search_field=search</field>
+</doc>
+</add>

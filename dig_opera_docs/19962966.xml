@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962966</field>
+<field name="title">Urmuzica</field>
+<field name="titlesort">Urmuzica</field>
+<field name="composer">Sorin Lerescu</field>
+<field name="composersort">Lerescu, Sorin</field>
+<field name="year">1998</field>
+<field name="date">November 27, 1998</field>
+<field name="librettist">Pavel Puscas</field>
+<field name="librettistsort">Puscas, Pavel</field>
+<field name="theater">Opera Româna</field>
+<field name="city">Bucharest</field>
+<field name="country">Romania</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Urmuzica+Sorin+Lerescu&amp;search_field=search</field>
+</doc>
+</add>

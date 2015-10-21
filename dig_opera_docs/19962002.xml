@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962002</field>
+<field name="title">Pieces of Eight</field>
+<field name="titlesort">Pieces of Eight</field>
+<field name="composer">Bernard Wagenaar</field>
+<field name="composersort">Wagenaar, Bernard</field>
+<field name="year">1944</field>
+<field name="date">May 9, 1944</field>
+<field name="librettist">Edward Eager</field>
+<field name="librettistsort">Eager, Edward</field>
+<field name="theater">Columbia University</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pieces+of+Eight+Bernard+Wagenaar&amp;search_field=search</field>
+</doc>
+</add>

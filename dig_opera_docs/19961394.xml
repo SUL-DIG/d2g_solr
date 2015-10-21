@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961394</field>
+<field name="title">La cruz del sud (The Southern Cross)</field>
+<field name="titlesort">cruz del sud (The Southern Cross)</field>
+<field name="composer">Alfonso Broqua</field>
+<field name="composersort">Broqua, Alfonso</field>
+<field name="year">1979</field>
+<field name="date">November 9, 1979</field>
+<field name="librettist">Alfonso Broqua</field>
+<field name="librettistsort">Broqua, Alfonso</field>
+<field name="librettist">Robert Graham</field>
+<field name="librettistsort">Graham, Robert</field>
+<field name="theater">Teatro Solis</field>
+<field name="city">Montevideo</field>
+<field name="country">Uruguay</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=cruz+del+sud+(The+Southern+Cross)+Alfonso+Broqua&amp;search_field=search</field>
+</doc>
+</add>

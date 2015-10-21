@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962853</field>
+<field name="title">The World Knot</field>
+<field name="titlesort">World Knot</field>
+<field name="composer">Andrew Ford</field>
+<field name="composersort">Ford, Andrew</field>
+<field name="year">1988</field>
+<field name="date">October 28, 1988</field>
+<field name="librettist">Graham Devlin</field>
+<field name="librettistsort">Devlin, Graham</field>
+<field name="theater">Sydney Grammar School</field>
+<field name="city">Sydney</field>
+<field name="region">New South Wales</field>
+<field name="country">Australia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=World+Knot+Andrew+Ford&amp;search_field=search</field>
+</doc>
+</add>

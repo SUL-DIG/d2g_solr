@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960481</field>
+<field name="title">Cyrano</field>
+<field name="titlesort">Cyrano</field>
+<field name="composer">David DiChiera</field>
+<field name="composersort">DiChiera, David</field>
+<field name="year">2007</field>
+<field name="date">October 13, 2007</field>
+<field name="librettist">Bernard Uzan</field>
+<field name="librettistsort">Uzan, Bernard</field>
+<field name="librettist">Edmond Rostand</field>
+<field name="librettistsort">Rostand, Edmond</field>
+<field name="theater">Detroit Opera House</field>
+<field name="city">Detroit</field>
+<field name="region">Michigan</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cyrano+David+DiChiera&amp;search_field=search</field>
+</doc>
+</add>

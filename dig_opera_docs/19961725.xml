@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961725</field>
+<field name="title">Michael Kolhaas</field>
+<field name="titlesort">Michael Kolhaas</field>
+<field name="composer">Paul von Klenau</field>
+<field name="composersort">Klenau, Paul von</field>
+<field name="year">1934</field>
+<field name="date">March 7, 1934</field>
+<field name="librettist">Paul von Klenau</field>
+<field name="librettistsort">Klenau, Paul von</field>
+<field name="librettist">Heinrich von Kleist</field>
+<field name="librettistsort">Kleist, Heinrich von</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Michael+Kolhaas+Paul+von+Klenau&amp;search_field=search</field>
+</doc>
+</add>

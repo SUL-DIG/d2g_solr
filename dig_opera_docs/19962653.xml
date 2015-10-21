@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962653</field>
+<field name="title">The Mocking-Bird</field>
+<field name="titlesort">Mocking-Bird</field>
+<field name="composer">Thea Musgrave</field>
+<field name="composersort">Musgrave, Thea</field>
+<field name="year">2002</field>
+<field name="date">May 3, 2002</field>
+<field name="librettist">Thea Musgrave</field>
+<field name="librettistsort">Musgrave, Thea</field>
+<field name="librettist">Ambrose Bierce</field>
+<field name="librettistsort">Bierce, Ambrose</field>
+<field name="theater">Boston University</field>
+<field name="city">Boston</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mocking-Bird+Thea+Musgrave&amp;search_field=search</field>
+</doc>
+</add>

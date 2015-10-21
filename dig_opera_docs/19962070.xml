@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962070</field>
+<field name="title">Pünktchen und Anton</field>
+<field name="titlesort">Pünktchen und Anton</field>
+<field name="composer">Iván Eröd</field>
+<field name="composersort">Eröd, Iván</field>
+<field name="year">2010</field>
+<field name="date">May 5, 2010</field>
+<field name="librettist">Thomas Höft</field>
+<field name="librettistsort">Höft, Thomas</field>
+<field name="librettist">Erich Kästner</field>
+<field name="librettistsort">Kästner, Erich</field>
+<field name="theater">Staatsoper</field>
+<field name="city">Vienna</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pünktchen+und+Anton+Iván+Eröd&amp;search_field=search</field>
+</doc>
+</add>

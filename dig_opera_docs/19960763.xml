@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960763</field>
+<field name="title">El ángel de la muerte</field>
+<field name="titlesort">ángel de la muerte</field>
+<field name="composer">Mario Perusso</field>
+<field name="composersort">Perusso, Mario</field>
+<field name="year">2009</field>
+<field name="date">August 15, 2009</field>
+<field name="librettist">Marcelo Perusso</field>
+<field name="librettistsort">Perusso, Marcelo</field>
+<field name="librettist">Jean Cocteau</field>
+<field name="librettistsort">Cocteau, Jean</field>
+<field name="theater">Teatro Argentino</field>
+<field name="city">La Plata</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=ángel+de+la+muerte+Mario+Perusso&amp;search_field=search</field>
+</doc>
+</add>

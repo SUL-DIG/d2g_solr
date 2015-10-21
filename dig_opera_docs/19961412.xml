@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961412</field>
+<field name="title">La Lettre des sables</field>
+<field name="titlesort">Lettre des sables</field>
+<field name="composer">Christian Lauba</field>
+<field name="composersort">Lauba, Christian</field>
+<field name="year">2014</field>
+<field name="date">April 25, 2014</field>
+<field name="librettist">Daniel Mesguich</field>
+<field name="librettistsort">Mesguich, Daniel</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Bordeaux</field>
+<field name="region">Gironde</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lettre+des+sables+Christian+Lauba&amp;search_field=search</field>
+</doc>
+</add>

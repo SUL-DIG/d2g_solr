@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962828</field>
+<field name="title">The Wager</field>
+<field name="titlesort">Wager</field>
+<field name="composer">Buxton Orr</field>
+<field name="composersort">Orr, Buxton</field>
+<field name="year">1962</field>
+<field name="date">December 16, 1962</field>
+<field name="librettist">Hamilton Johnston</field>
+<field name="librettistsort">Johnston, Hamilton</field>
+<field name="theater">Sadler's Wells Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wager+Buxton+Orr&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962962</field>
+<field name="title">Unicamente la Verdad</field>
+<field name="titlesort">Unicamente la Verdad</field>
+<field name="composer">Gabriela Ortiz</field>
+<field name="composersort">Ortiz, Gabriela</field>
+<field name="year">2008</field>
+<field name="date">August 8, 2008</field>
+<field name="librettist">Rubén Ortiz Torres</field>
+<field name="librettistsort">Ortiz Torres, Rubén</field>
+<field name="theater">Indiana University</field>
+<field name="city">Bloomington</field>
+<field name="region">Indiana</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Unicamente+la+Verdad+Gabriela+Ortiz&amp;search_field=search</field>
+</doc>
+</add>

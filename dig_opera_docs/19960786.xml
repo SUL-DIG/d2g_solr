@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960786</field>
+<field name="title">Elisa</field>
+<field name="titlesort">Elisa</field>
+<field name="composer">Jan Sandström</field>
+<field name="composersort">Sandström, Jan</field>
+<field name="year">2011</field>
+<field name="date">September 21, 2011</field>
+<field name="librettist">Kjell Peder Johanson</field>
+<field name="librettistsort">Johanson, Kjell Peder</field>
+<field name="theater">Estrad Norr</field>
+<field name="city">Östersund</field>
+<field name="region">Jämtland</field>
+<field name="country">Sweden</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elisa+Jan+Sandström&amp;search_field=search</field>
+</doc>
+</add>

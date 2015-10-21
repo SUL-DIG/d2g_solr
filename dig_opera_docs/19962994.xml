@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962994</field>
+<field name="title">Vessel</field>
+<field name="titlesort">Vessel</field>
+<field name="composer">Meredith Monk</field>
+<field name="composersort">Monk, Meredith</field>
+<field name="year">1971</field>
+<field name="date">October 18, 1971</field>
+<field name="librettist">Meredith Monk</field>
+<field name="librettistsort">Monk, Meredith</field>
+<field name="theater">The House Gallery/Performing Garage/Wooster Parking Lot</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vessel+Meredith+Monk&amp;search_field=search</field>
+</doc>
+</add>

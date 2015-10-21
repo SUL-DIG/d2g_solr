@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961857</field>
+<field name="title">Nuit des hommes</field>
+<field name="titlesort">Nuit des hommes</field>
+<field name="composer">Per Nørgård</field>
+<field name="composersort">Nørgård, Per</field>
+<field name="year">1996</field>
+<field name="date">September 9, 1996</field>
+<field name="librettist">Guillaume Apollinaire</field>
+<field name="librettistsort">Apollinaire, Guillaume</field>
+<field name="theater">Albertslundhuset</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nuit+des+hommes+Per+Nørgård&amp;search_field=search</field>
+</doc>
+</add>

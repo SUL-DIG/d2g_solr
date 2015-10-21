@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960435</field>
+<field name="title">Chushingura (The 47 Ronin)</field>
+<field name="titlesort">Chushingura (The 47 Ronin)</field>
+<field name="composer">Shigeaki Saegusa</field>
+<field name="composersort">Saegusa, Shigeaki</field>
+<field name="year">1997</field>
+<field name="date">May 14, 1997</field>
+<field name="librettist">Shimada Masahiko</field>
+<field name="librettistsort">Masahiko, Shimada</field>
+<field name="theater">Tokyo Bunka Kaikan</field>
+<field name="city">Tokyo</field>
+<field name="region">Tokyo</field>
+<field name="country">Japan</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chushingura+(The+47+Ronin)+Shigeaki+Saegusa&amp;search_field=search</field>
+</doc>
+</add>

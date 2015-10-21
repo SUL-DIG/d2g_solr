@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961569</field>
+<field name="title">Little Red Riding Hood</field>
+<field name="titlesort">Little Red Riding Hood</field>
+<field name="composer">Mary a'Beckett</field>
+<field name="composersort">a'Beckett, Mary</field>
+<field name="year">1842</field>
+<field name="date">Aug 1842</field>
+<field name="librettist">Mary a'Beckett</field>
+<field name="librettistsort">a'Beckett, Mary</field>
+<field name="librettist">Jakob & Wilhelm Grimm</field>
+<field name="librettistsort">Grimm, Jakob & Wilhelm</field>
+<field name="theater">Surrey Gardens Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Little+Red+Riding+Hood+Mary+a'Beckett&amp;search_field=search</field>
+</doc>
+</add>

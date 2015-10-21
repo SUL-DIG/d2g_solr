@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962726</field>
+<field name="title">The Sailor-Boy and the Falcon</field>
+<field name="titlesort">Sailor-Boy and the Falcon</field>
+<field name="composer">Paul Siskind</field>
+<field name="composersort">Siskind, Paul</field>
+<field name="year">2006</field>
+<field name="date">November 17, 2006</field>
+<field name="librettist">Alan Steinberg</field>
+<field name="librettistsort">Steinberg, Alan</field>
+<field name="librettist">Karen Blixen</field>
+<field name="librettistsort">Blixen, Karen</field>
+<field name="theater">State University of New York</field>
+<field name="city">Potsdam</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sailor-Boy+and+the+Falcon+Paul+Siskind&amp;search_field=search</field>
+</doc>
+</add>

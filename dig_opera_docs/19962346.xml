@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962346</field>
+<field name="title">Springtime for Haman</field>
+<field name="titlesort">Springtime for Haman</field>
+<field name="composer">David Bass</field>
+<field name="composersort">Bass, David</field>
+<field name="year">2004</field>
+<field name="date">March 20, 2004</field>
+<field name="librettist">David Bass</field>
+<field name="librettistsort">Bass, David</field>
+<field name="theater">King Open School</field>
+<field name="city">Cambridge</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Springtime+for+Haman+David+Bass&amp;search_field=search</field>
+</doc>
+</add>

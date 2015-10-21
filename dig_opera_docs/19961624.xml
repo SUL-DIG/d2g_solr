@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961624</field>
+<field name="title">Madonna Furiosa</field>
+<field name="titlesort">Madonna Furiosa</field>
+<field name="composer">Bertil Palmar Johansen</field>
+<field name="composersort">Johansen, Bertil Palmar</field>
+<field name="year">2005</field>
+<field name="date">August 1, 2005</field>
+<field name="librettist">Tale Naess</field>
+<field name="librettistsort">Naess, Tale</field>
+<field name="theater">Nidarosdomen Olavsfestdagene</field>
+<field name="city">Trondheim</field>
+<field name="region">Sør-Trøndelag</field>
+<field name="country">Norway</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Madonna+Furiosa+Bertil+Palmar+Johansen&amp;search_field=search</field>
+</doc>
+</add>

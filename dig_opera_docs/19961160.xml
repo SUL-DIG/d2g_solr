@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961160</field>
+<field name="title">Il medico dei pazzi</field>
+<field name="titlesort">medico dei pazzi</field>
+<field name="composer">Giorgio Battistelli</field>
+<field name="composersort">Battistelli, Giorgio</field>
+<field name="year">2014</field>
+<field name="date">June 20, 2014</field>
+<field name="librettist">Giorgio Battistelli</field>
+<field name="librettistsort">Battistelli, Giorgio</field>
+<field name="librettist">Eduardo Scarpetta</field>
+<field name="librettistsort">Scarpetta, Eduardo</field>
+<field name="theater">Opéra national de Lorraine</field>
+<field name="city">Nancy</field>
+<field name="region">Meurthe-et-Moselle</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=medico+dei+pazzi+Giorgio+Battistelli&amp;search_field=search</field>
+</doc>
+</add>

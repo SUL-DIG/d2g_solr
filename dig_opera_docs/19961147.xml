@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961147</field>
+<field name="title">Īkstīte (Thumbelina)</field>
+<field name="titlesort">Īkstīte (Thumbelina)</field>
+<field name="composer">Jānis Lūsēns</field>
+<field name="composersort">Lūsēns, Jānis</field>
+<field name="year">2003</field>
+<field name="librettist">Māra Zālīte</field>
+<field name="librettistsort">Zālīte, Māra</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistsort">Andersen, Hans Christian</field>
+<field name="theater">Dailes Teatris</field>
+<field name="city">Riga</field>
+<field name="country">Latvia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Īkstīte+(Thumbelina)+Jānis+Lūsēns&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960363</field>
+<field name="title">Brokeback Mountain</field>
+<field name="titlesort">Brokeback Mountain</field>
+<field name="composer">Charles Wuorinen</field>
+<field name="composersort">Wuorinen, Charles</field>
+<field name="year">2014</field>
+<field name="date">January 28, 2014</field>
+<field name="librettist">Annie Proulx</field>
+<field name="librettistsort">Proulx, Annie</field>
+<field name="theater">Teatro Rea</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Brokeback+Mountain+Charles+Wuorinen&amp;search_field=search</field>
+</doc>
+</add>

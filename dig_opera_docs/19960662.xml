@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960662</field>
+<field name="title">Die Wält der Zwischenfälle</field>
+<field name="titlesort">Wält der Zwischenfälle</field>
+<field name="composer">Haflidi Hallgrímsson</field>
+<field name="composersort">Hallgrímsson, Haflidi</field>
+<field name="year">2004</field>
+<field name="date">January 30, 2004</field>
+<field name="librettist">Daniil Kharms</field>
+<field name="librettistsort">Kharms, Daniil</field>
+<field name="theater">Bühnen der Hansastadt</field>
+<field name="city">Lübeck</field>
+<field name="region">Schleswig-Holstein</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wält+der+Zwischenfälle+Haflidi+Hallgrímsson&amp;search_field=search</field>
+</doc>
+</add>

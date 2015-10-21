@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960468</field>
+<field name="title">Coyote Tales</field>
+<field name="titlesort">Coyote Tales</field>
+<field name="composer">Henry Mollicone</field>
+<field name="composersort">Mollicone, Henry</field>
+<field name="year">1998</field>
+<field name="date">March 7, 1998</field>
+<field name="librettist">Sheldon Harnick</field>
+<field name="librettistsort">Harnick, Sheldon</field>
+<field name="theater">Lyric Opera</field>
+<field name="city">Kansas City</field>
+<field name="region">Missouri</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Coyote+Tales+Henry+Mollicone&amp;search_field=search</field>
+</doc>
+</add>

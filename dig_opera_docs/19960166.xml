@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960166</field>
+<field name="title">Angela and Her Sisters</field>
+<field name="titlesort">Angela and Her Sisters</field>
+<field name="composer">Dean Burry</field>
+<field name="composersort">Burry, Dean</field>
+<field name="year">2010</field>
+<field name="date">May 1, 2010</field>
+<field name="librettist">Katherine Twaddle</field>
+<field name="librettistsort">Twaddle, Katherine</field>
+<field name="librettist">Italo Calvino</field>
+<field name="librettistsort">Calvino, Italo</field>
+<field name="theater">Rossbrook House</field>
+<field name="city">Winnipeg</field>
+<field name="region">Manitoba</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Angela+and+Her+Sisters+Dean+Burry&amp;search_field=search</field>
+</doc>
+</add>

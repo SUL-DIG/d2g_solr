@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962321</field>
+<field name="title">Sokrates</field>
+<field name="titlesort">Sokrates</field>
+<field name="composer">Boudewijn Buckinx</field>
+<field name="composersort">Buckinx, Boudewijn</field>
+<field name="year">1997</field>
+<field name="date">May 5, 1997</field>
+<field name="theater">De Rode Pomp</field>
+<field name="city">Ghent</field>
+<field name="region">Flaanderen</field>
+<field name="country">Belgium</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sokrates+Boudewijn+Buckinx&amp;search_field=search</field>
+</doc>
+</add>

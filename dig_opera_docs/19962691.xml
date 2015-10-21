@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962691</field>
+<field name="title">The Picture of Dorian Gray</field>
+<field name="titlesort">Picture of Dorian Gray</field>
+<field name="composer">Jeffrey Brody</field>
+<field name="composersort">Brody, Jeffrey</field>
+<field name="year">2011</field>
+<field name="date">June 3, 2011</field>
+<field name="librettist">Jim Saslow</field>
+<field name="librettistsort">Saslow, Jim</field>
+<field name="librettist">Oscar Wilde</field>
+<field name="librettistsort">Wilde, Oscar</field>
+<field name="theater">Christ Episcopal Church</field>
+<field name="city">Needham</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Picture+of+Dorian+Gray+Jeffrey+Brody&amp;search_field=search</field>
+</doc>
+</add>

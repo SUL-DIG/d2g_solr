@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960598</field>
+<field name="title">Derrière son double</field>
+<field name="titlesort">Derrière son double</field>
+<field name="composer">Elżbieta Sikora</field>
+<field name="composersort">Sikora, Elżbieta</field>
+<field name="year">1983</field>
+<field name="librettist">Jean-Pierre Dupre</field>
+<field name="librettistsort">Dupre, Jean-Pierre</field>
+<field name="theater">Radio France</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Derrière+son+double+Elżbieta+Sikora&amp;search_field=search</field>
+</doc>
+</add>

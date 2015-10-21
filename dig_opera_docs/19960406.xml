@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960406</field>
+<field name="title">Cat: The Opera-Musical</field>
+<field name="titlesort">Cat: The Opera-Musical</field>
+<field name="composer">Kitty Brazelton</field>
+<field name="composersort">Brazelton, Kitty</field>
+<field name="year">2010</field>
+<field name="date">September 19, 2010</field>
+<field name="librettist">George Plimpton</field>
+<field name="librettistsort">Plimpton, George</field>
+<field name="theater">Central Park Zoo</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cat:+The+Opera-Musical+Kitty+Brazelton&amp;search_field=search</field>
+</doc>
+</add>

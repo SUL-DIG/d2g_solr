@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960578</field>
+<field name="title">Der Regimentsprediger</field>
+<field name="titlesort">Regimentsprediger</field>
+<field name="composer">__ Noll</field>
+<field name="composersort">Noll, __</field>
+<field name="year">1847</field>
+<field name="librettist">__ Hiller</field>
+<field name="librettistsort">Hiller, __</field>
+<field name="librettist">Henri de Saint-Georges  </field>
+<field name="librettistsort">Saint-Georges, Henri de</field>
+<field name="theater">Königliches Theater</field>
+<field name="city">Wiesbaden</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Regimentsprediger+__+Noll&amp;search_field=search</field>
+</doc>
+</add>

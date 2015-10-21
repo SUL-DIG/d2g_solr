@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960045</field>
+<field name="title">A Little Madness in the Spring</field>
+<field name="titlesort">Little Madness in the Spring</field>
+<field name="composer">António Pinho Vargas</field>
+<field name="composersort">Vargas, António Pinho</field>
+<field name="year">2006</field>
+<field name="date">September 14, 2006</field>
+<field name="librettist">Paulo Tunhas</field>
+<field name="librettistsort">Tunhas, Paulo</field>
+<field name="theater">Casa da Música</field>
+<field name="city">Oporto</field>
+<field name="region">Porto</field>
+<field name="country">Portugal</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Little+Madness+in+the+Spring+António+Pinho+Vargas&amp;search_field=search</field>
+</doc>
+</add>

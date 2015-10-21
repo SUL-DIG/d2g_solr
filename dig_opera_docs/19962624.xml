@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962624</field>
+<field name="title">The Lightning Rod Man</field>
+<field name="titlesort">Lightning Rod Man</field>
+<field name="composer">Martin Dixon</field>
+<field name="composersort">Dixon, Martin</field>
+<field name="year">2009</field>
+<field name="date">February 20, 2009</field>
+<field name="librettist">Amy Parker</field>
+<field name="librettistsort">Parker, Amy</field>
+<field name="librettist">Herman Melville</field>
+<field name="librettistsort">Melville, Herman</field>
+<field name="theater">Oran Mor</field>
+<field name="city">Glasgow</field>
+<field name="region">Scotland</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lightning+Rod+Man+Martin+Dixon&amp;search_field=search</field>
+</doc>
+</add>

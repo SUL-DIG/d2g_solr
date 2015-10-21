@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962516</field>
+<field name="title">The Doll's House</field>
+<field name="titlesort">Doll's House</field>
+<field name="composer">Stephen Eddins</field>
+<field name="composersort">Eddins, Stephen</field>
+<field name="year">2002</field>
+<field name="date">June 7, 2002</field>
+<field name="librettist">Vincent de Tourdonnet</field>
+<field name="librettistsort">Tourdonnet, Vincent de</field>
+<field name="librettist">Katherine Mansfield</field>
+<field name="librettistsort">Mansfield, Katherine</field>
+<field name="theater">Factory Studio Theatre</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Doll's+House+Stephen+Eddins&amp;search_field=search</field>
+</doc>
+</add>

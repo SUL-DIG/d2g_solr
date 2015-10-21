@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960782</field>
+<field name="title">Electra</field>
+<field name="titlesort">Electra</field>
+<field name="composer">Mikis Theodorakes</field>
+<field name="composersort">Theodorakes, Mikis</field>
+<field name="year">1995</field>
+<field name="date">May 2, 1995</field>
+<field name="librettist">Spyros Evangelatos</field>
+<field name="librettistsort">Evangelatos, Spyros</field>
+<field name="theater">Grand Théâtre</field>
+<field name="city">Luxembourg</field>
+<field name="country">Luxembourg</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Electra+Mikis+Theodorakes&amp;search_field=search</field>
+</doc>
+</add>

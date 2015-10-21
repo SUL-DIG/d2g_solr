@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961939</field>
+<field name="title">Out of the Rain</field>
+<field name="titlesort">Out of the Rain</field>
+<field name="composer">Michael Ching</field>
+<field name="composersort">Ching, Michael</field>
+<field name="year">1998</field>
+<field name="date">September 25, 1998</field>
+<field name="librettist">Hugh Moffatt</field>
+<field name="librettistsort">Moffatt, Hugh</field>
+<field name="theater">Grand Opera House</field>
+<field name="city">Wilmington</field>
+<field name="region">Delaware</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Out+of+the+Rain+Michael+Ching&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961881</field>
+<field name="title">Ofelia</field>
+<field name="titlesort">Ofelia</field>
+<field name="composer">[Tomasz Praszczałek] Prasqual</field>
+<field name="composersort">Prasqual, [Tomasz Praszczałek]</field>
+<field name="year">2011</field>
+<field name="date">February 26, 2011</field>
+<field name="librettist">[Tomasz Praszczałek] Prasqual</field>
+<field name="librettistsort">Prasqual, [Tomasz Praszczałek]</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistsort">Shakespeare, William</field>
+<field name="theater">Teatr Wielki</field>
+<field name="city">Poznan</field>
+<field name="region">Wielkopolskie</field>
+<field name="country">Poland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ofelia+[Tomasz+Praszczałek]+Prasqual&amp;search_field=search</field>
+</doc>
+</add>

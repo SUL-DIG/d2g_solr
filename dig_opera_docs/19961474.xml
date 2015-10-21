@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961474</field>
+<field name="title">Le château des Carpathes</field>
+<field name="titlesort">château des Carpathes</field>
+<field name="composer">Philippe Hersant</field>
+<field name="composersort">Hersant, Philippe</field>
+<field name="year">1992</field>
+<field name="date">August 1, 1992</field>
+<field name="librettist">Jorge Silva Melo</field>
+<field name="librettistsort">Melo, Jorge Silva</field>
+<field name="librettist">Jules Verne</field>
+<field name="librettistsort">Verne, Jules</field>
+<field name="theater">Orchestre philharmonique de Montpellier</field>
+<field name="city">Montpellier</field>
+<field name="region">Hérault</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=château+des+Carpathes+Philippe+Hersant&amp;search_field=search</field>
+</doc>
+</add>

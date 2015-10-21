@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962602</field>
+<field name="title">The Joy that Kills</field>
+<field name="titlesort">Joy that Kills</field>
+<field name="composer">Thomas Benjamin</field>
+<field name="composersort">Benjamin, Thomas</field>
+<field name="year">1998</field>
+<field name="date">April 25, 1998</field>
+<field name="librettist">Roger Brunyate</field>
+<field name="librettistsort">Brunyate, Roger</field>
+<field name="theater">Peabody Conservatory</field>
+<field name="city">Baltimore</field>
+<field name="region">Maryland</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Joy+that+Kills+Thomas+Benjamin&amp;search_field=search</field>
+</doc>
+</add>

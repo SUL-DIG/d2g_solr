@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961087</field>
+<field name="title">Hildegard</field>
+<field name="titlesort">Hildegard</field>
+<field name="composer">Janika Vandervelde</field>
+<field name="composersort">Vandervelde, Janika</field>
+<field name="year">1989</field>
+<field name="date">September 1, 1989</field>
+<field name="librettist">Susan McClary</field>
+<field name="librettistsort">McClary, Susan</field>
+<field name="theater">Southern Theater</field>
+<field name="city">Minneapolis</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hildegard+Janika+Vandervelde&amp;search_field=search</field>
+</doc>
+</add>

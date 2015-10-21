@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962664</field>
+<field name="title">The Night of the Wedding</field>
+<field name="titlesort">Night of the Wedding</field>
+<field name="composer">Michael Hurd</field>
+<field name="composersort">Hurd, Michael</field>
+<field name="year">1998</field>
+<field name="date">March 30, 1998</field>
+<field name="librettist">Michael Hurd</field>
+<field name="librettistsort">Hurd, Michael</field>
+<field name="librettist">Frank Witney</field>
+<field name="librettistsort">Witney, Frank</field>
+<field name="theater">Spring Festival</field>
+<field name="city">Port Fairy</field>
+<field name="region">Victoria</field>
+<field name="country">Australia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Night+of+the+Wedding+Michael+Hurd&amp;search_field=search</field>
+</doc>
+</add>

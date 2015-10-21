@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960536</field>
+<field name="title">Death of Columbus</field>
+<field name="titlesort">Death of Columbus</field>
+<field name="composer">Leonardo Balada</field>
+<field name="composersort">Balada, Leonardo</field>
+<field name="year">2005</field>
+<field name="date">January 13, 1995</field>
+<field name="librettist">Leonardo Balada</field>
+<field name="librettistsort">Balada, Leonardo</field>
+<field name="theater">Carnegie Mellon University</field>
+<field name="city">Pittsburgh</field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Death+of+Columbus+Leonardo+Balada&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962086</field>
+<field name="title">Queer</field>
+<field name="titlesort">Queer</field>
+<field name="composer">Erling Wold</field>
+<field name="composersort">Wold, Erling</field>
+<field name="year">2001</field>
+<field name="date">April 13, 2001</field>
+<field name="librettist">Erling Wold</field>
+<field name="librettistsort">Wold, Erling</field>
+<field name="librettist">John Morace</field>
+<field name="librettistsort">Morace, John</field>
+<field name="theater">ODC Theater</field>
+<field name="city">San Francisco</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Queer+Erling+Wold&amp;search_field=search</field>
+</doc>
+</add>

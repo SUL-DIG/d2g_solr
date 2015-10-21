@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961330</field>
+<field name="title">Koppelberg</field>
+<field name="titlesort">Koppelberg</field>
+<field name="composer">Steve Gray</field>
+<field name="composersort">Gray, Steve</field>
+<field name="year">1989</field>
+<field name="librettist">Norman Brooke</field>
+<field name="librettistsort">Brooke, Norman</field>
+<field name="theater">W11 Opera</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Koppelberg+Steve+Gray&amp;search_field=search</field>
+</doc>
+</add>

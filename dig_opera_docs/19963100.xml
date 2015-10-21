@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963100</field>
+<field name="title">Zeller</field>
+<field name="titlesort">Zeller</field>
+<field name="composer">Peter Cowdrey</field>
+<field name="composersort">Cowdrey, Peter</field>
+<field name="year">1985</field>
+<field name="librettist">Henry Shukman</field>
+<field name="librettistsort">Shukman, Henry</field>
+<field name="theater">Cambridge University</field>
+<field name="city">Cambridge</field>
+<field name="region">Cambridgeshire</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zeller+Peter+Cowdrey&amp;search_field=search</field>
+</doc>
+</add>

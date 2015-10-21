@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961983</field>
+<field name="title">Penthesilea</field>
+<field name="titlesort">Penthesilea</field>
+<field name="composer">Pascal Dusapin</field>
+<field name="composersort">Dusapin, Pascal</field>
+<field name="year">2015</field>
+<field name="date">March 31, 2015</field>
+<field name="librettist">Othmar Schoeck</field>
+<field name="librettistsort">Schoeck, Othmar</field>
+<field name="librettist">Heinrich von Kleist</field>
+<field name="librettistsort">Kleist, Heinrich von</field>
+<field name="theater">Théâtre-Royal de la Monnaie</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Penthesilea+Pascal+Dusapin&amp;search_field=search</field>
+</doc>
+</add>

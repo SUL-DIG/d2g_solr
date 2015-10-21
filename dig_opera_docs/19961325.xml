@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961325</field>
+<field name="title">Koirien Kalevala (The Canine Kalevala)</field>
+<field name="titlesort">Koirien Kalevala (The Canine Kalevala)</field>
+<field name="composer">Jaakko Kuusisto</field>
+<field name="composersort">Kuusisto, Jaakko</field>
+<field name="year">2004</field>
+<field name="date">July 12, 2004</field>
+<field name="librettist">Sami Parkkinen</field>
+<field name="librettistsort">Parkkinen, Sami</field>
+<field name="librettist">Mauri Kunnas</field>
+<field name="librettistsort">Kunnas, Mauri</field>
+<field name="theater">Savonlinnan Ooperajuhlat</field>
+<field name="city">Savonlinna</field>
+<field name="region">Etelä-Savo</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Koirien+Kalevala+(The+Canine+Kalevala)+Jaakko+Kuusisto&amp;search_field=search</field>
+</doc>
+</add>

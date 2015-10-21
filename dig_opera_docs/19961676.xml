@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961676</field>
+<field name="title">Marta Grun</field>
+<field name="titlesort">Marta Grun</field>
+<field name="composer">Jaurés Lamarque-Pons</field>
+<field name="composersort">Lamarque-Pons, Jaurés</field>
+<field name="year">1967</field>
+<field name="librettist">Florencio Sánchez</field>
+<field name="librettistsort">Sánchez, Florencio</field>
+<field name="theater">Teatro Solis</field>
+<field name="city">Montevideo</field>
+<field name="country">Uruguay</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marta+Grun+Jaurés+Lamarque-Pons&amp;search_field=search</field>
+</doc>
+</add>

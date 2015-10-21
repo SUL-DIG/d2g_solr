@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962044</field>
+<field name="title">Prelude to a Fable</field>
+<field name="titlesort">Prelude to a Fable</field>
+<field name="composer">Gary Bachlund</field>
+<field name="composersort">Bachlund, Gary</field>
+<field name="year">2001</field>
+<field name="librettist">Gary Bachlund</field>
+<field name="librettistsort">Bachlund, Gary</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistsort">Andersen, Hans Christian</field>
+<field name="theater">Pasadena City College</field>
+<field name="city">Pasadena</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prelude+to+a+Fable+Gary+Bachlund&amp;search_field=search</field>
+</doc>
+</add>

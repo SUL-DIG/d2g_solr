@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961945</field>
+<field name="title">P'tit Pierre et la sorcière du placard aux balais</field>
+<field name="titlesort">P'tit Pierre et la sorcière du placard aux balais</field>
+<field name="composer">Marcel Landowski</field>
+<field name="composersort">Landowski, Marcel</field>
+<field name="year">1992</field>
+<field name="date">May 7, 1992</field>
+<field name="librettist">Marcel Landowski</field>
+<field name="librettistsort">Landowski, Marcel</field>
+<field name="librettist">Pierre Gripari</field>
+<field name="librettistsort">Gripari, Pierre</field>
+<field name="theater">Atelier lyrique de l'Opéra National du Rhin</field>
+<field name="city">Colmar</field>
+<field name="region">Haut-Rhin</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=P'tit+Pierre+et+la+sorcière+du+placard+aux+balais+Marcel+Landowski&amp;search_field=search</field>
+</doc>
+</add>

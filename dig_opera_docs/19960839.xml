@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960839</field>
+<field name="title">Ezra</field>
+<field name="titlesort">Ezra</field>
+<field name="composer">Frans Winther</field>
+<field name="composersort">Winther, Frans</field>
+<field name="year">2005</field>
+<field name="date">August 27, 2005</field>
+<field name="librettist">Peter Laugesen</field>
+<field name="librettistsort">Laugesen, Peter</field>
+<field name="librettist">Ezra Pound</field>
+<field name="librettistsort">Pound, Ezra</field>
+<field name="theater">Knudsens Sal</field>
+<field name="city">Holstebro</field>
+<field name="region">Midtjylland</field>
+<field name="country">Denmark</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ezra+Frans+Winther&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960699</field>
+<field name="title">Doubt </field>
+<field name="titlesort">Doubt </field>
+<field name="composer">Douglas J. Cuomo</field>
+<field name="composersort">Cuomo, Douglas  J.</field>
+<field name="year">2013</field>
+<field name="date">January 26, 2013</field>
+<field name="librettist">John Patrick Shanley</field>
+<field name="librettistsort">Shanley, John Patrick</field>
+<field name="theater">Ordway Theater</field>
+<field name="city">St. Paul</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Doubt++Douglas+J.+Cuomo&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962511</field>
+<field name="title">The Directions</field>
+<field name="titlesort">Directions</field>
+<field name="composer">Michael Torke</field>
+<field name="composersort">Torke, Michael</field>
+<field name="year">1986</field>
+<field name="date">August 22, 1986</field>
+<field name="librettist">Michael Torke</field>
+<field name="librettistsort">Torke, Michael</field>
+<field name="theater">Moussikos Avgoustos Festival</field>
+<field name="city">Iráklion</field>
+<field name="region">Kriti</field>
+<field name="country">Greece</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Directions+Michael+Torke&amp;search_field=search</field>
+</doc>
+</add>

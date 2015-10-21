@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962199</field>
+<field name="title">Sabalkazin</field>
+<field name="titlesort">Sabalkazin</field>
+<field name="composer">Vincent Fosse</field>
+<field name="composersort">Fosse, Vincent</field>
+<field name="year">1898</field>
+<field name="librettist">__ Saint-Henry</field>
+<field name="librettistsort">Saint-Henry, __</field>
+<field name="theater">Théâtre des Variétés</field>
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sabalkazin+Vincent+Fosse&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962066</field>
+<field name="title">Pula! Ooppera Konikapinasta</field>
+<field name="titlesort">Pula! Ooppera Konikapinasta</field>
+<field name="composer">lkka Kuusisto</field>
+<field name="composersort">Kuusisto, Ilkka</field>
+<field name="year">2004</field>
+<field name="date">June 15, 2004</field>
+<field name="librettist">Varpu Vilkuna-Uusitalo</field>
+<field name="librettistsort">Vilkuna-Uusitalo, Varpu</field>
+<field name="librettist">Jaakko Alatalo</field>
+<field name="librettistsort">Alatalo, Jaakko</field>
+<field name="theater">Nivalan Liikuntakeskus Oy</field>
+<field name="city">Vaasa</field>
+<field name="region">Pohjanmaa</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pula!+Ooppera+Konikapinasta+lkka+Kuusisto&amp;search_field=search</field>
+</doc>
+</add>

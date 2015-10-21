@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960148</field>
+<field name="title">An der schönen blauen Donau</field>
+<field name="titlesort">An der schönen blauen Donau</field>
+<field name="composer">Franz Hummel</field>
+<field name="composersort">Hummel, Franz</field>
+<field name="year">1993</field>
+<field name="date">November 1, 1993</field>
+<field name="librettist">Elisabeth Gutjahr</field>
+<field name="librettistsort">Gutjahr, Elisabeth</field>
+<field name="theater">Felsentheater</field>
+<field name="city">Klagenfurt</field>
+<field name="region">Kärnten</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=An+der+schönen+blauen+Donau+Franz+Hummel&amp;search_field=search</field>
+</doc>
+</add>

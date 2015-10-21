@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962488</field>
+<field name="title">The Children's Crusade</field>
+<field name="titlesort">Children's Crusade</field>
+<field name="composer">R. Murray Schafer</field>
+<field name="composersort">Schafer, R. Murray</field>
+<field name="year">2009</field>
+<field name="date">June 9, 2009</field>
+<field name="librettist">R. Murray Schafer</field>
+<field name="librettistsort">Schafer, R. Murray</field>
+<field name="theater">Warehouse, 153 Dufferin Street</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Children's+Crusade+R.+Murray+Schafer&amp;search_field=search</field>
+</doc>
+</add>

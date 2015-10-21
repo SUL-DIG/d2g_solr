@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961117</field>
+<field name="title">Hui Kauhistus</field>
+<field name="titlesort">Hui Kauhistus</field>
+<field name="composer">Jukka Linkola</field>
+<field name="composersort">Linkola, Jukka</field>
+<field name="year">2006</field>
+<field name="date">July 17, 2006</field>
+<field name="librettist">Sami Parkinnen</field>
+<field name="librettistsort">Parkinnen, Sami</field>
+<field name="librettist">Mauri Kunnas</field>
+<field name="librettistsort">Kunnas, Mauri</field>
+<field name="theater">Savonlinnan Ooperajuhlat</field>
+<field name="city">Savonlinna</field>
+<field name="region">Etelä-Savo</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hui+Kauhistus+Jukka+Linkola&amp;search_field=search</field>
+</doc>
+</add>

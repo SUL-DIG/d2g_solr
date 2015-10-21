@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962712</field>
+<field name="title">The Rage of Life </field>
+<field name="titlesort">Rage of Life </field>
+<field name="composer">Elena Kats-Chernin</field>
+<field name="composersort">Kats-Chernin, Elena</field>
+<field name="year">2010</field>
+<field name="date">April 24, 2010</field>
+<field name="librettist">Igor Bauersima</field>
+<field name="librettistsort">Bauersima, Igor</field>
+<field name="theater">Troubleyn Laboratorium</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+<field name="genre">Opera</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rage+of+Life +Elena+Kats-Chernin&amp;search_field=search</field>
+</doc>
+</add>

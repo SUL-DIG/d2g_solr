@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960003</field>
+<field name="title">1 Plum Square</field>
+<field name="titlesort">1 Plum Square</field>
+<field name="composer">Amy Kohn</field>
+<field name="composersort">Kohn, Amy</field>
+<field name="year">2005</field>
+<field name="date">July 8, 2005</field>
+<field name="librettist">Amy Kohn</field>
+<field name="librettistsort">Kohn, Amy</field>
+<field name="theater">WNYC Radio</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=1+Plum+Square+Amy+Kohn&amp;search_field=search</field>
+</doc>
+</add>

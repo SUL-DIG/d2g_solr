@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960844</field>
+<field name="title">Fackeltanz</field>
+<field name="titlesort">Fackeltanz</field>
+<field name="composer">Bent Lorentzen</field>
+<field name="composersort">Lorentzen, Bent</field>
+<field name="year">1993</field>
+<field name="date">July 29, 1993</field>
+<field name="librettist">Michael Leinert</field>
+<field name="librettistsort">Leinert, Michael</field>
+<field name="theater">Ebeltoft Festival</field>
+<field name="city">Århus</field>
+<field name="region">Midtjylland</field>
+<field name="country">Denmark</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fackeltanz+Bent+Lorentzen&amp;search_field=search</field>
+</doc>
+</add>

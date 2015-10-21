@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960837</field>
+<field name="title">Expectation</field>
+<field name="titlesort">Expectation</field>
+<field name="composer">Franghiz Ali-Zadeh</field>
+<field name="composersort">Ali-Zadeh, Franghiz</field>
+<field name="year">2014</field>
+<field name="date">May 4, 2014</field>
+<field name="theater">Azerbaijanskiy Akademicheskiy Teatr Operï i Baleta imeni F. Akhundova</field>
+<field name="city">Baku</field>
+<field name="country">Azerbaijan</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Expectation+Franghiz+Ali-Zadeh&amp;search_field=search</field>
+</doc>
+</add>

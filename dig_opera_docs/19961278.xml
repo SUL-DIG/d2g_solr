@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961278</field>
+<field name="title">Kamouraska</field>
+<field name="titlesort">Kamouraska</field>
+<field name="composer">Charles Wilson</field>
+<field name="composersort">Wilson, Charles</field>
+<field name="year">2009</field>
+<field name="date">March 28, 2009</field>
+<field name="librettist">Charles Wilson</field>
+<field name="librettistsort">Wilson, Charles</field>
+<field name="librettist">Anne Hébert </field>
+<field name="librettistsort">Hébert, Anne</field>
+<field name="theater">Jane Mallett Theatre</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kamouraska+Charles+Wilson&amp;search_field=search</field>
+</doc>
+</add>

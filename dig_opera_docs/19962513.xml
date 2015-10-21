@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962513</field>
+<field name="title">The Doctor</field>
+<field name="titlesort">Doctor</field>
+<field name="composer">Martin Herman</field>
+<field name="composersort">Herman, Martin</field>
+<field name="year">2009</field>
+<field name="date">September 17, 2009</field>
+<field name="librettist">Tom Curley</field>
+<field name="librettistsort">Curley, Tom</field>
+<field name="librettist">Anton Pavlovich Chekhov</field>
+<field name="librettistsort">Chekhov, Anton Pavlovich</field>
+<field name="theater">La Mama Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Doctor+Martin+Herman&amp;search_field=search</field>
+</doc>
+</add>

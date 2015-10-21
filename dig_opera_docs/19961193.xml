@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961193</field>
+<field name="title">Inquest of Love</field>
+<field name="titlesort">Inquest of Love</field>
+<field name="composer">Jonathan Harvey</field>
+<field name="composersort">Harvey, Jonathan</field>
+<field name="year">1993</field>
+<field name="date">June 5, 1993</field>
+<field name="librettist">Jonathan Harvey</field>
+<field name="librettistsort">Harvey, Jonathan</field>
+<field name="librettist">David Rudkin</field>
+<field name="librettistsort">Rudkin, David</field>
+<field name="theater">Coliseum</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Inquest+of+Love+Jonathan+Harvey&amp;search_field=search</field>
+</doc>
+</add>

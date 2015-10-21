@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960749</field>
+<field name="title">Education of the Girlchild</field>
+<field name="titlesort">Education of the Girlchild</field>
+<field name="composer">Meredith Monk</field>
+<field name="composersort">Monk, Meredith</field>
+<field name="year">1973</field>
+<field name="date">November 1, 1973</field>
+<field name="librettist">Meredith Monk</field>
+<field name="librettistsort">Monk, Meredith</field>
+<field name="theater">Cathedral of St. John the Divine</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Education+of+the+Girlchild+Meredith+Monk&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960407</field>
+<field name="title">Cautionary Tales</field>
+<field name="titlesort">Cautionary Tales</field>
+<field name="composer">Errollyn Wallen</field>
+<field name="composersort">Wallen, Errollyn</field>
+<field name="year">2011</field>
+<field name="date">March 7, 2011</field>
+<field name="librettist">Pia Furtado</field>
+<field name="librettistsort">Furtado, Pia</field>
+<field name="librettist">Hilaire Belloc</field>
+<field name="librettistsort">Belloc, Hilaire</field>
+<field name="theater">Opera North</field>
+<field name="city">Leeds</field>
+<field name="region">West Yorkshire</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cautionary+Tales+Errollyn+Wallen&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962837</field>
+<field name="title">The Way Back Home</field>
+<field name="titlesort">Way Back Home</field>
+<field name="composer">Joanna Lee</field>
+<field name="composersort">Lee, Joanna</field>
+<field name="year">2014</field>
+<field name="date">December 11, 2014</field>
+<field name="librettist">Rory Mullarkey</field>
+<field name="librettistsort">Mullarkey, Rory</field>
+<field name="librettist">Oliver Jeffers</field>
+<field name="librettistsort">Jeffers, Oliver</field>
+<field name="theater">Young Vic</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Way+Back+Home+Joanna+Lee&amp;search_field=search</field>
+</doc>
+</add>

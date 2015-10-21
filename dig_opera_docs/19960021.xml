@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960021</field>
+<field name="title">A chorona</field>
+<field name="titlesort">chorona</field>
+<field name="composer">Manuel Durão</field>
+<field name="composersort">Durão, Manuel</field>
+<field name="year">2007</field>
+<field name="date">March 25, 2007</field>
+<field name="librettist">Jorge Vaz Nande</field>
+<field name="librettistsort">Nande, Jorge Vaz</field>
+<field name="theater">São Luiz Teatro Municipal</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=chorona+Manuel+Durão&amp;search_field=search</field>
+</doc>
+</add>

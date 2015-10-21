@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961083</field>
+<field name="title">Hexen 1x1</field>
+<field name="titlesort">Hexen 1x1</field>
+<field name="composer">Franz Hummel</field>
+<field name="composersort">Hummel, Franz</field>
+<field name="year">2011</field>
+<field name="date">March 19, 2011</field>
+<field name="librettist">Ursula Galli</field>
+<field name="librettistsort">Galli, Ursula</field>
+<field name="theater">Staatliche Textil- und Industriemuseum</field>
+<field name="city">Augsburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hexen+1x1+Franz+Hummel&amp;search_field=search</field>
+</doc>
+</add>

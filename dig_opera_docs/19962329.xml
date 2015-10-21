@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962329</field>
+<field name="title">Solity:d</field>
+<field name="titlesort">Solity:d</field>
+<field name="composer">Perttu Haapanen</field>
+<field name="composersort">Haapanen, Perttu</field>
+<field name="year">2003</field>
+<field name="date">March 14, 2003</field>
+<field name="librettist">Christian Lindblad</field>
+<field name="librettistsort">Lindblad, Christian</field>
+<field name="theater">Amos Andersonin taidemuseo</field>
+<field name="city">Helsinki</field>
+<field name="region">Uusimaa</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Solity:d+Perttu+Haapanen&amp;search_field=search</field>
+</doc>
+</add>

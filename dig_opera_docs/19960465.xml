@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960465</field>
+<field name="title">Country of the Blind</field>
+<field name="titlesort">Country of the Blind</field>
+<field name="composer">Mark-Anthony Turnage</field>
+<field name="composersort">Turnage, Mark-Anthony</field>
+<field name="year">1997</field>
+<field name="date">June 13, 1997</field>
+<field name="librettist">Clare Venables</field>
+<field name="librettistsort">Venables, Clare</field>
+<field name="librettist">Herbert George Wells</field>
+<field name="librettistsort">Wells, Herbert George</field>
+<field name="theater">The Maltings</field>
+<field name="city">Snape</field>
+<field name="region">Suffolk</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Country+of+the+Blind+Mark-Anthony+Turnage&amp;search_field=search</field>
+</doc>
+</add>

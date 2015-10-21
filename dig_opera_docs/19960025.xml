@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960025</field>
+<field name="title">A Christmas Miracle</field>
+<field name="titlesort">Christmas Miracle</field>
+<field name="composer">Mark Fax</field>
+<field name="composersort">Fax, Mark</field>
+<field name="year">1958</field>
+<field name="date">March 6, 1958</field>
+<field name="librettist">Owen Dodson</field>
+<field name="librettistsort">Dodson, Owen</field>
+<field name="theater">Howard University</field>
+<field name="city">Washington</field>
+<field name="region">District of Columbia</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Christmas+Miracle+Mark+Fax&amp;search_field=search</field>
+</doc>
+</add>

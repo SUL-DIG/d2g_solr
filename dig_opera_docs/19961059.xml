@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961059</field>
+<field name="title">Hearts on Fire</field>
+<field name="titlesort">Hearts on Fire</field>
+<field name="composer">Roger Ames</field>
+<field name="composersort">Ames, Roger</field>
+<field name="year">1995</field>
+<field name="date">May 11, 1995</field>
+<field name="librettist">Laura Harrington</field>
+<field name="librettistsort">Harrington, Laura</field>
+<field name="theater">Nautilus Music-Theater</field>
+<field name="city">St. Paul</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hearts+on+Fire+Roger+Ames&amp;search_field=search</field>
+</doc>
+</add>

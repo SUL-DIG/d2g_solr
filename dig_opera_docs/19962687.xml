@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962687</field>
+<field name="title">The Phone Call</field>
+<field name="titlesort">Phone Call</field>
+<field name="composer">B. A. Diana</field>
+<field name="composersort">Diana, B. A.</field>
+<field name="year">2002</field>
+<field name="date">February 18, 2002</field>
+<field name="librettist">John Webb</field>
+<field name="librettistsort">Webb, John</field>
+<field name="theater">Bridewell Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Phone+Call+B.+A.+Diana&amp;search_field=search</field>
+</doc>
+</add>

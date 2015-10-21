@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961979</field>
+<field name="title">Pedro nada más</field>
+<field name="titlesort">Pedro nada más</field>
+<field name="composer">Mario Alfagüell</field>
+<field name="composersort">Alfagüell, Mario</field>
+<field name="year">2002</field>
+<field name="librettist">Mario Benedetti</field>
+<field name="librettistsort">Benedetti, Mario</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pedro+nada+más+Mario+Alfagüell&amp;search_field=search</field>
+</doc>
+</add>

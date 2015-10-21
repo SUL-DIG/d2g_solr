@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960811</field>
+<field name="title">Eréndira</field>
+<field name="titlesort">Eréndira</field>
+<field name="composer">Klaas de Vries</field>
+<field name="composersort">Vries, Klaas de</field>
+<field name="year">1984</field>
+<field name="date">October 27, 1984</field>
+<field name="librettist">Peter te Nuyl</field>
+<field name="librettistsort">te Nuyl, Peter</field>
+<field name="librettist">Gabriel García Márquez</field>
+<field name="librettistsort">García Márquez, Gabriel</field>
+<field name="theater">Theater Lantaren/Venster</field>
+<field name="city">Rotterdam</field>
+<field name="region">Suid Holland</field>
+<field name="country">Netherlands</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eréndira+Klaas+de+Vries&amp;search_field=search</field>
+</doc>
+</add>

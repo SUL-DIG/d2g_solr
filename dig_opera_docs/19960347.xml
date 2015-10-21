@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960347</field>
+<field name="title">Bonjour M. Gaugin</field>
+<field name="titlesort">Bonjour M. Gaugin</field>
+<field name="composer">Fabrizio Carlone</field>
+<field name="composersort">Carlone, Fabrizio</field>
+<field name="year">2005</field>
+<field name="date">November 13, 2005</field>
+<field name="librettist">Fabrizio Carlone</field>
+<field name="librettistsort">Carlone, Fabrizio</field>
+<field name="librettist">Paul Gauguin</field>
+<field name="librettistsort">Gauguin, Paul</field>
+<field name="theater">Teatro Fondamenta Nuove</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bonjour+M.+Gaugin+Fabrizio+Carlone&amp;search_field=search</field>
+</doc>
+</add>

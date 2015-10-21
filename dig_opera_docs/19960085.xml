@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960085</field>
+<field name="title">Agleia Federwess</field>
+<field name="titlesort">Agleia Federwess</field>
+<field name="composer">Gerd Kühr</field>
+<field name="composersort">Kühr, Gerd</field>
+<field name="year">2001</field>
+<field name="date">October 24, 2001</field>
+<field name="librettist">Petra Ernst</field>
+<field name="librettistsort">Ernst, Petra</field>
+<field name="theater">Jugendmusikfests</field>
+<field name="city">Deutschlandsberg</field>
+<field name="region">Steiermark</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Agleia+Federwess+Gerd+Kühr&amp;search_field=search</field>
+</doc>
+</add>

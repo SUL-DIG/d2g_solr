@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962940</field>
+<field name="title">Ubu</field>
+<field name="titlesort">Ubu</field>
+<field name="composer">Sidney Corbett</field>
+<field name="composersort">Corbett, Sidney</field>
+<field name="year">2012</field>
+<field name="date">April 14, 2012</field>
+<field name="librettist">Simone Homem de Mello</field>
+<field name="librettistsort">Mello, Simone Homem de</field>
+<field name="librettist">Alfred Jarry</field>
+<field name="librettistsort">Jarry, Alfred</field>
+<field name="theater">Musiktheater im Revier</field>
+<field name="city">Gelsenkirchen</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ubu+Sidney+Corbett&amp;search_field=search</field>
+</doc>
+</add>

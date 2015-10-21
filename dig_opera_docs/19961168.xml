@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961168</field>
+<field name="title">Il soffio delle fate</field>
+<field name="titlesort">soffio delle fate</field>
+<field name="composer">Filippo Zigante</field>
+<field name="composersort">Zigante, Filippo</field>
+<field name="year">2009</field>
+<field name="date">May 16, 2009</field>
+<field name="librettist">Angelo Cannavacciuolo</field>
+<field name="librettistsort">Cannavacciuolo, Angelo</field>
+<field name="theater">Národní Divadlo Moravsko-Slezské</field>
+<field name="city">Ostrava</field>
+<field name="region">Severomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=soffio+delle+fate+Filippo+Zigante&amp;search_field=search</field>
+</doc>
+</add>

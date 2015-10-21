@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960846</field>
+<field name="title">Fadinger</field>
+<field name="titlesort">Fadinger</field>
+<field name="composer">Ernst Ludwig Leitner</field>
+<field name="composersort">Leitner, Ernst Ludwig</field>
+<field name="year">2014</field>
+<field name="date">February 8, 2014</field>
+<field name="librettist">[Stefan Griebl] Franzobel</field>
+<field name="librettistsort">Franzobel, [Stefan Griebl]</field>
+<field name="theater">Landestheater</field>
+<field name="city">Linz</field>
+<field name="region">Oberösterreich</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fadinger+Ernst+Ludwig+Leitner&amp;search_field=search</field>
+</doc>
+</add>

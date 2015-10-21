@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960937</field>
+<field name="title">Fruit of the Family Tree</field>
+<field name="titlesort">Fruit of the Family Tree</field>
+<field name="composer">Anne Dimock</field>
+<field name="composersort">Dimock, Anne</field>
+<field name="year">2009</field>
+<field name="date">June 18, 2009</field>
+<field name="librettist">Becky Dale</field>
+<field name="librettistsort">Dale, Becky</field>
+<field name="theater">Nautilus Music-Theater</field>
+<field name="city">St. Paul</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fruit+of+the+Family+Tree+Anne+Dimock&amp;search_field=search</field>
+</doc>
+</add>

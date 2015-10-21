@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961391</field>
+<field name="title">La ciudad bajo el mar</field>
+<field name="titlesort">ciudad bajo el mar</field>
+<field name="composer">Nilo Velarde </field>
+<field name="composersort">Velarde, Nilo</field>
+<field name="year">2013</field>
+<field name="date">October 13, 2013</field>
+<field name="librettist">Maritza Nuñez</field>
+<field name="librettistsort">Nuñez, Maritza</field>
+<field name="theater">Gran Teatro Nacional</field>
+<field name="city">Lima</field>
+<field name="country">Peru</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=ciudad+bajo+el+mar+Nilo+Velarde+&amp;search_field=search</field>
+</doc>
+</add>

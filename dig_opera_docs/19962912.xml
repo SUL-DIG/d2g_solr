@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962912</field>
+<field name="title">Tristes tropiques</field>
+<field name="titlesort">Tristes tropiques</field>
+<field name="composer">Georges Aperghis</field>
+<field name="composersort">Aperghis, Georges</field>
+<field name="year">1996</field>
+<field name="date">September 29, 1996</field>
+<field name="librettist">Catherine Clément</field>
+<field name="librettistsort">Clément, Catherine</field>
+<field name="librettist">Claude Lévi-Strauss</field>
+<field name="librettistsort">Lévi-Strauss, Claude</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Strasbourg</field>
+<field name="region">Bas-Rhin</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tristes+tropiques+Georges+Aperghis&amp;search_field=search</field>
+</doc>
+</add>

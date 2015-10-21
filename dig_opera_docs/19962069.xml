@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962069</field>
+<field name="title">Punahilkka (Little Red Riding Hood)</field>
+<field name="titlesort">Punahilkka (Little Red Riding Hood)</field>
+<field name="composer">Ari Vakkilainen</field>
+<field name="composersort">Vakkilainen, Ari</field>
+<field name="year">2000</field>
+<field name="date">August 9, 2000</field>
+<field name="librettist">Emma Puikkonen</field>
+<field name="librettistsort">Puikkonen, Emma</field>
+<field name="theater">Tenalji von Fersen, Suomenlinna</field>
+<field name="city">Helsinki</field>
+<field name="region">Uusimaa</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Punahilkka+(Little+Red+Riding+Hood)+Ari+Vakkilainen&amp;search_field=search</field>
+</doc>
+</add>

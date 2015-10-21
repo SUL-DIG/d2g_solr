@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960223</field>
+<field name="title">At the Statue of Venus</field>
+<field name="titlesort">At the Statue of Venus</field>
+<field name="composer">Jake Heggie</field>
+<field name="composersort">Heggie, Jake</field>
+<field name="year">2005</field>
+<field name="date">September 10, 2005</field>
+<field name="librettist">Terrence McNally</field>
+<field name="librettistsort">McNally, Terrence</field>
+<field name="theater">Ellie Caulkins Opera House</field>
+<field name="city">Denver</field>
+<field name="region">Colorado</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=At+the+Statue+of+Venus+Jake+Heggie&amp;search_field=search</field>
+</doc>
+</add>

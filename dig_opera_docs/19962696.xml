@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962696</field>
+<field name="title">The Piper of Hamelin</field>
+<field name="titlesort">Piper of Hamelin</field>
+<field name="composer">John Rutter</field>
+<field name="composersort">Rutter, John</field>
+<field name="year">1981</field>
+<field name="date">April 30, 1981</field>
+<field name="librettist">Jeremy James Taylor</field>
+<field name="librettistsort">Taylor, Jeremy James</field>
+<field name="librettist">Robert Browning</field>
+<field name="librettistsort">Browning, Robert</field>
+<field name="theater">St. John's College School</field>
+<field name="city">Cambridge</field>
+<field name="region">Cambridgeshire</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Piper+of+Hamelin+John+Rutter&amp;search_field=search</field>
+</doc>
+</add>

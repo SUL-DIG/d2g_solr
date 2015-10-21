@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960344</field>
+<field name="title">Bombpartyt (The Bomb Party)</field>
+<field name="titlesort">Bombpartyt (The Bomb Party)</field>
+<field name="composer">Paula af Malmborg Ward</field>
+<field name="composersort">Ward, Paula af Malmborg</field>
+<field name="year">1998</field>
+<field name="date">April 4, 1998</field>
+<field name="librettist">Lars af Malmborg</field>
+<field name="librettistsort">Malmborg, Lars af</field>
+<field name="librettist">Graham Greene</field>
+<field name="librettistsort">Greene, Graham</field>
+<field name="theater">Lillan Teatern</field>
+<field name="city">Göteborg</field>
+<field name="region">Göteborg och Bohus</field>
+<field name="country">Sweden</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bombpartyt+(The+Bomb+Party)+Paula+af+Malmborg+Ward&amp;search_field=search</field>
+</doc>
+</add>

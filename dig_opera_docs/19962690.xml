@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962690</field>
+<field name="title">The Picture of Dorian Gray</field>
+<field name="titlesort">Picture of Dorian Gray</field>
+<field name="composer">Lowell Liebermann</field>
+<field name="composersort">Liebermann, Lowell</field>
+<field name="year">1996</field>
+<field name="date">May 8, 1996</field>
+<field name="librettist">Lowell Liebermann</field>
+<field name="librettistsort">Liebermann, Lowell</field>
+<field name="librettist">Oscar Wilde</field>
+<field name="librettistsort">Wilde, Oscar</field>
+<field name="theater">Opéra</field>
+<field name="city">Monte Carlo</field>
+<field name="country">Monaco</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Picture+of+Dorian+Gray+Lowell+Liebermann&amp;search_field=search</field>
+</doc>
+</add>

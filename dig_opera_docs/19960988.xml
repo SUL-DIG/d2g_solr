@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960988</field>
+<field name="title">Giacometti</field>
+<field name="titlesort">Giacometti</field>
+<field name="composer">Carmen Maria Carneci</field>
+<field name="composersort">Carneci, Carmen Maria</field>
+<field name="year">1996</field>
+<field name="date">March 7, 1996</field>
+<field name="librettist">Carmen Maria Carneci</field>
+<field name="librettistsort">Carneci, Carmen Maria</field>
+<field name="librettist">Alberto Giacometti</field>
+<field name="librettistsort">Giacometti, Alberto</field>
+<field name="theater">Kunsthalle</field>
+<field name="city">Bonn</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giacometti+Carmen+Maria+Carneci&amp;search_field=search</field>
+</doc>
+</add>

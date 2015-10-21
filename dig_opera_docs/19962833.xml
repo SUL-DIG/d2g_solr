@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962833</field>
+<field name="title">The Wanton Sublime</field>
+<field name="titlesort">Wanton Sublime</field>
+<field name="composer">Tarik O'Regan</field>
+<field name="composersort">O'Regan, Tarik</field>
+<field name="year">2014</field>
+<field name="date">April 22, 2014</field>
+<field name="librettist">Anna Rabinowitz</field>
+<field name="librettistsort">Rabinowitz, Anna</field>
+<field name="theater">Roulette, Brooklyn</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wanton+Sublime+Tarik+O'Regan&amp;search_field=search</field>
+</doc>
+</add>

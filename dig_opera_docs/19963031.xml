@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963031</field>
+<field name="title">Waiting for Godot</field>
+<field name="titlesort">Waiting for Godot</field>
+<field name="composer">Ron Weidberg</field>
+<field name="composersort">Weidberg, Ron</field>
+<field name="year">1986</field>
+<field name="date">April 1, 1986</field>
+<field name="librettist">Samuel Beckett</field>
+<field name="librettistsort">Beckett, Samuel</field>
+<field name="theater">Indiana University</field>
+<field name="city">Bloomington</field>
+<field name="region">Indiana</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Waiting+for+Godot+Ron+Weidberg&amp;search_field=search</field>
+</doc>
+</add>

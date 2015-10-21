@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962268</field>
+<field name="title">She Stoops to Conquer</field>
+<field name="titlesort">She Stoops to Conquer</field>
+<field name="composer">Marjorie Rusche</field>
+<field name="composersort">Rusche, Marjorie</field>
+<field name="year">1999</field>
+<field name="date">June 10, 1999</field>
+<field name="librettist">Andrew Joffe</field>
+<field name="librettistsort">Joffe, Andrew</field>
+<field name="librettist">Oliver Goldsmith</field>
+<field name="librettistsort">Goldsmith, Oliver</field>
+<field name="theater">St. Clement’s Church</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=She+Stoops+to+Conquer+Marjorie+Rusche&amp;search_field=search</field>
+</doc>
+</add>

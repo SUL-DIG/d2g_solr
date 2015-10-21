@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962782</field>
+<field name="title">The Tell Tale Cellphone</field>
+<field name="titlesort">Tell Tale Cellphone</field>
+<field name="composer">Patrick Soluri</field>
+<field name="composersort">Soluri, Patrick</field>
+<field name="year">2010</field>
+<field name="date">October 1, 2010</field>
+<field name="librettist">Patrick Soluri</field>
+<field name="librettistsort">Soluri, Patrick</field>
+<field name="librettist">Natalia Boesch</field>
+<field name="librettistsort">Boesch, Natalia</field>
+<field name="theater">Carnegie Hall, Weill Recital Hall</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tell+Tale+Cellphone+Patrick+Soluri&amp;search_field=search</field>
+</doc>
+</add>

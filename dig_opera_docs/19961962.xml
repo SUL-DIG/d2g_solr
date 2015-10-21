@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961962</field>
+<field name="title">Paso del norte</field>
+<field name="titlesort">Paso del norte</field>
+<field name="composer">Victor Rasgado</field>
+<field name="composersort">Rasgado, Victor</field>
+<field name="year">2011</field>
+<field name="date">November 26, 2011</field>
+<field name="librettist">Hugo Salcedo</field>
+<field name="librettistsort">Salcedo, Hugo</field>
+<field name="theater">Teatro Macedonio Alcalá</field>
+<field name="city">Oaxaca</field>
+<field name="region">Oaxaca</field>
+<field name="country">Mexico</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paso+del+norte+Victor+Rasgado&amp;search_field=search</field>
+</doc>
+</add>

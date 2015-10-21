@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960572</field>
+<field name="title">Der Herrscher und das Mädchen</field>
+<field name="titlesort">Herrscher und das Mädchen</field>
+<field name="composer">Nancy Van de Vate</field>
+<field name="composersort">Van de Vate, Nancy</field>
+<field name="year">1995</field>
+<field name="date">June 21, 1995</field>
+<field name="librettist">Allen Cortes</field>
+<field name="librettistsort">Cortes, Allen</field>
+<field name="librettist">Nancy Van de Vate</field>
+<field name="librettistsort">Van de Vate, Nancy</field>
+<field name="theater">Künstlerhaus</field>
+<field name="city">Vienna</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Herrscher+und+das+Mädchen+Nancy+Van+de+Vate&amp;search_field=search</field>
+</doc>
+</add>

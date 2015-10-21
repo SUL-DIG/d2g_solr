@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960307</field>
+<field name="title">Bettina</field>
+<field name="titlesort">Bettina</field>
+<field name="composer">Friedrich Schenker</field>
+<field name="composersort">Schenker, Friedrich</field>
+<field name="year">1987</field>
+<field name="librettist">Karl Mickel</field>
+<field name="librettistsort">Mickel, Karl</field>
+<field name="librettist">Bettina von Arnim</field>
+<field name="librettistsort">Arnim, Bettina von</field>
+<field name="theater">Theater im Palais</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bettina+Friedrich+Schenker&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960694</field>
+<field name="title">Dorian Gray</field>
+<field name="titlesort">Dorian Gray</field>
+<field name="composer">Roland Fister</field>
+<field name="composersort">Fister, Roland</field>
+<field name="year">2013</field>
+<field name="date">June 8, 2013</field>
+<field name="librettist">Roland Fister</field>
+<field name="librettistsort">Fister, Roland</field>
+<field name="librettist">Oscar Wilde</field>
+<field name="librettistsort">Wilde, Oscar</field>
+<field name="theater">Landestheater</field>
+<field name="city">Coburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dorian+Gray+Roland+Fister&amp;search_field=search</field>
+</doc>
+</add>

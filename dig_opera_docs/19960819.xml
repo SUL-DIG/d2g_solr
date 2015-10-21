@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960819</field>
+<field name="title">Ester</field>
+<field name="titlesort">Ester</field>
+<field name="composer">[Tomasz Praszczałek] Prasqual</field>
+<field name="composersort">Prasqual, [Tomasz Praszczałek]</field>
+<field name="year">2006</field>
+<field name="date">February 24, 2006</field>
+<field name="librettist">Nikolaj Gol</field>
+<field name="librettistsort">Gol, Nikolaj</field>
+<field name="theater">Opera Dolnoslaska</field>
+<field name="city">Wroclaw</field>
+<field name="region">Dolnoslaskie</field>
+<field name="country">Poland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ester+[Tomasz+Praszczałek]+Prasqual&amp;search_field=search</field>
+</doc>
+</add>

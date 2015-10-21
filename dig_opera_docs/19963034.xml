@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963034</field>
+<field name="title">Waiting for the Barbarians</field>
+<field name="titlesort">Waiting for the Barbarians</field>
+<field name="composer">Philip Glass</field>
+<field name="composersort">Glass, Philip</field>
+<field name="year">2005</field>
+<field name="date">September 10, 2005</field>
+<field name="librettist">Christopher Hampton</field>
+<field name="librettistsort">Hampton, Christopher</field>
+<field name="librettist">John Maxwell Coetzee</field>
+<field name="librettistsort">Coetzee, John Maxwell</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Erfurt</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Waiting+for+the+Barbarians+Philip+Glass&amp;search_field=search</field>
+</doc>
+</add>

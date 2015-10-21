@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962238</field>
+<field name="title">Second Nature</field>
+<field name="titlesort">Second Nature</field>
+<field name="composer">Matthew Aucoin</field>
+<field name="composersort">Aucoin, Matthew</field>
+<field name="year">2015</field>
+<field name="date">August 19, 2015</field>
+<field name="librettist">Matthew Aucoin</field>
+<field name="librettistsort">Aucoin, Matthew</field>
+<field name="theater">Lincoln Park Zoo</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Second+Nature+Matthew+Aucoin&amp;search_field=search</field>
+</doc>
+</add>

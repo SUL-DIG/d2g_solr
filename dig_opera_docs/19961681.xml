@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961681</field>
+<field name="title">Mary's Wedding</field>
+<field name="titlesort">Mary's Wedding</field>
+<field name="composer">Andrew P. MacDonald</field>
+<field name="composersort">MacDonald, Andrew P.</field>
+<field name="year">2011</field>
+<field name="date">November 10, 2011</field>
+<field name="librettist">Stephen Massicotte</field>
+<field name="librettistsort">Massicotte, Stephen</field>
+<field name="theater">McPherson Playhouse</field>
+<field name="city">Victoria</field>
+<field name="region">British Columbia</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mary's+Wedding+Andrew+P.+MacDonald&amp;search_field=search</field>
+</doc>
+</add>

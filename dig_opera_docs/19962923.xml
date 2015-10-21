@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962923</field>
+<field name="title">Tsar Samuil</field>
+<field name="titlesort">Tsar Samuil</field>
+<field name="composer">Kiril Makedonski</field>
+<field name="composersort">Makedonski, Kiril</field>
+<field name="year">1972</field>
+<field name="date">May 9, 1972</field>
+<field name="theater">Makedonska Opera i Balet</field>
+<field name="city">Skopje</field>
+<field name="country">Macedonia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tsar+Samuil+Kiril+Makedonski&amp;search_field=search</field>
+</doc>
+</add>

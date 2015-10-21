@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961533</field>
+<field name="title">Les Orages désirés</field>
+<field name="titlesort">Orages désirés</field>
+<field name="composer">Gérard Condé</field>
+<field name="composersort">Condé, Gérard</field>
+<field name="year">2003</field>
+<field name="date">November 22, 2003</field>
+<field name="librettist">Christian Wasselin</field>
+<field name="librettistsort">Wasselin, Christian</field>
+<field name="theater">Radio France</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orages+désirés+Gérard+Condé&amp;search_field=search</field>
+</doc>
+</add>

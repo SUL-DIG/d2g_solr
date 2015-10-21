@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960941</field>
+<field name="title">G</field>
+<field name="titlesort">G</field>
+<field name="composer">Gavin Bryars</field>
+<field name="composersort">Bryars, Gavin</field>
+<field name="year">2002</field>
+<field name="date">February 27, 2002</field>
+<field name="librettist">Blake Morrison</field>
+<field name="librettistsort">Morrison, Blake</field>
+<field name="theater">Staatstheater</field>
+<field name="city">Mainz</field>
+<field name="region">Rheinland-Pfalz</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=G+Gavin+Bryars&amp;search_field=search</field>
+</doc>
+</add>

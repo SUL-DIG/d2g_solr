@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960766</field>
+<field name="title">El caso maillard</field>
+<field name="titlesort">caso maillard</field>
+<field name="composer">Roberto Garcia Morillo</field>
+<field name="composersort">Garcia Morillo, Roberto </field>
+<field name="year">1977</field>
+<field name="date">September 23, 1977</field>
+<field name="librettist">Roberto Garcia Morillo</field>
+<field name="librettistsort">Garcia Morillo, Roberto </field>
+<field name="librettist">Edgar Allan Poe</field>
+<field name="librettistsort">Poe, Edgar Allan</field>
+<field name="theater">Teatro Colón</field>
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=caso+maillard+Roberto+Garcia+Morillo&amp;search_field=search</field>
+</doc>
+</add>

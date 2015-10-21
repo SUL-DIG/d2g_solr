@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960299</field>
+<field name="title">Belladonna</field>
+<field name="titlesort">Belladonna</field>
+<field name="composer">Bernard Rands</field>
+<field name="composersort">Rands, Bernard</field>
+<field name="year">1999</field>
+<field name="date">July 29, 1999</field>
+<field name="librettist">Leslie Dunton-Downer</field>
+<field name="librettistsort">Dunton-Downer, Leslie</field>
+<field name="theater">Aspen Opera Theater Center</field>
+<field name="city">Aspen</field>
+<field name="region">Colorado </field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Belladonna+Bernard+Rands&amp;search_field=search</field>
+</doc>
+</add>

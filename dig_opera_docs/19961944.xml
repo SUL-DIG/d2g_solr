@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961944</field>
+<field name="title">Oxford Companions</field>
+<field name="titlesort">Oxford Companions</field>
+<field name="composer">Giancarlo Aquilanti</field>
+<field name="composersort">Aquilanti, Giancarlo</field>
+<field name="year">2014</field>
+<field name="date">February 15, 2014</field>
+<field name="librettist">Neil Van Leeuwen</field>
+<field name="librettistsort">Van Leeuwen, Neil</field>
+<field name="theater">Stanford University</field>
+<field name="city">Stanford</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oxford+Companions+Giancarlo+Aquilanti&amp;search_field=search</field>
+</doc>
+</add>

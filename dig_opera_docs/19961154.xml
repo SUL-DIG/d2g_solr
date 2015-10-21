@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961154</field>
+<field name="title">Il giocatore</field>
+<field name="titlesort">giocatore</field>
+<field name="composer">Cristian Carrara</field>
+<field name="composersort">Carrara, Cristian</field>
+<field name="year">2014</field>
+<field name="date">September 12, 2014</field>
+<field name="theater">Teatro del Complesso Monumentale di San Nicolò</field>
+<field name="city">Spoleto</field>
+<field name="region">Umbria</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=giocatore+Cristian+Carrara&amp;search_field=search</field>
+</doc>
+</add>

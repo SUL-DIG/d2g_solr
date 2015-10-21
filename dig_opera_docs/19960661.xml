@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960661</field>
+<field name="title">Die Verwandlung</field>
+<field name="titlesort">Verwandlung</field>
+<field name="composer">Stephan Peiffer</field>
+<field name="composersort">Peiffer, Stephan</field>
+<field name="year">2011</field>
+<field name="date">April 13, 2011</field>
+<field name="librettist">Franz Kafka</field>
+<field name="librettistsort">Kafka, Franz</field>
+<field name="theater">Hochschule für Musik und Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Verwandlung+Stephan+Peiffer&amp;search_field=search</field>
+</doc>
+</add>

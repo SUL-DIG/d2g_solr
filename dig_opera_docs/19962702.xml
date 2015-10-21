@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962702</field>
+<field name="title">The Present</field>
+<field name="titlesort">Present</field>
+<field name="composer">Elena Langer</field>
+<field name="composersort">Langer, Elena</field>
+<field name="year">2009</field>
+<field name="date">January 25, 2009</field>
+<field name="librettist">Glyn Maxwell</field>
+<field name="librettistsort">Maxwell, Glyn</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Zürich</field>
+<field name="region">Zürich</field>
+<field name="country">Switzerland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Present+Elena+Langer&amp;search_field=search</field>
+</doc>
+</add>

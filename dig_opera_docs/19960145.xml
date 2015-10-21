@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960145</field>
+<field name="title">An Aesop Odyssey</field>
+<field name="titlesort">Aesop Odyssey</field>
+<field name="composer">David Gooding</field>
+<field name="composersort">Gooding, David</field>
+<field name="year">1997</field>
+<field name="date">January 11, 1997</field>
+<field name="librettist">David Gooding</field>
+<field name="librettistsort">Gooding, David</field>
+<field name="theater">State Theater</field>
+<field name="city">Cleveland</field>
+<field name="region">Ohio</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aesop+Odyssey+David+Gooding&amp;search_field=search</field>
+</doc>
+</add>

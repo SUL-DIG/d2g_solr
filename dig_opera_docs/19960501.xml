@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960501</field>
+<field name="title">Das grosse Heft</field>
+<field name="titlesort">grosse Heft</field>
+<field name="composer">Sidney Corbett</field>
+<field name="composersort">Corbett, Sidney</field>
+<field name="year">2013</field>
+<field name="date">March 16, 2013</field>
+<field name="librettist">Sidney Corbett</field>
+<field name="librettistsort">Corbett, Sidney</field>
+<field name="librettist">Ágota Kristóf</field>
+<field name="librettistsort">Kristóf, Ágota</field>
+<field name="theater">Grosses Haus am Domhof</field>
+<field name="city">Osnabrück</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=grosse+Heft+Sidney+Corbett&amp;search_field=search</field>
+</doc>
+</add>

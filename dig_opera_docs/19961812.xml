@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961812</field>
+<field name="title">Nâzım</field>
+<field name="titlesort">Nâzım</field>
+<field name="composer">Fazıl Say</field>
+<field name="composersort">Say, Fazıl</field>
+<field name="year">2001</field>
+<field name="date">October 5, 2001</field>
+<field name="librettist">Nâzım Hikmet</field>
+<field name="librettistsort">Hikmet, Nâzım</field>
+<field name="theater">Bilkent Symphony Orchestra</field>
+<field name="city">Ankara</field>
+<field name="country">Turkey</field>
+<field name="genre">Oratorio</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nâzım+Fazıl+Say&amp;search_field=search</field>
+</doc>
+</add>

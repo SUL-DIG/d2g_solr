@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961899</field>
+<field name="title">One Night Together</field>
+<field name="titlesort">One Night Together</field>
+<field name="composer">Daniel Burwasser</field>
+<field name="composersort">Burwasser, Daniel</field>
+<field name="year">2008</field>
+<field name="date">February 8, 2008</field>
+<field name="librettist">Ilsa Gilbert</field>
+<field name="librettistsort">Gilbert, Ilsa</field>
+<field name="theater">Duo Multicultural Arts Center</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=One+Night+Together+Daniel+Burwasser&amp;search_field=search</field>
+</doc>
+</add>

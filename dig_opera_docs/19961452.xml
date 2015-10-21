@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961452</field>
+<field name="title">Lady Sarashina</field>
+<field name="titlesort">Lady Sarashina</field>
+<field name="composer">Peter Eötvös</field>
+<field name="composersort">Eötvös, Peter</field>
+<field name="year">2008</field>
+<field name="date">March 4, 2008</field>
+<field name="librettist">Mari Mezei</field>
+<field name="librettistsort">Mezei, Mari</field>
+<field name="theater">Opéra</field>
+<field name="city">Lyon</field>
+<field name="region">Rhône du Lyonnais</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lady+Sarashina+Peter+Eötvös&amp;search_field=search</field>
+</doc>
+</add>

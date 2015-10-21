@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962553</field>
+<field name="title">The Fizz</field>
+<field name="titlesort">Fizz</field>
+<field name="composer">Martin Ward</field>
+<field name="composersort">Ward, Martin</field>
+<field name="year">2013</field>
+<field name="date">December 14, 2013</field>
+<field name="librettist">Phil Porter</field>
+<field name="librettistsort">Porter, Phil</field>
+<field name="theater">Posk Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fizz+Martin+Ward&amp;search_field=search</field>
+</doc>
+</add>

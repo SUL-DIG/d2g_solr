@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962584</field>
+<field name="title">The Homecoming </field>
+<field name="titlesort">Homecoming </field>
+<field name="composer">Evelyn Dickenson Swensson</field>
+<field name="composersort">Swensson, Evelyn Dickenson</field>
+<field name="year">1977</field>
+<field name="date">December 1, 1977</field>
+<field name="librettist">Christopher Sergel</field>
+<field name="librettistsort">Sergel, Christopher</field>
+<field name="librettist">Evelyn Dickenson Swensson</field>
+<field name="librettistsort">Swensson, Evelyn Dickenson</field>
+<field name="theater">Grand Opera House</field>
+<field name="city">Wilmington</field>
+<field name="region">Delaware</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Homecoming++Evelyn+Dickenson+Swensson&amp;search_field=search</field>
+</doc>
+</add>

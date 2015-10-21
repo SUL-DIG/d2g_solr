@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961371</field>
+<field name="title">L'opéra de la lune</field>
+<field name="titlesort">opéra de la lune</field>
+<field name="composer">Brice Pauset</field>
+<field name="composersort">Pauset, Brice</field>
+<field name="year">2012</field>
+<field name="date">May 12, 2012</field>
+<field name="librettist">Jacques Prévert</field>
+<field name="librettistsort">Prévert, Jacques</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Dijon</field>
+<field name="region">Côtes-d'Or</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=opéra+de+la+lune+Brice+Pauset&amp;search_field=search</field>
+</doc>
+</add>

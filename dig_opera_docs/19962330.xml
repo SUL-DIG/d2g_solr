@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962330</field>
+<field name="title">Somebody's Children</field>
+<field name="titlesort">Somebody's Children</field>
+<field name="composer">Susan Kander</field>
+<field name="composersort">Kander, Susan</field>
+<field name="year">2002</field>
+<field name="date">January 25, 2002</field>
+<field name="librettist">Susan Kander</field>
+<field name="librettistsort">Kander, Susan</field>
+<field name="theater">Lyric Opera</field>
+<field name="city">Kansas City</field>
+<field name="region">Missouri</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Somebody's+Children+Susan+Kander&amp;search_field=search</field>
+</doc>
+</add>

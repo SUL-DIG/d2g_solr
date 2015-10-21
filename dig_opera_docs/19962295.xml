@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962295</field>
+<field name="title">Sir Gawain and the Green Knight</field>
+<field name="titlesort">Sir Gawain and the Green Knight</field>
+<field name="composer">Richard Peaslee</field>
+<field name="composersort">Peaslee, Richard</field>
+<field name="year">2001</field>
+<field name="date">October 18, 2001</field>
+<field name="librettist">Kenneth Cavander</field>
+<field name="librettistsort">Cavander, Kenneth</field>
+<field name="theater">TADA Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sir+Gawain+and+the+Green+Knight+Richard+Peaslee&amp;search_field=search</field>
+</doc>
+</add>

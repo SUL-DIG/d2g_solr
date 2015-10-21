@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962288</field>
+<field name="title">Simeon</field>
+<field name="titlesort">Simeon</field>
+<field name="composer">Dwight Gustafson</field>
+<field name="composersort">Gustafson, Dwight</field>
+<field name="year">2008</field>
+<field name="date">December 8, 2008</field>
+<field name="librettist">David Burke</field>
+<field name="librettistsort">Burke, David</field>
+<field name="theater">Bob Jones University</field>
+<field name="city">Greenville</field>
+<field name="region">South Carolina</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Simeon+Dwight+Gustafson&amp;search_field=search</field>
+</doc>
+</add>

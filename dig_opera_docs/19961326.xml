@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961326</field>
+<field name="title">Kojiki (Tage der Götter)</field>
+<field name="titlesort">Kojiki (Tage der Götter)</field>
+<field name="composer">Toshiro Mayuzumi</field>
+<field name="composersort">Mayuzumi, Toshiro</field>
+<field name="year">1996</field>
+<field name="date">May 24, 1996</field>
+<field name="librettist">Yuki Nakajima</field>
+<field name="librettistsort">Nakajima, Yuki</field>
+<field name="librettist">Gertrud Fussenegger</field>
+<field name="librettistsort">Fussenegger, Gertrud</field>
+<field name="theater">Landestheater</field>
+<field name="city">Linz</field>
+<field name="region">Oberösterreich</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kojiki+(Tage+der+Götter)+Toshiro+Mayuzumi&amp;search_field=search</field>
+</doc>
+</add>

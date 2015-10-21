@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961469</field>
+<field name="title">Le bal</field>
+<field name="titlesort">bal</field>
+<field name="composer">Oscar Strasnoy</field>
+<field name="composersort">Strasnoy, Oscar</field>
+<field name="year">2010</field>
+<field name="date">March 7, 2010</field>
+<field name="librettist">Mathew Jocelyn</field>
+<field name="librettistsort">Jocelyn, Mathew</field>
+<field name="librettist">Irène Némirovsky</field>
+<field name="librettistsort">Némirovsky, Irène</field>
+<field name="theater">Hamburgisches Staatsoper</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=bal+Oscar+Strasnoy&amp;search_field=search</field>
+</doc>
+</add>

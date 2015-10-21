@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962047</field>
+<field name="title">Prima Donna</field>
+<field name="titlesort">Prima Donna</field>
+<field name="composer">Rufus Wainwright</field>
+<field name="composersort">Wainwright, Rufus</field>
+<field name="year">2009</field>
+<field name="date">July 10, 2009</field>
+<field name="librettist">Rufus Wainwright</field>
+<field name="librettistsort">Wainwright, Rufus</field>
+<field name="librettist">Bernadette Colomine</field>
+<field name="librettistsort">Colomine, Bernadette</field>
+<field name="theater">Palace Theatre</field>
+<field name="city">Manchester</field>
+<field name="region">Greater Manchester</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prima+Donna+Rufus+Wainwright&amp;search_field=search</field>
+</doc>
+</add>

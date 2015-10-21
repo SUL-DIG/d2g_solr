@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961045</field>
+<field name="title">Happy Story</field>
+<field name="titlesort">Happy Story</field>
+<field name="composer">David Fennessy</field>
+<field name="composersort">Fennessy, David</field>
+<field name="year">2009</field>
+<field name="date">February 20, 2009</field>
+<field name="librettist">Nicholas Bone</field>
+<field name="librettistsort">Bone, Nicholas</field>
+<field name="theater">Oran Mor</field>
+<field name="city">Edinburgh</field>
+<field name="region">Scotland</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Happy+Story+David+Fennessy&amp;search_field=search</field>
+</doc>
+</add>

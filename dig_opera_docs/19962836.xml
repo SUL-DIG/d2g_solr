@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962836</field>
+<field name="title">The Water Babies</field>
+<field name="titlesort">Water Babies</field>
+<field name="composer">Paolo Furlani</field>
+<field name="composersort">Furlani, Paolo</field>
+<field name="year">2014</field>
+<field name="date">March 20, 2014</field>
+<field name="librettist">Patrick Lynch</field>
+<field name="librettistsort">Lynch, Patrick</field>
+<field name="librettist">Charles Kingsley</field>
+<field name="librettistsort">Kingsley, Charles</field>
+<field name="theater">Teatro Sociale</field>
+<field name="city">Rovigo</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Water+Babies+Paolo+Furlani&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962471</field>
+<field name="title">The Boy from Brazil</field>
+<field name="titlesort">Boy from Brazil</field>
+<field name="composer">Susie Self</field>
+<field name="composersort">Self, Susie</field>
+<field name="year">2012</field>
+<field name="date">August 11, 2012</field>
+<field name="librettist">Johnny Guim</field>
+<field name="librettistsort">Guim, Johnny</field>
+<field name="librettist">Ellis Freeman</field>
+<field name="librettistsort">Freeman, Ellis</field>
+<field name="theater">Riverside Studios</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Boy+from+Brazil+Susie+Self&amp;search_field=search</field>
+</doc>
+</add>

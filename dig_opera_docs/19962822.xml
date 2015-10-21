@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962822</field>
+<field name="title">The Vinland Traveler</field>
+<field name="titlesort">Vinland Traveler</field>
+<field name="composer">Dean Burry</field>
+<field name="composersort">Burry, Dean</field>
+<field name="year">2006</field>
+<field name="date">May 17, 2006</field>
+<field name="librettist">Dean Burry</field>
+<field name="librettistsort">Burry, Dean</field>
+<field name="theater">Memorial University of Newfoundland Opera Roadshow</field>
+<field name="city">St. John's</field>
+<field name="region">Newfoundland</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vinland+Traveler+Dean+Burry&amp;search_field=search</field>
+</doc>
+</add>

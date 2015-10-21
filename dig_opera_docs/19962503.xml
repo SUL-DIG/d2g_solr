@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962503</field>
+<field name="title">The Damnation of Felicity</field>
+<field name="titlesort">Damnation of Felicity</field>
+<field name="composer">Maura Bosch</field>
+<field name="composersort">Bosch, Maura</field>
+<field name="year">1994</field>
+<field name="librettist">Maura Bosch</field>
+<field name="librettistsort">Bosch, Maura</field>
+<field name="theater">Corn Palace Productions</field>
+<field name="city">Minneapolis</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Damnation+of+Felicity+Maura+Bosch&amp;search_field=search</field>
+</doc>
+</add>

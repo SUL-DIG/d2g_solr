@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961021</field>
+<field name="title">Guatimotzin</field>
+<field name="titlesort">Guatimotzin</field>
+<field name="composer">Aniceto Ortega del Villar</field>
+<field name="composersort">Ortega del Villar, Aniceto</field>
+<field name="year">1871</field>
+<field name="date">13 Sep 1871</field>
+<field name="librettist">José Tomás de Cuéllar</field>
+<field name="librettistsort">Cuéllar, José Tomás de</field>
+<field name="theater">Gran Teatro Nacional</field>
+<field name="city">Mexico City</field>
+<field name="country">Mexico</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Guatimotzin+Aniceto+Ortega+del+Villar&amp;search_field=search</field>
+</doc>
+</add>

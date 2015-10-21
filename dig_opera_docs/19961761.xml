@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961761</field>
+<field name="title">Morning Star</field>
+<field name="titlesort">Morning Star</field>
+<field name="composer">Ricky Ian Gordon</field>
+<field name="composersort">Gordon, Ricky Ian</field>
+<field name="year">2015</field>
+<field name="date">June 30, 2015</field>
+<field name="librettist">William M. Hoffman</field>
+<field name="librettistsort">Hoffman, William M.</field>
+<field name="librettist">Sylvia Regan</field>
+<field name="librettistsort">Regan, Sylvia</field>
+<field name="theater">Corbett Theater</field>
+<field name="city">Cincinnati</field>
+<field name="region">Ohio</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Morning+Star+Ricky+Ian+Gordon&amp;search_field=search</field>
+</doc>
+</add>

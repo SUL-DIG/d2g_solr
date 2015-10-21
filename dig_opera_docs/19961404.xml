@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961404</field>
+<field name="title">La finta semplice</field>
+<field name="titlesort">finta semplice</field>
+<field name="composer">Michele Varriale</field>
+<field name="composersort">Varriale, Michele</field>
+<field name="year">2013</field>
+<field name="date">November 24, 2013</field>
+<field name="librettist">Marco Coltellini</field>
+<field name="librettistsort">Coltellinin Marco </field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistsort">Goldoni, Carlo</field>
+<field name="theater">Teatro Donizetti</field>
+<field name="city">Bergamo</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=finta+semplice+Michele+Varriale&amp;search_field=search</field>
+</doc>
+</add>

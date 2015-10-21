@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962215</field>
+<field name="title">Sarabande</field>
+<field name="titlesort">Sarabande</field>
+<field name="composer">Wolfram Wagner</field>
+<field name="composersort">Wagner, Wolfram</field>
+<field name="year">2009</field>
+<field name="date">June 12, 2009</field>
+<field name="librettist">Kristine Tornquist</field>
+<field name="librettistsort">Tornquist, Kristine</field>
+<field name="librettist">Leo Perutz</field>
+<field name="librettistsort">Perutz, Leo</field>
+<field name="theater">Sirene Operntheater</field>
+<field name="city">Vienna</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sarabande+Wolfram+Wagner&amp;search_field=search</field>
+</doc>
+</add>

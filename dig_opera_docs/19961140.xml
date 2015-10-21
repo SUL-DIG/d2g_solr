@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961140</field>
+<field name="title">Ibeyi Añá</field>
+<field name="titlesort">Ibeyi Añá</field>
+<field name="composer">Héctor Angulo</field>
+<field name="composersort">Angulo, Héctor</field>
+<field name="year">1968</field>
+<field name="librettist">Rogelio Martínez Furé</field>
+<field name="librettistsort">Martínez Furé, Rogelio</field>
+<field name="librettist">José Camejo</field>
+<field name="librettistsort">Camejo, José</field>
+<field name="theater">Teatro Nacional de Guiñol</field>
+<field name="city">Havana</field>
+<field name="country">Cuba</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ibeyi+Añá+Héctor+Angulo&amp;search_field=search</field>
+</doc>
+</add>

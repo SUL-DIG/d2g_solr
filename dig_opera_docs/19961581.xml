@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961581</field>
+<field name="title">Look! No Hands!</field>
+<field name="titlesort">Look! No Hands!</field>
+<field name="composer">Errollyn Wallen</field>
+<field name="composersort">Wallen, Errollyn</field>
+<field name="year">1996</field>
+<field name="date">June 7, 1996</field>
+<field name="librettist">Cindy Oswin</field>
+<field name="librettistsort">Oswin, Cindy</field>
+<field name="theater">St Paul's, Covent Garden</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Look!+No+Hands!+Errollyn+Wallen&amp;search_field=search</field>
+</doc>
+</add>

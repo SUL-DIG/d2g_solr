@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962294</field>
+<field name="title">Singin’ in the Brain</field>
+<field name="titlesort">Singin’ in the Brain</field>
+<field name="composer">Paolo Furlani</field>
+<field name="composersort">Furlani, Paolo</field>
+<field name="year">2000</field>
+<field name="date">July 22, 2000</field>
+<field name="librettist">Elena Barbalich</field>
+<field name="librettistsort">Barbalich, Elena</field>
+<field name="librettist">Oliver Sachs</field>
+<field name="librettistsort">Sachs, Oliver</field>
+<field name="theater">Europa Festival di Ferentino</field>
+<field name="city">Ferentino</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Singin’+in+the+Brain+Paolo+Furlani&amp;search_field=search</field>
+</doc>
+</add>

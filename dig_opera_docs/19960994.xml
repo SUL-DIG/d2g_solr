@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960994</field>
+<field name="title">Gloria von Jaxtberg</field>
+<field name="titlesort">Gloria von Jaxtberg</field>
+<field name="composer">Heinz Karl Gruber</field>
+<field name="composersort">Gruber, Heinz Karl</field>
+<field name="year">1994</field>
+<field name="date">November 17, 1994</field>
+<field name="librettist">Rudolf Herfurtner</field>
+<field name="librettistsort">Herfurtner, Rudolf</field>
+<field name="librettist">Amanda Holden</field>
+<field name="librettistsort">Holden, Amanda</field>
+<field name="theater">Lawrence Batley Theatre</field>
+<field name="city">Huddersfield</field>
+<field name="region">West Yorkshire</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gloria+von+Jaxtberg+Heinz+Karl+Gruber&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960206</field>
+<field name="title">Ärret (The Scar)</field>
+<field name="titlesort">Ärret (The Scar)</field>
+<field name="composer">Paula af Malmborg Ward</field>
+<field name="composersort">Ward, Paula af Malmborg</field>
+<field name="year">2004</field>
+<field name="date">July 4, 2004</field>
+<field name="librettist">Kerstin Perski</field>
+<field name="librettistsort">Perski, Kerstin</field>
+<field name="librettist">Mikhail Afanas'yevich Bulgakov</field>
+<field name="librettistsort">Bulgakov, Mikhail Afanas'yevich</field>
+<field name="theater">Vadstena Gamla Teater</field>
+<field name="city">Vadstena</field>
+<field name="region">Östergötland</field>
+<field name="country">Sweden</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ärret+(The+Scar)+Paula+af+Malmborg+Ward&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962608</field>
+<field name="title">The King's Conjecture</field>
+<field name="titlesort">King's Conjecture</field>
+<field name="composer">Gareth Williams</field>
+<field name="composersort">Williams, Gareth</field>
+<field name="year">2008</field>
+<field name="date">February 29, 2008</field>
+<field name="librettist">Bernard MacLaverty</field>
+<field name="librettistsort">MacLaverty, Bernard</field>
+<field name="theater">Oran Mor</field>
+<field name="city">Glasgow</field>
+<field name="region">Scotland</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=King's+Conjecture+Gareth+Williams&amp;search_field=search</field>
+</doc>
+</add>

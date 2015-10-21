@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963110</field>
+<field name="title">Zoggy the Time Traveller</field>
+<field name="titlesort">Zoggy the Time Traveller</field>
+<field name="composer">Malcolm Fox</field>
+<field name="composersort">Fox, Malcolm</field>
+<field name="year">1987</field>
+<field name="date">May 1, 1987</field>
+<field name="librettist">Sue Rider</field>
+<field name="librettistsort">Rider, Sue</field>
+<field name="librettist">Jim Vilé</field>
+<field name="librettistsort">Vilé, Jim</field>
+<field name="theater">Victorian Arts Centre</field>
+<field name="city">Melbourne</field>
+<field name="region">Victoria</field>
+<field name="country">Australia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zoggy+the+Time+Traveller+Malcolm+Fox&amp;search_field=search</field>
+</doc>
+</add>

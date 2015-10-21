@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962348</field>
+<field name="title">Spuren der Verirrten (The Lost)</field>
+<field name="titlesort">Spuren der Verirrten (The Lost)</field>
+<field name="composer">Philip Glass</field>
+<field name="composersort">Glass, Philip</field>
+<field name="year">2013</field>
+<field name="date">April 12, 2013</field>
+<field name="librettist">Rainer Mennicken</field>
+<field name="librettistsort">Mennicken, Rainer</field>
+<field name="librettist">Peter Handke</field>
+<field name="librettistsort">Handke, Peter</field>
+<field name="theater">Landestheater</field>
+<field name="city">Linz</field>
+<field name="region">Oberösterreich</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Spuren+der+Verirrten+(The+Lost)+Philip+Glass&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962900</field>
+<field name="title">Trans-Maghreb</field>
+<field name="titlesort">Trans-Maghreb</field>
+<field name="composer">Peter Herbert</field>
+<field name="composersort">Herbert, Peter</field>
+<field name="year">2014</field>
+<field name="date">August 21, 2014</field>
+<field name="librettist">Hans Platzgumer</field>
+<field name="librettistsort">Platzgumer, Hans</field>
+<field name="librettist">Ingrid Bertel</field>
+<field name="librettistsort">Bertel, Ingrid</field>
+<field name="theater">Festspielhaus</field>
+<field name="city">Bregenz</field>
+<field name="region">Vorarlberg</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Trans-Maghreb+Peter+Herbert&amp;search_field=search</field>
+</doc>
+</add>

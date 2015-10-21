@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962223</field>
+<field name="title">Schachnovelle</field>
+<field name="titlesort">Schachnovelle</field>
+<field name="composer">Cristóbal Halffter</field>
+<field name="composersort">Halffter, Cristóbal</field>
+<field name="year">2013</field>
+<field name="date">May 18, 2013</field>
+<field name="librettist">Wolfgang Haendeler</field>
+<field name="librettistsort">Haendeler, Wolfgang</field>
+<field name="librettist">Stefan Zweig</field>
+<field name="librettistsort">Zweig, Stefan</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Kiel</field>
+<field name="region">Schleswig-Holstein</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schachnovelle+Cristóbal+Halffter&amp;search_field=search</field>
+</doc>
+</add>

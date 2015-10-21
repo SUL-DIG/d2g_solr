@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963030</field>
+<field name="title">Wagner Dream</field>
+<field name="titlesort">Wagner Dream</field>
+<field name="composer">Jonathan Harvey</field>
+<field name="composersort">Harvey, Jonathan</field>
+<field name="year">2007</field>
+<field name="date">April 28, 2007</field>
+<field name="librettist">Jean-Claude Carrière</field>
+<field name="librettistsort">Carrière, Jean-Claude</field>
+<field name="theater">Grand Théâtre</field>
+<field name="city">Luxembourg</field>
+<field name="country">Luxembourg</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wagner+Dream+Jonathan+Harvey&amp;search_field=search</field>
+</doc>
+</add>

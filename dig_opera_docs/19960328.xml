@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960328</field>
+<field name="title">Blanche och Marie</field>
+<field name="titlesort">Blanche och Marie</field>
+<field name="composer">Mats Larsson Gothe</field>
+<field name="composersort">Gothe, Mats Larsson</field>
+<field name="year">2014</field>
+<field name="date">October 10, 2014</field>
+<field name="librettist">Maria Sundqvist</field>
+<field name="librettistsort">Sundqvist, Maria</field>
+<field name="theater">NorrlandsOperan</field>
+<field name="city">Umeå</field>
+<field name="region">Västerbotten</field>
+<field name="country">Sweden</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Blanche+och+Marie+Mats+Larsson+Gothe&amp;search_field=search</field>
+</doc>
+</add>

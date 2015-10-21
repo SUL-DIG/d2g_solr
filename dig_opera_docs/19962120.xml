@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962120</field>
+<field name="title">Red Emma</field>
+<field name="titlesort">Red Emma</field>
+<field name="composer">Gary Kulesha</field>
+<field name="composersort">Kulesha, Gary</field>
+<field name="year">1995</field>
+<field name="date">November 28, 1995</field>
+<field name="librettist">Carol Bolt</field>
+<field name="librettistsort">Bolt, Carol</field>
+<field name="theater">Du Maurier Theatre</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Red+Emma+Gary+Kulesha&amp;search_field=search</field>
+</doc>
+</add>

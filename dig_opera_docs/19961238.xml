@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961238</field>
+<field name="title">John Brown</field>
+<field name="titlesort">John Brown</field>
+<field name="composer">Kirke Mechem</field>
+<field name="composersort">Mechem, Kirke</field>
+<field name="year">2008</field>
+<field name="date">May 3, 2008</field>
+<field name="librettist">Kirke Mechem</field>
+<field name="librettistsort">Mechem, Kirke</field>
+<field name="theater">Lyric Opera</field>
+<field name="city">Kansas City</field>
+<field name="region">Missouri</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=John+Brown+Kirke+Mechem&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961311</field>
+<field name="title">KibergOdysseen</field>
+<field name="titlesort">KibergOdysseen</field>
+<field name="composer">Trygve Brøske</field>
+<field name="composersort">Brøske, Trygve</field>
+<field name="year">2014</field>
+<field name="date">June 22, 2014</field>
+<field name="librettist">Marianne Meløy</field>
+<field name="librettistsort">Meløy, Marianne</field>
+<field name="theater">Nordnorsk Opera</field>
+<field name="city">Tromsø</field>
+<field name="region">Troms</field>
+<field name="country">Norway</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=KibergOdysseen+Trygve+Brøske&amp;search_field=search</field>
+</doc>
+</add>

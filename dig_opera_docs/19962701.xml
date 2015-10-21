@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962701</field>
+<field name="title">The Possessed</field>
+<field name="titlesort">Possessed</field>
+<field name="composer">Julian Yu</field>
+<field name="composersort">Yu, Julian</field>
+<field name="year">2003</field>
+<field name="date">June 12, 2003</field>
+<field name="librettist">Glenn Perry</field>
+<field name="librettistsort">Perry, Glenn</field>
+<field name="librettist">Liu Heng</field>
+<field name="librettistsort">Liu Heng</field>
+<field name="theater">Chapel off Chapel</field>
+<field name="city">Melbourne</field>
+<field name="region">Victoria</field>
+<field name="country">Australia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Possessed+Julian+Yu&amp;search_field=search</field>
+</doc>
+</add>

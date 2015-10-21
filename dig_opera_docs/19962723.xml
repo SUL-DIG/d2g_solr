@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962723</field>
+<field name="title">The Rivals</field>
+<field name="titlesort">Rivals</field>
+<field name="composer">Kirke Mechem</field>
+<field name="composersort">Mechem, Kirke</field>
+<field name="year">2011</field>
+<field name="date">September 16, 2011</field>
+<field name="librettist">Kirke Mechem</field>
+<field name="librettistsort">Mechem, Kirke</field>
+<field name="librettist">Richard Brinsley Sheridan</field>
+<field name="librettistsort">Sheridan, Richard Brinsley</field>
+<field name="theater">Skylight Opera Theatre</field>
+<field name="city">Milwaukee</field>
+<field name="region">Wisconsin</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rivals+Kirke+Mechem&amp;search_field=search</field>
+</doc>
+</add>

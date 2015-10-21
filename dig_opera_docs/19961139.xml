@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961139</field>
+<field name="title">I-K-O-N</field>
+<field name="titlesort">I-K-O-N</field>
+<field name="composer">John Frandsen</field>
+<field name="composersort">Frandsen, John</field>
+<field name="year">2003</field>
+<field name="date">March 15, 2003</field>
+<field name="librettist">Sanne Bjerg</field>
+<field name="librettistsort">Bjerg, Sanne</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I-K-O-N+John+Frandsen&amp;search_field=search</field>
+</doc>
+</add>

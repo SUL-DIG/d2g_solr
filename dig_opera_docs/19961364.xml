@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961364</field>
+<field name="title">L'exercice de l'amour</field>
+<field name="titlesort">exercice de l'amour</field>
+<field name="composer">Ahmed Essyad</field>
+<field name="composersort">Essyad, Ahmed</field>
+<field name="year">1995</field>
+<field name="date">November 25, 1995</field>
+<field name="librettist">Bernard Noël</field>
+<field name="librettistsort">Noël, Bernard</field>
+<field name="theater">Radio France</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=exercice+de+l'amour+Ahmed+Essyad&amp;search_field=search</field>
+</doc>
+</add>

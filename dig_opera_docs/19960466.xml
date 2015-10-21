@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960466</field>
+<field name="title">Courtside</field>
+<field name="titlesort">Courtside</field>
+<field name="composer">Jack Perla</field>
+<field name="composersort">Perla, Jack</field>
+<field name="year">2011</field>
+<field name="date">February 5, 2011</field>
+<field name="librettist">Eugenie Chan</field>
+<field name="librettistsort">Chan, Eugenie</field>
+<field name="theater">Chinese Community Center</field>
+<field name="city">Houston</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Courtside+Jack+Perla&amp;search_field=search</field>
+</doc>
+</add>

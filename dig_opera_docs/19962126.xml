@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962126</field>
+<field name="title">Refidim Junction</field>
+<field name="titlesort">Refidim Junction</field>
+<field name="composer">Magret Wolf</field>
+<field name="composersort">Wolf, Magret</field>
+<field name="year">2012</field>
+<field name="date">November 10, 2012</field>
+<field name="librettist">Magret Wolf</field>
+<field name="librettistsort">Wolf, Magret</field>
+<field name="theater">Mainfranken Theater</field>
+<field name="city">Würzburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Refidim+Junction+Magret+Wolf&amp;search_field=search</field>
+</doc>
+</add>

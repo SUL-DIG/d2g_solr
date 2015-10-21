@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962380</field>
+<field name="title">Sucktion</field>
+<field name="titlesort">Sucktion</field>
+<field name="composer">Anna LeBaron</field>
+<field name="composersort">LeBaron, Anna</field>
+<field name="year">2008</field>
+<field name="date">July 31, 2008</field>
+<field name="librettist">Douglas Kearney</field>
+<field name="librettistsort">Kearney, Douglas</field>
+<field name="theater">REDCAT Center for New Performance</field>
+<field name="city">Los Angeles</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sucktion+Anna+LeBaron&amp;search_field=search</field>
+</doc>
+</add>

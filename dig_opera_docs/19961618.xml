@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961618</field>
+<field name="title">Madame Curie</field>
+<field name="titlesort">Madame Curie</field>
+<field name="composer">Elzbieta Sikora</field>
+<field name="composersort">Sikora, Elzbieta</field>
+<field name="year">2012</field>
+<field name="date">November 15, 2012</field>
+<field name="librettist">Agata Miklaszewska</field>
+<field name="librettistsort">Miklaszewska, Agata</field>
+<field name="librettist">Elzbieta Sikora</field>
+<field name="librettistsort">Sikora, Elzbieta</field>
+<field name="theater">Salle de UNESCO</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Madame+Curie+Elzbieta+Sikora&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960296</field>
+<field name="title">Before Night Falls</field>
+<field name="titlesort">Before Night Falls</field>
+<field name="composer">Jorge Martín</field>
+<field name="composersort">Martín, Jorge</field>
+<field name="year">2010</field>
+<field name="date">May 29, 2010</field>
+<field name="librettist">Jorge Martín</field>
+<field name="librettistsort">Martín, Jorge</field>
+<field name="librettist">Dolores Mercedes Koch</field>
+<field name="librettistsort">Koch, Dolores Mercedes</field>
+<field name="theater">Bass Performance Hall</field>
+<field name="city">Fort Worth</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Before+Night+Falls+Jorge+Martín&amp;search_field=search</field>
+</doc>
+</add>

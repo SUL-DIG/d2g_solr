@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962019</field>
+<field name="title">Platform 10 (The Power of Literature)</field>
+<field name="titlesort">Platform 10 (The Power of Literature)</field>
+<field name="composer">Julian Grant</field>
+<field name="composersort">Grant, Julian</field>
+<field name="year">1999</field>
+<field name="date">August 26, 1999</field>
+<field name="librettist">Christina Jones</field>
+<field name="librettistsort">Jones, Christina</field>
+<field name="theater">Battersea Arts Centre</field>
+<field name="city">Battersea</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Platform+10+(The+Power+of+Literature)+Julian+Grant&amp;search_field=search</field>
+</doc>
+</add>

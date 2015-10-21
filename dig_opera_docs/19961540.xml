@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961540</field>
+<field name="title">Lesuv pán (Lord of the Forests)</field>
+<field name="titlesort">Lesuv pán (Lord of the Forests)</field>
+<field name="composer">Václav Suk</field>
+<field name="composersort">Suk, Václav</field>
+<field name="year">1900</field>
+<field name="date">February 16, 1900</field>
+<field name="librettist">Josef Václav Fric</field>
+<field name="librettistsort">Fric, Josef Václav</field>
+<field name="librettist">Karel Hynek Mácha</field>
+<field name="librettistsort">Mácha, Karel Hynek</field>
+<field name="theater">Opera</field>
+<field name="city">Kharkiv</field>
+<field name="region">Kharkivs'ka Oblast</field>
+<field name="country">Ukraine</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lesuv+pán+(Lord+of+the+Forests)+Václav+Suk&amp;search_field=search</field>
+</doc>
+</add>

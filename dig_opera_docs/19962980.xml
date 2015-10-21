@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962980</field>
+<field name="title">Vargen kommer</field>
+<field name="titlesort">Vargen kommer</field>
+<field name="composer">Hans Gefors</field>
+<field name="composersort">Gefors, Hans</field>
+<field name="year">1998</field>
+<field name="date">December 1, 1998</field>
+<field name="librettist">Hans Gefors</field>
+<field name="librettistsort">Gefors, Hans</field>
+<field name="librettist">Kerstin Klein-Perski</field>
+<field name="librettistsort">Klein-Perski, Kerstin</field>
+<field name="theater">Malmö Opera och Musikteater</field>
+<field name="city">Malmö</field>
+<field name="region">Skåne</field>
+<field name="country">Sweden</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vargen+kommer+Hans+Gefors&amp;search_field=search</field>
+</doc>
+</add>

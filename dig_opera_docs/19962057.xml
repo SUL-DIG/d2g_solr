@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962057</field>
+<field name="title">Promethée XII</field>
+<field name="titlesort">Promethée XII</field>
+<field name="composer">Hayg Vartan</field>
+<field name="composersort">Vartan, Hayg</field>
+<field name="year">1995</field>
+<field name="librettist">Jean-Jacques Varoujean</field>
+<field name="librettistsort">Varoujean, Jean-Jacques</field>
+<field name="theater">Yerevan State Conservatory of Music</field>
+<field name="city">Erevan</field>
+<field name="country">Armenia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Promethée+XII+Hayg+Vartan&amp;search_field=search</field>
+</doc>
+</add>

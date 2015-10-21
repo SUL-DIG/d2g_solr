@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962880</field>
+<field name="title">Time for Love</field>
+<field name="titlesort">Time for Love</field>
+<field name="composer">Dimitar Valchev</field>
+<field name="composersort">Valchev, Dimitar</field>
+<field name="year">1959</field>
+<field name="theater">Darzhaven Musikalen Teater</field>
+<field name="city">Sofia</field>
+<field name="country">Bulgaria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Time+for+Love+Dimitar+Valchev&amp;search_field=search</field>
+</doc>
+</add>

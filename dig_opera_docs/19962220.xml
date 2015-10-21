@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962220</field>
+<field name="title">Say It Ain't So, Joe</field>
+<field name="titlesort">Say It Ain't So, Joe</field>
+<field name="composer">Curtis K. Hughes</field>
+<field name="composersort">Hughes, Curtis K.</field>
+<field name="year">2009</field>
+<field name="date">September 19, 2009</field>
+<field name="librettist">Curtis K. Hughes</field>
+<field name="librettistsort">Hughes, Curtis K.</field>
+<field name="theater">Boston Conservatory</field>
+<field name="city">Boston</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Say+It+Ain't+So,+Joe+Curtis+K.+Hughes&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961547</field>
+<field name="title">Lídia de Oxum</field>
+<field name="titlesort">Lídia de Oxum</field>
+<field name="composer">Lindembergue Cardoso</field>
+<field name="composersort">Cardoso, Lindembergue</field>
+<field name="year">1995</field>
+<field name="date">June 29, 1995</field>
+<field name="librettist">Ildásio Tavares</field>
+<field name="librettistsort">Tavares, Ildásio</field>
+<field name="theater">Teatro Castro Alves</field>
+<field name="city">Salvador</field>
+<field name="region">Bahia</field>
+<field name="country">Brazil</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lídia+de+Oxum+Lindembergue+Cardoso&amp;search_field=search</field>
+</doc>
+</add>

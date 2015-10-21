@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962176</field>
+<field name="title">Romulus</field>
+<field name="titlesort">Romulus</field>
+<field name="composer">Louis Karchin</field>
+<field name="composersort">Karchin, Louis</field>
+<field name="year">2007</field>
+<field name="date">May 20, 2007</field>
+<field name="librettist">Louis Karchin</field>
+<field name="librettistsort">Karchin, Louis</field>
+<field name="librettist">Alexandre Dumas</field>
+<field name="librettistsort">Dumas, Alexandre</field>
+<field name="theater">Peter B. Lewis Theater, Guggenheim Museum</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Romulus+Louis+Karchin&amp;search_field=search</field>
+</doc>
+</add>

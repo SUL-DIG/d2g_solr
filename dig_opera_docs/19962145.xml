@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962145</field>
+<field name="title">Rianta</field>
+<field name="titlesort">Rianta</field>
+<field name="composer">Luciano Di Giandomenico</field>
+<field name="composersort">Di Giandomenico, Luciano</field>
+<field name="year">2005</field>
+<field name="date">November 22, 2005</field>
+<field name="librettist">Kay McCarthy</field>
+<field name="librettistsort">McCarthy, Kay</field>
+<field name="theater">Teatro Marrucino</field>
+<field name="city">Chieti</field>
+<field name="region">Abruzzi</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rianta+Luciano+Di+Giandomenico&amp;search_field=search</field>
+</doc>
+</add>

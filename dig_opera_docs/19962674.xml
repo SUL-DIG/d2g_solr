@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962674</field>
+<field name="title">The Orientals</field>
+<field name="titlesort">Orientals</field>
+<field name="composer">Josephine Sherwood</field>
+<field name="composersort">Sherwood, Josephine</field>
+<field name="year">1898</field>
+<field name="date">May 1898</field>
+<field name="librettist">Katherine Berry</field>
+<field name="librettistsort">Berry, Katherine</field>
+<field name="theater">Radcliffe College</field>
+<field name="city">Cambridge</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orientals+Josephine+Sherwood&amp;search_field=search</field>
+</doc>
+</add>

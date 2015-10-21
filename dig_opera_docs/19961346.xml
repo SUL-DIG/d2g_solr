@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961346</field>
+<field name="title">Kunsten at vaelge (The Art of Choosing)</field>
+<field name="titlesort">Kunsten at vaelge (The Art of Choosing)</field>
+<field name="composer">Peter Bruun</field>
+<field name="composersort">Bruun, Peter</field>
+<field name="year">2006</field>
+<field name="date">March 21, 2006</field>
+<field name="librettist">Ursula Andkjaer Olsen</field>
+<field name="librettistsort">Andkjaer Olsen, Ursula</field>
+<field name="theater">Limfjordsteatret</field>
+<field name="city">Nykøbing Mors</field>
+<field name="region">Nordjylland</field>
+<field name="country">Denmark</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kunsten+at+vaelge+(The+Art+of+Choosing)+Peter+Bruun&amp;search_field=search</field>
+</doc>
+</add>

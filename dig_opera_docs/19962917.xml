@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962917</field>
+<field name="title">Trois bateaux pour nulle part</field>
+<field name="titlesort">Trois bateaux pour nulle part</field>
+<field name="composer">Isabelle Aboulker</field>
+<field name="composersort">Aboulker, Isabelle</field>
+<field name="year">1991</field>
+<field name="date">December 19, 1991</field>
+<field name="librettist">Rémi Laureillard</field>
+<field name="librettistsort">Laureillard, Rémi</field>
+<field name="theater">Palais des Sports</field>
+<field name="city">Lourdes</field>
+<field name="region">Hautes-Pyrénées</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Trois+bateaux+pour+nulle+part+Isabelle+Aboulker&amp;search_field=search</field>
+</doc>
+</add>

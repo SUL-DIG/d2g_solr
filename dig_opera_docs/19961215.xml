@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961215</field>
+<field name="title">Ja, Kain</field>
+<field name="titlesort">Ja, Kain</field>
+<field name="composer">Edward Pałłasz</field>
+<field name="composersort">Pałłasz, Edward</field>
+<field name="year">2012</field>
+<field name="date">January 7, 2012</field>
+<field name="librettist">Joanna Kulmowa</field>
+<field name="librettistsort">Kulmowa, Joanna</field>
+<field name="theater">Warszawska Opera Kameralna</field>
+<field name="city">Warsaw</field>
+<field name="country">Poland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ja,+Kain+Edward+Pałłasz&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960808</field>
+<field name="title">Ennen kuin me kaikki olemme hukkuneet</field>
+<field name="titlesort">Ennen kuin me kaikki olemme hukkuneet</field>
+<field name="composer">Kalevi Aho</field>
+<field name="composersort">Aho, Kalevi</field>
+<field name="year">2001</field>
+<field name="date">February 8, 2001</field>
+<field name="librettist">Kalevi Aho</field>
+<field name="librettistsort">Aho, Kalevi</field>
+<field name="librettist">Juha Mannerkorpi</field>
+<field name="librettistsort">Mannerkorpi, Juha</field>
+<field name="theater">Suomen Kansallisooppera Alminsali</field>
+<field name="city">Helsinki</field>
+<field name="region">Uudenmaan</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ennen+kuin+me+kaikki+olemme+hukkuneet+Kalevi+Aho&amp;search_field=search</field>
+</doc>
+</add>

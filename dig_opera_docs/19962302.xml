@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962302</field>
+<field name="title">Skandal, Ers Majestät</field>
+<field name="titlesort">Skandal, Ers Majestät</field>
+<field name="composer">Sven-Eric Johanson</field>
+<field name="composersort">Johanson, Sven-Eric</field>
+<field name="year">1978</field>
+<field name="date">June 8, 1978</field>
+<field name="librettist">August Strindberg</field>
+<field name="librettistsort">Strindberg, August</field>
+<field name="theater">NorrlandsOperan</field>
+<field name="city">Umeå</field>
+<field name="region">Västerbotten</field>
+<field name="country">Sweden</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Skandal,+Ers+Majestät+Sven-Eric+Johanson&amp;search_field=search</field>
+</doc>
+</add>

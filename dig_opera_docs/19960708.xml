@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960708</field>
+<field name="title">Dr. Jekylls advokat</field>
+<field name="titlesort">Dr. Jekylls advokat</field>
+<field name="composer">Niels Marthinsen</field>
+<field name="composersort">Marthinsen, Niels</field>
+<field name="year">2014</field>
+<field name="date">March 14, 2014</field>
+<field name="librettist">Eva Littauer</field>
+<field name="librettistsort">Littauer, Eva</field>
+<field name="librettist">Robert Louis Stevenson</field>
+<field name="librettistsort">Stevenson, Robert Louis</field>
+<field name="theater">Funen Opera</field>
+<field name="city">Odense</field>
+<field name="region">Syddanmark</field>
+<field name="country">Denmark</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dr.+Jekylls+advokat+Niels+Marthinsen&amp;search_field=search</field>
+</doc>
+</add>

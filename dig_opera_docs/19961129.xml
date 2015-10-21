@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961129</field>
+<field name="title">I Cancelliraadens dage</field>
+<field name="titlesort">Cancelliraadens dage</field>
+<field name="composer">Ragnar Söderlind</field>
+<field name="composersort">Söderlind, Ragnar</field>
+<field name="year">2011</field>
+<field name="date">November 17, 2011</field>
+<field name="librettist">Morten Jostad</field>
+<field name="librettistsort">Jostad, Morten</field>
+<field name="librettist">Tryggve Andersen</field>
+<field name="librettistsort">Andersen, Tryggve</field>
+<field name="theater">RingsakerOperaen</field>
+<field name="city">Brumunddal</field>
+<field name="region">Hedmark</field>
+<field name="country">Norway</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cancelliraadens+dage+Ragnar+Söderlind&amp;search_field=search</field>
+</doc>
+</add>

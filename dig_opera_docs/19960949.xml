@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960949</field>
+<field name="title">Galileo Galilei</field>
+<field name="titlesort">Galileo Galilei</field>
+<field name="composer">Philip Glass</field>
+<field name="composersort">Glass, Philip</field>
+<field name="year">2002</field>
+<field name="date">June 24, 2002</field>
+<field name="librettist">Mary Zimmerman</field>
+<field name="librettistsort">Zimmerman, Mary</field>
+<field name="librettist">Philip Glass</field>
+<field name="librettistsort">Glass, Philip</field>
+<field name="theater">Albert Ivar Goodman Theater</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Galileo+Galilei+Philip+Glass&amp;search_field=search</field>
+</doc>
+</add>

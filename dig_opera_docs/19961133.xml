@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961133</field>
+<field name="title">I Metamorphossis tou Dionissou</field>
+<field name="titlesort">Metamorphossis tou Dionissou</field>
+<field name="composer">Mikis Theodorakes</field>
+<field name="composersort">Theodorakes, Mikis</field>
+<field name="year">1987</field>
+<field name="date">May 11, 1987</field>
+<field name="librettist">Kostas Karyotakis</field>
+<field name="librettistsort">Karyotakis, Kostas</field>
+<field name="librettist">Mikis Theodorakes</field>
+<field name="librettistsort">Theodorakes, Mikis</field>
+<field name="theater">Megaro Moussikis Athinon</field>
+<field name="city">Athens</field>
+<field name="region">Attiki</field>
+<field name="country">Greece</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Metamorphossis+tou+Dionissou+Mikis+Theodorakes&amp;search_field=search</field>
+</doc>
+</add>

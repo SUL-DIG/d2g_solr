@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960305</field>
+<field name="title">Bernarda Alba Haus</field>
+<field name="titlesort">Bernarda Alba Haus</field>
+<field name="composer">Aribert Reimann</field>
+<field name="composersort">Reimann, Aribert</field>
+<field name="year">2000</field>
+<field name="date">October 30, 2000</field>
+<field name="librettist">Enrique Beck</field>
+<field name="librettistsort">Beck, Enrique</field>
+<field name="librettist">Federico García Lorca</field>
+<field name="theater">Bayerische Staatsoper</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bernarda+Alba+Haus+Aribert+Reimann&amp;search_field=search</field>
+</doc>
+</add>

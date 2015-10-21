@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962727</field>
+<field name="title">The Sandman</field>
+<field name="titlesort">Sandman</field>
+<field name="composer">Thomas Cabaniss</field>
+<field name="composersort">Cabaniss, Thomas</field>
+<field name="year">2002</field>
+<field name="date">May 8, 2002</field>
+<field name="librettist">Douglas Langworthy</field>
+<field name="librettistsort">Langworthy, Douglas</field>
+<field name="librettist">David Herskovits</field>
+<field name="librettistsort">Herskovits, David</field>
+<field name="theater">Connelly Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sandman+Thomas+Cabaniss&amp;search_field=search</field>
+</doc>
+</add>

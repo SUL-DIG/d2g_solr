@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961195</field>
+<field name="title">Into the Little Hill</field>
+<field name="titlesort">Into the Little Hill</field>
+<field name="composer">George Benjamin</field>
+<field name="composersort">Benjamin, George</field>
+<field name="year">2006</field>
+<field name="date">November 22, 2006</field>
+<field name="librettist">Martin Crimp</field>
+<field name="librettistsort">Crimp, Martin</field>
+<field name="theater">Opéra Bastille</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Into+the+Little+Hill+George+Benjamin&amp;search_field=search</field>
+</doc>
+</add>

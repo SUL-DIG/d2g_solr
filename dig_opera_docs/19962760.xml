@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962760</field>
+<field name="title">The Silver River</field>
+<field name="titlesort">Silver River</field>
+<field name="composer">Bright Sheng</field>
+<field name="composersort">Sheng, Bright</field>
+<field name="year">1997</field>
+<field name="date">July 27, 1997</field>
+<field name="librettist">David Henry Hwang</field>
+<field name="librettistsort">Hwang, David Henry</field>
+<field name="theater">Chamber Music Festival</field>
+<field name="city">Santa Fe</field>
+<field name="region">New Mexico</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Silver+River+Bright+Sheng&amp;search_field=search</field>
+</doc>
+</add>

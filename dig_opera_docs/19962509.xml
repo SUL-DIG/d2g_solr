@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962509</field>
+<field name="title">The Diamond Child</field>
+<field name="titlesort">Diamond Child</field>
+<field name="composer">Bruce Trinkley</field>
+<field name="composersort">Trinkley, Bruce</field>
+<field name="year">1999</field>
+<field name="date">October 15, 1999</field>
+<field name="librettist">J. Jason Charnesky</field>
+<field name="librettistsort">Charnesky, J. Jason</field>
+<field name="theater">Pennsylvania State University</field>
+<field name="city">State College</field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Diamond+Child+Bruce+Trinkley&amp;search_field=search</field>
+</doc>
+</add>

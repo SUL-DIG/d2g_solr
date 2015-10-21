@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962688</field>
+<field name="title">The Piano Tuner</field>
+<field name="titlesort">Piano Tuner</field>
+<field name="composer">Nigel Osborne</field>
+<field name="composersort">Osborne, Nigel</field>
+<field name="year">2004</field>
+<field name="date">October 11, 2004</field>
+<field name="librettist">Amanda Holden</field>
+<field name="librettistsort">Holden, Amanda</field>
+<field name="librettist">Daniel Mason</field>
+<field name="librettistsort">Mason, Daniel</field>
+<field name="theater">Linbury Studio, Royal Opera House</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Piano+Tuner+Nigel+Osborne&amp;search_field=search</field>
+</doc>
+</add>

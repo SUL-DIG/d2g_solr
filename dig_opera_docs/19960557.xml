@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960557</field>
+<field name="title">Der dritte Polizist</field>
+<field name="titlesort">dritte Polizist</field>
+<field name="composer">Florian Bramböck</field>
+<field name="composersort">Bramböck, Florian</field>
+<field name="year">2012</field>
+<field name="date">May 6, 2012</field>
+<field name="librettist">Doris Happl</field>
+<field name="librettistsort">Happl, Doris</field>
+<field name="librettist">[Brian O'Nolan] Flann O'Brien</field>
+<field name="librettistsort">O'Brien, Flann [Brian O'Nolan]</field>
+<field name="theater">Tiroler Landestheater</field>
+<field name="city">Innsbruck</field>
+<field name="region">Tirol</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=dritte+Polizist+Florian+Bramböck&amp;search_field=search</field>
+</doc>
+</add>

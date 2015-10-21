@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960909</field>
+<field name="title">Forelle Stanley</field>
+<field name="titlesort">Forelle Stanley</field>
+<field name="composer">Daniel Fueter</field>
+<field name="composersort">Fueter, Daniel</field>
+<field name="year">2011</field>
+<field name="date">September 22, 2011</field>
+<field name="librettist">Mona Petri</field>
+<field name="librettistsort">Petri, Mona</field>
+<field name="theater">Theater Rigiblick</field>
+<field name="city">Zürich</field>
+<field name="region">Zürich</field>
+<field name="country">Switzerland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Forelle+Stanley+Daniel+Fueter&amp;search_field=search</field>
+</doc>
+</add>

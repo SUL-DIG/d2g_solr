@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963116</field>
+<field name="title">Zürich 1916</field>
+<field name="titlesort">Zürich 1916</field>
+<field name="composer">Christopher Butterfield</field>
+<field name="composersort">Butterfield, Christopher</field>
+<field name="year">1998</field>
+<field name="date">August 5, 1998</field>
+<field name="librettist">John Bentley Mays</field>
+<field name="librettistsort">Mays, John Bentley</field>
+<field name="theater">Banff Centre</field>
+<field name="city">Banff</field>
+<field name="region">Alberta</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zürich+1916+Christopher+Butterfield&amp;search_field=search</field>
+</doc>
+</add>

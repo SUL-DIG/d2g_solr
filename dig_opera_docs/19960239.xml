@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960239</field>
+<field name="title">Aurora</field>
+<field name="titlesort">Aurora</field>
+<field name="composer">Trygve Madsen</field>
+<field name="composersort">Madsen, Trygve</field>
+<field name="year">2005</field>
+<field name="date">June 1, 2005</field>
+<field name="librettist">Jon Bing</field>
+<field name="librettistsort">Bing, Jon</field>
+<field name="theater">Fredriksten Festning</field>
+<field name="city">Halden</field>
+<field name="region">Østfold</field>
+<field name="country">Norway</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aurora+Trygve+Madsen&amp;search_field=search</field>
+</doc>
+</add>

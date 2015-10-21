@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963023</field>
+<field name="title">Vom Meer</field>
+<field name="titlesort">Vom Meer</field>
+<field name="composer">Alexander Muno</field>
+<field name="composersort">Muno, Alexander</field>
+<field name="year">2011</field>
+<field name="date">April 29, 2011</field>
+<field name="librettist">Francis Hüsers</field>
+<field name="librettistsort">Hüsers, Francis</field>
+<field name="librettist">Henrik Ibsen</field>
+<field name="librettistsort">Ibsen, Henrik</field>
+<field name="theater">Theater der Stadt</field>
+<field name="city">Heidelberg</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vom+Meer+Alexander+Muno&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960303</field>
+<field name="title">Beowulf</field>
+<field name="titlesort">Beowulf</field>
+<field name="composer">Victor Davies</field>
+<field name="composersort">Davies, Victor</field>
+<field name="year">1977</field>
+<field name="date">December 1, 1977</field>
+<field name="librettist">Betty Jane Wylie</field>
+<field name="librettistsort">Wylie, Betty Jane</field>
+<field name="theater">AMAS Repertory Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beowulf+Victor+Davies&amp;search_field=search</field>
+</doc>
+</add>

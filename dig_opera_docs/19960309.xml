@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960309</field>
+<field name="title">Between Two Worlds (The Dybbuk)</field>
+<field name="titlesort">Between Two Worlds (The Dybbuk)</field>
+<field name="composer">Shulamit Ran</field>
+<field name="composersort">Ran, Shulamit</field>
+<field name="year">1997</field>
+<field name="date">June 20, 1997</field>
+<field name="librettist">Charles Kondek</field>
+<field name="librettistsort">Kondek, Charles</field>
+<field name="librettist">[Shloyme Zaynv Rapoport] An-ski</field>
+<field name="librettistsort">An-ski, [Shloyme Zaynv Rapoport]</field>
+<field name="theater">Merle Reskin Theater</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Between+Two+Worlds+(The+Dybbuk)+Shulamit+Ran&amp;search_field=search</field>
+</doc>
+</add>

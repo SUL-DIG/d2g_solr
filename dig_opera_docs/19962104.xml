@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962104</field>
+<field name="title">Raoul Wallenberg, saknad</field>
+<field name="titlesort">Raoul Wallenberg, saknad</field>
+<field name="composer">Inger Wikström</field>
+<field name="composersort">Wikström, Inger</field>
+<field name="year">2014</field>
+<field name="date">September 24, 2014</field>
+<field name="librettist">Inger Wikström</field>
+<field name="librettistsort">Wikström, Inger</field>
+<field name="theater">Ulriksdal Slott-Teatern</field>
+<field name="city">Solna</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Raoul+Wallenberg,+saknad+Inger+Wikström&amp;search_field=search</field>
+</doc>
+</add>

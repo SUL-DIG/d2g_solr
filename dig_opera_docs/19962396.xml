@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962396</field>
+<field name="title">Superflumina</field>
+<field name="titlesort">Superflumina</field>
+<field name="composer">Salvatore Sciarrino</field>
+<field name="composersort">Sciarrino, Salvatore</field>
+<field name="year">2009</field>
+<field name="date">July 18, 2009</field>
+<field name="librettist">Salvatore Sciarrino</field>
+<field name="librettistsort">Sciarrino, Salvatore</field>
+<field name="librettist">Elizabeth Smart</field>
+<field name="librettistsort">Smart, Elizabeth</field>
+<field name="theater">Nationaltheater</field>
+<field name="city">Mannheim</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Superflumina+Salvatore+Sciarrino&amp;search_field=search</field>
+</doc>
+</add>

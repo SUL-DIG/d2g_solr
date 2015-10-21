@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962335</field>
+<field name="title">Songs From the F Train</field>
+<field name="titlesort">Songs From the F Train</field>
+<field name="composer">Gilda Lyons</field>
+<field name="composersort">Lyons, Gilda</field>
+<field name="year">2009</field>
+<field name="date">June 21, 2009</field>
+<field name="librettist">Samori Covington</field>
+<field name="librettistsort">Covington, Samori</field>
+<field name="librettist">Alexis Cummings</field>
+<field name="librettistsort">Cummings, Alexis</field>
+<field name="theater">Fort Greene Park, Brooklyn</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Songs+From+the+F+Train+Gilda+Lyons&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961290</field>
+<field name="title">Karussell</field>
+<field name="titlesort">Karussell</field>
+<field name="composer">Mirela Ivicevic</field>
+<field name="composersort">Ivicevic, Mirela</field>
+<field name="year">2013</field>
+<field name="date">November 14, 2013</field>
+<field name="librettist">Radek Knapp</field>
+<field name="librettistsort">Knapp, Radek</field>
+<field name="theater">Sirene Operntheater</field>
+<field name="city">Vienna</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Karussell+Mirela+Ivicevic&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960924</field>
+<field name="title">Freshwater</field>
+<field name="titlesort">Freshwater</field>
+<field name="composer">Andy Vores</field>
+<field name="composersort">Vores, Andy</field>
+<field name="year">1994</field>
+<field name="date">December 2, 1994</field>
+<field name="librettist">Andy Vores</field>
+<field name="librettistsort">Vores, Andy</field>
+<field name="librettist">Virginia Woolf</field>
+<field name="librettistsort">Woolf, Virginia</field>
+<field name="theater">Boston University</field>
+<field name="city">Boston</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Freshwater+Andy+Vores&amp;search_field=search</field>
+</doc>
+</add>

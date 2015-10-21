@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963009</field>
+<field name="title">Vivaldi</field>
+<field name="titlesort">Vivaldi</field>
+<field name="composer">Mathias Husmann</field>
+<field name="composersort">Husmann, Mathias</field>
+<field name="year">2002</field>
+<field name="date">January 11, 2002</field>
+<field name="librettist">Mathias Husmann</field>
+<field name="librettistsort">Husmann, Mathias</field>
+<field name="theater">Theater der Stadt</field>
+<field name="city">Ulm</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vivaldi+Mathias+Husmann&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960959</field>
+<field name="title">Garden Party</field>
+<field name="titlesort">Garden Party</field>
+<field name="composer">Daniel Pinkham</field>
+<field name="composersort">Pinkham, Daniel</field>
+<field name="year">1977</field>
+<field name="date">March 25, 1977</field>
+<field name="librettist">Daniel Pinkham</field>
+<field name="librettistsort">Pinkham, Daniel</field>
+<field name="librettist">Norma Farber</field>
+<field name="librettistsort">Farber, Norma</field>
+<field name="theater">New England Conservatory</field>
+<field name="city">Boston</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Garden+Party+Daniel+Pinkham&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963085</field>
+<field name="title">Yonaga-hime to Mimio</field>
+<field name="titlesort">Yonaga-hime to Mimio</field>
+<field name="composer">Mamiya Michio</field>
+<field name="composersort">Michio, Mamiya</field>
+<field name="year">1990</field>
+<field name="date">May 1, 1990</field>
+<field name="librettist">Masanori Tomotake</field>
+<field name="librettistsort">Tomotake, Masanori</field>
+<field name="librettist">Ango Sakaguchi</field>
+<field name="librettistsort">Sakaguchi, Ango</field>
+<field name="theater">Mito Geijutsukan</field>
+<field name="city">Mito</field>
+<field name="region">Ibaraki</field>
+<field name="country">Japan</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Yonaga-hime+to+Mimio+Mamiya+Michio&amp;search_field=search</field>
+</doc>
+</add>

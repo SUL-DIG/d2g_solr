@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961513</field>
+<field name="title">Lelele</field>
+<field name="titlesort">Lelele</field>
+<field name="composer">Lotta Wennäkoski</field>
+<field name="composersort">Wennäkoski, Lotta</field>
+<field name="year">2011</field>
+<field name="date">February 5, 2011</field>
+<field name="librettist">Lotta Wennäkoski</field>
+<field name="librettistsort">Wennäkoski, Lotta</field>
+<field name="theater">Musica nova Helsinki</field>
+<field name="city">Helsinki</field>
+<field name="region">Uusimaa</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lelele+Lotta+Wennäkoski&amp;search_field=search</field>
+</doc>
+</add>

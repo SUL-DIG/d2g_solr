@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961396</field>
+<field name="title">La dama ed il pulitore di Damasco</field>
+<field name="titlesort">dama ed il pulitore di Damasco</field>
+<field name="composer">Jonathan Dove</field>
+<field name="composersort">Dove, Jonathan</field>
+<field name="year">2003</field>
+<field name="date">July 24, 2003</field>
+<field name="librettist">Adam Pollock</field>
+<field name="librettistsort">Pollock, Adam</field>
+<field name="theater">Batignano Festival</field>
+<field name="city">Batignano</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=dama+ed+il+pulitore+di+Damasco+Jonathan+Dove&amp;search_field=search</field>
+</doc>
+</add>

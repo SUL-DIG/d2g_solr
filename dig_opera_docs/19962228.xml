@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962228</field>
+<field name="title">Schlachthof V</field>
+<field name="titlesort">Schlachthof V</field>
+<field name="composer">Hans-Jürgen von Bose</field>
+<field name="composersort">Bose, Hans-Jürgen von</field>
+<field name="year">1996</field>
+<field name="date">July 1, 1996</field>
+<field name="librettist">Hans-Jürgen von Bose</field>
+<field name="librettistsort">Bose, Hans-Jürgen von</field>
+<field name="librettist">Kurt Vonnegut</field>
+<field name="librettistsort">Vonnegut, Kurt</field>
+<field name="theater">Bayerische Staatsoper</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schlachthof+V+Hans-Jürgen+von+Bose&amp;search_field=search</field>
+</doc>
+</add>

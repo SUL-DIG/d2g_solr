@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960187</field>
+<field name="title">Antigone</field>
+<field name="titlesort">Antigone</field>
+<field name="composer">John Charles Eaton</field>
+<field name="composersort">Eaton, John Charles</field>
+<field name="year">1999</field>
+<field name="date">December 9, 1999</field>
+<field name="librettist">Nicholas Rudall</field>
+<field name="librettistsort">Rudall, Nicholas</field>
+<field name="theater">Pocket Opera Players</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Antigone+John+Charles+Eaton&amp;search_field=search</field>
+</doc>
+</add>

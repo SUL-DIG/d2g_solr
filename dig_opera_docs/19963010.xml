@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963010</field>
+<field name="title">Viviane</field>
+<field name="titlesort">Viviane</field>
+<field name="composer">Oscar van Hemel</field>
+<field name="composersort">Hemel, Oscar van</field>
+<field name="year">1950</field>
+<field name="librettist">Louis Lutz</field>
+<field name="librettistsort">Lutz, Louis</field>
+<field name="theater">Radio Hilversum</field>
+<field name="city">Hilversum</field>
+<field name="region">Noord Holland</field>
+<field name="country">Netherlands</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Viviane+Oscar+van+Hemel&amp;search_field=search</field>
+</doc>
+</add>

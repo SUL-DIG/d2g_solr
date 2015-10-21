@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962186</field>
+<field name="title">Rufen Sie Herrn Plim!</field>
+<field name="titlesort">Rufen Sie Herrn Plim!</field>
+<field name="composer">Mischa Spoliansky</field>
+<field name="composersort">Spoliansky, Mischa</field>
+<field name="year">1932</field>
+<field name="librettist">Kurt Robitschek</field>
+<field name="librettistsort">Robitschek, Kurt</field>
+<field name="librettist">Marcellus Schiffer</field>
+<field name="librettistsort">Schiffer, Marcellus</field>
+<field name="theater">Kabarett der Komiker</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rufen+Sie+Herrn+Plim!+Mischa+Spoliansky&amp;search_field=search</field>
+</doc>
+</add>

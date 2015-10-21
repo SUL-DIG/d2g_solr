@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960643</field>
+<field name="title">Die Omama im Apfelbaum</field>
+<field name="titlesort">Omama im Apfelbaum</field>
+<field name="composer">Elisabeth Naske</field>
+<field name="composersort">Naske, Elisabeth</field>
+<field name="year">2007</field>
+<field name="date">April 15, 2007</field>
+<field name="librettist">Theresita Colloredo</field>
+<field name="librettistsort">Colloredo, Theresita</field>
+<field name="librettist">Mira Lobe</field>
+<field name="librettistsort">Lobe, Mira</field>
+<field name="theater">Bayerische Staatsoper</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Omama+im+Apfelbaum+Elisabeth+Naske&amp;search_field=search</field>
+</doc>
+</add>

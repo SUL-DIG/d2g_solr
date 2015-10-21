@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962650</field>
+<field name="title">The Midnight Court</field>
+<field name="titlesort">Midnight Court</field>
+<field name="composer">Ana Sokolovic</field>
+<field name="composersort">Sokolovic, Ana</field>
+<field name="year">2005</field>
+<field name="date">June 11, 2005</field>
+<field name="librettist">Paul Bentley</field>
+<field name="librettistsort">Bentley, Paul</field>
+<field name="librettist">Brian Merriman</field>
+<field name="librettistsort">Merriman, Brian</field>
+<field name="theater">Harbourfront Centre</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Midnight+Court+Ana+Sokolovic&amp;search_field=search</field>
+</doc>
+</add>

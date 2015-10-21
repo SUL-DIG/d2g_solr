@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961976</field>
+<field name="title">Paul und Virginie</field>
+<field name="titlesort">Paul und Virginie</field>
+<field name="composer">Moritz Eggert</field>
+<field name="composersort">Eggert, Moritz</field>
+<field name="year">1990</field>
+<field name="date">April 29, 1990</field>
+<field name="librettist">Moritz Eggert</field>
+<field name="librettistsort">Eggert, Moritz</field>
+<field name="theater">Black Box</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paul+und+Virginie+Moritz+Eggert&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960264</field>
+<field name="title">Bake for One Hour</field>
+<field name="titlesort">Bake for One Hour</field>
+<field name="composer">David Knotts</field>
+<field name="composersort">Knotts, David</field>
+<field name="year">2004</field>
+<field name="date">March 1, 2004</field>
+<field name="librettist">Katharine Craik</field>
+<field name="librettistsort">Craik, Katharine</field>
+<field name="theater">Coliseum</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bake+for+One+Hour+David+Knotts&amp;search_field=search</field>
+</doc>
+</add>

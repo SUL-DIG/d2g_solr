@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961663</field>
+<field name="title">Marie's Orchard</field>
+<field name="titlesort">Marie's Orchard</field>
+<field name="composer">Philip Westin</field>
+<field name="composersort">Westin, Philip  </field>
+<field name="year">2011</field>
+<field name="date">June 1, 2011</field>
+<field name="librettist">Dylan F. Thomas</field>
+<field name="librettistsort">Thomas, Dylan F.</field>
+<field name="librettist">Willa Cather</field>
+<field name="librettistsort">Cather, Willa</field>
+<field name="theater">Madrid Theater</field>
+<field name="city">Canoga Park</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marie's+Orchard+Philip+Westin&amp;search_field=search</field>
+</doc>
+</add>

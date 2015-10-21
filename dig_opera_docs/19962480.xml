@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962480</field>
+<field name="title">The Cask of Amontillado</field>
+<field name="titlesort">Cask of Amontillado</field>
+<field name="composer">Robert W. Butts</field>
+<field name="composersort">Butts, Robert W.</field>
+<field name="year">2014</field>
+<field name="date">March 26, 2014</field>
+<field name="librettist">Robert W. Butts</field>
+<field name="librettistsort">Butts, Robert W.</field>
+<field name="librettist">Edgar Allan Poe</field>
+<field name="librettistsort">Poe, Edgar Allan</field>
+<field name="theater">New Jersey Institute of Technology</field>
+<field name="city">Newark</field>
+<field name="region">New Jersey</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cask+of+Amontillado+Robert+W.+Butts&amp;search_field=search</field>
+</doc>
+</add>

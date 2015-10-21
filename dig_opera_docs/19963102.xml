@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963102</field>
+<field name="title">Zeus and the Pamplemousse</field>
+<field name="titlesort">Zeus and the Pamplemousse</field>
+<field name="composer">Jeffery McCune</field>
+<field name="composersort">McCune, Jeffery</field>
+<field name="year">2002</field>
+<field name="date">December 13, 2002</field>
+<field name="librettist">Michael Cavanagh</field>
+<field name="librettistsort">Cavanagh, Michael</field>
+<field name="theater">National Arts Centre</field>
+<field name="city">Ottawa</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zeus+and+the+Pamplemousse+Jeffery+McCune&amp;search_field=search</field>
+</doc>
+</add>

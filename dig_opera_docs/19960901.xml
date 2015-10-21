@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960901</field>
+<field name="title">Florinda</field>
+<field name="titlesort">Florinda</field>
+<field name="composer">José María Ponce de León</field>
+<field name="composersort">Ponce de León, José María</field>
+<field name="year">1880</field>
+<field name="date">13 May 1880</field>
+<field name="librettist">Rafael Pombo</field>
+<field name="librettistsort">Pombo, Rafael</field>
+<field name="librettist">José María Gutiérrez de Alba</field>
+<field name="librettistsort">Gutiérrez de Alba, José María </field>
+<field name="theater">Teatro Municipal</field>
+<field name="city">Bogota</field>
+<field name="country">Colombia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Florinda+José+María+Ponce+de+León&amp;search_field=search</field>
+</doc>
+</add>

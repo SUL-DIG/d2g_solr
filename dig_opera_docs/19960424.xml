@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960424</field>
+<field name="title">Che fine ha fatto la piccola Irene?</field>
+<field name="titlesort">Che fine ha fatto la piccola Irene?</field>
+<field name="composer">Marco Betta</field>
+<field name="composersort">Betta, Marco</field>
+<field name="year">2003</field>
+<field name="date">July 14, 2003</field>
+<field name="librettist">Rocco Mortelliti</field>
+<field name="librettistsort">Mortelliti, Rocco</field>
+<field name="librettist">Andrea Camilleri</field>
+<field name="librettistsort">Camilleri, Andrea</field>
+<field name="theater">Accademia Musicale Chigiana</field>
+<field name="city">Siena</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Che+fine+ha+fatto+la+piccola+Irene?+Marco+Betta&amp;search_field=search</field>
+</doc>
+</add>

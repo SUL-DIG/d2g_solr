@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962158</field>
+<field name="title">Rip</field>
+<field name="titlesort">Rip</field>
+<field name="composer">Colin Towns</field>
+<field name="composersort">Towns, Colin</field>
+<field name="year">1999</field>
+<field name="librettist">Martin Newell</field>
+<field name="librettistsort">Newell, Martin</field>
+<field name="theater">W11 Opera</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rip+Colin+Towns&amp;search_field=search</field>
+</doc>
+</add>

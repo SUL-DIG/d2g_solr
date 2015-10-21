@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962667</field>
+<field name="title">The Nightingale and the Rose</field>
+<field name="titlesort">Nightingale and the Rose</field>
+<field name="composer">Bruce Rockwell</field>
+<field name="composersort">Rockwell, Bruce</field>
+<field name="year">1996</field>
+<field name="date">February 23, 1996</field>
+<field name="librettist">Jason Sinclair Long</field>
+<field name="librettistsort">Long, Quincy</field>
+<field name="librettist">Oscar Wilde</field>
+<field name="librettistsort">Wilde, Oscar</field>
+<field name="theater">University of California</field>
+<field name="city">Santa Cruz</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nightingale+and+the+Rose+Bruce+Rockwell&amp;search_field=search</field>
+</doc>
+</add>

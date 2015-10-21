@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962699</field>
+<field name="title">The Pleasure Garden</field>
+<field name="titlesort">Pleasure Garden</field>
+<field name="composer">Philip Norman</field>
+<field name="composersort">Norman, Philip</field>
+<field name="year">2008</field>
+<field name="date">April 9, 2008</field>
+<field name="librettist">Alan Keith Grant</field>
+<field name="librettistsort">Grant, Alan Keith</field>
+<field name="theater">Opera Factory Studio Theatre</field>
+<field name="city">Auckland</field>
+<field name="country">New Zealand</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pleasure+Garden+Philip+Norman&amp;search_field=search</field>
+</doc>
+</add>

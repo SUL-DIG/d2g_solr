@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962681</field>
+<field name="title">The Passion of Lizzie Borden</field>
+<field name="titlesort">Passion of Lizzie Borden</field>
+<field name="composer">Robert Convery</field>
+<field name="composersort">Convery, Robert</field>
+<field name="year">1994</field>
+<field name="date">August 12, 1994</field>
+<field name="librettist">Robert Convery</field>
+<field name="librettistsort">Convery, Robert</field>
+<field name="librettist">Ruth Whitman</field>
+<field name="librettistsort">Whitman, Ruth</field>
+<field name="theater">Eugene O'Neill Theater Center</field>
+<field name="city">Waterford</field>
+<field name="region">Connecticut</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Passion+of+Lizzie+Borden+Robert+Convery&amp;search_field=search</field>
+</doc>
+</add>

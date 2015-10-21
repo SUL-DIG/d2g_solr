@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962854</field>
+<field name="title">The Year of the Serpent</field>
+<field name="titlesort">Year of the Serpent</field>
+<field name="composer">Erin Huelskamp</field>
+<field name="composersort">Huelskamp, Erin</field>
+<field name="year">2009</field>
+<field name="date">May 7, 2009</field>
+<field name="librettist">Shannon Rosa</field>
+<field name="librettistsort">Rosa, Shannon</field>
+<field name="theater">Family YMCA Theater</field>
+<field name="city">Cambridge</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Year+of+the+Serpent+Erin+Huelskamp&amp;search_field=search</field>
+</doc>
+</add>

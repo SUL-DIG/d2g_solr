@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960244</field>
+<field name="title">Axi</field>
+<field name="titlesort">Axi</field>
+<field name="composer">Jaime Wolfson</field>
+<field name="composersort">Wolfson, Jaime</field>
+<field name="year">2013</field>
+<field name="date">November 14, 2013</field>
+<field name="librettist">Antonio Fian</field>
+<field name="librettistsort">Fian, Antonio</field>
+<field name="theater">Sirene Operntheater</field>
+<field name="city">Vienna</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Axi+Jaime+Wolfson&amp;search_field=search</field>
+</doc>
+</add>

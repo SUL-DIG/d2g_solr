@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962848</field>
+<field name="title">The Wolf of Gubbio</field>
+<field name="titlesort">Wolf of Gubbio</field>
+<field name="composer">Ronald Senator</field>
+<field name="composersort">Senator, Ronald</field>
+<field name="year">1980</field>
+<field name="date">June 1, 1980</field>
+<field name="librettist">Peter Porter</field>
+<field name="librettistsort">Porter, Peter</field>
+<field name="theater">Covent Garden Piazza</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wolf+of+Gubbio+Ronald+Senator&amp;search_field=search</field>
+</doc>
+</add>

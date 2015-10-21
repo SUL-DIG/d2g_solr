@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960961</field>
+<field name="title">Garraf</field>
+<field name="titlesort">Garraf</field>
+<field name="composer">José García-Robles</field>
+<field name="composersort">García-Robles, José</field>
+<field name="year">1917</field>
+<field name="librettist">Ramon Picó y Campamar</field>
+<field name="librettistsort">Picó y Campamar, Ramon</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Garraf+José+García-Robles&amp;search_field=search</field>
+</doc>
+</add>

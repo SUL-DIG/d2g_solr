@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961851</field>
+<field name="title">Nosotros Dos</field>
+<field name="titlesort">Nosotros Dos</field>
+<field name="composer">Carlos Escalante Macaya</field>
+<field name="composersort">Escalante Macaya, Carlos</field>
+<field name="year">1995</field>
+<field name="date">December 19, 1995</field>
+<field name="librettist">Carlos Tapia</field>
+<field name="librettistsort">Tapia, Carlos</field>
+<field name="theater">Teatro Fanal</field>
+<field name="city">San Jose</field>
+<field name="country">Costa Rica</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nosotros+Dos+Carlos+Escalante+Macaya&amp;search_field=search</field>
+</doc>
+</add>

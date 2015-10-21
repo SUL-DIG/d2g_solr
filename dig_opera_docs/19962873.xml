@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962873</field>
+<field name="title">Tibetan Dreams</field>
+<field name="titlesort">Tibetan Dreams</field>
+<field name="composer">Stephen Dickman</field>
+<field name="composersort">Dickman, Stephen</field>
+<field name="year">1990</field>
+<field name="date">October 20, 1990</field>
+<field name="librettist">Gary Glickman</field>
+<field name="librettistsort">Glickman, Gary</field>
+<field name="theater">Merce Cunningham Studio</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tibetan+Dreams+Stephen+Dickman&amp;search_field=search</field>
+</doc>
+</add>

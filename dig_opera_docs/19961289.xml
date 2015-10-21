@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961289</field>
+<field name="title">Karolinas sömn</field>
+<field name="titlesort">Karolinas sömn</field>
+<field name="composer">Anders Eliasson</field>
+<field name="composersort">Eliasson, Anders</field>
+<field name="year">2012</field>
+<field name="date">June 4, 2012</field>
+<field name="librettist">Bengt Emil Johnson</field>
+<field name="librettistsort">Johnson, Bengt Emil</field>
+<field name="theater">Artipelag</field>
+<field name="city">Värmdö</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Karolinas+sömn+Anders+Eliasson&amp;search_field=search</field>
+</doc>
+</add>

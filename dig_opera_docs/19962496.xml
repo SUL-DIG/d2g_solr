@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962496</field>
+<field name="title">The Court of Hearts</field>
+<field name="titlesort">Court of Hearts</field>
+<field name="composer">Mabel Wheeler Daniels</field>
+<field name="composersort">Daniels, Mabel Wheeler</field>
+<field name="year">1901</field>
+<field name="librettist">Rebecca Lane Hooper</field>
+<field name="librettistsort">Hooper, Rebecca Lane</field>
+<field name="theater">Radcliffe College</field>
+<field name="city">Cambridge</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Court+of+Hearts+Mabel+Wheeler+Daniels&amp;search_field=search</field>
+</doc>
+</add>

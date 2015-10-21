@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960490</field>
+<field name="title">Daphne at Sea</field>
+<field name="titlesort">Daphne at Sea</field>
+<field name="composer">Charles Norman Mason</field>
+<field name="composersort">Mason, Charles Norman</field>
+<field name="year">2000</field>
+<field name="date">April 13, 2000</field>
+<field name="librettist">Sally M. Gall</field>
+<field name="librettistsort">Gall, Sally M.</field>
+<field name="theater">Birmingham-Southern College</field>
+<field name="city">Birmingham</field>
+<field name="region">Alabama</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daphne+at+Sea+Charles+Norman+Mason&amp;search_field=search</field>
+</doc>
+</add>

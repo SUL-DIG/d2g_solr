@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962781</field>
+<field name="title">The Tale of the Birdcatcher</field>
+<field name="titlesort">Tale of the Birdcatcher</field>
+<field name="composer">Peter Scholes</field>
+<field name="composersort">Scholes, Peter</field>
+<field name="year">2000</field>
+<field name="date">July 31, 2000</field>
+<field name="librettist">Catherine van Bohemen</field>
+<field name="librettistsort">Bohemen, Catherine van</field>
+<field name="theater">Chapel Downs School</field>
+<field name="city">Auckland</field>
+<field name="country">New Zealand</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tale+of+the+Birdcatcher+Peter+Scholes&amp;search_field=search</field>
+</doc>
+</add>

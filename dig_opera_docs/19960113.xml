@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960113</field>
+<field name="title">Alice in Bed</field>
+<field name="titlesort">Alice in Bed</field>
+<field name="composer">Ivo Medek</field>
+<field name="composersort">Medek, Ivo</field>
+<field name="year">2014</field>
+<field name="date">May 7, 2014</field>
+<field name="librettist">Markéta Dvořáková</field>
+<field name="librettistsort">Dvořáková, Markéta</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alice+in+Bed+Ivo+Medek&amp;search_field=search</field>
+</doc>
+</add>

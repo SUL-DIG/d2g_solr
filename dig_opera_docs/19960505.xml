@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960505</field>
+<field name="title">Das Krokodil</field>
+<field name="titlesort">Krokodil</field>
+<field name="composer">Jury Everhartz</field>
+<field name="composersort">Everhartz, Jury</field>
+<field name="year">2004</field>
+<field name="date">February 26, 2004</field>
+<field name="librettist">Kristine Tornquist</field>
+<field name="librettistsort">Tornquist, Kristine</field>
+<field name="librettist">Fyodor Mikhaylovich Dostoyevsky</field>
+<field name="librettistsort">Dostoyevsky, Fyodor Mikhaylovich</field>
+<field name="theater">Jugendstiltheater</field>
+<field name="city">Vienna</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Krokodil+Jury+Everhartz&amp;search_field=search</field>
+</doc>
+</add>

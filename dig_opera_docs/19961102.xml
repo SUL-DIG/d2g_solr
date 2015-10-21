@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961102</field>
+<field name="title">Holy Ghosts</field>
+<field name="titlesort">Holy Ghosts</field>
+<field name="composer">Larry Bell</field>
+<field name="composersort">Bell, Larry</field>
+<field name="year">2009</field>
+<field name="date">September 15, 2009</field>
+<field name="librettist">Andrea Olmstead</field>
+<field name="librettistsort">Olmstead, Andrea</field>
+<field name="librettist">Romulus Linney</field>
+<field name="librettistsort">Linney, Romulus</field>
+<field name="theater">Berklee College of Music</field>
+<field name="city">Boston</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Holy+Ghosts+Larry+Bell&amp;search_field=search</field>
+</doc>
+</add>

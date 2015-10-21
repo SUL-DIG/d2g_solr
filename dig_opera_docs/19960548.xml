@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960548</field>
+<field name="title">Den Stundeslose (The Scatterbrain)</field>
+<field name="titlesort">Stundeslose (The Scatterbrain)</field>
+<field name="composer">Bent Lorentzen</field>
+<field name="composersort">Lorentzen, Bent</field>
+<field name="year">1995</field>
+<field name="date">September 16, 1995</field>
+<field name="librettist">Bent Lorentzen</field>
+<field name="librettistsort">Lorentzen, Bent</field>
+<field name="librettist">Ludvig Holberg</field>
+<field name="librettistsort">Holberg, Ludvig</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stundeslose+(The+Scatterbrain)+Bent+Lorentzen&amp;search_field=search</field>
+</doc>
+</add>

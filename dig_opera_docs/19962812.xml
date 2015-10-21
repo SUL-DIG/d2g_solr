@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962812</field>
+<field name="title">The Ugly Duckling</field>
+<field name="titlesort">Ugly Duckling</field>
+<field name="composer">Andrew Duncan</field>
+<field name="composersort">Duncan, Andrew</field>
+<field name="year">2008</field>
+<field name="date">February 11, 2008</field>
+<field name="librettist">Steven Malone</field>
+<field name="librettistsort">Malone, Steven</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistsort">Andersen, Hans Christian</field>
+<field name="theater">Nashville Opera On Tour</field>
+<field name="city">Nashville</field>
+<field name="region">Tennessee</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ugly+Duckling+Andrew+Duncan&amp;search_field=search</field>
+</doc>
+</add>

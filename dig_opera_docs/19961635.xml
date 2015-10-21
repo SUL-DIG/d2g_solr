@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961635</field>
+<field name="title">Make No Noise</field>
+<field name="titlesort">Make No Noise</field>
+<field name="composer">Miroslav Srnka</field>
+<field name="composersort">Srnka, Miroslav</field>
+<field name="year">2011</field>
+<field name="date">June 28, 2011</field>
+<field name="librettist">Tom Holloway</field>
+<field name="librettistsort">Holloway, Tom</field>
+<field name="librettist">Isabel Coixet</field>
+<field name="librettistsort">Coixet, Isabel</field>
+<field name="theater">Opernfestspiele</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Make+No+Noise+Miroslav+Srnka&amp;search_field=search</field>
+</doc>
+</add>

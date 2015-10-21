@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962578</field>
+<field name="title">The Grapes of Wrath</field>
+<field name="titlesort">Grapes of Wrath</field>
+<field name="composer">Ricky Ian Gordon</field>
+<field name="composersort">Gordon, Ricky Ian</field>
+<field name="year">2007</field>
+<field name="date">February 10, 2007</field>
+<field name="librettist">Michael Kourie</field>
+<field name="librettistsort">Kourie, Michael</field>
+<field name="librettist">John Steinbeck</field>
+<field name="librettistsort">Steinbeck, John</field>
+<field name="theater">Ordway Theater</field>
+<field name="city">St. Paul</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Grapes+of+Wrath+Ricky+Ian+Gordon&amp;search_field=search</field>
+</doc>
+</add>

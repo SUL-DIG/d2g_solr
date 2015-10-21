@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961970</field>
+<field name="title">Pastorale</field>
+<field name="titlesort">Pastorale</field>
+<field name="composer">Gérard Pesson</field>
+<field name="composersort">Pesson, Gérard</field>
+<field name="year">2006</field>
+<field name="date">May 14, 2006</field>
+<field name="librettist">Martin Kaltenecker</field>
+<field name="librettistsort">Kaltenecker, Martin</field>
+<field name="librettist">Philippe Beck</field>
+<field name="librettistsort">Beck, Philippe</field>
+<field name="theater">Württembergisches Staatsoper</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pastorale+Gérard+Pesson&amp;search_field=search</field>
+</doc>
+</add>

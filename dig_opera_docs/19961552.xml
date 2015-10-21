@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961552</field>
+<field name="title">Life on a String</field>
+<field name="titlesort">Life on a String</field>
+<field name="composer">Qu Xiao-song</field>
+<field name="composersort">Qu Xiao-song</field>
+<field name="year">1998</field>
+<field name="date">November 5, 1998</field>
+<field name="librettist">Wu Lan</field>
+<field name="librettistsort">Wu Lan</field>
+<field name="librettist">Qu Xiao-song</field>
+<field name="librettistsort">Qu Xiao-song</field>
+<field name="theater">Kunsten Festival</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Life+on+a+String+Qu+Xiao-song&amp;search_field=search</field>
+</doc>
+</add>

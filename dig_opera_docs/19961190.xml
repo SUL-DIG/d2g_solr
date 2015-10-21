@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961190</field>
+<field name="title">Inferno di gelo</field>
+<field name="titlesort">Inferno di gelo</field>
+<field name="composer">Francis Miroglio</field>
+<field name="composersort">Miroglio, Francis</field>
+<field name="year">1984</field>
+<field name="librettist">Francis Miroglio</field>
+<field name="librettistsort">Miroglio, Francis</field>
+<field name="librettist">Dante Alighieri</field>
+<field name="librettistsort">Dante Alighieri</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Orléans</field>
+<field name="region">Loiret</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Inferno+di+gelo+Francis+Miroglio&amp;search_field=search</field>
+</doc>
+</add>

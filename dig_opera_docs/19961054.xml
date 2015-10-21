@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961054</field>
+<field name="title">Hästen och gossen</field>
+<field name="titlesort">Hästen och gossen</field>
+<field name="composer">Jonas Forssell</field>
+<field name="composersort">Forssell, Jonas</field>
+<field name="year">1988</field>
+<field name="date">October 15, 1988</field>
+<field name="librettist">Maria Sundqvist</field>
+<field name="librettistsort">Sundqvist, Maria</field>
+<field name="librettist">Sara Lidman</field>
+<field name="librettistsort">Lidman, Sara</field>
+<field name="theater">NorrlandsOperan</field>
+<field name="city">Umeå</field>
+<field name="region">Västerbotten</field>
+<field name="country">Sweden</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hästen+och+gossen+Jonas+Forssell&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962393</field>
+<field name="title">Sunken Garden</field>
+<field name="titlesort">Sunken Garden</field>
+<field name="composer">Michel van der Aa</field>
+<field name="composersort">van der Aa, Michel</field>
+<field name="year">2013</field>
+<field name="date">April 12, 2013</field>
+<field name="librettist">David Mitchell</field>
+<field name="librettistsort">Mitchell, David</field>
+<field name="theater">Barbican Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sunken+Garden+Michel+van+der+Aa&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962325</field>
+<field name="title">Solaris</field>
+<field name="titlesort">Solaris</field>
+<field name="composer">Michael Obst</field>
+<field name="composersort">Obst, Michael</field>
+<field name="year">1996</field>
+<field name="date">December 4, 1996</field>
+<field name="librettist">Michael Obst</field>
+<field name="librettistsort">Obst, Michael</field>
+<field name="librettist">Stanislaw Lem</field>
+<field name="librettistsort">Lem, Stanislaw</field>
+<field name="theater">Biennale</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Solaris+Michael+Obst&amp;search_field=search</field>
+</doc>
+</add>

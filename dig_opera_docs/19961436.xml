@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961436</field>
+<field name="title">La piccola vedetta lombarda</field>
+<field name="titlesort">piccola vedetta lombarda</field>
+<field name="composer">Cristian Carrara</field>
+<field name="composersort">Carrara, Cristian</field>
+<field name="year">2011</field>
+<field name="date">August 28, 2011</field>
+<field name="librettist">Edmondo De Amicis</field>
+<field name="librettistsort">De Amicis, Edmondo</field>
+<field name="theater">Teatro degli Illuminati</field>
+<field name="city">Città di Castello</field>
+<field name="region">Perugia</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=piccola+vedetta+lombarda+Cristian+Carrara&amp;search_field=search</field>
+</doc>
+</add>

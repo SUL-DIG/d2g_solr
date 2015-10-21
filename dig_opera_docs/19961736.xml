@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961736</field>
+<field name="title">Miramar</field>
+<field name="titlesort">Miramar</field>
+<field name="composer">Sherif Mohie El Din</field>
+<field name="composersort">Mohie El Din, Sherif </field>
+<field name="year">2005</field>
+<field name="date">December 6, 2005</field>
+<field name="librettist">Sayed Hegab</field>
+<field name="librettistsort">Hegab, Sayed</field>
+<field name="librettist">Naguib Mahfouz</field>
+<field name="librettistsort">Mahfouz, Naguib</field>
+<field name="theater">Sayed Darwish Theater</field>
+<field name="city">Alexandria</field>
+<field name="country">Egypt</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Miramar+Sherif+Mohie+El+Din&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961608</field>
+<field name="title">Luyala</field>
+<field name="titlesort">Luyala</field>
+<field name="composer">William Banfield</field>
+<field name="composersort">Banfield, William</field>
+<field name="year">2002</field>
+<field name="date">March 31, 2002</field>
+<field name="librettist">Penelope Bridges</field>
+<field name="librettistsort">Bridges, Penelope</field>
+<field name="theater">Duke University</field>
+<field name="city">Durham</field>
+<field name="region">North Carolina</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Luyala+William+Banfield&amp;search_field=search</field>
+</doc>
+</add>

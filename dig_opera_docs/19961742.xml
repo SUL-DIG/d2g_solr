@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961742</field>
+<field name="title">Miss Lonelyhearts</field>
+<field name="titlesort">Miss Lonelyhearts</field>
+<field name="composer">Lowell Liebermann</field>
+<field name="composersort">Liebermann, Lowell</field>
+<field name="year">2006</field>
+<field name="date">April 26, 2006</field>
+<field name="librettist">Joseph Donald McClatchy</field>
+<field name="librettistsort">McClatchy, Joseph Donald</field>
+<field name="librettist">Nathaniel West</field>
+<field name="librettistsort">West, Nathaniel</field>
+<field name="theater">Peter Jay Sharp Theater, Lincoln Center</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Miss+Lonelyhearts+Lowell+Liebermann&amp;search_field=search</field>
+</doc>
+</add>

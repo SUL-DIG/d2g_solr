@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961343</field>
+<field name="title">Kuningas Lear (King Lear)</field>
+<field name="titlesort">Kuningas Lear (King Lear)</field>
+<field name="composer">Aulis Sallinen</field>
+<field name="composersort">Sallinen, Aulis</field>
+<field name="year">2000</field>
+<field name="date">September 15, 2000</field>
+<field name="librettist">Aulis Sallinen</field>
+<field name="librettistsort">Sallinen, Aulis</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistsort">Shakespeare, William</field>
+<field name="theater">Suomen Kansallisooppera</field>
+<field name="city">Helsinki</field>
+<field name="region">Uusimaa</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kuningas+Lear+(King+Lear)+Aulis+Sallinen&amp;search_field=search</field>
+</doc>
+</add>

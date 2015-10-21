@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961512</field>
+<field name="title">Leila und Madschnun</field>
+<field name="titlesort">Leila und Madschnun</field>
+<field name="composer">Samir Odeh-Tamimi</field>
+<field name="composersort">Odeh-Tamimi, Samir</field>
+<field name="year">2011</field>
+<field name="date">August 20, 2011</field>
+<field name="librettist">Albert Ostermaier</field>
+<field name="librettistsort">Ostermaier, Albert</field>
+<field name="librettist">Nizami Ganjavi</field>
+<field name="librettistsort">Nizami Ganjavi</field>
+<field name="theater">Jahrhunderthalle</field>
+<field name="city">Bochum</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leila+und+Madschnun+Samir+Odeh-Tamimi&amp;search_field=search</field>
+</doc>
+</add>

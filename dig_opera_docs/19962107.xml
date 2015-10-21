@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962107</field>
+<field name="title">Rapunzel</field>
+<field name="titlesort">Rapunzel</field>
+<field name="composer">Mary Carol Warwick</field>
+<field name="composersort">Warwick, Mary Carol</field>
+<field name="year">2014</field>
+<field name="date">January 30, 2014</field>
+<field name="librettist">Alvaro Saar Rios</field>
+<field name="librettistsort">Saar Rios, Alvaro</field>
+<field name="librettist">Jakob & Wilhelm Grimm</field>
+<field name="librettistsort">Grimm, Jakob & Wilhelm</field>
+<field name="theater">Houston Community College</field>
+<field name="city">Houston</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rapunzel+Mary+Carol+Warwick&amp;search_field=search</field>
+</doc>
+</add>

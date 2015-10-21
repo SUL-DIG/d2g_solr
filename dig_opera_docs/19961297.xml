@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961297</field>
+<field name="title">Katzelmacher</field>
+<field name="titlesort">Katzelmacher</field>
+<field name="composer">Kurt Schwertsik</field>
+<field name="composersort">Schwertsik, Kurt</field>
+<field name="year">2003</field>
+<field name="date">June 1, 2003</field>
+<field name="librettist">Kurt Schwertsik</field>
+<field name="librettistsort">Schwertsik, Kurt</field>
+<field name="librettist">Rainer Werner Fassbinder</field>
+<field name="librettistsort">Fassbinder, Rainer Werner</field>
+<field name="theater">Städtische Bühnen</field>
+<field name="city">Wuppertal</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Katzelmacher+Kurt+Schwertsik&amp;search_field=search</field>
+</doc>
+</add>

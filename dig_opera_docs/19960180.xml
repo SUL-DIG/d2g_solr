@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960180</field>
+<field name="title">Another America: Fire</field>
+<field name="titlesort">Another America: Fire</field>
+<field name="composer">Errollyn Wallen</field>
+<field name="composersort">Wallen, Errollyn</field>
+<field name="year">2004</field>
+<field name="date">September 16, 2004</field>
+<field name="librettist">Errollyn Wallen</field>
+<field name="librettistsort">Wallen, Errollyn</field>
+<field name="theater">Sadler's Wells Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Another+America:+Fire+Errollyn+Wallen&amp;search_field=search</field>
+</doc>
+</add>

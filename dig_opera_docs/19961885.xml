@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961885</field>
+<field name="title">Okinawa monogatari</field>
+<field name="titlesort">Okinawa monogatari</field>
+<field name="composer">Kikuko Kanai</field>
+<field name="composersort">Kanai, Kikuko</field>
+<field name="year">1997</field>
+<field name="date">June 1, 1997</field>
+<field name="theater">Metropolitan Festival Hall</field>
+<field name="city">Tokyo</field>
+<field name="region">Tokyo</field>
+<field name="country">Japan</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Okinawa+monogatari+Kikuko+Kanai&amp;search_field=search</field>
+</doc>
+</add>

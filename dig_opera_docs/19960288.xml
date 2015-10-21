@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960288</field>
+<field name="title">Beatrice Chancy</field>
+<field name="titlesort">Beatrice Chancy</field>
+<field name="composer">James Rolfe</field>
+<field name="composersort">Rolfe, James</field>
+<field name="year">1998</field>
+<field name="date">June 18, 1998</field>
+<field name="librettist">George Elliott Clarke</field>
+<field name="librettistsort">Clarke, George Elliott</field>
+<field name="librettist">Percy Bysshe Shelley</field>
+<field name="librettistsort">Shelley, Percy Bysshe</field>
+<field name="theater">Harbourfront Centre</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beatrice+Chancy+James+Rolfe&amp;search_field=search</field>
+</doc>
+</add>

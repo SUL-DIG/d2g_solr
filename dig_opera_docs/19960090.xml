@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960090</field>
+<field name="title">Ai-en (To Die for Love)</field>
+<field name="titlesort">Ai-en (To Die for Love)</field>
+<field name="composer">Minoru Miki</field>
+<field name="composersort">Miki, Minoru</field>
+<field name="year">2006</field>
+<field name="date">February 17, 2006</field>
+<field name="librettist">Setouchi Jakucho</field>
+<field name="librettistsort">Jakucho, Setouchi</field>
+<field name="theater">New National Theatre</field>
+<field name="city">Tokyo</field>
+<field name="region">Tokyo</field>
+<field name="country">Japan</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ai-en+(To+Die+for+Love)+Minoru+Miki&amp;search_field=search</field>
+</doc>
+</add>

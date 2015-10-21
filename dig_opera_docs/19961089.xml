@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961089</field>
+<field name="title">Hinter der Mauer</field>
+<field name="titlesort">Hinter der Mauer</field>
+<field name="composer">Samir Odeh-Tamimi</field>
+<field name="composersort">Odeh-Tamimi, Samir</field>
+<field name="year">2010</field>
+<field name="date">October 1, 2010</field>
+<field name="librettist">Christian Lehnert</field>
+<field name="librettistsort">Lehnert, Christian</field>
+<field name="theater">Radialsystem V</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hinter+der+Mauer+Samir+Odeh-Tamimi&amp;search_field=search</field>
+</doc>
+</add>

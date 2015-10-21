@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962127</field>
+<field name="title">Reigen</field>
+<field name="titlesort">Reigen</field>
+<field name="composer">Philippe Boesmans</field>
+<field name="composersort">Boesmans, Philippe</field>
+<field name="year">2009</field>
+<field name="date">January 24, 2009</field>
+<field name="librettist">Luc Bondy</field>
+<field name="librettistsort">Bondy, Luc</field>
+<field name="librettist">Arthur Schnitzler</field>
+<field name="librettistsort">Schnitzler, Arthur</field>
+<field name="theater">Opéra Bastille</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Reigen+Philippe+Boesmans&amp;search_field=search</field>
+</doc>
+</add>

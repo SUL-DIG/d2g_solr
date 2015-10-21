@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962263</field>
+<field name="title">Shakuntala</field>
+<field name="titlesort">Shakuntala</field>
+<field name="composer">Frans Winther</field>
+<field name="composersort">Winther, Frans</field>
+<field name="year">1993</field>
+<field name="date">September 12, 1993</field>
+<field name="librettist">Frans Winther</field>
+<field name="librettistsort">Winther, Frans</field>
+<field name="theater">Festuge</field>
+<field name="city">Holstebro</field>
+<field name="region">Midtjylland</field>
+<field name="country">Denmark</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Shakuntala+Frans+Winther&amp;search_field=search</field>
+</doc>
+</add>

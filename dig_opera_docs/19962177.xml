@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962177</field>
+<field name="title">Romulus Hunt</field>
+<field name="titlesort">Romulus Hunt</field>
+<field name="composer">Carly Simon</field>
+<field name="composersort">Simon, Carly</field>
+<field name="year">1993</field>
+<field name="date">February 25, 1993</field>
+<field name="librettist">Carly Simon</field>
+<field name="librettistsort">Simon, Carly</field>
+<field name="librettist">Jacob Brackman</field>
+<field name="librettistsort">Brackman, Jacob</field>
+<field name="theater">John Jay Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Romulus+Hunt+Carly+Simon&amp;search_field=search</field>
+</doc>
+</add>

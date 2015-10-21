@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961275</field>
+<field name="title">Kalastaja (The Fisherman)</field>
+<field name="titlesort">Kalastaja (The Fisherman)</field>
+<field name="composer">Eero Erkkilä</field>
+<field name="composersort">Erkkilä, Eero</field>
+<field name="year">2000</field>
+<field name="date">August 2, 2000</field>
+<field name="librettist">Eero Erkkilä</field>
+<field name="librettistsort">Erkkilä, Eero</field>
+<field name="librettist">Mika Waltari</field>
+<field name="librettistsort">Waltari, Mika</field>
+<field name="theater">Lohtajan kirkko (Lohtajan kirkkomusiikkijuhla)</field>
+<field name="city">Kokkola</field>
+<field name="region">Keski-Pohjanmaa</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kalastaja+(The+Fisherman)+Eero+Erkkilä&amp;search_field=search</field>
+</doc>
+</add>

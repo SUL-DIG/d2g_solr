@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962756</field>
+<field name="title">The Shoulder</field>
+<field name="titlesort">Shoulder</field>
+<field name="composer">Dan Moses Schreier</field>
+<field name="composersort">Schreier, Dan Moses</field>
+<field name="year">1998</field>
+<field name="date">January 1, 1998</field>
+<field name="librettist">Dan Hurlin</field>
+<field name="librettistsort">Hurlin, Dan</field>
+<field name="theater">Dance Theater Workshop</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Shoulder+Dan+Moses+Schreier&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961487</field>
+<field name="title">Le petit chaperon vert</field>
+<field name="titlesort">petit chaperon vert</field>
+<field name="composer">Ricard Lamote de Grignon</field>
+<field name="composersort">Lamote de Grignon, Ricard</field>
+<field name="year">1933</field>
+<field name="date">September 26, 1933</field>
+<field name="librettist">Marià Camí</field>
+<field name="librettistsort">Camí, Marià</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=petit+chaperon+vert+Ricard+Lamote+de+Grignon&amp;search_field=search</field>
+</doc>
+</add>

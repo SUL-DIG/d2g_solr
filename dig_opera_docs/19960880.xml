@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960880</field>
+<field name="title">Figaro</field>
+<field name="titlesort">Figaro</field>
+<field name="composer">Christian Henking</field>
+<field name="composersort">Henking, Christian</field>
+<field name="year">2014</field>
+<field name="date">February 28, 2014</field>
+<field name="librettist">Raphael Urweider</field>
+<field name="librettistsort">Urweider, Raphael</field>
+<field name="theater">Theatre Biel/Solothurn</field>
+<field name="city">Biel</field>
+<field name="region">Bern</field>
+<field name="country">Switzerland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Figaro+Christian+Henking&amp;search_field=search</field>
+</doc>
+</add>

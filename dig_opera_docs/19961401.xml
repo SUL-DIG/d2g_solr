@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961401</field>
+<field name="title">La femme de l'ogre</field>
+<field name="titlesort">femme de l'ogre</field>
+<field name="composer">Monic Cecconi-Botella</field>
+<field name="composersort">Cecconi-Botella, Monic</field>
+<field name="year">1989</field>
+<field name="librettist">Pierrette Fleutiaux</field>
+<field name="librettistsort">Fleutiaux, Pierrette</field>
+<field name="theater">Atelier de la Création Radiophonique</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=femme+de+l'ogre+Monic+Cecconi-Botella&amp;search_field=search</field>
+</doc>
+</add>

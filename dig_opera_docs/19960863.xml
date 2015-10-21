@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960863</field>
+<field name="title">Farinelli, la voce perduta</field>
+<field name="titlesort">Farinelli, la voce perduta</field>
+<field name="composer">Matteo D'Amico</field>
+<field name="composersort">D'Amico, Matteo</field>
+<field name="year">1996</field>
+<field name="date">October 25, 1996</field>
+<field name="librettist">Sandro Cappelletto</field>
+<field name="librettistsort">Cappelletto, Sandro</field>
+<field name="theater">Festival Operaincanto</field>
+<field name="city">Narni</field>
+<field name="region">Umbria</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Farinelli,+la+voce+perduta+Matteo+D'Amico&amp;search_field=search</field>
+</doc>
+</add>

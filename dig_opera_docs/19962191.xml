@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962191</field>
+<field name="title">Rumpelstiltskin</field>
+<field name="titlesort">Rumpelstiltskin</field>
+<field name="composer">Marti Epstein</field>
+<field name="composersort">Epstein, Marti</field>
+<field name="year">2009</field>
+<field name="date">May 27, 2009</field>
+<field name="librettist">Marti Epstein</field>
+<field name="librettistsort">Epstein, Marti</field>
+<field name="librettist">Jakob & Wilhelm Grimm</field>
+<field name="librettistsort">Grimm, Jakob & Wilhelm</field>
+<field name="theater">Boston Conservatory</field>
+<field name="city">Boston</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rumpelstiltskin+Marti+Epstein&amp;search_field=search</field>
+</doc>
+</add>

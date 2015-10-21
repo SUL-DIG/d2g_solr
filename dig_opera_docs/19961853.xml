@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961853</field>
+<field name="title">Nová země</field>
+<field name="titlesort">Nová země</field>
+<field name="composer">Alois Hába</field>
+<field name="composersort">Hába, Alois</field>
+<field name="year">2014</field>
+<field name="date">December 12, 2014</field>
+<field name="librettist">Ferdinand Pujman</field>
+<field name="librettistsort">Pujman, Ferdinand</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Prague</field>
+<field name="country">Czech Republic</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nová+země+Alois+Hába&amp;search_field=search</field>
+</doc>
+</add>

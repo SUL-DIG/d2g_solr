@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960356</field>
+<field name="title">Brain Opera</field>
+<field name="titlesort">Brain Opera</field>
+<field name="composer">Tod Machover</field>
+<field name="composersort">Machover, Tod</field>
+<field name="year">1996</field>
+<field name="date">July 23, 1996</field>
+<field name="librettist">Marvin Minsky</field>
+<field name="librettistsort">Minsky, Marvin</field>
+<field name="theater">Lincoln Center</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Brain+Opera+Tod+Machover&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960423</field>
+<field name="title">Chatter and Static</field>
+<field name="titlesort">Chatter and Static</field>
+<field name="composer">Paul Mathews</field>
+<field name="composersort">Mathews, Paul</field>
+<field name="year">1995</field>
+<field name="date">April 30, 1995</field>
+<field name="librettist">Paul Mathews</field>
+<field name="librettistsort">Mathews, Paul</field>
+<field name="theater">Peabody Conservatory</field>
+<field name="city">Baltimore</field>
+<field name="region">Maryland</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chatter+and+Static+Paul+Mathews&amp;search_field=search</field>
+</doc>
+</add>

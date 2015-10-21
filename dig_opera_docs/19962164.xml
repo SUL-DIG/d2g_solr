@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962164</field>
+<field name="title">Road Rage</field>
+<field name="titlesort">Road Rage</field>
+<field name="composer">Orlando Gough</field>
+<field name="composersort">Gough, Orlando</field>
+<field name="year">2013</field>
+<field name="date">July 19, 2013</field>
+<field name="librettist">Richard Stilgoe</field>
+<field name="librettistsort">Stilgoe, Richard</field>
+<field name="theater">Garsington Opera</field>
+<field name="city">Wormsley Estate</field>
+<field name="region">Buckinghamshire</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Road+Rage+Orlando+Gough&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960622</field>
+<field name="title">Die Gänsemagd</field>
+<field name="titlesort">Gänsemagd</field>
+<field name="composer">Iris ter Schiphorst</field>
+<field name="composersort">Schiphorst, Iris  ter</field>
+<field name="year">2010</field>
+<field name="date">February 18, 2010</field>
+<field name="librettist">Helga Utz</field>
+<field name="librettistsort">Utz, Helga</field>
+<field name="librettist">Jakob & Wilhelm Grimm</field>
+<field name="librettistsort">Grimm, Jakob & Wilhelm</field>
+<field name="theater">Dschungel, Theaterhaus für junges Publikum</field>
+<field name="city">Vienna</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gänsemagd+Iris+ter+Schiphorst&amp;search_field=search</field>
+</doc>
+</add>

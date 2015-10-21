@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960422</field>
+<field name="title">Chat perché</field>
+<field name="titlesort">Chat perché</field>
+<field name="composer">Jean-Marc Singier</field>
+<field name="composersort">Singier, Jean-Marc</field>
+<field name="year">2011</field>
+<field name="date">March 12, 2011</field>
+<field name="librettist">Caroline Gautier</field>
+<field name="librettistsort">Gautier, Caroline</field>
+<field name="librettist">Marcel Aymé</field>
+<field name="librettistsort">Aymé, Marcel</field>
+<field name="theater">Opéra Bastille Amphithéâtre</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chat+perché+Jean-Marc+Singier&amp;search_field=search</field>
+</doc>
+</add>

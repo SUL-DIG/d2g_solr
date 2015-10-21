@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960028</field>
+<field name="title">A Creature of Habit</field>
+<field name="titlesort">Creature of Habit</field>
+<field name="composer">Dean Burry</field>
+<field name="composersort">Burry, Dean</field>
+<field name="year">2009</field>
+<field name="date">July 16, 2009</field>
+<field name="librettist">Dean Burry</field>
+<field name="librettistsort">Burry, Dean</field>
+<field name="theater">Rising Tide Theatre</field>
+<field name="city">Trinity</field>
+<field name="region">Newfoundland</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Creature+of+Habit+Dean+Burry&amp;search_field=search</field>
+</doc>
+</add>

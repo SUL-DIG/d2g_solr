@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961011</field>
+<field name="title">Goya</field>
+<field name="titlesort">Goya</field>
+<field name="composer">Jean Prodromidès</field>
+<field name="composersort">Prodromidès, Jean</field>
+<field name="year">1996</field>
+<field name="date">May 31, 1996</field>
+<field name="librettist">Jean Prodromidès</field>
+<field name="librettistsort">Prodromidès, Jean</field>
+<field name="librettist">Jean Cosmos</field>
+<field name="librettistsort">Cosmos, Jean</field>
+<field name="theater">Opéra</field>
+<field name="city">Montpellier</field>
+<field name="region">Hérault</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Goya+Jean+Prodromidès&amp;search_field=search</field>
+</doc>
+</add>

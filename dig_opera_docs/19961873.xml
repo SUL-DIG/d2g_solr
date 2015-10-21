@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961873</field>
+<field name="title">Odola</field>
+<field name="titlesort">Odola</field>
+<field name="composer">Jordi Rossinyol</field>
+<field name="composersort">Rossinyol, Jordi</field>
+<field name="year">2007</field>
+<field name="date">November 22, 2007</field>
+<field name="librettist">Albert Mestres</field>
+<field name="librettistsort">Mestres, Albert</field>
+<field name="theater">Sala Beckett</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Odola+Jordi+Rossinyol&amp;search_field=search</field>
+</doc>
+</add>

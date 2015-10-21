@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961535</field>
+<field name="title">Les pigeons d'argile</field>
+<field name="titlesort">pigeons d'argile</field>
+<field name="composer">Philippe Hurel</field>
+<field name="composersort">Hurel, Philippe</field>
+<field name="year">2014</field>
+<field name="date">April 15, 2014</field>
+<field name="librettist">Tanguy Viel</field>
+<field name="librettistsort">Viel, Tanguy</field>
+<field name="theater">Théâtre du Capitole</field>
+<field name="city">Toulouse</field>
+<field name="region">Haute-Garonne</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=pigeons+d'argile+Philippe+Hurel&amp;search_field=search</field>
+</doc>
+</add>

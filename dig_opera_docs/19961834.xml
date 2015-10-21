@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961834</field>
+<field name="title">Noach</field>
+<field name="titlesort">Noach</field>
+<field name="composer">Guus Janssen</field>
+<field name="composersort">Janssen, Guus</field>
+<field name="year">1994</field>
+<field name="date">June 17, 1994</field>
+<field name="librettist">Friso Haverkamp</field>
+<field name="librettistsort">Haverkamp, Friso</field>
+<field name="theater">Stadsschouwburg</field>
+<field name="city">Amsterdam</field>
+<field name="region">Noord Holland</field>
+<field name="country">Netherlands</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Noach+Guus+Janssen&amp;search_field=search</field>
+</doc>
+</add>

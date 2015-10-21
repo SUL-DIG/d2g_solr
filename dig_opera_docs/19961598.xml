@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961598</field>
+<field name="title">Love Songs</field>
+<field name="titlesort">Love Songs</field>
+<field name="composer">Ana Sokolović</field>
+<field name="composersort">Sokolović, Ana</field>
+<field name="year">2008</field>
+<field name="date">March 25, 2008</field>
+<field name="theater">Richard Bradshaw Amphitheatre</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Love+Songs+Ana+Sokolović&amp;search_field=search</field>
+</doc>
+</add>

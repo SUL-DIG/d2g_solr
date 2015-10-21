@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962256</field>
+<field name="title">Seven Angels</field>
+<field name="titlesort">Seven Angels</field>
+<field name="composer">Luke Bedford</field>
+<field name="composersort">Bedford, Luke</field>
+<field name="year">2011</field>
+<field name="date">June 17, 2011</field>
+<field name="librettist">Glyn Maxwell</field>
+<field name="librettistsort">Maxwell, Glyn</field>
+<field name="theater">CBSO Centre</field>
+<field name="city">Birmingham</field>
+<field name="region">West Midlands</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Seven+Angels+Luke+Bedford&amp;search_field=search</field>
+</doc>
+</add>

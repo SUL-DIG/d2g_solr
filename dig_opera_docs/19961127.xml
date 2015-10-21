@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961127</field>
+<field name="title">I álögum (Spellbound)</field>
+<field name="titlesort">I álögum (Spellbound)</field>
+<field name="composer">Sigurdur Thordarson</field>
+<field name="composersort">Thordarson, Sigurdur</field>
+<field name="year">1942</field>
+<field name="librettist">Dagfinn Sveinbjornsson</field>
+<field name="librettistsort">Sveinbjornsson, Dagfinn</field>
+<field name="city">Reykjavik</field>
+<field name="country">Iceland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+álögum+(Spellbound)+Sigurdur+Thordarson&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961904</field>
+<field name="title">Opéra thérapeutique</field>
+<field name="titlesort">Opéra thérapeutique</field>
+<field name="composer">Isabelle Aboulker</field>
+<field name="composersort">Aboulker, Isabelle</field>
+<field name="year">1979</field>
+<field name="date">October 26, 1979</field>
+<field name="librettist">Félix Vicq d'Azyr</field>
+<field name="librettistsort">Vicq d'Azyr, Félix</field>
+<field name="city">Roissy-en-France</field>
+<field name="region">Val d'Oise</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Opéra+thérapeutique+Isabelle+Aboulker&amp;search_field=search</field>
+</doc>
+</add>

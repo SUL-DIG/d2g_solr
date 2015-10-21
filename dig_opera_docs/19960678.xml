@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960678</field>
+<field name="title">Doctor Ox's Experiment</field>
+<field name="titlesort">Doctor Ox's Experiment</field>
+<field name="composer">Gavin Bryars</field>
+<field name="composersort">Bryars, Gavin</field>
+<field name="year">1998</field>
+<field name="date">June 15, 1998</field>
+<field name="librettist">Blake Morrison</field>
+<field name="librettistsort">Morrison, Blake</field>
+<field name="librettist">Jules Verne</field>
+<field name="librettistsort">Verne, Jules</field>
+<field name="theater">Coliseum</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Doctor+Ox's+Experiment+Gavin+Bryars&amp;search_field=search</field>
+</doc>
+</add>

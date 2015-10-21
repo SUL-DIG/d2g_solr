@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960946</field>
+<field name="title">Galathee, die Schöne</field>
+<field name="titlesort">Galathee, die Schöne</field>
+<field name="composer">Karl Heinz Wahren</field>
+<field name="composersort">Wahren, Karl Heinz</field>
+<field name="year">1995</field>
+<field name="date">June 17, 1995</field>
+<field name="librettist">Thomas Höft</field>
+<field name="librettistsort">Höft, Thomas</field>
+<field name="librettist">Franz von Suppé</field>
+<field name="librettistsort">Suppé, Franz von</field>
+<field name="theater">Deutsche Oper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Galathee,+die+Schöne+Karl+Heinz+Wahren&amp;search_field=search</field>
+</doc>
+</add>

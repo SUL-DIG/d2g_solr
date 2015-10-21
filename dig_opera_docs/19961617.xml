@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961617</field>
+<field name="title">Machine</field>
+<field name="titlesort">Machine</field>
+<field name="composer">Clark Suprynowicz</field>
+<field name="composersort">Suprynowicz, Clark </field>
+<field name="year">2012</field>
+<field name="date">January 11, 2012</field>
+<field name="librettist">Mark Streshinsky</field>
+<field name="librettistsort">Streshinsky, Mark</field>
+<field name="librettist">Derek J. Goodman</field>
+<field name="librettistsort">Goodman, Derek J.</field>
+<field name="theater">The Crucible</field>
+<field name="city">Oakland</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Machine+Clark Suprynowicz&amp;search_field=search</field>
+</doc>
+</add>

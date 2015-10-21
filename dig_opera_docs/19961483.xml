@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961483</field>
+<field name="title">Le jour des meurtres dans l'histoire d'Hamlet</field>
+<field name="titlesort">jour des meurtres dans l'histoire d'Hamlet</field>
+<field name="composer">Pierre Thilloy</field>
+<field name="composersort">Thilloy, Pierre</field>
+<field name="year">2011</field>
+<field name="date">March 23, 2011</field>
+<field name="librettist">Bernard-Marie Koltès</field>
+<field name="librettistsort">Koltès, Bernard-Marie</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistsort">Shakespeare, William</field>
+<field name="theater">Opéra</field>
+<field name="city">Metz</field>
+<field name="region">Moselle</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=jour+des+meurtres+dans+l'histoire+d'Hamlet+Pierre+Thilloy&amp;search_field=search</field>
+</doc>
+</add>

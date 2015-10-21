@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961482</field>
+<field name="title">Le jeu de Sainte–Agnès</field>
+<field name="titlesort">jeu de Sainte–Agnès</field>
+<field name="composer">Marius Constant</field>
+<field name="composersort">Constant, Marius</field>
+<field name="year">1974</field>
+<field name="date">September 6, 1974</field>
+<field name="theater">Festival international</field>
+<field name="city">Besançon</field>
+<field name="region">Franche-Comté</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=jeu+de+Sainte–Agnès+Marius+Constant&amp;search_field=search</field>
+</doc>
+</add>

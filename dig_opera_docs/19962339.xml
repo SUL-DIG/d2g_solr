@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962339</field>
+<field name="title">Soul Gone Home</field>
+<field name="titlesort">Soul Gone Home</field>
+<field name="composer">William Banfield</field>
+<field name="composersort">Banfield, William</field>
+<field name="year">2001</field>
+<field name="date">May 4, 2001</field>
+<field name="librettist">William Banfield</field>
+<field name="librettistsort">Banfield, William</field>
+<field name="librettist">Langston Hughes</field>
+<field name="librettistsort">Hughes, Langston</field>
+<field name="theater">Hayti Heritage Center, St. Josephs Performance Hall</field>
+<field name="city">Durham</field>
+<field name="region">North Carolina</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Soul+Gone+Home+William+Banfield&amp;search_field=search</field>
+</doc>
+</add>

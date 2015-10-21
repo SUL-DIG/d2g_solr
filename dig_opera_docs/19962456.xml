@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962456</field>
+<field name="title">The Bell</field>
+<field name="titlesort">Bell</field>
+<field name="composer">John Purser</field>
+<field name="composersort">Purser, John</field>
+<field name="year">1972</field>
+<field name="date">December 27, 1972</field>
+<field name="librettist">Sean Purser</field>
+<field name="librettistsort">Purser, Sean</field>
+<field name="theater">BBC Radio (British Broadcasting Corporation)</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bell+John+Purser&amp;search_field=search</field>
+</doc>
+</add>

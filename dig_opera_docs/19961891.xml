@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961891</field>
+<field name="title">Oluja</field>
+<field name="titlesort">Oluja</field>
+<field name="composer">Stjepan Šulek</field>
+<field name="composersort">Šulek, Stjepan</field>
+<field name="year">1969</field>
+<field name="date">November 28, 1969</field>
+<field name="librettist">Stjepan Šulek</field>
+<field name="librettistsort">Šulek, Stjepan</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistsort">Shakespeare, William</field>
+<field name="theater">Hrvatsko Narodno Kazaliste</field>
+<field name="city">Zagreb</field>
+<field name="country">Croatia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oluja+Stjepan+Šulek&amp;search_field=search</field>
+</doc>
+</add>

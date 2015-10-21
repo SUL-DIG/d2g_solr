@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962178</field>
+<field name="title">Ronja Räubertochter</field>
+<field name="titlesort">Ronja Räubertochter</field>
+<field name="composer">Jörn Arnecke</field>
+<field name="composersort">Arnecke, Jörn</field>
+<field name="year">2015</field>
+<field name="date">February 26, 2015</field>
+<field name="librettist">Holger Potocki</field>
+<field name="librettistsort">Potocki, Holger</field>
+<field name="theater">Deutsche Oper am Rhein</field>
+<field name="city">Duisburg</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ronja+Räubertochter+Jörn+Arnecke&amp;search_field=search</field>
+</doc>
+</add>

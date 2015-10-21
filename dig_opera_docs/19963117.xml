@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963117</field>
+<field name="title">Zwerg Nase</field>
+<field name="titlesort">Zwerg Nase</field>
+<field name="composer">Samuel Hogarth</field>
+<field name="composersort">Hogarth, Samuel</field>
+<field name="year">2014</field>
+<field name="date">February 2, 2014</field>
+<field name="librettist">Wilhelm Hauff</field>
+<field name="librettistsort">Hauff, Wilhelm</field>
+<field name="theater">Hamburgisches Staatsoper</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zwerg+Nase+Samuel+Hogarth&amp;search_field=search</field>
+</doc>
+</add>

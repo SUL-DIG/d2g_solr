@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963101</field>
+<field name="title">Zen Story</field>
+<field name="titlesort">Zen Story</field>
+<field name="composer">Miriama Young</field>
+<field name="composersort">Young, Miriama</field>
+<field name="year">2010</field>
+<field name="date">May 15, 2010</field>
+<field name="librettist">Alan Spence</field>
+<field name="librettistsort">Spence, Alan</field>
+<field name="theater">University of Aberdeen, Elphinstone Hall</field>
+<field name="city">Aberdeen</field>
+<field name="region">Scotland</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zen+Story+Miriama+Young&amp;search_field=search</field>
+</doc>
+</add>

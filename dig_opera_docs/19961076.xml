@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961076</field>
+<field name="title">Hester Prynne at Death</field>
+<field name="titlesort">Hester Prynne at Death</field>
+<field name="composer">Stephen Paulus</field>
+<field name="composersort">Paulus, Stephen</field>
+<field name="year">2004</field>
+<field name="date">March 8, 2004</field>
+<field name="librettist">Terry Quinn</field>
+<field name="librettistsort">Quinn, Terry</field>
+<field name="theater">Kaufmann Auditorium, 92nd Street Y</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hester+Prynne+at+Death+Stephen+Paulus&amp;search_field=search</field>
+</doc>
+</add>

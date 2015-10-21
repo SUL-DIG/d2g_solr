@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961799</field>
+<field name="title">Naomi's Road</field>
+<field name="titlesort">Naomi's Road</field>
+<field name="composer">Ramona Luengen</field>
+<field name="composersort">Luengen, Ramona</field>
+<field name="year">2005</field>
+<field name="date">September 30, 2005</field>
+<field name="librettist">Ann Hodges</field>
+<field name="librettistsort">Hodges, Ann</field>
+<field name="librettist">Joy Kogawa</field>
+<field name="librettistsort">Kogawa, Joy</field>
+<field name="theater">Norman Rothstein Theatre</field>
+<field name="city">Vancouver</field>
+<field name="region">British Columbia</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Naomi's+Road+Ramona+Luengen&amp;search_field=search</field>
+</doc>
+</add>

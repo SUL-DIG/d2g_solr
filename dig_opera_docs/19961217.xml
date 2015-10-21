@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961217</field>
+<field name="title">Jack & Jill</field>
+<field name="titlesort">Jack & Jill</field>
+<field name="composer">Jo Davies</field>
+<field name="composersort">Davies, Jo</field>
+<field name="year">2002</field>
+<field name="date">February 18, 2002</field>
+<field name="librettist">Rachel Leach</field>
+<field name="librettistsort">Leach, Rachel</field>
+<field name="theater">Bridewell Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jack+&+Jill+Jo+Davies&amp;search_field=search</field>
+</doc>
+</add>

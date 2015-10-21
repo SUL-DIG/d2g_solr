@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960529</field>
+<field name="title">Dead Beat Escapement</field>
+<field name="titlesort">Dead Beat Escapement</field>
+<field name="composer">Cecilie Ore</field>
+<field name="composersort">Ore, Cecilie</field>
+<field name="year">2008</field>
+<field name="date">October 17, 2008</field>
+<field name="librettist">Bibbi Moslet</field>
+<field name="librettistsort">Moslet, Bibbi</field>
+<field name="librettist">Cecilie Ore</field>
+<field name="librettistsort">Ore, Cecilie</field>
+<field name="theater">Den Norske Opera</field>
+<field name="city">Oslo</field>
+<field name="country">Norway</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dead+Beat+Escapement+Cecilie+Ore&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961860</field>
+<field name="title">O arame</field>
+<field name="titlesort">arame</field>
+<field name="composer">Juan Durán</field>
+<field name="composersort">Durán, Juan</field>
+<field name="year">2008</field>
+<field name="date">September 13, 2008</field>
+<field name="librettist">Manuel Lourenzo</field>
+<field name="librettistsort">Lourenzo, Manuel</field>
+<field name="theater">Palacio de la Opera</field>
+<field name="city">A Coruña</field>
+<field name="region">Galicia</field>
+<field name="country">Spain</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=arame+Juan+Durán&amp;search_field=search</field>
+</doc>
+</add>

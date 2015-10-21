@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962597</field>
+<field name="title">The Inventor</field>
+<field name="titlesort">Inventor</field>
+<field name="composer">Bramwell Tovey</field>
+<field name="composersort">Tovey, Bramwell</field>
+<field name="year">2011</field>
+<field name="date">January 29, 2011</field>
+<field name="librettist">John Murrell</field>
+<field name="librettistsort">Murrell, John</field>
+<field name="theater">Southern Alberta Jubilee Auditorium</field>
+<field name="city">Calgary</field>
+<field name="region">Alberta</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Inventor+Bramwell+Tovey&amp;search_field=search</field>
+</doc>
+</add>

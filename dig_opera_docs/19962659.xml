@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962659</field>
+<field name="title">The Mummer's Masque</field>
+<field name="titlesort">Mummer's Masque</field>
+<field name="composer">Dean Burry</field>
+<field name="composersort">Burry, Dean</field>
+<field name="year">2009</field>
+<field name="date">December 3, 2009</field>
+<field name="librettist">Dean Burry</field>
+<field name="librettistsort">Burry, Dean</field>
+<field name="theater">Masque Theatre</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mummer's+Masque+Dean+Burry&amp;search_field=search</field>
+</doc>
+</add>

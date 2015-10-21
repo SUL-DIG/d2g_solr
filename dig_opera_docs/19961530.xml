@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961530</field>
+<field name="title">Les Moose: Operatic Adventures of Rocky and Bullwinkle</field>
+<field name="titlesort">Moose: Operatic Adventures of Rocky and Bullwinkle</field>
+<field name="composer">Alan Chapman</field>
+<field name="composersort">Chapman, Alan</field>
+<field name="year">1997</field>
+<field name="librettist">Alan Chapman</field>
+<field name="librettistsort">Chapman, Alan</field>
+<field name="theater">Los Angeles Opera Elementary School Tour</field>
+<field name="city">Los Angeles</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Moose:+Operatic+Adventures+of+Rocky+and+Bullwinkle+Alan+Chapman&amp;search_field=search</field>
+</doc>
+</add>

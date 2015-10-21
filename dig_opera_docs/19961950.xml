@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961950</field>
+<field name="title">Pandora's Locker</field>
+<field name="titlesort">Pandora's Locker</field>
+<field name="composer">Dean Burry</field>
+<field name="composersort">Burry, Dean</field>
+<field name="year">2008</field>
+<field name="date">December 5, 2008</field>
+<field name="librettist">Dean Burry</field>
+<field name="librettistsort">Burry, Dean</field>
+<field name="theater">Glenn Gould School</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pandora's+Locker+Dean+Burry&amp;search_field=search</field>
+</doc>
+</add>

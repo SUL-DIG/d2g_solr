@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962144</field>
+<field name="title">Reverend Everyman</field>
+<field name="titlesort">Reverend Everyman</field>
+<field name="composer">Salvador Brotons</field>
+<field name="composersort">Brotons, Salvador</field>
+<field name="year">1990</field>
+<field name="librettist">Gary Corsari</field>
+<field name="librettistsort">Corsari, Gary</field>
+<field name="librettist">Hugo von Hofmannsthal</field>
+<field name="librettistsort">Hofmannsthal, Hugo von</field>
+<field name="theater">WFSU Television, Florida State University</field>
+<field name="city">Tallahassee</field>
+<field name="region">Florida</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Reverend+Everyman+Salvador+Brotons&amp;search_field=search</field>
+</doc>
+</add>

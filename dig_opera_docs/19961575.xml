@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961575</field>
+<field name="title">Lo stesso mare</field>
+<field name="titlesort">stesso mare</field>
+<field name="composer">Fabio Vacchi</field>
+<field name="composersort">Vacchi, Fabio</field>
+<field name="year">2011</field>
+<field name="date">April 28, 2011</field>
+<field name="librettist">Amos Oz</field>
+<field name="librettistsort">Oz, Amos</field>
+<field name="theater">Politeama Petruzzelli</field>
+<field name="city">Bari</field>
+<field name="region">Puglia</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=stesso+mare+Fabio+Vacchi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961427</field>
+<field name="title">La mulata de Córdoba</field>
+<field name="titlesort">mulata de Córdoba</field>
+<field name="composer">José Pablo Moncayo</field>
+<field name="composersort">Moncayo, José Pablo</field>
+<field name="year">1948</field>
+<field name="date">October 23, 1948</field>
+<field name="librettist">Xavier Villaurrutia</field>
+<field name="librettistsort">Villaurrutia, Xavier</field>
+<field name="librettist">Agustín Lazo</field>
+<field name="librettistsort">Lazo, Agustín</field>
+<field name="theater">Palácio de Bellas Artes</field>
+<field name="city">Mexico City</field>
+<field name="country">Mexico</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=mulata+de+Córdoba+José+Pablo+Moncayo&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960279</field>
+<field name="title">Barnum's Bird</field>
+<field name="titlesort">Barnum's Bird</field>
+<field name="composer">Libby Larsen</field>
+<field name="composersort">Larsen, Libby</field>
+<field name="year">2002</field>
+<field name="date">February 1, 2002</field>
+<field name="librettist">Bridget Carpenter</field>
+<field name="librettistsort">Carpenter, Bridget</field>
+<field name="librettist">Libby Larsen</field>
+<field name="librettistsort">Larsen, Libby</field>
+<field name="theater">Coolidge Auditorium, Library of Congress</field>
+<field name="city">Washington</field>
+<field name="region">District of Columbia</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Barnum's+Bird+Libby+Larsen&amp;search_field=search</field>
+</doc>
+</add>

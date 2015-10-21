@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962364</field>
+<field name="title">Steve V (King Different)</field>
+<field name="titlesort">Steve V (King Different)</field>
+<field name="composer">Roland Auzet</field>
+<field name="composersort">Auzet, Roland</field>
+<field name="year">2014</field>
+<field name="date">March 14, 2014</field>
+<field name="librettist">Fabrice Melquiot</field>
+<field name="librettistsort">Melquiot, Fabrice</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistsort">Shakespeare, William</field>
+<field name="theater">Théâtre de la Renaissance</field>
+<field name="city">Lyon</field>
+<field name="region">Rhône du Lyonnais</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Steve+V+(King+Different)+Roland+Auzet&amp;search_field=search</field>
+</doc>
+</add>

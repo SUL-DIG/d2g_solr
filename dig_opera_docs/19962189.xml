@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962189</field>
+<field name="title">Rumpelstiltskin</field>
+<field name="titlesort">Rumpelstiltskin</field>
+<field name="composer">Derek Bourgeois</field>
+<field name="composersort">Bourgeois, Derek</field>
+<field name="year">1976</field>
+<field name="date">March 23, 1976</field>
+<field name="librettist">David Selwyn</field>
+<field name="librettistsort">Selwyn, David</field>
+<field name="theater">Bristol Cathedral</field>
+<field name="city">Bristol</field>
+<field name="region">Bristol</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rumpelstiltskin+Derek+Bourgeois&amp;search_field=search</field>
+</doc>
+</add>

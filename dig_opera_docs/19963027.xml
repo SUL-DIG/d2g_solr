@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963027</field>
+<field name="title">Vuur</field>
+<field name="titlesort">Vuur</field>
+<field name="composer">Michel van der Aa</field>
+<field name="composersort">van der Aa, Michel</field>
+<field name="year">2001</field>
+<field name="date">June 2, 2001</field>
+<field name="theater">Huis aan de Amstel Theater</field>
+<field name="city">Amsterdam</field>
+<field name="region">Noord Holland</field>
+<field name="country">Netherlands</field>
+<field name="genre">Oratorio</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vuur+Michel+van+der+Aa&amp;search_field=search</field>
+</doc>
+</add>

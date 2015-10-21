@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960058</field>
+<field name="title">A tempestade</field>
+<field name="titlesort">tempestade</field>
+<field name="composer">Ronaldo Miranda</field>
+<field name="composersort">Miranda, Ronaldo</field>
+<field name="year">2006</field>
+<field name="date">September 22, 2006</field>
+<field name="librettist">Ronaldo Miranda</field>
+<field name="librettistsort">Miranda, Ronaldo</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistsort">Shakespeare, William</field>
+<field name="theater">Theatro São Pedro</field>
+<field name="city">São Paulo</field>
+<field name="region">São Paulo</field>
+<field name="country">Brazil</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=tempestade+Ronaldo+Miranda&amp;search_field=search</field>
+</doc>
+</add>

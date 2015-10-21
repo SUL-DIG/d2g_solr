@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961698</field>
+<field name="title">Mayerling</field>
+<field name="titlesort">Mayerling</field>
+<field name="composer">Jerrold Morgulas</field>
+<field name="composersort">Morgulas, Jerrold</field>
+<field name="year">2011</field>
+<field name="date">May 27, 2011</field>
+<field name="librettist">Jerrold Morgulas</field>
+<field name="librettistsort">Morgulas, Jerrold</field>
+<field name="theater">House of the Scientists</field>
+<field name="city">Moscow</field>
+<field name="country">Russia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mayerling+Jerrold+Morgulas&amp;search_field=search</field>
+</doc>
+</add>

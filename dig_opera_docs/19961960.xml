@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961960</field>
+<field name="title">Parthenogenesis</field>
+<field name="titlesort">Parthenogenesis</field>
+<field name="composer">James MacMillan</field>
+<field name="composersort">MacMillan, James</field>
+<field name="year">2000</field>
+<field name="date">September 12, 2000</field>
+<field name="librettist">Michael Symmons Roberts</field>
+<field name="librettistsort">Roberts, Michael Symmons</field>
+<field name="theater">Corn Exchange</field>
+<field name="city">Cambridge</field>
+<field name="region">Cambridgeshire</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Parthenogenesis+James+MacMillan&amp;search_field=search</field>
+</doc>
+</add>

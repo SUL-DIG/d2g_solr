@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961198</field>
+<field name="title">Invisible Cities</field>
+<field name="titlesort">Invisible Cities</field>
+<field name="composer">Christopher Cerrone</field>
+<field name="composersort">Cerrone, Christopher  </field>
+<field name="year">2013</field>
+<field name="date">October 19, 2013</field>
+<field name="librettist">Christopher Cerrone</field>
+<field name="librettistsort">Cerrone, Christopher  </field>
+<field name="librettist">Italo Calvino</field>
+<field name="librettistsort">Calvino, Italo</field>
+<field name="theater">Union Station</field>
+<field name="city">Los Angeles</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Invisible+Cities+Christopher+Cerrone&amp;search_field=search</field>
+</doc>
+</add>

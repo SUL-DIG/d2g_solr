@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960516</field>
+<field name="title">Dauka</field>
+<field name="titlesort">Dauka</field>
+<field name="composer">Andris Dzenītis</field>
+<field name="composersort">Dzenītis, Andris</field>
+<field name="year">2012</field>
+<field name="date">September 9, 2012</field>
+<field name="librettist">Kārlis Vērdiņš</field>
+<field name="librettistsort">Vērdiņš, Kārlis</field>
+<field name="theater">Latviyskiy Teatr Operï i Baleta</field>
+<field name="city">Riga</field>
+<field name="country">Latvia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dauka+Andris+Dzenītis&amp;search_field=search</field>
+</doc>
+</add>

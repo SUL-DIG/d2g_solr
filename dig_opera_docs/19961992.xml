@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961992</field>
+<field name="title">Peter Schlemihl</field>
+<field name="titlesort">Peter Schlemihl</field>
+<field name="composer">Luca Mosca</field>
+<field name="composersort">Mosca, Luca</field>
+<field name="year">1998</field>
+<field name="date">January 1, 1998</field>
+<field name="librettist">Pilar Garcia</field>
+<field name="librettistsort">Garcia, Pilar</field>
+<field name="librettist">Adelbert von Chamisso</field>
+<field name="librettistsort">Chamisso, Adelbert von</field>
+<field name="theater">Teatro Sociale</field>
+<field name="city">Rovigo</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Peter+Schlemihl+Luca+Mosca&amp;search_field=search</field>
+</doc>
+</add>

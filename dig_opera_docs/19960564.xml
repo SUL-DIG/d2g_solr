@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960564</field>
+<field name="title">Der Frauenminister</field>
+<field name="titlesort">Frauenminister</field>
+<field name="composer">Michael Mautner</field>
+<field name="composersort">Mautner, Michael</field>
+<field name="year">2004</field>
+<field name="date">June 19, 2004</field>
+<field name="librettist">Armin Baumgartner</field>
+<field name="librettistsort">Baumgartner, Armin</field>
+<field name="librettist">[Stefan Griebl] Franzobel</field>
+<field name="librettistsort">Franzobel, [Stefan Griebl]</field>
+<field name="theater">Konservatorium Wien Privatuniversität</field>
+<field name="city">Vienna</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frauenminister+Michael+Mautner&amp;search_field=search</field>
+</doc>
+</add>

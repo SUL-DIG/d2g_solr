@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962009</field>
+<field name="title">Pietro's Petard</field>
+<field name="titlesort">Pietro's Petard</field>
+<field name="composer">Hall Overton</field>
+<field name="composersort">Overton, Hall</field>
+<field name="year">1963</field>
+<field name="date">June 23, 1963</field>
+<field name="librettist">Robert de Maria</field>
+<field name="librettistsort">Maria, Robert de</field>
+<field name="theater">After Dinner Opera Company</field>
+<field name="city">Lake Placid</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pietro's+Petard+Hall+Overton&amp;search_field=search</field>
+</doc>
+</add>

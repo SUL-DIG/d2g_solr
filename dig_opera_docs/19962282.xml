@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962282</field>
+<field name="title">Signor Goldoni</field>
+<field name="titlesort">Signor Goldoni</field>
+<field name="composer">Luca Mosca</field>
+<field name="composersort">Mosca, Luca</field>
+<field name="year">2007</field>
+<field name="date">September 21, 2007</field>
+<field name="librettist">Gianluigi Melega</field>
+<field name="librettistsort">Melega, Gianluigi</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Signor+Goldoni+Luca+Mosca&amp;search_field=search</field>
+</doc>
+</add>

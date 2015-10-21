@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961861</field>
+<field name="title">O casamento do diabo</field>
+<field name="titlesort">casamento do diabo</field>
+<field name="composer">Rafael Fraga</field>
+<field name="composersort">Fraga, Rafael</field>
+<field name="year">2007</field>
+<field name="date">March 25, 2007</field>
+<field name="librettist">Nuno Júdice</field>
+<field name="librettistsort">Júdice, Nuno</field>
+<field name="theater">São Luiz Teatro Municipal</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=casamento+do+diabo+Rafael+Fraga&amp;search_field=search</field>
+</doc>
+</add>

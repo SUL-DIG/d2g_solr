@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960869</field>
+<field name="title">Faust a Manhattan</field>
+<field name="titlesort">Faust a Manhattan</field>
+<field name="composer">Mario Nascimbene</field>
+<field name="composersort">Nascimbene, Mario</field>
+<field name="year">1965</field>
+<field name="date">January 12, 1965</field>
+<field name="librettist">Luigi Candoni</field>
+<field name="librettistsort">Candoni, Luigi</field>
+<field name="theater">RAI Television (Radiotelevisione Italiana)</field>
+<field name="city">Roma</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Faust+a+Manhattan+Mario+Nascimbene&amp;search_field=search</field>
+</doc>
+</add>

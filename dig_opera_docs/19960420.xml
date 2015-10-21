@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960420</field>
+<field name="title">Charlotte Salomon</field>
+<field name="titlesort">Charlotte Salomon</field>
+<field name="composer">Marc-André Dalbavie</field>
+<field name="composersort">Dalbavie, Marc-André</field>
+<field name="year">2014</field>
+<field name="date">July 28, 2014</field>
+<field name="librettist">Barbara Honigmann</field>
+<field name="librettistsort">Honigmann, Barbara</field>
+<field name="librettist">Johannes Honigmann</field>
+<field name="librettistsort">Honigmann, Johannes</field>
+<field name="theater">Felsenreitschule</field>
+<field name="city">Salzburg</field>
+<field name="region">Salzburg</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Charlotte+Salomon+Marc-André+Dalbavie&amp;search_field=search</field>
+</doc>
+</add>

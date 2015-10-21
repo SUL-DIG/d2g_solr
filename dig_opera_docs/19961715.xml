@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961715</field>
+<field name="title">Memnon ou la sagesse humaine</field>
+<field name="titlesort">Memnon ou la sagesse humaine</field>
+<field name="composer">Vojtěch Saudek</field>
+<field name="composersort">Saudek, Vojtěch </field>
+<field name="year">2007</field>
+<field name="date">March 3, 2007</field>
+<field name="librettist">Vojtěch Saudek</field>
+<field name="librettistsort">Saudek, Vojtěch </field>
+<field name="librettist">[François-Marie Arouet] Voltaire</field>
+<field name="librettistsort">Voltaire, [François-Marie Arouet]</field>
+<field name="theater">Centre Tchèque</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Memnon+ou+la+sagesse+humaine+Vojtěch+Saudek&amp;search_field=search</field>
+</doc>
+</add>

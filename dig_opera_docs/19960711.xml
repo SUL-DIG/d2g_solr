@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960711</field>
+<field name="title">Dr. Sun Yat-sen</field>
+<field name="titlesort">Dr. Sun Yat-sen</field>
+<field name="composer">Huang Ruo</field>
+<field name="composersort">Huang Ruo</field>
+<field name="year">2014</field>
+<field name="date">July 26, 2014</field>
+<field name="librettist">Candace Mui-ngam Chong</field>
+<field name="librettistsort">Chong, Candace Mui-ngam</field>
+<field name="theater">Opera</field>
+<field name="city">Santa Fe</field>
+<field name="region">New Mexico</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dr.+Sun+Yat-sen+Huang+Ruo&amp;search_field=search</field>
+</doc>
+</add>

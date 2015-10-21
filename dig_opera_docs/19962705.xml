@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962705</field>
+<field name="title">The Princess Perfection</field>
+<field name="titlesort">Princess Perfection</field>
+<field name="composer">Josephine Sherwood</field>
+<field name="composersort">Sherwood, Josephine</field>
+<field name="year">1899</field>
+<field name="librettist">Josephine Sherwood</field>
+<field name="librettistsort">Sherwood, Josephine</field>
+<field name="theater">Radcliffe College</field>
+<field name="city">Cambridge</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Princess+Perfection+Josephine+Sherwood&amp;search_field=search</field>
+</doc>
+</add>

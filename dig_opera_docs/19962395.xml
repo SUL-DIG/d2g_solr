@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962395</field>
+<field name="title">Suor Isabella</field>
+<field name="titlesort">Suor Isabella</field>
+<field name="composer">Robert Xavier Rodriguez</field>
+<field name="composersort">Rodriguez, Robert Xavier</field>
+<field name="year">1982</field>
+<field name="date">July 7, 1982</field>
+<field name="librettist">Daniel Dibbern</field>
+<field name="librettistsort">Dibbern, Daniel</field>
+<field name="librettist">Giovanni Boccaccio</field>
+<field name="librettistsort">Boccaccio, Giovanni</field>
+<field name="theater">University of Texas</field>
+<field name="city">Dallas</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Suor+Isabella+Robert+Xavier+Rodriguez&amp;search_field=search</field>
+</doc>
+</add>

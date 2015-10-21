@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961560</field>
+<field name="title">Limbus-Limbo</field>
+<field name="titlesort">Limbus-Limbo</field>
+<field name="composer">Stefano Gervasoni</field>
+<field name="composersort">Gervasoni, Stefano</field>
+<field name="year">2012</field>
+<field name="date">September 22, 2012</field>
+<field name="librettist">Patrick Hahn</field>
+<field name="librettistsort">Hahn, Patrick</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Strasbourg</field>
+<field name="region">Bas-Rhin</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Limbus-Limbo+Stefano+Gervasoni&amp;search_field=search</field>
+</doc>
+</add>

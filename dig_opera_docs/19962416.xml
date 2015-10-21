@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962416</field>
+<field name="title">Taifun (Typhoon)</field>
+<field name="titlesort">Taifun (Typhoon)</field>
+<field name="composer">Theodor Szántó</field>
+<field name="composersort">Szántó, Theodor</field>
+<field name="year">1924</field>
+<field name="date">November 29, 1924</field>
+<field name="librettist">Menyhert Lengyel</field>
+<field name="librettistsort">Lengyel, Menyhert</field>
+<field name="theater">Nationaltheater</field>
+<field name="city">Mannheim</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Taifun+(Typhoon)+Theodor+Szántó&amp;search_field=search</field>
+</doc>
+</add>

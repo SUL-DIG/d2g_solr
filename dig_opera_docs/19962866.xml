@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962866</field>
+<field name="title">Thomas Chatterton</field>
+<field name="titlesort">Thomas Chatterton</field>
+<field name="composer">Matthias Pintscher</field>
+<field name="composersort">Pintscher, Matthias</field>
+<field name="year">1998</field>
+<field name="date">May 25, 1998</field>
+<field name="librettist">Claus H. Henneberg</field>
+<field name="librettistsort">Henneberg, Claus H.</field>
+<field name="librettist">Matthias Pintscher</field>
+<field name="librettistsort">Pintscher, Matthias</field>
+<field name="theater">Sächsische Staatsoper</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Thomas+Chatterton+Matthias+Pintscher&amp;search_field=search</field>
+</doc>
+</add>

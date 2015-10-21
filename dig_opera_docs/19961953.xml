@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961953</field>
+<field name="title">Paradise reloaded (Lilith)</field>
+<field name="titlesort">Paradise reloaded (Lilith)</field>
+<field name="composer">Peter Eötvös</field>
+<field name="composersort">Eötvös, Peter</field>
+<field name="year">2013</field>
+<field name="date">October 25, 2013</field>
+<field name="librettist">Albert Ostermaier</field>
+<field name="librettistsort">Ostermaier, Albert</field>
+<field name="librettist">Mari Mezei</field>
+<field name="librettistsort">Mezei, Mari</field>
+<field name="theater">Neue Oper Wien</field>
+<field name="city">Vienna</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paradise+reloaded+(Lilith)+Peter+Eötvös&amp;search_field=search</field>
+</doc>
+</add>

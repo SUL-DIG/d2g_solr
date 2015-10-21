@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962059</field>
+<field name="title">Promised End</field>
+<field name="titlesort">Promised End</field>
+<field name="composer">Alexander Goehr</field>
+<field name="composersort">Goehr, Alexander</field>
+<field name="year">2011</field>
+<field name="date">October 9, 2011</field>
+<field name="librettist">Frank Kermode</field>
+<field name="librettistsort">Kermode, Frank</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistsort">Shakespeare, William</field>
+<field name="theater">Linbury Studio, Royal Opera House</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Promised+End+Alexander+Goehr&amp;search_field=search</field>
+</doc>
+</add>

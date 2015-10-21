@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961739</field>
+<field name="title">Misper</field>
+<field name="titlesort">Misper</field>
+<field name="composer">John Lunn</field>
+<field name="composersort">Lunn, John</field>
+<field name="year">1997</field>
+<field name="date">February 27, 1997</field>
+<field name="librettist">Stephen Plaice</field>
+<field name="librettistsort">Plaice, Stephen</field>
+<field name="theater">Glyndebourne Festival Opera</field>
+<field name="city">Glyndebourne</field>
+<field name="region">East Sussex</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Misper+John+Lunn&amp;search_field=search</field>
+</doc>
+</add>

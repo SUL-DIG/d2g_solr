@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960337</field>
+<field name="title">Blue Opera</field>
+<field name="titlesort">Blue Opera</field>
+<field name="composer">Nancy Binns Reed</field>
+<field name="composersort">Reed, Nancy Binns</field>
+<field name="year">1997</field>
+<field name="date">October 17, 1997</field>
+<field name="librettist">Nancy Binns Reed</field>
+<field name="librettistsort">Reed, Nancy Binns</field>
+<field name="theater">Northern Virginia Community College</field>
+<field name="city">Annandale</field>
+<field name="region">Virginia</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Blue+Opera+Nancy+Binns+Reed&amp;search_field=search</field>
+</doc>
+</add>

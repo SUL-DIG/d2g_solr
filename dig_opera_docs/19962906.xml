@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962906</field>
+<field name="title">Travels</field>
+<field name="titlesort">Travels</field>
+<field name="composer">Victoria Bond</field>
+<field name="composersort">Bond, Victoria</field>
+<field name="year">1995</field>
+<field name="date">May 18, 1995</field>
+<field name="librettist">Ann Goethe</field>
+<field name="librettistsort">Goethe, Ann</field>
+<field name="librettist">Jonathan Swift</field>
+<field name="librettistsort">Swift, Jonathan</field>
+<field name="theater">Roanoke College</field>
+<field name="city">Roanoke</field>
+<field name="region">Virginia</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Travels+Victoria+Bond&amp;search_field=search</field>
+</doc>
+</add>

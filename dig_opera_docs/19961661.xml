@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961661</field>
+<field name="title">Marian rakkaus (Maria's Love)</field>
+<field name="titlesort">Marian rakkaus (Maria's Love)</field>
+<field name="composer">Olli Kortekangas</field>
+<field name="composersort">Kortekangas, Olli</field>
+<field name="year">2000</field>
+<field name="date">July 15, 2000</field>
+<field name="librettist">Paavo Rintala</field>
+<field name="librettistsort">Rintala, Paavo</field>
+<field name="theater">Savonlinnan oopperajuhlat</field>
+<field name="city">Savonlinna</field>
+<field name="region">Etelä-Savo</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marian+rakkaus+(Maria's+Love)+Olli+Kortekangas&amp;search_field=search</field>
+</doc>
+</add>

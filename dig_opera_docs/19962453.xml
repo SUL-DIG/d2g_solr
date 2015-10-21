@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962453</field>
+<field name="title">The Awakening</field>
+<field name="titlesort">Awakening</field>
+<field name="composer">James Stepleton</field>
+<field name="composersort">Stepleton, James</field>
+<field name="year">2011</field>
+<field name="date">May 15, 2011</field>
+<field name="librettist">Andrew Joffe</field>
+<field name="librettistsort">Joffe, Andrew</field>
+<field name="librettist">Kate Chopin</field>
+<field name="librettistsort">Chopin, Kate</field>
+<field name="theater">Madewood Plantation</field>
+<field name="city">Napoleonville</field>
+<field name="region">Louisiana</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Awakening+James+Stepleton&amp;search_field=search</field>
+</doc>
+</add>

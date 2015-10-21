@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963083</field>
+<field name="title">Yo, Dali</field>
+<field name="titlesort">Yo, Dali</field>
+<field name="composer">Xavier Benguerel</field>
+<field name="composersort">Benguerel, Xavier</field>
+<field name="year">2011</field>
+<field name="date">June 8, 2011</field>
+<field name="librettist">Jaime Salom</field>
+<field name="librettistsort">Salom, Jaime</field>
+<field name="theater">Teatro de la Zarzuela</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="genre">Opera</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Yo,+Dali+Xavier+Benguerel&amp;search_field=search</field>
+</doc>
+</add>

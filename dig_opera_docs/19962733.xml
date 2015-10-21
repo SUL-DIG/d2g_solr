@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962733</field>
+<field name="title">The Scarlet Letter</field>
+<field name="titlesort">Scarlet Letter</field>
+<field name="composer">Marjorie Rusche</field>
+<field name="composersort">Rusche, Marjorie</field>
+<field name="year">1993</field>
+<field name="date">March 29, 1993</field>
+<field name="librettist">Marjorie Rusche</field>
+<field name="librettistsort">Rusche, Marjorie</field>
+<field name="librettist">Nathaniel Hawthorne</field>
+<field name="librettistsort">Hawthorne, Nathaniel</field>
+<field name="theater">Indiana University</field>
+<field name="city">Bloomington</field>
+<field name="region">Indiana</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Scarlet+Letter+Marjorie+Rusche&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961521</field>
+<field name="title">Les amants byzantins</field>
+<field name="titlesort">amants byzantins</field>
+<field name="composer">Henry Woollett</field>
+<field name="composersort">Woollett, Henry</field>
+<field name="year">1926</field>
+<field name="date">March 1, 1926</field>
+<field name="librettist">Hugues Le Roux</field>
+<field name="librettistsort">Le Roux, Hugues</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Le Havre</field>
+<field name="region">Seine-Maritime</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=amants+byzantins+Henry+Woollett&amp;search_field=search</field>
+</doc>
+</add>

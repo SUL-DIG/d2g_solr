@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960582</field>
+<field name="title">Der scharlachrote Buchstabe (The Scarlet Letter)</field>
+<field name="titlesort">scharlachrote Buchstabe (The Scarlet Letter)</field>
+<field name="composer">Fredric Kroll</field>
+<field name="composersort">Kroll, Fredric</field>
+<field name="year">2014</field>
+<field name="date">April 9, 2014</field>
+<field name="librettist">Fredric Kroll</field>
+<field name="librettistsort">Kroll, Fredric</field>
+<field name="librettist">Nathaniel Hawthorne</field>
+<field name="librettistsort">Hawthorne, Nathaniel</field>
+<field name="theater">Hamburger Kammeroper</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=scharlachrote+Buchstabe+(The+Scarlet+Letter)+Fredric+Kroll&amp;search_field=search</field>
+</doc>
+</add>

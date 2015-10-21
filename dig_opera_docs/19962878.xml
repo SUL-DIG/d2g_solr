@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962878</field>
+<field name="title">Timberbrit</field>
+<field name="titlesort">Timberbrit</field>
+<field name="composer">Jacob Cooper</field>
+<field name="composersort">Cooper, Jacob  </field>
+<field name="year">2008</field>
+<field name="date">August 16, 2008</field>
+<field name="librettist">Yuka Igarashi</field>
+<field name="librettistsort">Igarashi, Yuka</field>
+<field name="theater">The Tank</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Timberbrit+Jacob+Cooper&amp;search_field=search</field>
+</doc>
+</add>

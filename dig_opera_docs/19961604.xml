@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961604</field>
+<field name="title">Luna</field>
+<field name="titlesort">Luna</field>
+<field name="composer">Luis Jaime Cortez</field>
+<field name="composersort">Cortez, Luis Jaime</field>
+<field name="year">2003</field>
+<field name="theater">Teatro Juárez</field>
+<field name="city">Guanajuato</field>
+<field name="region">Guanajuato</field>
+<field name="country">Mexico</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Luna+Luis+Jaime+Cortez&amp;search_field=search</field>
+</doc>
+</add>

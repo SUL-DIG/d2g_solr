@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960291</field>
+<field name="title">Beauty and the Beast</field>
+<field name="titlesort">Beauty and the Beast</field>
+<field name="composer">Michael Easton</field>
+<field name="composersort">Easton, Michael</field>
+<field name="year">1989</field>
+<field name="librettist">Colin Duckworth</field>
+<field name="librettistsort">Duckworth, Colin</field>
+<field name="librettist">Jeanne Marie Leprince de Beaumont</field>
+<field name="librettistsort">Leprince de Beaumont, Jeanne Marie</field>
+<field name="city">Melbourne</field>
+<field name="region">Victoria</field>
+<field name="country">Australia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beauty+and+the+Beast+Michael+Easton&amp;search_field=search</field>
+</doc>
+</add>

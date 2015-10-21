@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960169</field>
+<field name="title">Angst</field>
+<field name="titlesort">Angst</field>
+<field name="composer">Christian Jost</field>
+<field name="composersort">Jost, Christian</field>
+<field name="year">2006</field>
+<field name="date">January 28, 2006</field>
+<field name="librettist">Christian Jost</field>
+<field name="librettistsort">Jost, Christian</field>
+<field name="librettist">Friedrich Hölderin</field>
+<field name="librettistsort">Hölderin, Friedrich</field>
+<field name="theater">Sophiensaele</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Angst+Christian+Jost&amp;search_field=search</field>
+</doc>
+</add>

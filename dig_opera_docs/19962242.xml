@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962242</field>
+<field name="title">Seid still</field>
+<field name="titlesort">Seid still</field>
+<field name="composer">András Hamary</field>
+<field name="composersort">Hamary, András</field>
+<field name="year">1990</field>
+<field name="date">April 26, 1990</field>
+<field name="librettist">José Vera Morales</field>
+<field name="librettistsort">Vera Morales, José</field>
+<field name="librettist"> István Örkény</field>
+<field name="librettistsort">Örkény,  István</field>
+<field name="theater">Biennale</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Seid+still+András+Hamary&amp;search_field=search</field>
+</doc>
+</add>

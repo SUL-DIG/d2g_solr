@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961479</field>
+<field name="title">Le duplicateur</field>
+<field name="titlesort">duplicateur</field>
+<field name="composer">Thierry Machuel</field>
+<field name="composersort">Machuel, Thierry</field>
+<field name="year">2015</field>
+<field name="date">May 19, 2015</field>
+<field name="librettist">Benoît Richter</field>
+<field name="librettistsort">Richter, Benoît</field>
+<field name="theater">Opéra</field>
+<field name="city">Massy</field>
+<field name="region">Île-de-France</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=duplicateur+Thierry+Machuel&amp;search_field=search</field>
+</doc>
+</add>

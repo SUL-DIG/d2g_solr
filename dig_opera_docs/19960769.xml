@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960769</field>
+<field name="title">El ganxo</field>
+<field name="titlesort">ganxo</field>
+<field name="composer">Josep Mestres Quadreny</field>
+<field name="composersort">Mestres Quadreny, Josep</field>
+<field name="year">2006</field>
+<field name="date">April 6, 2006</field>
+<field name="librettist">Joan Brossa</field>
+<field name="librettistsort">Brossa, Joan</field>
+<field name="theater">Gran Teatre del Liceu</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=ganxo+Josep+Mestres+Quadreny&amp;search_field=search</field>
+</doc>
+</add>

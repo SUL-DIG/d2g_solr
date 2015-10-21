@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962649</field>
+<field name="title">The Merchant of Venice</field>
+<field name="titlesort">Merchant of Venice</field>
+<field name="composer">André Tchaikowsky</field>
+<field name="composersort">Tchaikowsky, André</field>
+<field name="year">2013</field>
+<field name="date">July 18, 2013</field>
+<field name="librettist">John O'Brien</field>
+<field name="librettistsort">O'Brien, John</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistsort">Shakespeare, William</field>
+<field name="theater">Festspiele</field>
+<field name="city">Bregenz</field>
+<field name="region">Vorarlberg</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Merchant+of+Venice+André+Tchaikowsky&amp;search_field=search</field>
+</doc>
+</add>

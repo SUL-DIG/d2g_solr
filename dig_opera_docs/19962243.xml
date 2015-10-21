@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962243</field>
+<field name="title">Seijo</field>
+<field name="titlesort">Seijo</field>
+<field name="composer">Stan Hoffman</field>
+<field name="composersort">Hoffman, Stan</field>
+<field name="year">2003</field>
+<field name="date">February 25, 2003</field>
+<field name="librettist">Melanie Grimes</field>
+<field name="librettistsort">Grimes, Melanie</field>
+<field name="theater">New England Conservatory</field>
+<field name="city">Boston</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Seijo+Stan+Hoffman&amp;search_field=search</field>
+</doc>
+</add>

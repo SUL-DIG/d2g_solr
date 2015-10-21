@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961132</field>
+<field name="title">I Have No Stories to Tell You</field>
+<field name="titlesort">I Have No Stories to Tell You</field>
+<field name="composer">Lembit Beecher</field>
+<field name="composersort">Beecher, Lembit</field>
+<field name="year">2014</field>
+<field name="date">February 26, 2014</field>
+<field name="librettist">Hannah Moscovitch</field>
+<field name="librettistsort">Moscovitch, Hannah</field>
+<field name="theater">Medieval Sculpture Hall, Metropolitan Museum of Art</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+Have+No+Stories+to+Tell+You+Lembit+Beecher&amp;search_field=search</field>
+</doc>
+</add>

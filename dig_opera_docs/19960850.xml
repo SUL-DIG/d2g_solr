@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960850</field>
+<field name="title">Falcone e Borsellino</field>
+<field name="titlesort">Falcone e Borsellino</field>
+<field name="composer">Antonio Fortunato</field>
+<field name="composersort">Fortunato, Antonio</field>
+<field name="year">2013</field>
+<field name="date">April 6, 2013</field>
+<field name="librettist">Gaspare Miraglia</field>
+<field name="librettistsort">Miraglia, Gaspare</field>
+<field name="theater">Teatro Comunale Verdi</field>
+<field name="city">Pisa</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Falcone+e+Borsellino+Antonio+Fortunato&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962839</field>
+<field name="title">The Whale Savers</field>
+<field name="titlesort">Whale Savers</field>
+<field name="composer">Martin Ward</field>
+<field name="composersort">Ward, Martin</field>
+<field name="year">2009</field>
+<field name="date">December 5, 2009</field>
+<field name="librettist">Phil Porter</field>
+<field name="librettistsort">Porter, Phil</field>
+<field name="theater">Riverside Studios</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Whale+Savers+Martin+Ward&amp;search_field=search</field>
+</doc>
+</add>

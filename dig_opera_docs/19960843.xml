@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960843</field>
+<field name="title">Facing Goya</field>
+<field name="titlesort">Facing Goya</field>
+<field name="composer">Michael Nyman</field>
+<field name="composersort">Nyman, Michael</field>
+<field name="year">2000</field>
+<field name="date">August 3, 2000</field>
+<field name="librettist">Victoria Hardie</field>
+<field name="librettistsort">Hardie, Victoria</field>
+<field name="theater">Auditorio de Galicia</field>
+<field name="city">Santiago de Compostela</field>
+<field name="region">Galicia</field>
+<field name="country">Spain</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Facing+Goya+Michael+Nyman&amp;search_field=search</field>
+</doc>
+</add>

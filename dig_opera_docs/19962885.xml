@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962885</field>
+<field name="title">To Hell and Back</field>
+<field name="titlesort">To Hell and Back</field>
+<field name="composer">Jake Heggie</field>
+<field name="composersort">Heggie, Jake</field>
+<field name="year">2006</field>
+<field name="date">November 2, 2006</field>
+<field name="librettist">Gene Scheer</field>
+<field name="librettistsort">Scheer, Gene</field>
+<field name="theater">Mountain View Performing Arts Center</field>
+<field name="city">Mountain View</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=To+Hell+and+Back+Jake+Heggie&amp;search_field=search</field>
+</doc>
+</add>

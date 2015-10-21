@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962187</field>
+<field name="title">Ruleta</field>
+<field name="titlesort">Ruleta</field>
+<field name="composer">Enric Palomar</field>
+<field name="composersort">Palomar, Enric</field>
+<field name="year">1998</field>
+<field name="librettist">Anna Maria Moix</field>
+<field name="librettistsort">Moix, Anna Maria</field>
+<field name="librettist">Rafael Sénder</field>
+<field name="librettistsort">Sénder, Rafael</field>
+<field name="theater">Mercat de les Flors</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ruleta+Enric+Palomar&amp;search_field=search</field>
+</doc>
+</add>

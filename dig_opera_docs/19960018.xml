@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960018</field>
+<field name="title">A Call to Arms</field>
+<field name="titlesort">Call to Arms</field>
+<field name="composer">Benjamin C. S. Boyle</field>
+<field name="composersort">Boyle, Benjamin C. S.</field>
+<field name="year">1999</field>
+<field name="librettist">Roger Brunyate</field>
+<field name="librettistsort">Brunyate, Roger</field>
+<field name="theater">Peabody Conservatory</field>
+<field name="city">Baltimore</field>
+<field name="region">Maryland</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Call+to+Arms+Benjamin+C.+S.+Boyle&amp;search_field=search</field>
+</doc>
+</add>

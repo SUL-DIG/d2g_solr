@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963043</field>
+<field name="title">Weihnachtsoratorium</field>
+<field name="titlesort">Weihnachtsoratorium</field>
+<field name="composer">Esther Hilsberg</field>
+<field name="composersort">Hilsberg, Esther</field>
+<field name="year">2010</field>
+<field name="date">December 10, 2010</field>
+<field name="theater">Konzerthaus Berlin</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Weihnachtsoratorium+Esther+Hilsberg&amp;search_field=search</field>
+</doc>
+</add>

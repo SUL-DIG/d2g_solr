@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960497</field>
+<field name="title">Das geopferte Leben</field>
+<field name="titlesort">geopferte Leben</field>
+<field name="composer">Héctor Parra</field>
+<field name="composersort">Parra, Héctor</field>
+<field name="year">2014</field>
+<field name="date">May 22, 2014</field>
+<field name="librettist">Marie NDiaye</field>
+<field name="librettistsort">NDiaye, Marie</field>
+<field name="theater">Biennale</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=geopferte+Leben+Héctor+Parra&amp;search_field=search</field>
+</doc>
+</add>

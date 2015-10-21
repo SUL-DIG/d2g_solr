@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962611</field>
+<field name="title">The Lady from the Sea</field>
+<field name="titlesort">Lady from the Sea</field>
+<field name="composer">Craig Armstrong</field>
+<field name="composersort">Armstrong, Craig</field>
+<field name="year">2012</field>
+<field name="date">August 29, 2012</field>
+<field name="librettist">Zoë Strachan</field>
+<field name="librettistsort">Strachan, Zoë</field>
+<field name="librettist">Henrik Ibsen</field>
+<field name="librettistsort">Ibsen, Henrik</field>
+<field name="theater">King's Theatre</field>
+<field name="city">Edinburgh</field>
+<field name="region">Scotland</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lady+from+the+Sea+Craig+Armstrong&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960510</field>
+<field name="title">Das Schweigen</field>
+<field name="titlesort">Schweigen</field>
+<field name="composer">Gustavo Becerra-Schmidt</field>
+<field name="composersort">Becerra-Schmidt, Gustavo</field>
+<field name="year">1987</field>
+<field name="date">February 1, 1987</field>
+<field name="librettist">Gertrude Meyer</field>
+<field name="librettistsort">Meyer, Gertrude</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schweigen+Gustavo+Becerra-Schmidt&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961485</field>
+<field name="title">Le mirabolanti avventure di Pulcinella</field>
+<field name="titlesort">mirabolanti avventure di Pulcinella</field>
+<field name="composer">Luciano Di Giandomenico</field>
+<field name="composersort">Di Giandomenico, Luciano</field>
+<field name="year">2007</field>
+<field name="date">February 18, 2007</field>
+<field name="librettist">Antonio Pirozzi</field>
+<field name="librettistsort">Pirozzi, Antonio</field>
+<field name="librettist">Ugo Cabassi</field>
+<field name="librettistsort">Cabassi, Ugo</field>
+<field name="theater">Accademia Nazionale di Santa Cecilia</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=mirabolanti+avventure+di+Pulcinella+Luciano+Di+Giandomenico&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963073</field>
+<field name="title">Wunderzaichen</field>
+<field name="titlesort">Wunderzaichen</field>
+<field name="composer">Mark Andre</field>
+<field name="composersort">Andre, Mark</field>
+<field name="year">2014</field>
+<field name="date">March 2, 2014</field>
+<field name="librettist">Mark Andre</field>
+<field name="librettistsort">Andre, Mark</field>
+<field name="librettist">Patrick Hahn</field>
+<field name="librettistsort">Hahn, Patrick</field>
+<field name="theater">Staatstheater</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wunderzaichen+Mark+Andre&amp;search_field=search</field>
+</doc>
+</add>

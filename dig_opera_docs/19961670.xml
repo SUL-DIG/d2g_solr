@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961670</field>
+<field name="title">Marnotratný syn (The Prodigal Son)</field>
+<field name="titlesort">Marnotratný syn (The Prodigal Son)</field>
+<field name="composer">Miloš Sokola</field>
+<field name="composersort">Sokola, Miloš</field>
+<field name="year">1963</field>
+<field name="date">May 7, 1963</field>
+<field name="librettist">Václav Renč</field>
+<field name="librettistsort">Renč, Václav</field>
+<field name="theater">Státní divadlo Oldricha Stibora</field>
+<field name="city">Olomouc</field>
+<field name="region">Severomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marnotratný+syn+(The+Prodigal+Son)+Miloš+Sokola&amp;search_field=search</field>
+</doc>
+</add>

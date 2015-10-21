@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960563</field>
+<field name="title">Der Fluss</field>
+<field name="titlesort">Fluss</field>
+<field name="composer">Paulo César Chagas</field>
+<field name="composersort">Chagas, Paulo César</field>
+<field name="year">1994</field>
+<field name="date">October 4, 1994</field>
+<field name="librettist">Simone Rist</field>
+<field name="librettistsort">Rist, Simone</field>
+<field name="librettist">João Cabral de Melo Neto</field>
+<field name="librettistsort">Neto, João Cabral de Melo</field>
+<field name="theater">Wilhelma Theater</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fluss+Paulo+César+Chagas&amp;search_field=search</field>
+</doc>
+</add>

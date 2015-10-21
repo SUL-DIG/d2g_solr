@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961008</field>
+<field name="title">Good Angel, Bad Angel</field>
+<field name="titlesort">Good Angel, Bad Angel</field>
+<field name="composer">Lyell Cresswell</field>
+<field name="composersort">Cresswell, Lyell</field>
+<field name="year">2005</field>
+<field name="date">May 20, 2005</field>
+<field name="librettist">Ron Butlin</field>
+<field name="librettistsort">Butlin, Ron</field>
+<field name="librettist">Robert Louis Stevenson</field>
+<field name="librettistsort">Stevenson, Robert Louis</field>
+<field name="theater">Traverse Theatre</field>
+<field name="city">Edinburgh</field>
+<field name="region">Scotland</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Good+Angel,+Bad+Angel+Lyell+Cresswell&amp;search_field=search</field>
+</doc>
+</add>

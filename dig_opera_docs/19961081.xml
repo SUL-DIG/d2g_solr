@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961081</field>
+<field name="title">Hexe Hillary geht in die Oper</field>
+<field name="titlesort">Hexe Hillary geht in die Oper</field>
+<field name="composer">Peter Lund</field>
+<field name="composersort">Lund, Peter</field>
+<field name="year">1997</field>
+<field name="date">March 19, 1997</field>
+<field name="librettist">Peter Lund</field>
+<field name="librettistsort">Lund, Peter</field>
+<field name="theater">Neuköllner Oper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hexe+Hillary+geht+in+die+Oper+Peter+Lund&amp;search_field=search</field>
+</doc>
+</add>

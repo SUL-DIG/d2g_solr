@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960361</field>
+<field name="title">Brief Encounter</field>
+<field name="titlesort">Brief Encounter</field>
+<field name="composer">André Previn</field>
+<field name="composersort">Previn, André</field>
+<field name="year">2009</field>
+<field name="date">May 1, 2009</field>
+<field name="librettist">John Caird</field>
+<field name="librettistsort">Caird, John</field>
+<field name="librettist">Noël Coward</field>
+<field name="librettistsort">Coward, Noël</field>
+<field name="theater">Grand Opera</field>
+<field name="city">Houston</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Brief+Encounter+André+Previn&amp;search_field=search</field>
+</doc>
+</add>

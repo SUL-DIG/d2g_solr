@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960050</field>
+<field name="title">A Palágyi Pékek (The Bakers of Palágy)</field>
+<field name="titlesort">Palágyi Pékek (The Bakers of Palágy)</field>
+<field name="composer">Mátyás Seiber</field>
+<field name="composersort">Seiber, Mátyás</field>
+<field name="year">1942</field>
+<field name="librettist">György Mikes</field>
+<field name="librettistsort">Mikes, György</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Palágyi+Pékek+(The+Bakers+of+Palágy)+Mátyás+Seiber&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961568</field>
+<field name="title">Little Lord</field>
+<field name="titlesort">Little Lord</field>
+<field name="composer">Steven Markwick</field>
+<field name="composersort">Markwick, Steven</field>
+<field name="year">2011</field>
+<field name="date">March 12, 2011</field>
+<field name="librettist">Steven Markwick</field>
+<field name="librettistsort">Markwick, Steven</field>
+<field name="librettist">Frances Hodgeson Burnett</field>
+<field name="librettistsort">Burnett, Frances Hodgeson</field>
+<field name="theater">Opera Krakowska</field>
+<field name="city">Cracow</field>
+<field name="region">Malopolskie</field>
+<field name="country">Poland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Little+Lord+Steven+Markwick&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962850</field>
+<field name="title">The Woman Who Walked into Doors</field>
+<field name="titlesort">Woman Who Walked into Doors</field>
+<field name="composer">Kris Defoort</field>
+<field name="composersort">Defoort, Kris</field>
+<field name="year">2001</field>
+<field name="date">November 23, 2001</field>
+<field name="librettist">Guy Cassiers</field>
+<field name="librettistsort">Cassiers, Guy</field>
+<field name="librettist">Kris Defoort</field>
+<field name="librettistsort">Defoort, Kris</field>
+<field name="theater">deSingel</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Woman+Who+Walked+into+Doors+Kris+Defoort&amp;search_field=search</field>
+</doc>
+</add>

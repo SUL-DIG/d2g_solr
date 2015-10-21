@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961457</field>
+<field name="title">Landschaft mit entfernten Verwandten</field>
+<field name="titlesort">Landschaft mit entfernten Verwandten</field>
+<field name="composer">Heiner Goebbels</field>
+<field name="composersort">Goebbels, Heiner</field>
+<field name="year">2002</field>
+<field name="date">October 16, 2002</field>
+<field name="librettist">Giordano Bruno</field>
+<field name="librettistsort">Bruno, Giordano</field>
+<field name="librettist">Thomas Stearns Eliot</field>
+<field name="librettistsort">Eliot, Thomas Stearns</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Geneva</field>
+<field name="region">Genève</field>
+<field name="country">Switzerland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Landschaft+mit+entfernten+Verwandten+Heiner+Goebbels&amp;search_field=search</field>
+</doc>
+</add>

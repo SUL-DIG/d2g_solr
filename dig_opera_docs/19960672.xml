@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960672</field>
+<field name="title">Dmitri oder der Künstler und die Macht</field>
+<field name="titlesort">Dmitri oder der Künstler und die Macht</field>
+<field name="composer">Luca Lombardi</field>
+<field name="composersort">Lombardi, Luca</field>
+<field name="year">2000</field>
+<field name="date">April 30, 2000</field>
+<field name="librettist">Hans-Klaus Jungheinrich</field>
+<field name="librettistsort">Jungheinrich, Hans-Klaus</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dmitri+oder+der+Künstler+und+die+Macht+Luca+Lombardi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961344</field>
+<field name="title">Kuninkaan sormus (The King's Ring)</field>
+<field name="titlesort">Kuninkaan sormus (The King's Ring)</field>
+<field name="composer">lkka Kuusisto</field>
+<field name="composersort">Kuusisto, Ilkka</field>
+<field name="year">2002</field>
+<field name="date">April 12, 2002</field>
+<field name="librettist">Esko Elstelä</field>
+<field name="librettistsort">Elstelä, Esko</field>
+<field name="librettist">Zacharias Topelius</field>
+<field name="librettistsort">Topelius, Zacharias</field>
+<field name="theater">Nivalan Liikuntakeskus Oy</field>
+<field name="city">Vaasa</field>
+<field name="region">Pohjanmaa</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kuninkaan+sormus+(The+King's+Ring)+lkka+Kuusisto&amp;search_field=search</field>
+</doc>
+</add>

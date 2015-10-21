@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961539</field>
+<field name="title">Les visites espacées</field>
+<field name="titlesort">visites espacées</field>
+<field name="composer">Philippe Hersant</field>
+<field name="composersort">Hersant, Philippe</field>
+<field name="year">1986</field>
+<field name="date">July 18, 1983</field>
+<field name="librettist">Jean-Claude Buchard</field>
+<field name="librettistsort">Buchard, Jean-Claude</field>
+<field name="theater">Festival d'Avignon</field>
+<field name="city">Avignon</field>
+<field name="region">Vaucluse</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=visites+espacées+Philippe+Hersant&amp;search_field=search</field>
+</doc>
+</add>

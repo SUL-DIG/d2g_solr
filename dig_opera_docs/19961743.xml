@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961743</field>
+<field name="title">Miss Treat</field>
+<field name="titlesort">Miss Treat</field>
+<field name="composer">Des Oliver</field>
+<field name="composersort">Oliver, Des</field>
+<field name="year">1999</field>
+<field name="date">August 26, 1999</field>
+<field name="librettist">Meredith Oakes</field>
+<field name="librettistsort">Oakes, Meredith</field>
+<field name="theater">Battersea Arts Centre</field>
+<field name="city">Battersea</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Miss+Treat+Des+Oliver&amp;search_field=search</field>
+</doc>
+</add>

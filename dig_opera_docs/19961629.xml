@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961629</field>
+<field name="title">Maestro vie (The Maestro Leads)</field>
+<field name="titlesort">Maestro vie (The Maestro Leads)</field>
+<field name="composer">Riikka Talvitie</field>
+<field name="composersort">Talvitie, Riikka</field>
+<field name="year">2001</field>
+<field name="date">September 3, 2001</field>
+<field name="librettist">Riikka Talvitie</field>
+<field name="librettistsort">Talvitie, Riikka</field>
+<field name="librettist">Kim Borg</field>
+<field name="librettistsort">Borg, Kim</field>
+<field name="theater">Sibelius Academy Opera Studio</field>
+<field name="city">Helsinki</field>
+<field name="region">Uusimaa</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maestro+vie+(The+Maestro+Leads)+Riikka+Talvitie&amp;search_field=search</field>
+</doc>
+</add>

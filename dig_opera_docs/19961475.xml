@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961475</field>
+<field name="title">Le collier des ruses</field>
+<field name="titlesort">collier des ruses</field>
+<field name="composer">Ahmed Essyad</field>
+<field name="composersort">Essyad, Ahmed</field>
+<field name="year">1977</field>
+<field name="date">July 23, 1977</field>
+<field name="librettist">Ahmed Essyad</field>
+<field name="librettistsort">Essyad, Ahmed</field>
+<field name="librettist">Ahmad ibn al-Hussain al-Hamadhânî</field>
+<field name="librettistsort">al-Hamadhânî, Ahmad ibn al-Hussain</field>
+<field name="theater">Festival d'Avignon</field>
+<field name="city">Avignon</field>
+<field name="region">Vaucluse</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=collier+des+ruses+Ahmed+Essyad&amp;search_field=search</field>
+</doc>
+</add>

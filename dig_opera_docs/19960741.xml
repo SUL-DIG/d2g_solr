@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960741</field>
+<field name="title">Echoes of the Shining Prince</field>
+<field name="titlesort">Echoes of the Shining Prince</field>
+<field name="composer">Seth Cooper</field>
+<field name="composersort">Cooper, Seth</field>
+<field name="year">1985</field>
+<field name="date">April 26, 1985</field>
+<field name="librettist">Elizabeth Aldrich</field>
+<field name="librettistsort">Aldrich, Elizabeth</field>
+<field name="librettist">Murasaki Shikibu</field>
+<field name="librettistsort">Shikibu, Murasaki</field>
+<field name="theater">Merkin Concert Hall</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Echoes+of+the+Shining+Prince+Seth+Cooper&amp;search_field=search</field>
+</doc>
+</add>

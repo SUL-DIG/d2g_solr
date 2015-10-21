@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961500</field>
+<field name="title">Le vase de parfums</field>
+<field name="titlesort">vase de parfums</field>
+<field name="composer">Suzanne Giraud</field>
+<field name="composersort">Giraud, Suzanne</field>
+<field name="year">2004</field>
+<field name="date">October 6, 2004</field>
+<field name="librettist">Olivier Py</field>
+<field name="librettistsort">Py, Olivier</field>
+<field name="theater">Théâtre Graslin</field>
+<field name="city">Nantes</field>
+<field name="region">Loire-Atlantique</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=vase+de+parfums+Suzanne+Giraud&amp;search_field=search</field>
+</doc>
+</add>

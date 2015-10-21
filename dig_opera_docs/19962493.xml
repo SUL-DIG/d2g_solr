@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962493</field>
+<field name="title">The Companion</field>
+<field name="titlesort">Companion</field>
+<field name="composer">Robert Paterson </field>
+<field name="composersort">Paterson, Robert</field>
+<field name="year">2014</field>
+<field name="date">April 22, 2014</field>
+<field name="librettist">David Cote</field>
+<field name="librettistsort">Cote, David</field>
+<field name="theater">Roulette, Brooklyn</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Companion+Robert+Paterson+&amp;search_field=search</field>
+</doc>
+</add>

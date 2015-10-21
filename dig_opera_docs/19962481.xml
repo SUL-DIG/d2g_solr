@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962481</field>
+<field name="title">The Catfish Conundrum</field>
+<field name="titlesort">Catfish Conundrum</field>
+<field name="composer">Edward Lambert</field>
+<field name="composersort">Lambert, Edward</field>
+<field name="year">2014</field>
+<field name="date">August 9, 2014</field>
+<field name="librettist">Edward Lambert</field>
+<field name="librettistsort">Lambert, Edward</field>
+<field name="theater">King's Place</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Catfish+Conundrum+Edward+Lambert&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961995</field>
+<field name="title">Phoenix Park (A Poet's Journey)</field>
+<field name="titlesort">Phoenix Park (A Poet's Journey)</field>
+<field name="composer">David Strickland</field>
+<field name="composersort">Strickland, David</field>
+<field name="year">2001</field>
+<field name="date">November 7, 2002</field>
+<field name="librettist">Ilsa Gilbert</field>
+<field name="librettistsort">Gilbert, Ilsa</field>
+<field name="theater">Theater for the New City</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Phoenix+Park+(A+Poet's+Journey)+David+Strickland&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960358</field>
+<field name="title">Brave Jack</field>
+<field name="titlesort">Brave Jack</field>
+<field name="composer">Emory Waters</field>
+<field name="composersort">Waters, Emory</field>
+<field name="year">1993</field>
+<field name="date">November 7, 1993</field>
+<field name="librettist">Mary Ann Waters</field>
+<field name="librettistsort">Waters, Mary Ann</field>
+<field name="librettist">Jakob & Wilhelm Grimm</field>
+<field name="librettistsort">Grimm, Jakob & Wilhelm</field>
+<field name="theater">Rensselaer Polytechnic Institute</field>
+<field name="city">Troy</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Brave+Jack+Emory+Waters&amp;search_field=search</field>
+</doc>
+</add>

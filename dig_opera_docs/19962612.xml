@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962612</field>
+<field name="title">The Lady or the Tiger</field>
+<field name="titlesort">Lady or the Tiger</field>
+<field name="composer">Leanna Kirchoff</field>
+<field name="composersort">Kirchoff, Leanna</field>
+<field name="year">2007</field>
+<field name="date">April 16, 2007</field>
+<field name="librettist">Leanna Kirchoff</field>
+<field name="librettistsort">Kirchoff, Leanna</field>
+<field name="librettist">Cherise Leiter </field>
+<field name="librettistsort">Leiter, Cherise</field>
+<field name="theater">Metropolitan State College</field>
+<field name="city">Denver</field>
+<field name="region">Colorado</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lady+or+the+Tiger+Leanna+Kirchoff&amp;search_field=search</field>
+</doc>
+</add>

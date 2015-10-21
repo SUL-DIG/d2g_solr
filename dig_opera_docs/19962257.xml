@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962257</field>
+<field name="title">Seven Tons of Dung</field>
+<field name="titlesort">Seven Tons of Dung</field>
+<field name="composer">David Bruce</field>
+<field name="composersort">Bruce, David</field>
+<field name="year">1999</field>
+<field name="date">August 26, 1999</field>
+<field name="librettist">Bill Bankes-Jones</field>
+<field name="librettistsort">Bankes-Jones, Bill</field>
+<field name="theater">Battersea Arts Centre</field>
+<field name="city">Battersea</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Seven+Tons+of+Dung+David+Bruce&amp;search_field=search</field>
+</doc>
+</add>

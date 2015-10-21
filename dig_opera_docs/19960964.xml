@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960964</field>
+<field name="title">Gauguin (A Synthetic Life)</field>
+<field name="titlesort">Gauguin (A Synthetic Life)</field>
+<field name="composer">Michael Smetanin</field>
+<field name="composersort">Smetanin, Michael</field>
+<field name="year">2000</field>
+<field name="date">October 21, 2000</field>
+<field name="librettist">Alison Croggon</field>
+<field name="librettistsort">Croggon, Alison</field>
+<field name="theater">Victorian Arts Centre, Studio</field>
+<field name="city">Melbourne</field>
+<field name="region">Victoria</field>
+<field name="country">Australia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gauguin+(A+Synthetic+Life)+Michael+Smetanin&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962766</field>
+<field name="title">The Sloan's Project</field>
+<field name="titlesort">Sloan's Project</field>
+<field name="composer">Gareth Williams</field>
+<field name="composersort">Williams, Gareth</field>
+<field name="year">2011</field>
+<field name="date">July 21, 2011</field>
+<field name="librettist">David Brock</field>
+<field name="librettistsort">Brock, David</field>
+<field name="theater">Sloan's Bar</field>
+<field name="city">Glasgow</field>
+<field name="region">Scotland</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sloan's+Project+Gareth+Williams&amp;search_field=search</field>
+</doc>
+</add>

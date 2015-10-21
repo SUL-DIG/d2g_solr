@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960318</field>
+<field name="title">Billy Blythe</field>
+<field name="titlesort">Billy Blythe</field>
+<field name="composer">Bonnie Montgomery</field>
+<field name="composersort">Montgomery, Bonnie</field>
+<field name="year">2011</field>
+<field name="date">June 19, 2011</field>
+<field name="librettist">Britt  Barber</field>
+<field name="librettistsort">Barber, Britt  </field>
+<field name="theater">Medicine Show Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Billy+Blythe+Bonnie+Montgomery&amp;search_field=search</field>
+</doc>
+</add>

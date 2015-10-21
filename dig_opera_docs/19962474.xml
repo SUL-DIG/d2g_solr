@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962474</field>
+<field name="title">The Bridge of San Luis Rey</field>
+<field name="titlesort">Bridge of San Luis Rey</field>
+<field name="composer">Paula Kimper</field>
+<field name="composersort">Kimper, Paula</field>
+<field name="year">2005</field>
+<field name="date">April 19, 2005</field>
+<field name="librettist">Paula Kimper</field>
+<field name="librettistsort">Kimper, Paula</field>
+<field name="librettist">Thornton Wilder</field>
+<field name="librettistsort">Wilder, Thornton</field>
+<field name="theater">Great Room at South Oxford Space, Brooklyn</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bridge+of+San+Luis+Rey+Paula+Kimper&amp;search_field=search</field>
+</doc>
+</add>

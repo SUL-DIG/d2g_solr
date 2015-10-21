@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961459</field>
+<field name="title">Larnach</field>
+<field name="titlesort">Larnach</field>
+<field name="composer">John Drummond</field>
+<field name="composersort">Drummond, John</field>
+<field name="year">2007</field>
+<field name="date">May 5, 2007</field>
+<field name="librettist">John Drummond</field>
+<field name="librettistsort">Drummond, John</field>
+<field name="theater">Regent Theatre</field>
+<field name="city">Dunedin</field>
+<field name="country">New Zealand</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Larnach+John+Drummond&amp;search_field=search</field>
+</doc>
+</add>

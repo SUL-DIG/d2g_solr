@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961158</field>
+<field name="title">Il letto della storia</field>
+<field name="titlesort">letto della storia</field>
+<field name="composer">Fabio Vacchi</field>
+<field name="composersort">Fabio Vacchi</field>
+<field name="year">2003</field>
+<field name="date">February 16, 2003</field>
+<field name="librettist">Franco Marcoaldi</field>
+<field name="librettistsort">Marcoaldi, Franco</field>
+<field name="theater">Piccolo Teatro</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=letto+della+storia+Fabio+Vacchi&amp;search_field=search</field>
+</doc>
+</add>

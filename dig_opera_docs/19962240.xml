@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962240</field>
+<field name="title">Segismundo</field>
+<field name="titlesort">Segismundo</field>
+<field name="composer">Tomás Marco</field>
+<field name="composersort">Marco, Tomás</field>
+<field name="year">2003</field>
+<field name="date">May 15, 2003</field>
+<field name="librettist">Tomás Marco</field>
+<field name="librettistsort">Marco, Tomás</field>
+<field name="librettist">Pedro Calderón de la Barca</field>
+<field name="librettistsort">Calderón de la Barca, Pedro</field>
+<field name="theater">Teatro del Tantín</field>
+<field name="city">Santander</field>
+<field name="region">Cantabria</field>
+<field name="country">Spain</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Segismundo+Tomás+Marco&amp;search_field=search</field>
+</doc>
+</add>

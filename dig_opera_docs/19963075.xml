@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963075</field>
+<field name="title">Wüstenwind</field>
+<field name="titlesort">Wüstenwind</field>
+<field name="composer">Selim Dogru</field>
+<field name="composersort">Dogru, Selim</field>
+<field name="year">2014</field>
+<field name="date">April 2, 2014</field>
+<field name="librettist">Sophie Kassies</field>
+<field name="librettistsort">Kassies, Sophie</field>
+<field name="theater">Deutsches Nationaltheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wüstenwind+Selim+Dogru&amp;search_field=search</field>
+</doc>
+</add>

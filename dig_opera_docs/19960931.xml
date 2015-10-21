@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960931</field>
+<field name="title">From Geneva to the Planet Mars</field>
+<field name="titlesort">From Geneva to the Planet Mars</field>
+<field name="composer">Charles B. Kim</field>
+<field name="composersort">Kim, Charles B.</field>
+<field name="year">1996</field>
+<field name="date">April 28, 1996</field>
+<field name="librettist">Jeffrey Shaman</field>
+<field name="librettistsort">Shaman, Jeffrey</field>
+<field name="librettist">Théodore Flournoy</field>
+<field name="librettistsort">Flournoy, Théodore</field>
+<field name="theater">Peabody Conservatory</field>
+<field name="city">Baltimore</field>
+<field name="region">Maryland</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=From+Geneva+to+the+Planet+Mars+Charles+B.+Kim&amp;search_field=search</field>
+</doc>
+</add>

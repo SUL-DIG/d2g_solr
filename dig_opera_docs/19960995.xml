@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960995</field>
+<field name="title">Glory Denied</field>
+<field name="titlesort">Glory Denied</field>
+<field name="composer">Tom Cipullo</field>
+<field name="composersort">Cipullo, Tom</field>
+<field name="year">2007</field>
+<field name="date">May 5, 2007</field>
+<field name="librettist">Tom Cipullo</field>
+<field name="librettistsort">Cipullo, Tom</field>
+<field name="librettist">Tom Philpott</field>
+<field name="librettistsort">Philpott, Tom</field>
+<field name="theater">Brooklyn College Opera Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Glory+Denied+Tom+Cipullo&amp;search_field=search</field>
+</doc>
+</add>

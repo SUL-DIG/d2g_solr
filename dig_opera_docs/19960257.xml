@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960257</field>
+<field name="title">Babylon</field>
+<field name="titlesort">Babylon</field>
+<field name="composer">Jörg Widmann</field>
+<field name="composersort">Widmann, Jörg</field>
+<field name="year">2012</field>
+<field name="date">October 27, 2012</field>
+<field name="librettist">Peter Sloterdijk</field>
+<field name="librettistsort">Sloterdijk, Peter</field>
+<field name="theater">Bayerische Staatsoper</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Babylon+Jörg+Widmann&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962596</field>
+<field name="title">The Inspector</field>
+<field name="titlesort">Inspector</field>
+<field name="composer">John Musto</field>
+<field name="composersort">Musto, John</field>
+<field name="year">2011</field>
+<field name="date">April 27, 2011</field>
+<field name="librettist">Mark Campbell</field>
+<field name="librettistsort">Campbell, Mark</field>
+<field name="librettist">Nikolay Vasil'yevich Gogol</field>
+<field name="librettistsort">Gogol, Nikolay Vasil'yevich</field>
+<field name="theater">Wolf Trap</field>
+<field name="city">Vienna</field>
+<field name="region">Virginia</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Inspector+John+Musto&amp;search_field=search</field>
+</doc>
+</add>

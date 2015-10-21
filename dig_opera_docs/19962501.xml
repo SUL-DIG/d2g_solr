@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962501</field>
+<field name="title">The Crystal Cabinet</field>
+<field name="titlesort">Crystal Cabinet</field>
+<field name="composer">Carl Unander-Scharin</field>
+<field name="composersort">Unander-Scharin, Carl</field>
+<field name="year">2008</field>
+<field name="date">October 12, 2008</field>
+<field name="librettist">Carl Unander-Scharin</field>
+<field name="librettistsort">Unander-Scharin, Carl</field>
+<field name="librettist">Keith Turnbull</field>
+<field name="librettistsort">Turnbull, Keith</field>
+<field name="theater">Piteå Kammaropera</field>
+<field name="city">Piteå</field>
+<field name="region">Norrbotten</field>
+<field name="country">Sweden</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Crystal+Cabinet+Carl+Unander-Scharin&amp;search_field=search</field>
+</doc>
+</add>

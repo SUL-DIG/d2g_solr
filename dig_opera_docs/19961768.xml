@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961768</field>
+<field name="title">Mountain Windsong</field>
+<field name="titlesort">Mountain Windsong</field>
+<field name="composer">Linder Chlarson</field>
+<field name="composersort">Chlarson, Linder</field>
+<field name="year">1995</field>
+<field name="date">September 23, 1995</field>
+<field name="librettist">Linder Chlarson</field>
+<field name="librettistsort">Chlarson, Linder</field>
+<field name="librettist">Robert J. Conley</field>
+<field name="librettistsort">Conley, Robert J.</field>
+<field name="theater">Tsa-ta-gi Ampitheater</field>
+<field name="city">Tallequah</field>
+<field name="region">Oklahoma</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mountain+Windsong+Linder+Chlarson&amp;search_field=search</field>
+</doc>
+</add>

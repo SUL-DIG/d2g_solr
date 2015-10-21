@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961450</field>
+<field name="title">La voz del silencio</field>
+<field name="titlesort">voz del silencio</field>
+<field name="composer">Mario Perusso</field>
+<field name="composersort">Perusso, Mario</field>
+<field name="year">1969</field>
+<field name="date">November 27, 1969</field>
+<field name="librettist">Leónidas Barrera Oro</field>
+<field name="librettistsort">Barrera Oro, Leónidas</field>
+<field name="theater">Teatro Colón</field>
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=voz+del+silencio+Mario+Perusso&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960810</field>
+<field name="title">Epitafio e Epitalámio</field>
+<field name="titlesort">Epitafio e Epitalámio</field>
+<field name="composer">Francisco de Sá Noronha</field>
+<field name="composersort">Noronha, Francisco de Sá</field>
+<field name="year">1855</field>
+<field name="librettist">Mendes Leal</field>
+<field name="librettistsort">Leal, Mendes</field>
+<field name="librettist">Octave Feuillet</field>
+<field name="librettistsort">Feuillet, Octave</field>
+<field name="theater">Teatro do Ginásio</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Epitafio+e+Epitalámio+Francisco+de+Sá+Noronha&amp;search_field=search</field>
+</doc>
+</add>

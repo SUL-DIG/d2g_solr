@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961335</field>
+<field name="title">Kotia kohti</field>
+<field name="titlesort">Kotia kohti</field>
+<field name="composer">lkka Kuusisto</field>
+<field name="composersort">Kuusisto, Ilkka</field>
+<field name="year">2008</field>
+<field name="date">July 18, 2008</field>
+<field name="librettist">Pia Perkiö</field>
+<field name="librettistsort">Perkiö, Pia</field>
+<field name="theater">Isokyrön kirkko</field>
+<field name="city">Isokyrö</field>
+<field name="region">Pohjanmaa</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kotia+kohti+lkka+Kuusisto&amp;search_field=search</field>
+</doc>
+</add>

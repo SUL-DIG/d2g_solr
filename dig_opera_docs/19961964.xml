@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961964</field>
+<field name="title">Passages</field>
+<field name="titlesort">Passages</field>
+<field name="composer">Arnaud Petit</field>
+<field name="composersort">Petit, Arnaud</field>
+<field name="year">2001</field>
+<field name="date">March 7, 2001</field>
+<field name="librettist">Pascalle Monnier</field>
+<field name="librettistsort">Monnier, Pascalle</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Reims</field>
+<field name="region">Marne</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Passages+Arnaud+Petit&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961137</field>
+<field name="title">I Was Kidnapped by Martians</field>
+<field name="titlesort">I Was Kidnapped by Martians</field>
+<field name="composer">Kitty Brazelton</field>
+<field name="composersort">Brazelton, Kitty</field>
+<field name="year">1992</field>
+<field name="date">November 1, 1992</field>
+<field name="librettist">Lorraine Llamas</field>
+<field name="librettistsort">Llamas, Lorraine</field>
+<field name="theater">Dixon Place</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+Was+Kidnapped+by+Martians+Kitty+Brazelton&amp;search_field=search</field>
+</doc>
+</add>

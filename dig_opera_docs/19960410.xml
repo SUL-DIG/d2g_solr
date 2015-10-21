@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960410</field>
+<field name="title">Celan</field>
+<field name="titlesort">Celan</field>
+<field name="composer">Peter Ruzicka</field>
+<field name="composersort">Ruzicka, Peter</field>
+<field name="year">2001</field>
+<field name="date">March 25, 2001</field>
+<field name="librettist">Peter Mussbach</field>
+<field name="librettistsort">Mussbach, Peter</field>
+<field name="theater">Sächsische Staatsoper</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Celan+Peter+Ruzicka&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962362</field>
+<field name="title">Stark såsom döden</field>
+<field name="titlesort">Stark såsom döden</field>
+<field name="composer">Sven-David Sandström</field>
+<field name="composersort">Sandström, Sven-David</field>
+<field name="year">1978</field>
+<field name="date">April 18, 1978</field>
+<field name="librettist">Bengt Verner Wall</field>
+<field name="librettistsort">Wall, Bengt Verner</field>
+<field name="theater">Immanuelskyrkan</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stark+såsom+döden+Sven-David+Sandström&amp;search_field=search</field>
+</doc>
+</add>

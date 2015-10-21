@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962157</field>
+<field name="title">Río de Sangre</field>
+<field name="titlesort">Río de Sangre</field>
+<field name="composer">Don Davis</field>
+<field name="composersort">Davis, Don</field>
+<field name="year">2010</field>
+<field name="date">October 22, 2010</field>
+<field name="librettist">Kate Gale</field>
+<field name="librettistsort">Gale, Kate</field>
+<field name="librettist">Alicia Partnoy</field>
+<field name="librettistsort">Partnoy, Alicia</field>
+<field name="theater">Florentine Opera, Marcus Center</field>
+<field name="city">Milwaukee</field>
+<field name="region">Wisconsin</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Río+de+Sangre+Don+Davis&amp;search_field=search</field>
+</doc>
+</add>

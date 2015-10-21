@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961721</field>
+<field name="title">Metanoia</field>
+<field name="titlesort">Metanoia</field>
+<field name="composer">Jens Joneleit</field>
+<field name="composersort">Joneleit, Jens</field>
+<field name="year">2010</field>
+<field name="date">October 3, 2010</field>
+<field name="librettist">René Pollesch</field>
+<field name="librettistsort">Pollesch, René</field>
+<field name="librettist">Friedrich Nietzsche</field>
+<field name="librettistsort">Nietzsche, Friedrich</field>
+<field name="theater">Deutsche Staatsoper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Metanoia+Jens+Joneleit&amp;search_field=search</field>
+</doc>
+</add>

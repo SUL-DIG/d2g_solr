@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961322</field>
+<field name="title">Kochankowie z klasztoru Valldemosa</field>
+<field name="titlesort">Kochankowie z klasztoru Valldemosa</field>
+<field name="composer">Marta Ptaszyńska</field>
+<field name="composersort">Ptaszyńska, Marta</field>
+<field name="year">2010</field>
+<field name="date">December 18, 2010</field>
+<field name="librettist">Marta Ptaszyńska</field>
+<field name="librettistsort">Ptaszyńska, Marta</field>
+<field name="librettist">Janusz Krasny-Krasiński</field>
+<field name="librettistsort">Krasny-Krasiński, Janusz</field>
+<field name="theater">Teatr Wielki</field>
+<field name="city">Lodz</field>
+<field name="region">Lódzkie</field>
+<field name="country">Poland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kochankowie+z+klasztoru+Valldemosa+Marta+Ptaszyńska&amp;search_field=search</field>
+</doc>
+</add>

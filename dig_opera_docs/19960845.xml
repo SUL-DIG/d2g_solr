@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960845</field>
+<field name="title">Fade</field>
+<field name="titlesort">Fade</field>
+<field name="composer">Stefan Weisman</field>
+<field name="composersort">Weisman, Stefan</field>
+<field name="year">2008</field>
+<field name="date">October 22, 2008</field>
+<field name="librettist">David Cote</field>
+<field name="librettistsort">Cote, David</field>
+<field name="theater">Hoxton Hall</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fade+Stefan+Weisman&amp;search_field=search</field>
+</doc>
+</add>

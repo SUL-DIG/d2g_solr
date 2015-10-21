@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962058</field>
+<field name="title">Prometheus Drown'd</field>
+<field name="titlesort">Prometheus Drown'd</field>
+<field name="composer">Stephen McNeff</field>
+<field name="composersort">McNeff, Stephen</field>
+<field name="year">2014</field>
+<field name="date">July 29, 2014</field>
+<field name="librettist">Richard Williams</field>
+<field name="librettistsort">Williams, Richard</field>
+<field name="theater">Rosslyn Hill Unitarian Chapel</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prometheus+Drown'd+Stephen+McNeff&amp;search_field=search</field>
+</doc>
+</add>

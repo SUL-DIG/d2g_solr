@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960171</field>
+<field name="title">Anioł dziwnych przypadków (The Angel of the Odd)</field>
+<field name="titlesort">Anioł dziwnych przypadków (The Angel of the Odd)</field>
+<field name="composer">Bruno Coli</field>
+<field name="composersort">Coli, Bruno</field>
+<field name="year">2014</field>
+<field name="date">June 7, 2014</field>
+<field name="librettist">Bruno Coli</field>
+<field name="librettistsort">Coli, Bruno</field>
+<field name="librettist">Edgar Allan Poe</field>
+<field name="librettistsort">Poe, Edgar Allan</field>
+<field name="theater">Teatr Wielki</field>
+<field name="city">Poznan</field>
+<field name="region">Wielkopolskie</field>
+<field name="country">Poland</field>
+<field name="genre">Opera</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anioł+dziwnych+przypadków+(The+Angel+of+the+Odd)+Bruno+Coli&amp;search_field=search</field>
+</doc>
+</add>

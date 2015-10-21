@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961695</field>
+<field name="title">Max and Moritz</field>
+<field name="titlesort">Max and Moritz</field>
+<field name="composer">Gisle Kverndokk</field>
+<field name="composersort">Kverndokk, Gisle</field>
+<field name="year">2010</field>
+<field name="date">October 17, 2010</field>
+<field name="librettist">Øystein Wiik</field>
+<field name="librettistsort">Wiik, Øystein</field>
+<field name="librettist">Wilhelm Busch</field>
+<field name="librettistsort">Busch, Wilhelm</field>
+<field name="theater">National Gallery of Art</field>
+<field name="city">Washington </field>
+<field name="region">District of Columbia</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Max+and+Moritz+Gisle+Kverndokk&amp;search_field=search</field>
+</doc>
+</add>

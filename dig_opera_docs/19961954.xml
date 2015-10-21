@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961954</field>
+<field name="title">Paraná Guazú</field>
+<field name="titlesort">Paraná Guazú</field>
+<field name="composer">Vicente Ascone</field>
+<field name="composersort">Ascone, Vicente</field>
+<field name="year">1931</field>
+<field name="date">July 25, 1931</field>
+<field name="librettist">Humberto Zarrilli</field>
+<field name="librettistsort">Zarrilli, Humberto</field>
+<field name="theater">Escuela di Música</field>
+<field name="city">Montevideo</field>
+<field name="country">Uruguay</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paraná+Guazú+Vicente+Ascone&amp;search_field=search</field>
+</doc>
+</add>

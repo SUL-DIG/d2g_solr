@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961286</field>
+<field name="title">Karlugas (The Swallow)</field>
+<field name="titlesort">Karlugas (The Swallow)</field>
+<field name="composer">Nikolay Karpovich Chemberdzhi</field>
+<field name="composersort">Chemberdzhi, Nikolay Karpovich</field>
+<field name="year">1941</field>
+<field name="librettist">Bayazit Bikbay</field>
+<field name="librettistsort">Bikbay, Bayazit</field>
+<field name="theater">Bashkirskiy Teatr Operï i Baleta</field>
+<field name="city">Ufa</field>
+<field name="region">Bashkortostan Republic</field>
+<field name="country">Russia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Karlugas+(The+Swallow)+Nikolay+Karpovich+Chemberdzhi&amp;search_field=search</field>
+</doc>
+</add>

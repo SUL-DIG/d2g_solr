@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961928</field>
+<field name="title">Oscar</field>
+<field name="titlesort">Oscar</field>
+<field name="composer">Theodore Morrison</field>
+<field name="composersort">Morrison, Theodore</field>
+<field name="year">2013</field>
+<field name="date">July 27, 2013</field>
+<field name="librettist">John Cox</field>
+<field name="librettistsort">Cox, John</field>
+<field name="librettist">Theodore Morrison</field>
+<field name="librettistsort">Morrison, Theodore</field>
+<field name="theater">Opera</field>
+<field name="city">Santa Fe</field>
+<field name="region">New Mexico</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oscar+Theodore+Morrison&amp;search_field=search</field>
+</doc>
+</add>

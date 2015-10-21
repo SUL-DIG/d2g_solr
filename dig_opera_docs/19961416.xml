@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961416</field>
+<field name="title">La macchina</field>
+<field name="titlesort">macchina</field>
+<field name="composer">Raffaele Grimaldi</field>
+<field name="composersort">Grimaldi, Raffaele</field>
+<field name="year">2013</field>
+<field name="date">October 9, 2013</field>
+<field name="librettist">Diego Giordano</field>
+<field name="librettistsort">Giordano, Diego</field>
+<field name="theater">Biennale</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=macchina+Raffaele+Grimaldi&amp;search_field=search</field>
+</doc>
+</add>

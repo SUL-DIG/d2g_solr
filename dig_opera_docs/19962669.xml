@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962669</field>
+<field name="title">The Nightjar</field>
+<field name="titlesort">Nightjar</field>
+<field name="composer">Elfyn Jones</field>
+<field name="composersort">Jones, Elfyn</field>
+<field name="year">1999</field>
+<field name="date">August 26, 1999</field>
+<field name="librettist">Toby Satterthwaite</field>
+<field name="librettistsort">Satterthwaite, Toby</field>
+<field name="librettist">Hilary Dolamore</field>
+<field name="librettistsort">Dolamore, Hilary</field>
+<field name="theater">Battersea Arts Centre</field>
+<field name="city">Battersea</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nightjar+Elfyn+Jones&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962606</field>
+<field name="title">The King and the Cupbearer</field>
+<field name="titlesort">King and the Cupbearer</field>
+<field name="composer">Jonathan Price</field>
+<field name="composersort">Price, Jonathan</field>
+<field name="year">2011</field>
+<field name="date">October 15, 2011</field>
+<field name="librettist">Jeff Goode</field>
+<field name="librettistsort">Goode, Jeff</field>
+<field name="theater">Blinn House</field>
+<field name="city">Pasadena</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=King+and+the+Cupbearer+Jonathan+Price&amp;search_field=search</field>
+</doc>
+</add>

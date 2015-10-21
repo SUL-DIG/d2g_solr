@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960220</field>
+<field name="title">Assaut de valets</field>
+<field name="titlesort">Assaut de valets</field>
+<field name="composer">Marguerite Le Chevallier de Boisval     </field>
+<field name="composersort">Le Chevallier de Boisval, Marguerite</field>
+<field name="year">1896</field>
+<field name="librettist">Fernand Mérini     </field>
+<field name="librettistsort">Mérini, Fernand</field>
+<field name="librettist">Pierre-François Godard de Beauchamps</field>
+<field name="librettistsort">Beauchamps, Pierre-François Godard de</field>
+<field name="city">Chantilly</field>
+<field name="region">Oise</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Assaut+de+valets+Marguerite+Le+Chevallier+de+Boisval+++++&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961933</field>
+<field name="title">Ötökkäooppera (Heinäsirkat ja muurahaiset)</field>
+<field name="titlesort">Ötökkäooppera (Heinäsirkat ja muurahaiset)</field>
+<field name="composer">Harri Wessman</field>
+<field name="composersort">Wessman, Harri</field>
+<field name="year">1998</field>
+<field name="date">September 27, 1998</field>
+<field name="librettist">Lauri Mannermaan</field>
+<field name="librettistsort">Mannermaan, Lauri</field>
+<field name="librettist">Pekka Turkka</field>
+<field name="librettistsort">Turkka, Pekka</field>
+<field name="theater">Kanneltalo</field>
+<field name="city">Helsinki</field>
+<field name="region">Uusimaa</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ötökkäooppera+(Heinäsirkat+ja+muurahaiset)+Harri+Wessman&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962350</field>
+<field name="title">St. Cuthbert </field>
+<field name="titlesort">St. Cuthbert </field>
+<field name="composer">Will Todd</field>
+<field name="composersort">Todd, Will</field>
+<field name="year">2013</field>
+<field name="date">September 28, 2013</field>
+<field name="librettist">Ben Dunwell</field>
+<field name="librettistsort">Dunwell, Ben</field>
+<field name="theater">Durham Cathedral</field>
+<field name="city">Durham</field>
+<field name="region">Durham</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Oratorio</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=St.+Cuthbert++Will+Todd&amp;search_field=search</field>
+</doc>
+</add>

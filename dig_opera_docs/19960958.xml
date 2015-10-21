@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960958</field>
+<field name="title">Garden of Martyrs</field>
+<field name="titlesort">Garden of Martyrs</field>
+<field name="composer">Eric Sawyer</field>
+<field name="composersort">Sawyer, Eric</field>
+<field name="year">2013</field>
+<field name="date">September 20, 2013</field>
+<field name="librettist">Harley Erdman</field>
+<field name="librettistsort">Erdman, Harley</field>
+<field name="librettist">Michel C. White</field>
+<field name="librettistsort">White, Michel C.</field>
+<field name="theater">Academy of Music </field>
+<field name="city">Northampton</field>
+<field name="region">Massachusetts</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Garden+of+Martyrs+Eric+Sawyer&amp;search_field=search</field>
+</doc>
+</add>

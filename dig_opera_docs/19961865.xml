@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961865</field>
+<field name="title">O.T.</field>
+<field name="titlesort">O.T.</field>
+<field name="composer">Mirta de la Torre Mulhare</field>
+<field name="composersort">Mulhare, Mirta de la Torre</field>
+<field name="year">1987</field>
+<field name="date">April 26, 1987</field>
+<field name="librettist">Mirta de la Torre Mulhare</field>
+<field name="librettistsort">Mulhare, Mirta de la Torre</field>
+<field name="theater">Rutgers Presbyterian Church</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O.T.+Mirta+de+la+Torre+Mulhare&amp;search_field=search</field>
+</doc>
+</add>

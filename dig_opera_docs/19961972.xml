@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961972</field>
+<field name="title">Patience and Sarah</field>
+<field name="titlesort">Patience and Sarah</field>
+<field name="composer">Paula Kimper</field>
+<field name="composersort">Kimper, Paula</field>
+<field name="year">1998</field>
+<field name="date">July 8, 1998</field>
+<field name="librettist">Wende Persons</field>
+<field name="librettistsort">Persons, Wende</field>
+<field name="librettist">Isabel Miller</field>
+<field name="librettistsort">Miller, Isabel</field>
+<field name="theater">John Jay College</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Patience+and+Sarah+Paula+Kimper&amp;search_field=search</field>
+</doc>
+</add>

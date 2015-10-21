@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962206</field>
+<field name="title">Salutations</field>
+<field name="titlesort">Salutations</field>
+<field name="composer">Christos Hatzis</field>
+<field name="composersort">Hatzis, Christos</field>
+<field name="year">1986</field>
+<field name="date">August 24, 1986</field>
+<field name="librettist">Christos Hatzis</field>
+<field name="librettistsort">Hatzis, Christos</field>
+<field name="librettist">Romanos Melodos</field>
+<field name="librettistsort">Melodos, Romanos</field>
+<field name="theater">Moussikos Avgoustos Festival</field>
+<field name="city">Iráklion</field>
+<field name="region">Kríti</field>
+<field name="country">Greece</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Salutations+Christos+Hatzis&amp;search_field=search</field>
+</doc>
+</add>

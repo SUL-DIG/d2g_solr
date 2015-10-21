@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961066</field>
+<field name="title">Helle Nächte</field>
+<field name="titlesort">Helle Nächte</field>
+<field name="composer">Moritz Eggert</field>
+<field name="composersort">Eggert, Moritz</field>
+<field name="year">2006</field>
+<field name="date">August 26, 2006</field>
+<field name="librettist">Helmut Krausser</field>
+<field name="librettistsort">Krausser, Helmut</field>
+<field name="librettist">Knut Hamsun</field>
+<field name="librettistsort">Hamsun, Knut</field>
+<field name="theater">Prinzregententheater</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Helle+Nächte+Moritz+Eggert&amp;search_field=search</field>
+</doc>
+</add>

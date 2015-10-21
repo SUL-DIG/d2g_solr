@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962801</field>
+<field name="title">The Town of Greed</field>
+<field name="titlesort">Town of Greed</field>
+<field name="composer">Leonardo Balada</field>
+<field name="composersort">Balada, Leonardo</field>
+<field name="year">2007</field>
+<field name="date">September 21, 2007</field>
+<field name="librettist">Leonardo Balada</field>
+<field name="librettistsort">Balada, Leonardo</field>
+<field name="librettist">Akram Midani</field>
+<field name="librettistsort">Midani, Akram</field>
+<field name="theater">Teatro de la Zarzuela</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Town+of+Greed+Leonardo+Balada&amp;search_field=search</field>
+</doc>
+</add>

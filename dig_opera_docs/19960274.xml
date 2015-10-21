@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960274</field>
+<field name="title">Bang!</field>
+<field name="titlesort">Bang!</field>
+<field name="composer">John Rutter</field>
+<field name="composersort">Rutter, John</field>
+<field name="year">1975</field>
+<field name="date">March 14, 1975</field>
+<field name="librettist">David Richard Grant</field>
+<field name="librettistsort">Grant, David Richard</field>
+<field name="theater">Fairfield Halls</field>
+<field name="city">Croydon</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bang!+John+Rutter&amp;search_field=search</field>
+</doc>
+</add>

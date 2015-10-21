@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962408</field>
+<field name="title">Sybil et les Silhouettes</field>
+<field name="titlesort">Sybil et les Silhouettes</field>
+<field name="composer">Line Adam</field>
+<field name="composersort">Adam, Line</field>
+<field name="year">2012</field>
+<field name="date">March 6, 2012</field>
+<field name="librettist">André Borbé</field>
+<field name="librettistsort">Borbé, André</field>
+<field name="theater">Opéra Royal de Wallonie</field>
+<field name="city">Liège</field>
+<field name="region">Liège</field>
+<field name="country">Belgium</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sybil+et+les+Silhouettes+Line+Adam&amp;search_field=search</field>
+</doc>
+</add>

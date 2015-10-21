@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962051</field>
+<field name="title">Prinsessen I det fjaerne</field>
+<field name="titlesort">Prinsessen I det fjaerne</field>
+<field name="composer">Svend Erik Tarp</field>
+<field name="composersort">Tarp, Svend Erik</field>
+<field name="year">1952</field>
+<field name="date">May 18, 1952</field>
+<field name="librettist">Enevold Hjejle</field>
+<field name="librettistsort">Hjejle, Enevold</field>
+<field name="librettist">Hermann Sudermann</field>
+<field name="librettistsort">Sudermann, Hermann</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prinsessen+I+det+fjaerne+Svend+Erik+Tarp&amp;search_field=search</field>
+</doc>
+</add>

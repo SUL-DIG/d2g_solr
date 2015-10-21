@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962672</field>
+<field name="title">The Opposite Shore</field>
+<field name="titlesort">Opposite Shore</field>
+<field name="composer">Jüri Reinvere</field>
+<field name="composersort">Reinvere, Jüri</field>
+<field name="year">2004</field>
+<field name="date">April 14, 2004</field>
+<field name="librettist">Tamu Tohver</field>
+<field name="librettistsort">Tohver, Tamu</field>
+<field name="librettist">Jüri Reinvere</field>
+<field name="librettistsort">Reinvere, Jüri</field>
+<field name="theater">Estonian Radio (Eesti Raadio)</field>
+<field name="city">Tallinn</field>
+<field name="region">Harju</field>
+<field name="country">Estonia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Opposite+Shore+Jüri+Reinvere&amp;search_field=search</field>
+</doc>
+</add>

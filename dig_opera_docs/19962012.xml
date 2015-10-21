@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962012</field>
+<field name="title">Pimooteewin (The Journey)</field>
+<field name="titlesort">Pimooteewin (The Journey)</field>
+<field name="composer">Melissa Hui</field>
+<field name="composersort">Hui, Melissa</field>
+<field name="year">2008</field>
+<field name="date">February 15, 2008</field>
+<field name="librettist">Tomson Highway</field>
+<field name="librettistsort">Highway, Tomson</field>
+<field name="theater">Jane Mallett Theatre</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pimooteewin+(The+Journey)+Melissa+Hui&amp;search_field=search</field>
+</doc>
+</add>

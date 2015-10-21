@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962816</field>
+<field name="title">The Uninvited</field>
+<field name="titlesort">Uninvited</field>
+<field name="composer">Julian Grant</field>
+<field name="composersort">Grant, Julian</field>
+<field name="year">1997</field>
+<field name="date">July 18, 1997</field>
+<field name="librettist">Alastair Campbell</field>
+<field name="librettistsort">Campbell, Alastair</field>
+<field name="theater">Blackheath Halls</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Uninvited+Julian+Grant&amp;search_field=search</field>
+</doc>
+</add>

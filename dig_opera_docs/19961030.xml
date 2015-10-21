@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961030</field>
+<field name="title">Haiku Moments</field>
+<field name="titlesort">Haiku Moments</field>
+<field name="composer">Erik Ross</field>
+<field name="composersort">Ross, Erik</field>
+<field name="year">2002</field>
+<field name="date">April 22, 2002</field>
+<field name="librettist">Jovanni Sy</field>
+<field name="librettistsort">Sy, Jovanni</field>
+<field name="theater">Isabel Bader Theatre</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Haiku+Moments+Erik+Ross&amp;search_field=search</field>
+</doc>
+</add>

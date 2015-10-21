@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962110</field>
+<field name="title">Räuber</field>
+<field name="titlesort">Räuber</field>
+<field name="composer">Johannes Harneit</field>
+<field name="composersort">Harneit, Johannes</field>
+<field name="year">2005</field>
+<field name="date">June 24, 2005</field>
+<field name="librettist">Torsten Beyer</field>
+<field name="librettistsort">Beyer, Torsten</field>
+<field name="librettist">Robert Walser</field>
+<field name="librettistsort">Walser, Robert</field>
+<field name="theater">Hamburgisches Staatsoper</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Räuber+Johannes+Harneit&amp;search_field=search</field>
+</doc>
+</add>

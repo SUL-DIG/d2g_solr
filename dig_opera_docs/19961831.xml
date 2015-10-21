@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961831</field>
+<field name="title">Nizami</field>
+<field name="titlesort">Nizami</field>
+<field name="composer">Afrasiyab Badalbeyli</field>
+<field name="composersort">Badalbeyli, Afrasiyab</field>
+<field name="year">1948</field>
+<field name="date">December 12, 1948</field>
+<field name="librettist">Mammad Said Ordubadi</field>
+<field name="librettistsort">Ordubadi, Mammad Said</field>
+<field name="theater">Azerbaijanskiy Akademicheskiy Teatr Operï i Baleta imeni M. F. Akhundova</field>
+<field name="city">Baku</field>
+<field name="country">Azerbaijan</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nizami+Afrasiyab+Badalbeyli&amp;search_field=search</field>
+</doc>
+</add>

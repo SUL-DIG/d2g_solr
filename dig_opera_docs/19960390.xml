@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960390</field>
+<field name="title">Call Me Ishmael</field>
+<field name="titlesort">Call Me Ishmael</field>
+<field name="composer">Gary Goldschneider</field>
+<field name="composersort">Goldschneider, Gary</field>
+<field name="year">2004</field>
+<field name="date">May 30, 2004</field>
+<field name="librettist">Gary Goldschneider</field>
+<field name="librettistsort">Goldschneider, Gary</field>
+<field name="librettist">Herman Melville</field>
+<field name="librettistsort">Melville, Herman</field>
+<field name="theater">Stadsschouwburg</field>
+<field name="city">Amsterdam</field>
+<field name="region">Noord Holland</field>
+<field name="country">Netherlands</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Call+Me+Ishmael+Gary+Goldschneider&amp;search_field=search</field>
+</doc>
+</add>

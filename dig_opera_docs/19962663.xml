@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962663</field>
+<field name="title">The News</field>
+<field name="titlesort">News</field>
+<field name="composer">Jacob ter Veldhuis</field>
+<field name="composersort">Veldhuis, Jacob ter</field>
+<field name="year">2014</field>
+<field name="date">May 23, 2014</field>
+<field name="theater">Wilminktheater</field>
+<field name="city">Enschede</field>
+<field name="region">Overijssel</field>
+<field name="country">Netherlands</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=News+Jacob+ter+Veldhuis&amp;search_field=search</field>
+</doc>
+</add>

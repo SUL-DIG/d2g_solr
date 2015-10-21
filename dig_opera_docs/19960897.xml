@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960897</field>
+<field name="title">Flaubert et Voltaire</field>
+<field name="titlesort">Flaubert et Voltaire</field>
+<field name="composer">Philippe Fénelon</field>
+<field name="composersort">Fénelon, Philippe</field>
+<field name="year">2014</field>
+<field name="date">August 12, 2014</field>
+<field name="librettist">Philippe Fénelon</field>
+<field name="librettistsort">Fénelon, Philippe</field>
+<field name="theater">Castillo de Peralada</field>
+<field name="city">Peralada</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Flaubert+et+Voltaire+Philippe+Fénelon&amp;search_field=search</field>
+</doc>
+</add>

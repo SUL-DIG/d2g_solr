@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962106</field>
+<field name="title">Rappahannock County</field>
+<field name="titlesort">Rappahannock County</field>
+<field name="composer">Ricky Ian Gordon</field>
+<field name="composersort">Gordon, Ricky Ian</field>
+<field name="year">2011</field>
+<field name="date">April 12, 2011</field>
+<field name="librettist">Mark Campbell</field>
+<field name="librettistsort">Campbell, Mark</field>
+<field name="theater">Center Theater</field>
+<field name="city">Norfolk</field>
+<field name="region">Virginia</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rappahannock+County+Ricky+Ian+Gordon&amp;search_field=search</field>
+</doc>
+</add>

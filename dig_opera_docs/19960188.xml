@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960188</field>
+<field name="title">Antigone oder Die Stadt</field>
+<field name="titlesort">Antigone oder Die Stadt</field>
+<field name="composer">Georg Katzer</field>
+<field name="composersort">Katzer, Georg</field>
+<field name="year">1991</field>
+<field name="date">October 19, 1991</field>
+<field name="librettist">Gerhard Müller</field>
+<field name="librettistsort">Müller, Gerhard</field>
+<field name="theater">Komische Oper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Antigone+oder+Die+Stadt+Georg+Katzer&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962573</field>
+<field name="title">The Golden Ax</field>
+<field name="titlesort">Golden Ax</field>
+<field name="composer">David Heuser</field>
+<field name="composersort">Heuser, David</field>
+<field name="year">2008</field>
+<field name="date">July 11, 2008</field>
+<field name="librettist">Gary Albright</field>
+<field name="librettistsort">Albright, Gary</field>
+<field name="theater">Cactus Pear Music Festival</field>
+<field name="city">San Antonio</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Golden+Ax+David+Heuser&amp;search_field=search</field>
+</doc>
+</add>

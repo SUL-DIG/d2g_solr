@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960831</field>
+<field name="title">Ever Since Eden</field>
+<field name="titlesort">Ever Since Eden</field>
+<field name="composer">Bruce Trinkley</field>
+<field name="composersort">Trinkley, Bruce</field>
+<field name="year">1997</field>
+<field name="date">April 17, 1997</field>
+<field name="librettist">J. Jason Charnesky</field>
+<field name="librettistsort">Charnesky, J. Jason</field>
+<field name="theater">Pennsylvania State University</field>
+<field name="city">State College</field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ever+Since+Eden+Bruce+Trinkley&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960491</field>
+<field name="title">Daral Shaga</field>
+<field name="titlesort">Daral Shaga</field>
+<field name="composer">Kris Defoort</field>
+<field name="composersort">Defoort, Kris</field>
+<field name="year">2014</field>
+<field name="date">September 25, 2014</field>
+<field name="librettist">Laurent Gaudé</field>
+<field name="librettistsort">Gaudé, Laurent</field>
+<field name="theater">Opéra-Théâtre</field>
+<field name="city">Limoges</field>
+<field name="region">Haute-Vienne</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daral+Shaga+Kris+Defoort&amp;search_field=search</field>
+</doc>
+</add>

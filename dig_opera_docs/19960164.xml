@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960164</field>
+<field name="title">Angel Square</field>
+<field name="titlesort">Angel Square</field>
+<field name="composer">Clifford Crawley</field>
+<field name="composersort">Crawley, Clifford</field>
+<field name="year">1996</field>
+<field name="date">December 18, 1996</field>
+<field name="librettist">Janet Irwin</field>
+<field name="librettistsort">Irwin, Janet</field>
+<field name="theater">Gladstone Theatre</field>
+<field name="city">Ottawa</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Angel+Square+Clifford+Crawley&amp;search_field=search</field>
+</doc>
+</add>

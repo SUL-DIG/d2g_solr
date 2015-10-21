@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962337</field>
+<field name="title">Sophie's Choice</field>
+<field name="titlesort">Sophie's Choice</field>
+<field name="composer">Nicholas Maw</field>
+<field name="composersort">Maw. Nicholas</field>
+<field name="year">2002</field>
+<field name="date">December 6, 2002</field>
+<field name="librettist">Nicholas Maw</field>
+<field name="librettistsort">Maw. Nicholas</field>
+<field name="librettist">William Styron</field>
+<field name="librettistsort">Styron, William</field>
+<field name="theater">Royal Opera House, Covent Garden</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sophie's+Choice+Nicholas+Maw&amp;search_field=search</field>
+</doc>
+</add>

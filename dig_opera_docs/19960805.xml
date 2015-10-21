@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960805</field>
+<field name="title">Enemies, A Love Story</field>
+<field name="titlesort">Enemies, A Love Story</field>
+<field name="composer">Ben Moore</field>
+<field name="composersort">Moore, Ben</field>
+<field name="year">2015</field>
+<field name="date">February 20, 2015</field>
+<field name="librettist">Nahma Sandrow</field>
+<field name="librettistsort">Sandrow, Nahma</field>
+<field name="librettist">Isaac Bashevis Singer</field>
+<field name="librettistsort">Singer, Isaac Bashevis</field>
+<field name="theater">Kravis Center for the Performing Arts</field>
+<field name="city">West Palm Beach</field>
+<field name="region">Florida</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Enemies,+A+Love+Story+Ben+Moore&amp;search_field=search</field>
+</doc>
+</add>

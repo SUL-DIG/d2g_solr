@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962545</field>
+<field name="title">The Fashion</field>
+<field name="titlesort">Fashion</field>
+<field name="composer">Giorgio Battistelli</field>
+<field name="composersort">Battistelli, Giorgio</field>
+<field name="year">2008</field>
+<field name="date">January 26, 2008</field>
+<field name="librettist">Bob Goody</field>
+<field name="librettistsort">Goody, Bob</field>
+<field name="theater">Deutsche Oper am Rhein</field>
+<field name="city">Düsseldorf</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fashion+Giorgio+Battistelli&amp;search_field=search</field>
+</doc>
+</add>

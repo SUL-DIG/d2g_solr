@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961600</field>
+<field name="title">Lucrezia</field>
+<field name="titlesort">Lucrezia</field>
+<field name="composer">William Banfield</field>
+<field name="composersort">Banfield, William</field>
+<field name="year">2008</field>
+<field name="date">March 11, 2008</field>
+<field name="librettist">Mark Campbell</field>
+<field name="librettistsort">Campbell, Mark</field>
+<field name="librettist">Niccolò Machiavelli</field>
+<field name="librettistsort">Machiavelli, Niccolò</field>
+<field name="theater">Carnegie Hall, Weill Recital Hall</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lucrezia+William+Banfield&amp;search_field=search</field>
+</doc>
+</add>

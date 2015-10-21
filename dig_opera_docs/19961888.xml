@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961888</field>
+<field name="title">Olga</field>
+<field name="titlesort">Olga</field>
+<field name="composer">Jorge Antunes</field>
+<field name="composersort">Antunes, Jorge</field>
+<field name="year">2006</field>
+<field name="date">October 14, 2006</field>
+<field name="librettist">Gerson Valle</field>
+<field name="librettistsort">Valle, Gerson</field>
+<field name="theater">Teatro Municipal</field>
+<field name="city">São Paulo</field>
+<field name="region">São Paulo</field>
+<field name="country">Brazil</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Olga+Jorge+Antunes&amp;search_field=search</field>
+</doc>
+</add>

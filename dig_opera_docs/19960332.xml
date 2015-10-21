@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960332</field>
+<field name="title">Błękitny zamek</field>
+<field name="titlesort">Błękitny zamek</field>
+<field name="composer">Roman Czubaty</field>
+<field name="composersort">Czubaty, Roman</field>
+<field name="year">1988</field>
+<field name="date">December 2, 1988</field>
+<field name="librettist">Krystyna Slaska</field>
+<field name="librettistsort">Slaska, Krystyna</field>
+<field name="librettist">Barbara Wachowicz</field>
+<field name="librettistsort">Wachowicz, Barbara</field>
+<field name="theater">Teatr Wielki</field>
+<field name="city">Lodz</field>
+<field name="region">Lódzkie</field>
+<field name="country">Poland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Błękitny+zamek+Roman+Czubaty&amp;search_field=search</field>
+</doc>
+</add>

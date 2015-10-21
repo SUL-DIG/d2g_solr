@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960099</field>
+<field name="title">Akseli</field>
+<field name="titlesort">Akseli</field>
+<field name="composer">Kimmo Hakola</field>
+<field name="composersort">Hakola, Kimmo</field>
+<field name="year">2013</field>
+<field name="date">February 28, 2013</field>
+<field name="librettist">Pekka Hako</field>
+<field name="librettistsort">Hako, Pekka</field>
+<field name="theater">Suomalainen Kamariooppera</field>
+<field name="city">Helsinki</field>
+<field name="region">Uusimaa</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Akseli+Kimmo+Hakola&amp;search_field=search</field>
+</doc>
+</add>

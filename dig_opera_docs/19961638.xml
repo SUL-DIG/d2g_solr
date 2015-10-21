@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961638</field>
+<field name="title">Mali princ (The Little Prince)</field>
+<field name="titlesort">Mali princ (The Little Prince)</field>
+<field name="composer">Toma Prošev</field>
+<field name="composersort">Prošev, Toma</field>
+<field name="year">1966</field>
+<field name="librettist">Antoine de Saint-Exupéry</field>
+<field name="librettistsort">Saint-Exupéry, Antoine de</field>
+<field name="theater">Makedonska Opera i Balet</field>
+<field name="city">Skopje</field>
+<field name="country">Macedonia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mali+princ+(The+Little+Prince)+Toma+Prošev&amp;search_field=search</field>
+</doc>
+</add>

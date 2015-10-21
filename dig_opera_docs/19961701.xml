@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961701</field>
+<field name="title">Med kniven på strupen</field>
+<field name="titlesort">Med kniven på strupen</field>
+<field name="composer">Bertil Palmar Johansen</field>
+<field name="composersort">Johansen, Bertil Palmar</field>
+<field name="year">2010</field>
+<field name="date">February 1, 2010</field>
+<field name="librettist">Vigdis Hjorth</field>
+<field name="librettistsort">Hjorth, Vigdis</field>
+<field name="theater">Operaen i Kristiansund</field>
+<field name="city">Kristiansund</field>
+<field name="region">Møre og Romsdal</field>
+<field name="country">Norway</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Med+kniven+på+strupen+Bertil+Palmar+Johansen&amp;search_field=search</field>
+</doc>
+</add>

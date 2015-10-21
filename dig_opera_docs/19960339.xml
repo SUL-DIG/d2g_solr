@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960339</field>
+<field name="title">Boci-boci tarka</field>
+<field name="titlesort">Boci-boci tarka</field>
+<field name="composer">Otto Vincze</field>
+<field name="composersort">Vincze, Otto</field>
+<field name="year">1953</field>
+<field name="librettist">Mátyás Csizmarek</field>
+<field name="librettistsort">Csizmarek, Mátyás</field>
+<field name="librettist">Erno Innocent-Vincze</field>
+<field name="librettistsort">Innocent-Vincze, Erno</field>
+<field name="theater">Fovárosi Operettszínház</field>
+<field name="city">Budapest</field>
+<field name="country">Hungary</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Boci-boci+tarka+Otto+Vincze&amp;search_field=search</field>
+</doc>
+</add>

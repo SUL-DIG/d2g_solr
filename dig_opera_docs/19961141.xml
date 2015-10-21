@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961141</field>
+<field name="title">Ibn Sina</field>
+<field name="titlesort">Ibn Sina</field>
+<field name="composer">Michiel Borstlap</field>
+<field name="composersort">Borstlap, Michiel</field>
+<field name="year">2003</field>
+<field name="date">October 12, 2003</field>
+<field name="librettist">Ahmed al-Dorsari</field>
+<field name="librettistsort">al-Dorsari, Ahmed</field>
+<field name="theater">Al Jazeera Television</field>
+<field name="city">Doha</field>
+<field name="country">Qatar</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ibn+Sina+Michiel+Borstlap&amp;search_field=search</field>
+</doc>
+</add>

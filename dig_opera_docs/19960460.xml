@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960460</field>
+<field name="title">Columba</field>
+<field name="titlesort">Columba</field>
+<field name="composer">Kenneth Leighton</field>
+<field name="composersort">Leighton, Kenneth</field>
+<field name="year">1981</field>
+<field name="librettist">Edwin Morgan</field>
+<field name="librettistsort">Morgan, Edwin</field>
+<field name="theater">Royal Scottish Academy of Music and Drama</field>
+<field name="city">Glasgow</field>
+<field name="region">Scotland</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Columba+Kenneth+Leighton&amp;search_field=search</field>
+</doc>
+</add>

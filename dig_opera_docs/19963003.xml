@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963003</field>
+<field name="title">Virginie Déjazet</field>
+<field name="titlesort">Virginie Déjazet</field>
+<field name="composer">Georges Van Parys</field>
+<field name="composersort">Van Parys, Georges</field>
+<field name="year">1946</field>
+<field name="date">July 6, 1946</field>
+<field name="librettist">Jean Marsan</field>
+<field name="librettistsort">Marsan, Jean</field>
+<field name="librettist">Raymond Vogel</field>
+<field name="librettistsort">Vogel, Raymond</field>
+<field name="theater">Théâtre des Champs-Élysées</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Virginie+Déjazet+Georges+Van+Parys&amp;search_field=search</field>
+</doc>
+</add>

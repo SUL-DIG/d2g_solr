@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962333</field>
+<field name="title">Song of David</field>
+<field name="titlesort">Song of David</field>
+<field name="composer">Ira Arnstein</field>
+<field name="composersort">Arnstein, Ira</field>
+<field name="year">1925</field>
+<field name="date">May 17, 1925</field>
+<field name="theater">Aeolian Hall</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Song+of+David+Ira+Arnstein&amp;search_field=search</field>
+</doc>
+</add>

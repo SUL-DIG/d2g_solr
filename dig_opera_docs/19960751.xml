@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960751</field>
+<field name="title">Egoland</field>
+<field name="titlesort">Egoland</field>
+<field name="composer">John Frandsen</field>
+<field name="composersort">Frandsen, John</field>
+<field name="year">2013</field>
+<field name="date">August 27, 2013</field>
+<field name="librettist">Ivar Gjørup</field>
+<field name="librettistsort">Gjørup, Ivar</field>
+<field name="theater">Helsingør Theater</field>
+<field name="city">Århus</field>
+<field name="region">Midtjylland</field>
+<field name="country">Denmark</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Egoland+John+Frandsen&amp;search_field=search</field>
+</doc>
+</add>

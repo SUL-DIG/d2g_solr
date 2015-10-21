@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960615</field>
+<field name="title">Die drei Kosmonauten</field>
+<field name="titlesort">drei Kosmonauten</field>
+<field name="composer">Wilfried Maria Danner</field>
+<field name="composersort">Danner, Wilfried Maria</field>
+<field name="year">2007</field>
+<field name="librettist">Thomas Höft</field>
+<field name="librettistsort">Höft, Thomas</field>
+<field name="librettist">Umberto Eco</field>
+<field name="librettistsort">Eco, Umberto</field>
+<field name="theater">Bavarian Radio (Bayerischer Rundfunk)</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=drei+Kosmonauten+Wilfried+Maria+Danner&amp;search_field=search</field>
+</doc>
+</add>

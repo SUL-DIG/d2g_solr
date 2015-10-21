@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962314</field>
+<field name="title">Sleeping Beauty</field>
+<field name="titlesort">Sleeping Beauty</field>
+<field name="composer">Richard Gill</field>
+<field name="composersort">Gill, Richard</field>
+<field name="year">2013</field>
+<field name="date">January 17, 2013</field>
+<field name="librettist">Richard Gill</field>
+<field name="librettistsort">Gill, Richard</field>
+<field name="librettist">Jakob & Wilhelm Grimm</field>
+<field name="librettistsort">Grimm, Jakob & Wilhelm</field>
+<field name="theater">Her Majesty's Theatre</field>
+<field name="city">Melbourne</field>
+<field name="region">Victoria</field>
+<field name="country">Australia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sleeping+Beauty+Richard+Gill&amp;search_field=search</field>
+</doc>
+</add>

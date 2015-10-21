@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961383</field>
+<field name="title">La casa de Bernarda Alba</field>
+<field name="titlesort">casa de Bernarda Alba</field>
+<field name="composer">Miguel Ortega</field>
+<field name="composersort">Ortega, Miguel</field>
+<field name="year">2009</field>
+<field name="date">August 8, 2009</field>
+<field name="librettist">Julio Ramos</field>
+<field name="librettistsort">Ramos, Julio</field>
+<field name="librettist">Federico García Lorca</field>
+<field name="librettistsort">García Lorca, Federico</field>
+<field name="theater">Castillo de Peralada</field>
+<field name="city">Peralada</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=casa+de+Bernarda+Alba+Miguel+Ortega&amp;search_field=search</field>
+</doc>
+</add>

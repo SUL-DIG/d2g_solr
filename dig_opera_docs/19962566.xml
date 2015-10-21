@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962566</field>
+<field name="title">The Gift of the Magi</field>
+<field name="titlesort">Gift of the Magi</field>
+<field name="composer">David Conte</field>
+<field name="composersort">Conte, David</field>
+<field name="year">1997</field>
+<field name="date">December 7, 1997</field>
+<field name="librettist">Nicholas Giardini</field>
+<field name="librettistsort">Giardini, Nicholas</field>
+<field name="librettist">[William Sydney Porter] O. Henry</field>
+<field name="librettistsort">Henry, O. [William Sydney Porter]</field>
+<field name="theater">Conservatory of Music</field>
+<field name="city">San Francisco</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gift+of+the+Magi+David+Conte&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960587</field>
+<field name="title">Der Sturz des Antichrist</field>
+<field name="titlesort">Sturz des Antichrist</field>
+<field name="composer">Viktor Ullmann</field>
+<field name="composersort">Ullmann, Viktor</field>
+<field name="year">2014</field>
+<field name="date">October 18, 2014</field>
+<field name="librettist">Albert Steffen</field>
+<field name="librettistsort">Steffen, Albert</field>
+<field name="theater">Miroslav Oswald Moravské Divadlo</field>
+<field name="city">Olomouc</field>
+<field name="region">Severomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sturz+des+Antichrist+Viktor+Ullmann&amp;search_field=search</field>
+</doc>
+</add>

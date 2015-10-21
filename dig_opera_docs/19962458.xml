@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962458</field>
+<field name="title">The Binding of Isaac</field>
+<field name="titlesort">Binding of Isaac</field>
+<field name="composer">Linder Chlarson</field>
+<field name="composersort">Chlarson, Linder</field>
+<field name="year">1998</field>
+<field name="date">April 1, 1998</field>
+<field name="librettist">Marvin Gottlieb</field>
+<field name="librettistsort">Gottlieb, Marvin</field>
+<field name="theater">Crystal Opera Consortium</field>
+<field name="city">Norwalk</field>
+<field name="region">Connecticut</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Binding+of+Isaac+Linder+Chlarson&amp;search_field=search</field>
+</doc>
+</add>

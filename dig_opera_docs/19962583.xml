@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962583</field>
+<field name="title">The Hobbitt</field>
+<field name="titlesort">Hobbitt</field>
+<field name="composer">Dean Burry</field>
+<field name="composersort">Burry, Dean</field>
+<field name="year">2004</field>
+<field name="date">May 15, 2004</field>
+<field name="librettist">Dean Burry</field>
+<field name="librettistsort">Burry, Dean</field>
+<field name="librettist">John Ronald Reuel Tolkien</field>
+<field name="librettistsort">Tolkien, John Ronald Reuel</field>
+<field name="theater">Harbourfront Centre</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hobbitt+Dean+Burry&amp;search_field=search</field>
+</doc>
+</add>

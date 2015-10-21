@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960583</field>
+<field name="title">Der Schild</field>
+<field name="titlesort">Schild</field>
+<field name="composer">Leopold Eugen Měchura</field>
+<field name="composersort">Měchura, Leopold Eugen</field>
+<field name="year">1845</field>
+<field name="librettist">Karl Egon Ebert</field>
+<field name="librettistsort">Ebert, Karl Egon</field>
+<field name="theater">Private Performance</field>
+<field name="city">Klatovy</field>
+<field name="region">Západocesky Kraj</field>
+<field name="country">Czech Republic</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schild+Leopold+Eugen+Měchura&amp;search_field=search</field>
+</doc>
+</add>

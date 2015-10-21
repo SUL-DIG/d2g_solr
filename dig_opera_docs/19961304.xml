@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961304</field>
+<field name="title">Keplers Traum</field>
+<field name="titlesort">Keplers Traum</field>
+<field name="composer">Giorgio Battistelli</field>
+<field name="composersort">Battistelli, Giorgio</field>
+<field name="year">1990</field>
+<field name="date">September 9, 1990</field>
+<field name="librettist">Giorgio Battistelli</field>
+<field name="librettistsort">Battistelli, Giorgio</field>
+<field name="theater">Brucknerhaus</field>
+<field name="city">Linz</field>
+<field name="region">Oberösterreich</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Keplers+Traum+Giorgio+Battistelli&amp;search_field=search</field>
+</doc>
+</add>

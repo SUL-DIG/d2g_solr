@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962714</field>
+<field name="title">The Ransom of Red Cief</field>
+<field name="titlesort">Ransom of Red Cief</field>
+<field name="composer">Robert Xavier Rodriguez</field>
+<field name="composersort">Rodriguez, Robert Xavier</field>
+<field name="year">1986</field>
+<field name="date">October 10, 1986</field>
+<field name="librettist">Daniel Dibbern</field>
+<field name="librettistsort">Dibbern, Daniel</field>
+<field name="librettist">[William Sydney Porter] O. Henry</field>
+<field name="librettistsort">Henry, O. [William Sydney Porter]</field>
+<field name="theater">Dallas Opera</field>
+<field name="city">Mesquite</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ransom+of+Red+Cief+Robert+Xavier+Rodriguez&amp;search_field=search</field>
+</doc>
+</add>

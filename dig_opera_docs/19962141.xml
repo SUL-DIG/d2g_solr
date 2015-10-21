@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962141</field>
+<field name="title">Requiem for the Living</field>
+<field name="titlesort">Requiem for the Living</field>
+<field name="composer">Ronnie Reshef</field>
+<field name="composersort">Reshef, Ronnie </field>
+<field name="year">2009</field>
+<field name="date">May 6, 2009</field>
+<field name="librettist">Amikam Kovner</field>
+<field name="librettistsort">Kovner, Amikam</field>
+<field name="theater">Mannes College of Music</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Requiem+for+the+Living+Ronnie Reshef&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962013</field>
+<field name="title">Pinguine können keinen Käsekuchen backen</field>
+<field name="titlesort">Pinguine können keinen Käsekuchen backen</field>
+<field name="composer">Britta Wiese</field>
+<field name="composersort">Wiese, Britta</field>
+<field name="year">2001</field>
+<field name="date">October 1, 2001</field>
+<field name="librettist">Ulrich Hub</field>
+<field name="librettistsort">Hub, Ulrich</field>
+<field name="theater">Städtische Bühnen</field>
+<field name="city">Wuppertal</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pinguine+können+keinen+Käsekuchen+backen+Britta+Wiese&amp;search_field=search</field>
+</doc>
+</add>

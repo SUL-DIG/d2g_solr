@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961441</field>
+<field name="title">La Proserpina rapita</field>
+<field name="titlesort">Proserpina rapita</field>
+<field name="composer">Pompeo Colonna, principe de Gallicano</field>
+<field name="composersort">Gallicano, Pompeo Colonna, principe de</field>
+<field name="year">1645</field>
+<field name="librettist">Ottaviano Castelli</field>
+<field name="librettistsort">Castelli, Ottaviano</field>
+<field name="theater">Palazzo Colonna</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Proserpina+rapita+Pompeo+Colonna,+principe+de+Gallicano+&amp;search_field=search</field>
+</doc>
+</add>

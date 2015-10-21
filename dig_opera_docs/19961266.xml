@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961266</field>
+<field name="title">K. Beskrivning av en kamp</field>
+<field name="titlesort">K. Beskrivning av en kamp</field>
+<field name="composer">Jan Sandström</field>
+<field name="composersort">Sandström, Jan</field>
+<field name="year">2005</field>
+<field name="date">September 24, 2005</field>
+<field name="librettist">Josef Kroutvor</field>
+<field name="librettistsort">Kroutvor, Josef</field>
+<field name="librettist">David Radok</field>
+<field name="librettistsort">Radok, David</field>
+<field name="theater">GöteborgsOperan</field>
+<field name="city">Göteborg</field>
+<field name="region">Göteborg och Bohus</field>
+<field name="country">Sweden</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=K.+Beskrivning+av+en+kamp+Jan+Sandström&amp;search_field=search</field>
+</doc>
+</add>

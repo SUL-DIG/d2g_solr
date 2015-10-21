@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962935</field>
+<field name="title">Two Boys</field>
+<field name="titlesort">Two Boys</field>
+<field name="composer">Nico Muhly</field>
+<field name="composersort">Muhly, Nico</field>
+<field name="year">2011</field>
+<field name="date">June 24, 2011</field>
+<field name="librettist">Craig Lucas</field>
+<field name="librettistsort">Lucas, Craig</field>
+<field name="theater">Coliseum</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Two+Boys+Nico+Muhly&amp;search_field=search</field>
+</doc>
+</add>

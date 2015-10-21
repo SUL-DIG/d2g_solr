@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961671</field>
+<field name="title">Maror</field>
+<field name="titlesort">Maror</field>
+<field name="composer">Manuel Palau</field>
+<field name="composersort">Palau, Manuel</field>
+<field name="year">2002</field>
+<field name="date">May 23, 2002</field>
+<field name="librettist">Xavier Casp</field>
+<field name="librettistsort">Casp, Xavier</field>
+<field name="theater">Palau de la Música</field>
+<field name="city">Valencia</field>
+<field name="region">Valencia</field>
+<field name="country">Spain</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maror+Manuel+Palau&amp;search_field=search</field>
+</doc>
+</add>

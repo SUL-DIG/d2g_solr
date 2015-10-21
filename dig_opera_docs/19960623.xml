@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960623</field>
+<field name="title">Die grosse Bäckereiattacke</field>
+<field name="titlesort">grosse Bäckereiattacke</field>
+<field name="composer">Misato Mochizuki</field>
+<field name="composersort">Mochizuki, Misato</field>
+<field name="year">2009</field>
+<field name="date">January 24, 2009</field>
+<field name="librettist">Yohanan Kaldi</field>
+<field name="librettistsort">Kaldi, Yohanan</field>
+<field name="librettist">Haruki Murakami</field>
+<field name="librettistsort">Murakami, Haruki</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Lucerne</field>
+<field name="region">Luzern</field>
+<field name="country">Switzerland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=grosse+Bäckereiattacke+Misato+Mochizuki&amp;search_field=search</field>
+</doc>
+</add>

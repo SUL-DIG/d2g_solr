@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961637</field>
+<field name="title">Maldoror</field>
+<field name="titlesort">Maldoror</field>
+<field name="composer">Philipp Maintz</field>
+<field name="composersort">Maintz, Philipp</field>
+<field name="year">2010</field>
+<field name="date">April 27, 2010</field>
+<field name="librettist">Thomas Fiedler</field>
+<field name="librettistsort">Fiedler, Thomas</field>
+<field name="librettist">[Isidore-Lucien Ducasse] Comte de Lautréamont</field>
+<field name="librettistsort">Comte de Lautréamont, [Isidore-Lucien Ducasse]</field>
+<field name="theater">Biennale</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maldoror+Philipp+Maintz&amp;search_field=search</field>
+</doc>
+</add>

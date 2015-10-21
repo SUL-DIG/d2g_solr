@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962043</field>
+<field name="title">Precari</field>
+<field name="titlesort">Precari</field>
+<field name="composer">Brent Straughan </field>
+<field name="composersort">Straughan, Brent</field>
+<field name="year">2014</field>
+<field name="date">May 8, 2014</field>
+<field name="librettist">Brent Straughan </field>
+<field name="librettistsort">Straughan, Brent</field>
+<field name="theater">McDavid Studio</field>
+<field name="city">Fort Worth</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Precari+Brent+Straughan+&amp;search_field=search</field>
+</doc>
+</add>

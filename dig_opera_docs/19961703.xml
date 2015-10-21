@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961703</field>
+<field name="title">Medea</field>
+<field name="titlesort">Medea</field>
+<field name="composer">Gordon Kerry</field>
+<field name="composersort">Kerry, Gordon</field>
+<field name="year">1993</field>
+<field name="date">April 29, 1993</field>
+<field name="librettist">Justin Macdonnell</field>
+<field name="librettistsort">Macdonnell, Justin</field>
+<field name="librettist">Lucius Annaeus Seneca</field>
+<field name="librettistsort">Seneca, Lucius Annaeus</field>
+<field name="theater">Athenaeum Theatre</field>
+<field name="city">Melbourne</field>
+<field name="region">Victoria</field>
+<field name="country">Australia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Medea+Gordon+Kerry&amp;search_field=search</field>
+</doc>
+</add>

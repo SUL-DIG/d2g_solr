@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961476</field>
+<field name="title">Le coucher de Suzette </field>
+<field name="titlesort">coucher de Suzette </field>
+<field name="composer">Henri Mailfait </field>
+<field name="composersort">Mailfait, Henri</field>
+<field name="year">1896</field>
+<field name="date">3 Jan 1896</field>
+<field name="librettist">__ Modéi</field>
+<field name="librettistsort">Modéi, __</field>
+<field name="librettist">L. Février </field>
+<field name="librettistsort">Février, L.</field>
+<field name="theater">Théâtre de l'Alcazar</field>
+<field name="city">Tours</field>
+<field name="region">Indre-et-Loire</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=coucher+de+Suzette++Henri+Mailfait+&amp;search_field=search</field>
+</doc>
+</add>

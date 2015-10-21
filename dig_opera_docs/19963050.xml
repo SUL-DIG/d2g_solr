@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963050</field>
+<field name="title">Where Angels Fear to Tread</field>
+<field name="titlesort">Where Angels Fear to Tread</field>
+<field name="composer">Mark Lanz Weiser</field>
+<field name="composersort">Weiser, Mark Lanz</field>
+<field name="year">1999</field>
+<field name="date">February 25, 1999</field>
+<field name="librettist">Roger Brunyate</field>
+<field name="librettistsort">Brunyate, Roger</field>
+<field name="librettist">Edward Morgan Forster</field>
+<field name="librettistsort">Forster, Edward Morgan</field>
+<field name="theater">Peabody Conservatory</field>
+<field name="city">Baltimore</field>
+<field name="region">Maryland</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Where+Angels+Fear+to+Tread+Mark+Lanz+Weiser&amp;search_field=search</field>
+</doc>
+</add>

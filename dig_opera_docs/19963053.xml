@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963053</field>
+<field name="title">Whisper Down the Lane</field>
+<field name="titlesort">Whisper Down the Lane</field>
+<field name="composer">Catherine Kontz</field>
+<field name="composersort">Kontz, Catherine</field>
+<field name="year">2014</field>
+<field name="date">July 24, 2014</field>
+<field name="librettist">Catherine Kontz</field>
+<field name="librettistsort">Kontz, Catherine</field>
+<field name="theater">Central Saint Martins, King's Cross</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Whisper+Down+the+Lane+Catherine+Kontz&amp;search_field=search</field>
+</doc>
+</add>

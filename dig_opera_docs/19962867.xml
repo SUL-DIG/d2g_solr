@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962867</field>
+<field name="title">Thora på Rimol</field>
+<field name="titlesort">Thora på Rimol</field>
+<field name="composer">Hjalmar Borgstrøm</field>
+<field name="composersort">Borgstrøm, Hjalmar</field>
+<field name="year">2002</field>
+<field name="date">October 17, 2002</field>
+<field name="librettist">Hjalmar Borgstrøm</field>
+<field name="librettistsort">Borgstrøm, Hjalmar</field>
+<field name="theater">Melhushallen</field>
+<field name="city">Trondheim</field>
+<field name="region">Sør-Trøndelag</field>
+<field name="country">Norway</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Thora+på+Rimol+Hjalmar+Borgstrøm&amp;search_field=search</field>
+</doc>
+</add>

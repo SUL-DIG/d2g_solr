@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961611</field>
+<field name="title">Lysistrata</field>
+<field name="titlesort">Lysistrata</field>
+<field name="composer">John Dankworth</field>
+<field name="composersort">Dankworth, John</field>
+<field name="year">1964</field>
+<field name="date">June 9, 1964</field>
+<field name="librettist">Benny Green</field>
+<field name="librettistsort">Green, Benny</field>
+<field name="theater">Theatre Royal</field>
+<field name="city">Bath</field>
+<field name="region">Somerset</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lysistrata+John+Dankworth&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960732</field>
+<field name="title">Dumb Love</field>
+<field name="titlesort">Dumb Love</field>
+<field name="composer">Jerome Hopkins</field>
+<field name="composersort">Hopkins, Jerome</field>
+<field name="year">1878</field>
+<field name="date">7 May 1878</field>
+<field name="theater">Academy of Music</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dumb+Love+Jerome+Hopkins&amp;search_field=search</field>
+</doc>
+</add>

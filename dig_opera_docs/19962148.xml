@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962148</field>
+<field name="title">Richard III</field>
+<field name="titlesort">Richard III</field>
+<field name="composer">Giorgio Battistelli</field>
+<field name="composersort">Battistelli, Giorgio</field>
+<field name="year">2005</field>
+<field name="date">January 30, 2005</field>
+<field name="librettist">Ian Burton</field>
+<field name="librettistsort">Burton, Ian</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistsort">Shakespeare, William</field>
+<field name="theater">Koninklijk Conservatorium</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Richard+III+Giorgio+Battistelli&amp;search_field=search</field>
+</doc>
+</add>

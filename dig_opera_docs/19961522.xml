@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961522</field>
+<field name="title">Les boulingrin</field>
+<field name="titlesort">boulingrin</field>
+<field name="composer">Georges Aperghis</field>
+<field name="composersort">Aperghis, Georges</field>
+<field name="year">2010</field>
+<field name="date">May 12, 2010</field>
+<field name="librettist">Georges Courteline</field>
+<field name="librettistsort">Courteline, Georges</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=boulingrin+Georges+Aperghis&amp;search_field=search</field>
+</doc>
+</add>

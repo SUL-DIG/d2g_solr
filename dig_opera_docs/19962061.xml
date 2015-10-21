@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962061</field>
+<field name="title">Prospero</field>
+<field name="titlesort">Prospero</field>
+<field name="composer">Luca Lombardi</field>
+<field name="composersort">Lombardi, Luca</field>
+<field name="year">2006</field>
+<field name="date">May 15, 2006</field>
+<field name="librettist">Friedrich Christian Delius</field>
+<field name="librettistsort">Delius, Friedrich Christian</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistsort">Shakespeare, William</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Nuremberg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prospero+Luca+Lombardi&amp;search_field=search</field>
+</doc>
+</add>

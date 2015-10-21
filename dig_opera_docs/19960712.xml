@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960712</field>
+<field name="title">Dracula, the Opera</field>
+<field name="titlesort">Dracula, the Opera</field>
+<field name="composer">Paul Ziemba</field>
+<field name="composersort">Ziemba, Paul</field>
+<field name="year">2000</field>
+<field name="date">April 28, 2000</field>
+<field name="librettist">Paul Ziemba</field>
+<field name="librettistsort">Ziemba, Paul</field>
+<field name="librettist">Bram Stoker</field>
+<field name="librettistsort">Stoker, Bram</field>
+<field name="theater">Lancaster Opera House</field>
+<field name="city">Lancaster </field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dracula,+the+Opera+Paul+Ziemba&amp;search_field=search</field>
+</doc>
+</add>

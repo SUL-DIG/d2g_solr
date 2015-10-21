@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962404</field>
+<field name="title">Sweetness and Badness</field>
+<field name="titlesort">Sweetness and Badness</field>
+<field name="composer">Will Todd</field>
+<field name="composersort">Todd, Will</field>
+<field name="year">2006</field>
+<field name="date">November 22, 2006</field>
+<field name="librettist">Michael Wicherek</field>
+<field name="librettistsort">Wicherek, Michael</field>
+<field name="theater">Millenium Centre</field>
+<field name="city">Cardiff</field>
+<field name="region">Wales </field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sweetness+and+Badness+Will+Todd&amp;search_field=search</field>
+</doc>
+</add>

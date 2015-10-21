@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961874</field>
+<field name="title">Odysseia</field>
+<field name="titlesort">Odysseia</field>
+<field name="composer">Gunnar Bucht</field>
+<field name="composersort">Bucht, Gunnar</field>
+<field name="year">2003</field>
+<field name="librettist">Nikos Kazantzakis</field>
+<field name="librettistsort">Kazantzakis, Nikos</field>
+<field name="genre">Oratorio</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Odysseia+Gunnar+Bucht&amp;search_field=search</field>
+</doc>
+</add>

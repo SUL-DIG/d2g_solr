@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960093</field>
+<field name="title">Airborne</field>
+<field name="titlesort">Airborne</field>
+<field name="composer">Cecilia McDowall</field>
+<field name="composersort">McDowall, Cecilia</field>
+<field name="year">2014</field>
+<field name="date">July 29, 2014</field>
+<field name="librettist">Andy Rashleigh</field>
+<field name="librettistsort">Rashleigh, Andy</field>
+<field name="theater">Rosslyn Hill Unitarian Chapel</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Airborne+Cecilia+McDowall&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962001</field>
+<field name="title">Picnic</field>
+<field name="titlesort">Picnic</field>
+<field name="composer">Libby Larsen</field>
+<field name="composersort">Larsen, Libby</field>
+<field name="year">2009</field>
+<field name="date">April 2, 2009</field>
+<field name="librettist">David Holley</field>
+<field name="librettistsort">Holley, David</field>
+<field name="librettist">William Inge</field>
+<field name="librettistsort">Inge, William</field>
+<field name="theater">University of North Carolina</field>
+<field name="city">Greensboro</field>
+<field name="region">North Carolina</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Picnic+Libby+Larsen&amp;search_field=search</field>
+</doc>
+</add>

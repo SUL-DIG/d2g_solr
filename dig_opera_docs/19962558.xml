@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962558</field>
+<field name="title">The Fox and the Pomegranate</field>
+<field name="titlesort">Fox and the Pomegranate</field>
+<field name="composer">Matt Frey</field>
+<field name="composersort">Frey, Matt </field>
+<field name="year">2013</field>
+<field name="date">May 10, 2013</field>
+<field name="librettist">Daniel J. Kushner</field>
+<field name="librettistsort">Kushner, Daniel J.</field>
+<field name="theater">McDavid Studio</field>
+<field name="city">Fort Worth</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fox+and+the+Pomegranate+Matt Frey&amp;search_field=search</field>
+</doc>
+</add>

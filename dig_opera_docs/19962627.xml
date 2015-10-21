@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962627</field>
+<field name="title">The Lion's Face</field>
+<field name="titlesort">Lion's Face</field>
+<field name="composer">Elena Langer</field>
+<field name="composersort">Langer, Elena</field>
+<field name="year">2010</field>
+<field name="date">May 20, 2010</field>
+<field name="librettist">Glyn Maxwell</field>
+<field name="librettistsort">Maxwell, Glyn</field>
+<field name="theater">Theatre Royal</field>
+<field name="city">Brighton</field>
+<field name="region">East Sussex</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lion's+Face+Elena+Langer&amp;search_field=search</field>
+</doc>
+</add>

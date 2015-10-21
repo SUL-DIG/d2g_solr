@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962193</field>
+<field name="title">Runeberg</field>
+<field name="titlesort">Runeberg</field>
+<field name="composer">Pentti Tynkkynen</field>
+<field name="composersort">Tynkkynen, Pentti</field>
+<field name="year">2000</field>
+<field name="date">June 30, 2000</field>
+<field name="librettist">Pentti Tynkkynen</field>
+<field name="librettistsort">Tynkkynen, Pentti</field>
+<field name="theater">Teatteri Lumpero</field>
+<field name="city">Saarijärvi</field>
+<field name="region">Keski-Suomi</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Runeberg+Pentti+Tynkkynen&amp;search_field=search</field>
+</doc>
+</add>

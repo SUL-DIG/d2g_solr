@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962209</field>
+<field name="title">Samson and the Witch</field>
+<field name="titlesort">Samson and the Witch</field>
+<field name="composer">Joseph Baber</field>
+<field name="composersort">Baber, Joseph</field>
+<field name="year">1995</field>
+<field name="date">May 1, 1995</field>
+<field name="librettist">John Gardner</field>
+<field name="librettistsort">Gardner, John</field>
+<field name="theater">Opera Company of Central Kentucky</field>
+<field name="city">Lexington</field>
+<field name="region">Kentucky</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Samson+and+the+Witch+Joseph+Baber&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962405</field>
+<field name="title">Swerlians </field>
+<field name="titlesort">Swerlians </field>
+<field name="composer">Dmitri Kourliandski</field>
+<field name="composersort">Kourliandski, Dmitri</field>
+<field name="year">2012</field>
+<field name="date">December 2, 2012</field>
+<field name="librettist">Boris Yukhananov</field>
+<field name="librettistsort">Yukhananov, Boris</field>
+<field name="city">Moscow</field>
+<field name="country">Russia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Swerlians++Dmitri+Kourliandski&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960772</field>
+<field name="title">El Mozote</field>
+<field name="titlesort">Mozote</field>
+<field name="composer">Luis Díaz Hérodier</field>
+<field name="composersort">Hérodier, Luis Díaz</field>
+<field name="year">2008</field>
+<field name="date">November 21, 2008</field>
+<field name="librettist">Claudia Hérodier</field>
+<field name="librettistsort">Hérodier, Claudia</field>
+<field name="theater">Palacio de los Deportes</field>
+<field name="city">Bogota</field>
+<field name="country">Columbia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mozote+Luis+Díaz+Hérodier&amp;search_field=search</field>
+</doc>
+</add>

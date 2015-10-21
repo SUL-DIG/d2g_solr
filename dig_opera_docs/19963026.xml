@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963026</field>
+<field name="title">Vrac (The Doctor)</field>
+<field name="titlesort">Vrac (The Doctor)</field>
+<field name="composer">Ivo Medek</field>
+<field name="composersort">Medek, Ivo</field>
+<field name="year">1970</field>
+<field name="date">January 1, 1970</field>
+<field name="librettist">Ivo Medek</field>
+<field name="librettistsort">Medek, Ivo</field>
+<field name="librettist">Anton Pavlovich Chekhov</field>
+<field name="librettistsort">Chekhov, Anton Pavlovich</field>
+<field name="theater">Divadlo Barka</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vrac+(The+Doctor)+Ivo+Medek&amp;search_field=search</field>
+</doc>
+</add>

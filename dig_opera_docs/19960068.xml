@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960068</field>
+<field name="title">Abinadi</field>
+<field name="titlesort">Abinadi</field>
+<field name="composer">M. Ryan Taylor</field>
+<field name="composersort">Taylor, M. Ryan</field>
+<field name="year">2003</field>
+<field name="date">October 24, 2003</field>
+<field name="librettist">M. Ryan Taylor</field>
+<field name="librettistsort">Taylor, M. Ryan</field>
+<field name="theater">Brigham Young University</field>
+<field name="city">Provo</field>
+<field name="region">Utah</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Abinadi+M.+Ryan+Taylor&amp;search_field=search</field>
+</doc>
+</add>

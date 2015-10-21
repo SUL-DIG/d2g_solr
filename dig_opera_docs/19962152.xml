@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962152</field>
+<field name="title">Riders to the Sea</field>
+<field name="titlesort">Riders to the Sea</field>
+<field name="composer">Marga Richter</field>
+<field name="composersort">Richter, Marga</field>
+<field name="year">2002</field>
+<field name="date">December 6, 2002</field>
+<field name="librettist">John Millington Synge</field>
+<field name="librettistsort">Synge, John Millington</field>
+<field name="theater">St. Mark's Episcopal Church, Jackson Heights</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Riders+to+the+Sea+Marga+Richter&amp;search_field=search</field>
+</doc>
+</add>

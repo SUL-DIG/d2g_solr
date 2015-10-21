@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962982</field>
+<field name="title">Vastation</field>
+<field name="titlesort">Vastation</field>
+<field name="composer">Samy Moussa</field>
+<field name="composersort">Moussa, Samy</field>
+<field name="year">2014</field>
+<field name="date">May 8, 2014</field>
+<field name="librettist">Toby Litt</field>
+<field name="librettistsort">Litt, Toby</field>
+<field name="theater">Biennale</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vastation+Samy+Moussa&amp;search_field=search</field>
+</doc>
+</add>

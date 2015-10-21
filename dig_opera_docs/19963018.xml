@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19963018</field>
+<field name="title">Volpone</field>
+<field name="titlesort">Volpone</field>
+<field name="composer">John Musto</field>
+<field name="composersort">Musto, John</field>
+<field name="year">2004</field>
+<field name="date">March 10, 2004</field>
+<field name="librettist">Mark Campbell</field>
+<field name="librettistsort">Campbell, Mark</field>
+<field name="librettist">Ben Jonson</field>
+<field name="librettistsort">Jonson, Ben</field>
+<field name="theater">Wolf Trap</field>
+<field name="city">Vienna</field>
+<field name="region">Virginia</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Volpone+John+Musto&amp;search_field=search</field>
+</doc>
+</add>

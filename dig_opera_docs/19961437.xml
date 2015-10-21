@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961437</field>
+<field name="title">La Place de la République</field>
+<field name="titlesort">Place de la République</field>
+<field name="composer">Arnaud Petit</field>
+<field name="composersort">Petit, Arnaud</field>
+<field name="year">1991</field>
+<field name="date">December 19, 1991</field>
+<field name="librettist">Cécile Vargaftig</field>
+<field name="librettistsort">Vargaftig, Cécile</field>
+<field name="theater">Centre Georges Pompidou</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Place+de+la+République+Arnaud+Petit&amp;search_field=search</field>
+</doc>
+</add>

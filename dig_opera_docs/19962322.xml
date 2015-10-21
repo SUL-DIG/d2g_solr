@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962322</field>
+<field name="title">Sol de invierno</field>
+<field name="titlesort">Sol de invierno</field>
+<field name="composer">David del Puerto</field>
+<field name="composersort">Puerto, David del</field>
+<field name="year">2009</field>
+<field name="date">June 16, 2009</field>
+<field name="librettist">David del Puerto</field>
+<field name="librettistsort">Puerto, David del</field>
+<field name="librettist">Henrik Ibsen</field>
+<field name="librettistsort">Ibsen, Henrik</field>
+<field name="theater">Teatros de Canal</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sol+de+invierno+David+del+Puerto&amp;search_field=search</field>
+</doc>
+</add>

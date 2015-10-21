@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961786</field>
+<field name="title">Musical Land</field>
+<field name="titlesort">Musical Land</field>
+<field name="composer">Dariusz Przybylski</field>
+<field name="composersort">Przybylski, Dariusz</field>
+<field name="year">2014</field>
+<field name="date">June 20, 2014</field>
+<field name="librettist">Amy Stebbins</field>
+<field name="librettistsort">Stebbins, Amy</field>
+<field name="librettist">Felix Seiler</field>
+<field name="librettistsort">Seiler, Felix</field>
+<field name="theater">Deutsche Oper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Musical+Land+Dariusz+Przybylski&amp;search_field=search</field>
+</doc>
+</add>

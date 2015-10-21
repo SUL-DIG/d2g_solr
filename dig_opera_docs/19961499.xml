@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961499</field>
+<field name="title">Le vampire et la nymphomane</field>
+<field name="titlesort">vampire et la nymphomane</field>
+<field name="composer">Serge Provost</field>
+<field name="composersort">Provost, Serge</field>
+<field name="year">1996</field>
+<field name="date">September 24, 1996</field>
+<field name="librettist">Claude Gauvreau</field>
+<field name="librettistsort">Gauvreau, Claude</field>
+<field name="theater">Nouvel Ensemble Moderne de Montréal</field>
+<field name="city">Montreal</field>
+<field name="region">Quebec</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=vampire+et+la+nymphomane+Serge+Provost&amp;search_field=search</field>
+</doc>
+</add>

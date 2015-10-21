@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962067</field>
+<field name="title">Pułapka (The Trap)</field>
+<field name="titlesort">Pułapka (The Trap)</field>
+<field name="composer">Zygmunt Krauze</field>
+<field name="composersort">Krauze, Zygmunt</field>
+<field name="year">2011</field>
+<field name="date">December 17, 2011</field>
+<field name="librettist">Grzegorz Jarzyna</field>
+<field name="librettistsort">Jarzyna, Grzegorz</field>
+<field name="librettist">Tadeusz Rózewicz</field>
+<field name="librettistsort">Rózewicz, Tadeusz</field>
+<field name="theater">Warszawska Opera Kameralna</field>
+<field name="city">Warsaw</field>
+<field name="country">Poland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pułapka+(The+Trap)+Zygmunt+Krauze&amp;search_field=search</field>
+</doc>
+</add>

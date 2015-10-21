@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960658</field>
+<field name="title">Die traurige Ballade von John Merrick, genannt: Der Elefantenmensch </field>
+<field name="titlesort">Die traurige Ballade von John Merrick, genannt: Der Elefantenmensch </field>
+<field name="composer">Niclas Ramdohr</field>
+<field name="composersort">Ramdohr, Niclas</field>
+<field name="year">2004</field>
+<field name="date">March 12, 2004</field>
+<field name="librettist">Peter Lund</field>
+<field name="librettistsort">Lund, Peter</field>
+<field name="theater">Neuköllner Oper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die traurige+Ballade+von+John+Merrick,+genannt:+Der+Elefantenmensch +Niclas+Ramdohr&amp;search_field=search</field>
+</doc>
+</add>

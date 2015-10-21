@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962430</field>
+<field name="title">Tea: A Mirror of Soul</field>
+<field name="titlesort">Tea: A Mirror of Soul</field>
+<field name="composer">Tan Dun</field>
+<field name="composersort">Tan Dun</field>
+<field name="year">2002</field>
+<field name="date">October 22, 2002</field>
+<field name="librettist">Tan Dun</field>
+<field name="librettistsort">Tan Dun</field>
+<field name="librettist">Xu Ying</field>
+<field name="librettistsort">Xu Ying</field>
+<field name="theater">Suntory Hall</field>
+<field name="city">Tokyo</field>
+<field name="region">Tokyo</field>
+<field name="country">Japan</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tea:+A+Mirror+of+Soul+Tan+Dun&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962877</field>
+<field name="title">Tilt</field>
+<field name="titlesort">Tilt</field>
+<field name="composer">Klaus Schedl</field>
+<field name="composersort">Schedl, Klaus</field>
+<field name="year">2010</field>
+<field name="date">May 5, 2010</field>
+<field name="librettist">Roland Quitt</field>
+<field name="librettistsort">Quitt, Roland</field>
+<field name="librettist">Walter Raleigh</field>
+<field name="librettistsort">Raleigh, Walter</field>
+<field name="theater">Biennale</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tilt+Klaus+Schedl&amp;search_field=search</field>
+</doc>
+</add>

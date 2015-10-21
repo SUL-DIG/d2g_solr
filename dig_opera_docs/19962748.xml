@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962748</field>
+<field name="title">The Secret World of OG</field>
+<field name="titlesort">Secret World of OG</field>
+<field name="composer">Dean Burry</field>
+<field name="composersort">Burry, Dean</field>
+<field name="year">2010</field>
+<field name="date">May 12, 2010</field>
+<field name="librettist">Dean Burry</field>
+<field name="librettistsort">Burry, Dean</field>
+<field name="librettist">Pierre Berton</field>
+<field name="librettistsort">Berton, Pierre</field>
+<field name="theater">Canadian Opera Company</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Secret+World+of+OG+Dean+Burry&amp;search_field=search</field>
+</doc>
+</add>

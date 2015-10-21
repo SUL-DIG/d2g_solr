@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960518</field>
+<field name="title">De antikwaar (The Antique Dealer)</field>
+<field name="titlesort">antikwaar (The Antique Dealer)</field>
+<field name="composer">Jef Maes</field>
+<field name="composersort">Maes, Jef</field>
+<field name="year">1963</field>
+<field name="date">March 1, 1963</field>
+<field name="librettist">[Cyriel Paul Coupé] Anton van Wilderode</field>
+<field name="librettistsort">Wilderode, Anton van [Cyriel Paul Coupé]</field>
+<field name="theater">BRT Flemish Television (Belgische Radio en Televisie)</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=antikwaar+(The+Antique+Dealer)+Jef+Maes&amp;search_field=search</field>
+</doc>
+</add>

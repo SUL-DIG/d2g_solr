@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962636</field>
+<field name="title">The Lovely Ladies</field>
+<field name="titlesort">Lovely Ladies</field>
+<field name="composer">Peter Cowdrey</field>
+<field name="composersort">Cowdrey, Peter</field>
+<field name="year">2010</field>
+<field name="date">May 12, 2010</field>
+<field name="librettist">Hamish Robinson</field>
+<field name="librettistsort">Robinson, Hamish</field>
+<field name="librettist">Michael Broadbent</field>
+<field name="librettistsort">Broadbent, Michael</field>
+<field name="theater">Christie's</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lovely+Ladies+Peter+Cowdrey&amp;search_field=search</field>
+</doc>
+</add>

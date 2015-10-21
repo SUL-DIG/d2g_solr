@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962486</field>
+<field name="title">The Child Dreams</field>
+<field name="titlesort">Child Dreams</field>
+<field name="composer">Gil Shohat</field>
+<field name="composersort">Shohat, Gil</field>
+<field name="year">2010</field>
+<field name="date">January 18, 2010</field>
+<field name="librettist">Gil Shohat</field>
+<field name="librettistsort">Shohat, Gil</field>
+<field name="librettist">Hanoch Levin</field>
+<field name="librettistsort">Levin, Hanoch</field>
+<field name="theater">Israeli Opera</field>
+<field name="city">Tel Aviv</field>
+<field name="country">Israel</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Child+Dreams+Gil+Shohat&amp;search_field=search</field>
+</doc>
+</add>

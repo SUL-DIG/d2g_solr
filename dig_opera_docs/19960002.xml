@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960002</field>
+<field name="title">...nunc et semper...</field>
+<field name="titlesort">...nunc et semper...</field>
+<field name="composer">Herman Rechberger</field>
+<field name="composersort">Rechberger, Herman</field>
+<field name="year">2000</field>
+<field name="date">July 15, 2000</field>
+<field name="librettist">Paavo Rintala</field>
+<field name="librettistsort">Rintala, Paavo</field>
+<field name="theater">Savonlinnan Ooperajuhlat</field>
+<field name="city">Savonlinna</field>
+<field name="region">Etelä-Savo</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=...nunc+et+semper...+Herman+Rechberger&amp;search_field=search</field>
+</doc>
+</add>

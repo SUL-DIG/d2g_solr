@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962862</field>
+<field name="title">Thérèse Raquin</field>
+<field name="titlesort">Thérèse Raquin</field>
+<field name="composer">Tobias Picker</field>
+<field name="composersort">Picker, Tobias</field>
+<field name="year">2001</field>
+<field name="date">November 30, 2001</field>
+<field name="librettist">Gene Scheer</field>
+<field name="librettistsort">Scheer, Gene</field>
+<field name="librettist">Émile Zola</field>
+<field name="librettistsort">Zola, Émile</field>
+<field name="theater">Winspear Opera House</field>
+<field name="city">Dallas</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Thérèse+Raquin+Tobias+Picker&amp;search_field=search</field>
+</doc>
+</add>

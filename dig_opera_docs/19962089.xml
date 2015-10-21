@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962089</field>
+<field name="title">Quo vadis?</field>
+<field name="titlesort">Quo vadis?</field>
+<field name="composer">Andrey Vladimirovich Shcherbachyov</field>
+<field name="composersort">Shcherbachyov, Andrey Vladimirovich</field>
+<field name="year">1907</field>
+<field name="date">February 20, 1907</field>
+<field name="librettist">Alexey Alexandrovich Stenbok-Fermor</field>
+<field name="librettistsort">Stenbok-Fermor, Alexey Alexandrovich</field>
+<field name="librettist">Henryk Sienkiewicz</field>
+<field name="librettistsort">Sienkiewicz, Henryk</field>
+<field name="theater">Mariinsky Teatr</field>
+<field name="city">St. Petersburg</field>
+<field name="country">Russia</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Quo+vadis?+Andrey+Vladimirovich+Shcherbachyov&amp;search_field=search</field>
+</doc>
+</add>

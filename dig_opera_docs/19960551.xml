@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960551</field>
+<field name="title">Dennis Cleveland</field>
+<field name="titlesort">Dennis Cleveland</field>
+<field name="composer">Mikel Rouse</field>
+<field name="composersort">Rouse, Mikel</field>
+<field name="year">1996</field>
+<field name="date">October 28, 1996</field>
+<field name="librettist">Mikel Rouse</field>
+<field name="librettistsort">Rouse, Mikel</field>
+<field name="librettist">John Ralston Saul</field>
+<field name="librettistsort">Saul, John Ralston</field>
+<field name="theater">The Kitchen</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dennis+Cleveland+Mikel+Rouse&amp;search_field=search</field>
+</doc>
+</add>

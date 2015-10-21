@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961267</field>
+<field name="title">K…</field>
+<field name="titlesort">K…</field>
+<field name="composer">Philippe Manoury</field>
+<field name="composersort">Manoury, Philippe</field>
+<field name="year">2001</field>
+<field name="date">March 14, 2001</field>
+<field name="librettist">André Engel</field>
+<field name="librettistsort">Engel, André</field>
+<field name="librettist">Franz Kafka</field>
+<field name="librettistsort">Kafka, Franz</field>
+<field name="theater">Opéra Bastille</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=K…+Philippe+Manoury&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961955</field>
+<field name="title">Paranoia</field>
+<field name="titlesort">Paranoia</field>
+<field name="composer">Stephen Eddins</field>
+<field name="composersort">Eddins, Stephen</field>
+<field name="year">1998</field>
+<field name="date">March 27, 1998</field>
+<field name="librettist">Phillip Lopate</field>
+<field name="librettistsort">Lopate, Phillip</field>
+<field name="theater">University of Michigan</field>
+<field name="city">Ann Arbor</field>
+<field name="region">Michigan</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paranoia+Stephen+Eddins&amp;search_field=search</field>
+</doc>
+</add>

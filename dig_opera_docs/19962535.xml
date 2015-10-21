@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962535</field>
+<field name="title">The Enchanted Pear Tree</field>
+<field name="titlesort">Enchanted Pear Tree</field>
+<field name="composer">Hall Overton</field>
+<field name="composersort">Overton, Hall</field>
+<field name="year">1950</field>
+<field name="date">February 7, 1950</field>
+<field name="librettist">John Thompson</field>
+<field name="librettistsort">Thompson, John</field>
+<field name="librettist">Giovanni Boccaccio</field>
+<field name="librettistsort">Boccaccio, Giovanni</field>
+<field name="theater">Juilliard School of Music</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Enchanted+Pear+Tree+Hall+Overton&amp;search_field=search</field>
+</doc>
+</add>

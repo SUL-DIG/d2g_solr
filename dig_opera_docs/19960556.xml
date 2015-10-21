@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960556</field>
+<field name="title">Der Cid</field>
+<field name="titlesort">Cid</field>
+<field name="composer">Louis Théodore Gouvy</field>
+<field name="composersort">Gouvy, Louis Théodore</field>
+<field name="year">2011</field>
+<field name="date">June 3, 2011</field>
+<field name="librettist">Moritz Hartmann</field>
+<field name="librettistsort">Hartmann, Moritz</field>
+<field name="librettist">Pierre Corneille</field>
+<field name="librettistsort">Corneille, Pierre</field>
+<field name="theater">Saarländisches Staatstheater</field>
+<field name="city">Saarbrücken</field>
+<field name="region">Saarland</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cid+Louis+Théodore+Gouvy&amp;search_field=search</field>
+</doc>
+</add>

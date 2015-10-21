@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960985</field>
+<field name="title">Get Stuffed</field>
+<field name="titlesort">Get Stuffed</field>
+<field name="composer">Richard Payne</field>
+<field name="composersort">Payne, Richard</field>
+<field name="year">2008</field>
+<field name="date">October 17, 2008</field>
+<field name="librettist">Alexis Diamond</field>
+<field name="librettistsort">Diamond, Alexis</field>
+<field name="theater">Tapestry New Opera Works</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Get+Stuffed+Richard+Payne&amp;search_field=search</field>
+</doc>
+</add>

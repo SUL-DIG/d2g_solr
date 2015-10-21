@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960984</field>
+<field name="title">Gesualdo Considered as a Murderer</field>
+<field name="titlesort">Gesualdo Considered as a Murderer</field>
+<field name="composer">Luca Francesconi</field>
+<field name="composersort">Francesconi, Luca</field>
+<field name="year">2004</field>
+<field name="date">June 5, 2004</field>
+<field name="librettist">Vittorio Sermonti</field>
+<field name="librettistsort">Sermonti, Vittorio</field>
+<field name="theater">Concertgebouw</field>
+<field name="city">Amsterdam</field>
+<field name="region">Noord Holland</field>
+<field name="country">Netherlands</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gesualdo+Considered+as+a+Murderer+Luca+Francesconi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960554</field>
+<field name="title">Der Brandner Kasper</field>
+<field name="titlesort">Brandner Kasper</field>
+<field name="composer">Christian Auer</field>
+<field name="composersort">Auer, Christian</field>
+<field name="year">2012</field>
+<field name="date">July 6, 2012</field>
+<field name="librettist">Karl Heinz Hummel</field>
+<field name="librettistsort">Hummel, Karl Heinz</field>
+<field name="librettist">Franz von Kobells</field>
+<field name="librettistsort">Kobells, Franz von</field>
+<field name="theater">Opernfestival Gut Immling</field>
+<field name="city">Halfing</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Brandner+Kasper+Christian+Auer&amp;search_field=search</field>
+</doc>
+</add>

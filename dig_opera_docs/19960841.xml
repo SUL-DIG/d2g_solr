@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960841</field>
+<field name="title">Fábula</field>
+<field name="titlesort">Fábula</field>
+<field name="composer">Oscar Strasnoy</field>
+<field name="composersort">Strasnoy, Oscar</field>
+<field name="year">2005</field>
+<field name="date">November 27, 2005</field>
+<field name="librettist">Alejandro Tantanian</field>
+<field name="librettistsort">Tantanian, Alejandro</field>
+<field name="librettist">Renate Ackermann</field>
+<field name="librettistsort">Ackermann, Renate</field>
+<field name="theater">Teatro San Martín</field>
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fábula+Oscar+Strasnoy&amp;search_field=search</field>
+</doc>
+</add>

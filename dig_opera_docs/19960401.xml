@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960401</field>
+<field name="title">Casanova</field>
+<field name="titlesort">Casanova</field>
+<field name="composer">Daniel Schnyder</field>
+<field name="composersort">Schnyder, Daniel</field>
+<field name="year">2005</field>
+<field name="date">August 12, 2005</field>
+<field name="librettist">Edoardo Zentner</field>
+<field name="librettistsort">Zentner, Edoardo</field>
+<field name="librettist">Daniel Schnyder</field>
+<field name="librettistsort">Schnyder, Daniel</field>
+<field name="theater">Jotel Palace</field>
+<field name="city">Gstaad</field>
+<field name="region">Bern</field>
+<field name="country">Switzerland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Casanova+Daniel+Schnyder&amp;search_field=search</field>
+</doc>
+</add>

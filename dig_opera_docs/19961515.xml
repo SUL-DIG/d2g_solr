@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961515</field>
+<field name="title">Len Lye</field>
+<field name="titlesort">Len Lye</field>
+<field name="composer">Eve de Castro-Robinson</field>
+<field name="composersort">Castro-Robinson, Eve de</field>
+<field name="year">2012</field>
+<field name="date">September 5, 2012</field>
+<field name="librettist">Roger Horrocks</field>
+<field name="librettistsort">Horrocks, Roger</field>
+<field name="theater">Maidment Theatre</field>
+<field name="city">Auckland</field>
+<field name="country">New Zealand</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Len+Lye+Eve+de+Castro-Robinson&amp;search_field=search</field>
+</doc>
+</add>

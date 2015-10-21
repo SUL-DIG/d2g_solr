@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960960</field>
+<field name="title">Garibaldi en Sicile</field>
+<field name="titlesort">Garibaldi en Sicile</field>
+<field name="composer">Marcello Panni</field>
+<field name="composersort">Panni, Marcello</field>
+<field name="year">2005</field>
+<field name="date">April 16, 2005</field>
+<field name="librettist">Kenneth Koch</field>
+<field name="librettistsort">Koch, Kenneth</field>
+<field name="librettist">Alexandre Dumas</field>
+<field name="librettistsort">Dumas, Alexandre</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Garibaldi+en+Sicile+Marcello+Panni&amp;search_field=search</field>
+</doc>
+</add>

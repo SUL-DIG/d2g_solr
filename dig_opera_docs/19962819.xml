@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962819</field>
+<field name="title">The Uses of Adversity</field>
+<field name="titlesort">Uses of Adversity</field>
+<field name="composer">David Farquhar</field>
+<field name="composersort">Farquhar, David</field>
+<field name="year">1997</field>
+<field name="date">May 23, 1997</field>
+<field name="librettist">David Farquhar</field>
+<field name="librettistsort">Farquhar, David</field>
+<field name="librettist">Raydia d'Elsa</field>
+<field name="librettistsort">Elsa, Raydia d'</field>
+<field name="theater">Bats Theatre</field>
+<field name="city">Wellington</field>
+<field name="country">New Zealand</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Uses+of+Adversity+David+Farquhar&amp;search_field=search</field>
+</doc>
+</add>

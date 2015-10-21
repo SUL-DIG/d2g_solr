@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962267</field>
+<field name="title">She Never Lost a Passenger</field>
+<field name="titlesort">She Never Lost a Passenger</field>
+<field name="composer">Susan Kander</field>
+<field name="composersort">Kander, Susan</field>
+<field name="year">1997</field>
+<field name="date">April 10, 1997</field>
+<field name="librettist">Susan Kander</field>
+<field name="librettistsort">Kander, Susan</field>
+<field name="theater">Lyric Opera</field>
+<field name="city">Kansas City</field>
+<field name="region">Missouri</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=She+Never+Lost+a+Passenger+Susan+Kander&amp;search_field=search</field>
+</doc>
+</add>

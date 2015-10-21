@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961491</field>
+<field name="title">Le rapt de Perséphone</field>
+<field name="titlesort">rapt de Perséphone</field>
+<field name="composer">André Bon</field>
+<field name="composersort">Bon, André</field>
+<field name="year">1987</field>
+<field name="date">January 27, 1987</field>
+<field name="librettist">Dominique Fernandez</field>
+<field name="librettistsort">Fernandez, Dominique</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Nancy</field>
+<field name="region">Meurthe-et-Moselle</field>
+<field name="country">France</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=rapt+de+Perséphone+André+Bon&amp;search_field=search</field>
+</doc>
+</add>

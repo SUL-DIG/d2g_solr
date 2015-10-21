@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19960900</field>
+<field name="title">Florencia en el Amazonas</field>
+<field name="titlesort">Florencia en el Amazonas</field>
+<field name="composer">Daniel Catán</field>
+<field name="composersort">Catán, Daniel</field>
+<field name="year">1996</field>
+<field name="date">October 25, 1996</field>
+<field name="librettist">Marcela Fuentes-Beráin</field>
+<field name="librettistsort">Fuentes-Beráin, Marcela</field>
+<field name="theater">Grand Opera</field>
+<field name="city">Houston</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Florencia+en+el+Amazonas+Daniel+Catán&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961300</field>
+<field name="title">Kein Ort</field>
+<field name="titlesort">Kein Ort</field>
+<field name="composer">Anno Schreier</field>
+<field name="composersort">Schreier, Anno</field>
+<field name="year">2006</field>
+<field name="date">September 22, 2006</field>
+<field name="librettist">Christian Martin Fuchs</field>
+<field name="librettistsort">Fuchs, Christian Martin</field>
+<field name="librettist">Christa Wolf</field>
+<field name="librettistsort">Wolf, Christa</field>
+<field name="theater">Brentanoscheune</field>
+<field name="city">Oestrich Winkel</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kein+Ort+Anno+Schreier&amp;search_field=search</field>
+</doc>
+</add>

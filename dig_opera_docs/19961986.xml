@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961986</field>
+<field name="title">Perlimplín</field>
+<field name="titlesort">Perlimplín</field>
+<field name="composer">Kam Morrill</field>
+<field name="composersort">Morrill, Kam</field>
+<field name="year">1989</field>
+<field name="date">February 18, 1989</field>
+<field name="librettist">Kam Morrill</field>
+<field name="librettistsort">Morrill, Kam</field>
+<field name="librettist">Federico García Lorca</field>
+<field name="librettistsort">García Lorca, Federico</field>
+<field name="theater">Curtis Institute of Music</field>
+<field name="city">Philadelphia</field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Perlimplín+Kam+Morrill&amp;search_field=search</field>
+</doc>
+</add>

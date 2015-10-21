@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19961607</field>
+<field name="title">Luther</field>
+<field name="titlesort">Luther</field>
+<field name="composer">Kari Tikka</field>
+<field name="composersort">Tikka, Kari</field>
+<field name="year">2000</field>
+<field name="date">December 8, 2000</field>
+<field name="librettist">Kari Tikka</field>
+<field name="librettistsort">Tikka, Kari</field>
+<field name="librettist">Jussi Tapola</field>
+<field name="librettistsort">Tapola, Jussi</field>
+<field name="theater">Temppeliaukion kirkko</field>
+<field name="city">Helsinki</field>
+<field name="region">Uusimaa</field>
+<field name="country">Finland</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Luther+Kari+Tikka&amp;search_field=search</field>
+</doc>
+</add>

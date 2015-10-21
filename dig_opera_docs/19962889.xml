@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="id">19962889</field>
+<field name="title">Tod und Teufel</field>
+<field name="titlesort">Tod und Teufel</field>
+<field name="composer">Gerd Kühr</field>
+<field name="composersort">Kühr, Gerd</field>
+<field name="year">1999</field>
+<field name="date">September 17, 1999</field>
+<field name="librettist">Peter Turrini</field>
+<field name="librettistsort">Turrini, Peter</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Graz</field>
+<field name="region">Steiermark</field>
+<field name="country">Austria</field>
+<field name="genre">Opera</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tod+und+Teufel+Gerd+Kühr&amp;search_field=search</field>
+</doc>
+</add>
