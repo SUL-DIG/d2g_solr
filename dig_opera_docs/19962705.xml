@@ -3,12 +3,12 @@
 <field name="id">19962705</field>
 <field name="genre">Operas</field>
 <field name="title">The Princess Perfection</field>
-<field name="titlesort">Princess Perfection</field>
+<field name="titleSort">Princess Perfection</field>
 <field name="composer">Josephine Sherwood</field>
-<field name="composersort">Sherwood, Josephine</field>
+<field name="composerSort">Sherwood, Josephine</field>
 <field name="year">1899</field>
 <field name="librettist">Josephine Sherwood</field>
-<field name="librettistsort">Sherwood, Josephine</field>
+<field name="librettistSort">Sherwood, Josephine</field>
 <field name="theater">Radcliffe College</field>
 <field name="city">Cambridge</field>
 <field name="region">Massachusetts</field>

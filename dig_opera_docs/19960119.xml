@@ -3,12 +3,12 @@
 <field name="id">19960119</field>
 <field name="genre">Operas</field>
 <field name="title">Alice in Wonderland Continued</field>
-<field name="titlesort">Alice in Wonderland Continued</field>
+<field name="titleSort">Alice in Wonderland Continued</field>
 <field name="composer">Mabel Wheeler Daniels</field>
-<field name="composersort">Daniels, Mabel Wheeler</field>
+<field name="composerSort">Daniels, Mabel Wheeler</field>
 <field name="year">1904</field>
 <field name="librettist">Rebecca Lane Hooper</field>
-<field name="librettistsort">Hooper, Rebecca Lane</field>
+<field name="librettistSort">Hooper, Rebecca Lane</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alice+in+Wonderland+Continued+Mabel+Wheeler+Daniels&amp;search_field=search</field>
 </doc>

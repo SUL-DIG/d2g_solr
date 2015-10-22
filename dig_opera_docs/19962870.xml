@@ -3,13 +3,13 @@
 <field name="id">19962870</field>
 <field name="genre">Operas</field>
 <field name="title">Through His Teeth</field>
-<field name="titlesort">Through His Teeth</field>
+<field name="titleSort">Through His Teeth</field>
 <field name="composer">Luke Bedford</field>
-<field name="composersort">Bedford, Luke</field>
+<field name="composerSort">Bedford, Luke</field>
 <field name="year">2014</field>
 <field name="date">April 3, 2014</field>
 <field name="librettist">David Harrower</field>
-<field name="librettistsort">Harrower, David</field>
+<field name="librettistSort">Harrower, David</field>
 <field name="theater">Linbury Studio, Royal Opera House</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

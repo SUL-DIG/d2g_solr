@@ -3,13 +3,13 @@
 <field name="id">19960829</field>
 <field name="genre">Operas</field>
 <field name="title">Eva!</field>
-<field name="titlesort">Eva!</field>
+<field name="titleSort">Eva!</field>
 <field name="composer">Dan Dediu</field>
-<field name="composersort">Dediu, Dan</field>
+<field name="composerSort">Dediu, Dan</field>
 <field name="year">2009</field>
 <field name="date">May 30, 2009</field>
 <field name="librettist">Matei Vişniec</field>
-<field name="librettistsort">Vişniec, Matei</field>
+<field name="librettistSort">Vişniec, Matei</field>
 <field name="theater">Universitatea Nationala de Muzica</field>
 <field name="city">Bucharest</field>
 <field name="country">Romania</field>

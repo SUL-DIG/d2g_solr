@@ -3,13 +3,13 @@
 <field name="id">19962569</field>
 <field name="genre">Operas</field>
 <field name="title">The Girl of Sand</field>
-<field name="titlesort">Girl of Sand</field>
+<field name="titleSort">Girl of Sand</field>
 <field name="composer">Elena Langer</field>
-<field name="composersort">Langer, Elena</field>
+<field name="composerSort">Langer, Elena</field>
 <field name="year">2003</field>
 <field name="date">July 10, 2003</field>
 <field name="librettist">Glyn Maxwell</field>
-<field name="librettistsort">Maxwell, Glyn</field>
+<field name="librettistSort">Maxwell, Glyn</field>
 <field name="theater">Almeida Theatre</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

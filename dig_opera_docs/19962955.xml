@@ -3,13 +3,13 @@
 <field name="id">19962955</field>
 <field name="genre">Operas</field>
 <field name="title">Under Himlen</field>
-<field name="titlesort">Under Himlen</field>
+<field name="titleSort">Under Himlen</field>
 <field name="composer">Bent Sørensen</field>
-<field name="composersort">Sørensen, Bent</field>
+<field name="composerSort">Sørensen, Bent</field>
 <field name="year">2004</field>
 <field name="date">March 15, 2004</field>
 <field name="librettist">Peter Asmussen</field>
-<field name="librettistsort">Asmussen, Peter</field>
+<field name="librettistSort">Asmussen, Peter</field>
 <field name="theater">Det Kongelige Teater</field>
 <field name="city">Copenhagen</field>
 <field name="region">Hovedstaden</field>

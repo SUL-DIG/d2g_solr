@@ -3,13 +3,13 @@
 <field name="id">19961111</field>
 <field name="genre">Operas</field>
 <field name="title">Hotel Suite</field>
-<field name="titlesort">Hotel Suite</field>
+<field name="titleSort">Hotel Suite</field>
 <field name="composer">Luís Soldado</field>
-<field name="composersort">Soldado, Luís</field>
+<field name="composerSort">Soldado, Luís</field>
 <field name="year">2011</field>
 <field name="date">November 11, 2011</field>
 <field name="librettist">Rui Zink</field>
-<field name="librettistsort">Zink, Rui</field>
+<field name="librettistSort">Zink, Rui</field>
 <field name="theater">Royal College of Music</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

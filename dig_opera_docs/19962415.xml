@@ -3,9 +3,9 @@
 <field name="id">19962415</field>
 <field name="genre">Operas</field>
 <field name="title">Tahrir</field>
-<field name="titlesort">Tahrir</field>
+<field name="titleSort">Tahrir</field>
 <field name="composer">Hossam Mahmoud</field>
-<field name="composersort">Mahmoud, Hossam</field>
+<field name="composerSort">Mahmoud, Hossam</field>
 <field name="year">2015</field>
 <field name="date">May 17, 2015</field>
 <field name="theater">Landestheater</field>

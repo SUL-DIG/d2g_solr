@@ -3,13 +3,13 @@
 <field name="id">19962943</field>
 <field name="genre">Operas</field>
 <field name="title">Ulysees</field>
-<field name="titlesort">Ulysees</field>
+<field name="titleSort">Ulysees</field>
 <field name="composer">Roger Rudenstein</field>
-<field name="composersort">Rudenstein, Roger</field>
+<field name="composerSort">Rudenstein, Roger</field>
 <field name="year">1999</field>
 <field name="date">September 2, 1999</field>
 <field name="librettist">James Joyce</field>
-<field name="librettistsort">Joyce, James</field>
+<field name="librettistSort">Joyce, James</field>
 <field name="theater">Players' Ring</field>
 <field name="city">Portsmouth</field>
 <field name="region">New Hampshire</field>

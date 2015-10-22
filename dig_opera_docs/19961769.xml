@@ -3,13 +3,13 @@
 <field name="id">19961769</field>
 <field name="genre">Operas</field>
 <field name="title">Mozart in Manhattan</field>
-<field name="titlesort">Mozart in Manhattan</field>
+<field name="titleSort">Mozart in Manhattan</field>
 <field name="composer">Albert Biales</field>
-<field name="composersort">Biales, Albert</field>
+<field name="composerSort">Biales, Albert</field>
 <field name="year">2005</field>
 <field name="date">February 4, 2005</field>
 <field name="librettist">Brian Fogarty</field>
-<field name="librettistsort">Fogarty, Brian</field>
+<field name="librettistSort">Fogarty, Brian</field>
 <field name="theater">College of St. Catherine</field>
 <field name="city">St. Paul</field>
 <field name="region">Minnesota</field>

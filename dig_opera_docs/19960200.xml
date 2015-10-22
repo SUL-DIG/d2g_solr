@@ -3,13 +3,13 @@
 <field name="id">19960200</field>
 <field name="genre">Operas</field>
 <field name="title">Arjuna's Dilemma</field>
-<field name="titlesort">Arjuna's Dilemma</field>
+<field name="titleSort">Arjuna's Dilemma</field>
 <field name="composer">Douglas J. Cuomo</field>
-<field name="composersort">Cuomo, Douglas  J.</field>
+<field name="composerSort">Cuomo, Douglas  J.</field>
 <field name="year">2008</field>
 <field name="date">August 22, 2008</field>
 <field name="librettist">Douglas J. Cuomo</field>
-<field name="librettistsort">Cuomo, Douglas  J.</field>
+<field name="librettistSort">Cuomo, Douglas  J.</field>
 <field name="theater">State University of New York</field>
 <field name="city">Purchase</field>
 <field name="region">New York</field>

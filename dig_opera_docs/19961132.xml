@@ -3,13 +3,13 @@
 <field name="id">19961132</field>
 <field name="genre">Operas</field>
 <field name="title">I Have No Stories to Tell You</field>
-<field name="titlesort">I Have No Stories to Tell You</field>
+<field name="titleSort">I Have No Stories to Tell You</field>
 <field name="composer">Lembit Beecher</field>
-<field name="composersort">Beecher, Lembit</field>
+<field name="composerSort">Beecher, Lembit</field>
 <field name="year">2014</field>
 <field name="date">February 26, 2014</field>
 <field name="librettist">Hannah Moscovitch</field>
-<field name="librettistsort">Moscovitch, Hannah</field>
+<field name="librettistSort">Moscovitch, Hannah</field>
 <field name="theater">Medieval Sculpture Hall, Metropolitan Museum of Art</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

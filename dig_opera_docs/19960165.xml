@@ -3,13 +3,13 @@
 <field name="id">19960165</field>
 <field name="genre">Operas</field>
 <field name="title">Angel's Bone</field>
-<field name="titlesort">Angel's Bone</field>
+<field name="titleSort">Angel's Bone</field>
 <field name="composer">Du Yun</field>
-<field name="composersort">Du Yun</field>
+<field name="composerSort">Du Yun</field>
 <field name="year">2011</field>
 <field name="date">September 22, 2011</field>
 <field name="librettist">Royce Vavrek</field>
-<field name="librettistsort">Vavrek, Royce</field>
+<field name="librettistSort">Vavrek, Royce</field>
 <field name="theater">Mann Center for the Performing Arts</field>
 <field name="city">Philadelphia</field>
 <field name="region">Pennsylvania</field>

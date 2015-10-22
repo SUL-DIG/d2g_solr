@@ -3,13 +3,13 @@
 <field name="id">19960902</field>
 <field name="genre">Operas</field>
 <field name="title">Flurry Tale</field>
-<field name="titlesort">Flurry Tale</field>
+<field name="titleSort">Flurry Tale</field>
 <field name="composer">Rusty Magee</field>
-<field name="composersort">Magee, Rusty</field>
+<field name="composerSort">Magee, Rusty</field>
 <field name="year">1999</field>
 <field name="date">December 18, 1999</field>
 <field name="librettist">Billy Aronson</field>
-<field name="librettistsort">Aronson, Billy</field>
+<field name="librettistSort">Aronson, Billy</field>
 <field name="theater">Clark Studio Theater</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

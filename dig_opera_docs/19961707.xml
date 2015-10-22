@@ -3,13 +3,13 @@
 <field name="id">19961707</field>
 <field name="genre">Operas</field>
 <field name="title">Médée</field>
-<field name="titlesort">Médée</field>
+<field name="titleSort">Médée</field>
 <field name="composer">Michèle Reverdy</field>
-<field name="composersort">Reverdy, Michèle</field>
+<field name="composerSort">Reverdy, Michèle</field>
 <field name="year">2003</field>
 <field name="date">January 23, 2003</field>
 <field name="librettist">Christa Wolf</field>
-<field name="librettistsort">Wolf, Christa</field>
+<field name="librettistSort">Wolf, Christa</field>
 <field name="theater">Opéra</field>
 <field name="city">Lyon</field>
 <field name="region">Rhône du Lyonnais</field>

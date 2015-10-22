@@ -3,12 +3,12 @@
 <field name="id">19961458</field>
 <field name="genre">Operas</field>
 <field name="title">Larawan ng Kababaihan: Maskara at Mukh</field>
-<field name="titlesort">Larawan ng Kababaihan: Maskara at Mukh</field>
+<field name="titleSort">Larawan ng Kababaihan: Maskara at Mukh</field>
 <field name="composer">Lucrecia R. Kasilag</field>
-<field name="composersort">Kasilag, Lucrecia R.</field>
+<field name="composerSort">Kasilag, Lucrecia R.</field>
 <field name="year">1980</field>
 <field name="librettist">Fides Cuyugan-Asencio</field>
-<field name="librettistsort">Cuyugan-Asencio, Fides</field>
+<field name="librettistSort">Cuyugan-Asencio, Fides</field>
 <field name="theater">Cultural Center of the Philippines</field>
 <field name="city">Manila</field>
 <field name="country">Philippines</field>

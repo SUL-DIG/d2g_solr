@@ -3,13 +3,13 @@
 <field name="id">19961088</field>
 <field name="genre">Operas</field>
 <field name="title">Himmerrä ja Valo</field>
-<field name="titlesort">Himmerrä ja Valo</field>
+<field name="titleSort">Himmerrä ja Valo</field>
 <field name="composer">Heta Aho</field>
-<field name="composersort">Aho, Heta</field>
+<field name="composerSort">Aho, Heta</field>
 <field name="year">2011</field>
 <field name="date">February 6, 2011</field>
 <field name="librettist">Heta Aho</field>
-<field name="librettistsort">Aho, Heta</field>
+<field name="librettistSort">Aho, Heta</field>
 <field name="theater">Musica nova Helsinki</field>
 <field name="city">Helsinki</field>
 <field name="region">Uudenmaan</field>

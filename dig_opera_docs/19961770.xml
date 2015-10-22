@@ -3,13 +3,13 @@
 <field name="id">19961770</field>
 <field name="genre">Operas</field>
 <field name="title">MR (Marina i Rainer)</field>
-<field name="titlesort">MR (Marina i Rainer)</field>
+<field name="titleSort">MR (Marina i Rainer)</field>
 <field name="composer">Nikolay Sergeyevich Korndorf</field>
-<field name="composersort">Korndorf, Nikolay Sergeyevich</field>
+<field name="composerSort">Korndorf, Nikolay Sergeyevich</field>
 <field name="year">1994</field>
 <field name="date">May 20, 1994</field>
 <field name="librettist">Julij Lurje</field>
-<field name="librettistsort">Lurje, Julij</field>
+<field name="librettistSort">Lurje, Julij</field>
 <field name="theater">Biennale</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

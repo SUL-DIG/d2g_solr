@@ -3,13 +3,13 @@
 <field name="id">19960798</field>
 <field name="genre">Operas</field>
 <field name="title">En dåres försvarstal (The Confession of a Fool)</field>
-<field name="titlesort">En dåres försvarstal (The Confession of a Fool)</field>
+<field name="titleSort">En dåres försvarstal (The Confession of a Fool)</field>
 <field name="composer">Inger Wikström</field>
-<field name="composersort">Wikström, Inger</field>
+<field name="composerSort">Wikström, Inger</field>
 <field name="year">2002</field>
 <field name="date">August 10, 2002</field>
 <field name="librettist">August Strindberg</field>
-<field name="librettistsort">Strindberg, August</field>
+<field name="librettistSort">Strindberg, August</field>
 <field name="theater">Vasateatern</field>
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>

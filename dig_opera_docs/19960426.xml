@@ -3,13 +3,13 @@
 <field name="id">19960426</field>
 <field name="genre">Operas</field>
 <field name="title">Chicken Little, the Sky is Falling</field>
-<field name="titlesort">Chicken Little, the Sky is Falling</field>
+<field name="titleSort">Chicken Little, the Sky is Falling</field>
 <field name="composer">Gladys Smuckler Moskowitz</field>
-<field name="composersort">Moskowitz, Gladys Smuckler</field>
+<field name="composerSort">Moskowitz, Gladys Smuckler</field>
 <field name="year">2007</field>
 <field name="date">October 28, 2007</field>
 <field name="librettist">Gladys Smuckler Moskowitz</field>
-<field name="librettistsort">Moskowitz, Gladys Smuckler</field>
+<field name="librettistSort">Moskowitz, Gladys Smuckler</field>
 <field name="theater">Sullivan County Museum</field>
 <field name="city">Hurleyville</field>
 <field name="region">Kentucky</field>

@@ -3,13 +3,13 @@
 <field name="id">19960155</field>
 <field name="genre">Operas</field>
 <field name="title">Ancient Songs Of The Universe</field>
-<field name="titlesort">Ancient Songs Of The Universe</field>
+<field name="titleSort">Ancient Songs Of The Universe</field>
 <field name="composer">Roger Ames</field>
-<field name="composersort">Ames, Roger</field>
+<field name="composerSort">Ames, Roger</field>
 <field name="year">2009</field>
 <field name="date">November 8, 2009</field>
 <field name="librettist">Paul Rosen</field>
-<field name="librettistsort">Rosen, Paul</field>
+<field name="librettistSort">Rosen, Paul</field>
 <field name="theater">Cathedral of the Incarnation</field>
 <field name="city">Garden City</field>
 <field name="region">New York</field>

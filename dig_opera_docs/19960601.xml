@@ -3,13 +3,13 @@
 <field name="id">19960601</field>
 <field name="genre">Operas</field>
 <field name="title">Deti Rozentalya (Rosenthal's Children)</field>
-<field name="titlesort">Deti Rozentalya (Rosenthal's Children)</field>
+<field name="titleSort">Deti Rozentalya (Rosenthal's Children)</field>
 <field name="composer">Leonid Arkad'yevich Desyatnikov</field>
-<field name="composersort">Desyatnikov, Leonid Arkad'yevich</field>
+<field name="composerSort">Desyatnikov, Leonid Arkad'yevich</field>
 <field name="year">2005</field>
 <field name="date">March 23, 2005</field>
 <field name="librettist">Vladimir Georgievich Sorokin</field>
-<field name="librettistsort">Sorokin, Vladimir Georgievich</field>
+<field name="librettistSort">Sorokin, Vladimir Georgievich</field>
 <field name="theater">Bol'shoy Teatr</field>
 <field name="city">Moscow</field>
 <field name="country">Russia</field>

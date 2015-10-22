@@ -3,9 +3,9 @@
 <field name="id">19962250</field>
 <field name="genre">Operas</field>
 <field name="title">Separation (The Story of Bullman and the Moonsisters)</field>
-<field name="titlesort">Separation (The Story of Bullman and the Moonsisters)</field>
+<field name="titleSort">Separation (The Story of Bullman and the Moonsisters)</field>
 <field name="composer">John Browne</field>
-<field name="composersort">Browne, John</field>
+<field name="composerSort">Browne, John</field>
 <field name="year">1999</field>
 <field name="date">December 1, 1999</field>
 <field name="theater">Linbury Studio, Royal Opera House</field>

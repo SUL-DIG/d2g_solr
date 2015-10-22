@@ -3,13 +3,13 @@
 <field name="id">19960381</field>
 <field name="genre">Operas</field>
 <field name="title">Cachafaz</field>
-<field name="titlesort">Cachafaz</field>
+<field name="titleSort">Cachafaz</field>
 <field name="composer">Oscar Strasnoy</field>
-<field name="composersort">Strasnoy, Oscar</field>
+<field name="composerSort">Strasnoy, Oscar</field>
 <field name="year">2010</field>
 <field name="date">November 5, 2010</field>
 <field name="librettist">[Raúl Damonte Botana] Copi</field>
-<field name="librettistsort">Copi, [Raúl Damonte Botana]</field>
+<field name="librettistSort">Copi, [Raúl Damonte Botana]</field>
 <field name="theater">Théâtre de Cornouaille</field>
 <field name="city">Quimper</field>
 <field name="region">Finistère</field>

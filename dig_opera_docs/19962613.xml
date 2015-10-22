@@ -3,13 +3,13 @@
 <field name="id">19962613</field>
 <field name="genre">Operas</field>
 <field name="title">The Last Days of V.I.R.U.S.</field>
-<field name="titlesort">Last Days of V.I.R.U.S.</field>
+<field name="titleSort">Last Days of V.I.R.U.S.</field>
 <field name="composer">Moritz Eggert</field>
-<field name="composersort">Eggert, Moritz</field>
+<field name="composerSort">Eggert, Moritz</field>
 <field name="year">2003</field>
 <field name="date">June 7, 2003</field>
 <field name="librettist">Moritz Eggert</field>
-<field name="librettistsort">Eggert, Moritz</field>
+<field name="librettistSort">Eggert, Moritz</field>
 <field name="theater">Reaktorhalle</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

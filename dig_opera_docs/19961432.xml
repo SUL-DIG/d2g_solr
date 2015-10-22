@@ -3,13 +3,13 @@
 <field name="id">19961432</field>
 <field name="genre">Operas</field>
 <field name="title">La parrucca dell'imperatore</field>
-<field name="titlesort">parrucca dell'imperatore</field>
+<field name="titleSort">parrucca dell'imperatore</field>
 <field name="composer">Mario Peragallo</field>
-<field name="composersort">Peragallo, Mario</field>
+<field name="composerSort">Peragallo, Mario</field>
 <field name="year">1959</field>
 <field name="date">June 12, 1959</field>
 <field name="librettist">Gianfranco Maselli</field>
-<field name="librettistsort">Maselli, Gianfranco</field>
+<field name="librettistSort">Maselli, Gianfranco</field>
 <field name="theater">Teatro Caio Melisso  </field>
 <field name="city">Spoleto</field>
 <field name="region">Umbria</field>

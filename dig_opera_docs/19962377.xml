@@ -3,13 +3,13 @@
 <field name="id">19962377</field>
 <field name="genre">Operas</field>
 <field name="title">Styx</field>
-<field name="titlesort">Styx</field>
+<field name="titleSort">Styx</field>
 <field name="composer">Chiel Meijering</field>
-<field name="composersort">Meijering, Chiel</field>
+<field name="composerSort">Meijering, Chiel</field>
 <field name="year">2007</field>
 <field name="date">June 1, 2007</field>
 <field name="librettist">Imme Dros</field>
-<field name="librettistsort">Dros, Imme</field>
+<field name="librettistSort">Dros, Imme</field>
 <field name="theater">De Veerensmederij</field>
 <field name="city">Amersfoort</field>
 <field name="region">Utrecht</field>

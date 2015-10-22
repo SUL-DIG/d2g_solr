@@ -3,13 +3,13 @@
 <field name="id">19962164</field>
 <field name="genre">Operas</field>
 <field name="title">Road Rage</field>
-<field name="titlesort">Road Rage</field>
+<field name="titleSort">Road Rage</field>
 <field name="composer">Orlando Gough</field>
-<field name="composersort">Gough, Orlando</field>
+<field name="composerSort">Gough, Orlando</field>
 <field name="year">2013</field>
 <field name="date">July 19, 2013</field>
 <field name="librettist">Richard Stilgoe</field>
-<field name="librettistsort">Stilgoe, Richard</field>
+<field name="librettistSort">Stilgoe, Richard</field>
 <field name="theater">Garsington Opera</field>
 <field name="city">Wormsley Estate</field>
 <field name="region">Buckinghamshire</field>

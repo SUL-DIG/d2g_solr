@@ -3,13 +3,13 @@
 <field name="id">19960843</field>
 <field name="genre">Operas</field>
 <field name="title">Facing Goya</field>
-<field name="titlesort">Facing Goya</field>
+<field name="titleSort">Facing Goya</field>
 <field name="composer">Michael Nyman</field>
-<field name="composersort">Nyman, Michael</field>
+<field name="composerSort">Nyman, Michael</field>
 <field name="year">2000</field>
 <field name="date">August 3, 2000</field>
 <field name="librettist">Victoria Hardie</field>
-<field name="librettistsort">Hardie, Victoria</field>
+<field name="librettistSort">Hardie, Victoria</field>
 <field name="theater">Auditorio de Galicia</field>
 <field name="city">Santiago de Compostela</field>
 <field name="region">Galicia</field>

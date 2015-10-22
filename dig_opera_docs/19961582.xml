@@ -3,13 +3,13 @@
 <field name="id">19961582</field>
 <field name="genre">Operas</field>
 <field name="title">Looking Glass Lake</field>
-<field name="titlesort">Looking Glass Lake</field>
+<field name="titleSort">Looking Glass Lake</field>
 <field name="composer">Leslie Ball</field>
-<field name="composersort">Ball, Leslie</field>
+<field name="composerSort">Ball, Leslie</field>
 <field name="year">2009</field>
 <field name="date">June 18, 2009</field>
 <field name="librettist">Jim Payne</field>
-<field name="librettistsort">Payne, Jim</field>
+<field name="librettistSort">Payne, Jim</field>
 <field name="theater">Nautilus Music-Theater</field>
 <field name="city">St. Paul</field>
 <field name="region">Minnesota</field>

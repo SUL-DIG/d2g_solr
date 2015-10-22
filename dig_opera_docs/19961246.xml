@@ -3,13 +3,13 @@
 <field name="id">19961246</field>
 <field name="genre">Operas</field>
 <field name="title">Joseph Fouché</field>
-<field name="titlesort">Joseph Fouché</field>
+<field name="titleSort">Joseph Fouché</field>
 <field name="composer">Franz Hummel</field>
-<field name="composersort">Hummel, Franz</field>
+<field name="composerSort">Hummel, Franz</field>
 <field name="year">2009</field>
 <field name="date">January 9, 2009</field>
 <field name="librettist">Sandra Hummel</field>
-<field name="librettistsort">Hummel, Sandra</field>
+<field name="librettistSort">Hummel, Sandra</field>
 <field name="theater">Landestheater</field>
 <field name="city">Linz</field>
 <field name="region">Oberösterreich</field>

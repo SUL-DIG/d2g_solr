@@ -3,9 +3,9 @@
 <field name="id">19961302</field>
 <field name="genre">Operas</field>
 <field name="title">Keofar</field>
-<field name="titlesort">Keofar</field>
+<field name="titleSort">Keofar</field>
 <field name="composer">Felipe Villanueva</field>
-<field name="composersort">Villanueva, Felipe</field>
+<field name="composerSort">Villanueva, Felipe</field>
 <field name="year">1893</field>
 <field name="date">Jul 1893</field>
 <field name="theater">Teatro Principal</field>

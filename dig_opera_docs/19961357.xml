@@ -3,13 +3,13 @@
 <field name="id">19961357</field>
 <field name="genre">Operas</field>
 <field name="title">L'ascesa</field>
-<field name="titlesort">ascesa</field>
+<field name="titleSort">ascesa</field>
 <field name="composer">Aldo Cantarini</field>
-<field name="composersort">Cantarini, Aldo</field>
+<field name="composerSort">Cantarini, Aldo</field>
 <field name="year">1938</field>
 <field name="date">May 24, 1938</field>
 <field name="librettist">Franco Concini de Concini</field>
-<field name="librettistsort">Concini de Concini, Franco</field>
+<field name="librettistSort">Concini de Concini, Franco</field>
 <field name="theater">Teatro dell'Ente Italiano per le Audizioni Radiofoniche</field>
 <field name="city">Turin</field>
 <field name="region">Piemonte</field>

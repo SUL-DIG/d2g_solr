@@ -3,9 +3,9 @@
 <field name="id">19962763</field>
 <field name="genre">Operas</field>
 <field name="title">The Singer's Fate</field>
-<field name="titlesort">Singer's Fate</field>
+<field name="titleSort">Singer's Fate</field>
 <field name="composer">Jahangir Jahangirov</field>
-<field name="composersort">Jahangirov, Jahangir</field>
+<field name="composerSort">Jahangirov, Jahangir</field>
 <field name="year">1979</field>
 <field name="date">March 3, 1979</field>
 <field name="theater">Azerbaijanskiy Akademicheskiy Teatr Operï i Baleta imeni M. F. Akhundova</field>

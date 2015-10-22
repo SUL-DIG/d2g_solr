@@ -3,12 +3,12 @@
 <field name="id">19961570</field>
 <field name="genre">Operas</field>
 <field name="title">Little Redinka</field>
-<field name="titlesort">Little Redinka</field>
+<field name="titleSort">Little Redinka</field>
 <field name="composer">Michael Easton</field>
-<field name="composersort">Easton, Michael</field>
+<field name="composerSort">Easton, Michael</field>
 <field name="year">1991</field>
 <field name="librettist">Alan Hopgood</field>
-<field name="librettistsort">Hopgood, Alan</field>
+<field name="librettistSort">Hopgood, Alan</field>
 <field name="theater">Victorian Arts Centre</field>
 <field name="city">Melbourne</field>
 <field name="region">Victoria</field>

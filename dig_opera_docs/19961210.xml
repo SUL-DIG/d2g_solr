@@ -3,13 +3,13 @@
 <field name="id">19961210</field>
 <field name="genre">Operas</field>
 <field name="title">IV. Murat</field>
-<field name="titlesort">IV. Murat</field>
+<field name="titleSort">IV. Murat</field>
 <field name="composer">Okan Demiriş </field>
-<field name="composersort">Demiriş, Okan</field>
+<field name="composerSort">Demiriş, Okan</field>
 <field name="year">2008</field>
 <field name="date">March 22, 2008</field>
 <field name="librettist">Turan Oflazoğlu</field>
-<field name="librettistsort">Oflazoğlu, Turan</field>
+<field name="librettistSort">Oflazoğlu, Turan</field>
 <field name="theater">Devlet Opera ve Balesi</field>
 <field name="city">Ankara</field>
 <field name="country">Turkey</field>

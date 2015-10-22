@@ -3,13 +3,13 @@
 <field name="id">19961490</field>
 <field name="genre">Operas</field>
 <field name="title">Le piccole storie - ai margini delle guerre</field>
-<field name="titlesort">piccole storie - ai margini delle guerre</field>
+<field name="titleSort">piccole storie - ai margini delle guerre</field>
 <field name="composer">Lorenzo Ferrero</field>
-<field name="composersort">Ferrero, Lorenzo</field>
+<field name="composerSort">Ferrero, Lorenzo</field>
 <field name="year">2007</field>
 <field name="date">December 9, 2007</field>
 <field name="librettist">Giuseppe Di Leva</field>
-<field name="librettistsort">Di Leva, Giuseppe</field>
+<field name="librettistSort">Di Leva, Giuseppe</field>
 <field name="theater">Teatro Comunale Luciano Pavarotti</field>
 <field name="city">Modena</field>
 <field name="region">Emilia-Romagna</field>

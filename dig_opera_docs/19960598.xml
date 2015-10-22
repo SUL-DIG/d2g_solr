@@ -3,12 +3,12 @@
 <field name="id">19960598</field>
 <field name="genre">Operas</field>
 <field name="title">Derrière son double</field>
-<field name="titlesort">Derrière son double</field>
+<field name="titleSort">Derrière son double</field>
 <field name="composer">Elżbieta Sikora</field>
-<field name="composersort">Sikora, Elżbieta</field>
+<field name="composerSort">Sikora, Elżbieta</field>
 <field name="year">1983</field>
 <field name="librettist">Jean-Pierre Dupre</field>
-<field name="librettistsort">Dupre, Jean-Pierre</field>
+<field name="librettistSort">Dupre, Jean-Pierre</field>
 <field name="theater">Radio France</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

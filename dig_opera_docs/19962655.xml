@@ -3,13 +3,13 @@
 <field name="id">19962655</field>
 <field name="genre">Operas</field>
 <field name="title">The Money Tree</field>
-<field name="titlesort">Money Tree</field>
+<field name="titleSort">Money Tree</field>
 <field name="composer">David Garner</field>
-<field name="composersort">Garner, David</field>
+<field name="composerSort">Garner, David</field>
 <field name="year">2000</field>
 <field name="date">June 30, 2000</field>
 <field name="librettist">Daniel Cohen</field>
-<field name="librettistsort">Cohen, Daniel</field>
+<field name="librettistSort">Cohen, Daniel</field>
 <field name="theater">University of San Francisco</field>
 <field name="city">San Francisco</field>
 <field name="region">California</field>

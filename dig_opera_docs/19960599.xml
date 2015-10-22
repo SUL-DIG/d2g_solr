@@ -3,13 +3,13 @@
 <field name="id">19960599</field>
 <field name="genre">Operas</field>
 <field name="title">Des Landes Verwiesen</field>
-<field name="titlesort">Landes Verwiesen</field>
+<field name="titleSort">Landes Verwiesen</field>
 <field name="composer">Juan Allende-Blin</field>
-<field name="composersort">Allende-Blin, Juan</field>
+<field name="composerSort">Allende-Blin, Juan</field>
 <field name="year">2009</field>
 <field name="date">March 22, 2009</field>
 <field name="librettist">Jean Pierre Faye</field>
-<field name="librettistsort">Faye, Jean Pierre</field>
+<field name="librettistSort">Faye, Jean Pierre</field>
 <field name="theater">Theater der Stadt</field>
 <field name="city">Bonn</field>
 <field name="region">Nordrhein-Westfallen</field>

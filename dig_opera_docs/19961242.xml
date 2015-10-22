@@ -3,13 +3,13 @@
 <field name="id">19961242</field>
 <field name="genre">Operas</field>
 <field name="title">Joppe Jokamies</field>
-<field name="titlesort">Joppe Jokamies</field>
+<field name="titleSort">Joppe Jokamies</field>
 <field name="composer">Jukka Linkola</field>
-<field name="composersort">Linkola, Jukka</field>
+<field name="composerSort">Linkola, Jukka</field>
 <field name="year">2004</field>
 <field name="date">September 24, 2004</field>
 <field name="librettist">Jukka Linkola</field>
-<field name="librettistsort">Linkola, Jukka</field>
+<field name="librettistSort">Linkola, Jukka</field>
 <field name="theater">Kanneltalo</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

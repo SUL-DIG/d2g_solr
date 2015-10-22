@@ -3,13 +3,13 @@
 <field name="id">19960179</field>
 <field name="genre">Operas</field>
 <field name="title">Another America: Earth</field>
-<field name="titlesort">Another America: Earth</field>
+<field name="titleSort">Another America: Earth</field>
 <field name="composer">Errollyn Wallen</field>
-<field name="composersort">Wallen, Errollyn</field>
+<field name="composerSort">Wallen, Errollyn</field>
 <field name="year">2003</field>
 <field name="date">November 9, 2003</field>
 <field name="librettist">Errollyn Wallen</field>
-<field name="librettistsort">Wallen, Errollyn</field>
+<field name="librettistSort">Wallen, Errollyn</field>
 <field name="theater">Linbury Studio, Royal Opera House</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

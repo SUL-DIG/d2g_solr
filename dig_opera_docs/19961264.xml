@@ -3,13 +3,13 @@
 <field name="id">19961264</field>
 <field name="genre">Operas</field>
 <field name="title">Junker Nils av Eka</field>
-<field name="titlesort">Junker Nils av Eka</field>
+<field name="titleSort">Junker Nils av Eka</field>
 <field name="composer">Inger Wikström</field>
-<field name="composersort">Wikström, Inger</field>
+<field name="composerSort">Wikström, Inger</field>
 <field name="year">1982</field>
 <field name="date">December 14, 1982</field>
 <field name="librettist">Astrid Lindgren</field>
-<field name="librettistsort">Lindgren, Astrid</field>
+<field name="librettistSort">Lindgren, Astrid</field>
 <field name="theater">Folkoperan</field>
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>

@@ -3,13 +3,13 @@
 <field name="id">19961519</field>
 <field name="genre">Operas</field>
 <field name="title">Leonora Christine - dronning af blaataarn </field>
-<field name="titlesort">Leonora Christine - dronning af blaataarn </field>
+<field name="titleSort">Leonora Christine - dronning af blaataarn </field>
 <field name="composer">Andy Pape</field>
-<field name="composersort">Pape, Andy</field>
+<field name="composerSort">Pape, Andy</field>
 <field name="year">1999</field>
 <field name="date">March 29, 1999</field>
 <field name="librettist">Nina Malinovski</field>
-<field name="librettistsort">Malinovski, Nina</field>
+<field name="librettistSort">Malinovski, Nina</field>
 <field name="theater">Den Anden Opera</field>
 <field name="city">Copenhagen</field>
 <field name="region">Hovedstaden</field>

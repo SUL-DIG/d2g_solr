@@ -3,12 +3,12 @@
 <field name="id">19962360</field>
 <field name="genre">Operas</field>
 <field name="title">Star Over Amsterdam</field>
-<field name="titlesort">Star Over Amsterdam</field>
+<field name="titleSort">Star Over Amsterdam</field>
 <field name="composer">Camille van Lunen</field>
-<field name="composersort">Lunen, Camille van</field>
+<field name="composerSort">Lunen, Camille van</field>
 <field name="year">2007</field>
 <field name="librettist">Jan Michael</field>
-<field name="librettistsort">Michael, Jan</field>
+<field name="librettistSort">Michael, Jan</field>
 <field name="theater">Concertgebouw</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>

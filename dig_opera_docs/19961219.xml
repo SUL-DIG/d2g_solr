@@ -3,13 +3,13 @@
 <field name="id">19961219</field>
 <field name="genre">Operas</field>
 <field name="title">Jackie O</field>
-<field name="titlesort">Jackie O</field>
+<field name="titleSort">Jackie O</field>
 <field name="composer">Michael Dougherty</field>
-<field name="composersort">Dougherty, Michael</field>
+<field name="composerSort">Dougherty, Michael</field>
 <field name="year">1997</field>
 <field name="date">March 14, 1997</field>
 <field name="librettist">Wayne Koestenbaum</field>
-<field name="librettistsort">Koestenbaum, Wayne</field>
+<field name="librettistSort">Koestenbaum, Wayne</field>
 <field name="theater">Grand Opera</field>
 <field name="city">Houston</field>
 <field name="region">Texas</field>

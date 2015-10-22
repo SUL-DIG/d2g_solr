@@ -3,13 +3,13 @@
 <field name="id">19960838</field>
 <field name="genre">Operas</field>
 <field name="title">Eystein av Nidaros</field>
-<field name="titlesort">Eystein av Nidaros</field>
+<field name="titleSort">Eystein av Nidaros</field>
 <field name="composer">Henning Sommerro</field>
-<field name="composersort">Sommerro, Henning</field>
+<field name="composerSort">Sommerro, Henning</field>
 <field name="year">2003</field>
 <field name="date">July 29, 2003</field>
 <field name="librettist">Edvard Hoem</field>
-<field name="librettistsort">Hoem, Edvard</field>
+<field name="librettistSort">Hoem, Edvard</field>
 <field name="theater">Erkebispegarden and Nidarosdomen</field>
 <field name="city">Trondheim</field>
 <field name="region">Sør-Trøndelag</field>

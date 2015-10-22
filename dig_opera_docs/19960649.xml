@@ -3,13 +3,13 @@
 <field name="id">19960649</field>
 <field name="genre">Operas</field>
 <field name="title">Die Schneekönigin</field>
-<field name="titlesort">Schneekönigin</field>
+<field name="titleSort">Schneekönigin</field>
 <field name="composer">Esther Hilsberg</field>
-<field name="composersort">Hilsberg, Esther</field>
+<field name="composerSort">Hilsberg, Esther</field>
 <field name="year">2003</field>
 <field name="date">September 9, 2003</field>
 <field name="librettist">Kerstin Weiss</field>
-<field name="librettistsort">Weiss, Kerstin</field>
+<field name="librettistSort">Weiss, Kerstin</field>
 <field name="theater">Hohenloher Kultursommer</field>
 <field name="city">Schwäbisch Hall</field>
 <field name="region">Baden-Württemberg</field>

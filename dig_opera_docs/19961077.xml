@@ -3,9 +3,9 @@
 <field name="id">19961077</field>
 <field name="genre">Operas</field>
 <field name="title">Het commando Kamikaze</field>
-<field name="titlesort">Het commando Kamikaze</field>
+<field name="titleSort">Het commando Kamikaze</field>
 <field name="composer">Shigeaki Saegusa</field>
-<field name="composersort">Saegusa, Shigeaki</field>
+<field name="composerSort">Saegusa, Shigeaki</field>
 <field name="year">2013</field>
 <field name="date">February 2, 2013</field>
 <field name="theater">Tokyo Bunka Kaikan</field>

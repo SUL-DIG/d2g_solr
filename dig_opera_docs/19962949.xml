@@ -3,13 +3,13 @@
 <field name="id">19962949</field>
 <field name="genre">Operas</field>
 <field name="title">Un racconto fiorentino</field>
-<field name="titlesort">racconto fiorentino</field>
+<field name="titleSort">racconto fiorentino</field>
 <field name="composer">Louis Gioia</field>
-<field name="composersort">Gioia, Louis</field>
+<field name="composerSort">Gioia, Louis</field>
 <field name="year">2000</field>
 <field name="date">October 13, 2000</field>
 <field name="librettist">Louis Gioia</field>
-<field name="librettistsort">Gioia, Louis</field>
+<field name="librettistSort">Gioia, Louis</field>
 <field name="theater">Alice Tully Hall</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

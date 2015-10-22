@@ -3,9 +3,9 @@
 <field name="id">19960990</field>
 <field name="genre">Operas</field>
 <field name="title">Gilgamesh</field>
-<field name="titlesort">Gilgamesh</field>
+<field name="titleSort">Gilgamesh</field>
 <field name="composer">Stephen Dickman</field>
-<field name="composersort">Dickman, Stephen</field>
+<field name="composerSort">Dickman, Stephen</field>
 <field name="year">2002</field>
 <field name="date">June 20, 2002</field>
 <field name="theater">La MaMa Theater</field>

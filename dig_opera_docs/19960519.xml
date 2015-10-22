@@ -3,13 +3,13 @@
 <field name="id">19960519</field>
 <field name="genre">Operas</field>
 <field name="title">De Deo</field>
-<field name="titlesort">De Deo</field>
+<field name="titleSort">De Deo</field>
 <field name="composer">Paula Prestini</field>
-<field name="composersort">Prestini, Paula</field>
+<field name="composerSort">Prestini, Paula</field>
 <field name="year">2011</field>
 <field name="date">May 15, 2011</field>
 <field name="librettist">Donna Di Novelli</field>
-<field name="librettistsort">Di Novelli, Donna</field>
+<field name="librettistSort">Di Novelli, Donna</field>
 <field name="theater">Le Poisson Rouge</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

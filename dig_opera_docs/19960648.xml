@@ -3,13 +3,13 @@
 <field name="id">19960648</field>
 <field name="genre">Operas</field>
 <field name="title">Die Schnecke</field>
-<field name="titlesort">Schnecke</field>
+<field name="titleSort">Schnecke</field>
 <field name="composer">Moritz Eggert</field>
-<field name="composersort">Eggert, Moritz</field>
+<field name="composerSort">Eggert, Moritz</field>
 <field name="year">2004</field>
 <field name="date">June 13, 2004</field>
 <field name="librettist">Hans Neuenfels</field>
-<field name="librettistsort">Neuenfels, Hans</field>
+<field name="librettistSort">Neuenfels, Hans</field>
 <field name="theater">Stadttheater</field>
 <field name="city">Lucerne</field>
 <field name="region">Luzern</field>

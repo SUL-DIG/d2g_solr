@@ -3,12 +3,12 @@
 <field name="id">19962890</field>
 <field name="genre">Operas</field>
 <field name="title">Toge no muko ni naniga aruka </field>
-<field name="titlesort">Toge no muko ni naniga aruka </field>
+<field name="titleSort">Toge no muko ni naniga aruka </field>
 <field name="composer">Minoru Miki</field>
-<field name="composersort">Miki, Minoru</field>
+<field name="composerSort">Miki, Minoru</field>
 <field name="year">1983</field>
 <field name="librettist">Mitsuo Kawamura</field>
-<field name="librettistsort">Kawamura, Mitsuo</field>
+<field name="librettistSort">Kawamura, Mitsuo</field>
 <field name="theater">Geidankyo (Japan Council of Performer's Organizations)</field>
 <field name="city">Nagoya</field>
 <field name="region">Aichi</field>

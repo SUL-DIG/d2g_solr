@@ -3,12 +3,12 @@
 <field name="id">19960503</field>
 <field name="genre">Operas</field>
 <field name="title">Das Hundepferd</field>
-<field name="titlesort">Hundepferd</field>
+<field name="titleSort">Hundepferd</field>
 <field name="composer">Ladislav Kupkovic</field>
-<field name="composersort">Kupkovic, Ladislav</field>
+<field name="composerSort">Kupkovic, Ladislav</field>
 <field name="year">1988</field>
 <field name="librettist">Hans Georg Lenzen</field>
-<field name="librettistsort">Lenzen, Hans Georg</field>
+<field name="librettistSort">Lenzen, Hans Georg</field>
 <field name="theater">Hochschule für Musik und Theater</field>
 <field name="city">Hanover</field>
 <field name="region">Niedersachsen</field>

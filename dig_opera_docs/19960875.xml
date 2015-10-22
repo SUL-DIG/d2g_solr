@@ -3,13 +3,13 @@
 <field name="id">19960875</field>
 <field name="genre">Operas</field>
 <field name="title">Feist</field>
-<field name="titlesort">Feist</field>
+<field name="titleSort">Feist</field>
 <field name="composer">Jury Everhartz</field>
-<field name="composersort">Everhartz, Jury</field>
+<field name="composerSort">Everhartz, Jury</field>
 <field name="year">2001</field>
 <field name="date">June 30, 2001</field>
 <field name="librettist">Günter Rupp</field>
-<field name="librettistsort">Rupp, Günter</field>
+<field name="librettistSort">Rupp, Günter</field>
 <field name="theater">Künstlerhaus</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

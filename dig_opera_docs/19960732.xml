@@ -3,9 +3,9 @@
 <field name="id">19960732</field>
 <field name="genre">Operas</field>
 <field name="title">Dumb Love</field>
-<field name="titlesort">Dumb Love</field>
+<field name="titleSort">Dumb Love</field>
 <field name="composer">Jerome Hopkins</field>
-<field name="composersort">Hopkins, Jerome</field>
+<field name="composerSort">Hopkins, Jerome</field>
 <field name="year">1878</field>
 <field name="date">7 May 1878</field>
 <field name="theater">Academy of Music</field>

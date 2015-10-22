@@ -3,13 +3,13 @@
 <field name="id">19960280</field>
 <field name="genre">Operas</field>
 <field name="title">Baron Munchhausen</field>
-<field name="titlesort">Baron Munchhausen</field>
+<field name="titleSort">Baron Munchhausen</field>
 <field name="composer">Wolfgang Mitterer</field>
-<field name="composersort">Mitterer, Wolfgang</field>
+<field name="composerSort">Mitterer, Wolfgang</field>
 <field name="year">2011</field>
 <field name="date">November 17, 2011</field>
 <field name="librettist">Ferdinand Schmatz</field>
-<field name="librettistsort">Schmatz, Ferdinand</field>
+<field name="librettistSort">Schmatz, Ferdinand</field>
 <field name="theater">Rabenhof Theater</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

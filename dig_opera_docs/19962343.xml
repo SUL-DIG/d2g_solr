@@ -3,13 +3,13 @@
 <field name="id">19962343</field>
 <field name="genre">Operas</field>
 <field name="title">Sparkie: Cage and Beyond</field>
-<field name="titlesort">Sparkie: Cage and Beyond</field>
+<field name="titleSort">Sparkie: Cage and Beyond</field>
 <field name="composer">Michael Nyman</field>
-<field name="composersort">Nyman, Michael</field>
+<field name="composerSort">Nyman, Michael</field>
 <field name="year">2009</field>
 <field name="date">March 26, 2009</field>
 <field name="librettist">Carsten Nicolai</field>
-<field name="librettistsort">Nicolai, Carsten</field>
+<field name="librettistSort">Nicolai, Carsten</field>
 <field name="theater">Haus der Berliner Festspiele</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>

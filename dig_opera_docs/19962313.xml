@@ -3,13 +3,13 @@
 <field name="id">19962313</field>
 <field name="genre">Operas</field>
 <field name="title">Sleep</field>
-<field name="titlesort">Sleep</field>
+<field name="titleSort">Sleep</field>
 <field name="composer">Erin Gee</field>
-<field name="composersort">Gee, Erin</field>
+<field name="composerSort">Gee, Erin</field>
 <field name="year">2009</field>
 <field name="date">January 25, 2009</field>
 <field name="librettist">Colin Gee</field>
-<field name="librettistsort">Gee, Colin</field>
+<field name="librettistSort">Gee, Colin</field>
 <field name="theater">Opernhaus</field>
 <field name="city">Zürich</field>
 <field name="region">Zürich</field>

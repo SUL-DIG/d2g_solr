@@ -3,13 +3,13 @@
 <field name="id">19962708</field>
 <field name="genre">Operas</field>
 <field name="title">The Promise</field>
-<field name="titlesort">Promise</field>
+<field name="titleSort">Promise</field>
 <field name="composer">Jill Townsend</field>
-<field name="composersort">Townsend, Jill</field>
+<field name="composerSort">Townsend, Jill</field>
 <field name="year">1997</field>
 <field name="date">March 17, 1997</field>
 <field name="librettist">Jill Townsend</field>
-<field name="librettistsort">Townsend, Jill</field>
+<field name="librettistSort">Townsend, Jill</field>
 <field name="theater">Queen Elizabeth Hall</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

@@ -3,13 +3,13 @@
 <field name="id">19960804</field>
 <field name="genre">Operas</field>
 <field name="title">Ének a kőszívű királyról</field>
-<field name="titlesort">Ének a kőszívű királyról</field>
+<field name="titleSort">Ének a kőszívű királyról</field>
 <field name="composer">László Sáry</field>
-<field name="composersort">Sáry, László</field>
+<field name="composerSort">Sáry, László</field>
 <field name="year">2006</field>
 <field name="date">October 20, 2006</field>
 <field name="librettist">János Pilinszky</field>
-<field name="librettistsort">Pilinszky, János</field>
+<field name="librettistSort">Pilinszky, János</field>
 <field name="theater">Nádor Terem</field>
 <field name="city">Budapest</field>
 <field name="country">Hungary</field>

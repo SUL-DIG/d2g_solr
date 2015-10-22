@@ -3,12 +3,12 @@
 <field name="id">19960778</field>
 <field name="genre">Operas</field>
 <field name="title">El regreso (The Return)</field>
-<field name="titlesort">regreso (The Return)</field>
+<field name="titleSort">regreso (The Return)</field>
 <field name="composer">Ricardo Storm</field>
-<field name="composersort">Storm, Ricardo</field>
+<field name="composerSort">Storm, Ricardo</field>
 <field name="year">1958</field>
 <field name="librettist">Ricardo Storm</field>
-<field name="librettistsort">Storm, Ricardo</field>
+<field name="librettistSort">Storm, Ricardo</field>
 <field name="theater">Teatro Solis</field>
 <field name="city">Montevideo</field>
 <field name="country">Uruguay</field>

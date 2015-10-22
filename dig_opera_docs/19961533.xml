@@ -3,13 +3,13 @@
 <field name="id">19961533</field>
 <field name="genre">Operas</field>
 <field name="title">Les Orages désirés</field>
-<field name="titlesort">Orages désirés</field>
+<field name="titleSort">Orages désirés</field>
 <field name="composer">Gérard Condé</field>
-<field name="composersort">Condé, Gérard</field>
+<field name="composerSort">Condé, Gérard</field>
 <field name="year">2003</field>
 <field name="date">November 22, 2003</field>
 <field name="librettist">Christian Wasselin</field>
-<field name="librettistsort">Wasselin, Christian</field>
+<field name="librettistSort">Wasselin, Christian</field>
 <field name="theater">Radio France</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

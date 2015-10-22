@@ -3,13 +3,13 @@
 <field name="id">19960909</field>
 <field name="genre">Operas</field>
 <field name="title">Forelle Stanley</field>
-<field name="titlesort">Forelle Stanley</field>
+<field name="titleSort">Forelle Stanley</field>
 <field name="composer">Daniel Fueter</field>
-<field name="composersort">Fueter, Daniel</field>
+<field name="composerSort">Fueter, Daniel</field>
 <field name="year">2011</field>
 <field name="date">September 22, 2011</field>
 <field name="librettist">Mona Petri</field>
-<field name="librettistsort">Petri, Mona</field>
+<field name="librettistSort">Petri, Mona</field>
 <field name="theater">Theater Rigiblick</field>
 <field name="city">Zürich</field>
 <field name="region">Zürich</field>

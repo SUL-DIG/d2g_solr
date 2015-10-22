@@ -3,13 +3,13 @@
 <field name="id">19962844</field>
 <field name="genre">Operas</field>
 <field name="title">The Wildman</field>
-<field name="titlesort">Wildman</field>
+<field name="titleSort">Wildman</field>
 <field name="composer">Nicola LeFanu</field>
-<field name="composersort">LeFanu, Nicola</field>
+<field name="composerSort">LeFanu, Nicola</field>
 <field name="year">1995</field>
 <field name="date">June 9, 1995</field>
 <field name="librettist">Kevin Crossley-Holland</field>
-<field name="librettistsort">Crossley-Holland, Kevin</field>
+<field name="librettistSort">Crossley-Holland, Kevin</field>
 <field name="theater">The Maltings</field>
 <field name="city">Snape</field>
 <field name="region">Suffolk</field>

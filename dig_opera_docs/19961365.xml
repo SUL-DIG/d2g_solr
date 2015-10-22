@@ -3,13 +3,13 @@
 <field name="id">19961365</field>
 <field name="genre">Operas</field>
 <field name="title">L'instant</field>
-<field name="titlesort">instant</field>
+<field name="titleSort">instant</field>
 <field name="composer">Oscar Strasnoy</field>
-<field name="composersort">Strasnoy, Oscar</field>
+<field name="composerSort">Strasnoy, Oscar</field>
 <field name="year">2008</field>
 <field name="date">January 21, 2008</field>
 <field name="librettist">Alejandro Tantanian</field>
-<field name="librettistsort">Tantanian, Alejandro</field>
+<field name="librettistSort">Tantanian, Alejandro</field>
 <field name="theater">L'espace Jacques Prévert</field>
 <field name="city">Aulnay-sous-Bois</field>
 <field name="region">Seine-Saint-Denis</field>

@@ -3,13 +3,13 @@
 <field name="id">19962306</field>
 <field name="genre">Operas</field>
 <field name="title">Skitterbang Island</field>
-<field name="titlesort">Skitterbang Island</field>
+<field name="titleSort">Skitterbang Island</field>
 <field name="composer">Martin Ward</field>
-<field name="composersort">Ward, Martin</field>
+<field name="composerSort">Ward, Martin</field>
 <field name="year">2010</field>
 <field name="date">July 7, 2010</field>
 <field name="librettist">Phil Porter</field>
-<field name="librettistsort">Porter, Phil</field>
+<field name="librettistSort">Porter, Phil</field>
 <field name="theater">Polka Theatre</field>
 <field name="city">Wimbledon</field>
 <field name="region">Greater London</field>

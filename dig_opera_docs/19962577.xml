@@ -3,13 +3,13 @@
 <field name="id">19962577</field>
 <field name="genre">Operas</field>
 <field name="title">The Gospel According to the Other Mary</field>
-<field name="titlesort">Gospel According to the Other Mary</field>
+<field name="titleSort">Gospel According to the Other Mary</field>
 <field name="composer">John Adams</field>
-<field name="composersort">Adams, John</field>
+<field name="composerSort">Adams, John</field>
 <field name="year">2012</field>
 <field name="date">March 7, 2012</field>
 <field name="librettist">Peter Sellars</field>
-<field name="librettistsort">Sellars, Peter</field>
+<field name="librettistSort">Sellars, Peter</field>
 <field name="theater">Walt Disney Concert Hall</field>
 <field name="city">Los Angeles</field>
 <field name="region">California</field>

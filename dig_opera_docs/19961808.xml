@@ -3,13 +3,13 @@
 <field name="id">19961808</field>
 <field name="genre">Operas</field>
 <field name="title">Nattesangen</field>
-<field name="titlesort">Nattesangen</field>
+<field name="titleSort">Nattesangen</field>
 <field name="composer">Lars-Erik Rosell</field>
-<field name="composersort">Rosell, Lars-Erik</field>
+<field name="composerSort">Rosell, Lars-Erik</field>
 <field name="year">1974</field>
 <field name="date">December 15, 1974</field>
 <field name="librettist">Mogens Faber</field>
-<field name="librettistsort">Faber, Mogens</field>
+<field name="librettistSort">Faber, Mogens</field>
 <field name="city">Copenhagen</field>
 <field name="region">Hovedstaden</field>
 <field name="country">Denmark</field>

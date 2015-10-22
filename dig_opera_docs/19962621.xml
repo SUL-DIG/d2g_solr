@@ -3,13 +3,13 @@
 <field name="id">19962621</field>
 <field name="genre">Operas</field>
 <field name="title">The Libation Bearers</field>
-<field name="titlesort">Libation Bearers</field>
+<field name="titleSort">Libation Bearers</field>
 <field name="composer">Andrew Earle Simpson</field>
-<field name="composersort">Simpson, Andrew Earle</field>
+<field name="composerSort">Simpson, Andrew Earle</field>
 <field name="year">2004</field>
 <field name="date">March 19, 2004</field>
 <field name="librettist">Sarah Brown Ferrario</field>
-<field name="librettistsort">Ferrario, Sarah Brown</field>
+<field name="librettistSort">Ferrario, Sarah Brown</field>
 <field name="theater">Catholic University</field>
 <field name="city">Washington</field>
 <field name="region">District of Columbia</field>

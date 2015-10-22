@@ -3,13 +3,13 @@
 <field name="id">19961033</field>
 <field name="genre">Operas</field>
 <field name="title">Halløj i firmaet</field>
-<field name="titlesort">Halløj i firmaet</field>
+<field name="titleSort">Halløj i firmaet</field>
 <field name="composer">Peter Bruun</field>
-<field name="composersort">Bruun, Peter</field>
+<field name="composerSort">Bruun, Peter</field>
 <field name="year">2012</field>
 <field name="date">November 16, 2012</field>
 <field name="librettist">Jesper B. Karlsens</field>
-<field name="librettistsort">Karlsens, Jesper B.</field>
+<field name="librettistSort">Karlsens, Jesper B.</field>
 <field name="theater">Musikhuset</field>
 <field name="city">Esberg</field>
 <field name="region">Syddanmark</field>

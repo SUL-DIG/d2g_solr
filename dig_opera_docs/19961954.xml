@@ -3,13 +3,13 @@
 <field name="id">19961954</field>
 <field name="genre">Operas</field>
 <field name="title">Paraná Guazú</field>
-<field name="titlesort">Paraná Guazú</field>
+<field name="titleSort">Paraná Guazú</field>
 <field name="composer">Vicente Ascone</field>
-<field name="composersort">Ascone, Vicente</field>
+<field name="composerSort">Ascone, Vicente</field>
 <field name="year">1931</field>
 <field name="date">July 25, 1931</field>
 <field name="librettist">Humberto Zarrilli</field>
-<field name="librettistsort">Zarrilli, Humberto</field>
+<field name="librettistSort">Zarrilli, Humberto</field>
 <field name="theater">Escuela di Música</field>
 <field name="city">Montevideo</field>
 <field name="country">Uruguay</field>

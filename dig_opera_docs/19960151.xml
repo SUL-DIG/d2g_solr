@@ -3,13 +3,13 @@
 <field name="id">19960151</field>
 <field name="genre">Operas</field>
 <field name="title">An Turus (The Journey)</field>
-<field name="titlesort">An Turus (The Journey)</field>
+<field name="titleSort">An Turus (The Journey)</field>
 <field name="composer">William Sweeney</field>
-<field name="composersort">Sweeney, William</field>
+<field name="composerSort">Sweeney, William</field>
 <field name="year">1998</field>
 <field name="date">January 31, 1998</field>
 <field name="librettist">Aonghas MacNeacail</field>
-<field name="librettistsort">MacNeacail, Aonghas</field>
+<field name="librettistSort">MacNeacail, Aonghas</field>
 <field name="theater">Old Fruitmarket</field>
 <field name="city">Glasgow</field>
 <field name="region">Scotland</field>

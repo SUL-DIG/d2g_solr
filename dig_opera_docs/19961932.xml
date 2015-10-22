@@ -3,9 +3,9 @@
 <field name="id">19961932</field>
 <field name="genre">Operas</field>
 <field name="title">Othello</field>
-<field name="titlesort">Othello</field>
+<field name="titleSort">Othello</field>
 <field name="composer">Tetsuo Furudate</field>
-<field name="composersort">Furudate, Tetsuo</field>
+<field name="composerSort">Furudate, Tetsuo</field>
 <field name="year">2001</field>
 <field name="theater">Podewil’sche Palais</field>
 <field name="city">Berlin</field>

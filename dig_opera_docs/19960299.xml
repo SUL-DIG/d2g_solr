@@ -3,13 +3,13 @@
 <field name="id">19960299</field>
 <field name="genre">Operas</field>
 <field name="title">Belladonna</field>
-<field name="titlesort">Belladonna</field>
+<field name="titleSort">Belladonna</field>
 <field name="composer">Bernard Rands</field>
-<field name="composersort">Rands, Bernard</field>
+<field name="composerSort">Rands, Bernard</field>
 <field name="year">1999</field>
 <field name="date">July 29, 1999</field>
 <field name="librettist">Leslie Dunton-Downer</field>
-<field name="librettistsort">Dunton-Downer, Leslie</field>
+<field name="librettistSort">Dunton-Downer, Leslie</field>
 <field name="theater">Aspen Opera Theater Center</field>
 <field name="city">Aspen</field>
 <field name="region">Colorado </field>

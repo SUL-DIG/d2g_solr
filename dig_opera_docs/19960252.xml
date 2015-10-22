@@ -3,13 +3,13 @@
 <field name="id">19960252</field>
 <field name="genre">Operas</field>
 <field name="title">Baba Hirca (The Witch Hirca)</field>
-<field name="titlesort">Baba Hirca (The Witch Hirca)</field>
+<field name="titleSort">Baba Hirca (The Witch Hirca)</field>
 <field name="composer">Alexandru Flechtenmacher</field>
-<field name="composersort">Flechtenmacher, Alexandru</field>
+<field name="composerSort">Flechtenmacher, Alexandru</field>
 <field name="year">1848</field>
 <field name="date">12/27/1848</field>
 <field name="librettist">Matei Millo</field>
-<field name="librettistsort">Millo, Matei</field>
+<field name="librettistSort">Millo, Matei</field>
 <field name="theater">Teatrul National</field>
 <field name="city">Iasi</field>
 <field name="region">Iasi</field>

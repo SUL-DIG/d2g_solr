@@ -3,13 +3,13 @@
 <field name="id">19960275</field>
 <field name="genre">Operas</field>
 <field name="title">Banii, gloria și amorul (Money, Glory and Love)</field>
-<field name="titlesort">Banii, gloria și amorul (Money, Glory and Love)</field>
+<field name="titleSort">Banii, gloria și amorul (Money, Glory and Love)</field>
 <field name="composer">Alexandru Flechtenmacher</field>
-<field name="composersort">Flechtenmacher, Alexandru</field>
+<field name="composerSort">Flechtenmacher, Alexandru</field>
 <field name="year">1861</field>
 <field name="date">1/3/1861</field>
 <field name="librettist">Eugeniu Carada</field>
-<field name="librettistsort">Carada, Eugeniu</field>
+<field name="librettistSort">Carada, Eugeniu</field>
 <field name="theater">Teatrul National</field>
 <field name="city">Bucharest</field>
 <field name="country">Romania</field>

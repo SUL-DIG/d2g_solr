@@ -3,13 +3,13 @@
 <field name="id">19961283</field>
 <field name="genre">Operas</field>
 <field name="title">Karl May</field>
-<field name="titlesort">Karl May</field>
+<field name="titleSort">Karl May</field>
 <field name="composer">Manos Tsangaris</field>
-<field name="composersort">Tsangaris, Manos</field>
+<field name="composerSort">Tsangaris, Manos</field>
 <field name="year">2014</field>
 <field name="date">June 20, 2014</field>
 <field name="librettist">Marcel Beyer</field>
-<field name="librettistsort">Beyer, Marcel</field>
+<field name="librettistSort">Beyer, Marcel</field>
 <field name="theater">Sächsische Staatsoper</field>
 <field name="city">Dresden</field>
 <field name="region">Sachsen</field>

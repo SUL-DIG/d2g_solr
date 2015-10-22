@@ -3,13 +3,13 @@
 <field name="id">19961245</field>
 <field name="genre">Operas</field>
 <field name="title">Jorun orm i öga</field>
-<field name="titlesort">Jorun orm i öga</field>
+<field name="titleSort">Jorun orm i öga</field>
 <field name="composer">Marie Samuelsson</field>
-<field name="composersort">Samuelsson, Marie</field>
+<field name="composerSort">Samuelsson, Marie</field>
 <field name="year">2013</field>
 <field name="date">July 19, 2013</field>
 <field name="librettist">Kerstin Ekman</field>
-<field name="librettistsort">Ekman, Kerstin</field>
+<field name="librettistSort">Ekman, Kerstin</field>
 <field name="theater">Vadstena Academy</field>
 <field name="city">Vadstena</field>
 <field name="region">Östergötland</field>

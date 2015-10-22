@@ -3,13 +3,13 @@
 <field name="id">19961642</field>
 <field name="genre">Operas</field>
 <field name="title">Man in a Black Coat</field>
-<field name="titlesort">Man in a Black Coat</field>
+<field name="titleSort">Man in a Black Coat</field>
 <field name="composer">Inessa Zaretsky</field>
-<field name="composersort">Zaretsky, Inessa</field>
+<field name="composerSort">Zaretsky, Inessa</field>
 <field name="year">2012</field>
 <field name="date">March 21, 2012</field>
 <field name="librettist">Daniil Kharms</field>
-<field name="librettistsort">Kharms, Daniil</field>
+<field name="librettistSort">Kharms, Daniil</field>
 <field name="theater">The Bushwick Starr, Brooklyn</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

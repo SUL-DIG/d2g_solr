@@ -3,13 +3,13 @@
 <field name="id">19961087</field>
 <field name="genre">Operas</field>
 <field name="title">Hildegard</field>
-<field name="titlesort">Hildegard</field>
+<field name="titleSort">Hildegard</field>
 <field name="composer">Janika Vandervelde</field>
-<field name="composersort">Vandervelde, Janika</field>
+<field name="composerSort">Vandervelde, Janika</field>
 <field name="year">1989</field>
 <field name="date">September 1, 1989</field>
 <field name="librettist">Susan McClary</field>
-<field name="librettistsort">McClary, Susan</field>
+<field name="librettistSort">McClary, Susan</field>
 <field name="theater">Southern Theater</field>
 <field name="city">Minneapolis</field>
 <field name="region">Minnesota</field>

@@ -3,13 +3,13 @@
 <field name="id">19962614</field>
 <field name="genre">Operas</field>
 <field name="title">The Last Duel</field>
-<field name="titlesort">Last Duel</field>
+<field name="titleSort">Last Duel</field>
 <field name="composer">Gary Kulesha</field>
-<field name="composersort">Kulesha, Gary</field>
+<field name="composerSort">Kulesha, Gary</field>
 <field name="year">2000</field>
 <field name="date">November 2, 2000</field>
 <field name="librettist">Michael Patrick Albano</field>
-<field name="librettistsort">Albano, Michael Patrick</field>
+<field name="librettistSort">Albano, Michael Patrick</field>
 <field name="theater">MacMillan Theatre, University of Toronto</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

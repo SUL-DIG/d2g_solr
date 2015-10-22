@@ -3,9 +3,9 @@
 <field name="id">19961790</field>
 <field name="genre">Operas</field>
 <field name="title">Na postoju</field>
-<field name="titlesort">Na postoju</field>
+<field name="titleSort">Na postoju</field>
 <field name="composer">Ludomir Michał Rogowski</field>
-<field name="composersort">Rogowski, Ludomir Michał</field>
+<field name="composerSort">Rogowski, Ludomir Michał</field>
 <field name="year">1923</field>
 <field name="city">Warsaw</field>
 <field name="country">Poland</field>

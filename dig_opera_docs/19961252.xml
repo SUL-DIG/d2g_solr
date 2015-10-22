@@ -3,13 +3,13 @@
 <field name="id">19961252</field>
 <field name="genre">Operas</field>
 <field name="title">Joutilas mies (A Man of Leisure)</field>
-<field name="titlesort">Joutilas mies (A Man of Leisure)</field>
+<field name="titleSort">Joutilas mies (A Man of Leisure)</field>
 <field name="composer">Jorma Panula</field>
-<field name="composersort">Panula, Jorma</field>
+<field name="composerSort">Panula, Jorma</field>
 <field name="year">2008</field>
 <field name="date">June 1, 2008</field>
 <field name="librettist">Juha Hurme</field>
-<field name="librettistsort">Hurme, Juha</field>
+<field name="librettistSort">Hurme, Juha</field>
 <field name="city">Nivala</field>
 <field name="region">Pohjois-Pohjanmaa</field>
 <field name="country">Finland</field>

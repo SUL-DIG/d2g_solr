@@ -3,9 +3,9 @@
 <field name="id">19961842</field>
 <field name="genre">Operas</field>
 <field name="title">Nomád mese</field>
-<field name="titlesort">Nomád mese</field>
+<field name="titleSort">Nomád mese</field>
 <field name="composer">László Sáry</field>
-<field name="composersort">Sáry, László</field>
+<field name="composerSort">Sáry, László</field>
 <field name="year">2006</field>
 <field name="date">November 28, 2006</field>
 <field name="theater">Institut Français</field>

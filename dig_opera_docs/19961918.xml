@@ -3,13 +3,13 @@
 <field name="id">19961918</field>
 <field name="genre">Operas</field>
 <field name="title">Original Features</field>
-<field name="titlesort">Original Features</field>
+<field name="titleSort">Original Features</field>
 <field name="composer">Julian Grant</field>
-<field name="composersort">Grant, Julian</field>
+<field name="composerSort">Grant, Julian</field>
 <field name="year">2011</field>
 <field name="date">December 12, 2011</field>
 <field name="librettist">Christina Jones</field>
-<field name="librettistsort">Jones, Christina</field>
+<field name="librettistSort">Jones, Christina</field>
 <field name="theater">Riverside Studios</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

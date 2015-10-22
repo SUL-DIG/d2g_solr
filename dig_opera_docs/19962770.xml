@@ -3,13 +3,13 @@
 <field name="id">19962770</field>
 <field name="genre">Operas</field>
 <field name="title">The Song of Eddie</field>
-<field name="titlesort">Song of Eddie</field>
+<field name="titleSort">Song of Eddie</field>
 <field name="composer">Harold Farberman</field>
-<field name="composersort">Farberman, Harold</field>
+<field name="composerSort">Farberman, Harold</field>
 <field name="year">2004</field>
 <field name="date">July 2, 2004</field>
 <field name="librettist">Andrew Joffe</field>
-<field name="librettistsort">Joffe, Andrew</field>
+<field name="librettistSort">Joffe, Andrew</field>
 <field name="theater">Bard College</field>
 <field name="city">Annandale-on-Hudson</field>
 <field name="region">New York</field>

@@ -3,13 +3,13 @@
 <field name="id">19961823</field>
 <field name="genre">Operas</field>
 <field name="title">Nicholas and Alexandra</field>
-<field name="titlesort">Nicholas and Alexandra</field>
+<field name="titleSort">Nicholas and Alexandra</field>
 <field name="composer">Deborah Dratell</field>
-<field name="composersort">Dratell, Deborah</field>
+<field name="composerSort">Dratell, Deborah</field>
 <field name="year">2003</field>
 <field name="date">September 14, 2003</field>
 <field name="librettist">Nicholas von Hoffman </field>
-<field name="librettistsort">Hoffman, Nicholas von</field>
+<field name="librettistSort">Hoffman, Nicholas von</field>
 <field name="theater">Dorothy Chandler Pavilion</field>
 <field name="city">Los Angeles</field>
 <field name="region">California</field>

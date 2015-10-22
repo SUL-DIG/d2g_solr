@@ -3,13 +3,13 @@
 <field name="id">19962454</field>
 <field name="genre">Operas</field>
 <field name="title">The Banquet (Talking about Love)</field>
-<field name="titlesort">Banquet (Talking about Love)</field>
+<field name="titleSort">Banquet (Talking about Love)</field>
 <field name="composer">Marcello Panni</field>
-<field name="composersort">Panni, Marcello</field>
+<field name="composerSort">Panni, Marcello</field>
 <field name="year">1998</field>
 <field name="date">June 28, 1998</field>
 <field name="librettist">Kenneth Koch</field>
-<field name="librettistsort">Koch, Kenneth</field>
+<field name="librettistSort">Koch, Kenneth</field>
 <field name="theater">Concordia-Theater</field>
 <field name="city">Bremen</field>
 <field name="region">Bremen</field>

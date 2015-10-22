@@ -3,13 +3,13 @@
 <field name="id">19960224</field>
 <field name="genre">Operas</field>
 <field name="title">Atchafalaya</field>
-<field name="titlesort">Atchafalaya</field>
+<field name="titleSort">Atchafalaya</field>
 <field name="composer">Isabelle Aboulker</field>
-<field name="composersort">Aboulker, Isabelle</field>
+<field name="composerSort">Aboulker, Isabelle</field>
 <field name="year">1996</field>
 <field name="date">June 1, 1996</field>
 <field name="librettist">Rémi Laureillard</field>
-<field name="librettistsort">Laureillard, Rémi</field>
+<field name="librettistSort">Laureillard, Rémi</field>
 <field name="theater">Festival d'opéra</field>
 <field name="city">La Chapelle-Saint-Mesmin</field>
 <field name="region">Loiret</field>

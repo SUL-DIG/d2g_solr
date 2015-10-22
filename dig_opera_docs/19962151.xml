@@ -3,13 +3,13 @@
 <field name="id">19962151</field>
 <field name="genre">Operas</field>
 <field name="title">Riddaren och draken (The Knight and the Dragon)</field>
-<field name="titlesort">Riddaren och draken (The Knight and the Dragon)</field>
+<field name="titleSort">Riddaren och draken (The Knight and the Dragon)</field>
 <field name="composer">Mikko Heiniö</field>
-<field name="composersort">Heiniö, Mikko</field>
+<field name="composerSort">Heiniö, Mikko</field>
 <field name="year">2000</field>
 <field name="date">November 9, 2000</field>
 <field name="librettist">Bo Carpelan</field>
-<field name="librettistsort">Carpelan, Bo</field>
+<field name="librettistSort">Carpelan, Bo</field>
 <field name="theater">Turku Cathedral</field>
 <field name="city">Turku</field>
 <field name="region">Varsinais-Suomi</field>

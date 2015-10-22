@@ -3,12 +3,12 @@
 <field name="id">19962185</field>
 <field name="genre">Operas</field>
 <field name="title">Rozmówki (Chats)</field>
-<field name="titlesort">Rozmówki (Chats)</field>
+<field name="titleSort">Rozmówki (Chats)</field>
 <field name="composer">Zbigniew Turski</field>
-<field name="composersort">Turski, Zbigniew</field>
+<field name="composerSort">Turski, Zbigniew</field>
 <field name="year">1966</field>
 <field name="librettist">Stefania Grodzieńska</field>
-<field name="librettistsort">Grodzieńska, Stefania</field>
+<field name="librettistSort">Grodzieńska, Stefania</field>
 <field name="theater">Radio Warsaw</field>
 <field name="city">Warsaw</field>
 <field name="country">Poland</field>

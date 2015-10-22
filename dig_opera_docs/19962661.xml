@@ -3,13 +3,13 @@
 <field name="id">19962661</field>
 <field name="genre">Operas</field>
 <field name="title">The Navigator</field>
-<field name="titlesort">Navigator</field>
+<field name="titleSort">Navigator</field>
 <field name="composer">Liza Lim</field>
-<field name="composersort">Lim, Liza</field>
+<field name="composerSort">Lim, Liza</field>
 <field name="year">2008</field>
 <field name="date">July 29, 2008</field>
 <field name="librettist">Patricia Sykes</field>
-<field name="librettistsort">Sykes, Patricia</field>
+<field name="librettistSort">Sykes, Patricia</field>
 <field name="theater">Judith Wright Centre</field>
 <field name="city">Brisbane</field>
 <field name="region">Queensland</field>

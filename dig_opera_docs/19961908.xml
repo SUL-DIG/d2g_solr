@@ -3,12 +3,12 @@
 <field name="id">19961908</field>
 <field name="genre">Operas</field>
 <field name="title">Operation Orfeo</field>
-<field name="titlesort">Operation Orfeo</field>
+<field name="titleSort">Operation Orfeo</field>
 <field name="composer">Bo Holten</field>
-<field name="composersort">Holten, Bo</field>
+<field name="composerSort">Holten, Bo</field>
 <field name="year">1993</field>
 <field name="librettist">Ib Michael</field>
-<field name="librettistsort">Michael, Ib</field>
+<field name="librettistSort">Michael, Ib</field>
 <field name="theater">Musikhuset</field>
 <field name="city">Århus</field>
 <field name="region">Midtjylland</field>

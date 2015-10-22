@@ -3,12 +3,12 @@
 <field name="id">19961006</field>
 <field name="genre">Operas</field>
 <field name="title">Goldelse</field>
-<field name="titlesort">Goldelse</field>
+<field name="titleSort">Goldelse</field>
 <field name="composer">Karl Heinz Wahren</field>
-<field name="composersort">Wahren, Karl Heinz</field>
+<field name="composerSort">Wahren, Karl Heinz</field>
 <field name="year">1987</field>
 <field name="librettist">[Eckart Hachfeld] Volker Ludwig</field>
-<field name="librettistsort">Ludwig, Volker [Eckart Hachfeld]</field>
+<field name="librettistSort">Ludwig, Volker [Eckart Hachfeld]</field>
 <field name="theater">Berliner Festwoche</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>

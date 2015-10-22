@@ -3,13 +3,13 @@
 <field name="id">19962052</field>
 <field name="genre">Operas</field>
 <field name="title">Prinz Bussel</field>
-<field name="titlesort">Prinz Bussel</field>
+<field name="titleSort">Prinz Bussel</field>
 <field name="composer">Johannes Wulff-Woesten</field>
-<field name="composersort">Wulff-Woesten, Johannes</field>
+<field name="composerSort">Wulff-Woesten, Johannes</field>
 <field name="year">2013</field>
 <field name="date">April 27, 2013</field>
 <field name="librettist">Manfred Weiss</field>
-<field name="librettistsort">Weiss, Manfred</field>
+<field name="librettistSort">Weiss, Manfred</field>
 <field name="theater">Sächsische Staatsoper</field>
 <field name="city">Dresden</field>
 <field name="region">Sachsen</field>

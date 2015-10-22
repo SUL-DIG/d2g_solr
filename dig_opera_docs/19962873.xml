@@ -3,13 +3,13 @@
 <field name="id">19962873</field>
 <field name="genre">Operas</field>
 <field name="title">Tibetan Dreams</field>
-<field name="titlesort">Tibetan Dreams</field>
+<field name="titleSort">Tibetan Dreams</field>
 <field name="composer">Stephen Dickman</field>
-<field name="composersort">Dickman, Stephen</field>
+<field name="composerSort">Dickman, Stephen</field>
 <field name="year">1990</field>
 <field name="date">October 20, 1990</field>
 <field name="librettist">Gary Glickman</field>
-<field name="librettistsort">Glickman, Gary</field>
+<field name="librettistSort">Glickman, Gary</field>
 <field name="theater">Merce Cunningham Studio</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

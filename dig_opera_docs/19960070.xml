@@ -3,13 +3,13 @@
 <field name="id">19960070</field>
 <field name="genre">Operas</field>
 <field name="title">Acquanetta</field>
-<field name="titlesort">Acquanetta</field>
+<field name="titleSort">Acquanetta</field>
 <field name="composer">Michael Gordon</field>
-<field name="composersort">Gordon, Michael</field>
+<field name="composerSort">Gordon, Michael</field>
 <field name="year">2005</field>
 <field name="date">June 25, 2005</field>
 <field name="librettist">Deborah Artman</field>
-<field name="librettistsort">Artman, Deborah</field>
+<field name="librettistSort">Artman, Deborah</field>
 <field name="theater">Städtische Bühnen</field>
 <field name="city">Aachen</field>
 <field name="region">Nordrhein-Westfallen</field>

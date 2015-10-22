@@ -3,12 +3,12 @@
 <field name="id">19962146</field>
 <field name="genre">Operas</field>
 <field name="title">Rican</field>
-<field name="titlesort">Rican</field>
+<field name="titleSort">Rican</field>
 <field name="composer">William Ortiz</field>
-<field name="composersort">Ortiz, William</field>
+<field name="composerSort">Ortiz, William</field>
 <field name="year">1991</field>
 <field name="librettist">William Ortiz</field>
-<field name="librettistsort">Ortiz, William</field>
+<field name="librettistSort">Ortiz, William</field>
 <field name="theater">American Opera Projects</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

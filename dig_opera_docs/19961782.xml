@@ -3,13 +3,13 @@
 <field name="id">19961782</field>
 <field name="genre">Operas</field>
 <field name="title">Muhteşem Süleyman</field>
-<field name="titlesort">Muhteşem Süleyman</field>
+<field name="titleSort">Muhteşem Süleyman</field>
 <field name="composer">Tevfik Akbaşlı </field>
-<field name="composersort">Akbaşlı, Tevfik</field>
+<field name="composerSort">Akbaşlı, Tevfik</field>
 <field name="year">2013</field>
 <field name="date">January 15, 2013</field>
 <field name="librettist">Işık Noyan</field>
-<field name="librettistsort">Noyan, Işık </field>
+<field name="librettistSort">Noyan, Işık </field>
 <field name="theater">Devlet Opera ve Balesi</field>
 <field name="city">Izmir</field>
 <field name="country">Turkey</field>

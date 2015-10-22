@@ -3,13 +3,13 @@
 <field name="id">19960663</field>
 <field name="genre">Operas</field>
 <field name="title">Die Welt der Mongolen</field>
-<field name="titlesort">Welt der Mongolen</field>
+<field name="titleSort">Welt der Mongolen</field>
 <field name="composer">Kurt Schwertsik</field>
-<field name="composersort">Schwertsik, Kurt</field>
+<field name="composerSort">Schwertsik, Kurt</field>
 <field name="year">1997</field>
 <field name="date">February 9, 1997</field>
 <field name="librettist">Michael Kohlmeier</field>
-<field name="librettistsort">Kohlmeier, Michael</field>
+<field name="librettistSort">Kohlmeier, Michael</field>
 <field name="theater">Landestheater</field>
 <field name="city">Linz</field>
 <field name="region">Oberösterreich</field>

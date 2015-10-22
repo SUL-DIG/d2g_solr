@@ -3,13 +3,13 @@
 <field name="id">19962997</field>
 <field name="genre">Operas</field>
 <field name="title">Vilkaču mantiniece (The Heiress of Vilkaci)</field>
-<field name="titlesort">Vilkaču mantiniece (The Heiress of Vilkaci)</field>
+<field name="titleSort">Vilkaču mantiniece (The Heiress of Vilkaci)</field>
 <field name="composer">Bruno Skulte</field>
-<field name="composersort">Skulte, Bruno</field>
+<field name="composerSort">Skulte, Bruno</field>
 <field name="year">2011</field>
 <field name="date">June 2, 2011</field>
 <field name="librettist">Tonija Kalve</field>
-<field name="librettistsort">Kalve, Tonija</field>
+<field name="librettistSort">Kalve, Tonija</field>
 <field name="theater">Latviyskiy Teatr Operï i Baleta</field>
 <field name="city">Riga</field>
 <field name="country">Latvia</field>

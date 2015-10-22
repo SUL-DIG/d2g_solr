@@ -3,13 +3,13 @@
 <field name="id">19962620</field>
 <field name="genre">Operas</field>
 <field name="title">The Letter</field>
-<field name="titlesort">Letter</field>
+<field name="titleSort">Letter</field>
 <field name="composer">Paul Moravec</field>
-<field name="composersort">Moravec, Paul</field>
+<field name="composerSort">Moravec, Paul</field>
 <field name="year">2009</field>
 <field name="date">July 25, 2009</field>
 <field name="librettist">Terry Teachout</field>
-<field name="librettistsort">Teachout, Terry</field>
+<field name="librettistSort">Teachout, Terry</field>
 <field name="theater">Opera</field>
 <field name="city">Santa Fe</field>
 <field name="region">New Mexico</field>

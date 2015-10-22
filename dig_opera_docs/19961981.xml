@@ -3,13 +3,13 @@
 <field name="id">19961981</field>
 <field name="genre">Operas</field>
 <field name="title">Penny</field>
-<field name="titlesort">Penny</field>
+<field name="titleSort">Penny</field>
 <field name="composer">Douglas Pew</field>
-<field name="composersort">Pew, Douglas</field>
+<field name="composerSort">Pew, Douglas</field>
 <field name="year">2015</field>
 <field name="date">January 23, 2015</field>
 <field name="librettist">Dara Weiberg</field>
-<field name="librettistsort">Weiberg, Dara</field>
+<field name="librettistSort">Weiberg, Dara</field>
 <field name="theater">Kennedy Center</field>
 <field name="city">Washington</field>
 <field name="region">District of Columbia</field>

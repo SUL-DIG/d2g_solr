@@ -3,13 +3,13 @@
 <field name="id">19961802</field>
 <field name="genre">Operas</field>
 <field name="title">Narukami</field>
-<field name="titlesort">Narukami</field>
+<field name="titleSort">Narukami</field>
 <field name="composer">Mamiya Michio</field>
-<field name="composersort">Michio, Mamiya</field>
+<field name="composerSort">Michio, Mamiya</field>
 <field name="year">1974</field>
 <field name="date">June 1, 1974</field>
 <field name="librettist">Mamiya Michio</field>
-<field name="librettistsort">Michio, Mamiya</field>
+<field name="librettistSort">Michio, Mamiya</field>
 <field name="theater">NHK Television (Nippon Hoso Kyokai)</field>
 <field name="city">Tokyo</field>
 <field name="region">Tokyo</field>

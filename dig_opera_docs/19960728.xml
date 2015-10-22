@@ -3,13 +3,13 @@
 <field name="id">19960728</field>
 <field name="genre">Operas</field>
 <field name="title">Due teste e una ragazza</field>
-<field name="titlesort">Due teste e una ragazza</field>
+<field name="titleSort">Due teste e una ragazza</field>
 <field name="composer">Isidora Zebeljan</field>
-<field name="composersort">Zebeljan, Isidora</field>
+<field name="composerSort">Zebeljan, Isidora</field>
 <field name="year">2012</field>
 <field name="date">July 12, 2012</field>
 <field name="librettist">Borislav Cicovacki</field>
-<field name="librettistsort">Cicovacki, Borislav</field>
+<field name="librettistSort">Cicovacki, Borislav</field>
 <field name="theater">Accademia Musicale Chigiana</field>
 <field name="city">Siena</field>
 <field name="region">Toscana</field>

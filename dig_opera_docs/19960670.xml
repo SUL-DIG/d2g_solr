@@ -3,13 +3,13 @@
 <field name="id">19960670</field>
 <field name="genre">Operas</field>
 <field name="title">Dirty Apple</field>
-<field name="titlesort">Dirty Apple</field>
+<field name="titleSort">Dirty Apple</field>
 <field name="composer">Jonathan Henderson</field>
-<field name="composersort">Henderson, Jonathan</field>
+<field name="composerSort">Henderson, Jonathan</field>
 <field name="year">2009</field>
 <field name="date">July 18, 2009</field>
 <field name="librettist">Shaun Charles</field>
-<field name="librettistsort">Charles, Shaun</field>
+<field name="librettistSort">Charles, Shaun</field>
 <field name="theater">Brisbane Powerhouse, New Farm</field>
 <field name="city">Brisbane</field>
 <field name="region">Queensland</field>

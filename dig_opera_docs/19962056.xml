@@ -3,13 +3,13 @@
 <field name="id">19962056</field>
 <field name="genre">Operas</field>
 <field name="title">Processions</field>
-<field name="titlesort">Processions</field>
+<field name="titleSort">Processions</field>
 <field name="composer">James Callahan</field>
-<field name="composersort">Callahan, James</field>
+<field name="composerSort">Callahan, James</field>
 <field name="year">1996</field>
 <field name="date">April 19, 1996</field>
 <field name="librettist">Mark Pizzato</field>
-<field name="librettistsort">Pizzato, Mark</field>
+<field name="librettistSort">Pizzato, Mark</field>
 <field name="theater">University of St. Thomas</field>
 <field name="city">St. Paul</field>
 <field name="region">Minnesota</field>

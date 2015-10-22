@@ -3,13 +3,13 @@
 <field name="id">19962195</field>
 <field name="genre">Operas</field>
 <field name="title">Runon lintu ja liekki (Poem Bird and Flame)</field>
-<field name="titlesort">Runon lintu ja liekki (Poem Bird and Flame)</field>
+<field name="titleSort">Runon lintu ja liekki (Poem Bird and Flame)</field>
 <field name="composer">Risto Vähäsarja</field>
-<field name="composersort">Vähäsarja, Risto</field>
+<field name="composerSort">Vähäsarja, Risto</field>
 <field name="year">1999</field>
 <field name="date">July 23, 1999</field>
 <field name="librettist">Ritva Hakkarainen</field>
-<field name="librettistsort">Hakkarainen, Ritva</field>
+<field name="librettistSort">Hakkarainen, Ritva</field>
 <field name="theater">Vastus House</field>
 <field name="city">Vaala</field>
 <field name="region">Kainuu</field>

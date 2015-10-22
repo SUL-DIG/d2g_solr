@@ -3,13 +3,13 @@
 <field name="id">19960730</field>
 <field name="genre">Operas</field>
 <field name="title">Dulcitius</field>
-<field name="titlesort">Dulcitius</field>
+<field name="titleSort">Dulcitius</field>
 <field name="composer">Peter Paul Koprowski</field>
-<field name="composersort">Koprowski, Peter Paul</field>
+<field name="composerSort">Koprowski, Peter Paul</field>
 <field name="year">1989</field>
 <field name="date">May 17, 1989</field>
 <field name="librettist">Rod Anderson</field>
-<field name="librettistsort">Anderson, Rod</field>
+<field name="librettistSort">Anderson, Rod</field>
 <field name="theater">Texaco Opera Theatre</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

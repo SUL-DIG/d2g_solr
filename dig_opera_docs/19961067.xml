@@ -3,13 +3,13 @@
 <field name="id">19961067</field>
 <field name="genre">Operas</field>
 <field name="title">Heloise and Abelard</field>
-<field name="titlesort">Parrot Pie</field>
+<field name="titleSort">Parrot Pie</field>
 <field name="composer">Peter Richard Tahourdin</field>
-<field name="composersort">Tahourdin, Peter Richard</field>
+<field name="composerSort">Tahourdin, Peter Richard</field>
 <field name="year">1993</field>
 <field name="date">March 1, 1993</field>
 <field name="librettist">Peter Richard Tahourdin</field>
-<field name="librettistsort">Tahourdin, Peter Richard</field>
+<field name="librettistSort">Tahourdin, Peter Richard</field>
 <field name="theater">University of Western Australia</field>
 <field name="city">Perth</field>
 <field name="region">Western Australia</field>

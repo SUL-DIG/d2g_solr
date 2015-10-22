@@ -3,13 +3,13 @@
 <field name="id">19961851</field>
 <field name="genre">Operas</field>
 <field name="title">Nosotros Dos</field>
-<field name="titlesort">Nosotros Dos</field>
+<field name="titleSort">Nosotros Dos</field>
 <field name="composer">Carlos Escalante Macaya</field>
-<field name="composersort">Escalante Macaya, Carlos</field>
+<field name="composerSort">Escalante Macaya, Carlos</field>
 <field name="year">1995</field>
 <field name="date">December 19, 1995</field>
 <field name="librettist">Carlos Tapia</field>
-<field name="librettistsort">Tapia, Carlos</field>
+<field name="librettistSort">Tapia, Carlos</field>
 <field name="theater">Teatro Fanal</field>
 <field name="city">San Jose</field>
 <field name="country">Costa Rica</field>

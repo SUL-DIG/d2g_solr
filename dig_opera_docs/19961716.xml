@@ -3,13 +3,13 @@
 <field name="id">19961716</field>
 <field name="genre">Operas</field>
 <field name="title">Memoirs of Uliana Rooney</field>
-<field name="titlesort">Memoirs of Uliana Rooney</field>
+<field name="titleSort">Memoirs of Uliana Rooney</field>
 <field name="composer">Vivian Fine</field>
-<field name="composersort">Fine, Vivian</field>
+<field name="composerSort">Fine, Vivian</field>
 <field name="year">1997</field>
 <field name="date">February 28, 1997</field>
 <field name="librettist">Sonya Friedman</field>
-<field name="librettistsort">Friedman, Sonya</field>
+<field name="librettistSort">Friedman, Sonya</field>
 <field name="theater">University of Richmond</field>
 <field name="city">Richmond</field>
 <field name="region">Virginia</field>

@@ -3,13 +3,13 @@
 <field name="id">19960652</field>
 <field name="genre">Operas</field>
 <field name="title">Die schöne Wassilissa</field>
-<field name="titlesort">schöne Wassilissa</field>
+<field name="titleSort">schöne Wassilissa</field>
 <field name="composer">Pavel Singer</field>
-<field name="composersort">Singer, Pavel</field>
+<field name="composerSort">Singer, Pavel</field>
 <field name="year">2010</field>
 <field name="date">November 20, 2010</field>
 <field name="librettist">Thomas Jorda</field>
-<field name="librettistsort">Jorda, Thomas</field>
+<field name="librettistSort">Jorda, Thomas</field>
 <field name="theater">Stadttheater</field>
 <field name="city">Baden bei Wien</field>
 <field name="region">Niederösterreich</field>

@@ -3,13 +3,13 @@
 <field name="id">19962379</field>
 <field name="genre">Operas</field>
 <field name="title">Sub-Plot</field>
-<field name="titlesort">Sub-Plot</field>
+<field name="titleSort">Sub-Plot</field>
 <field name="composer">Lucia Ronchetti</field>
-<field name="composersort">Ronchetti, Lucia</field>
+<field name="composerSort">Ronchetti, Lucia</field>
 <field name="year">2014</field>
 <field name="date">April 6, 2014</field>
 <field name="librettist">Pietro Metastasio</field>
-<field name="librettistsort">Metastasio, Pietro</field>
+<field name="librettistSort">Metastasio, Pietro</field>
 <field name="theater">Sächsische Staatsoper</field>
 <field name="city">Dresden</field>
 <field name="region">Sachsen</field>

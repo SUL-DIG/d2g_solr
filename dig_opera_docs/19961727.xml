@@ -3,13 +3,13 @@
 <field name="id">19961727</field>
 <field name="genre">Operas</field>
 <field name="title">Midnight Son</field>
-<field name="titlesort">Midnight Son</field>
+<field name="titleSort">Midnight Son</field>
 <field name="composer">Gordon Kerry</field>
-<field name="composersort">Kerry, Gordon</field>
+<field name="composerSort">Kerry, Gordon</field>
 <field name="year">2012</field>
 <field name="date">May 16, 2012</field>
 <field name="librettist">Louis Nowra</field>
-<field name="librettistsort">Nowra, Louis</field>
+<field name="librettistSort">Nowra, Louis</field>
 <field name="theater">Merlyn Theatre, CUB Malthouse</field>
 <field name="city">Melbourne</field>
 <field name="region">Victoria</field>

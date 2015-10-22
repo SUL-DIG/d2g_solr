@@ -3,13 +3,13 @@
 <field name="id">19960984</field>
 <field name="genre">Operas</field>
 <field name="title">Gesualdo Considered as a Murderer</field>
-<field name="titlesort">Gesualdo Considered as a Murderer</field>
+<field name="titleSort">Gesualdo Considered as a Murderer</field>
 <field name="composer">Luca Francesconi</field>
-<field name="composersort">Francesconi, Luca</field>
+<field name="composerSort">Francesconi, Luca</field>
 <field name="year">2004</field>
 <field name="date">June 5, 2004</field>
 <field name="librettist">Vittorio Sermonti</field>
-<field name="librettistsort">Sermonti, Vittorio</field>
+<field name="librettistSort">Sermonti, Vittorio</field>
 <field name="theater">Concertgebouw</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>

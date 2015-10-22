@@ -3,13 +3,13 @@
 <field name="id">19962500</field>
 <field name="genre">Operas</field>
 <field name="title">The Crossing</field>
-<field name="titlesort">Crossing</field>
+<field name="titleSort">Crossing</field>
 <field name="composer">Odaline de la Martinez</field>
-<field name="composersort">Martinez, Odaline de la</field>
+<field name="composerSort">Martinez, Odaline de la</field>
 <field name="year">2013</field>
 <field name="date">April 27, 2013</field>
 <field name="librettist">Joan Anim-Addo</field>
-<field name="librettistsort">Anim-Addo, Joan</field>
+<field name="librettistSort">Anim-Addo, Joan</field>
 <field name="theater">Tulane University</field>
 <field name="city">New Orleans</field>
 <field name="region">Louisiana</field>

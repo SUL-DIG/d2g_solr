@@ -3,13 +3,13 @@
 <field name="id">19962864</field>
 <field name="genre">Operas</field>
 <field name="title">Thomas</field>
-<field name="titlesort">Thomas</field>
+<field name="titleSort">Thomas</field>
 <field name="composer">Georg Friedrich Haas</field>
-<field name="composersort">Haas, Georg Friedrich</field>
+<field name="composerSort">Haas, Georg Friedrich</field>
 <field name="year">2013</field>
 <field name="date">May 26, 2013</field>
 <field name="librettist">[Klaus Händl] Händl Klaus</field>
-<field name="librettistsort">Klaus, Händl [Klaus Händl]</field>
+<field name="librettistSort">Klaus, Händl [Klaus Händl]</field>
 <field name="theater">Schlosstheater</field>
 <field name="city">Schwetzingen</field>
 <field name="region">Baden-Württemberg</field>

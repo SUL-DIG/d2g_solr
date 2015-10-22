@@ -3,13 +3,13 @@
 <field name="id">19960571</field>
 <field name="genre">Operas</field>
 <field name="title">Der Herr Nordwind</field>
-<field name="titlesort">Herr Nordwind</field>
+<field name="titleSort">Herr Nordwind</field>
 <field name="composer">Heinz Karl Gruber</field>
-<field name="composersort">Gruber, Heinz Karl</field>
+<field name="composerSort">Gruber, Heinz Karl</field>
 <field name="year">2005</field>
 <field name="date">June 12, 2005</field>
 <field name="librettist">Hans Carl Artmann</field>
-<field name="librettistsort">Artmann, Hans Carl</field>
+<field name="librettistSort">Artmann, Hans Carl</field>
 <field name="theater">Opernhaus</field>
 <field name="city">Zürich</field>
 <field name="region">Zürich</field>

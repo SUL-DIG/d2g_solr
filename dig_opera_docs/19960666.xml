@@ -3,13 +3,13 @@
 <field name="id">19960666</field>
 <field name="genre">Operas</field>
 <field name="title">Differences in Demolition</field>
-<field name="titlesort">Differences in Demolition</field>
+<field name="titleSort">Differences in Demolition</field>
 <field name="composer">Nigel Osborne</field>
-<field name="composersort">Osborne, Nigel</field>
+<field name="composerSort">Osborne, Nigel</field>
 <field name="year">2007</field>
 <field name="date">July 10, 2007</field>
 <field name="librettist">Goran Simić</field>
-<field name="librettistsort">Simić, Goran</field>
+<field name="librettistSort">Simić, Goran</field>
 <field name="theater">Wilton's Music Hall</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

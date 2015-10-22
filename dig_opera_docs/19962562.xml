@@ -3,13 +3,13 @@
 <field name="id">19962562</field>
 <field name="genre">Operas</field>
 <field name="title">The Genteel Pigeons</field>
-<field name="titlesort">Genteel Pigeons</field>
+<field name="titleSort">Genteel Pigeons</field>
 <field name="composer">John Drummond</field>
-<field name="composersort">Drummond, John</field>
+<field name="composerSort">Drummond, John</field>
 <field name="year">2006</field>
 <field name="date">May 2, 2006</field>
 <field name="librettist">Jeremy Commons</field>
-<field name="librettistsort">Commons, Jeremy</field>
+<field name="librettistSort">Commons, Jeremy</field>
 <field name="theater">Wellesley Club</field>
 <field name="city">Wellington</field>
 <field name="country">New Zealand</field>

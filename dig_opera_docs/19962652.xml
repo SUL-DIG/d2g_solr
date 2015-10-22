@@ -3,13 +3,13 @@
 <field name="id">19962652</field>
 <field name="genre">Operas</field>
 <field name="title">The Miraculous Staircase</field>
-<field name="titlesort">Miraculous Staircase</field>
+<field name="titleSort">Miraculous Staircase</field>
 <field name="composer">Richard Chiarappa</field>
-<field name="composersort">Chiarappa, Richard  </field>
+<field name="composerSort">Chiarappa, Richard  </field>
 <field name="year">2013</field>
 <field name="date">May 4, 2013</field>
 <field name="librettist">Richard Chiarappa</field>
-<field name="librettistsort">Chiarappa, Richard  </field>
+<field name="librettistSort">Chiarappa, Richard  </field>
 <field name="theater">Western Connecticut State University</field>
 <field name="city">Danbury</field>
 <field name="region">Connecticut</field>

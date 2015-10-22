@@ -3,9 +3,9 @@
 <field name="id">19960334</field>
 <field name="genre">Operas</field>
 <field name="title">Blinde Liebe (Brother/Sister)</field>
-<field name="titlesort">Blinde Liebe (Brother/Sister)</field>
+<field name="titleSort">Blinde Liebe (Brother/Sister)</field>
 <field name="composer">Erling Wold</field>
-<field name="composersort">Wold, Erling</field>
+<field name="composerSort">Wold, Erling</field>
 <field name="year">2005</field>
 <field name="date">March 24, 2005</field>
 <field name="theater">Tafelhalle</field>

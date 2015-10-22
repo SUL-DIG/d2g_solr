@@ -3,13 +3,13 @@
 <field name="id">19960986</field>
 <field name="genre">Operas</field>
 <field name="title">Gethsemane Park</field>
-<field name="titlesort">Gethsemane Park</field>
+<field name="titleSort">Gethsemane Park</field>
 <field name="composer">Carman Moore</field>
-<field name="composersort">Moore, Carman</field>
+<field name="composerSort">Moore, Carman</field>
 <field name="year">2000</field>
 <field name="date">July 28, 2000</field>
 <field name="librettist">Ishmael Reed</field>
-<field name="librettistsort">Reed, Ishmael</field>
+<field name="librettistSort">Reed, Ishmael</field>
 <field name="theater">Nuyorican Poets Cafe</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

@@ -3,13 +3,13 @@
 <field name="id">19962968</field>
 <field name="genre">Operas</field>
 <field name="title">Utopien</field>
-<field name="titlesort">Utopien</field>
+<field name="titleSort">Utopien</field>
 <field name="composer">Dieter Schnebel</field>
-<field name="composersort">Schnebel, Dieter</field>
+<field name="composerSort">Schnebel, Dieter</field>
 <field name="year">2014</field>
 <field name="date">May 17, 2014</field>
 <field name="librettist">Roland Quitt</field>
-<field name="librettistsort">Quitt, Roland</field>
+<field name="librettistSort">Quitt, Roland</field>
 <field name="theater">Biennale</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

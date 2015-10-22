@@ -3,13 +3,13 @@
 <field name="id">19962121</field>
 <field name="genre">Operas</field>
 <field name="title">Red Rubber</field>
-<field name="titlesort">Red Rubber</field>
+<field name="titleSort">Red Rubber</field>
 <field name="composer">Dirk D'Ase</field>
-<field name="composersort">D'Ase, Dirk</field>
+<field name="composerSort">D'Ase, Dirk</field>
 <field name="year">1993</field>
 <field name="date">May 7, 1993</field>
 <field name="librettist">Alexander Steyermark</field>
-<field name="librettistsort">Steyermark, Alexander</field>
+<field name="librettistSort">Steyermark, Alexander</field>
 <field name="theater">deSingel</field>
 <field name="city">Antwerp</field>
 <field name="region">Antwerpen</field>

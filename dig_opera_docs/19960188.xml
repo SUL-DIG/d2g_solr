@@ -3,13 +3,13 @@
 <field name="id">19960188</field>
 <field name="genre">Operas</field>
 <field name="title">Antigone oder Die Stadt</field>
-<field name="titlesort">Antigone oder Die Stadt</field>
+<field name="titleSort">Antigone oder Die Stadt</field>
 <field name="composer">Georg Katzer</field>
-<field name="composersort">Katzer, Georg</field>
+<field name="composerSort">Katzer, Georg</field>
 <field name="year">1991</field>
 <field name="date">October 19, 1991</field>
 <field name="librettist">Gerhard Müller</field>
-<field name="librettistsort">Müller, Gerhard</field>
+<field name="librettistSort">Müller, Gerhard</field>
 <field name="theater">Komische Oper</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>

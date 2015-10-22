@@ -3,13 +3,13 @@
 <field name="id">19961337</field>
 <field name="genre">Operas</field>
 <field name="title">Krapp's Last Tape</field>
-<field name="titlesort">Krapp's Last Tape</field>
+<field name="titleSort">Krapp's Last Tape</field>
 <field name="composer">Karl Aage Rasmussen</field>
-<field name="composersort">Rasmussen, Karl Aage</field>
+<field name="composerSort">Rasmussen, Karl Aage</field>
 <field name="year">1969</field>
 <field name="date">November 1, 1969</field>
 <field name="librettist">Samuel Beckett</field>
-<field name="librettistsort">Beckett, Samuel</field>
+<field name="librettistSort">Beckett, Samuel</field>
 <field name="theater">Den Jyske Opera</field>
 <field name="city">Århus</field>
 <field name="region">Midtjylland</field>

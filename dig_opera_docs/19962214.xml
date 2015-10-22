@@ -3,13 +3,13 @@
 <field name="id">19962214</field>
 <field name="genre">Operas</field>
 <field name="title">Sara McKinnon</field>
-<field name="titlesort">Sara McKinnon</field>
+<field name="titleSort">Sara McKinnon</field>
 <field name="composer">Randall Shinn</field>
-<field name="composersort">Shinn, Randall</field>
+<field name="composerSort">Shinn, Randall</field>
 <field name="year">2001</field>
 <field name="date">July 27, 2001</field>
 <field name="librettist">Mark Medoff</field>
-<field name="librettistsort">Medoff, Mark</field>
+<field name="librettistSort">Medoff, Mark</field>
 <field name="theater">New Mexico State University</field>
 <field name="city">Las Cruces</field>
 <field name="region">New Mexico</field>

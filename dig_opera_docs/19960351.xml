@@ -3,13 +3,13 @@
 <field name="id">19960351</field>
 <field name="genre">Operas</field>
 <field name="title">Borgia Infami</field>
-<field name="titlesort">Borgia Infami</field>
+<field name="titleSort">Borgia Infami</field>
 <field name="composer">Harold Blumenfeld</field>
-<field name="composersort">Blumenfeld, Harold</field>
+<field name="composerSort">Blumenfeld, Harold</field>
 <field name="year">2003</field>
 <field name="date">May 7, 2003</field>
 <field name="librettist">Charles Kondek</field>
-<field name="librettistsort">Kondek, Charles</field>
+<field name="librettistSort">Kondek, Charles</field>
 <field name="theater">New York City Opera</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

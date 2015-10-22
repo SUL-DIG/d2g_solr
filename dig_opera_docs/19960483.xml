@@ -3,9 +3,9 @@
 <field name="id">19960483</field>
 <field name="genre">Operas</field>
 <field name="title">Czar's Case</field>
-<field name="titlesort">Czar's Case</field>
+<field name="titleSort">Czar's Case</field>
 <field name="composer">Aleksandr Vladimirovich Chaykovsky</field>
-<field name="composersort">Chaykovsky, Aleksandr Vladimirovich</field>
+<field name="composerSort">Chaykovsky, Aleksandr Vladimirovich</field>
 <field name="year">2013</field>
 <field name="date">June 12, 2013</field>
 <field name="city">Yelets</field>

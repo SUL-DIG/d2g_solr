@@ -3,13 +3,13 @@
 <field name="id">19961016</field>
 <field name="genre">Operas</field>
 <field name="title">Green Sneakers</field>
-<field name="titlesort">Green Sneakers</field>
+<field name="titleSort">Green Sneakers</field>
 <field name="composer">Ricky Ian Gordon</field>
-<field name="composersort">Gordon, Ricky Ian</field>
+<field name="composerSort">Gordon, Ricky Ian</field>
 <field name="year">2008</field>
 <field name="date">July 15, 2008</field>
 <field name="librettist">Ricky Ian Gordon</field>
-<field name="librettistsort">Gordon, Ricky Ian</field>
+<field name="librettistSort">Gordon, Ricky Ian</field>
 <field name="theater">Vilar Performing Arts Center</field>
 <field name="city">Beaver Creek</field>
 <field name="region">Colorado</field>

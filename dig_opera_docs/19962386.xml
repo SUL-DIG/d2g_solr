@@ -3,13 +3,13 @@
 <field name="id">19962386</field>
 <field name="genre">Operas</field>
 <field name="title">Sulkapallo-ooppera (Badminton-Opera)</field>
-<field name="titlesort">Sulkapallo-ooppera (Badminton-Opera)</field>
+<field name="titleSort">Sulkapallo-ooppera (Badminton-Opera)</field>
 <field name="composer">Max Savikangas</field>
-<field name="composersort">Savikangas, Max</field>
+<field name="composerSort">Savikangas, Max</field>
 <field name="year">2005</field>
 <field name="date">October 6, 2005</field>
 <field name="librettist">Teemu Mäki</field>
-<field name="librettistsort">Mäki, Teemu</field>
+<field name="librettistSort">Mäki, Teemu</field>
 <field name="theater">Kiasma-teatterin</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

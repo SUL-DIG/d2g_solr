@@ -3,9 +3,9 @@
 <field name="id">19961405</field>
 <field name="genre">Operas</field>
 <field name="title">La flor</field>
-<field name="titlesort">flor</field>
+<field name="titleSort">flor</field>
 <field name="composer">Ricard Lamote de Grignon</field>
-<field name="composersort">Lamote de Grignon, Ricard</field>
+<field name="composerSort">Lamote de Grignon, Ricard</field>
 <field name="year">1934</field>
 <field name="date">November 15, 1934</field>
 <field name="city">Barcelona</field>

@@ -3,13 +3,13 @@
 <field name="id">19962068</field>
 <field name="genre">Operas</field>
 <field name="title">Pumped Fiction</field>
-<field name="titlesort">Pumped Fiction</field>
+<field name="titleSort">Pumped Fiction</field>
 <field name="composer">John Charles Eaton</field>
-<field name="composersort">Eaton, John Charles</field>
+<field name="composerSort">Eaton, John Charles</field>
 <field name="year">2007</field>
 <field name="date">June 20, 2007</field>
 <field name="librettist">Estela Eaton</field>
-<field name="librettistsort">Eaton, Estela</field>
+<field name="librettistSort">Eaton, Estela</field>
 <field name="theater">Symphony Space</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

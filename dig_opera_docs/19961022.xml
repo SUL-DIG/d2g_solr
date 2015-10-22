@@ -3,13 +3,13 @@
 <field name="id">19961022</field>
 <field name="genre">Operas</field>
 <field name="title">Guayaquil</field>
-<field name="titlesort">Guayaquil</field>
+<field name="titleSort">Guayaquil</field>
 <field name="composer">Mario Perusso</field>
-<field name="composersort">Perusso, Mario</field>
+<field name="composerSort">Perusso, Mario</field>
 <field name="year">1993</field>
 <field name="date">June 9, 1993</field>
 <field name="librettist">Agustín Pérez Pardella</field>
-<field name="librettistsort">Pérez Pardella, Agustín</field>
+<field name="librettistSort">Pérez Pardella, Agustín</field>
 <field name="theater">Teatro Colón</field>
 <field name="city">Buenos Aires</field>
 <field name="region">Buenos Aires</field>

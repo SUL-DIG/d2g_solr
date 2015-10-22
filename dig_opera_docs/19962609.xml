@@ -3,13 +3,13 @@
 <field name="id">19962609</field>
 <field name="genre">Operas</field>
 <field name="title">The King's Man</field>
-<field name="titlesort">King's Man</field>
+<field name="titleSort">King's Man</field>
 <field name="composer">Paul Moravec</field>
-<field name="composersort">Moravec, Paul</field>
+<field name="composerSort">Moravec, Paul</field>
 <field name="year">2013</field>
 <field name="date">October 11, 2013</field>
 <field name="librettist">Terry Teachout</field>
-<field name="librettistsort">Teachout, Terry</field>
+<field name="librettistSort">Teachout, Terry</field>
 <field name="theater">Kentucky Opera</field>
 <field name="city">Louisville</field>
 <field name="region">Kentucky</field>

@@ -3,13 +3,13 @@
 <field name="id">19962867</field>
 <field name="genre">Operas</field>
 <field name="title">Thora på Rimol</field>
-<field name="titlesort">Thora på Rimol</field>
+<field name="titleSort">Thora på Rimol</field>
 <field name="composer">Hjalmar Borgstrøm</field>
-<field name="composersort">Borgstrøm, Hjalmar</field>
+<field name="composerSort">Borgstrøm, Hjalmar</field>
 <field name="year">2002</field>
 <field name="date">October 17, 2002</field>
 <field name="librettist">Hjalmar Borgstrøm</field>
-<field name="librettistsort">Borgstrøm, Hjalmar</field>
+<field name="librettistSort">Borgstrøm, Hjalmar</field>
 <field name="theater">Melhushallen</field>
 <field name="city">Trondheim</field>
 <field name="region">Sør-Trøndelag</field>

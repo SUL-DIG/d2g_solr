@@ -3,13 +3,13 @@
 <field name="id">19962933</field>
 <field name="genre">Operas</field>
 <field name="title">Twilight Voices</field>
-<field name="titlesort">Twilight Voices</field>
+<field name="titleSort">Twilight Voices</field>
 <field name="composer">Stan Hoffman</field>
-<field name="composersort">Hoffman, Stan</field>
+<field name="composerSort">Hoffman, Stan</field>
 <field name="year">1999</field>
 <field name="date">September 10, 1999</field>
 <field name="librettist">Darlene LeFaive</field>
-<field name="librettistsort">LeFaive, Darlene</field>
+<field name="librettistSort">LeFaive, Darlene</field>
 <field name="theater">Meydenbauer Center Theater</field>
 <field name="city">Bellevue</field>
 <field name="region">Washington</field>

@@ -3,13 +3,13 @@
 <field name="id">19961208</field>
 <field name="genre">Operas</field>
 <field name="title">Isontaloon Antti (Antti Isotalo)</field>
-<field name="titlesort">Isontaloon Antti (Antti Isotalo)</field>
+<field name="titleSort">Isontaloon Antti (Antti Isotalo)</field>
 <field name="composer">Atso Almila</field>
-<field name="composersort">Almila, Atso</field>
+<field name="composerSort">Almila, Atso</field>
 <field name="year">2000</field>
 <field name="date">June 14, 2000</field>
 <field name="librettist">Antti Tuuri</field>
-<field name="librettistsort">Tuuri, Antti</field>
+<field name="librettistSort">Tuuri, Antti</field>
 <field name="theater">Ilmajoen musiikkijuhlat</field>
 <field name="city">Ilmajoki</field>
 <field name="region">Etelä-Pohjanmaa</field>

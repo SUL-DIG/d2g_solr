@@ -3,13 +3,13 @@
 <field name="id">19960068</field>
 <field name="genre">Operas</field>
 <field name="title">Abinadi</field>
-<field name="titlesort">Abinadi</field>
+<field name="titleSort">Abinadi</field>
 <field name="composer">M. Ryan Taylor</field>
-<field name="composersort">Taylor, M. Ryan</field>
+<field name="composerSort">Taylor, M. Ryan</field>
 <field name="year">2003</field>
 <field name="date">October 24, 2003</field>
 <field name="librettist">M. Ryan Taylor</field>
-<field name="librettistsort">Taylor, M. Ryan</field>
+<field name="librettistSort">Taylor, M. Ryan</field>
 <field name="theater">Brigham Young University</field>
 <field name="city">Provo</field>
 <field name="region">Utah</field>

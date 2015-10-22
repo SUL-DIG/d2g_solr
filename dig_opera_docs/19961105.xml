@@ -3,13 +3,13 @@
 <field name="id">19961105</field>
 <field name="genre">Operas</field>
 <field name="title">Homies and Popz</field>
-<field name="titlesort">Homies and Popz</field>
+<field name="titleSort">Homies and Popz</field>
 <field name="composer">Michael Abels</field>
-<field name="composersort">Abels, Michael</field>
+<field name="composerSort">Abels, Michael</field>
 <field name="year">2000</field>
 <field name="date">May 8, 2000</field>
 <field name="librettist">Bernardo Solano</field>
-<field name="librettistsort">Solano, Bernardo</field>
+<field name="librettistSort">Solano, Bernardo</field>
 <field name="theater">Los Angeles Opera High School Tour</field>
 <field name="city">Los Angeles</field>
 <field name="region">California</field>

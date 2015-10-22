@@ -3,13 +3,13 @@
 <field name="id">19963108</field>
 <field name="genre">Operas</field>
 <field name="title">Zivilcourage</field>
-<field name="titlesort">Zivilcourage</field>
+<field name="titleSort">Zivilcourage</field>
 <field name="composer">Gordon Kampe</field>
-<field name="composersort">Kampe, Gordon</field>
+<field name="composerSort">Kampe, Gordon</field>
 <field name="year">2009</field>
 <field name="date">July 16, 2009</field>
 <field name="librettist">Hannah Arendt</field>
-<field name="librettistsort">Arendt, Hannah</field>
+<field name="librettistSort">Arendt, Hannah</field>
 <field name="theater">Paul-Gerhardt-Platz</field>
 <field name="city">Stuttgart</field>
 <field name="region">Baden-Württemberg</field>

@@ -3,9 +3,9 @@
 <field name="id">19961060</field>
 <field name="genre">Operas</field>
 <field name="title">Heile Welt</field>
-<field name="titlesort">Heile Welt</field>
+<field name="titleSort">Heile Welt</field>
 <field name="composer">Urs Peter Schneider</field>
-<field name="composersort">Schneider, Urs Peter</field>
+<field name="composerSort">Schneider, Urs Peter</field>
 <field name="year">2013</field>
 <field name="date">June 19, 2013</field>
 <field name="theater">Theatre Biel/Solothurn</field>

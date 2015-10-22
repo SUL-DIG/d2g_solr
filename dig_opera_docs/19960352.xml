@@ -3,13 +3,13 @@
 <field name="id">19960352</field>
 <field name="genre">Operas</field>
 <field name="title">Bortbytingarna</field>
-<field name="titlesort">Bortbytingarna</field>
+<field name="titleSort">Bortbytingarna</field>
 <field name="composer">Sven-Eric Johanson</field>
-<field name="composersort">Johanson, Sven-Eric</field>
+<field name="composerSort">Johanson, Sven-Eric</field>
 <field name="year">1998</field>
 <field name="date">August 1, 1998</field>
 <field name="librettist">Sven-Eric Johanson</field>
-<field name="librettistsort">Johanson, Sven-Eric</field>
+<field name="librettistSort">Johanson, Sven-Eric</field>
 <field name="theater">Kulturhuset Anders</field>
 <field name="city">Stenskogsvägen</field>
 <field name="region">Skåne</field>

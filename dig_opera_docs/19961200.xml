@@ -3,13 +3,13 @@
 <field name="id">19961200</field>
 <field name="genre">Operas</field>
 <field name="title">Iphis</field>
-<field name="titlesort">Iphis</field>
+<field name="titleSort">Iphis</field>
 <field name="composer">Elena Kats-Chernin</field>
-<field name="composersort">Kats-Chernin, Elena</field>
+<field name="composerSort">Kats-Chernin, Elena</field>
 <field name="year">1997</field>
 <field name="date">December 3, 1997</field>
 <field name="librettist">Richard Troop</field>
-<field name="librettistsort">Troop, Richard</field>
+<field name="librettistSort">Troop, Richard</field>
 <field name="theater">Bangarra Dance Studio</field>
 <field name="city">Sydney</field>
 <field name="region">New South Wales</field>

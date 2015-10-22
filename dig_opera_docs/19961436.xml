@@ -3,13 +3,13 @@
 <field name="id">19961436</field>
 <field name="genre">Operas</field>
 <field name="title">La piccola vedetta lombarda</field>
-<field name="titlesort">piccola vedetta lombarda</field>
+<field name="titleSort">piccola vedetta lombarda</field>
 <field name="composer">Cristian Carrara</field>
-<field name="composersort">Carrara, Cristian</field>
+<field name="composerSort">Carrara, Cristian</field>
 <field name="year">2011</field>
 <field name="date">August 28, 2011</field>
 <field name="librettist">Edmondo De Amicis</field>
-<field name="librettistsort">De Amicis, Edmondo</field>
+<field name="librettistSort">De Amicis, Edmondo</field>
 <field name="theater">Teatro degli Illuminati</field>
 <field name="city">Città di Castello</field>
 <field name="region">Perugia</field>

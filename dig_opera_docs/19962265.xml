@@ -3,13 +3,13 @@
 <field name="id">19962265</field>
 <field name="genre">Operas</field>
 <field name="title">Shanawdithit</field>
-<field name="titlesort">Shanawdithit</field>
+<field name="titleSort">Shanawdithit</field>
 <field name="composer">Dean Burry</field>
-<field name="composersort">Burry, Dean</field>
+<field name="composerSort">Burry, Dean</field>
 <field name="year">1996</field>
 <field name="date">April 1, 1996</field>
 <field name="librettist">Dean Burry</field>
-<field name="librettistsort">Burry, Dean</field>
+<field name="librettistSort">Burry, Dean</field>
 <field name="theater">University of Toronto, Walter Hall</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

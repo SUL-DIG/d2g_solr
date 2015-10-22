@@ -3,13 +3,13 @@
 <field name="id">19961231</field>
 <field name="genre">Operas</field>
 <field name="title">Jérémy Fischer</field>
-<field name="titlesort">Jérémy Fischer</field>
+<field name="titleSort">Jérémy Fischer</field>
 <field name="composer">Isabelle Aboulker</field>
-<field name="composersort">Aboulker, Isabelle</field>
+<field name="composerSort">Aboulker, Isabelle</field>
 <field name="year">2007</field>
 <field name="date">June 8, 2007</field>
 <field name="librettist">Mohamed Rouabhi</field>
-<field name="librettistsort">Rouabhi, Mohamed</field>
+<field name="librettistSort">Rouabhi, Mohamed</field>
 <field name="theater">Théâtre Nouvelle Génération</field>
 <field name="city">Lyon</field>
 <field name="region">Rhône du Lyonnais</field>

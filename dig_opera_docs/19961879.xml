@@ -3,12 +3,12 @@
 <field name="id">19961879</field>
 <field name="genre">Operas</field>
 <field name="title">Oedipus</field>
-<field name="titlesort">Oedipus</field>
+<field name="titleSort">Oedipus</field>
 <field name="composer">Qu Xiao-song</field>
-<field name="composersort">Qu Xiao-song</field>
+<field name="composerSort">Qu Xiao-song</field>
 <field name="year">1993</field>
 <field name="librettist">Claes Fellbom</field>
-<field name="librettistsort">Fellbom, Claes</field>
+<field name="librettistSort">Fellbom, Claes</field>
 <field name="theater">Folkoperan</field>
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>

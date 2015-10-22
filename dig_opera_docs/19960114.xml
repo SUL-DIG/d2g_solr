@@ -3,13 +3,13 @@
 <field name="id">19960114</field>
 <field name="genre">Operas</field>
 <field name="title">Alice in the Time of the Jabberwock</field>
-<field name="titlesort">Alice in the Time of the Jabberwock</field>
+<field name="titleSort">Alice in the Time of the Jabberwock</field>
 <field name="composer">Daniel Felsenfeld</field>
-<field name="composersort">Felsenfeld, Daniel</field>
+<field name="composerSort">Felsenfeld, Daniel</field>
 <field name="year">2013</field>
 <field name="date">November 9, 2013</field>
 <field name="librettist">Robert Coover</field>
-<field name="librettistsort">Coover, Robert</field>
+<field name="librettistSort">Coover, Robert</field>
 <field name="theater">Artisphere</field>
 <field name="city">Arlington</field>
 <field name="region">Virginia</field>

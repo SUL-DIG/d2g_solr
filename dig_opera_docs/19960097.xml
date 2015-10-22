@@ -3,13 +3,13 @@
 <field name="id">19960097</field>
 <field name="genre">Operas</field>
 <field name="title">Akhmatova</field>
-<field name="titlesort">Akhmatova</field>
+<field name="titleSort">Akhmatova</field>
 <field name="composer">Bruno Mantovani</field>
-<field name="composersort">Mantovani, Bruno</field>
+<field name="composerSort">Mantovani, Bruno</field>
 <field name="year">2011</field>
 <field name="date">March 28, 2011</field>
 <field name="librettist">Christophe Ghristi</field>
-<field name="librettistsort">Ghristi, Christophe</field>
+<field name="librettistSort">Ghristi, Christophe</field>
 <field name="theater">Opéra Bastille</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

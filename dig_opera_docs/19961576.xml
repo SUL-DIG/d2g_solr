@@ -3,9 +3,9 @@
 <field name="id">19961576</field>
 <field name="genre">Operas</field>
 <field name="title">Lo stimolatore cardiaco</field>
-<field name="titlesort">stimolatore cardiaco</field>
+<field name="titleSort">stimolatore cardiaco</field>
 <field name="composer">Christoph Marthaler</field>
-<field name="composersort">Marthaler, Christoph</field>
+<field name="composerSort">Marthaler, Christoph</field>
 <field name="year">2011</field>
 <field name="date">November 25, 2011</field>
 <field name="theater">Stadttheater</field>

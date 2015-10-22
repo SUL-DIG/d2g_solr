@@ -3,13 +3,13 @@
 <field name="id">19961708</field>
 <field name="genre">Operas</field>
 <field name="title">Medeia (Medea)</field>
-<field name="titlesort">Medeia (Medea)</field>
+<field name="titleSort">Medeia (Medea)</field>
 <field name="composer">Mikis Theodorakes</field>
-<field name="composersort">Theodorakes, Mikis</field>
+<field name="composerSort">Theodorakes, Mikis</field>
 <field name="year">1991</field>
 <field name="date">October 1, 1991</field>
 <field name="librettist">Mikis Theodorakes</field>
-<field name="librettistsort">Theodorakes, Mikis</field>
+<field name="librettistSort">Theodorakes, Mikis</field>
 <field name="theater">Teatro Arriaga</field>
 <field name="city">Bilbao</field>
 <field name="region">Euskal Herriko</field>

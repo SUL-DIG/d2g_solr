@@ -3,13 +3,13 @@
 <field name="id">19961295</field>
 <field name="genre">Operas</field>
 <field name="title">Kassandra – Starrend von Zeit und Helle</field>
-<field name="titlesort">Kassandra – Starrend von Zeit und Helle</field>
+<field name="titleSort">Kassandra – Starrend von Zeit und Helle</field>
 <field name="composer">Peter Michael Hamel</field>
-<field name="composersort">Hamel, Peter Michael</field>
+<field name="composerSort">Hamel, Peter Michael</field>
 <field name="year">1987</field>
 <field name="date">September 8, 1987</field>
 <field name="librettist">Erich Arndt</field>
-<field name="librettistsort">Arndt, Erich</field>
+<field name="librettistSort">Arndt, Erich</field>
 <field name="theater">Alte Oper</field>
 <field name="city">Frankfurt</field>
 <field name="region">Hessen</field>

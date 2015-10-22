@@ -3,13 +3,13 @@
 <field name="id">19960671</field>
 <field name="genre">Operas</field>
 <field name="title">Distance to the Market</field>
-<field name="titlesort">Distance to the Market</field>
+<field name="titleSort">Distance to the Market</field>
 <field name="composer">Paula Prestini</field>
-<field name="composersort">Prestini, Paula</field>
+<field name="composerSort">Prestini, Paula</field>
 <field name="year">2013</field>
 <field name="date">November 21, 2013</field>
 <field name="librettist">Donna Di Novelli</field>
-<field name="librettistsort">Di Novelli, Donna</field>
+<field name="librettistSort">Di Novelli, Donna</field>
 <field name="theater">Brooklyn Academy of Music</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

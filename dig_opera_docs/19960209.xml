@@ -3,13 +3,13 @@
 <field name="id">19960209</field>
 <field name="genre">Operas</field>
 <field name="title">Art and Desire</field>
-<field name="titlesort">Art and Desire</field>
+<field name="titleSort">Art and Desire</field>
 <field name="composer">Maura Bosch</field>
-<field name="composersort">Bosch, Maura</field>
+<field name="composerSort">Bosch, Maura</field>
 <field name="year">2009</field>
 <field name="date">February 20, 2009</field>
 <field name="librettist">Maura Bosch</field>
-<field name="librettistsort">Bosch, Maura</field>
+<field name="librettistSort">Bosch, Maura</field>
 <field name="theater">University of Wisconsin</field>
 <field name="city">Madison</field>
 <field name="region">Wisconsin</field>

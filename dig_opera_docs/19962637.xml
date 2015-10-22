@@ -3,13 +3,13 @@
 <field name="id">19962637</field>
 <field name="genre">Operas</field>
 <field name="title">The Lyric's Tale</field>
-<field name="titlesort">Lyric's Tale</field>
+<field name="titleSort">Lyric's Tale</field>
 <field name="composer">Maurice Wright</field>
-<field name="composersort">Wright, Maurice</field>
+<field name="composerSort">Wright, Maurice</field>
 <field name="year">2011</field>
 <field name="date">April 3, 2011</field>
 <field name="librettist">Maurice Wright</field>
-<field name="librettistsort">Wright, Maurice</field>
+<field name="librettistSort">Wright, Maurice</field>
 <field name="theater">Haverford College</field>
 <field name="city">Haverford</field>
 <field name="region">Pennsylvania</field>

@@ -3,12 +3,12 @@
 <field name="id">19960150</field>
 <field name="genre">Operas</field>
 <field name="title">An Island Idyll</field>
-<field name="titlesort">Island Idyll</field>
+<field name="titleSort">Island Idyll</field>
 <field name="composer">Florence Heath</field>
-<field name="composersort">Heath, Florence</field>
+<field name="composerSort">Heath, Florence</field>
 <field name="year">1902</field>
 <field name="librettist">Grace Hollingsworth</field>
-<field name="librettistsort">Hollingsworth, Grace</field>
+<field name="librettistSort">Hollingsworth, Grace</field>
 <field name="theater">Radcliffe College</field>
 <field name="city">Cambridge</field>
 <field name="region">Massachusetts</field>

@@ -3,13 +3,13 @@
 <field name="id">19962494</field>
 <field name="genre">Operas</field>
 <field name="title">The Conquistador</field>
-<field name="titlesort">Conquistador</field>
+<field name="titleSort">Conquistador</field>
 <field name="composer">Myron Fink</field>
-<field name="composersort">Fink, Myron</field>
+<field name="composerSort">Fink, Myron</field>
 <field name="year">1997</field>
 <field name="date">March 1, 1997</field>
 <field name="librettist">Donald Moreland</field>
-<field name="librettistsort">Moreland, Donald</field>
+<field name="librettistSort">Moreland, Donald</field>
 <field name="theater">Civic Auditorium</field>
 <field name="city">San Diego</field>
 <field name="region">California</field>

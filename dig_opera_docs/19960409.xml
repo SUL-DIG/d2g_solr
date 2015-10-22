@@ -3,13 +3,13 @@
 <field name="id">19960409</field>
 <field name="genre">Operas</field>
 <field name="title">Cecilia</field>
-<field name="titlesort">Cecilia</field>
+<field name="titleSort">Cecilia</field>
 <field name="composer">Charles Chaynes</field>
-<field name="composersort">Chaynes, Charles</field>
+<field name="composerSort">Chaynes, Charles</field>
 <field name="year">2000</field>
 <field name="date">May 23, 2000</field>
 <field name="librettist">Eduardo Manet</field>
-<field name="librettistsort">Manet, Eduardo</field>
+<field name="librettistSort">Manet, Eduardo</field>
 <field name="theater">Opéra</field>
 <field name="city">Monte Carlo</field>
 <field name="country">Monaco</field>

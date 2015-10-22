@@ -3,12 +3,12 @@
 <field name="id">19961838</field>
 <field name="genre">Operas</field>
 <field name="title">Noctuaile</field>
-<field name="titlesort">Noctuaile</field>
+<field name="titleSort">Noctuaile</field>
 <field name="composer">Monic Cecconi-Botella</field>
-<field name="composersort">Cecconi-Botella, Monic</field>
+<field name="composerSort">Cecconi-Botella, Monic</field>
 <field name="year">1986</field>
 <field name="librettist">René David</field>
-<field name="librettistsort">David, René</field>
+<field name="librettistSort">David, René</field>
 <field name="theater">France 3 Television</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

@@ -3,13 +3,13 @@
 <field name="id">19960461</field>
 <field name="genre">Operas</field>
 <field name="title">Come to Me in Dreams</field>
-<field name="titlesort">Come to Me in Dreams</field>
+<field name="titleSort">Come to Me in Dreams</field>
 <field name="composer">Lori Laitman</field>
-<field name="composersort">Laitman, Lori</field>
+<field name="composerSort">Laitman, Lori</field>
 <field name="year">2004</field>
 <field name="date">June 9, 2004</field>
 <field name="librettist">David Bamberger</field>
-<field name="librettistsort">Bamberger, David</field>
+<field name="librettistSort">Bamberger, David</field>
 <field name="theater">The Ohio Theater</field>
 <field name="city">Cleveland</field>
 <field name="region">Ohio</field>

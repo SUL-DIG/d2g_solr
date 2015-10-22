@@ -3,13 +3,13 @@
 <field name="id">19962221</field>
 <field name="genre">Operas</field>
 <field name="title">Scara mitii (Cat's Cradle)</field>
-<field name="titlesort">Scara mitii (Cat's Cradle)</field>
+<field name="titleSort">Scara mitii (Cat's Cradle)</field>
 <field name="composer">Alexandru Flechtenmacher</field>
-<field name="composersort">Flechtenmacher, Alexandru</field>
+<field name="composerSort">Flechtenmacher, Alexandru</field>
 <field name="year">1850</field>
 <field name="date">Apr 1850</field>
 <field name="librettist">Vasile Alecsandri</field>
-<field name="librettistsort">Alecsandri, Vasile</field>
+<field name="librettistSort">Alecsandri, Vasile</field>
 <field name="theater">Teatrul National</field>
 <field name="city">Iasi</field>
 <field name="region">Iasi</field>

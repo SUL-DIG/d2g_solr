@@ -3,13 +3,13 @@
 <field name="id">19962295</field>
 <field name="genre">Operas</field>
 <field name="title">Sir Gawain and the Green Knight</field>
-<field name="titlesort">Sir Gawain and the Green Knight</field>
+<field name="titleSort">Sir Gawain and the Green Knight</field>
 <field name="composer">Richard Peaslee</field>
-<field name="composersort">Peaslee, Richard</field>
+<field name="composerSort">Peaslee, Richard</field>
 <field name="year">2001</field>
 <field name="date">October 18, 2001</field>
 <field name="librettist">Kenneth Cavander</field>
-<field name="librettistsort">Cavander, Kenneth</field>
+<field name="librettistSort">Cavander, Kenneth</field>
 <field name="theater">TADA Theater</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

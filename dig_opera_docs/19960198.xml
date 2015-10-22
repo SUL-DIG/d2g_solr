@@ -3,13 +3,13 @@
 <field name="id">19960198</field>
 <field name="genre">Operas</field>
 <field name="title">Ariadne</field>
-<field name="titlesort">Ariadne</field>
+<field name="titleSort">Ariadne</field>
 <field name="composer">Clark Suprynowicz</field>
-<field name="composersort">Suprynowicz, Clark </field>
+<field name="composerSort">Suprynowicz, Clark </field>
 <field name="year">1999</field>
 <field name="date">July 23, 1999</field>
 <field name="librettist">Ken Prestininzi</field>
-<field name="librettistsort">Prestininzi, Ken</field>
+<field name="librettistSort">Prestininzi, Ken</field>
 <field name="theater">City College of San Francisco</field>
 <field name="city">San Francisco</field>
 <field name="region">California</field>

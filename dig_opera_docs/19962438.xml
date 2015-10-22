@@ -3,13 +3,13 @@
 <field name="id">19962438</field>
 <field name="genre">Operas</field>
 <field name="title">Thanks to My Eyes</field>
-<field name="titlesort">Thanks to My Eyes</field>
+<field name="titleSort">Thanks to My Eyes</field>
 <field name="composer">Oscar Bianchi</field>
-<field name="composersort">Bianchi, Oscar</field>
+<field name="composerSort">Bianchi, Oscar</field>
 <field name="year">2011</field>
 <field name="date">July 5, 2011</field>
 <field name="librettist">Joël Pommerat</field>
-<field name="librettistsort">Pommerat, Joël</field>
+<field name="librettistSort">Pommerat, Joël</field>
 <field name="theater">Théâtre du Jeu de Paume</field>
 <field name="city">Aix-en-Provence</field>
 <field name="region">Bouches-du-Rhône</field>

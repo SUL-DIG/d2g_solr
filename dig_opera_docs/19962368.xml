@@ -3,13 +3,13 @@
 <field name="id">19962368</field>
 <field name="genre">Operas</field>
 <field name="title">Stora grusharpan (Big Gravel Riddle)</field>
-<field name="titlesort">Stora grusharpan (Big Gravel Riddle)</field>
+<field name="titleSort">Stora grusharpan (Big Gravel Riddle)</field>
 <field name="composer">Miklós Maros</field>
-<field name="composersort">Maros, Miklós</field>
+<field name="composerSort">Maros, Miklós</field>
 <field name="year">1983</field>
 <field name="date">September 17, 1983</field>
 <field name="librettist">August Strindberg</field>
-<field name="librettistsort">Strindberg, August</field>
+<field name="librettistSort">Strindberg, August</field>
 <field name="theater">SR Radio (Sveriges Radio)</field>
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>

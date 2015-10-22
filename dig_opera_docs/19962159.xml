@@ -3,13 +3,13 @@
 <field name="id">19962159</field>
 <field name="genre">Operas</field>
 <field name="title">Rip Van Winkle</field>
-<field name="titlesort">Rip Van Winkle</field>
+<field name="titleSort">Rip Van Winkle</field>
 <field name="composer">Jeffrey Rockwell</field>
-<field name="composersort">Rockwell, Jeffrey</field>
+<field name="composerSort">Rockwell, Jeffrey</field>
 <field name="year">1989</field>
 <field name="date">October 18, 1989</field>
 <field name="librettist">J. Sherwood Montgomery</field>
-<field name="librettistsort">Montgomery, J. Sherwood</field>
+<field name="librettistSort">Montgomery, J. Sherwood</field>
 <field name="theater">O'Farrell School for the Creative and Performing Arts</field>
 <field name="city">San Diego</field>
 <field name="region">California</field>

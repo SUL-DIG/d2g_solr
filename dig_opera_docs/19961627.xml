@@ -3,13 +3,13 @@
 <field name="id">19961627</field>
 <field name="genre">Operas</field>
 <field name="title">Mae Mona</field>
-<field name="titlesort">Mae Mona</field>
+<field name="titleSort">Mae Mona</field>
 <field name="composer">Christoph Ehrenfellner</field>
-<field name="composersort">Ehrenfellner, Christoph</field>
+<field name="composerSort">Ehrenfellner, Christoph</field>
 <field name="year">2009</field>
 <field name="date">May 26, 2009</field>
 <field name="librettist">Christoph Ehrenfellner</field>
-<field name="librettistsort">Ehrenfellner, Christoph</field>
+<field name="librettistSort">Ehrenfellner, Christoph</field>
 <field name="theater">Musikwerkstatt Wien</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

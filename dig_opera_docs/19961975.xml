@@ -3,9 +3,9 @@
 <field name="id">19961975</field>
 <field name="genre">Operas</field>
 <field name="title">Paucina (The Spider's Web)</field>
-<field name="titlesort">Paucina (The Spider's Web)</field>
+<field name="titleSort">Paucina (The Spider's Web)</field>
 <field name="composer">Toma Prošev</field>
-<field name="composersort">Prošev, Toma</field>
+<field name="composerSort">Prošev, Toma</field>
 <field name="year">1958</field>
 <field name="theater">Makedonska Opera i Balet</field>
 <field name="city">Skopje</field>

@@ -3,13 +3,13 @@
 <field name="id">19960850</field>
 <field name="genre">Operas</field>
 <field name="title">Falcone e Borsellino</field>
-<field name="titlesort">Falcone e Borsellino</field>
+<field name="titleSort">Falcone e Borsellino</field>
 <field name="composer">Antonio Fortunato</field>
-<field name="composersort">Fortunato, Antonio</field>
+<field name="composerSort">Fortunato, Antonio</field>
 <field name="year">2013</field>
 <field name="date">April 6, 2013</field>
 <field name="librettist">Gaspare Miraglia</field>
-<field name="librettistsort">Miraglia, Gaspare</field>
+<field name="librettistSort">Miraglia, Gaspare</field>
 <field name="theater">Teatro Comunale Verdi</field>
 <field name="city">Pisa</field>
 <field name="region">Toscana</field>

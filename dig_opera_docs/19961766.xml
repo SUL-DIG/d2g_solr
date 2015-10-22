@@ -3,13 +3,13 @@
 <field name="id">19961766</field>
 <field name="genre">Operas</field>
 <field name="title">Mother Everest</field>
-<field name="titlesort">Mother Everest</field>
+<field name="titleSort">Mother Everest</field>
 <field name="composer">Abigail Richardson</field>
-<field name="composersort">Richardson, Abigail</field>
+<field name="composerSort">Richardson, Abigail</field>
 <field name="year">2004</field>
 <field name="date">April 1, 2004</field>
 <field name="librettist">Marjorie Chan</field>
-<field name="librettistsort">Chan, Marjorie</field>
+<field name="librettistSort">Chan, Marjorie</field>
 <field name="theater">Berkeley Street Theatre</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

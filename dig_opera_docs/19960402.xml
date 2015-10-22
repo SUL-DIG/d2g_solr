@@ -3,13 +3,13 @@
 <field name="id">19960402</field>
 <field name="genre">Operas</field>
 <field name="title">Casanova</field>
-<field name="titlesort">Casanova</field>
+<field name="titleSort">Casanova</field>
 <field name="composer">Richard Bunger Evans</field>
-<field name="composersort">Evans, Richard Bunger</field>
+<field name="composerSort">Evans, Richard Bunger</field>
 <field name="year">2011</field>
 <field name="date">July 29, 2011</field>
 <field name="librettist">Howard Guy Ervin III</field>
-<field name="librettistsort">Ervin III, Howard Guy</field>
+<field name="librettistSort">Ervin III, Howard Guy</field>
 <field name="theater">Bohemian Grove</field>
 <field name="city">Sonoma County</field>
 <field name="region">California</field>

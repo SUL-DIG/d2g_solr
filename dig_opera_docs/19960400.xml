@@ -3,13 +3,13 @@
 <field name="id">19960400</field>
 <field name="genre">Operas</field>
 <field name="title">Caroline, or Change</field>
-<field name="titlesort">Caroline, or Change</field>
+<field name="titleSort">Caroline, or Change</field>
 <field name="composer">Jeanine Tesori</field>
-<field name="composersort">Tesori, Jeanine</field>
+<field name="composerSort">Tesori, Jeanine</field>
 <field name="year">2004</field>
 <field name="date">May 2, 2004</field>
 <field name="librettist">Tony Kushner</field>
-<field name="librettistsort">Kushner, Tony</field>
+<field name="librettistSort">Kushner, Tony</field>
 <field name="theater">Eugene O'Neill Theater</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

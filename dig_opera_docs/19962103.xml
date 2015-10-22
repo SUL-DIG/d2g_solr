@@ -3,13 +3,13 @@
 <field name="id">19962103</field>
 <field name="genre">Operas</field>
 <field name="title">Raoul</field>
-<field name="titlesort">Raoul</field>
+<field name="titleSort">Raoul</field>
 <field name="composer">Gershon Kingsley</field>
-<field name="composersort">Kingsley, Gershon</field>
+<field name="composerSort">Kingsley, Gershon</field>
 <field name="year">2008</field>
 <field name="date">May 9, 2008</field>
 <field name="librettist">Michael Kunze</field>
-<field name="librettistsort">Kunze, Michael</field>
+<field name="librettistSort">Kunze, Michael</field>
 <field name="theater">Theater am Goetheplatz</field>
 <field name="city">Bremen</field>
 <field name="region">Bremen</field>

@@ -3,13 +3,13 @@
 <field name="id">19962559</field>
 <field name="genre">Operas</field>
 <field name="title">The Frogs and the Crane</field>
-<field name="titlesort">Frogs and the Crane</field>
+<field name="titleSort">Frogs and the Crane</field>
 <field name="composer">Jonathan Price</field>
-<field name="composersort">Price, Jonathan</field>
+<field name="composerSort">Price, Jonathan</field>
 <field name="year">2011</field>
 <field name="date">October 15, 2011</field>
 <field name="librettist">Jonathan Price</field>
-<field name="librettistsort">Price, Jonathan</field>
+<field name="librettistSort">Price, Jonathan</field>
 <field name="theater">Blinn House</field>
 <field name="city">Pasadena</field>
 <field name="region">California</field>

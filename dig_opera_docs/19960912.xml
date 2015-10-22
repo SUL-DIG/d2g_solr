@@ -3,13 +3,13 @@
 <field name="id">19960912</field>
 <field name="genre">Operas</field>
 <field name="title">Four Seasons</field>
-<field name="titlesort">Four Seasons</field>
+<field name="titleSort">Four Seasons</field>
 <field name="composer">Michael Torke</field>
-<field name="composersort">Torke, Michael</field>
+<field name="composerSort">Torke, Michael</field>
 <field name="year">1999</field>
 <field name="date">October 9, 1999</field>
 <field name="librettist">Philip Littell</field>
-<field name="librettistsort">Littell, Philip</field>
+<field name="librettistSort">Littell, Philip</field>
 <field name="theater">Avery Fisher Hall</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

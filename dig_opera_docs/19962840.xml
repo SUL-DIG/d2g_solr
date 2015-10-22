@@ -3,13 +3,13 @@
 <field name="id">19962840</field>
 <field name="genre">Operas</field>
 <field name="title">The Whisper Opera</field>
-<field name="titlesort">Whisper Opera</field>
+<field name="titleSort">Whisper Opera</field>
 <field name="composer">David Lang</field>
-<field name="composersort">Lang, David</field>
+<field name="composerSort">Lang, David</field>
 <field name="year">2013</field>
 <field name="date">May 30, 2013</field>
 <field name="librettist">David Lang</field>
-<field name="librettistsort">Lang, David</field>
+<field name="librettistSort">Lang, David</field>
 <field name="theater">Museum of Contemporary Art</field>
 <field name="city">Chicago</field>
 <field name="region">Illinois</field>

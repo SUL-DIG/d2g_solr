@@ -3,13 +3,13 @@
 <field name="id">19960077</field>
 <field name="genre">Operas</field>
 <field name="title">Aeneas and Dido</field>
-<field name="titlesort">Aeneas and Dido</field>
+<field name="titleSort">Aeneas and Dido</field>
 <field name="composer">James Rolfe</field>
-<field name="composersort">Rolfe, James</field>
+<field name="composerSort">Rolfe, James</field>
 <field name="year">2007</field>
 <field name="date">April 25, 2007</field>
 <field name="librettist">André Alexis</field>
-<field name="librettistsort">Alexis, André</field>
+<field name="librettistSort">Alexis, André</field>
 <field name="theater">Toronto Masque Theatre</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

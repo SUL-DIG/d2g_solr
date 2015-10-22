@@ -3,13 +3,13 @@
 <field name="id">19962081</field>
 <field name="genre">Operas</field>
 <field name="title">Quarry</field>
-<field name="titlesort">Quarry</field>
+<field name="titleSort">Quarry</field>
 <field name="composer">Meredith Monk</field>
-<field name="composersort">Monk, Meredith</field>
+<field name="composerSort">Monk, Meredith</field>
 <field name="year">1976</field>
 <field name="date">April 2, 1976</field>
 <field name="librettist">Meredith Monk</field>
-<field name="librettistsort">Monk, Meredith</field>
+<field name="librettistSort">Monk, Meredith</field>
 <field name="theater">La MaMa Theater</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

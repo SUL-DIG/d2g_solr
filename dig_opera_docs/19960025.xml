@@ -3,13 +3,13 @@
 <field name="id">19960025</field>
 <field name="genre">Operas</field>
 <field name="title">A Christmas Miracle</field>
-<field name="titlesort">Christmas Miracle</field>
+<field name="titleSort">Christmas Miracle</field>
 <field name="composer">Mark Fax</field>
-<field name="composersort">Fax, Mark</field>
+<field name="composerSort">Fax, Mark</field>
 <field name="year">1958</field>
 <field name="date">March 6, 1958</field>
 <field name="librettist">Owen Dodson</field>
-<field name="librettistsort">Dodson, Owen</field>
+<field name="librettistSort">Dodson, Owen</field>
 <field name="theater">Howard University</field>
 <field name="city">Washington</field>
 <field name="region">District of Columbia</field>

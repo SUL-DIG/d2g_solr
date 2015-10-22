@@ -3,13 +3,13 @@
 <field name="id">19962738</field>
 <field name="genre">Operas</field>
 <field name="title">The Screams of Kitty Genovese</field>
-<field name="titlesort">Screams of Kitty Genovese</field>
+<field name="titleSort">Screams of Kitty Genovese</field>
 <field name="composer">Will Todd</field>
-<field name="composersort">Todd, Will</field>
+<field name="composerSort">Todd, Will</field>
 <field name="year">2001</field>
 <field name="date">October 25, 2001</field>
 <field name="librettist">David Simpatico</field>
-<field name="librettistsort">Simpatico, David</field>
+<field name="librettistSort">Simpatico, David</field>
 <field name="theater">Boston Conservatory</field>
 <field name="city">Boston</field>
 <field name="region">Massachusetts</field>

@@ -3,13 +3,13 @@
 <field name="id">19960928</field>
 <field name="genre">Operas</field>
 <field name="title">Friend of the People</field>
-<field name="titlesort">Friend of the People</field>
+<field name="titleSort">Friend of the People</field>
 <field name="composer">David Horne</field>
-<field name="composersort">Horne, David</field>
+<field name="composerSort">Horne, David</field>
 <field name="year">1999</field>
 <field name="date">November 6, 1999</field>
 <field name="librettist">Robert MacLennan</field>
-<field name="librettistsort">MacLennan, Robert</field>
+<field name="librettistSort">MacLennan, Robert</field>
 <field name="theater">Theatre Royal</field>
 <field name="city">Glascow</field>
 <field name="region">Scotland</field>

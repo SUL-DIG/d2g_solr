@@ -3,13 +3,13 @@
 <field name="id">19963068</field>
 <field name="genre">Operas</field>
 <field name="title">Women: The War Within</field>
-<field name="titlesort">Women: The War Within</field>
+<field name="titleSort">Women: The War Within</field>
 <field name="composer">Du Yun</field>
-<field name="composersort">Du Yun</field>
+<field name="composerSort">Du Yun</field>
 <field name="year">2013</field>
 <field name="date">June 26, 2013</field>
 <field name="librettist">Matthew Maguire</field>
-<field name="librettistsort">Maguire, Matthew</field>
+<field name="librettistSort">Maguire, Matthew</field>
 <field name="theater">Baryshnikov Arts Center</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

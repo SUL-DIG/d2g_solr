@@ -3,13 +3,13 @@
 <field name="id">19962736</field>
 <field name="genre">Operas</field>
 <field name="title">The Scarlet Princess</field>
-<field name="titlesort">Scarlet Princess</field>
+<field name="titleSort">Scarlet Princess</field>
 <field name="composer">Alexina Louie</field>
-<field name="composersort">Louie, Alexina</field>
+<field name="composerSort">Louie, Alexina</field>
 <field name="year">2002</field>
 <field name="date">April 23, 2002</field>
 <field name="librettist">David Henry Hwang</field>
-<field name="librettistsort">Hwang, David Henry</field>
+<field name="librettistSort">Hwang, David Henry</field>
 <field name="theater">George Weston Recital Hall</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

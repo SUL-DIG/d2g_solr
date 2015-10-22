@@ -3,13 +3,13 @@
 <field name="id">19962978</field>
 <field name="genre">Operas</field>
 <field name="title">Vänrikki Stool (Ensign Stål)</field>
-<field name="titlesort">Vänrikki Stool (Ensign Stål)</field>
+<field name="titleSort">Vänrikki Stool (Ensign Stål)</field>
 <field name="composer">Pentti Tynkkynen</field>
-<field name="composersort">Tynkkynen, Pentti</field>
+<field name="composerSort">Tynkkynen, Pentti</field>
 <field name="year">1997</field>
 <field name="date">August 5, 1997</field>
 <field name="librettist">Pentti Tynkkynen</field>
-<field name="librettistsort">Tynkkynen, Pentti</field>
+<field name="librettistSort">Tynkkynen, Pentti</field>
 <field name="theater">Kuru Outdoor Museum</field>
 <field name="city">Kuru</field>
 <field name="region">Pirkanmaa</field>

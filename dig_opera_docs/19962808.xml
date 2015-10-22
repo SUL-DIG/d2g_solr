@@ -3,12 +3,12 @@
 <field name="id">19962808</field>
 <field name="genre">Operas</field>
 <field name="title">The Two Kings</field>
-<field name="titlesort">Two Kings</field>
+<field name="titleSort">Two Kings</field>
 <field name="composer">Wadi Sabra</field>
-<field name="composersort">Sabra, Wadi</field>
+<field name="composerSort">Sabra, Wadi</field>
 <field name="year">1927</field>
 <field name="librettist">Marun Ghusn</field>
-<field name="librettistsort">Ghusn, Marun</field>
+<field name="librettistSort">Ghusn, Marun</field>
 <field name="city">Beirut</field>
 <field name="country">Lebanon</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Two+Kings+Wadi+Sabra&amp;search_field=search</field>

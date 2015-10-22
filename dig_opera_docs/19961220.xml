@@ -3,13 +3,13 @@
 <field name="id">19961220</field>
 <field name="genre">Operas</field>
 <field name="title">Jacko's Hour</field>
-<field name="titlesort">Jacko's Hour</field>
+<field name="titleSort">Jacko's Hour</field>
 <field name="composer">Elfyn Jones</field>
-<field name="composersort">Jones, Elfyn</field>
+<field name="composerSort">Jones, Elfyn</field>
 <field name="year">2009</field>
 <field name="date">September 11, 2009</field>
 <field name="librettist">Tim Satterthwaite</field>
-<field name="librettistsort">Tim Satterthwaite</field>
+<field name="librettistSort">Tim Satterthwaite</field>
 <field name="theater">Pavilion Theatre</field>
 <field name="city">Brighton</field>
 <field name="region">East Sussex</field>

@@ -3,13 +3,13 @@
 <field name="id">19961479</field>
 <field name="genre">Operas</field>
 <field name="title">Le duplicateur</field>
-<field name="titlesort">duplicateur</field>
+<field name="titleSort">duplicateur</field>
 <field name="composer">Thierry Machuel</field>
-<field name="composersort">Machuel, Thierry</field>
+<field name="composerSort">Machuel, Thierry</field>
 <field name="year">2015</field>
 <field name="date">May 19, 2015</field>
 <field name="librettist">Benoît Richter</field>
-<field name="librettistsort">Richter, Benoît</field>
+<field name="librettistSort">Richter, Benoît</field>
 <field name="theater">Opéra</field>
 <field name="city">Massy</field>
 <field name="region">Île-de-France</field>

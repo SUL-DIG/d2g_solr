@@ -3,13 +3,13 @@
 <field name="id">19962633</field>
 <field name="genre">Operas</field>
 <field name="title">The Lost Dauphin</field>
-<field name="titlesort">Lost Dauphin</field>
+<field name="titleSort">Lost Dauphin</field>
 <field name="composer">Gordon Parmentier</field>
-<field name="composersort">Parmentier, Gordon</field>
+<field name="composerSort">Parmentier, Gordon</field>
 <field name="year">2000</field>
 <field name="date">May 19, 2000</field>
 <field name="librettist">Gordon Parmentier</field>
-<field name="librettistsort">Parmentier, Gordon</field>
+<field name="librettistSort">Parmentier, Gordon</field>
 <field name="theater">University of Wisconsin</field>
 <field name="city">Green Bay</field>
 <field name="region">Wisconsin</field>

@@ -3,13 +3,13 @@
 <field name="id">19960038</field>
 <field name="genre">Operas</field>
 <field name="title">A Hand of Bridge</field>
-<field name="titlesort">Hand of Bridge</field>
+<field name="titleSort">Hand of Bridge</field>
 <field name="composer">Samuel Barber</field>
-<field name="composersort">Barber, Samuel</field>
+<field name="composerSort">Barber, Samuel</field>
 <field name="year">1959</field>
 <field name="date">June 17, 1959</field>
 <field name="librettist">Gian Carlo Menotti</field>
-<field name="librettistsort">Menotti, Gian Carlo</field>
+<field name="librettistSort">Menotti, Gian Carlo</field>
 <field name="theater">Teatro Caio Melisso  </field>
 <field name="city">Spoleto</field>
 <field name="region">Umbria</field>

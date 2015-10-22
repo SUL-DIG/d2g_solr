@@ -3,13 +3,13 @@
 <field name="id">19960773</field>
 <field name="genre">Oratorio</field>
 <field name="title">El Niño</field>
-<field name="titlesort">El Niño</field>
+<field name="titleSort">El Niño</field>
 <field name="composer">John Adams</field>
-<field name="composersort">Adams, John</field>
+<field name="composerSort">Adams, John</field>
 <field name="year">2000</field>
 <field name="date">December 15, 2000</field>
 <field name="librettist">Peter Sellars</field>
-<field name="librettistsort">Sellars, Peter</field>
+<field name="librettistSort">Sellars, Peter</field>
 <field name="theater">Théâtre du Châtelet</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

@@ -3,13 +3,13 @@
 <field name="id">19960003</field>
 <field name="genre">Operas</field>
 <field name="title">1 Plum Square</field>
-<field name="titlesort">1 Plum Square</field>
+<field name="titleSort">1 Plum Square</field>
 <field name="composer">Amy Kohn</field>
-<field name="composersort">Kohn, Amy</field>
+<field name="composerSort">Kohn, Amy</field>
 <field name="year">2005</field>
 <field name="date">July 8, 2005</field>
 <field name="librettist">Amy Kohn</field>
-<field name="librettistsort">Kohn, Amy</field>
+<field name="librettistSort">Kohn, Amy</field>
 <field name="theater">WNYC Radio</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

@@ -3,13 +3,13 @@
 <field name="id">19960892</field>
 <field name="genre">Operas</field>
 <field name="title">Fiskaren Rasmus og felemusikken</field>
-<field name="titlesort">Fiskaren Rasmus og felemusikken</field>
+<field name="titleSort">Fiskaren Rasmus og felemusikken</field>
 <field name="composer">Knut Anders Vestad</field>
-<field name="composersort">Vestad, Knut Anders</field>
+<field name="composerSort">Vestad, Knut Anders</field>
 <field name="year">2004</field>
 <field name="date">August 26, 2004</field>
 <field name="librettist">Edvard Hoem</field>
-<field name="librettistsort">Hoem, Edvard</field>
+<field name="librettistSort">Hoem, Edvard</field>
 <field name="theater">Vågøy Kyrkje</field>
 <field name="city">Fraena</field>
 <field name="region">Møre og Romsdal</field>

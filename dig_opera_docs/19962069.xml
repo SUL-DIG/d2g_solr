@@ -3,13 +3,13 @@
 <field name="id">19962069</field>
 <field name="genre">Operas</field>
 <field name="title">Punahilkka (Little Red Riding Hood)</field>
-<field name="titlesort">Punahilkka (Little Red Riding Hood)</field>
+<field name="titleSort">Punahilkka (Little Red Riding Hood)</field>
 <field name="composer">Ari Vakkilainen</field>
-<field name="composersort">Vakkilainen, Ari</field>
+<field name="composerSort">Vakkilainen, Ari</field>
 <field name="year">2000</field>
 <field name="date">August 9, 2000</field>
 <field name="librettist">Emma Puikkonen</field>
-<field name="librettistsort">Puikkonen, Emma</field>
+<field name="librettistSort">Puikkonen, Emma</field>
 <field name="theater">Tenalji von Fersen, Suomenlinna</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

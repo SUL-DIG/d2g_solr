@@ -3,13 +3,13 @@
 <field name="id">19962806</field>
 <field name="genre">Operas</field>
 <field name="title">The Triumph of Beauty and Deceit</field>
-<field name="titlesort">Triumph of Beauty and Deceit</field>
+<field name="titleSort">Triumph of Beauty and Deceit</field>
 <field name="composer">Gerald Barry</field>
-<field name="composersort">Barry, Gerald</field>
+<field name="composerSort">Barry, Gerald</field>
 <field name="year">2013</field>
 <field name="date">February 16, 2013</field>
 <field name="librettist">Meredith Oakes</field>
-<field name="librettistsort">Oakes, Meredith</field>
+<field name="librettistSort">Oakes, Meredith</field>
 <field name="theater">Badisches Staatstheater</field>
 <field name="city">Karlsruhe</field>
 <field name="region">Baden-Württemberg</field>

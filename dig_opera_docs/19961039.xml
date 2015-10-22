@@ -3,13 +3,13 @@
 <field name="id">19961039</field>
 <field name="genre">Operas</field>
 <field name="title">Hani</field>
-<field name="titlesort">Hani</field>
+<field name="titleSort">Hani</field>
 <field name="composer">Bongani Ndodana-Breen</field>
-<field name="composersort">Ndodana-Breen, Bongani</field>
+<field name="composerSort">Ndodana-Breen, Bongani</field>
 <field name="year">2010</field>
 <field name="date">November 21, 2010</field>
 <field name="librettist">Mfundi Vundla</field>
-<field name="librettistsort">Vundla, Mfundi</field>
+<field name="librettistSort">Vundla, Mfundi</field>
 <field name="theater">Baxter Theatre</field>
 <field name="city">Cape Town</field>
 <field name="region">Western Cape</field>

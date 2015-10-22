@@ -3,13 +3,13 @@
 <field name="id">19960236</field>
 <field name="genre">Operas</field>
 <field name="title">Aung</field>
-<field name="titlesort">Aung</field>
+<field name="titleSort">Aung</field>
 <field name="composer">Iris ter Schiphorst</field>
-<field name="composersort">Schiphorst, Iris  ter</field>
+<field name="composerSort">Schiphorst, Iris  ter</field>
 <field name="year">2011</field>
 <field name="date">October 1, 2011</field>
 <field name="librettist">Helga Utz</field>
-<field name="librettistsort">Utz, Helga</field>
+<field name="librettistSort">Utz, Helga</field>
 <field name="theater">Det Kongelige Danske Musikkonservatorium</field>
 <field name="city">Copenhagen</field>
 <field name="region">Hovedstaden</field>

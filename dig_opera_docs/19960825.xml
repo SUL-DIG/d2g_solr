@@ -3,13 +3,13 @@
 <field name="id">19960825</field>
 <field name="genre">Operas</field>
 <field name="title">Euridice singt</field>
-<field name="titlesort">Euridice singt</field>
+<field name="titleSort">Euridice singt</field>
 <field name="composer">Alfred Zimmerlin</field>
-<field name="composersort">Zimmerlin, Alfred</field>
+<field name="composerSort">Zimmerlin, Alfred</field>
 <field name="year">2005</field>
 <field name="date">September 13, 2005</field>
 <field name="librettist">Raphael Urweider</field>
-<field name="librettistsort">Urweider, Raphael</field>
+<field name="librettistSort">Urweider, Raphael</field>
 <field name="theater">Luzerner Saal</field>
 <field name="city">Lucerne</field>
 <field name="region">Luzern</field>

@@ -3,12 +3,12 @@
 <field name="id">19961925</field>
 <field name="genre">Operas</field>
 <field name="title">Orquídeas Azules</field>
-<field name="titlesort">Orquídeas Azules</field>
+<field name="titleSort">Orquídeas Azules</field>
 <field name="composer">María Luisa Escobar</field>
-<field name="composersort">Escobar, María Luisa</field>
+<field name="composerSort">Escobar, María Luisa</field>
 <field name="year">1941</field>
 <field name="librettist">Lucila Palacios</field>
-<field name="librettistsort">Palacios, Lucila</field>
+<field name="librettistSort">Palacios, Lucila</field>
 <field name="theater">Teatro Municipal</field>
 <field name="city">Caracas</field>
 <field name="country">Venezuela</field>

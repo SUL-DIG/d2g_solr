@@ -3,13 +3,13 @@
 <field name="id">19962987</field>
 <field name="genre">Operas</field>
 <field name="title">Venus und Adonis</field>
-<field name="titlesort">Venus und Adonis</field>
+<field name="titleSort">Venus und Adonis</field>
 <field name="composer">Hans Werner Henze</field>
-<field name="composersort">Henze, Hans Werner</field>
+<field name="composerSort">Henze, Hans Werner</field>
 <field name="year">1997</field>
 <field name="date">January 11, 1997</field>
 <field name="librettist">Hans-Ulrich Treichel</field>
-<field name="librettistsort">Treichel, Hans-Ulrich</field>
+<field name="librettistSort">Treichel, Hans-Ulrich</field>
 <field name="theater">Bayerische Staatsoper</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

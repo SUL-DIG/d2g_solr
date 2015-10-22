@@ -3,13 +3,13 @@
 <field name="id">19961029</field>
 <field name="genre">Operas</field>
 <field name="title">Häftling von Mab</field>
-<field name="titlesort">Häftling von Mab</field>
+<field name="titleSort">Häftling von Mab</field>
 <field name="composer">Eduard Demetz</field>
-<field name="composersort">Demetz, Eduard</field>
+<field name="composerSort">Demetz, Eduard</field>
 <field name="year">2002</field>
 <field name="date">March 16, 2002</field>
 <field name="librettist">[Klaus Händl] Händl Klaus</field>
-<field name="librettistsort">Klaus, Händl [Klaus Händl]</field>
+<field name="librettistSort">Klaus, Händl [Klaus Händl]</field>
 <field name="theater">Tiroler Landestheater</field>
 <field name="city">Innsbruck</field>
 <field name="region">Tirol</field>

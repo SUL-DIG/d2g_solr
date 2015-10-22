@@ -3,13 +3,13 @@
 <field name="id">19961911</field>
 <field name="genre">Operas</field>
 <field name="title">Opernmaschine</field>
-<field name="titlesort">Opernmaschine</field>
+<field name="titleSort">Opernmaschine</field>
 <field name="composer">Peter Androsch</field>
-<field name="composersort">Androsch, Peter</field>
+<field name="composerSort">Androsch, Peter</field>
 <field name="year">2013</field>
 <field name="date">May 12, 2013</field>
 <field name="librettist">Silke Dörner</field>
-<field name="librettistsort">Dörner, Silke</field>
+<field name="librettistSort">Dörner, Silke</field>
 <field name="theater">Landestheater</field>
 <field name="city">Linz</field>
 <field name="region">Oberösterreich</field>

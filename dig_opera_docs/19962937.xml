@@ -3,13 +3,13 @@
 <field name="id">19962937</field>
 <field name="genre">Operas</field>
 <field name="title">Tyburn Fair</field>
-<field name="titlesort">Tyburn Fair</field>
+<field name="titleSort">Tyburn Fair</field>
 <field name="composer">Richard Bunger Evans</field>
-<field name="composersort">Evans, Richard Bunger</field>
+<field name="composerSort">Evans, Richard Bunger</field>
 <field name="year">1991</field>
 <field name="date">July 26, 1991</field>
 <field name="librettist">Donald L. Winks</field>
-<field name="librettistsort">Winks, Donald L.</field>
+<field name="librettistSort">Winks, Donald L.</field>
 <field name="theater">Bohemian Grove</field>
 <field name="city">Sonoma County</field>
 <field name="region">California</field>

@@ -3,13 +3,13 @@
 <field name="id">19961575</field>
 <field name="genre">Operas</field>
 <field name="title">Lo stesso mare</field>
-<field name="titlesort">stesso mare</field>
+<field name="titleSort">stesso mare</field>
 <field name="composer">Fabio Vacchi</field>
-<field name="composersort">Vacchi, Fabio</field>
+<field name="composerSort">Vacchi, Fabio</field>
 <field name="year">2011</field>
 <field name="date">April 28, 2011</field>
 <field name="librettist">Amos Oz</field>
-<field name="librettistsort">Oz, Amos</field>
+<field name="librettistSort">Oz, Amos</field>
 <field name="theater">Politeama Petruzzelli</field>
 <field name="city">Bari</field>
 <field name="region">Puglia</field>

@@ -3,13 +3,13 @@
 <field name="id">19961784</field>
 <field name="genre">Operas</field>
 <field name="title">Münchhausen – Herr der Lügen</field>
-<field name="titlesort">Münchhausen – Herr der Lügen</field>
+<field name="titleSort">Münchhausen – Herr der Lügen</field>
 <field name="composer">Dan Dediu</field>
-<field name="composersort">Dediu, Dan</field>
+<field name="composerSort">Dediu, Dan</field>
 <field name="year">2002</field>
 <field name="date">March 11, 2002</field>
 <field name="librettist">Holger Siemann</field>
-<field name="librettistsort">Siemann. Holger </field>
+<field name="librettistSort">Siemann. Holger </field>
 <field name="theater">Neuköllner Oper</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>

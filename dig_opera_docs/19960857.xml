@@ -3,13 +3,13 @@
 <field name="id">19960857</field>
 <field name="genre">Operas</field>
 <field name="title">Famous</field>
-<field name="titlesort">Famous</field>
+<field name="titleSort">Famous</field>
 <field name="composer">David Conte</field>
-<field name="composersort">Conte, David</field>
+<field name="composerSort">Conte, David</field>
 <field name="year">2007</field>
 <field name="date">November 11, 2007</field>
 <field name="librettist">John Stirling Walker</field>
-<field name="librettistsort">Walker, John Stirling</field>
+<field name="librettistSort">Walker, John Stirling</field>
 <field name="theater">Conservatory of Music</field>
 <field name="city">San Francisco</field>
 <field name="region">California</field>

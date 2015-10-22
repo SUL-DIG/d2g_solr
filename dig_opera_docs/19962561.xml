@@ -3,13 +3,13 @@
 <field name="id">19962561</field>
 <field name="genre">Operas</field>
 <field name="title">The Gang</field>
-<field name="titlesort">Gang</field>
+<field name="titleSort">Gang</field>
 <field name="composer">Peter Hannan</field>
-<field name="composersort">Hannan, Peter</field>
+<field name="composerSort">Hannan, Peter</field>
 <field name="year">1997</field>
 <field name="date">June 1, 1997</field>
 <field name="librettist">Tom Cone</field>
-<field name="librettistsort">Cone, Tom</field>
+<field name="librettistSort">Cone, Tom</field>
 <field name="theater">Vancouver East Cultural Centre</field>
 <field name="city">Vancouver</field>
 <field name="region">British Columbia</field>

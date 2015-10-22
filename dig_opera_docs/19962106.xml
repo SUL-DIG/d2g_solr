@@ -3,13 +3,13 @@
 <field name="id">19962106</field>
 <field name="genre">Operas</field>
 <field name="title">Rappahannock County</field>
-<field name="titlesort">Rappahannock County</field>
+<field name="titleSort">Rappahannock County</field>
 <field name="composer">Ricky Ian Gordon</field>
-<field name="composersort">Gordon, Ricky Ian</field>
+<field name="composerSort">Gordon, Ricky Ian</field>
 <field name="year">2011</field>
 <field name="date">April 12, 2011</field>
 <field name="librettist">Mark Campbell</field>
-<field name="librettistsort">Campbell, Mark</field>
+<field name="librettistSort">Campbell, Mark</field>
 <field name="theater">Center Theater</field>
 <field name="city">Norfolk</field>
 <field name="region">Virginia</field>

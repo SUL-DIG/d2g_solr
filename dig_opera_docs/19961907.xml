@@ -3,13 +3,13 @@
 <field name="id">19961907</field>
 <field name="genre">Operas</field>
 <field name="title">Operation Mitternacht</field>
-<field name="titlesort">Operation Mitternacht</field>
+<field name="titleSort">Operation Mitternacht</field>
 <field name="composer">Richard Farber</field>
-<field name="composersort">Farber, Richard</field>
+<field name="composerSort">Farber, Richard</field>
 <field name="year">2002</field>
 <field name="date">February 28, 2002</field>
 <field name="librettist">Yohanan Kaldi</field>
-<field name="librettistsort">Kaldi, Yohanan</field>
+<field name="librettistSort">Kaldi, Yohanan</field>
 <field name="theater">Theater der Stadt</field>
 <field name="city">Bonn</field>
 <field name="region">Nordrhein-Westfallen</field>

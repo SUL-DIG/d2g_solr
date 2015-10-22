@@ -3,13 +3,13 @@
 <field name="id">19962125</field>
 <field name="genre">Operas</field>
 <field name="title">Redhya</field>
-<field name="titlesort">Redhya</field>
+<field name="titleSort">Redhya</field>
 <field name="composer">Eusebi Bosch i Humet</field>
-<field name="composersort">Bosch i Humet, Eusebi</field>
+<field name="composerSort">Bosch i Humet, Eusebi</field>
 <field name="year">1906</field>
 <field name="date">September 14, 1906</field>
 <field name="librettist">Frederic Garriga</field>
-<field name="librettistsort">Garriga, Frederic</field>
+<field name="librettistSort">Garriga, Frederic</field>
 <field name="theater">Teatre del Bosc</field>
 <field name="city">Barcelona</field>
 <field name="region">Catalunya</field>

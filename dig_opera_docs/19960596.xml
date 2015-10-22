@@ -3,13 +3,13 @@
 <field name="id">19960596</field>
 <field name="genre">Operas</field>
 <field name="title">Der Zauberer von Oz</field>
-<field name="titlesort">Zauberer von Oz</field>
+<field name="titleSort">Zauberer von Oz</field>
 <field name="composer">Christian Gundlach</field>
-<field name="composersort">Gundlach, Christian</field>
+<field name="composerSort">Gundlach, Christian</field>
 <field name="year">2001</field>
 <field name="date">November 11, 2001</field>
 <field name="librettist">Lyman Frank Baum</field>
-<field name="librettistsort">Baum, Lyman Frank</field>
+<field name="librettistSort">Baum, Lyman Frank</field>
 <field name="theater">Städtebundtheater</field>
 <field name="city">Hof</field>
 <field name="region">Bayern</field>

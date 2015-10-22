@@ -3,13 +3,13 @@
 <field name="id">19960013</field>
 <field name="genre">Operas</field>
 <field name="title">A Bird in the Bush</field>
-<field name="titlesort">Bird in the Bush</field>
+<field name="titleSort">Bird in the Bush</field>
 <field name="composer">Herbert Bielawa</field>
-<field name="composersort">Bielawa, Herbert</field>
+<field name="composerSort">Bielawa, Herbert</field>
 <field name="year">1962</field>
 <field name="date">July 10, 1962</field>
 <field name="librettist">Warren Kliewer</field>
-<field name="librettistsort">Kliewer, Warren</field>
+<field name="librettistSort">Kliewer, Warren</field>
 <field name="theater">University of Southern California</field>
 <field name="city">Los Angeles</field>
 <field name="region">California</field>

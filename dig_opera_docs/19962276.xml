@@ -3,13 +3,13 @@
 <field name="id">19962276</field>
 <field name="genre">Operas</field>
 <field name="title">Shot!</field>
-<field name="titlesort">Shot!</field>
+<field name="titleSort">Shot!</field>
 <field name="composer">Persis Anne Parshall Vehar</field>
-<field name="composersort">Vehar, Persis Anne Parshall</field>
+<field name="composerSort">Vehar, Persis Anne Parshall</field>
 <field name="year">2015</field>
 <field name="date">June 26, 2015</field>
 <field name="librettist">Gabrielle Vehar</field>
-<field name="librettistsort">Vehar, Gabrielle</field>
+<field name="librettistSort">Vehar, Gabrielle</field>
 <field name="theater">Nickel City Opera</field>
 <field name="city">Buffalo</field>
 <field name="region">New York</field>

@@ -3,13 +3,13 @@
 <field name="id">19962515</field>
 <field name="genre">Operas</field>
 <field name="title">The Doctor's Tale</field>
-<field name="titlesort">Doctor's Tale</field>
+<field name="titleSort">Doctor's Tale</field>
 <field name="composer">Anne Dudley</field>
-<field name="composersort">Dudley, Anne</field>
+<field name="composerSort">Dudley, Anne</field>
 <field name="year">2011</field>
 <field name="date">April 8, 2011</field>
 <field name="librettist">Terry Jones</field>
-<field name="librettistsort">Jones, Terry</field>
+<field name="librettistSort">Jones, Terry</field>
 <field name="theater">Linbury Studio, Royal Opera House</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

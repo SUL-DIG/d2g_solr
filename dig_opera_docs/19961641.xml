@@ -3,13 +3,13 @@
 <field name="id">19961641</field>
 <field name="genre">Operas</field>
 <field name="title">Man and Boy: Dada</field>
-<field name="titlesort">Man and Boy: Dada</field>
+<field name="titleSort">Man and Boy: Dada</field>
 <field name="composer">Michael Nyman</field>
-<field name="composersort">Nyman, Michael</field>
+<field name="composerSort">Nyman, Michael</field>
 <field name="year">2004</field>
 <field name="date">March 13, 2004</field>
 <field name="librettist">Michael Hastings</field>
-<field name="librettistsort">Hastings, Michael</field>
+<field name="librettistSort">Hastings, Michael</field>
 <field name="theater">Badisches Staatstheater</field>
 <field name="city">Karlsruhe</field>
 <field name="region">Baden-Württemberg</field>

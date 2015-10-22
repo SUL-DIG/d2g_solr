@@ -3,13 +3,13 @@
 <field name="id">19961760</field>
 <field name="genre">Operas</field>
 <field name="title">Mori wa ikiteiru (The Twelve Months)</field>
-<field name="titlesort">Mori wa ikiteiru (The Twelve Months)</field>
+<field name="titleSort">Mori wa ikiteiru (The Twelve Months)</field>
 <field name="composer">Hikaru Hayashi</field>
-<field name="composersort">Hayashi, Hikaru</field>
+<field name="composerSort">Hayashi, Hikaru</field>
 <field name="year">2003</field>
 <field name="date">January 10, 2003</field>
 <field name="librettist">Samuil Yakovlevich Marshak</field>
-<field name="librettistsort">Marshak, Samuil Yakovlevich</field>
+<field name="librettistSort">Marshak, Samuil Yakovlevich</field>
 <field name="theater">Opera Theater Konnyakuza</field>
 <field name="city">Tokyo</field>
 <field name="region">Tokyo</field>

@@ -3,9 +3,9 @@
 <field name="id">19960735</field>
 <field name="genre">Operas</field>
 <field name="title">Dwarf</field>
-<field name="titlesort">Dwarf</field>
+<field name="titleSort">Dwarf</field>
 <field name="composer">Nazim Aliverdibeyov</field>
-<field name="composersort">Aliverdibeyov, Nazim</field>
+<field name="composerSort">Aliverdibeyov, Nazim</field>
 <field name="year">1978</field>
 <field name="date">June 25, 1978</field>
 <field name="theater">Azerbaijanskiy Akademicheskiy Teatr Operï i Baleta imeni M. F. Akhundova</field>

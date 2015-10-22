@@ -3,13 +3,13 @@
 <field name="id">19962925</field>
 <field name="genre">Operas</field>
 <field name="title">Tschirkolorado</field>
-<field name="titlesort">Tschirkolorado</field>
+<field name="titleSort">Tschirkolorado</field>
 <field name="composer">Camille Kerger</field>
-<field name="composersort">Kerger, Camille</field>
+<field name="composerSort">Kerger, Camille</field>
 <field name="year">1998</field>
 <field name="date">July 9, 1998</field>
 <field name="librettist">Guy Rewenig</field>
-<field name="librettistsort">Rewenig, Guy</field>
+<field name="librettistSort">Rewenig, Guy</field>
 <field name="theater">Théâtre des Capucins</field>
 <field name="city">Luxembourg</field>
 <field name="country">Luxembourg</field>

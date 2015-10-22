@@ -3,12 +3,12 @@
 <field name="id">19963035</field>
 <field name="genre">Operas</field>
 <field name="title">Wakahime</field>
-<field name="titlesort">Wakahime</field>
+<field name="titleSort">Wakahime</field>
 <field name="composer">Minoru Miki</field>
-<field name="composersort">Miki, Minoru</field>
+<field name="composerSort">Miki, Minoru</field>
 <field name="year">1992</field>
 <field name="librettist">Rei Nakanishi</field>
-<field name="librettistsort">Nakanishi, Rei</field>
+<field name="librettistSort">Nakanishi, Rei</field>
 <field name="theater">Okayama Symphony Hall</field>
 <field name="city">Okayama Symphony Hall</field>
 <field name="region">Okayama Symphony Hall</field>

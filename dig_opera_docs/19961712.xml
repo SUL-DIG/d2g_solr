@@ -3,13 +3,13 @@
 <field name="id">19961712</field>
 <field name="genre">Operas</field>
 <field name="title">Melancholia</field>
-<field name="titlesort">Melancholia</field>
+<field name="titleSort">Melancholia</field>
 <field name="composer">Georg Friedrich Haas</field>
-<field name="composersort">Haas, Georg Friedrich</field>
+<field name="composerSort">Haas, Georg Friedrich</field>
 <field name="year">2008</field>
 <field name="date">June 9, 2008</field>
 <field name="librettist">Jon Fosse</field>
-<field name="librettistsort">Fosse, Jon</field>
+<field name="librettistSort">Fosse, Jon</field>
 <field name="theater">Opéra</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

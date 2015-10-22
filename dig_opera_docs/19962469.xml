@@ -3,13 +3,13 @@
 <field name="id">19962469</field>
 <field name="genre">Operas</field>
 <field name="title">The Book of the Gold</field>
-<field name="titlesort">Book of the Gold</field>
+<field name="titleSort">Book of the Gold</field>
 <field name="composer">Murray Boren</field>
-<field name="composersort">Boren, Murray</field>
+<field name="composerSort">Boren, Murray</field>
 <field name="year">2005</field>
 <field name="date">November 4, 2005</field>
 <field name="librettist">Glen Nelson</field>
-<field name="librettistsort">Nelson, Glen</field>
+<field name="librettistSort">Nelson, Glen</field>
 <field name="theater">Brigham Young University</field>
 <field name="city">Provo</field>
 <field name="region">Utah</field>

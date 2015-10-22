@@ -3,13 +3,13 @@
 <field name="id">19961513</field>
 <field name="genre">Operas</field>
 <field name="title">Lelele</field>
-<field name="titlesort">Lelele</field>
+<field name="titleSort">Lelele</field>
 <field name="composer">Lotta Wennäkoski</field>
-<field name="composersort">Wennäkoski, Lotta</field>
+<field name="composerSort">Wennäkoski, Lotta</field>
 <field name="year">2011</field>
 <field name="date">February 5, 2011</field>
 <field name="librettist">Lotta Wennäkoski</field>
-<field name="librettistsort">Wennäkoski, Lotta</field>
+<field name="librettistSort">Wennäkoski, Lotta</field>
 <field name="theater">Musica nova Helsinki</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

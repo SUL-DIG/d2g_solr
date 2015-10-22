@@ -3,13 +3,13 @@
 <field name="id">19962412</field>
 <field name="genre">Operas</field>
 <field name="title">Tabaré</field>
-<field name="titlesort">Tabaré</field>
+<field name="titleSort">Tabaré</field>
 <field name="composer">Alfonso Broqua</field>
-<field name="composersort">Broqua, Alfonso</field>
+<field name="composerSort">Broqua, Alfonso</field>
 <field name="year">1910</field>
 <field name="date">June 30, 1910</field>
 <field name="librettist">Juan Zorrilla de San Martín</field>
-<field name="librettistsort">Zorrilla de San Martín, Juan</field>
+<field name="librettistSort">Zorrilla de San Martín, Juan</field>
 <field name="theater">Teatro Solis</field>
 <field name="city">Montevideo</field>
 <field name="country">Uruguay</field>

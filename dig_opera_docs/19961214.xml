@@ -3,9 +3,9 @@
 <field name="id">19961214</field>
 <field name="genre">Operas</field>
 <field name="title">Ja Schatz</field>
-<field name="titlesort">Ja Schatz</field>
+<field name="titleSort">Ja Schatz</field>
 <field name="composer">Erke Duit</field>
-<field name="composersort">Duit, Erke</field>
+<field name="composerSort">Duit, Erke</field>
 <field name="year">2012</field>
 <field name="date">September 21, 2012</field>
 <field name="theater">Stadttheater</field>

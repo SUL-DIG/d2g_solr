@@ -3,13 +3,13 @@
 <field name="id">19962966</field>
 <field name="genre">Operas</field>
 <field name="title">Urmuzica</field>
-<field name="titlesort">Urmuzica</field>
+<field name="titleSort">Urmuzica</field>
 <field name="composer">Sorin Lerescu</field>
-<field name="composersort">Lerescu, Sorin</field>
+<field name="composerSort">Lerescu, Sorin</field>
 <field name="year">1998</field>
 <field name="date">November 27, 1998</field>
 <field name="librettist">Pavel Puscas</field>
-<field name="librettistsort">Puscas, Pavel</field>
+<field name="librettistSort">Puscas, Pavel</field>
 <field name="theater">Opera Româna</field>
 <field name="city">Bucharest</field>
 <field name="country">Romania</field>

@@ -3,13 +3,13 @@
 <field name="id">19961491</field>
 <field name="genre">Operas</field>
 <field name="title">Le rapt de Perséphone</field>
-<field name="titlesort">rapt de Perséphone</field>
+<field name="titleSort">rapt de Perséphone</field>
 <field name="composer">André Bon</field>
-<field name="composersort">Bon, André</field>
+<field name="composerSort">Bon, André</field>
 <field name="year">1987</field>
 <field name="date">January 27, 1987</field>
 <field name="librettist">Dominique Fernandez</field>
-<field name="librettistsort">Fernandez, Dominique</field>
+<field name="librettistSort">Fernandez, Dominique</field>
 <field name="theater">Grand-Théâtre</field>
 <field name="city">Nancy</field>
 <field name="region">Meurthe-et-Moselle</field>

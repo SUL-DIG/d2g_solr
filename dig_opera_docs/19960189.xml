@@ -3,12 +3,12 @@
 <field name="id">19960189</field>
 <field name="genre">Operas</field>
 <field name="title">Antiphony</field>
-<field name="titlesort">Antiphony</field>
+<field name="titleSort">Antiphony</field>
 <field name="composer">Graham Preskett</field>
-<field name="composersort">Preskett, Graham</field>
+<field name="composerSort">Preskett, Graham</field>
 <field name="year">1994</field>
 <field name="librettist">John Kane</field>
-<field name="librettistsort">Kane, John</field>
+<field name="librettistSort">Kane, John</field>
 <field name="theater">W11 Opera</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

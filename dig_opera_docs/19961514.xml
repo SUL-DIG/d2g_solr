@@ -3,13 +3,13 @@
 <field name="id">19961514</field>
 <field name="genre">Operas</field>
 <field name="title">Leļļu opera (The Puppet Opera)</field>
-<field name="titlesort">Leļļu opera (The Puppet Opera)</field>
+<field name="titleSort">Leļļu opera (The Puppet Opera)</field>
 <field name="composer">Jānis Lūsēns</field>
-<field name="composersort">Lūsēns, Jānis</field>
+<field name="composerSort">Lūsēns, Jānis</field>
 <field name="year">2008</field>
 <field name="date">January 18, 2008</field>
 <field name="librettist">Māra Zālīte</field>
-<field name="librettistsort">Zālīte, Māra</field>
+<field name="librettistSort">Zālīte, Māra</field>
 <field name="theater">Latvijas Nacionalaja Opera</field>
 <field name="city">Riga</field>
 <field name="country">Latvia</field>

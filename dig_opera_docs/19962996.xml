@@ -3,9 +3,9 @@
 <field name="id">19962996</field>
 <field name="genre">Operas</field>
 <field name="title">Viermal Methusalem</field>
-<field name="titlesort">Viermal Methusalem</field>
+<field name="titleSort">Viermal Methusalem</field>
 <field name="composer">Karl Salomon</field>
-<field name="composersort">Salomon, Karl</field>
+<field name="composerSort">Salomon, Karl</field>
 <field name="year">1968</field>
 <field name="theater">ZDF Television (Zweites deutsches Fernsehen)</field>
 <field name="city">Mainz</field>

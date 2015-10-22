@@ -3,13 +3,13 @@
 <field name="id">19962062</field>
 <field name="genre">Operas</field>
 <field name="title">Proteus oder Alte Griechen und junge Frauen</field>
-<field name="titlesort">Proteus oder Alte Griechen und junge Frauen</field>
+<field name="titleSort">Proteus oder Alte Griechen und junge Frauen</field>
 <field name="composer">Balduin Sulzer</field>
-<field name="composersort">Sulzer, Balduin</field>
+<field name="composerSort">Sulzer, Balduin</field>
 <field name="year">1998</field>
 <field name="date">March 8, 1998</field>
 <field name="librettist">Paul Claudel</field>
-<field name="librettistsort">Claudel, Paul</field>
+<field name="librettistSort">Claudel, Paul</field>
 <field name="theater">Landestheater</field>
 <field name="city">Linz</field>
 <field name="region">Oberösterreich</field>

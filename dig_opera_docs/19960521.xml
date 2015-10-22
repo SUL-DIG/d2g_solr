@@ -3,13 +3,13 @@
 <field name="id">19960521</field>
 <field name="genre">Operas</field>
 <field name="title">De grote verzoeking van Sint-Antonius</field>
-<field name="titlesort">grote verzoeking van Sint-Antonius</field>
+<field name="titleSort">grote verzoeking van Sint-Antonius</field>
 <field name="composer">Louis de Meester</field>
-<field name="composersort">Meester, Louis de</field>
+<field name="composerSort">Meester, Louis de</field>
 <field name="year">1961</field>
 <field name="date">November 11, 1961</field>
 <field name="librettist">Michel de Ghelderode</field>
-<field name="librettistsort">Ghelderode, Michel de</field>
+<field name="librettistSort">Ghelderode, Michel de</field>
 <field name="theater">Koninklijke Vlaamse Opera</field>
 <field name="city">Antwerp</field>
 <field name="region">Antwerpen</field>

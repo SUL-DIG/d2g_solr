@@ -3,9 +3,9 @@
 <field name="id">19962923</field>
 <field name="genre">Operas</field>
 <field name="title">Tsar Samuil</field>
-<field name="titlesort">Tsar Samuil</field>
+<field name="titleSort">Tsar Samuil</field>
 <field name="composer">Kiril Makedonski</field>
-<field name="composersort">Makedonski, Kiril</field>
+<field name="composerSort">Makedonski, Kiril</field>
 <field name="year">1972</field>
 <field name="date">May 9, 1972</field>
 <field name="theater">Makedonska Opera i Balet</field>

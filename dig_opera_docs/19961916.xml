@@ -3,13 +3,13 @@
 <field name="id">19961916</field>
 <field name="genre">Operas</field>
 <field name="title">Orfeo 14</field>
-<field name="titlesort">Orfeo 14</field>
+<field name="titleSort">Orfeo 14</field>
 <field name="composer">Helmut Oehring</field>
-<field name="composersort">Oehring, Helmut</field>
+<field name="composerSort">Oehring, Helmut</field>
 <field name="year">2014</field>
 <field name="date">June 18, 2014</field>
 <field name="librettist">Stefanie Wördemann</field>
-<field name="librettistsort">Wördemann, Stefanie</field>
+<field name="librettistSort">Wördemann, Stefanie</field>
 <field name="theater">Opéra</field>
 <field name="city">Lille</field>
 <field name="region">Nord</field>

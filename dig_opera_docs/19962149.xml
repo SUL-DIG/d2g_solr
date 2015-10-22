@@ -3,13 +3,13 @@
 <field name="id">19962149</field>
 <field name="genre">Operas</field>
 <field name="title">Richter/Meinhof-Opera</field>
-<field name="titlesort">Richter/Meinhof-Opera</field>
+<field name="titleSort">Richter/Meinhof-Opera</field>
 <field name="composer">David Chesworth</field>
-<field name="composersort">Chesworth, David</field>
+<field name="composerSort">Chesworth, David</field>
 <field name="year">2010</field>
 <field name="date">October 14, 2010</field>
 <field name="librettist">Tony MacGregor</field>
-<field name="librettistsort">MacGregor, Tony</field>
+<field name="librettistSort">MacGregor, Tony</field>
 <field name="theater">Australian Centre for Contemporary Art</field>
 <field name="city">Melbourne</field>
 <field name="region">Victoria</field>

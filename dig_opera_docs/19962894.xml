@@ -3,13 +3,13 @@
 <field name="id">19962894</field>
 <field name="genre">Operas</field>
 <field name="title">Tone Test</field>
-<field name="titlesort">Tone Test</field>
+<field name="titleSort">Tone Test</field>
 <field name="composer">Nick Brooke</field>
-<field name="composersort">Brooke, Nick</field>
+<field name="composerSort">Brooke, Nick</field>
 <field name="year">2004</field>
 <field name="date">July 22, 2004</field>
 <field name="librettist">Nick Brooke</field>
-<field name="librettistsort">Brooke, Nick</field>
+<field name="librettistSort">Brooke, Nick</field>
 <field name="theater">Clark Studio Theater</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

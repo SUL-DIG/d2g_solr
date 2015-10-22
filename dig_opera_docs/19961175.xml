@@ -3,13 +3,13 @@
 <field name="id">19961175</field>
 <field name="genre">Operas</field>
 <field name="title">Imago</field>
-<field name="titlesort">Imago</field>
+<field name="titleSort">Imago</field>
 <field name="composer">Orlando Gough</field>
-<field name="composersort">Gough, Orlando</field>
+<field name="composerSort">Gough, Orlando</field>
 <field name="year">2013</field>
 <field name="date">March 7, 2013</field>
 <field name="librettist">Stephen Plaice</field>
-<field name="librettistsort">Plaice, Stephen</field>
+<field name="librettistSort">Plaice, Stephen</field>
 <field name="theater">Glyndebourne Festival Opera</field>
 <field name="city">Glyndebourne</field>
 <field name="region">East Sussex</field>

@@ -3,12 +3,12 @@
 <field name="id">19961566</field>
 <field name="genre">Operas</field>
 <field name="title">Listen to the Earth</field>
-<field name="titlesort">Listen to the Earth</field>
+<field name="titleSort">Listen to the Earth</field>
 <field name="composer">Steve Gray</field>
-<field name="composersort">Gray, Steve</field>
+<field name="composerSort">Gray, Steve</field>
 <field name="year">1992</field>
 <field name="librettist">Sarah Shuckburgh</field>
-<field name="librettistsort">Shuckburgh, Sarah</field>
+<field name="librettistSort">Shuckburgh, Sarah</field>
 <field name="theater">W11 Opera</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

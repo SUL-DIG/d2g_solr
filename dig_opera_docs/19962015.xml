@@ -3,13 +3,13 @@
 <field name="id">19962015</field>
 <field name="genre">Operas</field>
 <field name="title">Pinocchio in Love</field>
-<field name="titlesort">Pinocchio in Love</field>
+<field name="titleSort">Pinocchio in Love</field>
 <field name="composer">Guus Janssen</field>
-<field name="composersort">Janssen, Guus</field>
+<field name="composerSort">Janssen, Guus</field>
 <field name="year">2010</field>
 <field name="date">July 17, 2010</field>
 <field name="librettist">Friso Haverkamp</field>
-<field name="librettistsort">Haverkamp, Friso</field>
+<field name="librettistSort">Haverkamp, Friso</field>
 <field name="theater">Festival De Parade, Moreelsepark</field>
 <field name="city">Utrecht</field>
 <field name="region">Utrecht</field>

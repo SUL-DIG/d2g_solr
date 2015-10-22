@@ -3,13 +3,13 @@
 <field name="id">19961028</field>
 <field name="genre">Operas</field>
 <field name="title">H. H. Ulysse</field>
-<field name="titlesort">H. H. Ulysse</field>
+<field name="titleSort">H. H. Ulysse</field>
 <field name="composer">Jean Prodromidès</field>
-<field name="composersort">Prodromidès, Jean</field>
+<field name="composerSort">Prodromidès, Jean</field>
 <field name="year">1984</field>
 <field name="date">March 2, 1984</field>
 <field name="librettist">Serge Ganzl</field>
-<field name="librettistsort">Ganzl, Serge</field>
+<field name="librettistSort">Ganzl, Serge</field>
 <field name="theater">Théâtre Municipal</field>
 <field name="city">Strasbourg</field>
 <field name="region">Bas-Rhin</field>

@@ -3,13 +3,13 @@
 <field name="id">19960938</field>
 <field name="genre">Operas</field>
 <field name="title">Fuga straniera con moto</field>
-<field name="titlesort">Fuga straniera con moto</field>
+<field name="titleSort">Fuga straniera con moto</field>
 <field name="composer">Andrea Cera</field>
-<field name="composersort">Cera, Andrea</field>
+<field name="composerSort">Cera, Andrea</field>
 <field name="year">2012</field>
 <field name="date">September 7, 2012</field>
 <field name="librettist">Mario Perrotta</field>
-<field name="librettistsort">Perrotta, Mario</field>
+<field name="librettistSort">Perrotta, Mario</field>
 <field name="theater">Teatro del Complesso Monumentale di San Nicolò</field>
 <field name="city">Spoleto</field>
 <field name="region">Umbria</field>

@@ -3,13 +3,13 @@
 <field name="id">19960792</field>
 <field name="genre">Operas</field>
 <field name="title">Elsewhereless</field>
-<field name="titlesort">Elsewhereless</field>
+<field name="titleSort">Elsewhereless</field>
 <field name="composer">Rodney Sharman</field>
-<field name="composersort">Sharman, Rodney</field>
+<field name="composerSort">Sharman, Rodney</field>
 <field name="year">1998</field>
 <field name="date">April 23, 1998</field>
 <field name="librettist">Atom Egoyan</field>
-<field name="librettistsort">Egoyan, Atom</field>
+<field name="librettistSort">Egoyan, Atom</field>
 <field name="theater">Tapestry New Opera Works</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

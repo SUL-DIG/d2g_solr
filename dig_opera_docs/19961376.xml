@@ -3,13 +3,13 @@
 <field name="id">19961376</field>
 <field name="genre">Operas</field>
 <field name="title">L’ultimo avventore</field>
-<field name="titlesort">ultimo avventore</field>
+<field name="titleSort">ultimo avventore</field>
 <field name="composer">Lucio Gregoretti</field>
-<field name="composersort">Gregoretti, Lucio</field>
+<field name="composerSort">Gregoretti, Lucio</field>
 <field name="year">2007</field>
 <field name="date">May 17, 2007</field>
 <field name="librettist">Bruno Cagli</field>
-<field name="librettistsort">Cagli, Bruno</field>
+<field name="librettistSort">Cagli, Bruno</field>
 <field name="theater">Università degli Studi di Roma Tor Vergata</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>

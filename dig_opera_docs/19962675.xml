@@ -3,12 +3,12 @@
 <field name="id">19962675</field>
 <field name="genre">Operas</field>
 <field name="title">The Other Half</field>
-<field name="titlesort">Other Half</field>
+<field name="titleSort">Other Half</field>
 <field name="composer">William Copper</field>
-<field name="composersort">Copper, William</field>
+<field name="composerSort">Copper, William</field>
 <field name="year">1993</field>
 <field name="librettist">William Copper</field>
-<field name="librettistsort">Copper, William</field>
+<field name="librettistSort">Copper, William</field>
 <field name="theater">Everett Theater</field>
 <field name="city">Middletown</field>
 <field name="region">Delaware</field>

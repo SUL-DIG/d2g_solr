@@ -3,13 +3,13 @@
 <field name="id">19960721</field>
 <field name="genre">Operas</field>
 <field name="title">Drei alte Männer wollten nicht sterben</field>
-<field name="titlesort">Drei alte Männer wollten nicht sterben</field>
+<field name="titleSort">Drei alte Männer wollten nicht sterben</field>
 <field name="composer">Guus Ponsioen</field>
-<field name="composersort">Ponsioen, Guus</field>
+<field name="composerSort">Ponsioen, Guus</field>
 <field name="year">2011</field>
 <field name="date">May 7, 2011</field>
 <field name="librettist">Suzanne van Lohuize</field>
-<field name="librettistsort">Lohuize, Suzanne van</field>
+<field name="librettistSort">Lohuize, Suzanne van</field>
 <field name="theater">Theater am Goetheplatz</field>
 <field name="city">Bremen</field>
 <field name="region">Bremen</field>

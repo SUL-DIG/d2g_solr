@@ -3,13 +3,13 @@
 <field name="id">19961072</field>
 <field name="genre">Operas</field>
 <field name="title">Heroes Don’t Dance</field>
-<field name="titlesort">Heroes Don’t Dance</field>
+<field name="titleSort">Heroes Don’t Dance</field>
 <field name="composer">Julian Grant</field>
-<field name="composersort">Grant, Julian</field>
+<field name="composerSort">Grant, Julian</field>
 <field name="year">1998</field>
 <field name="date">February 19, 1998</field>
 <field name="librettist">Christina Jones</field>
-<field name="librettistsort">Jones, Christina</field>
+<field name="librettistSort">Jones, Christina</field>
 <field name="theater">Cambridge Corn Exchange</field>
 <field name="city">Cambridge </field>
 <field name="region">Cambridgeshire</field>

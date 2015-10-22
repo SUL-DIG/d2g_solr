@@ -3,13 +3,13 @@
 <field name="id">19962397</field>
 <field name="genre">Operas</field>
 <field name="title">Supersize Girl</field>
-<field name="titlesort">Supersize Girl</field>
+<field name="titleSort">Supersize Girl</field>
 <field name="composer">Gisle Kverndokk</field>
-<field name="composersort">Kverndokk, Gisle</field>
+<field name="composerSort">Kverndokk, Gisle</field>
 <field name="year">2013</field>
 <field name="date">December 15, 2013</field>
 <field name="librettist">Øystein Wiik</field>
-<field name="librettistsort">Wiik, Øystein</field>
+<field name="librettistSort">Wiik, Øystein</field>
 <field name="theater">National Gallery of Art</field>
 <field name="city">Washington </field>
 <field name="region">District of Columbia</field>

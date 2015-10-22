@@ -3,12 +3,12 @@
 <field name="id">19961706</field>
 <field name="genre">Operas</field>
 <field name="title">Medea-Fragment</field>
-<field name="titlesort">Medea-Fragment</field>
+<field name="titleSort">Medea-Fragment</field>
 <field name="composer">Hans-Jürgen von Bose</field>
-<field name="composersort">Bose, Hans-Jürgen von</field>
+<field name="composerSort">Bose, Hans-Jürgen von</field>
 <field name="year">1994</field>
 <field name="librettist">Hans Henny Jahnn</field>
-<field name="librettistsort">Jahnn, Hans Henny</field>
+<field name="librettistSort">Jahnn, Hans Henny</field>
 <field name="theater">Opernhaus</field>
 <field name="city">Zürich</field>
 <field name="region">Zürich</field>

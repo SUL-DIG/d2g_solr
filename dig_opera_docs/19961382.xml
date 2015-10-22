@@ -3,13 +3,13 @@
 <field name="id">19961382</field>
 <field name="genre">Operas</field>
 <field name="title">La cabeza del dragón</field>
-<field name="titlesort">cabeza del dragón</field>
+<field name="titleSort">cabeza del dragón</field>
 <field name="composer">Ricard Lamote de Grignon</field>
-<field name="composersort">Lamote de Grignon, Ricard</field>
+<field name="composerSort">Lamote de Grignon, Ricard</field>
 <field name="year">1960</field>
 <field name="date">November 17, 1960</field>
 <field name="librettist">Ramón del Valle-Inclán</field>
-<field name="librettistsort">Valle-Inclán, Ramón del</field>
+<field name="librettistSort">Valle-Inclán, Ramón del</field>
 <field name="theater">Gran Teatre del Liceu</field>
 <field name="city">Barcelona</field>
 <field name="region">Catalunya</field>

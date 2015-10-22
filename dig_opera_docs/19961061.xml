@@ -3,13 +3,13 @@
 <field name="id">19961061</field>
 <field name="genre">Operas</field>
 <field name="title">Heilige Seelenlust</field>
-<field name="titlesort">Heilige Seelenlust</field>
+<field name="titleSort">Heilige Seelenlust</field>
 <field name="composer">Piet Swerts</field>
-<field name="composersort">Swerts, Piet</field>
+<field name="composerSort">Swerts, Piet</field>
 <field name="year">2008</field>
 <field name="date">November 27, 2008</field>
 <field name="librettist">[Johannes Scheffler] Angelus Silesius</field>
-<field name="librettistsort">Angelus Silesius, [Johannes Scheffler]</field>
+<field name="librettistSort">Angelus Silesius, [Johannes Scheffler]</field>
 <field name="theater">Lemmensinstituut</field>
 <field name="city">Leuven</field>
 <field name="region">Brabant</field>

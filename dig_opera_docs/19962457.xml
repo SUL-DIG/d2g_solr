@@ -3,13 +3,13 @@
 <field name="id">19962457</field>
 <field name="genre">Operas</field>
 <field name="title">The Binding of Isaac</field>
-<field name="titlesort">Binding of Isaac</field>
+<field name="titleSort">Binding of Isaac</field>
 <field name="composer">Matthew Peterson </field>
-<field name="composersort">Peterson, Matthew</field>
+<field name="composerSort">Peterson, Matthew</field>
 <field name="year">2006</field>
 <field name="date">April 30, 2006</field>
 <field name="librettist">Jason Zencka </field>
-<field name="librettistsort">Zencka, Jason</field>
+<field name="librettistSort">Zencka, Jason</field>
 <field name="theater">St. Olaf College</field>
 <field name="city">Northfield</field>
 <field name="region">Minnesota</field>

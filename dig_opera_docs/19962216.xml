@@ -3,13 +3,13 @@
 <field name="id">19962216</field>
 <field name="genre">Operas</field>
 <field name="title">Sarah and Hagar</field>
-<field name="titlesort">Sarah and Hagar</field>
+<field name="titleSort">Sarah and Hagar</field>
 <field name="composer">Gerald Cohen</field>
-<field name="composersort">Cohen, Gerald</field>
+<field name="composerSort">Cohen, Gerald</field>
 <field name="year">2005</field>
 <field name="date">June 11, 2005</field>
 <field name="librettist">Charles Kondek</field>
-<field name="librettistsort">Kondek, Charles</field>
+<field name="librettistSort">Kondek, Charles</field>
 <field name="theater">Center for Jewish History</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

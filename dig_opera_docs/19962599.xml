@@ -3,13 +3,13 @@
 <field name="id">19962599</field>
 <field name="genre">Operas</field>
 <field name="title">The Io Passion</field>
-<field name="titlesort">Io Passion</field>
+<field name="titleSort">Io Passion</field>
 <field name="composer">Harrison Birtwistle</field>
-<field name="composersort">Birtwistle, Harrison</field>
+<field name="composerSort">Birtwistle, Harrison</field>
 <field name="year">2004</field>
 <field name="date">June 11, 2004</field>
 <field name="librettist">Stephen Plaice</field>
-<field name="librettistsort">Plaice, Stephen</field>
+<field name="librettistSort">Plaice, Stephen</field>
 <field name="theater">The Maltings</field>
 <field name="city">Snape</field>
 <field name="region">Suffolk</field>

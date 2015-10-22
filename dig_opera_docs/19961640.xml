@@ -3,13 +3,13 @@
 <field name="id">19961640</field>
 <field name="genre">Operas</field>
 <field name="title">Mammoet</field>
-<field name="titlesort">Mammoet</field>
+<field name="titleSort">Mammoet</field>
 <field name="composer">Ben Lammerts van Bueren</field>
-<field name="composersort">Bueren, Ben Lammerts van</field>
+<field name="composerSort">Bueren, Ben Lammerts van</field>
 <field name="year">2011</field>
 <field name="date">May 27, 2011</field>
 <field name="librettist">Anna Maria Versloot</field>
-<field name="librettistsort">Versloot, Anna Maria</field>
+<field name="librettistSort">Versloot, Anna Maria</field>
 <field name="theater">Operadagen</field>
 <field name="city">Rotterdam</field>
 <field name="region">Suid Holland</field>

@@ -3,13 +3,13 @@
 <field name="id">19962409</field>
 <field name="genre">Operas</field>
 <field name="title">Sybil of the Revolution</field>
-<field name="titlesort">Sybil of the Revolution</field>
+<field name="titleSort">Sybil of the Revolution</field>
 <field name="composer">Ludmila Ulehla</field>
-<field name="composersort">Ulehla, Ludmila</field>
+<field name="composerSort">Ulehla, Ludmila</field>
 <field name="year">1993</field>
 <field name="date">April 1, 1993</field>
 <field name="librettist">Susan Schefflein</field>
-<field name="librettistsort">Schefflein, Susan</field>
+<field name="librettistSort">Schefflein, Susan</field>
 <field name="theater">Abigail Adams Smith Museum</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

@@ -3,13 +3,13 @@
 <field name="id">19962931</field>
 <field name="genre">Operas</field>
 <field name="title">Twenty-seven</field>
-<field name="titlesort">Twenty-seven</field>
+<field name="titleSort">Twenty-seven</field>
 <field name="composer">Ricky Ian Gordon</field>
-<field name="composersort">Gordon, Ricky Ian</field>
+<field name="composerSort">Gordon, Ricky Ian</field>
 <field name="year">2014</field>
 <field name="date">June 14, 2014</field>
 <field name="librettist">Royce Vavrek</field>
-<field name="librettistsort">Vavrek, Royce</field>
+<field name="librettistSort">Vavrek, Royce</field>
 <field name="theater">Loretto-Hilton Theater</field>
 <field name="city">St. Louis</field>
 <field name="region">Missouri</field>

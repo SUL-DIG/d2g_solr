@@ -3,13 +3,13 @@
 <field name="id">19961226</field>
 <field name="genre">Operas</field>
 <field name="title">Jefta</field>
-<field name="titlesort">Jefta</field>
+<field name="titleSort">Jefta</field>
 <field name="composer">Karl Aage Rasmussen</field>
-<field name="composersort">Rasmussen, Karl Aage</field>
+<field name="composerSort">Rasmussen, Karl Aage</field>
 <field name="year">1977</field>
 <field name="date">August 1, 1977</field>
 <field name="librettist">Poul Borum</field>
-<field name="librettistsort">Borum, Poul</field>
+<field name="librettistSort">Borum, Poul</field>
 <field name="theater">Den Jyske Opera</field>
 <field name="city">Århus</field>
 <field name="region">Midtjylland</field>

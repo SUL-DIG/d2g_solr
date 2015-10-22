@@ -3,13 +3,13 @@
 <field name="id">19962702</field>
 <field name="genre">Operas</field>
 <field name="title">The Present</field>
-<field name="titlesort">Present</field>
+<field name="titleSort">Present</field>
 <field name="composer">Elena Langer</field>
-<field name="composersort">Langer, Elena</field>
+<field name="composerSort">Langer, Elena</field>
 <field name="year">2009</field>
 <field name="date">January 25, 2009</field>
 <field name="librettist">Glyn Maxwell</field>
-<field name="librettistsort">Maxwell, Glyn</field>
+<field name="librettistSort">Maxwell, Glyn</field>
 <field name="theater">Opernhaus</field>
 <field name="city">Zürich</field>
 <field name="region">Zürich</field>

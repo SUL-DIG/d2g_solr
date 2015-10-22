@@ -3,12 +3,12 @@
 <field name="id">19962173</field>
 <field name="genre">Operas</field>
 <field name="title">Római láz (Roman Fever)</field>
-<field name="titlesort">Római láz (Roman Fever)</field>
+<field name="titleSort">Római láz (Roman Fever)</field>
 <field name="composer">Gyula Fekete</field>
-<field name="composersort">Fekete, Gyula</field>
+<field name="composerSort">Fekete, Gyula</field>
 <field name="year">1996</field>
 <field name="librettist">Edith Wharton</field>
-<field name="librettistsort">Wharton, Edith</field>
+<field name="librettistSort">Wharton, Edith</field>
 <field name="theater">Merlin Színház</field>
 <field name="city">Budapest</field>
 <field name="country">Hungary</field>

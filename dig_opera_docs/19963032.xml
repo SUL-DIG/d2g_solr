@@ -3,13 +3,13 @@
 <field name="id">19963032</field>
 <field name="genre">Operas</field>
 <field name="title">Waiting for Jack</field>
-<field name="titlesort">Waiting for Jack</field>
+<field name="titleSort">Waiting for Jack</field>
 <field name="composer">Lynne Williams</field>
-<field name="composersort">Williams, Lynne</field>
+<field name="composerSort">Williams, Lynne</field>
 <field name="year">2002</field>
 <field name="date">February 18, 2002</field>
 <field name="librettist">Richard Taylor</field>
-<field name="librettistsort">Taylor, Richard</field>
+<field name="librettistSort">Taylor, Richard</field>
 <field name="theater">Bridewell Theatre</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

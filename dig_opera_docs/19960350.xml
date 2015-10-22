@@ -3,13 +3,13 @@
 <field name="id">19960350</field>
 <field name="genre">Operas</field>
 <field name="title">Border</field>
-<field name="titlesort">Border</field>
+<field name="titleSort">Border</field>
 <field name="composer">Ludger Vollmer</field>
-<field name="composersort">Vollmer, Ludger</field>
+<field name="composerSort">Vollmer, Ludger</field>
 <field name="year">2012</field>
 <field name="date">April 13, 2012</field>
 <field name="librettist">Stephanie Schiller</field>
-<field name="librettistsort">Schiller, Stephanie</field>
+<field name="librettistSort">Schiller, Stephanie</field>
 <field name="theater">Palladium</field>
 <field name="city">Cologne</field>
 <field name="region">Nordrhein-Westfallen</field>

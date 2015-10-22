@@ -3,13 +3,13 @@
 <field name="id">19962634</field>
 <field name="genre">Operas</field>
 <field name="title">The Love of the Nightingale</field>
-<field name="titlesort">Love of the Nightingale</field>
+<field name="titleSort">Love of the Nightingale</field>
 <field name="composer">Richard Mills</field>
-<field name="composersort">Mills, Richard</field>
+<field name="composerSort">Mills, Richard</field>
 <field name="year">2007</field>
 <field name="date">February 10, 2007</field>
 <field name="librettist">Timberlake Wertenbaker</field>
-<field name="librettistsort">Wertenbaker, Timberlake</field>
+<field name="librettistSort">Wertenbaker, Timberlake</field>
 <field name="theater">His Majesty's Theatre</field>
 <field name="city">Perth</field>
 <field name="region">Western Australia</field>

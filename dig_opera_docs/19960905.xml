@@ -3,13 +3,13 @@
 <field name="id">19960905</field>
 <field name="genre">Operas</field>
 <field name="title">Followers</field>
-<field name="titlesort">Followers</field>
+<field name="titleSort">Followers</field>
 <field name="composer">Julian Philips</field>
-<field name="composersort">Philips, Julian</field>
+<field name="composerSort">Philips, Julian</field>
 <field name="year">2011</field>
 <field name="date">August 21, 2011</field>
 <field name="librettist">Simon Christmas</field>
-<field name="librettistsort">Christmas, Simon</field>
+<field name="librettistSort">Christmas, Simon</field>
 <field name="theater">Glyndebourne Festival Opera</field>
 <field name="city">Glyndebourne</field>
 <field name="region">East Sussex</field>

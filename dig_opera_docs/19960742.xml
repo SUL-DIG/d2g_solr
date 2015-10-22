@@ -3,9 +3,9 @@
 <field name="id">19960742</field>
 <field name="genre">Operas</field>
 <field name="title">Eclipse (Khosuf)</field>
-<field name="titlesort">Eclipse (Khosuf)</field>
+<field name="titleSort">Eclipse (Khosuf)</field>
 <field name="composer">Saeed Sharifian</field>
-<field name="composersort">Sharifian, Saeed</field>
+<field name="composerSort">Sharifian, Saeed</field>
 <field name="year">2003</field>
 <field name="theater">Vahdat Opera House</field>
 <field name="city">Teheran</field>

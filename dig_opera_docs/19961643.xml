@@ -3,13 +3,13 @@
 <field name="id">19961643</field>
 <field name="genre">Operas</field>
 <field name="title">Manchaypuytu</field>
-<field name="titlesort">Manchaypuytu</field>
+<field name="titleSort">Manchaypuytu</field>
 <field name="composer">Alberto Villalpando</field>
-<field name="composersort">Villalpando, Alberto</field>
+<field name="composerSort">Villalpando, Alberto</field>
 <field name="year">1996</field>
 <field name="date">December 6, 1996</field>
 <field name="librettist">Néstor Taboada Terán</field>
-<field name="librettistsort">Taboada Terán, Néstor</field>
+<field name="librettistSort">Taboada Terán, Néstor</field>
 <field name="theater">Teatro Municipal</field>
 <field name="city">La Paz</field>
 <field name="country">Bolivia</field>

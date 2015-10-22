@@ -3,13 +3,13 @@
 <field name="id">19962352</field>
 <field name="genre">Operas</field>
 <field name="title">St. Louis Blues</field>
-<field name="titlesort">St. Louis Blues</field>
+<field name="titleSort">St. Louis Blues</field>
 <field name="composer">Chiel Meijering</field>
-<field name="composersort">Meijering, Chiel</field>
+<field name="composerSort">Meijering, Chiel</field>
 <field name="year">1995</field>
 <field name="date">March 10, 1995</field>
 <field name="librettist">Paul Binnerts</field>
-<field name="librettistsort">Binnerts, Paul</field>
+<field name="librettistSort">Binnerts, Paul</field>
 <field name="theater">Theaterwerkplaats</field>
 <field name="city">Arnhem</field>
 <field name="region">Gelderland</field>

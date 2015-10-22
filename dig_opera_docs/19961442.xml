@@ -3,12 +3,12 @@
 <field name="id">19961442</field>
 <field name="genre">Operas</field>
 <field name="title">La Reine-Mère</field>
-<field name="titlesort">Reine-Mère</field>
+<field name="titleSort">Reine-Mère</field>
 <field name="composer">Georges Van Parys</field>
-<field name="composersort">Van Parys, Georges</field>
+<field name="composerSort">Van Parys, Georges</field>
 <field name="year">1951</field>
 <field name="librettist">Pierre Devaux</field>
-<field name="librettistsort">Devaux, Pierre</field>
+<field name="librettistSort">Devaux, Pierre</field>
 <field name="theater">Théâtre du Quartier Latin</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

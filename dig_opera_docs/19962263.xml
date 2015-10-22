@@ -3,13 +3,13 @@
 <field name="id">19962263</field>
 <field name="genre">Operas</field>
 <field name="title">Shakuntala</field>
-<field name="titlesort">Shakuntala</field>
+<field name="titleSort">Shakuntala</field>
 <field name="composer">Frans Winther</field>
-<field name="composersort">Winther, Frans</field>
+<field name="composerSort">Winther, Frans</field>
 <field name="year">1993</field>
 <field name="date">September 12, 1993</field>
 <field name="librettist">Frans Winther</field>
-<field name="librettistsort">Winther, Frans</field>
+<field name="librettistSort">Winther, Frans</field>
 <field name="theater">Festuge</field>
 <field name="city">Holstebro</field>
 <field name="region">Midtjylland</field>

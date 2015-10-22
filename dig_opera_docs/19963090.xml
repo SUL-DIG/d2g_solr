@@ -3,13 +3,13 @@
 <field name="id">19963090</field>
 <field name="genre">Operas</field>
 <field name="title">Yusuf ile Züleyha</field>
-<field name="titlesort">Yusuf ile Züleyha</field>
+<field name="titleSort">Yusuf ile Züleyha</field>
 <field name="composer">Okan Demiriş </field>
-<field name="composersort">Demiriş, Okan</field>
+<field name="composerSort">Demiriş, Okan</field>
 <field name="year">2011</field>
 <field name="date">February 16, 2011</field>
 <field name="librettist">Nezihe Araz</field>
-<field name="librettistsort">Araz, Nezihe</field>
+<field name="librettistSort">Araz, Nezihe</field>
 <field name="theater">Devlet Opera ve Balesi</field>
 <field name="city">Ankara</field>
 <field name="country">Turkey</field>

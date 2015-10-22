@@ -3,12 +3,12 @@
 <field name="id">19962117</field>
 <field name="genre">Operas</field>
 <field name="title">Real Magic in New York</field>
-<field name="titlesort">Real Magic in New York</field>
+<field name="titleSort">Real Magic in New York</field>
 <field name="composer">Stephen Dickman</field>
-<field name="composersort">Dickman, Stephen</field>
+<field name="composerSort">Dickman, Stephen</field>
 <field name="year">1970</field>
 <field name="librettist">Richard Foreman</field>
-<field name="librettistsort">Foreman, Richard</field>
+<field name="librettistSort">Foreman, Richard</field>
 <field name="theater">Film-Makers Cinematheque</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

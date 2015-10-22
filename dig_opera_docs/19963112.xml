@@ -3,13 +3,13 @@
 <field name="id">19963112</field>
 <field name="genre">Operas</field>
 <field name="title">Zolotaya Orda (The Golden Horde)</field>
-<field name="titlesort">Zolotaya Orda (The Golden Horde)</field>
+<field name="titleSort">Zolotaya Orda (The Golden Horde)</field>
 <field name="composer">Rezeda Akhiyarova</field>
-<field name="composersort">Akhiyarova, Rezeda</field>
+<field name="composerSort">Akhiyarova, Rezeda</field>
 <field name="year">2013</field>
 <field name="date">September 22, 2013</field>
 <field name="librettist">Renat Kharis</field>
-<field name="librettistsort">Kharis, Renat</field>
+<field name="librettistSort">Kharis, Renat</field>
 <field name="theater">Tatarskiy Gosudarstvennïy Teatr</field>
 <field name="city">Kazan'</field>
 <field name="country">Tatarstan</field>

@@ -3,9 +3,9 @@
 <field name="id">19961880</field>
 <field name="genre">Operas</field>
 <field name="title">Of Water and Tears</field>
-<field name="titlesort">Of Water and Tears</field>
+<field name="titleSort">Of Water and Tears</field>
 <field name="composer">Julian Philips</field>
-<field name="composersort">Philips, Julian</field>
+<field name="composerSort">Philips, Julian</field>
 <field name="year">2007</field>
 <field name="theater">Jerwood Studio</field>
 <field name="city">Glyndebourne</field>

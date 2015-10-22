@@ -3,13 +3,13 @@
 <field name="id">19960270</field>
 <field name="genre">Operas</field>
 <field name="title">Balseros</field>
-<field name="titlesort">Balseros</field>
+<field name="titleSort">Balseros</field>
 <field name="composer">Robert Ashley</field>
-<field name="composersort">Ashley, Robert</field>
+<field name="composerSort">Ashley, Robert</field>
 <field name="year">1997</field>
 <field name="date">May 16, 1997</field>
 <field name="librettist">Maria Irene Fornes</field>
-<field name="librettistsort">Fornes, Maria Irene</field>
+<field name="librettistSort">Fornes, Maria Irene</field>
 <field name="theater">Colony Theater</field>
 <field name="city">Miami Beach</field>
 <field name="region">Florida</field>

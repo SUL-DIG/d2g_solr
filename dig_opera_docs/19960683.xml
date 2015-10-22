@@ -3,13 +3,13 @@
 <field name="id">19960683</field>
 <field name="genre">Operas</field>
 <field name="title">Dolffin</field>
-<field name="titlesort">Dolffin</field>
+<field name="titleSort">Dolffin</field>
 <field name="composer">Julian Philips</field>
-<field name="composersort">Philips, Julian</field>
+<field name="composerSort">Philips, Julian</field>
 <field name="year">2006</field>
 <field name="date">March 16, 2006</field>
 <field name="librettist">Gwyneth Lewis</field>
-<field name="librettistsort">Lewis, Gwyneth</field>
+<field name="librettistSort">Lewis, Gwyneth</field>
 <field name="theater">Aberystwyth Arts Centre</field>
 <field name="city">Aberystwyth</field>
 <field name="region">Wales</field>

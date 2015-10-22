@@ -3,13 +3,13 @@
 <field name="id">19960777</field>
 <field name="genre">Operas</field>
 <field name="title">El Quijote Cuerdo</field>
-<field name="titlesort">Quijote Cuerdo</field>
+<field name="titleSort">Quijote Cuerdo</field>
 <field name="composer">César Augusto Guillén</field>
-<field name="composersort">Guillén, César Augusto</field>
+<field name="composerSort">Guillén, César Augusto</field>
 <field name="year">2011</field>
 <field name="date">July 15, 2011</field>
 <field name="librettist">Eduardo Casanova</field>
-<field name="librettistsort">Casanova, Eduardo</field>
+<field name="librettistSort">Casanova, Eduardo</field>
 <field name="theater">Auditorio Emil Friedman</field>
 <field name="city">Caracas</field>
 <field name="country">Venezuela</field>

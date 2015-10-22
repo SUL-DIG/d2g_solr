@@ -3,13 +3,13 @@
 <field name="id">19963015</field>
 <field name="genre">Operas</field>
 <field name="title">Voices: The Passion of St Jeanne</field>
-<field name="titlesort">Voices: The Passion of St Jeanne</field>
+<field name="titleSort">Voices: The Passion of St Jeanne</field>
 <field name="composer">Mark Isaacs</field>
-<field name="composersort">Isaacs, Mark</field>
+<field name="composerSort">Isaacs, Mark</field>
 <field name="year">1997</field>
 <field name="date">April 29, 1997</field>
 <field name="librettist">John Shand</field>
-<field name="librettistsort">Shand, John</field>
+<field name="librettistSort">Shand, John</field>
 <field name="theater">Opera House</field>
 <field name="city">Sydney</field>
 <field name="region">New South Wales</field>

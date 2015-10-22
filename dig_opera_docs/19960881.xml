@@ -3,9 +3,9 @@
 <field name="id">19960881</field>
 <field name="genre">Operas</field>
 <field name="title">Figaro and The Zombie Apocalypse</field>
-<field name="titlesort">Figaro and The Zombie Apocalypse</field>
+<field name="titleSort">Figaro and The Zombie Apocalypse</field>
 <field name="composer">Patrick Soluri</field>
-<field name="composersort">Soluri, Patrick</field>
+<field name="composerSort">Soluri, Patrick</field>
 <field name="year">2013</field>
 <field name="date">October 12, 2013</field>
 <field name="theater">Opera</field>

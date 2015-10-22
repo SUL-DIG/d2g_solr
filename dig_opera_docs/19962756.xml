@@ -3,13 +3,13 @@
 <field name="id">19962756</field>
 <field name="genre">Operas</field>
 <field name="title">The Shoulder</field>
-<field name="titlesort">Shoulder</field>
+<field name="titleSort">Shoulder</field>
 <field name="composer">Dan Moses Schreier</field>
-<field name="composersort">Schreier, Dan Moses</field>
+<field name="composerSort">Schreier, Dan Moses</field>
 <field name="year">1998</field>
 <field name="date">January 1, 1998</field>
 <field name="librettist">Dan Hurlin</field>
-<field name="librettistsort">Hurlin, Dan</field>
+<field name="librettistSort">Hurlin, Dan</field>
 <field name="theater">Dance Theater Workshop</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

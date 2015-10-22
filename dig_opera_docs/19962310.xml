@@ -3,13 +3,13 @@
 <field name="id">19962310</field>
 <field name="genre">Operas</field>
 <field name="title">Sky Disc</field>
-<field name="titlesort">Sky Disc</field>
+<field name="titleSort">Sky Disc</field>
 <field name="composer">Ramon Humet</field>
-<field name="composersort">Humet, Ramon</field>
+<field name="composerSort">Humet, Ramon</field>
 <field name="year">2013</field>
 <field name="date">October 2, 2013</field>
 <field name="librettist">Rebecca Simpson</field>
-<field name="librettistsort">Simpson, Rebecca</field>
+<field name="librettistSort">Simpson, Rebecca</field>
 <field name="theater">Landestheater</field>
 <field name="city">Halle</field>
 <field name="region">Sachsen-Anhalt</field>

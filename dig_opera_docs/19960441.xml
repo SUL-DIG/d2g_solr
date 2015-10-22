@@ -3,13 +3,13 @@
 <field name="id">19960441</field>
 <field name="genre">Operas</field>
 <field name="title">Cinderella's Bad Magic</field>
-<field name="titlesort">Cinderella's Bad Magic</field>
+<field name="titleSort">Cinderella's Bad Magic</field>
 <field name="composer">Kyle Gann</field>
-<field name="composersort">Gann, Kyle</field>
+<field name="composerSort">Gann, Kyle</field>
 <field name="year">2002</field>
 <field name="date">October 26, 2002</field>
 <field name="librettist">Jeffrey Sichel</field>
-<field name="librettistsort">Sichel, Jeffrey</field>
+<field name="librettistSort">Sichel, Jeffrey</field>
 <field name="theater">Alernativa Festival</field>
 <field name="city">Moscow</field>
 <field name="country">Russia</field>

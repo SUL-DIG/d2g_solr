@@ -3,13 +3,13 @@
 <field name="id">19961289</field>
 <field name="genre">Operas</field>
 <field name="title">Karolinas sömn</field>
-<field name="titlesort">Karolinas sömn</field>
+<field name="titleSort">Karolinas sömn</field>
 <field name="composer">Anders Eliasson</field>
-<field name="composersort">Eliasson, Anders</field>
+<field name="composerSort">Eliasson, Anders</field>
 <field name="year">2012</field>
 <field name="date">June 4, 2012</field>
 <field name="librettist">Bengt Emil Johnson</field>
-<field name="librettistsort">Johnson, Bengt Emil</field>
+<field name="librettistSort">Johnson, Bengt Emil</field>
 <field name="theater">Artipelag</field>
 <field name="city">Värmdö</field>
 <field name="region">Stockholm</field>

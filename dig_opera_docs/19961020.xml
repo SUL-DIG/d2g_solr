@@ -3,13 +3,13 @@
 <field name="id">19961020</field>
 <field name="genre">Operas</field>
 <field name="title">Grybų karas ir taika</field>
-<field name="titlesort">Grybų karas ir taika</field>
+<field name="titleSort">Grybų karas ir taika</field>
 <field name="composer">Zita Bružaitė </field>
-<field name="composersort">Bružaitė, Zita</field>
+<field name="composerSort">Bružaitė, Zita</field>
 <field name="year">2011</field>
 <field name="date">February 27, 2011</field>
 <field name="librettist">Justinas Marcinkevičius</field>
-<field name="librettistsort">Marcinkevičius, Justinas</field>
+<field name="librettistSort">Marcinkevičius, Justinas</field>
 <field name="theater">Muzïkal'nïy Teatr</field>
 <field name="city">Kaunas</field>
 <field name="country">Lithuania</field>

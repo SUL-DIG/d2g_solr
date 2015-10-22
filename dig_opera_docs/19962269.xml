@@ -3,13 +3,13 @@
 <field name="id">19962269</field>
 <field name="genre">Operas</field>
 <field name="title">Shell Shock</field>
-<field name="titlesort">Shell Shock</field>
+<field name="titleSort">Shell Shock</field>
 <field name="composer">Nicholas Lens</field>
-<field name="composersort">Lens, Nicholas</field>
+<field name="composerSort">Lens, Nicholas</field>
 <field name="year">2014</field>
 <field name="date">October 24, 2014</field>
 <field name="librettist">Nick Cave</field>
-<field name="librettistsort">Cave, Nick</field>
+<field name="librettistSort">Cave, Nick</field>
 <field name="theater">Théâtre-Royal de la Monnaie</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>

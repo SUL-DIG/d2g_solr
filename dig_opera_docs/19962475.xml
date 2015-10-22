@@ -3,13 +3,13 @@
 <field name="id">19962475</field>
 <field name="genre">Operas</field>
 <field name="title">The Brothers Grimm</field>
-<field name="titlesort">Brothers Grimm</field>
+<field name="titleSort">Brothers Grimm</field>
 <field name="composer">Dean Burry</field>
-<field name="composersort">Burry, Dean</field>
+<field name="composerSort">Burry, Dean</field>
 <field name="year">2001</field>
 <field name="date">April 30, 2001</field>
 <field name="librettist">Dean Burry</field>
-<field name="librettistsort">Burry, Dean</field>
+<field name="librettistSort">Burry, Dean</field>
 <field name="theater">Joey and Toby Tanenbaum Opera Centre</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

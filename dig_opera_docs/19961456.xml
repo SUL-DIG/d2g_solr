@@ -3,13 +3,13 @@
 <field name="id">19961456</field>
 <field name="genre">Operas</field>
 <field name="title">Lancelot</field>
-<field name="titlesort">Lancelot</field>
+<field name="titleSort">Lancelot</field>
 <field name="composer">Luboš Fišer</field>
-<field name="composersort">Fišer, Luboš</field>
+<field name="composerSort">Fišer, Luboš</field>
 <field name="year">1961</field>
 <field name="date">May 19, 1961</field>
 <field name="librettist">Eva Bezděková</field>
-<field name="librettistsort">Bezděková, Eva</field>
+<field name="librettistSort">Bezděková, Eva</field>
 <field name="city">Prague</field>
 <field name="country">Czech Republic</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lancelot+Luboš+Fišer&amp;search_field=search</field>

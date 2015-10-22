@@ -3,13 +3,13 @@
 <field name="id">19960374</field>
 <field name="genre">Operas</field>
 <field name="title">Bündner Wirren</field>
-<field name="titlesort">Bündner Wirren</field>
+<field name="titleSort">Bündner Wirren</field>
 <field name="composer">Martin Derungs</field>
-<field name="composersort">Derungs, Martin</field>
+<field name="composerSort">Derungs, Martin</field>
 <field name="year">1989</field>
 <field name="date">June 30, 1989</field>
 <field name="librettist">Markus Schmid-Lengersdor</field>
-<field name="librettistsort">Schmid-Lengersdor, Markus</field>
+<field name="librettistSort">Schmid-Lengersdor, Markus</field>
 <field name="city">Davos</field>
 <field name="region">Graubunden</field>
 <field name="country">Switzerland</field>

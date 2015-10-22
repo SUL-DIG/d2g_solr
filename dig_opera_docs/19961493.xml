@@ -3,13 +3,13 @@
 <field name="id">19961493</field>
 <field name="genre">Operas</field>
 <field name="title">Le roi du bois</field>
-<field name="titlesort">roi du bois</field>
+<field name="titleSort">roi du bois</field>
 <field name="composer">Michèle Reverdy</field>
-<field name="composersort">Reverdy, Michèle</field>
+<field name="composerSort">Reverdy, Michèle</field>
 <field name="year">2012</field>
 <field name="date">October 2, 2012</field>
 <field name="librettist">Pierre Michon</field>
-<field name="librettistsort">Michon, Pierre</field>
+<field name="librettistSort">Michon, Pierre</field>
 <field name="theater">Théâtre 71</field>
 <field name="city">Malakoff</field>
 <field name="region">Hauts-de-Seine</field>

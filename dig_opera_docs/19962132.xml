@@ -3,13 +3,13 @@
 <field name="id">19962132</field>
 <field name="genre">Operas</field>
 <field name="title">Rembrandt van Rijn</field>
-<field name="titlesort">Rembrandt van Rijn</field>
+<field name="titleSort">Rembrandt van Rijn</field>
 <field name="composer">Paul von Klenau</field>
-<field name="composersort">Klenau, Paul von</field>
+<field name="composerSort">Klenau, Paul von</field>
 <field name="year">1937</field>
 <field name="date">January 23, 1937</field>
 <field name="librettist">Paul von Klenau</field>
-<field name="librettistsort">Klenau, Paul von</field>
+<field name="librettistSort">Klenau, Paul von</field>
 <field name="theater">Staatsoper</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>

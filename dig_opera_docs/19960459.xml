@@ -3,13 +3,13 @@
 <field name="id">19960459</field>
 <field name="genre">Operas</field>
 <field name="title">Colourful Penis</field>
-<field name="titlesort">Colourful Penis</field>
+<field name="titleSort">Colourful Penis</field>
 <field name="composer">Maria de Alvear</field>
-<field name="composersort">Alvear, Maria de</field>
+<field name="composerSort">Alvear, Maria de</field>
 <field name="year">2008</field>
 <field name="date">September 30, 2008</field>
 <field name="librettist">Maria de Alvear</field>
-<field name="librettistsort">Alvear, Maria de</field>
+<field name="librettistSort">Alvear, Maria de</field>
 <field name="theater">Festspielhaus Hellerau</field>
 <field name="city">Dresden</field>
 <field name="region">Sachsen</field>

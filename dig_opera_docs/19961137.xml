@@ -3,13 +3,13 @@
 <field name="id">19961137</field>
 <field name="genre">Operas</field>
 <field name="title">I Was Kidnapped by Martians</field>
-<field name="titlesort">I Was Kidnapped by Martians</field>
+<field name="titleSort">I Was Kidnapped by Martians</field>
 <field name="composer">Kitty Brazelton</field>
-<field name="composersort">Brazelton, Kitty</field>
+<field name="composerSort">Brazelton, Kitty</field>
 <field name="year">1992</field>
 <field name="date">November 1, 1992</field>
 <field name="librettist">Lorraine Llamas</field>
-<field name="librettistsort">Llamas, Lorraine</field>
+<field name="librettistSort">Llamas, Lorraine</field>
 <field name="theater">Dixon Place</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

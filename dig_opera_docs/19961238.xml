@@ -3,13 +3,13 @@
 <field name="id">19961238</field>
 <field name="genre">Operas</field>
 <field name="title">John Brown</field>
-<field name="titlesort">John Brown</field>
+<field name="titleSort">John Brown</field>
 <field name="composer">Kirke Mechem</field>
-<field name="composersort">Mechem, Kirke</field>
+<field name="composerSort">Mechem, Kirke</field>
 <field name="year">2008</field>
 <field name="date">May 3, 2008</field>
 <field name="librettist">Kirke Mechem</field>
-<field name="librettistsort">Mechem, Kirke</field>
+<field name="librettistSort">Mechem, Kirke</field>
 <field name="theater">Lyric Opera</field>
 <field name="city">Kansas City</field>
 <field name="region">Missouri</field>

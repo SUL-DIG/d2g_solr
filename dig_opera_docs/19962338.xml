@@ -3,13 +3,13 @@
 <field name="id">19962338</field>
 <field name="genre">Operas</field>
 <field name="title">Sorry, Wrong Number</field>
-<field name="titlesort">Sorry, Wrong Number</field>
+<field name="titleSort">Sorry, Wrong Number</field>
 <field name="composer">Jack Beeson</field>
-<field name="composersort">Beeson, Jack</field>
+<field name="composerSort">Beeson, Jack</field>
 <field name="year">1999</field>
 <field name="date">May 25, 1999</field>
 <field name="librettist">Jack Beeson</field>
-<field name="librettistsort">Beeson, Jack</field>
+<field name="librettistSort">Beeson, Jack</field>
 <field name="theater">Hunter College</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

@@ -3,13 +3,13 @@
 <field name="id">19960414</field>
 <field name="genre">Operas</field>
 <field name="title">Chalifa und die Affen (Caliph and the Monkeys)</field>
-<field name="titlesort">Chalifa und die Affen (Caliph and the Monkeys)</field>
+<field name="titleSort">Chalifa und die Affen (Caliph and the Monkeys)</field>
 <field name="composer">Kurt Schwertsik</field>
-<field name="composersort">Schwertsik, Kurt</field>
+<field name="composerSort">Schwertsik, Kurt</field>
 <field name="year">2011</field>
 <field name="date">August 26, 2011</field>
 <field name="librettist">Kristine Tornquist</field>
-<field name="librettistsort">Tornquist, Kristine</field>
+<field name="librettistSort">Tornquist, Kristine</field>
 <field name="theater">Expedithalle der Brotfabrik</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

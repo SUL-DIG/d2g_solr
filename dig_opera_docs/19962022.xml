@@ -3,13 +3,13 @@
 <field name="id">19962022</field>
 <field name="genre">Operas</field>
 <field name="title">PlayZero</field>
-<field name="titlesort">PlayZero</field>
+<field name="titleSort">PlayZero</field>
 <field name="composer">Wolfgang Mitterer</field>
-<field name="composersort">Mitterer, Wolfgang</field>
+<field name="composerSort">Mitterer, Wolfgang</field>
 <field name="year">2010</field>
 <field name="date">June 11, 2010</field>
 <field name="librettist">Eberhard Petschinka</field>
-<field name="librettistsort">Petschinka, Eberhard</field>
+<field name="librettistSort">Petschinka, Eberhard</field>
 <field name="theater">Festspielhaus</field>
 <field name="city">Sankt Pölten</field>
 <field name="region">Niederösterreich</field>

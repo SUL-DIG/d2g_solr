@@ -3,12 +3,12 @@
 <field name="id">19961920</field>
 <field name="genre">Operas</field>
 <field name="title">Orphée</field>
-<field name="titlesort">Orphée</field>
+<field name="titleSort">Orphée</field>
 <field name="composer">Renaud Gagneux</field>
-<field name="composersort">Gagneux, Renaud</field>
+<field name="composerSort">Gagneux, Renaud</field>
 <field name="year">1989</field>
 <field name="librettist">Renaud Gagneux</field>
-<field name="librettistsort">Gagneux, Renaud</field>
+<field name="librettistSort">Gagneux, Renaud</field>
 <field name="theater">Théâtre Municipal</field>
 <field name="city">Strasbourg</field>
 <field name="region">Bas-Rhin</field>

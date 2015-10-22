@@ -3,13 +3,13 @@
 <field name="id">19960021</field>
 <field name="genre">Operas</field>
 <field name="title">A chorona</field>
-<field name="titlesort">chorona</field>
+<field name="titleSort">chorona</field>
 <field name="composer">Manuel Durão</field>
-<field name="composersort">Durão, Manuel</field>
+<field name="composerSort">Durão, Manuel</field>
 <field name="year">2007</field>
 <field name="date">March 25, 2007</field>
 <field name="librettist">Jorge Vaz Nande</field>
-<field name="librettistsort">Nande, Jorge Vaz</field>
+<field name="librettistSort">Nande, Jorge Vaz</field>
 <field name="theater">São Luiz Teatro Municipal</field>
 <field name="city">Lisbon</field>
 <field name="region">Lisboa</field>

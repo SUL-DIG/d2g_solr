@@ -3,13 +3,13 @@
 <field name="id">19961538</field>
 <field name="genre">Operas</field>
 <field name="title">Les surprises de l'Enfer</field>
-<field name="titlesort">surprises de l'Enfer</field>
+<field name="titleSort">surprises de l'Enfer</field>
 <field name="composer">Isabelle Aboulker</field>
-<field name="composersort">Aboulker, Isabelle</field>
+<field name="composerSort">Aboulker, Isabelle</field>
 <field name="year">1981</field>
 <field name="date">January 14, 1981</field>
 <field name="librettist">Jean-Pierre Vaguer</field>
-<field name="librettistsort">Vaguer, Jean-Pierre</field>
+<field name="librettistSort">Vaguer, Jean-Pierre</field>
 <field name="theater">Théâtre Municipal</field>
 <field name="city">Caen</field>
 <field name="region">Calvados</field>

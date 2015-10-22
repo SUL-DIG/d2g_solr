@@ -3,13 +3,13 @@
 <field name="id">19961690</field>
 <field name="genre">Operas</field>
 <field name="title">Matricide</field>
-<field name="titlesort">Matricide</field>
+<field name="titleSort">Matricide</field>
 <field name="composer">Elena Kats-Chernin</field>
-<field name="composersort">Kats-Chernin, Elena</field>
+<field name="composerSort">Kats-Chernin, Elena</field>
 <field name="year">1998</field>
 <field name="date">November 27, 1998</field>
 <field name="librettist">Kathleen Mary Fallon</field>
-<field name="librettistsort">Fallon, Kathleen Mary</field>
+<field name="librettistSort">Fallon, Kathleen Mary</field>
 <field name="theater">The Unallocated Space</field>
 <field name="city">Melbourne</field>
 <field name="region">Victoria</field>

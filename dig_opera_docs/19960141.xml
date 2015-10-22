@@ -3,13 +3,13 @@
 <field name="id">19960141</field>
 <field name="genre">Operas</field>
 <field name="title">Americana, or, A New Tale of the Genii</field>
-<field name="titlesort">Americana, or, A New Tale of the Genii</field>
+<field name="titleSort">Americana, or, A New Tale of the Genii</field>
 <field name="composer">Neely Bruce</field>
-<field name="composersort">Bruce, Neely</field>
+<field name="composerSort">Bruce, Neely</field>
 <field name="year">1984</field>
 <field name="date">May 11, 1984</field>
 <field name="librettist">Tony Connor</field>
-<field name="librettistsort">Connor, Tony</field>
+<field name="librettistSort">Connor, Tony</field>
 <field name="theater">Orchestra New England</field>
 <field name="city">New Haven</field>
 <field name="region">Connecticut</field>

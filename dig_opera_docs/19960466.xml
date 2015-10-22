@@ -3,13 +3,13 @@
 <field name="id">19960466</field>
 <field name="genre">Operas</field>
 <field name="title">Courtside</field>
-<field name="titlesort">Courtside</field>
+<field name="titleSort">Courtside</field>
 <field name="composer">Jack Perla</field>
-<field name="composersort">Perla, Jack</field>
+<field name="composerSort">Perla, Jack</field>
 <field name="year">2011</field>
 <field name="date">February 5, 2011</field>
 <field name="librettist">Eugenie Chan</field>
-<field name="librettistsort">Chan, Eugenie</field>
+<field name="librettistSort">Chan, Eugenie</field>
 <field name="theater">Chinese Community Center</field>
 <field name="city">Houston</field>
 <field name="region">Texas</field>

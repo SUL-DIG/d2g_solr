@@ -3,13 +3,13 @@
 <field name="id">19960682</field>
 <field name="genre">Operas</field>
 <field name="title">Dokumentation I</field>
-<field name="titlesort">Dokumentation I</field>
+<field name="titleSort">Dokumentation I</field>
 <field name="composer">Helmut Oehring</field>
-<field name="composersort">Oehring, Helmut</field>
+<field name="composerSort">Oehring, Helmut</field>
 <field name="year">1996</field>
 <field name="date">September 4, 1996</field>
 <field name="librettist">Helmut Oehring</field>
-<field name="librettistsort">Oehring, Helmut</field>
+<field name="librettistSort">Oehring, Helmut</field>
 <field name="theater">Teatro Lirico Sperimentale "A. Belli"</field>
 <field name="city">Spoleto</field>
 <field name="region">Umbria</field>

@@ -3,13 +3,13 @@
 <field name="id">19962320</field>
 <field name="genre">Operas</field>
 <field name="title">Socrates</field>
-<field name="titlesort">Socrates</field>
+<field name="titleSort">Socrates</field>
 <field name="composer">Hollis Thoms</field>
-<field name="composersort">Thoms, Hollis</field>
+<field name="composerSort">Thoms, Hollis</field>
 <field name="year">2007</field>
 <field name="date">February 18, 2007</field>
 <field name="librettist">Eva T. H. Brann</field>
-<field name="librettistsort">Brann, Eva T. H.</field>
+<field name="librettistSort">Brann, Eva T. H.</field>
 <field name="theater">St. John's College </field>
 <field name="city">Annapolis</field>
 <field name="region">Maryland</field>

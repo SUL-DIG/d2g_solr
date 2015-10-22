@@ -3,13 +3,13 @@
 <field name="id">19962433</field>
 <field name="genre">Operas</field>
 <field name="title">Terre et cendres</field>
-<field name="titlesort">Terre et cendres</field>
+<field name="titleSort">Terre et cendres</field>
 <field name="composer">Jérôme Combier</field>
-<field name="composersort">Combier, Jérôme</field>
+<field name="composerSort">Combier, Jérôme</field>
 <field name="year">2012</field>
 <field name="date">March 10, 2012</field>
 <field name="librettist">Atig Rahimi</field>
-<field name="librettistsort">Rahimi, Atig</field>
+<field name="librettistSort">Rahimi, Atig</field>
 <field name="theater">Opéra</field>
 <field name="city">Lyon</field>
 <field name="region">Rhône du Lyonnais</field>

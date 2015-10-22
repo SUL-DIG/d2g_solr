@@ -3,13 +3,13 @@
 <field name="id">19962113</field>
 <field name="genre">Operas</field>
 <field name="title">Ravenshead</field>
-<field name="titlesort">Ravenshead</field>
+<field name="titleSort">Ravenshead</field>
 <field name="composer">Steven Mackey</field>
-<field name="composersort">Mackey, Steven</field>
+<field name="composerSort">Mackey, Steven</field>
 <field name="year">1998</field>
 <field name="date">November 6, 1998</field>
 <field name="librettist">Rinde Eckert</field>
-<field name="librettistsort">Eckert, Rinde</field>
+<field name="librettistSort">Eckert, Rinde</field>
 <field name="theater">Pennsylvania State University</field>
 <field name="city">State College</field>
 <field name="region">Pennsylvania</field>

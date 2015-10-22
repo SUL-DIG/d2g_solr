@@ -3,12 +3,12 @@
 <field name="id">19960227</field>
 <field name="genre">Operas</field>
 <field name="title">Atossa</field>
-<field name="titlesort">Atossa</field>
+<field name="titleSort">Atossa</field>
 <field name="composer">Thomas Christian David</field>
-<field name="composersort">David, Thomas Christian</field>
+<field name="composerSort">David, Thomas Christian</field>
 <field name="year">1967</field>
 <field name="librettist">Manouchehr Sheybani</field>
-<field name="librettistsort">Sheybani, Manouchehr</field>
+<field name="librettistSort">Sheybani, Manouchehr</field>
 <field name="theater">Rudaki Hal</field>
 <field name="city">Teheran</field>
 <field name="country">Iran</field>

@@ -3,12 +3,12 @@
 <field name="id">19961836</field>
 <field name="genre">Operas</field>
 <field name="title">Nobleza campera (Country Nobility)</field>
-<field name="titlesort">Nobleza campera (Country Nobility)</field>
+<field name="titleSort">Nobleza campera (Country Nobility)</field>
 <field name="composer">Mario Belardi</field>
-<field name="composersort">Belardi, Mario</field>
+<field name="composerSort">Belardi, Mario</field>
 <field name="year">1980</field>
 <field name="librettist">Italo Raffi</field>
-<field name="librettistsort">Raffi, Italo</field>
+<field name="librettistSort">Raffi, Italo</field>
 <field name="theater">Teatro Solis</field>
 <field name="city">Montevideo</field>
 <field name="country">Uruguay</field>

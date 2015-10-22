@@ -3,13 +3,13 @@
 <field name="id">19960673</field>
 <field name="genre">Operas</field>
 <field name="title">Dobře placená procházka (A Walk Worthwhile)</field>
-<field name="titlesort">Dobře placená procházka (A Walk Worthwhile)</field>
+<field name="titleSort">Dobře placená procházka (A Walk Worthwhile)</field>
 <field name="composer">Jiří Šlitr</field>
-<field name="composersort">Šlitr, Jiří</field>
+<field name="composerSort">Šlitr, Jiří</field>
 <field name="year">2007</field>
 <field name="date">April 22, 2007</field>
 <field name="librettist">Jiří Suchý</field>
-<field name="librettistsort">Suchý, Jiří</field>
+<field name="librettistSort">Suchý, Jiří</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Prague</field>
 <field name="country">Czech Republic</field>

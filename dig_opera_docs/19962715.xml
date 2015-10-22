@@ -3,13 +3,13 @@
 <field name="id">19962715</field>
 <field name="genre">Operas</field>
 <field name="title">The Raven</field>
-<field name="titlesort">Raven</field>
+<field name="titleSort">Raven</field>
 <field name="composer">Toshio Hosokawa</field>
-<field name="composersort">Hosokawa, Toshio</field>
+<field name="composerSort">Hosokawa, Toshio</field>
 <field name="year">2012</field>
 <field name="date">March 17, 2012</field>
 <field name="librettist">Edgar Allan Poe</field>
-<field name="librettistsort">Poe, Edgar Allan</field>
+<field name="librettistSort">Poe, Edgar Allan</field>
 <field name="theater">La Raffinerie</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>

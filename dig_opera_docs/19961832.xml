@@ -3,13 +3,13 @@
 <field name="id">19961832</field>
 <field name="genre">Operas</field>
 <field name="title">No Easy Walk to Freedom</field>
-<field name="titlesort">No Easy Walk to Freedom</field>
+<field name="titleSort">No Easy Walk to Freedom</field>
 <field name="composer">Chandler Carter</field>
-<field name="composersort">Carter, Chandler</field>
+<field name="composerSort">Carter, Chandler</field>
 <field name="year">2001</field>
 <field name="date">October 12, 2001</field>
 <field name="librettist">Chandler Carter</field>
-<field name="librettistsort">Carter, Chandler</field>
+<field name="librettistSort">Carter, Chandler</field>
 <field name="theater">Riverside Church</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

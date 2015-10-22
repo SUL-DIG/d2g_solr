@@ -3,13 +3,13 @@
 <field name="id">19961959</field>
 <field name="genre">Operas</field>
 <field name="title">Part of the Act</field>
-<field name="titlesort">Part of the Act</field>
+<field name="titleSort">Part of the Act</field>
 <field name="composer">Liam Wade</field>
-<field name="composersort">Wade, Liam</field>
+<field name="composerSort">Wade, Liam</field>
 <field name="year">2012</field>
 <field name="date">November 19, 2012</field>
 <field name="librettist">John Grimmett</field>
-<field name="librettistsort">Grimmett, John</field>
+<field name="librettistSort">Grimmett, John</field>
 <field name="theater">Kennedy Center</field>
 <field name="city">Washington</field>
 <field name="region">District of Columbia</field>

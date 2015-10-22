@@ -3,13 +3,13 @@
 <field name="id">19961064</field>
 <field name="genre">Operas</field>
 <field name="title">Hel</field>
-<field name="titlesort">Hel</field>
+<field name="titleSort">Hel</field>
 <field name="composer">Sigurdur Saevarsson</field>
-<field name="composersort">Saevarsson, Sigurdur</field>
+<field name="composerSort">Saevarsson, Sigurdur</field>
 <field name="year">2009</field>
 <field name="date">May 23, 2009</field>
 <field name="librettist">Sigurdur Nordal</field>
-<field name="librettistsort">Nordal, Sigurdur</field>
+<field name="librettistSort">Nordal, Sigurdur</field>
 <field name="theater">Listahátíd í Reykjavík</field>
 <field name="city">Reykjavik</field>
 <field name="country">Iceland</field>

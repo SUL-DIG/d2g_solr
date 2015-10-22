@@ -3,12 +3,12 @@
 <field name="id">19962100</field>
 <field name="genre">Operas</field>
 <field name="title">Rainbow Planet</field>
-<field name="titlesort">Rainbow Planet</field>
+<field name="titleSort">Rainbow Planet</field>
 <field name="composer">Christopher Gunning</field>
-<field name="composersort">Gunning, Christopher</field>
+<field name="composerSort">Gunning, Christopher</field>
 <field name="year">1983</field>
 <field name="librettist">Timothy Rose Price</field>
-<field name="librettistsort">Price, Timothy Rose</field>
+<field name="librettistSort">Price, Timothy Rose</field>
 <field name="theater">W11 Opera</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

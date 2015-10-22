@@ -3,13 +3,13 @@
 <field name="id">19961741</field>
 <field name="genre">Operas</field>
 <field name="title">Miss Fortune</field>
-<field name="titlesort">Miss Fortune</field>
+<field name="titleSort">Miss Fortune</field>
 <field name="composer">Judith Weir</field>
-<field name="composersort">Weir, Judith</field>
+<field name="composerSort">Weir, Judith</field>
 <field name="year">2011</field>
 <field name="date">July 21, 2011</field>
 <field name="librettist">Judith Weir</field>
-<field name="librettistsort">Weir, Judith</field>
+<field name="librettistSort">Weir, Judith</field>
 <field name="theater">Festspielhaus</field>
 <field name="city">Bregenz</field>
 <field name="region">Vorarlberg</field>

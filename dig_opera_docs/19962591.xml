@@ -3,13 +3,13 @@
 <field name="id">19962591</field>
 <field name="genre">Operas</field>
 <field name="title">The Image Maker</field>
-<field name="titlesort">Image Maker</field>
+<field name="titleSort">Image Maker</field>
 <field name="composer">Bruce Saylor</field>
-<field name="composersort">Saylor, Bruce</field>
+<field name="composerSort">Saylor, Bruce</field>
 <field name="year">2012</field>
 <field name="date">May 4, 2012</field>
 <field name="librettist">James Merrill</field>
-<field name="librettistsort">Merrill, James</field>
+<field name="librettistSort">Merrill, James</field>
 <field name="theater">Queens College</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

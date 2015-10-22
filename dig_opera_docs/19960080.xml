@@ -3,13 +3,13 @@
 <field name="id">19960080</field>
 <field name="genre">Operas</field>
 <field name="title">Affaire étrangère</field>
-<field name="titlesort">Affaire étrangère</field>
+<field name="titleSort">Affaire étrangère</field>
 <field name="composer">Valentin Villenave</field>
-<field name="composersort">Villenave, Valentin</field>
+<field name="composerSort">Villenave, Valentin</field>
 <field name="year">2009</field>
 <field name="date">February 1, 2009</field>
 <field name="librettist">Lewis Trondheim</field>
-<field name="librettistsort">Trondheim, Lewis</field>
+<field name="librettistSort">Trondheim, Lewis</field>
 <field name="theater">Opéra Berlioz</field>
 <field name="city">Montpellier</field>
 <field name="region">Hérault</field>

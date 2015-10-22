@@ -3,13 +3,13 @@
 <field name="id">19961032</field>
 <field name="genre">Operas</field>
 <field name="title">Hallgrímspassía</field>
-<field name="titlesort">Hallgrímspassía</field>
+<field name="titleSort">Hallgrímspassía</field>
 <field name="composer">Sigurdur Saevarsson</field>
-<field name="composersort">Saevarsson, Sigurdur</field>
+<field name="composerSort">Saevarsson, Sigurdur</field>
 <field name="year">2007</field>
 <field name="date">February 21, 2007</field>
 <field name="librettist">Hallgrímur Pétursson</field>
-<field name="librettistsort">Pétursson, Hallgrímur</field>
+<field name="librettistSort">Pétursson, Hallgrímur</field>
 <field name="theater">Hallgrímskirkja</field>
 <field name="city">Reykjavik</field>
 <field name="country">Iceland</field>

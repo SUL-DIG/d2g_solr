@@ -3,13 +3,13 @@
 <field name="id">19960055</field>
 <field name="genre">Operas</field>
 <field name="title">A Ring a lamp a thing</field>
-<field name="titlesort">Ring a lamp a thing</field>
+<field name="titleSort">Ring a lamp a thing</field>
 <field name="composer">Orlando Gough</field>
-<field name="composersort">Gough, Orlando</field>
+<field name="composerSort">Gough, Orlando</field>
 <field name="year">2010</field>
 <field name="date">June 18, 2010</field>
 <field name="librettist">Caryl Churchill</field>
-<field name="librettistsort">Churchill, Caryl</field>
+<field name="librettistSort">Churchill, Caryl</field>
 <field name="theater">Linbury Studio, Royal Opera House</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

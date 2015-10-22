@@ -3,13 +3,13 @@
 <field name="id">19961218</field>
 <field name="genre">Operas</field>
 <field name="title">Jack Pine</field>
-<field name="titlesort">Jack Pine</field>
+<field name="titleSort">Jack Pine</field>
 <field name="composer">Veda Hille</field>
-<field name="composersort">Hille, Veda</field>
+<field name="composerSort">Hille, Veda</field>
 <field name="year">2009</field>
 <field name="date">February 15, 2009</field>
 <field name="librettist">Veda Hille</field>
-<field name="librettistsort">Hille, Veda</field>
+<field name="librettistSort">Hille, Veda</field>
 <field name="theater">Centennial Theatre</field>
 <field name="city">North Vancouver</field>
 <field name="region">British Columbia</field>

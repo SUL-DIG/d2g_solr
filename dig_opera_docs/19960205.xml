@@ -3,13 +3,13 @@
 <field name="id">19960205</field>
 <field name="genre">Operas</field>
 <field name="title">Arresten på Bohus</field>
-<field name="titlesort">Arresten på Bohus</field>
+<field name="titleSort">Arresten på Bohus</field>
 <field name="composer">Lars-Erik Larsson</field>
-<field name="composersort">Larsson, Lars-Erik</field>
+<field name="composerSort">Larsson, Lars-Erik</field>
 <field name="year">1980</field>
 <field name="date">June 8, 1980</field>
 <field name="librettist">Alf Henrikson</field>
-<field name="librettistsort">Henrikson, Alf</field>
+<field name="librettistSort">Henrikson, Alf</field>
 <field name="theater">Kungliga Teatern</field>
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>

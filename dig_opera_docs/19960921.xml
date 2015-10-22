@@ -3,13 +3,13 @@
 <field name="id">19960921</field>
 <field name="genre">Operas</field>
 <field name="title">French Friends</field>
-<field name="titlesort">French Friends</field>
+<field name="titleSort">French Friends</field>
 <field name="composer">Persis Anne Parshall Vehar</field>
-<field name="composersort">Vehar, Persis Anne Parshall</field>
+<field name="composerSort">Vehar, Persis Anne Parshall</field>
 <field name="year">1997</field>
 <field name="date">September 28, 1997</field>
 <field name="librettist">Persis Anne Parshall Vehar</field>
-<field name="librettistsort">Vehar, Persis Anne Parshall</field>
+<field name="librettistSort">Vehar, Persis Anne Parshall</field>
 <field name="theater">Alliance Française de Buffalo</field>
 <field name="city">Buffalo</field>
 <field name="region">New York</field>

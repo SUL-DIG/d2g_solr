@@ -3,13 +3,13 @@
 <field name="id">19963065</field>
 <field name="genre">Operas</field>
 <field name="title">Wizard Things</field>
-<field name="titlesort">Wizard Things</field>
+<field name="titleSort">Wizard Things</field>
 <field name="composer">Mervyn Burtch</field>
-<field name="composersort">Burtch, Mervyn</field>
+<field name="composerSort">Burtch, Mervyn</field>
 <field name="year">1998</field>
 <field name="date">March 31, 1998</field>
 <field name="librettist">Mark Morris</field>
-<field name="librettistsort">Morris, Mark</field>
+<field name="librettistSort">Morris, Mark</field>
 <field name="theater">Herbert Thompson School</field>
 <field name="city">Cardiff</field>
 <field name="region">Wales</field>

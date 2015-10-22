@@ -3,13 +3,13 @@
 <field name="id">19960286</field>
 <field name="genre">Operas</field>
 <field name="title">Be Glad Then America</field>
-<field name="titlesort">Be Glad Then America</field>
+<field name="titleSort">Be Glad Then America</field>
 <field name="composer">John La Montaine</field>
-<field name="composersort">La Montaine, John</field>
+<field name="composerSort">La Montaine, John</field>
 <field name="year">1976</field>
 <field name="date">February 6, 1976</field>
 <field name="librettist">John La Montaine</field>
-<field name="librettistsort">La Montaine, John</field>
+<field name="librettistSort">La Montaine, John</field>
 <field name="theater">Pennsylvania State University</field>
 <field name="city">State College</field>
 <field name="region">Pennsylvania</field>

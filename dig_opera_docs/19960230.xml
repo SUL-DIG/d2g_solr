@@ -3,12 +3,12 @@
 <field name="id">19960230</field>
 <field name="genre">Operas</field>
 <field name="title">Au temps passé</field>
-<field name="titlesort">Au temps passé</field>
+<field name="titleSort">Au temps passé</field>
 <field name="composer">M. Mariton</field>
-<field name="composersort">Mariton, M.</field>
+<field name="composerSort">Mariton, M.</field>
 <field name="year">1909</field>
 <field name="librettist">J. Henry-Lagaillarde </field>
-<field name="librettistsort">Henry-Lagaillarde, J.</field>
+<field name="librettistSort">Henry-Lagaillarde, J.</field>
 <field name="theater">Théâtre Municipal</field>
 <field name="city">Asnières</field>
 <field name="region">Hauts-de-Seine</field>

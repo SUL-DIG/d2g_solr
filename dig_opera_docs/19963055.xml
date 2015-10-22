@@ -3,13 +3,13 @@
 <field name="id">19963055</field>
 <field name="genre">Operas</field>
 <field name="title">White Nights</field>
-<field name="titlesort">White Nights</field>
+<field name="titleSort">White Nights</field>
 <field name="composer">Toshi Ichiyanagi</field>
-<field name="composersort">Ichiyanagi, Toshi</field>
+<field name="composerSort">Ichiyanagi, Toshi</field>
 <field name="year">2006</field>
 <field name="date">February 1, 2006</field>
 <field name="librettist">Takashi Tsujii</field>
-<field name="librettistsort">Tsujii, Takashi</field>
+<field name="librettistSort">Tsujii, Takashi</field>
 <field name="theater">Kanagawa Kenmin Hall</field>
 <field name="city">Yokohama</field>
 <field name="region">Kanagawa</field>

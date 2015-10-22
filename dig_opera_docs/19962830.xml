@@ -3,13 +3,13 @@
 <field name="id">19962830</field>
 <field name="genre">Operas</field>
 <field name="title">The Walled-Up Wife</field>
-<field name="titlesort">Walled-Up Wife</field>
+<field name="titleSort">Walled-Up Wife</field>
 <field name="composer">Gilda Lyons</field>
-<field name="composersort">Lyons, Gilda</field>
+<field name="composerSort">Lyons, Gilda</field>
 <field name="year">2007</field>
 <field name="date">March 30, 2007</field>
 <field name="librettist">Gilda Lyons</field>
-<field name="librettistsort">Lyons, Gilda</field>
+<field name="librettistSort">Lyons, Gilda</field>
 <field name="theater">South Oxford Space, Brooklyn</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

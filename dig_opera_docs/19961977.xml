@@ -3,13 +3,13 @@
 <field name="id">19961977</field>
 <field name="genre">Operas</field>
 <field name="title">Pauline</field>
-<field name="titlesort">Pauline</field>
+<field name="titleSort">Pauline</field>
 <field name="composer">Tobin Stokes</field>
-<field name="composersort">Stokes, Tobin</field>
+<field name="composerSort">Stokes, Tobin</field>
 <field name="year">2014</field>
 <field name="date">May 23, 2014</field>
 <field name="librettist">Margaret Atwood</field>
-<field name="librettistsort">Atwood, Margaret</field>
+<field name="librettistSort">Atwood, Margaret</field>
 <field name="theater">York Theatre</field>
 <field name="city">Vancouver</field>
 <field name="region">British Columbia</field>

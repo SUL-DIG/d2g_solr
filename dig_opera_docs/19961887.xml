@@ -3,9 +3,9 @@
 <field name="id">19961887</field>
 <field name="genre">Operas</field>
 <field name="title">Old Khattabich</field>
-<field name="titlesort">Old Khattabich</field>
+<field name="titleSort">Old Khattabich</field>
 <field name="composer">Zakir Bagirov</field>
-<field name="composersort">Bagirov, Zakir</field>
+<field name="composerSort">Bagirov, Zakir</field>
 <field name="year">1979</field>
 <field name="date">November 13, 1979</field>
 <field name="theater">Azerbaijanskiy Akademicheskiy Teatr Operï i Baleta imeni M. F. Akhundova</field>

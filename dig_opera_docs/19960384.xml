@@ -3,13 +3,13 @@
 <field name="id">19960384</field>
 <field name="genre">Operas</field>
 <field name="title">Café Museum - Die Erleuchtung</field>
-<field name="titlesort">Café Museum - Die Erleuchtung</field>
+<field name="titleSort">Café Museum - Die Erleuchtung</field>
 <field name="composer">Kurt Schwertsik</field>
-<field name="composersort">Schwertsik, Kurt</field>
+<field name="composerSort">Schwertsik, Kurt</field>
 <field name="year">1993</field>
 <field name="date">October 9, 1993</field>
 <field name="librettist">Wolfgang Bauer</field>
-<field name="librettistsort">Bauer, Wolfgang</field>
+<field name="librettistSort">Bauer, Wolfgang</field>
 <field name="theater">Lassnitzhaus</field>
 <field name="city">Deutschlandsberg</field>
 <field name="region">Steiermark</field>

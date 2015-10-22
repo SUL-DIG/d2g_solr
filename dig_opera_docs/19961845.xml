@@ -3,13 +3,13 @@
 <field name="id">19961845</field>
 <field name="genre">Operas</field>
 <field name="title">Norge-Brasil</field>
-<field name="titlesort">Norge-Brasil</field>
+<field name="titleSort">Norge-Brasil</field>
 <field name="composer">Helge Førde</field>
-<field name="composersort">Førde, Helge</field>
+<field name="composerSort">Førde, Helge</field>
 <field name="year">2010</field>
 <field name="date">October 5, 2010</field>
 <field name="librettist">Are Kalvø</field>
-<field name="librettistsort">Kalvø, Are</field>
+<field name="librettistSort">Kalvø, Are</field>
 <field name="theater">Opera Nordfjord</field>
 <field name="city">Nordfjordeid</field>
 <field name="region">Sogn og Fjordane</field>

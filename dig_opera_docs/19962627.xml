@@ -3,13 +3,13 @@
 <field name="id">19962627</field>
 <field name="genre">Operas</field>
 <field name="title">The Lion's Face</field>
-<field name="titlesort">Lion's Face</field>
+<field name="titleSort">Lion's Face</field>
 <field name="composer">Elena Langer</field>
-<field name="composersort">Langer, Elena</field>
+<field name="composerSort">Langer, Elena</field>
 <field name="year">2010</field>
 <field name="date">May 20, 2010</field>
 <field name="librettist">Glyn Maxwell</field>
-<field name="librettistsort">Maxwell, Glyn</field>
+<field name="librettistSort">Maxwell, Glyn</field>
 <field name="theater">Theatre Royal</field>
 <field name="city">Brighton</field>
 <field name="region">East Sussex</field>

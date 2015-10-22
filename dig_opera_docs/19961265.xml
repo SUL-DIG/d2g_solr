@@ -3,13 +3,13 @@
 <field name="id">19961265</field>
 <field name="genre">Operas</field>
 <field name="title">Just Above My Head</field>
-<field name="titlesort">Just Above My Head</field>
+<field name="titleSort">Just Above My Head</field>
 <field name="composer">Nathan Davis</field>
-<field name="composersort">Davis, Nathan</field>
+<field name="composerSort">Davis, Nathan</field>
 <field name="year">2004</field>
 <field name="date">June 9, 2004</field>
 <field name="librettist">Ursula Davis</field>
-<field name="librettistsort">Davis, Ursula</field>
+<field name="librettistSort">Davis, Ursula</field>
 <field name="theater">Opera Theater of Pittsburgh</field>
 <field name="city">Pittsburgh</field>
 <field name="region">Pennsylvania</field>

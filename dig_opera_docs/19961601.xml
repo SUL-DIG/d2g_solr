@@ -3,13 +3,13 @@
 <field name="id">19961601</field>
 <field name="genre">Operas</field>
 <field name="title">Lucy</field>
-<field name="titlesort">Lucy</field>
+<field name="titleSort">Lucy</field>
 <field name="composer">Tom Cipullo</field>
-<field name="composersort">Cipullo, Tom</field>
+<field name="composerSort">Cipullo, Tom</field>
 <field name="year">2010</field>
 <field name="date">April 10, 2010</field>
 <field name="librettist">Tom Cipullo</field>
-<field name="librettistsort">Cipullo, Tom</field>
+<field name="librettistSort">Cipullo, Tom</field>
 <field name="theater">Kennedy Center</field>
 <field name="city">Washingon</field>
 <field name="region">District of Columbia</field>

@@ -3,13 +3,13 @@
 <field name="id">19961605</field>
 <field name="genre">Operas</field>
 <field name="title">Lunu</field>
-<field name="titlesort">Lunu</field>
+<field name="titleSort">Lunu</field>
 <field name="composer">Moritz Eggert</field>
-<field name="composersort">Eggert, Moritz</field>
+<field name="composerSort">Eggert, Moritz</field>
 <field name="year">1992</field>
 <field name="date">December 11, 1992</field>
 <field name="librettist">Moritz Eggert</field>
-<field name="librettistsort">Eggert, Moritz</field>
+<field name="librettistSort">Eggert, Moritz</field>
 <field name="theater">Theater in der Halle 50</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

@@ -3,13 +3,13 @@
 <field name="id">19961930</field>
 <field name="genre">Operas</field>
 <field name="title">Osiris</field>
-<field name="titlesort">Osiris</field>
+<field name="titleSort">Osiris</field>
 <field name="composer">Jani Kääriä</field>
-<field name="composersort">Kääriä, Jani</field>
+<field name="composerSort">Kääriä, Jani</field>
 <field name="year">2003</field>
 <field name="date">March 5, 2003</field>
 <field name="librettist">Jani Kääriä</field>
-<field name="librettistsort">Kääriä, Jani</field>
+<field name="librettistSort">Kääriä, Jani</field>
 <field name="theater">Musica nova Helsinki</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

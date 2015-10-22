@@ -3,13 +3,13 @@
 <field name="id">19961126</field>
 <field name="genre">Operas</field>
 <field name="title">Hypermusikal</field>
-<field name="titlesort">Hypermusikal</field>
+<field name="titleSort">Hypermusikal</field>
 <field name="composer">Glenn Erik Haugland</field>
-<field name="composersort">Haugland, Glenn Erik</field>
+<field name="composerSort">Haugland, Glenn Erik</field>
 <field name="year">2009</field>
 <field name="date">September 27, 2009</field>
 <field name="librettist">Heidi Tronsmo</field>
-<field name="librettistsort">Tronsmo, Heidi</field>
+<field name="librettistSort">Tronsmo, Heidi</field>
 <field name="theater">Logen Teatern</field>
 <field name="city">Bergen</field>
 <field name="region">Hordaland</field>

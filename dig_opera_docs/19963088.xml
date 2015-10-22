@@ -3,13 +3,13 @@
 <field name="id">19963088</field>
 <field name="genre">Operas</field>
 <field name="title">You Us We All</field>
-<field name="titlesort">You Us We All</field>
+<field name="titleSort">You Us We All</field>
 <field name="composer">Shara Worden</field>
-<field name="composersort">Worden, Shara</field>
+<field name="composerSort">Worden, Shara</field>
 <field name="year">2013</field>
 <field name="date">August 16, 2013</field>
 <field name="librettist">Andrew Ondrejcak</field>
-<field name="librettistsort">Ondrejcak, Andrew</field>
+<field name="librettistSort">Ondrejcak, Andrew</field>
 <field name="theater">Kampnagel </field>
 <field name="city">Hamburg</field>
 <field name="region">Hamburg</field>

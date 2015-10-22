@@ -3,13 +3,13 @@
 <field name="id">19961994</field>
 <field name="genre">Operas</field>
 <field name="title">Phaedra and Hippolytus</field>
-<field name="titlesort">Phaedra and Hippolytus</field>
+<field name="titleSort">Phaedra and Hippolytus</field>
 <field name="composer">Christopher Park</field>
-<field name="composersort">Park, Christopher</field>
+<field name="composerSort">Park, Christopher</field>
 <field name="year">2007</field>
 <field name="date">April 15, 2007</field>
 <field name="librettist">Christopher Park</field>
-<field name="librettistsort">Park, Christopher</field>
+<field name="librettistSort">Park, Christopher</field>
 <field name="theater">Mannes College of Music</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

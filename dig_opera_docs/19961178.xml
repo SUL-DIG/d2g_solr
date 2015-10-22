@@ -3,13 +3,13 @@
 <field name="id">19961178</field>
 <field name="genre">Operas</field>
 <field name="title">Impressions de Pelléas</field>
-<field name="titlesort">Impressions de Pelléas</field>
+<field name="titleSort">Impressions de Pelléas</field>
 <field name="composer">Marius Constant</field>
-<field name="composersort">Constant, Marius</field>
+<field name="composerSort">Constant, Marius</field>
 <field name="year">1992</field>
 <field name="date">November 13, 1992</field>
 <field name="librettist">Maurice Maeterlinck</field>
-<field name="librettistsort">Maeterlinck, Maurice</field>
+<field name="librettistSort">Maeterlinck, Maurice</field>
 <field name="theater">Théâtre des Bouffes du Nord</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

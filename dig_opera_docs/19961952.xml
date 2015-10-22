@@ -3,13 +3,13 @@
 <field name="id">19961952</field>
 <field name="genre">Operas</field>
 <field name="title">Papagenono. Eine Ausflucht</field>
-<field name="titlesort">Papagenono. Eine Ausflucht</field>
+<field name="titleSort">Papagenono. Eine Ausflucht</field>
 <field name="composer">Johanna Doderer</field>
-<field name="composersort">Doderer, Johanna</field>
+<field name="composerSort">Doderer, Johanna</field>
 <field name="year">2011</field>
 <field name="date">November 4, 2011</field>
 <field name="librettist">[Stefan Griebl] Franzobel</field>
-<field name="librettistsort">Franzobel, [Stefan Griebl]</field>
+<field name="librettistSort">Franzobel, [Stefan Griebl]</field>
 <field name="theater">Theater an der Wien</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

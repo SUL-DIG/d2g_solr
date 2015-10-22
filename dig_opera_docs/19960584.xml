@@ -3,13 +3,13 @@
 <field name="id">19960584</field>
 <field name="genre">Operas</field>
 <field name="title">Der Schlaf der Gerechten</field>
-<field name="titlesort">Schlaf der Gerechten</field>
+<field name="titleSort">Schlaf der Gerechten</field>
 <field name="composer">Kurt Schwertsik</field>
-<field name="composersort">Schwertsik, Kurt</field>
+<field name="composerSort">Schwertsik, Kurt</field>
 <field name="year">2004</field>
 <field name="date">October 31, 2004</field>
 <field name="librettist">Kristine Tornquist</field>
-<field name="librettistsort">Tornquist, Kristine</field>
+<field name="librettistSort">Tornquist, Kristine</field>
 <field name="theater">Landestheater</field>
 <field name="city">Linz</field>
 <field name="region">Oberösterreich</field>

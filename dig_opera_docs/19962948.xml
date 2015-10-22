@@ -3,13 +3,13 @@
 <field name="id">19962948</field>
 <field name="genre">Operas</field>
 <field name="title">Un grido di voce</field>
-<field name="titlesort">grido di voce</field>
+<field name="titleSort">grido di voce</field>
 <field name="composer">Roberta Vacca</field>
-<field name="composersort">Vacca, Roberto</field>
+<field name="composerSort">Vacca, Roberto</field>
 <field name="year">2011</field>
 <field name="date">September 9, 2011</field>
 <field name="librettist">Simone Fagioli</field>
-<field name="librettistsort">Fagioli, Simone</field>
+<field name="librettistSort">Fagioli, Simone</field>
 <field name="theater">Teatro del Complesso Monumentale di San Nicolò</field>
 <field name="city">Spoleto</field>
 <field name="region">Umbria</field>

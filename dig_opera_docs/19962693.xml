@@ -3,13 +3,13 @@
 <field name="id">19962693</field>
 <field name="genre">Operas</field>
 <field name="title">The Pied Piper</field>
-<field name="titlesort">Pied Piper</field>
+<field name="titleSort">Pied Piper</field>
 <field name="composer">Kate Pearson</field>
-<field name="composersort">Pearson, Kate</field>
+<field name="composerSort">Pearson, Kate</field>
 <field name="year">2005</field>
 <field name="date">October 18, 2005</field>
 <field name="librettist">Jane Buckler</field>
-<field name="librettistsort">Buckler, Jane</field>
+<field name="librettistSort">Buckler, Jane</field>
 <field name="theater">Hull University</field>
 <field name="city">Kingston on Hull</field>
 <field name="region">Humberside</field>

@@ -3,13 +3,13 @@
 <field name="id">19962124</field>
 <field name="genre">Operas</field>
 <field name="title">Redflight Barcud</field>
-<field name="titlesort">Redflight Barcud</field>
+<field name="titleSort">Redflight Barcud</field>
 <field name="composer">Richard Chew</field>
-<field name="composersort">Chew, Richard</field>
+<field name="composerSort">Chew, Richard</field>
 <field name="year">2005</field>
 <field name="date">March 14, 2005</field>
 <field name="librettist">Gwyneth Lewis</field>
-<field name="librettistsort">Lewis, Gwyneth</field>
+<field name="librettistSort">Lewis, Gwyneth</field>
 <field name="theater">Galari</field>
 <field name="city">Caernarfon</field>
 <field name="region">Wales</field>

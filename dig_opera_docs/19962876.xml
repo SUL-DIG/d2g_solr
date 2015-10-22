@@ -3,13 +3,13 @@
 <field name="id">19962876</field>
 <field name="genre">Operas</field>
 <field name="title">Till Victory Is Won</field>
-<field name="titlesort">Till Victory Is Won</field>
+<field name="titleSort">Till Victory Is Won</field>
 <field name="composer">Mark Fax</field>
-<field name="composersort">Fax, Mark</field>
+<field name="composerSort">Fax, Mark</field>
 <field name="year">1974</field>
 <field name="date">March 4, 1974</field>
 <field name="librettist">Owen Dodson</field>
-<field name="librettistsort">Dodson, Owen</field>
+<field name="librettistSort">Dodson, Owen</field>
 <field name="theater">Kennedy Center</field>
 <field name="city">Washington</field>
 <field name="region">District of Columbia</field>

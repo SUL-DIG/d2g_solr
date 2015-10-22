@@ -3,9 +3,9 @@
 <field name="id">19962384</field>
 <field name="genre">Operas</field>
 <field name="title">Sulamith</field>
-<field name="titlesort">Sulamith</field>
+<field name="titleSort">Sulamith</field>
 <field name="composer">Paul von Klenau</field>
-<field name="composersort">Klenau, Paul von</field>
+<field name="composerSort">Klenau, Paul von</field>
 <field name="year">1913</field>
 <field name="date">November 16, 1913</field>
 <field name="city">Munich</field>

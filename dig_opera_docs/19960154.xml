@@ -3,13 +3,13 @@
 <field name="id">19960154</field>
 <field name="genre">Operas</field>
 <field name="title">Anaïs Nin</field>
-<field name="titlesort">Anaïs Nin</field>
+<field name="titleSort">Anaïs Nin</field>
 <field name="composer">Louis Andriessen</field>
-<field name="composersort">Andriessen, Louis</field>
+<field name="composerSort">Andriessen, Louis</field>
 <field name="year">2010</field>
 <field name="date">July 10, 2010</field>
 <field name="librettist">Anaïs Nin</field>
-<field name="librettistsort">Nin, Anaïs</field>
+<field name="librettistSort">Nin, Anaïs</field>
 <field name="theater">Accademia Musicale Chigiana</field>
 <field name="city">Siena</field>
 <field name="region">Toscana</field>

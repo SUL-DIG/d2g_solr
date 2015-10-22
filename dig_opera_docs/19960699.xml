@@ -3,13 +3,13 @@
 <field name="id">19960699</field>
 <field name="genre">Operas</field>
 <field name="title">Doubt </field>
-<field name="titlesort">Doubt </field>
+<field name="titleSort">Doubt </field>
 <field name="composer">Douglas J. Cuomo</field>
-<field name="composersort">Cuomo, Douglas  J.</field>
+<field name="composerSort">Cuomo, Douglas  J.</field>
 <field name="year">2013</field>
 <field name="date">January 26, 2013</field>
 <field name="librettist">John Patrick Shanley</field>
-<field name="librettistsort">Shanley, John Patrick</field>
+<field name="librettistSort">Shanley, John Patrick</field>
 <field name="theater">Ordway Theater</field>
 <field name="city">St. Paul</field>
 <field name="region">Minnesota</field>

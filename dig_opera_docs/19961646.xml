@@ -3,13 +3,13 @@
 <field name="id">19961646</field>
 <field name="genre">Operas</field>
 <field name="title">Mannen på Sluttningen</field>
-<field name="titlesort">Mannen på Sluttningen</field>
+<field name="titleSort">Mannen på Sluttningen</field>
 <field name="composer">Carl Unander-Scharin</field>
-<field name="composersort">Unander-Scharin, Carl</field>
+<field name="composerSort">Unander-Scharin, Carl</field>
 <field name="year">1991</field>
 <field name="date">December 13, 1991</field>
 <field name="librettist">Katarina Frostensson</field>
-<field name="librettistsort">Frostensson, Katarina</field>
+<field name="librettistSort">Frostensson, Katarina</field>
 <field name="theater">SR Radio (Sveriges Radio)</field>
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>

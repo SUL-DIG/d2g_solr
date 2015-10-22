@@ -3,13 +3,13 @@
 <field name="id">19962528</field>
 <field name="genre">Operas</field>
 <field name="title">The Edge of Glory</field>
-<field name="titlesort">Edge of Glory</field>
+<field name="titleSort">Edge of Glory</field>
 <field name="composer">Emory Waters</field>
-<field name="composersort">Waters, Emory</field>
+<field name="composerSort">Waters, Emory</field>
 <field name="year">2000</field>
 <field name="date">April 30, 2000</field>
 <field name="librettist">Mary Ann Waters</field>
-<field name="librettistsort">Waters, Mary Ann</field>
+<field name="librettistSort">Waters, Mary Ann</field>
 <field name="theater">Petersburg Symphony Orchestra</field>
 <field name="city">Petersburg</field>
 <field name="region">Virginia</field>

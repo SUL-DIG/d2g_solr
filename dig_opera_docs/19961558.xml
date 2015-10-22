@@ -3,13 +3,13 @@
 <field name="id">19961558</field>
 <field name="genre">Operas</field>
 <field name="title">Lilith</field>
-<field name="titlesort">Lilith</field>
+<field name="titleSort">Lilith</field>
 <field name="composer">Dimitar Bodurov</field>
-<field name="composersort">Bodurov, Dimitar</field>
+<field name="composerSort">Bodurov, Dimitar</field>
 <field name="year">2012</field>
 <field name="date">June 2, 2012</field>
 <field name="librettist">Carola Luther</field>
-<field name="librettistsort">Luther, Carola</field>
+<field name="librettistSort">Luther, Carola</field>
 <field name="theater">Bellevue Theater</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>

@@ -3,13 +3,13 @@
 <field name="id">19962545</field>
 <field name="genre">Operas</field>
 <field name="title">The Fashion</field>
-<field name="titlesort">Fashion</field>
+<field name="titleSort">Fashion</field>
 <field name="composer">Giorgio Battistelli</field>
-<field name="composersort">Battistelli, Giorgio</field>
+<field name="composerSort">Battistelli, Giorgio</field>
 <field name="year">2008</field>
 <field name="date">January 26, 2008</field>
 <field name="librettist">Bob Goody</field>
-<field name="librettistsort">Goody, Bob</field>
+<field name="librettistSort">Goody, Bob</field>
 <field name="theater">Deutsche Oper am Rhein</field>
 <field name="city">Düsseldorf</field>
 <field name="region">Nordrhein-Westfallen</field>

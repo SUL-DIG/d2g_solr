@@ -3,13 +3,13 @@
 <field name="id">19961378</field>
 <field name="genre">Operas</field>
 <field name="title">La belle et la bête</field>
-<field name="titlesort">belle et la bête</field>
+<field name="titleSort">belle et la bête</field>
 <field name="composer">Philip Glass</field>
-<field name="composersort">Glass, Philip</field>
+<field name="composerSort">Glass, Philip</field>
 <field name="year">1994</field>
 <field name="date">June 4, 1994</field>
 <field name="librettist">Jean Cocteau</field>
-<field name="librettistsort">Cocteau, Jean</field>
+<field name="librettistSort">Cocteau, Jean</field>
 <field name="theater">Maestranza</field>
 <field name="city">Seville</field>
 <field name="region">Andalucia</field>

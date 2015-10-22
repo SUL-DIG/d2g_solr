@@ -3,12 +3,12 @@
 <field name="id">19963010</field>
 <field name="genre">Operas</field>
 <field name="title">Viviane</field>
-<field name="titlesort">Viviane</field>
+<field name="titleSort">Viviane</field>
 <field name="composer">Oscar van Hemel</field>
-<field name="composersort">Hemel, Oscar van</field>
+<field name="composerSort">Hemel, Oscar van</field>
 <field name="year">1950</field>
 <field name="librettist">Louis Lutz</field>
-<field name="librettistsort">Lutz, Louis</field>
+<field name="librettistSort">Lutz, Louis</field>
 <field name="theater">Radio Hilversum</field>
 <field name="city">Hilversum</field>
 <field name="region">Noord Holland</field>

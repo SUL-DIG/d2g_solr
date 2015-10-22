@@ -3,13 +3,13 @@
 <field name="id">19961661</field>
 <field name="genre">Operas</field>
 <field name="title">Marian rakkaus (Maria's Love)</field>
-<field name="titlesort">Marian rakkaus (Maria's Love)</field>
+<field name="titleSort">Marian rakkaus (Maria's Love)</field>
 <field name="composer">Olli Kortekangas</field>
-<field name="composersort">Kortekangas, Olli</field>
+<field name="composerSort">Kortekangas, Olli</field>
 <field name="year">2000</field>
 <field name="date">July 15, 2000</field>
 <field name="librettist">Paavo Rintala</field>
-<field name="librettistsort">Rintala, Paavo</field>
+<field name="librettistSort">Rintala, Paavo</field>
 <field name="theater">Savonlinnan oopperajuhlat</field>
 <field name="city">Savonlinna</field>
 <field name="region">Etelä-Savo</field>

@@ -3,13 +3,13 @@
 <field name="id">19961260</field>
 <field name="genre">Operas</field>
 <field name="title">Julie Sits Waiting</field>
-<field name="titlesort">Julie Sits Waiting</field>
+<field name="titleSort">Julie Sits Waiting</field>
 <field name="composer">Louis Dufort</field>
-<field name="composersort">Dufort, Louis</field>
+<field name="composerSort">Dufort, Louis</field>
 <field name="year">2012</field>
 <field name="date">September 14, 2012</field>
 <field name="librettist">Tom Walmsley</field>
-<field name="librettistsort">Walmsley, Tom</field>
+<field name="librettistSort">Walmsley, Tom</field>
 <field name="theater">Theatre Passe Muraille</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

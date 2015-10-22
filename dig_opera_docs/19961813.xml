@@ -3,12 +3,12 @@
 <field name="id">19961813</field>
 <field name="genre">Operas</field>
 <field name="title">Nedarim (Vows)</field>
-<field name="titlesort">Nedarim (Vows)</field>
+<field name="titleSort">Nedarim (Vows)</field>
 <field name="composer">Karl Salomon</field>
-<field name="composersort">Salomon, Karl</field>
+<field name="composerSort">Salomon, Karl</field>
 <field name="year">1955</field>
 <field name="librettist">Karl Salomon</field>
-<field name="librettistsort">Salomon, Karl</field>
+<field name="librettistSort">Salomon, Karl</field>
 <field name="theater">Kibbutz Ein-Gev Festival</field>
 <field name="city">Kibbutz Ein-Gev</field>
 <field name="country">Israel</field>

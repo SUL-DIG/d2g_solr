@@ -3,13 +3,13 @@
 <field name="id">19960627</field>
 <field name="genre">Operas</field>
 <field name="title">Die heilige Linde</field>
-<field name="titlesort">heilige Linde</field>
+<field name="titleSort">heilige Linde</field>
 <field name="composer">Siegfried Wagner</field>
-<field name="composersort">Wagner, Siegfried</field>
+<field name="composerSort">Wagner, Siegfried</field>
 <field name="year">2001</field>
 <field name="date">October 17, 2001</field>
 <field name="librettist">Siegfried Wagner</field>
-<field name="librettistsort">Wagner, Siegfried</field>
+<field name="librettistSort">Wagner, Siegfried</field>
 <field name="theater">Philharmonie</field>
 <field name="city">Cologne</field>
 <field name="region">Nordrhein-Westfallen</field>

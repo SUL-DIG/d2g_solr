@@ -3,13 +3,13 @@
 <field name="id">19962259</field>
 <field name="genre">Operas</field>
 <field name="title">Shadowboxer</field>
-<field name="titlesort">Shadowboxer</field>
+<field name="titleSort">Shadowboxer</field>
 <field name="composer">Frank Proto</field>
-<field name="composersort">Proto, Frank</field>
+<field name="composerSort">Proto, Frank</field>
 <field name="year">2010</field>
 <field name="date">April 17, 2010</field>
 <field name="librettist">John Chenault</field>
-<field name="librettistsort">Chenault, John</field>
+<field name="librettistSort">Chenault, John</field>
 <field name="theater">University of Maryland</field>
 <field name="city">College Park</field>
 <field name="region">Maryland</field>

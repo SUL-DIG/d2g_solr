@@ -3,13 +3,13 @@
 <field name="id">19961888</field>
 <field name="genre">Operas</field>
 <field name="title">Olga</field>
-<field name="titlesort">Olga</field>
+<field name="titleSort">Olga</field>
 <field name="composer">Jorge Antunes</field>
-<field name="composersort">Antunes, Jorge</field>
+<field name="composerSort">Antunes, Jorge</field>
 <field name="year">2006</field>
 <field name="date">October 14, 2006</field>
 <field name="librettist">Gerson Valle</field>
-<field name="librettistsort">Valle, Gerson</field>
+<field name="librettistSort">Valle, Gerson</field>
 <field name="theater">Teatro Municipal</field>
 <field name="city">São Paulo</field>
 <field name="region">São Paulo</field>

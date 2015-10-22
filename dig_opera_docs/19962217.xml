@@ -3,13 +3,13 @@
 <field name="id">19962217</field>
 <field name="genre">Operas</field>
 <field name="title">Sarajevo</field>
-<field name="titlesort">Sarajevo</field>
+<field name="titleSort">Sarajevo</field>
 <field name="composer">Nigel Osborne</field>
-<field name="composersort">Osborne, Nigel</field>
+<field name="composerSort">Osborne, Nigel</field>
 <field name="year">1994</field>
 <field name="date">August 23, 1994</field>
 <field name="librettist">Craig Raine</field>
-<field name="librettistsort">Raine, Craig</field>
+<field name="librettistSort">Raine, Craig</field>
 <field name="theater">Queen Elizabeth Hall</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

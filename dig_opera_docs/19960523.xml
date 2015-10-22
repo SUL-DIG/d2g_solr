@@ -3,13 +3,13 @@
 <field name="id">19960523</field>
 <field name="genre">Operas</field>
 <field name="title">De paradijsgeuzen (Beggars in Heaven)</field>
-<field name="titlesort">paradijsgeuzen (Beggars in Heaven)</field>
+<field name="titleSort">paradijsgeuzen (Beggars in Heaven)</field>
 <field name="composer">Louis de Meester</field>
-<field name="composersort">Meester, Louis de</field>
+<field name="composerSort">Meester, Louis de</field>
 <field name="year">1967</field>
 <field name="date">March 26, 1967</field>
 <field name="librettist">Gaston Martens</field>
-<field name="librettistsort">Martens, Gaston</field>
+<field name="librettistSort">Martens, Gaston</field>
 <field name="theater">Koninklijke Vlaamse Opera</field>
 <field name="city">Ghent</field>
 <field name="region">Flaanderen</field>

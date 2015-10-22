@@ -3,13 +3,13 @@
 <field name="id">19962725</field>
 <field name="genre">Operas</field>
 <field name="title">The Sacrifice</field>
-<field name="titlesort">Sacrifice</field>
+<field name="titleSort">Sacrifice</field>
 <field name="composer">James MacMillan</field>
-<field name="composersort">MacMillan, James</field>
+<field name="composerSort">MacMillan, James</field>
 <field name="year">2007</field>
 <field name="date">September 22, 2007</field>
 <field name="librettist">Michael Symmons Roberts</field>
-<field name="librettistsort">Roberts, Michael Symmons</field>
+<field name="librettistSort">Roberts, Michael Symmons</field>
 <field name="theater">Millennium Centre</field>
 <field name="city">Cardiff</field>
 <field name="region">Wales</field>

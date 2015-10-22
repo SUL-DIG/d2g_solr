@@ -3,13 +3,13 @@
 <field name="id">19961089</field>
 <field name="genre">Operas</field>
 <field name="title">Hinter der Mauer</field>
-<field name="titlesort">Hinter der Mauer</field>
+<field name="titleSort">Hinter der Mauer</field>
 <field name="composer">Samir Odeh-Tamimi</field>
-<field name="composersort">Odeh-Tamimi, Samir</field>
+<field name="composerSort">Odeh-Tamimi, Samir</field>
 <field name="year">2010</field>
 <field name="date">October 1, 2010</field>
 <field name="librettist">Christian Lehnert</field>
-<field name="librettistsort">Lehnert, Christian</field>
+<field name="librettistSort">Lehnert, Christian</field>
 <field name="theater">Radialsystem V</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>

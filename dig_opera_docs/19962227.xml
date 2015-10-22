@@ -3,13 +3,13 @@
 <field name="id">19962227</field>
 <field name="genre">Operas</field>
 <field name="title">Schitz</field>
-<field name="titlesort">Schitz</field>
+<field name="titleSort">Schitz</field>
 <field name="composer">Yoni Rechter</field>
-<field name="composersort">Rechter, Yoni</field>
+<field name="composerSort">Rechter, Yoni</field>
 <field name="year">2015</field>
 <field name="date">July 6, 2015</field>
 <field name="librettist">Hanoch Levin</field>
-<field name="librettistsort">Levin, Hanoch</field>
+<field name="librettistSort">Levin, Hanoch</field>
 <field name="theater">Israeli Opera</field>
 <field name="city">Tel Aviv</field>
 <field name="country">Israel</field>

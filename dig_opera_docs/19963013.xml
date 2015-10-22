@@ -3,13 +3,13 @@
 <field name="id">19963013</field>
 <field name="genre">Operas</field>
 <field name="title">Voce di Diva</field>
-<field name="titlesort">Voce di Diva</field>
+<field name="titleSort">Voce di Diva</field>
 <field name="composer">Emory Waters</field>
-<field name="composersort">Waters, Emory</field>
+<field name="composerSort">Waters, Emory</field>
 <field name="year">1994</field>
 <field name="date">December 10, 1994</field>
 <field name="librettist">Neil Gould</field>
-<field name="librettistsort">Gould, Neil</field>
+<field name="librettistSort">Gould, Neil</field>
 <field name="theater">Saratoga Springs High School</field>
 <field name="city">Saratoga Springs</field>
 <field name="region">New York</field>

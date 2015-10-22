@@ -3,13 +3,13 @@
 <field name="id">19961187</field>
 <field name="genre">Operas</field>
 <field name="title">Inés de Castro</field>
-<field name="titlesort">Inés de Castro</field>
+<field name="titleSort">Inés de Castro</field>
 <field name="composer">James MacMillan</field>
-<field name="composersort">MacMillan, James</field>
+<field name="composerSort">MacMillan, James</field>
 <field name="year">1996</field>
 <field name="date">August 23, 1996</field>
 <field name="librettist">Jo Clifford</field>
-<field name="librettistsort">Clifford, Jo</field>
+<field name="librettistSort">Clifford, Jo</field>
 <field name="theater">Festival Theatre</field>
 <field name="city">Edinburgh</field>
 <field name="region">Scotland</field>

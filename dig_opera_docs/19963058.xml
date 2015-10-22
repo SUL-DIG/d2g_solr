@@ -3,13 +3,13 @@
 <field name="id">19963058</field>
 <field name="genre">Operas</field>
 <field name="title">Wild Boy</field>
-<field name="titlesort">Wild Boy</field>
+<field name="titleSort">Wild Boy</field>
 <field name="composer">Gary Adams</field>
-<field name="composersort">Adams, Gary</field>
+<field name="composerSort">Adams, Gary</field>
 <field name="year">2003</field>
 <field name="date">January 16, 2003</field>
 <field name="librettist">Lou Berger</field>
-<field name="librettistsort">Berger, Lou</field>
+<field name="librettistSort">Berger, Lou</field>
 <field name="theater">Carlsen Center for the Performing Arts</field>
 <field name="city">Overland Park</field>
 <field name="region">Kansas</field>

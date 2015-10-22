@@ -3,13 +3,13 @@
 <field name="id">19962458</field>
 <field name="genre">Operas</field>
 <field name="title">The Binding of Isaac</field>
-<field name="titlesort">Binding of Isaac</field>
+<field name="titleSort">Binding of Isaac</field>
 <field name="composer">Linder Chlarson</field>
-<field name="composersort">Chlarson, Linder</field>
+<field name="composerSort">Chlarson, Linder</field>
 <field name="year">1998</field>
 <field name="date">April 1, 1998</field>
 <field name="librettist">Marvin Gottlieb</field>
-<field name="librettistsort">Gottlieb, Marvin</field>
+<field name="librettistSort">Gottlieb, Marvin</field>
 <field name="theater">Crystal Opera Consortium</field>
 <field name="city">Norwalk</field>
 <field name="region">Connecticut</field>

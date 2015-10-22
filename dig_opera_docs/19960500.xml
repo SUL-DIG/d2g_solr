@@ -3,13 +3,13 @@
 <field name="id">19960500</field>
 <field name="genre">Operas</field>
 <field name="title">Das gestohlene Herz</field>
-<field name="titlesort">gestohlene Herz</field>
+<field name="titleSort">gestohlene Herz</field>
 <field name="composer">Jury Everhartz</field>
-<field name="composersort">Everhartz, Jury</field>
+<field name="composerSort">Everhartz, Jury</field>
 <field name="year">2004</field>
 <field name="date">October 31, 2004</field>
 <field name="librettist">Günter Rupp</field>
-<field name="librettistsort">Rupp, Günter</field>
+<field name="librettistSort">Rupp, Günter</field>
 <field name="theater">Tiroler Landestheater</field>
 <field name="city">Innsbruck</field>
 <field name="region">Tirol</field>

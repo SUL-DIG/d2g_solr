@@ -3,12 +3,12 @@
 <field name="id">19961167</field>
 <field name="genre">Operas</field>
 <field name="title">Il ritratto di Dorian Gray</field>
-<field name="titlesort">ritratto di Dorian Gray</field>
+<field name="titleSort">ritratto di Dorian Gray</field>
 <field name="composer">Irma Ravinale</field>
-<field name="composersort">Ravinale, Irma</field>
+<field name="composerSort">Ravinale, Irma</field>
 <field name="year">1975</field>
 <field name="librettist">Oscar Wilde</field>
-<field name="librettistsort">Wilde, Oscar</field>
+<field name="librettistSort">Wilde, Oscar</field>
 <field name="theater">Orchestra Sinfonica Nazionale della RAI</field>
 <field name="city">Turin</field>
 <field name="region">Piemonte</field>

@@ -3,13 +3,13 @@
 <field name="id">19962643</field>
 <field name="genre">Operas</field>
 <field name="title">The Mark of Cain</field>
-<field name="titlesort">Mark of Cain</field>
+<field name="titleSort">Mark of Cain</field>
 <field name="composer">Matthew Harris</field>
-<field name="composersort">Harris, Matthew</field>
+<field name="composerSort">Harris, Matthew</field>
 <field name="year">2012</field>
 <field name="date">November 8, 2012</field>
 <field name="librettist">Terry Quinn</field>
-<field name="librettistsort">Quinn, Terry</field>
+<field name="librettistSort">Quinn, Terry</field>
 <field name="theater">Chelsea Opera</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

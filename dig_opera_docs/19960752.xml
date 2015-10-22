@@ -3,13 +3,13 @@
 <field name="id">19960752</field>
 <field name="genre">Operas</field>
 <field name="title">Eichbaum</field>
-<field name="titlesort">Eichbaum</field>
+<field name="titleSort">Eichbaum</field>
 <field name="composer">Ari Benjamin Meyers</field>
-<field name="composersort">Meyers, Ari Benjamin</field>
+<field name="composerSort">Meyers, Ari Benjamin</field>
 <field name="year">2009</field>
 <field name="date">June 1, 2009</field>
 <field name="librettist">Bernadette La Hengst</field>
-<field name="librettistsort">La Hengst, Bernadette</field>
+<field name="librettistSort">La Hengst, Bernadette</field>
 <field name="theater">U-Bahnhof Eichbaum</field>
 <field name="city">Mülheim</field>
 <field name="region">Nordrhein-Westfallen</field>

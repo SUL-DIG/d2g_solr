@@ -3,13 +3,13 @@
 <field name="id">19961236</field>
 <field name="genre">Operas</field>
 <field name="title">Joel</field>
-<field name="titlesort">Joel</field>
+<field name="titleSort">Joel</field>
 <field name="composer">Nikolo Kotzev</field>
-<field name="composersort">Kotzev, Nikolo</field>
+<field name="composerSort">Kotzev, Nikolo</field>
 <field name="year">2009</field>
 <field name="date">July 24, 2009</field>
 <field name="librettist">Lars Huldén</field>
-<field name="librettistsort">Huldén, Lars</field>
+<field name="librettistSort">Huldén, Lars</field>
 <field name="theater">Ystadoperan</field>
 <field name="city">Lund</field>
 <field name="region">Skåne</field>

@@ -3,13 +3,13 @@
 <field name="id">19961963</field>
 <field name="genre">Operas</field>
 <field name="title">Passage</field>
-<field name="titlesort">Passage</field>
+<field name="titleSort">Passage</field>
 <field name="composer">Eckehard Mayer</field>
-<field name="composersort">Mayer, Eckehard</field>
+<field name="composerSort">Mayer, Eckehard</field>
 <field name="year">2006</field>
 <field name="date">May 4, 2006</field>
 <field name="librettist">Christoph Hein</field>
-<field name="librettistsort">Hein, Christoph</field>
+<field name="librettistSort">Hein, Christoph</field>
 <field name="theater">Landesbühnen Sachsen</field>
 <field name="city">Dresden-Radebeul</field>
 <field name="region">Sachsen</field>

@@ -3,13 +3,13 @@
 <field name="id">19960915</field>
 <field name="genre">Operas</field>
 <field name="title">Frankie</field>
-<field name="titlesort">Frankie</field>
+<field name="titleSort">Frankie</field>
 <field name="composer">Alan John</field>
-<field name="composersort">John, Alan</field>
+<field name="composerSort">John, Alan</field>
 <field name="year">1987</field>
 <field name="date">April 8, 1987</field>
 <field name="librettist">David Holman</field>
-<field name="librettistsort">Holman, David</field>
+<field name="librettistSort">Holman, David</field>
 <field name="theater">State Opera of South Australia</field>
 <field name="city">Adelaide</field>
 <field name="region">South Australia</field>

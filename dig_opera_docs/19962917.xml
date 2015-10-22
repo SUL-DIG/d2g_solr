@@ -3,13 +3,13 @@
 <field name="id">19962917</field>
 <field name="genre">Operas</field>
 <field name="title">Trois bateaux pour nulle part</field>
-<field name="titlesort">Trois bateaux pour nulle part</field>
+<field name="titleSort">Trois bateaux pour nulle part</field>
 <field name="composer">Isabelle Aboulker</field>
-<field name="composersort">Aboulker, Isabelle</field>
+<field name="composerSort">Aboulker, Isabelle</field>
 <field name="year">1991</field>
 <field name="date">December 19, 1991</field>
 <field name="librettist">Rémi Laureillard</field>
-<field name="librettistsort">Laureillard, Rémi</field>
+<field name="librettistSort">Laureillard, Rémi</field>
 <field name="theater">Palais des Sports</field>
 <field name="city">Lourdes</field>
 <field name="region">Hautes-Pyrénées</field>

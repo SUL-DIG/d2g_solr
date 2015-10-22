@@ -3,13 +3,13 @@
 <field name="id">19961424</field>
 <field name="genre">Operas</field>
 <field name="title">La muerte y el hablador</field>
-<field name="titlesort">muerte y el hablador</field>
+<field name="titleSort">muerte y el hablador</field>
 <field name="composer">Leopoldo Novoa</field>
-<field name="composersort">Novoa, Leopoldo</field>
+<field name="composerSort">Novoa, Leopoldo</field>
 <field name="year">2000</field>
 <field name="date">August 9, 2000</field>
 <field name="librettist">Leopoldo Novoa</field>
-<field name="librettistsort">Novoa, Leopoldo</field>
+<field name="librettistSort">Novoa, Leopoldo</field>
 <field name="theater">Centro Cultural Helénico</field>
 <field name="city">Mexico City</field>
 <field name="country">Mexico</field>

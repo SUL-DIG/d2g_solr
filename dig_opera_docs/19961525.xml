@@ -3,13 +3,13 @@
 <field name="id">19961525</field>
 <field name="genre">Operas</field>
 <field name="title">Les enfants du ciel</field>
-<field name="titlesort">enfants du ciel</field>
+<field name="titleSort">enfants du ciel</field>
 <field name="composer">Antoine Tisné</field>
-<field name="composersort">Tisné, Antoine</field>
+<field name="composerSort">Tisné, Antoine</field>
 <field name="year">1985</field>
 <field name="date">April 27, 1985</field>
 <field name="librettist">David Niemann</field>
-<field name="librettistsort">Niemann, David</field>
+<field name="librettistSort">Niemann, David</field>
 <field name="theater">Ecole Normale</field>
 <field name="city">Noyon</field>
 <field name="region">Oise</field>

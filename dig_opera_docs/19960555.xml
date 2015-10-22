@@ -3,13 +3,13 @@
 <field name="id">19960555</field>
 <field name="genre">Operas</field>
 <field name="title">Der Bucklige</field>
-<field name="titlesort">Bucklige</field>
+<field name="titleSort">Bucklige</field>
 <field name="composer">Jury Everhartz</field>
-<field name="composersort">Everhartz, Jury</field>
+<field name="composerSort">Everhartz, Jury</field>
 <field name="year">2011</field>
 <field name="date">August 25, 2011</field>
 <field name="librettist">Kristine Tornquist</field>
-<field name="librettistsort">Tornquist, Kristine</field>
+<field name="librettistSort">Tornquist, Kristine</field>
 <field name="theater">Expedithalle der Brotfabrik</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

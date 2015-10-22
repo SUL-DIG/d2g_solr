@@ -3,13 +3,13 @@
 <field name="id">19961588</field>
 <field name="genre">Operas</field>
 <field name="title">Los niños perdidos</field>
-<field name="titlesort">niños perdidos</field>
+<field name="titleSort">niños perdidos</field>
 <field name="composer">Christian Kolonovits</field>
-<field name="composersort">Kolonovits, Christian</field>
+<field name="composerSort">Kolonovits, Christian</field>
 <field name="year">2014</field>
 <field name="date">April 26, 2014</field>
 <field name="librettist">Angelika Messner</field>
-<field name="librettistsort">Messner, Angelika</field>
+<field name="librettistSort">Messner, Angelika</field>
 <field name="theater">Teatro Arriaga</field>
 <field name="city">Bilbao</field>
 <field name="region">Euskal Herriko</field>

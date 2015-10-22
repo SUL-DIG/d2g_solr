@@ -3,13 +3,13 @@
 <field name="id">19960918</field>
 <field name="genre">Operas</field>
 <field name="title">Freax</field>
-<field name="titlesort">Freax</field>
+<field name="titleSort">Freax</field>
 <field name="composer">Moritz Eggert</field>
-<field name="composersort">Eggert, Moritz</field>
+<field name="composerSort">Eggert, Moritz</field>
 <field name="year">2007</field>
 <field name="date">September 2, 2007</field>
 <field name="librettist">Hannah Dübgen</field>
-<field name="librettistsort">Dübgen, Hannah</field>
+<field name="librettistSort">Dübgen, Hannah</field>
 <field name="theater">Theater der Stadt</field>
 <field name="city">Bonn</field>
 <field name="region">Nordrhein-Westfallen</field>

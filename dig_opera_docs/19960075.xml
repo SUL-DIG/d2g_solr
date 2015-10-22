@@ -3,13 +3,13 @@
 <field name="id">19960075</field>
 <field name="genre">Operas</field>
 <field name="title">Adriana Mater</field>
-<field name="titlesort">Adriana Mater</field>
+<field name="titleSort">Adriana Mater</field>
 <field name="composer">Kaija Saariaho</field>
-<field name="composersort">Saariaho, Kaija</field>
+<field name="composerSort">Saariaho, Kaija</field>
 <field name="year">2006</field>
 <field name="date">April 3, 2006</field>
 <field name="librettist">Amin Maalouf</field>
-<field name="librettistsort">Maalouf, Amin</field>
+<field name="librettistSort">Maalouf, Amin</field>
 <field name="theater">Opéra Bastille</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

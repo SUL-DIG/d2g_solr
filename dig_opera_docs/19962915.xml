@@ -3,13 +3,13 @@
 <field name="id">19962915</field>
 <field name="genre">Operas</field>
 <field name="title">Triumph of Spirit over Matter</field>
-<field name="titlesort">Triumph of Spirit over Matter</field>
+<field name="titleSort">Triumph of Spirit over Matter</field>
 <field name="composer">Wim Henderickx</field>
-<field name="composersort">Henderickx, Wim</field>
+<field name="composerSort">Henderickx, Wim</field>
 <field name="year">2000</field>
 <field name="date">March 10, 2000</field>
 <field name="librettist">Johan Thielemans</field>
-<field name="librettistsort">Thielemans, Johan</field>
+<field name="librettistSort">Thielemans, Johan</field>
 <field name="theater">Lunatheater</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>

@@ -3,13 +3,13 @@
 <field name="id">19961003</field>
 <field name="genre">Operas</field>
 <field name="title">Goddess Songs</field>
-<field name="titlesort">Goddess Songs</field>
+<field name="titleSort">Goddess Songs</field>
 <field name="composer">Marjorie Rusche</field>
-<field name="composersort">Rusche, Marjorie</field>
+<field name="composerSort">Rusche, Marjorie</field>
 <field name="year">1996</field>
 <field name="date">July 25, 1996</field>
 <field name="librettist">Marjorie Rusche</field>
-<field name="librettistsort">Rusche, Marjorie</field>
+<field name="librettistSort">Rusche, Marjorie</field>
 <field name="theater">Southern Theater</field>
 <field name="city">Minneapolis</field>
 <field name="region">Minnesota</field>

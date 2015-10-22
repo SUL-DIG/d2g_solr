@@ -3,13 +3,13 @@
 <field name="id">19962555</field>
 <field name="genre">Operas</field>
 <field name="title">The Floating Box: A Story in Chinatown</field>
-<field name="titlesort">Floating Box: A Story in Chinatown</field>
+<field name="titleSort">Floating Box: A Story in Chinatown</field>
 <field name="composer">Jason Kao Hwang</field>
-<field name="composersort">Hwang, Jason Kao</field>
+<field name="composerSort">Hwang, Jason Kao</field>
 <field name="year">2001</field>
 <field name="date">October 27, 2001</field>
 <field name="librettist">Catherine Filloux</field>
-<field name="librettistsort">Filloux, Catherine</field>
+<field name="librettistSort">Filloux, Catherine</field>
 <field name="theater">Asia Society</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

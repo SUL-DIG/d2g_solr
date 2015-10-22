@@ -3,13 +3,13 @@
 <field name="id">19961400</field>
 <field name="genre">Operas</field>
 <field name="title">La emperatriz de la mentira</field>
-<field name="titlesort">emperatriz de la mentira</field>
+<field name="titleSort">emperatriz de la mentira</field>
 <field name="composer">Dimitri Dudin</field>
-<field name="composersort">Dudin, Dimitri</field>
+<field name="composerSort">Dudin, Dimitri</field>
 <field name="year">2012</field>
 <field name="date">September 21, 2012</field>
 <field name="librettist">Ángel Norzagaray</field>
-<field name="librettistsort">Norzagaray, Ángel</field>
+<field name="librettistSort">Norzagaray, Ángel</field>
 <field name="theater">Centro Cultural </field>
 <field name="city">Tijuana</field>
 <field name="region">Baja California</field>

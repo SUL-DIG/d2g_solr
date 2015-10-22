@@ -3,13 +3,13 @@
 <field name="id">19962403</field>
 <field name="genre">Operas</field>
 <field name="title">Swanhunter</field>
-<field name="titlesort">Swanhunter</field>
+<field name="titleSort">Swanhunter</field>
 <field name="composer">Jonathan Dove</field>
-<field name="composersort">Dove, Jonathan</field>
+<field name="composerSort">Dove, Jonathan</field>
 <field name="year">2009</field>
 <field name="date">November 13, 2009</field>
 <field name="librettist">Alasdair Middleton</field>
-<field name="librettistsort">Middleton, Alasdair</field>
+<field name="librettistSort">Middleton, Alasdair</field>
 <field name="theater">Grand Theatre</field>
 <field name="city">Leeds</field>
 <field name="region">West Yorkshire</field>

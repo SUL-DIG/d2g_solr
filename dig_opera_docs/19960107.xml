@@ -3,13 +3,13 @@
 <field name="id">19960107</field>
 <field name="genre">Operas</field>
 <field name="title">Alfa</field>
-<field name="titlesort">Alfa</field>
+<field name="titleSort">Alfa</field>
 <field name="composer">Luís Soldado</field>
-<field name="composersort">Soldado, Luís</field>
+<field name="composerSort">Soldado, Luís</field>
 <field name="year">2007</field>
 <field name="date">March 25, 2007</field>
 <field name="librettist">Rui Zink</field>
-<field name="librettistsort">Zink, Rui</field>
+<field name="librettistSort">Zink, Rui</field>
 <field name="theater">São Luiz Teatro Municipal</field>
 <field name="city">Lisbon</field>
 <field name="region">Lisboa</field>

@@ -3,13 +3,13 @@
 <field name="id">19962918</field>
 <field name="genre">Operas</field>
 <field name="title">Trojruza (The Rose)</field>
-<field name="titlesort">Trojruza (The Rose)</field>
+<field name="titleSort">Trojruza (The Rose)</field>
 <field name="composer">Ladislav Kupkovič </field>
-<field name="composersort">Kupkovič, Ladislav</field>
+<field name="composerSort">Kupkovič, Ladislav</field>
 <field name="year">1996</field>
 <field name="date">January 13, 1996</field>
 <field name="librettist">Jela Krčméry-Vrtelová</field>
-<field name="librettistsort">Krčméry-Vrtelová, Jela</field>
+<field name="librettistSort">Krčméry-Vrtelová, Jela</field>
 <field name="theater">Slovenské Narodné Divadlo</field>
 <field name="city">Bratislava</field>
 <field name="country">Slovakia</field>

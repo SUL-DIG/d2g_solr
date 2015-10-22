@@ -3,13 +3,13 @@
 <field name="id">19961180</field>
 <field name="genre">Operas</field>
 <field name="title">In hoc Signo</field>
-<field name="titlesort">In hoc Signo</field>
+<field name="titleSort">In hoc Signo</field>
 <field name="composer">Marco Frisina</field>
-<field name="composersort">Frisina, Marco</field>
+<field name="composerSort">Frisina, Marco</field>
 <field name="year">2013</field>
 <field name="date">October 8, 2013</field>
 <field name="librettist">Marco Frisina</field>
-<field name="librettistsort">Frisina, Marco</field>
+<field name="librettistSort">Frisina, Marco</field>
 <field name="theater">Narodno Pozorista</field>
 <field name="city">Belgrade</field>
 <field name="country">Serbia</field>

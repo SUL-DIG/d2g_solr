@@ -3,13 +3,13 @@
 <field name="id">19962779</field>
 <field name="genre">Operas</field>
 <field name="title">The Sweeper of Dreams</field>
-<field name="titlesort">Sweeper of Dreams</field>
+<field name="titleSort">Sweeper of Dreams</field>
 <field name="composer">Omar Shahryar</field>
-<field name="composersort">Shahryar, Omar</field>
+<field name="composerSort">Shahryar, Omar</field>
 <field name="year">2014</field>
 <field name="date">July 31, 2014</field>
 <field name="librettist">Elizabeth Adlington</field>
-<field name="librettistsort">Adlington, Elizabeth</field>
+<field name="librettistSort">Adlington, Elizabeth</field>
 <field name="theater">Central Saint Martins, King's Cross</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

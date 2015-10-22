@@ -3,13 +3,13 @@
 <field name="id">19960803</field>
 <field name="genre">Operas</field>
 <field name="title">Endlich Schluss (Finished At Last)</field>
-<field name="titlesort">Endlich Schluss (Finished At Last)</field>
+<field name="titleSort">Endlich Schluss (Finished At Last)</field>
 <field name="composer">Wolfram Wagner</field>
-<field name="composersort">Wagner, Wolfram</field>
+<field name="composerSort">Wagner, Wolfram</field>
 <field name="year">2003</field>
 <field name="date">September 13, 2003</field>
 <field name="librettist">Peter Turrini</field>
-<field name="librettistsort">Turrini, Peter</field>
+<field name="librettistSort">Turrini, Peter</field>
 <field name="theater">Neue Oper Wien</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

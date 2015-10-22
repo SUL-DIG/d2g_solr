@@ -3,13 +3,13 @@
 <field name="id">19961864</field>
 <field name="genre">Operas</field>
 <field name="title">O viajante das lendas amazônicas</field>
-<field name="titlesort">viajante das lendas amazônicas</field>
+<field name="titleSort">viajante das lendas amazônicas</field>
 <field name="composer">Serguei  Firsanov</field>
-<field name="composersort">Firsanov, Serguei</field>
+<field name="composerSort">Firsanov, Serguei</field>
 <field name="year">2007</field>
 <field name="date">September 13, 2007</field>
 <field name="librettist">João Jesus Paes Loureiro</field>
-<field name="librettistsort">Loureiro, João Jesus Paes</field>
+<field name="librettistSort">Loureiro, João Jesus Paes</field>
 <field name="theater">Theatro da Paz</field>
 <field name="city">Belém</field>
 <field name="region">Pará</field>

@@ -3,13 +3,13 @@
 <field name="id">19961934</field>
 <field name="genre">Operas</field>
 <field name="title">Our American Cousin</field>
-<field name="titlesort">Our American Cousin</field>
+<field name="titleSort">Our American Cousin</field>
 <field name="composer">Eric Sawyer</field>
-<field name="composersort">Sawyer, Eric</field>
+<field name="composerSort">Sawyer, Eric</field>
 <field name="year">2008</field>
 <field name="date">June 20, 2008</field>
 <field name="librettist">John Shoptaw</field>
-<field name="librettistsort">Shoptaw, John</field>
+<field name="librettistSort">Shoptaw, John</field>
 <field name="theater">Academy of Music </field>
 <field name="city">Northampton</field>
 <field name="region">Massachusetts</field>

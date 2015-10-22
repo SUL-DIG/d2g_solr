@@ -3,13 +3,13 @@
 <field name="id">19961689</field>
 <field name="genre">Operas</field>
 <field name="title">Matilda ja Nikolai</field>
-<field name="titlesort">Matilda ja Nikolai</field>
+<field name="titleSort">Matilda ja Nikolai</field>
 <field name="composer">lkka Kuusisto</field>
-<field name="composersort">Kuusisto, Ilkka</field>
+<field name="composerSort">Kuusisto, Ilkka</field>
 <field name="year">2004</field>
 <field name="date">October 22, 2004</field>
 <field name="librettist">Arvo Salo</field>
-<field name="librettistsort">Salo, Arvo</field>
+<field name="librettistSort">Salo, Arvo</field>
 <field name="theater">Promenadi Hall</field>
 <field name="city">Pori</field>
 <field name="region">Satakunta</field>

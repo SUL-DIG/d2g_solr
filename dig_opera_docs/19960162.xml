@@ -3,13 +3,13 @@
 <field name="id">19960162</field>
 <field name="genre">Operas</field>
 <field name="title">Ang Mahiwagang Hardin (The Garden of Happiness)</field>
-<field name="titlesort">Mahiwagang Hardin (The Garden of Happiness)</field>
+<field name="titleSort">Mahiwagang Hardin (The Garden of Happiness)</field>
 <field name="composer">Ramon Pagayon Santos</field>
-<field name="composersort">Santos, Ramon Pagayon</field>
+<field name="composerSort">Santos, Ramon Pagayon</field>
 <field name="year">2011</field>
 <field name="date">August 4, 2011</field>
 <field name="librettist">Ramon Pagayon Santos</field>
-<field name="librettistsort">Santos, Ramon Pagayon</field>
+<field name="librettistSort">Santos, Ramon Pagayon</field>
 <field name="theater">University of the Philippines</field>
 <field name="city">Manila</field>
 <field name="country">Philippines</field>

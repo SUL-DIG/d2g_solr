@@ -3,13 +3,13 @@
 <field name="id">19960859</field>
 <field name="genre">Operas</field>
 <field name="title">Fanny und Schraube</field>
-<field name="titlesort">Fanny und Schraube</field>
+<field name="titleSort">Fanny und Schraube</field>
 <field name="composer">Jan Müller-Wieland</field>
-<field name="composersort">Müller-Wieland, Jan</field>
+<field name="composerSort">Müller-Wieland, Jan</field>
 <field name="year">2009</field>
 <field name="date">August 27, 2009</field>
 <field name="librettist">Kai Ivo Baulitz</field>
-<field name="librettistsort">Baulitz, Kai Ivo</field>
+<field name="librettistSort">Baulitz, Kai Ivo</field>
 <field name="theater">Neuköllner Oper</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>

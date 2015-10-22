@@ -3,9 +3,9 @@
 <field name="id">19961765</field>
 <field name="genre">Operas</field>
 <field name="title">Motel Abandon</field>
-<field name="titlesort">Motel Abandon</field>
+<field name="titleSort">Motel Abandon</field>
 <field name="composer">Jennifer Walshe</field>
-<field name="composersort">Walshe, Jennifer</field>
+<field name="composerSort">Walshe, Jennifer</field>
 <field name="year">2005</field>
 <field name="date">November 11, 2005</field>
 <field name="theater">DAAD Berliner Kunstlerprogramm Apartment in Storkwinkel</field>

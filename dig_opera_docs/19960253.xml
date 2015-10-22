@@ -3,13 +3,13 @@
 <field name="id">19960253</field>
 <field name="genre">Oratorio</field>
 <field name="title">Babel,n</field>
-<field name="titlesort">Babel,n</field>
+<field name="titleSort">Babel,n</field>
 <field name="composer">Walther Soyka</field>
-<field name="composersort">Soyka, Walther</field>
+<field name="composerSort">Soyka, Walther</field>
 <field name="year">2004</field>
 <field name="date">October 20, 2004</field>
 <field name="librettist">Ferdinand Schmatz</field>
-<field name="librettistsort">Schmatz, Ferdinand</field>
+<field name="librettistSort">Schmatz, Ferdinand</field>
 <field name="theater">Kunsthaus Muerz</field>
 <field name="city">Mürzzuschlag</field>
 <field name="region">Steiermark</field>

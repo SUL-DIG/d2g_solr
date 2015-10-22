@@ -3,13 +3,13 @@
 <field name="id">19960369</field>
 <field name="genre">Operas</field>
 <field name="title">Büchners Frauen</field>
-<field name="titlesort">Büchners Frauen</field>
+<field name="titleSort">Büchners Frauen</field>
 <field name="composer">Paul Leonard Schäffer</field>
-<field name="composersort">Schäffer, Paul Leonard</field>
+<field name="composerSort">Schäffer, Paul Leonard</field>
 <field name="year">2013</field>
 <field name="date">May 24, 2013</field>
 <field name="librettist">Georg Büchner</field>
-<field name="librettistsort">Büchner, Georg</field>
+<field name="librettistSort">Büchner, Georg</field>
 <field name="theater">Hessisches Staatstheater</field>
 <field name="city">Wiesbaden</field>
 <field name="region">Hessen</field>

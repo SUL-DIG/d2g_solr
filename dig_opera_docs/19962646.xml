@@ -3,12 +3,12 @@
 <field name="id">19962646</field>
 <field name="genre">Operas</field>
 <field name="title">The Mask of Eleanor</field>
-<field name="titlesort">Mask of Eleanor</field>
+<field name="titleSort">Mask of Eleanor</field>
 <field name="composer">Beverly Grigsby</field>
-<field name="composersort">Grigsby, Beverly</field>
+<field name="composerSort">Grigsby, Beverly</field>
 <field name="year">1984</field>
 <field name="librettist">Beverly Grigsby</field>
-<field name="librettistsort">Grigsby, Beverly</field>
+<field name="librettistSort">Grigsby, Beverly</field>
 <field name="theater">Théâtre le Ranelagh</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

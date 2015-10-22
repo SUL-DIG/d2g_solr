@@ -3,13 +3,13 @@
 <field name="id">19962200</field>
 <field name="genre">Operas</field>
 <field name="title">Sacco and Vanzetti</field>
-<field name="titlesort">Sacco and Vanzetti</field>
+<field name="titleSort">Sacco and Vanzetti</field>
 <field name="composer">Anton Coppola</field>
-<field name="composersort">Coppola, Anton</field>
+<field name="composerSort">Coppola, Anton</field>
 <field name="year">2001</field>
 <field name="date">March 16, 2001</field>
 <field name="librettist">Anton Coppola</field>
-<field name="librettistsort">Coppola, Anton</field>
+<field name="librettistSort">Coppola, Anton</field>
 <field name="theater">Straz Center for the Performing Arts</field>
 <field name="city">Tampa</field>
 <field name="region">Florida</field>

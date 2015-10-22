@@ -3,13 +3,13 @@
 <field name="id">19962371</field>
 <field name="genre">Operas</field>
 <field name="title">Strawberry Fields</field>
-<field name="titlesort">Strawberry Fields</field>
+<field name="titleSort">Strawberry Fields</field>
 <field name="composer">Michael Torke</field>
-<field name="composersort">Torke, Michael</field>
+<field name="composerSort">Torke, Michael</field>
 <field name="year">1999</field>
 <field name="date">July 24, 1999</field>
 <field name="librettist">Albert Ramsdell Gurney</field>
-<field name="librettistsort">Gurney, Albert Ramsdell</field>
+<field name="librettistSort">Gurney, Albert Ramsdell</field>
 <field name="theater">Glimmerglass Opera</field>
 <field name="city">Cooperstown</field>
 <field name="region">New York</field>

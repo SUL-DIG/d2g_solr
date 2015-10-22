@@ -3,13 +3,13 @@
 <field name="id">19962988</field>
 <field name="genre">Operas</field>
 <field name="title">Vera of Las Vegas</field>
-<field name="titlesort">Vera of Las Vegas</field>
+<field name="titleSort">Vera of Las Vegas</field>
 <field name="composer">Daron Hagen</field>
-<field name="composersort">Hagen, Daron</field>
+<field name="composerSort">Hagen, Daron</field>
 <field name="year">2003</field>
 <field name="date">June 26, 2003</field>
 <field name="librettist">Paul Muldoon</field>
-<field name="librettistsort">Muldoon, Paul</field>
+<field name="librettistSort">Muldoon, Paul</field>
 <field name="theater">Symphony Space</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

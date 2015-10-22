@@ -3,12 +3,12 @@
 <field name="id">19960779</field>
 <field name="genre">Operas</field>
 <field name="title">El romance de doña Balada</field>
-<field name="titlesort">romance de doña Balada</field>
+<field name="titleSort">romance de doña Balada</field>
 <field name="composer">Alicia Urreta</field>
-<field name="composersort">Urreta, Alicia</field>
+<field name="composerSort">Urreta, Alicia</field>
 <field name="year">1974</field>
 <field name="librettist">Alicia Urreta</field>
-<field name="librettistsort">Urreta, Alicia</field>
+<field name="librettistSort">Urreta, Alicia</field>
 <field name="theater">Centro Cultural El Ágora</field>
 <field name="city">Villahermosa</field>
 <field name="region">Tabasco</field>

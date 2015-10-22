@@ -3,12 +3,12 @@
 <field name="id">19960697</field>
 <field name="genre">Operas</field>
 <field name="title">Dorp zonder muziek</field>
-<field name="titlesort">Dorp zonder muziek</field>
+<field name="titleSort">Dorp zonder muziek</field>
 <field name="composer">Tera de Marez Oyens</field>
-<field name="composersort">Marez Oyens, Tera de</field>
+<field name="composerSort">Marez Oyens, Tera de</field>
 <field name="year">1960</field>
 <field name="librettist">Hans Andreus</field>
-<field name="librettistsort">Andreus, Hans</field>
+<field name="librettistSort">Andreus, Hans</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dorp+zonder+muziek+Tera+de+Marez+Oyens&amp;search_field=search</field>
 </doc>
 </add>

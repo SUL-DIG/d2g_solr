@@ -3,9 +3,9 @@
 <field name="id">19962023</field>
 <field name="genre">Operas</field>
 <field name="title">Pnima ... ins Innere</field>
-<field name="titlesort">Pnima ... ins Innere</field>
+<field name="titleSort">Pnima ... ins Innere</field>
 <field name="composer">Chaya Czernowin</field>
-<field name="composersort">Czernowin, Chaya</field>
+<field name="composerSort">Czernowin, Chaya</field>
 <field name="year">2000</field>
 <field name="date">May 10, 2000</field>
 <field name="theater">Biennale</field>

@@ -3,13 +3,13 @@
 <field name="id">19960760</field>
 <field name="genre">Operas</field>
 <field name="title">Einstein in Amerika</field>
-<field name="titlesort">Einstein in Amerika</field>
+<field name="titleSort">Einstein in Amerika</field>
 <field name="composer">Dirk D'Ase</field>
-<field name="composersort">D'Ase, Dirk</field>
+<field name="composerSort">D'Ase, Dirk</field>
 <field name="year">2004</field>
 <field name="date">March 18, 2004</field>
 <field name="librettist">Gustav Ernst</field>
-<field name="librettistsort">Ernst, Gustav</field>
+<field name="librettistSort">Ernst, Gustav</field>
 <field name="theater">Theater der Stadt</field>
 <field name="city">Ulm</field>
 <field name="region">Baden-Württemberg</field>

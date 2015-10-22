@@ -3,13 +3,13 @@
 <field name="id">19961346</field>
 <field name="genre">Operas</field>
 <field name="title">Kunsten at vaelge (The Art of Choosing)</field>
-<field name="titlesort">Kunsten at vaelge (The Art of Choosing)</field>
+<field name="titleSort">Kunsten at vaelge (The Art of Choosing)</field>
 <field name="composer">Peter Bruun</field>
-<field name="composersort">Bruun, Peter</field>
+<field name="composerSort">Bruun, Peter</field>
 <field name="year">2006</field>
 <field name="date">March 21, 2006</field>
 <field name="librettist">Ursula Andkjaer Olsen</field>
-<field name="librettistsort">Andkjaer Olsen, Ursula</field>
+<field name="librettistSort">Andkjaer Olsen, Ursula</field>
 <field name="theater">Limfjordsteatret</field>
 <field name="city">Nykøbing Mors</field>
 <field name="region">Nordjylland</field>

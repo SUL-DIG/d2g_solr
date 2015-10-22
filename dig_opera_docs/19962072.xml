@@ -3,13 +3,13 @@
 <field name="id">19962072</field>
 <field name="genre">Operas</field>
 <field name="title">Pusila</field>
-<field name="titlesort">Pusila</field>
+<field name="titleSort">Pusila</field>
 <field name="composer">Will Todd</field>
-<field name="composersort">Todd, Will</field>
+<field name="composerSort">Todd, Will</field>
 <field name="year">2008</field>
 <field name="date">September 19, 2008</field>
 <field name="librettist">Ben Dunwell</field>
-<field name="librettistsort">Dunwell, Ben</field>
+<field name="librettistSort">Dunwell, Ben</field>
 <field name="theater">The Jerwood Space</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

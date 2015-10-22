@@ -3,13 +3,13 @@
 <field name="id">19960869</field>
 <field name="genre">Operas</field>
 <field name="title">Faust a Manhattan</field>
-<field name="titlesort">Faust a Manhattan</field>
+<field name="titleSort">Faust a Manhattan</field>
 <field name="composer">Mario Nascimbene</field>
-<field name="composersort">Nascimbene, Mario</field>
+<field name="composerSort">Nascimbene, Mario</field>
 <field name="year">1965</field>
 <field name="date">January 12, 1965</field>
 <field name="librettist">Luigi Candoni</field>
-<field name="librettistsort">Candoni, Luigi</field>
+<field name="librettistSort">Candoni, Luigi</field>
 <field name="theater">RAI Television (Radiotelevisione Italiana)</field>
 <field name="city">Roma</field>
 <field name="region">Lazio</field>

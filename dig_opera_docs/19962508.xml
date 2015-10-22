@@ -3,13 +3,13 @@
 <field name="id">19962508</field>
 <field name="genre">Operas</field>
 <field name="title">The Death of Webern</field>
-<field name="titlesort">Death of Webern</field>
+<field name="titleSort">Death of Webern</field>
 <field name="composer">Michael Dellaira</field>
-<field name="composersort">Dellaira, Michael</field>
+<field name="composerSort">Dellaira, Michael</field>
 <field name="year">2013</field>
 <field name="date">October 10, 2013</field>
 <field name="librettist">Joseph Donald McClatchy</field>
-<field name="librettistsort">McClatchy, Joseph Donald</field>
+<field name="librettistSort">McClatchy, Joseph Donald</field>
 <field name="theater">Symphony Space</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

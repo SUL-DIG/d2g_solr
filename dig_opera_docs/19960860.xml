@@ -3,13 +3,13 @@
 <field name="id">19960860</field>
 <field name="genre">Operas</field>
 <field name="title">Fantochines</field>
-<field name="titlesort">Fantochines</field>
+<field name="titleSort">Fantochines</field>
 <field name="composer">Conrado del Campo</field>
-<field name="composersort">Campo, Conrado del</field>
+<field name="composerSort">Campo, Conrado del</field>
 <field name="year">1923</field>
 <field name="date">November 21, 1923</field>
 <field name="librettist">Tomás Borrás</field>
-<field name="librettistsort">Borrás, Tomás</field>
+<field name="librettistSort">Borrás, Tomás</field>
 <field name="theater">Teatro de la Comedia</field>
 <field name="city">Madrid</field>
 <field name="region">Madrid</field>

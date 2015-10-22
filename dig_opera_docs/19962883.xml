@@ -3,13 +3,13 @@
 <field name="id">19962883</field>
 <field name="genre">Operas</field>
 <field name="title">Tjuvens pekfinger (The Thief's Pointing Finger)</field>
-<field name="titlesort">Tjuvens pekfinger (The Thief's Pointing Finger)</field>
+<field name="titleSort">Tjuvens pekfinger (The Thief's Pointing Finger)</field>
 <field name="composer">Sven-Eric Johanson</field>
-<field name="composersort">Johanson, Sven-Eric</field>
+<field name="composerSort">Johanson, Sven-Eric</field>
 <field name="year">1983</field>
 <field name="date">January 14, 1983</field>
 <field name="librettist">Carl Johan Holzhausen</field>
-<field name="librettistsort">Holzhausen, Carl Johan</field>
+<field name="librettistSort">Holzhausen, Carl Johan</field>
 <field name="theater">Ny Scen</field>
 <field name="city">Göteborg</field>
 <field name="region">Göteborg och Bohus</field>

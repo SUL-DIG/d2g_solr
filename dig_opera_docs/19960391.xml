@@ -3,12 +3,12 @@
 <field name="id">19960391</field>
 <field name="genre">Operas</field>
 <field name="title">Cankarjev dom</field>
-<field name="titlesort">Cankarjev dom</field>
+<field name="titleSort">Cankarjev dom</field>
 <field name="composer">Tomaž Svete</field>
-<field name="composersort">Svete, Tomaž </field>
+<field name="composerSort">Svete, Tomaž </field>
 <field name="year">1994</field>
 <field name="librettist">Tomaž Svete</field>
-<field name="librettistsort">Svete, Tomaž </field>
+<field name="librettistSort">Svete, Tomaž </field>
 <field name="theater">Radio Ljubljana</field>
 <field name="city">Ljubljana</field>
 <field name="country">Slovenia</field>

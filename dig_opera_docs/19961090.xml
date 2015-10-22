@@ -3,13 +3,13 @@
 <field name="id">19961090</field>
 <field name="genre">Operas</field>
 <field name="title">Hinter Masken</field>
-<field name="titlesort">Hinter Masken</field>
+<field name="titleSort">Hinter Masken</field>
 <field name="composer">Anno Schreier</field>
-<field name="composersort">Schreier, Anno</field>
+<field name="composerSort">Schreier, Anno</field>
 <field name="year">2009</field>
 <field name="date">January 23, 2009</field>
 <field name="librettist">Anno Schreier</field>
-<field name="librettistsort">Schreier, Anno</field>
+<field name="librettistSort">Schreier, Anno</field>
 <field name="theater">Opernhaus</field>
 <field name="city">Zürich</field>
 <field name="region">Zürich</field>

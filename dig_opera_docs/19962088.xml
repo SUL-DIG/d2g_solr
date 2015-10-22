@@ -3,12 +3,12 @@
 <field name="id">19962088</field>
 <field name="genre">Operas</field>
 <field name="title">Quiché Vinak</field>
-<field name="titlesort">Quiché Vinak</field>
+<field name="titleSort">Quiché Vinak</field>
 <field name="composer">Jesús Castillo</field>
-<field name="composersort">Castillo, Jesús</field>
+<field name="composerSort">Castillo, Jesús</field>
 <field name="year">1924</field>
 <field name="librettist">Virgilio Rodríguez Beteta</field>
-<field name="librettistsort">Rodríguez Beteta, Virgilio</field>
+<field name="librettistSort">Rodríguez Beteta, Virgilio</field>
 <field name="theater">Teatro Abril</field>
 <field name="city">Guatemala City</field>
 <field name="country">Guatemala</field>

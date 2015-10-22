@@ -3,13 +3,13 @@
 <field name="id">19960540</field>
 <field name="genre">Operas</field>
 <field name="title">Defendants Rosenberg</field>
-<field name="titlesort">Defendants Rosenberg</field>
+<field name="titleSort">Defendants Rosenberg</field>
 <field name="composer">Ari Benjamin Meyers</field>
-<field name="composersort">Meyers, Ari Benjamin</field>
+<field name="composerSort">Meyers, Ari Benjamin</field>
 <field name="year">1999</field>
 <field name="date">December 11, 1999</field>
 <field name="librettist">Ari Benjamin Meyers</field>
-<field name="librettistsort">Meyers, Ari Benjamin</field>
+<field name="librettistSort">Meyers, Ari Benjamin</field>
 <field name="theater">Stadttheater</field>
 <field name="city">Magdeburg</field>
 <field name="region">Sachsen-Anhalt</field>

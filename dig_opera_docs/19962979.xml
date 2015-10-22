@@ -3,13 +3,13 @@
 <field name="id">19962979</field>
 <field name="genre">Operas</field>
 <field name="title">Vapauden vanki</field>
-<field name="titlesort">Vapauden vanki</field>
+<field name="titleSort">Vapauden vanki</field>
 <field name="composer">lkka Kuusisto</field>
-<field name="composersort">Kuusisto, Ilkka</field>
+<field name="composerSort">Kuusisto, Ilkka</field>
 <field name="year">2007</field>
 <field name="date">July 1, 2007</field>
 <field name="librettist">Markus Nummi</field>
-<field name="librettistsort">Nummi, Markus</field>
+<field name="librettistSort">Nummi, Markus</field>
 <field name="city">Huittinen</field>
 <field name="region">Satakunta</field>
 <field name="country">Finland</field>

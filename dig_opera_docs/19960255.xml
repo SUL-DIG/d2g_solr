@@ -3,13 +3,13 @@
 <field name="id">19960255</field>
 <field name="genre">Operas</field>
 <field name="title">Babur in London</field>
-<field name="titlesort">Babur in London</field>
+<field name="titleSort">Babur in London</field>
 <field name="composer">Edward Rushton</field>
-<field name="composersort">Rushton, Edward</field>
+<field name="composerSort">Rushton, Edward</field>
 <field name="year">2012</field>
 <field name="date">March 28, 2012</field>
 <field name="librettist">Jeet Tahil</field>
-<field name="librettistsort">Tahil, Jeet</field>
+<field name="librettistSort">Tahil, Jeet</field>
 <field name="theater">Theater Rigiblick</field>
 <field name="city">Zürich</field>
 <field name="region">Zürich</field>

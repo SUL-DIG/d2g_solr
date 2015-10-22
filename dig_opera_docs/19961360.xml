@@ -3,13 +3,13 @@
 <field name="id">19961360</field>
 <field name="genre">Operas</field>
 <field name="title">L'eau</field>
-<field name="titlesort">eau</field>
+<field name="titleSort">eau</field>
 <field name="composer">Ahmed Essyad</field>
-<field name="composersort">Essyad, Ahmed</field>
+<field name="composerSort">Essyad, Ahmed</field>
 <field name="year">1985</field>
 <field name="date">March 21, 1985</field>
 <field name="librettist">Tahar Ben Jelloun</field>
-<field name="librettistsort">Ben Jelloun, Tahar</field>
+<field name="librettistSort">Ben Jelloun, Tahar</field>
 <field name="theater">Radio France</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

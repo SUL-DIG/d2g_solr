@@ -3,13 +3,13 @@
 <field name="id">19960749</field>
 <field name="genre">Operas</field>
 <field name="title">Education of the Girlchild</field>
-<field name="titlesort">Education of the Girlchild</field>
+<field name="titleSort">Education of the Girlchild</field>
 <field name="composer">Meredith Monk</field>
-<field name="composersort">Monk, Meredith</field>
+<field name="composerSort">Monk, Meredith</field>
 <field name="year">1973</field>
 <field name="date">November 1, 1973</field>
 <field name="librettist">Meredith Monk</field>
-<field name="librettistsort">Monk, Meredith</field>
+<field name="librettistSort">Monk, Meredith</field>
 <field name="theater">Cathedral of St. John the Divine</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

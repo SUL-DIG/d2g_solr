@@ -3,13 +3,13 @@
 <field name="id">19961660</field>
 <field name="genre">Operas</field>
 <field name="title">Maria Theresia</field>
-<field name="titlesort">Maria Theresia</field>
+<field name="titleSort">Maria Theresia</field>
 <field name="composer">Roland Baumgartner</field>
-<field name="composersort">Baumgartner, Roland</field>
+<field name="composerSort">Baumgartner, Roland</field>
 <field name="year">2012</field>
 <field name="date">October 11, 2012</field>
 <field name="librettist">Rainer Lewandowski</field>
-<field name="librettistsort">Lewandowski, Rainer</field>
+<field name="librettistSort">Lewandowski, Rainer</field>
 <field name="theater">Slovenské Narodné Divadlo</field>
 <field name="city">Bratislava</field>
 <field name="country">Slovakia</field>

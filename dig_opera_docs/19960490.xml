@@ -3,13 +3,13 @@
 <field name="id">19960490</field>
 <field name="genre">Operas</field>
 <field name="title">Daphne at Sea</field>
-<field name="titlesort">Daphne at Sea</field>
+<field name="titleSort">Daphne at Sea</field>
 <field name="composer">Charles Norman Mason</field>
-<field name="composersort">Mason, Charles Norman</field>
+<field name="composerSort">Mason, Charles Norman</field>
 <field name="year">2000</field>
 <field name="date">April 13, 2000</field>
 <field name="librettist">Sally M. Gall</field>
-<field name="librettistsort">Gall, Sally M.</field>
+<field name="librettistSort">Gall, Sally M.</field>
 <field name="theater">Birmingham-Southern College</field>
 <field name="city">Birmingham</field>
 <field name="region">Alabama</field>

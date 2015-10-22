@@ -3,13 +3,13 @@
 <field name="id">19960201</field>
 <field name="genre">Operas</field>
 <field name="title">Arkadia V - Pnevmatiko embatirio</field>
-<field name="titlesort">Arkadia V - Pnevmatiko embatirio</field>
+<field name="titleSort">Arkadia V - Pnevmatiko embatirio</field>
 <field name="composer">Mikis Theodorakes</field>
-<field name="composersort">Theodorakes, Mikis</field>
+<field name="composerSort">Theodorakes, Mikis</field>
 <field name="year">1970</field>
 <field name="date">June 28, 1970</field>
 <field name="librettist">Angelos Sikelianos</field>
-<field name="librettistsort">Sikelianos, Angelos</field>
+<field name="librettistSort">Sikelianos, Angelos</field>
 <field name="theater">Albert Hall</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

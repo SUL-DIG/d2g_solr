@@ -3,13 +3,13 @@
 <field name="id">19960690</field>
 <field name="genre">Operas</field>
 <field name="title">Don Perlimplín</field>
-<field name="titlesort">Don Perlimplín</field>
+<field name="titleSort">Don Perlimplín</field>
 <field name="composer">János Vajda</field>
-<field name="composersort">Vajda, János</field>
+<field name="composerSort">Vajda, János</field>
 <field name="year">2013</field>
 <field name="date">November 22, 2013</field>
 <field name="librettist">Federico García Lorca</field>
-<field name="librettistsort">García Lorca, Federico</field>
+<field name="librettistSort">García Lorca, Federico</field>
 <field name="theater">Csokonai Nemzeti Színház</field>
 <field name="city">Debrecen</field>
 <field name="region">Hajdú-Bihar</field>

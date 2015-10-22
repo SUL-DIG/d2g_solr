@@ -3,13 +3,13 @@
 <field name="id">19961308</field>
 <field name="genre">Operas</field>
 <field name="title">Khairos</field>
-<field name="titlesort">Khairos</field>
+<field name="titleSort">Khairos</field>
 <field name="composer">Knut Vaage</field>
-<field name="composersort">Vaage, Knut</field>
+<field name="composerSort">Vaage, Knut</field>
 <field name="year">2013</field>
 <field name="date">May 10, 2013</field>
 <field name="librettist">Torgeir Rebolledo Pedersen</field>
-<field name="librettistsort">Pedersen, Torgeir Rebolledo</field>
+<field name="librettistSort">Pedersen, Torgeir Rebolledo</field>
 <field name="theater">Den Nye Opera</field>
 <field name="city">Bergen</field>
 <field name="region">Hordaland</field>

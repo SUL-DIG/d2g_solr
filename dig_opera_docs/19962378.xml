@@ -3,13 +3,13 @@
 <field name="id">19962378</field>
 <field name="genre">Operas</field>
 <field name="title">Sub Pontio Pilato</field>
-<field name="titlesort">Sub Pontio Pilato</field>
+<field name="titleSort">Sub Pontio Pilato</field>
 <field name="composer">Erling Wold</field>
-<field name="composersort">Wold, Erling</field>
+<field name="composerSort">Wold, Erling</field>
 <field name="year">2003</field>
 <field name="date">April 10, 2003</field>
 <field name="librettist">James Bisso</field>
-<field name="librettistsort">Bisso, James</field>
+<field name="librettistSort">Bisso, James</field>
 <field name="theater">ODC Theater</field>
 <field name="city">San Francisco</field>
 <field name="region">California</field>

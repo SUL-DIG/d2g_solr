@@ -3,13 +3,13 @@
 <field name="id">19960028</field>
 <field name="genre">Operas</field>
 <field name="title">A Creature of Habit</field>
-<field name="titlesort">Creature of Habit</field>
+<field name="titleSort">Creature of Habit</field>
 <field name="composer">Dean Burry</field>
-<field name="composersort">Burry, Dean</field>
+<field name="composerSort">Burry, Dean</field>
 <field name="year">2009</field>
 <field name="date">July 16, 2009</field>
 <field name="librettist">Dean Burry</field>
-<field name="librettistsort">Burry, Dean</field>
+<field name="librettistSort">Burry, Dean</field>
 <field name="theater">Rising Tide Theatre</field>
 <field name="city">Trinity</field>
 <field name="region">Newfoundland</field>

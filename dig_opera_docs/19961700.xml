@@ -3,13 +3,13 @@
 <field name="id">19961700</field>
 <field name="genre">Operas</field>
 <field name="title">McGonagall-Lieder</field>
-<field name="titlesort">McGonagall-Lieder</field>
+<field name="titleSort">McGonagall-Lieder</field>
 <field name="composer">Robert Zuidam</field>
-<field name="composersort">Zuidam, Robert</field>
+<field name="composerSort">Zuidam, Robert</field>
 <field name="year">2005</field>
 <field name="date">June 17, 2005</field>
 <field name="librettist">William McGonagall</field>
-<field name="librettistsort">McGonagall, William</field>
+<field name="librettistSort">McGonagall, William</field>
 <field name="theater">Stadsschouwburg</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>

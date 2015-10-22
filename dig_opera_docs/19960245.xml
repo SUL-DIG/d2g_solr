@@ -3,9 +3,9 @@
 <field name="id">19960245</field>
 <field name="genre">Operas</field>
 <field name="title">Ay zavala Ahmed! (Ah, What about Ahmed!)</field>
-<field name="titlesort">Ay zavala Ahmed! (Ah, What about Ahmed!)</field>
+<field name="titleSort">Ay zavala Ahmed! (Ah, What about Ahmed!)</field>
 <field name="composer">Asen Karastoyanov</field>
-<field name="composersort">Karastoyanov, Asen</field>
+<field name="composerSort">Karastoyanov, Asen</field>
 <field name="year">1937</field>
 <field name="city">Sofia</field>
 <field name="country">Bulgaria</field>

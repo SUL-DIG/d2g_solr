@@ -3,13 +3,13 @@
 <field name="id">19963082</field>
 <field name="genre">Operas</field>
 <field name="title">Yo soy la desintegració</field>
-<field name="titlesort">Yo soy la desintegració</field>
+<field name="titleSort">Yo soy la desintegració</field>
 <field name="composer">Jean Piché</field>
-<field name="composersort">Piché, Jean</field>
+<field name="composerSort">Piché, Jean</field>
 <field name="year">1997</field>
 <field name="date">September 9, 1997</field>
 <field name="librettist">Yan Muckle</field>
-<field name="librettistsort">Muckle, Yan</field>
+<field name="librettistSort">Muckle, Yan</field>
 <field name="theater">Théâtre Espace Go</field>
 <field name="city">Montreal</field>
 <field name="region">Quebec</field>

@@ -3,12 +3,12 @@
 <field name="id">19960027</field>
 <field name="genre">Operas</field>
 <field name="title">A Copper Complication</field>
-<field name="titlesort">Copper Complication</field>
+<field name="titleSort">Copper Complication</field>
 <field name="composer">Mabel Wheeler Daniels</field>
-<field name="composersort">Daniels, Mabel Wheeler</field>
+<field name="composerSort">Daniels, Mabel Wheeler</field>
 <field name="year">1900</field>
 <field name="librettist">Rebecca Lane Hooper</field>
-<field name="librettistsort">Hooper, Rebecca Lane</field>
+<field name="librettistSort">Hooper, Rebecca Lane</field>
 <field name="theater">Radcliffe College</field>
 <field name="city">Cambridge</field>
 <field name="region">Massachusetts</field>

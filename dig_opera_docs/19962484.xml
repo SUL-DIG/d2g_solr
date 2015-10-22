@@ -3,13 +3,13 @@
 <field name="id">19962484</field>
 <field name="genre">Operas</field>
 <field name="title">The Cenci</field>
-<field name="titlesort">Cenci</field>
+<field name="titleSort">Cenci</field>
 <field name="composer">Havergal Brian</field>
-<field name="composersort">Brian, Havergal</field>
+<field name="composerSort">Brian, Havergal</field>
 <field name="year">1997</field>
 <field name="date">December 12, 1997</field>
 <field name="librettist">Percy Bysshe Shelley</field>
-<field name="librettistsort">Shelley, Percy Bysshe</field>
+<field name="librettistSort">Shelley, Percy Bysshe</field>
 <field name="theater">Queen Elizabeth Hall</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

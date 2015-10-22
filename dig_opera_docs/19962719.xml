@@ -3,13 +3,13 @@
 <field name="id">19962719</field>
 <field name="genre">Operas</field>
 <field name="title">The Refuge</field>
-<field name="titlesort">Refuge</field>
+<field name="titleSort">Refuge</field>
 <field name="composer">Christopher Theofanidis</field>
-<field name="composersort">Theofanidis, Christopher</field>
+<field name="composerSort">Theofanidis, Christopher</field>
 <field name="year">2007</field>
 <field name="date">November 10, 2007</field>
 <field name="librettist">Leah Lax</field>
-<field name="librettistsort">Lax, Leah</field>
+<field name="librettistSort">Lax, Leah</field>
 <field name="theater">Grand Opera</field>
 <field name="city">Houston</field>
 <field name="region">Texas</field>

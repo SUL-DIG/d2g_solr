@@ -3,13 +3,13 @@
 <field name="id">19961143</field>
 <field name="genre">Operas</field>
 <field name="title">Ich bin Rita </field>
-<field name="titlesort">Ich bin Rita </field>
+<field name="titleSort">Ich bin Rita </field>
 <field name="composer">Detlev Glanert</field>
-<field name="composersort">Glanert, Detlev</field>
+<field name="composerSort">Glanert, Detlev</field>
 <field name="year">2003</field>
 <field name="date">November 15, 2003</field>
 <field name="librettist">Elke Heidenreich</field>
-<field name="librettistsort">Heidenreich, Elke</field>
+<field name="librettistSort">Heidenreich, Elke</field>
 <field name="theater">Opera der Stadt Yakult-Halle</field>
 <field name="city">Cologne</field>
 <field name="region">Nordrhein-Westfallen</field>

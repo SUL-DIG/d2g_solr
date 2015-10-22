@@ -3,13 +3,13 @@
 <field name="id">19961724</field>
 <field name="genre">Operas</field>
 <field name="title">Mi diva sin mí</field>
-<field name="titlesort">Mi diva sin mí</field>
+<field name="titleSort">Mi diva sin mí</field>
 <field name="composer">Pilar Jurado</field>
-<field name="composersort">Jurado, Pilar</field>
+<field name="composerSort">Jurado, Pilar</field>
 <field name="year">2013</field>
 <field name="date">June 27, 2013</field>
 <field name="librettist">Eloy Arenas</field>
-<field name="librettistsort">Arenas, Eloy</field>
+<field name="librettistSort">Arenas, Eloy</field>
 <field name="theater">Teatro de la Zarzuela</field>
 <field name="city">Madrid</field>
 <field name="region">Madrid</field>

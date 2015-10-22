@@ -3,13 +3,13 @@
 <field name="id">19961496</field>
 <field name="genre">Operas</field>
 <field name="title">Le souper</field>
-<field name="titlesort">souper</field>
+<field name="titleSort">souper</field>
 <field name="composer">Marius Constant</field>
-<field name="composersort">Constant, Marius</field>
+<field name="composerSort">Constant, Marius</field>
 <field name="year">1969</field>
 <field name="date">September 9, 1969</field>
 <field name="librettist">Jean Tardieu</field>
-<field name="librettistsort">Tardieu, Jean</field>
+<field name="librettistSort">Tardieu, Jean</field>
 <field name="theater">Festival international</field>
 <field name="city">Besançon</field>
 <field name="region">Franche-Comté</field>

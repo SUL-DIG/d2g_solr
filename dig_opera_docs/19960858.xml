@@ -3,9 +3,9 @@
 <field name="id">19960858</field>
 <field name="genre">Operas</field>
 <field name="title">Fanfare fragile</field>
-<field name="titlesort">Fanfare fragile</field>
+<field name="titleSort">Fanfare fragile</field>
 <field name="composer">Jean-Christophe Feldhandler</field>
-<field name="composersort">Feldhandler, Jean-Christophe</field>
+<field name="composerSort">Feldhandler, Jean-Christophe</field>
 <field name="year">2012</field>
 <field name="date">December 7, 2012</field>
 <field name="theater">Théâtre Imperial</field>

@@ -3,13 +3,13 @@
 <field name="id">19960723</field>
 <field name="genre">Operas</field>
 <field name="title">Dreyfus</field>
-<field name="titlesort">Dreyfus</field>
+<field name="titleSort">Dreyfus</field>
 <field name="composer">Michel Legrand</field>
-<field name="composersort">Legrand, Michel</field>
+<field name="composerSort">Legrand, Michel</field>
 <field name="year">2014</field>
 <field name="date">May 16, 2014</field>
 <field name="librettist">Didier van Cauwelaert</field>
-<field name="librettistsort">Cauwelaert, Didier van</field>
+<field name="librettistSort">Cauwelaert, Didier van</field>
 <field name="theater">Opéra-Municipal</field>
 <field name="city">Nice</field>
 <field name="region">Alpes-Maritimes</field>

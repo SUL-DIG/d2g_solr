@@ -3,13 +3,13 @@
 <field name="id">19961451</field>
 <field name="genre">Operas</field>
 <field name="title">La'ie'ikawai, Princess of Pali-uli</field>
-<field name="titlesort">La'ie'ikawai, Princess of Pali-uli</field>
+<field name="titleSort">La'ie'ikawai, Princess of Pali-uli</field>
 <field name="composer">Neil McKay</field>
-<field name="composersort">McKay, Neil</field>
+<field name="composerSort">McKay, Neil</field>
 <field name="year">1997</field>
 <field name="date">June 25, 1997</field>
 <field name="librettist">Neil McKay</field>
-<field name="librettistsort">McKay, Neil</field>
+<field name="librettistSort">McKay, Neil</field>
 <field name="theater">Orvis Auditorium</field>
 <field name="city">Honolulu</field>
 <field name="region">Hawaii</field>

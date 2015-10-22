@@ -3,13 +3,13 @@
 <field name="id">19960744</field>
 <field name="genre">Operas</field>
 <field name="title">Ecstatic Journey</field>
-<field name="titlesort">Ecstatic Journey</field>
+<field name="titleSort">Ecstatic Journey</field>
 <field name="composer">David Rodwin</field>
-<field name="composersort">Rodwin, David</field>
+<field name="composerSort">Rodwin, David</field>
 <field name="year">1997</field>
 <field name="date">May 5, 1997</field>
 <field name="librettist">David Rodwin</field>
-<field name="librettistsort">Rodwin, David</field>
+<field name="librettistSort">Rodwin, David</field>
 <field name="theater">American Opera Projects</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

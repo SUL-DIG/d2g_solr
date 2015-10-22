@@ -3,13 +3,13 @@
 <field name="id">19962741</field>
 <field name="genre">Operas</field>
 <field name="title">The Second Mrs Kong</field>
-<field name="titlesort">Second Mrs Kong</field>
+<field name="titleSort">Second Mrs Kong</field>
 <field name="composer">Harrison Birtwistle</field>
-<field name="composersort">Birtwistle, Harrison</field>
+<field name="composerSort">Birtwistle, Harrison</field>
 <field name="year">1994</field>
 <field name="date">October 24, 1994</field>
 <field name="librettist">Russell Hoban</field>
-<field name="librettistsort">Hoban, Russell</field>
+<field name="librettistSort">Hoban, Russell</field>
 <field name="theater">Glyndebourne Festival Opera</field>
 <field name="city">Glyndebourne</field>
 <field name="region">East Sussex</field>

@@ -3,13 +3,13 @@
 <field name="id">19963011</field>
 <field name="genre">Operas</field>
 <field name="title">Vivienne</field>
-<field name="titlesort">Vivienne</field>
+<field name="titleSort">Vivienne</field>
 <field name="composer">Stephen McNeff</field>
-<field name="composersort">McNeff, Stephen</field>
+<field name="composerSort">McNeff, Stephen</field>
 <field name="year">2013</field>
 <field name="date">August 8, 2013</field>
 <field name="librettist">Andy Rashleigh</field>
-<field name="librettistsort">Rashleigh, Andy</field>
+<field name="librettistSort">Rashleigh, Andy</field>
 <field name="theater">Riverside Studios</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

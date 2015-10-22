@@ -3,13 +3,13 @@
 <field name="id">19961831</field>
 <field name="genre">Operas</field>
 <field name="title">Nizami</field>
-<field name="titlesort">Nizami</field>
+<field name="titleSort">Nizami</field>
 <field name="composer">Afrasiyab Badalbeyli</field>
-<field name="composersort">Badalbeyli, Afrasiyab</field>
+<field name="composerSort">Badalbeyli, Afrasiyab</field>
 <field name="year">1948</field>
 <field name="date">December 12, 1948</field>
 <field name="librettist">Mammad Said Ordubadi</field>
-<field name="librettistsort">Ordubadi, Mammad Said</field>
+<field name="librettistSort">Ordubadi, Mammad Said</field>
 <field name="theater">Azerbaijanskiy Akademicheskiy Teatr Operï i Baleta imeni M. F. Akhundova</field>
 <field name="city">Baku</field>
 <field name="country">Azerbaijan</field>

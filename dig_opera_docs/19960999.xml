@@ -3,13 +3,13 @@
 <field name="id">19960999</field>
 <field name="genre">Operas</field>
 <field name="title">Goce</field>
-<field name="titlesort">Goce</field>
+<field name="titleSort">Goce</field>
 <field name="composer">Kiril Makedonski</field>
-<field name="composersort">Makedonski, Kiril</field>
+<field name="composerSort">Makedonski, Kiril</field>
 <field name="year">1954</field>
 <field name="date">May 24, 1954</field>
 <field name="librettist">Venko Markovski</field>
-<field name="librettistsort">Markovski, Venko</field>
+<field name="librettistSort">Markovski, Venko</field>
 <field name="theater">Makedonska Opera i Balet</field>
 <field name="city">Skopje</field>
 <field name="country">Macedonia</field>

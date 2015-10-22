@@ -3,13 +3,13 @@
 <field name="id">19961868</field>
 <field name="genre">Operas</field>
 <field name="title">Odd Numbers</field>
-<field name="titlesort">Odd Numbers</field>
+<field name="titleSort">Odd Numbers</field>
 <field name="composer">Julian Grant</field>
-<field name="composersort">Grant, Julian</field>
+<field name="composerSort">Grant, Julian</field>
 <field name="year">2002</field>
 <field name="date">February 18, 2002</field>
 <field name="librettist">Christina Jones</field>
-<field name="librettistsort">Jones, Christina</field>
+<field name="librettistSort">Jones, Christina</field>
 <field name="theater">Bridewell Theatre</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

@@ -3,13 +3,13 @@
 <field name="id">19961272</field>
 <field name="genre">Operas</field>
 <field name="title">Kaerlighedens Dampe</field>
-<field name="titlesort">Kaerlighedens Dampe</field>
+<field name="titleSort">Kaerlighedens Dampe</field>
 <field name="composer">Andy Pape</field>
-<field name="composersort">Pape, Andy</field>
+<field name="composerSort">Pape, Andy</field>
 <field name="year">2009</field>
 <field name="date">August 13, 2009</field>
 <field name="librettist">Bent Nøgaard</field>
-<field name="librettistsort">Nøgaard, Bent</field>
+<field name="librettistSort">Nøgaard, Bent</field>
 <field name="theater">Helsingør Theater</field>
 <field name="city">Århus</field>
 <field name="region">Midtjylland</field>

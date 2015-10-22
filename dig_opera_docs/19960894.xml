@@ -3,12 +3,12 @@
 <field name="id">19960894</field>
 <field name="genre">Operas</field>
 <field name="title">Fiskerens frue</field>
-<field name="titlesort">Fiskerens frue</field>
+<field name="titleSort">Fiskerens frue</field>
 <field name="composer">Bertil Palmar Johansen</field>
-<field name="composersort">Johansen, Bertil Palmar</field>
+<field name="composerSort">Johansen, Bertil Palmar</field>
 <field name="year">1995</field>
 <field name="librettist">Inki Storleer</field>
-<field name="librettistsort">Storleer, Inki</field>
+<field name="librettistSort">Storleer, Inki</field>
 <field name="city">Trondheim</field>
 <field name="region">Sør-Trøndelag</field>
 <field name="country">Norway</field>

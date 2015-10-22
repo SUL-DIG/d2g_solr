@@ -3,13 +3,13 @@
 <field name="id">19963080</field>
 <field name="genre">Operas</field>
 <field name="title">Yes</field>
-<field name="titlesort">Yes</field>
+<field name="titleSort">Yes</field>
 <field name="composer">Errollyn Wallen</field>
-<field name="composersort">Wallen, Errollyn</field>
+<field name="composerSort">Wallen, Errollyn</field>
 <field name="year">2011</field>
 <field name="date">November 22, 2011</field>
 <field name="librettist">Bonnie Greer</field>
-<field name="librettistsort">Greer, Bonnie</field>
+<field name="librettistSort">Greer, Bonnie</field>
 <field name="theater">Linbury Studio, Royal Opera House</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

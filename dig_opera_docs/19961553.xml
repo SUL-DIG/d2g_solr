@@ -3,13 +3,13 @@
 <field name="id">19961553</field>
 <field name="genre">Operas</field>
 <field name="title">Light and Power</field>
-<field name="titlesort">Light and Power</field>
+<field name="titleSort">Light and Power</field>
 <field name="composer">Isaac Schankler</field>
-<field name="composersort">Schankler, Isaac</field>
+<field name="composerSort">Schankler, Isaac</field>
 <field name="year">2011</field>
 <field name="date">May 19, 2011</field>
 <field name="librettist">Jillian Burcar</field>
-<field name="librettistsort">Burcar, Jillian</field>
+<field name="librettistSort">Burcar, Jillian</field>
 <field name="theater">Cambridge YMCA Theater</field>
 <field name="city">Cambridge</field>
 <field name="region">Massachusetts</field>

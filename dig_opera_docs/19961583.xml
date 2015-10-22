@@ -3,13 +3,13 @@
 <field name="id">19961583</field>
 <field name="genre">Operas</field>
 <field name="title">Loranga, Masarin och Dartanjang</field>
-<field name="titlesort">Loranga, Masarin och Dartanjang</field>
+<field name="titleSort">Loranga, Masarin och Dartanjang</field>
 <field name="composer">Carl Unander-Scharin</field>
-<field name="composersort">Unander-Scharin, Carl</field>
+<field name="composerSort">Unander-Scharin, Carl</field>
 <field name="year">2006</field>
 <field name="date">December 9, 2006</field>
 <field name="librettist">Barbro Lindgren</field>
-<field name="librettistsort">Lindgren, Barbro</field>
+<field name="librettistSort">Lindgren, Barbro</field>
 <field name="theater">Kungliga Teatern</field>
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>

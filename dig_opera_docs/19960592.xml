@@ -3,13 +3,13 @@
 <field name="id">19960592</field>
 <field name="genre">Operas</field>
 <field name="title">Der Traum</field>
-<field name="titlesort">Traum</field>
+<field name="titleSort">Traum</field>
 <field name="composer">Rainer Kunad</field>
-<field name="composersort">Kunad, Rainer</field>
+<field name="composerSort">Kunad, Rainer</field>
 <field name="year">2000</field>
 <field name="date">September 16, 2000</field>
 <field name="librettist">Rainer Kunad</field>
-<field name="librettistsort">Kunad, Rainer</field>
+<field name="librettistSort">Kunad, Rainer</field>
 <field name="theater">Stadttheater</field>
 <field name="city">Hagen</field>
 <field name="region">Nordrhein-Westfallen</field>

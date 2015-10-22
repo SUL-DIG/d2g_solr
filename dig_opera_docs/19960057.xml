@@ -3,13 +3,13 @@
 <field name="id">19960057</field>
 <field name="genre">Operas</field>
 <field name="title">A Shipwreck Opera</field>
-<field name="titlesort">Shipwreck Opera</field>
+<field name="titleSort">Shipwreck Opera</field>
 <field name="composer">John B. Hedges</field>
-<field name="composersort">Hedges, John B.</field>
+<field name="composerSort">Hedges, John B.</field>
 <field name="year">2012</field>
 <field name="date">June 2, 2012</field>
 <field name="librettist">Aimee Bender</field>
-<field name="librettistsort">Bender, Aimee</field>
+<field name="librettistSort">Bender, Aimee</field>
 <field name="theater">Arts Center</field>
 <field name="city">Carrboro</field>
 <field name="region">North Carolina</field>

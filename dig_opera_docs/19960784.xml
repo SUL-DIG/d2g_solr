@@ -3,13 +3,13 @@
 <field name="id">19960784</field>
 <field name="genre">Operas</field>
 <field name="title">Elegy for a Prince</field>
-<field name="titlesort">Elegy for a Prince</field>
+<field name="titleSort">Elegy for a Prince</field>
 <field name="composer">Sergio Cervetti</field>
-<field name="composersort">Cervetti, Sergio</field>
+<field name="composerSort">Cervetti, Sergio</field>
 <field name="year">2007</field>
 <field name="date">May 12, 2007</field>
 <field name="librettist">Elizabeth Esris</field>
-<field name="librettistsort">Esris, Elizabeth</field>
+<field name="librettistSort">Esris, Elizabeth</field>
 <field name="theater">New York City Opera</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

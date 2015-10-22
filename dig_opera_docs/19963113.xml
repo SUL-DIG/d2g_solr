@@ -3,9 +3,9 @@
 <field name="id">19963113</field>
 <field name="genre">Operas</field>
 <field name="title">Zolotoslov</field>
-<field name="titlesort">Zolotoslov</field>
+<field name="titleSort">Zolotoslov</field>
 <field name="composer">Lesya Dychko</field>
-<field name="composersort">Dychko, Lesya</field>
+<field name="composerSort">Dychko, Lesya</field>
 <field name="year">2009</field>
 <field name="date">October 25, 2009</field>
 <field name="theater">Lysenko Concert Hall</field>

@@ -3,13 +3,13 @@
 <field name="id">19963044</field>
 <field name="genre">Operas</field>
 <field name="title">Weils Kind schlafen will</field>
-<field name="titlesort">Weils Kind schlafen will</field>
+<field name="titleSort">Weils Kind schlafen will</field>
 <field name="composer">Christoph Coburger</field>
-<field name="composersort">Coburger, Christoph</field>
+<field name="composerSort">Coburger, Christoph</field>
 <field name="year">2002</field>
 <field name="date">May 4, 2002</field>
 <field name="librettist">[Stefan Griebl] Franzobel</field>
-<field name="librettistsort">Franzobel, [Stefan Griebl]</field>
+<field name="librettistSort">Franzobel, [Stefan Griebl]</field>
 <field name="theater">Tiroler Landestheater</field>
 <field name="city">Innsbruck</field>
 <field name="region">Tirol</field>

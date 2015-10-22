@@ -3,13 +3,13 @@
 <field name="id">19962402</field>
 <field name="genre">Operas</field>
 <field name="title">Svadba (Wedding)</field>
-<field name="titlesort">Svadba (Wedding)</field>
+<field name="titleSort">Svadba (Wedding)</field>
 <field name="composer">Ana Sokolovic</field>
-<field name="composersort">Sokolovic, Ana</field>
+<field name="composerSort">Sokolovic, Ana</field>
 <field name="year">2011</field>
 <field name="date">June 24, 2011</field>
 <field name="librettist">Ana Sokolovic</field>
-<field name="librettistsort">Sokolovic, Ana</field>
+<field name="librettistSort">Sokolovic, Ana</field>
 <field name="theater">Berkeley Street Theatre</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

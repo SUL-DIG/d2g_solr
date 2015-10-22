@@ -3,13 +3,13 @@
 <field name="id">19961429</field>
 <field name="genre">Operas</field>
 <field name="title">La nuit de Gutenberg</field>
-<field name="titlesort">nuit de Gutenberg</field>
+<field name="titleSort">nuit de Gutenberg</field>
 <field name="composer">Philippe Manoury</field>
-<field name="composersort">Manoury, Philippe</field>
+<field name="composerSort">Manoury, Philippe</field>
 <field name="year">2011</field>
 <field name="date">September 24, 2011</field>
 <field name="librettist">Jean-Pierre Milovanoff</field>
-<field name="librettistsort">Milovanoff, Jean-Pierre</field>
+<field name="librettistSort">Milovanoff, Jean-Pierre</field>
 <field name="theater">Théâtre Municipal</field>
 <field name="city">Strasbourg</field>
 <field name="region">Bas-Rhin</field>

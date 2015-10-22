@@ -3,13 +3,13 @@
 <field name="id">19961625</field>
 <field name="genre">Operas</field>
 <field name="title">Madre Juana</field>
-<field name="titlesort">Madre Juana</field>
+<field name="titleSort">Madre Juana</field>
 <field name="composer">Federico Ibarra</field>
-<field name="composersort">Ibarra, Federico</field>
+<field name="composerSort">Ibarra, Federico</field>
 <field name="year">1993</field>
 <field name="date">December 13, 1993</field>
 <field name="librettist">José Ramón Enríquez</field>
-<field name="librettistsort">Enríquez, José Ramón</field>
+<field name="librettistSort">Enríquez, José Ramón</field>
 <field name="theater">Teatro Juan Ruiz de Alarcón</field>
 <field name="city">Ciudad Universitaria</field>
 <field name="region">Mexico</field>

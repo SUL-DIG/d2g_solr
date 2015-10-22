@@ -3,13 +3,13 @@
 <field name="id">19960413</field>
 <field name="genre">Operas</field>
 <field name="title">Certitude and Joy</field>
-<field name="titlesort">Certitude and Joy</field>
+<field name="titleSort">Certitude and Joy</field>
 <field name="composer">Erling Wold</field>
-<field name="composersort">Wold, Erling</field>
+<field name="composerSort">Wold, Erling</field>
 <field name="year">2012</field>
 <field name="date">March 22, 2012</field>
 <field name="librettist">Erling Wold</field>
-<field name="librettistsort">Wold, Erling</field>
+<field name="librettistSort">Wold, Erling</field>
 <field name="theater">Bindlestiff Studio</field>
 <field name="city">San Francisco</field>
 <field name="region">California</field>

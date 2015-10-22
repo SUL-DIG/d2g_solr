@@ -3,13 +3,13 @@
 <field name="id">19960023</field>
 <field name="genre">Operas</field>
 <field name="title">A Christmas Carol</field>
-<field name="titlesort">Christmas Carol</field>
+<field name="titleSort">Christmas Carol</field>
 <field name="composer">Iain Bell</field>
-<field name="composersort">Bell, Iain</field>
+<field name="composerSort">Bell, Iain</field>
 <field name="year">2014</field>
 <field name="date">December 5, 2014</field>
 <field name="librettist">Charles Dickens</field>
-<field name="librettistsort">Dickens, Charles</field>
+<field name="librettistSort">Dickens, Charles</field>
 <field name="theater">Grand Opera</field>
 <field name="city">Houston</field>
 <field name="region">Texas</field>

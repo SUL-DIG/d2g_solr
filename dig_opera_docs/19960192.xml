@@ -3,13 +3,13 @@
 <field name="id">19960192</field>
 <field name="genre">Operas</field>
 <field name="title">Antonieta</field>
-<field name="titlesort">Antonieta</field>
+<field name="titleSort">Antonieta</field>
 <field name="composer">Federico Ibarra</field>
-<field name="composersort">Ibarra, Federico</field>
+<field name="composerSort">Ibarra, Federico</field>
 <field name="year">2010</field>
 <field name="date">October 27, 2010</field>
 <field name="librettist">Verónica Musalem</field>
-<field name="librettistsort">Musalem, Verónica</field>
+<field name="librettistSort">Musalem, Verónica</field>
 <field name="theater">Teatro Raúl Flores Canelo</field>
 <field name="city">Mexico City</field>
 <field name="country">Mexico</field>

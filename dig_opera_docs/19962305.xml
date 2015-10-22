@@ -3,13 +3,13 @@
 <field name="id">19962305</field>
 <field name="genre">Operas</field>
 <field name="title">Skin Deep</field>
-<field name="titlesort">Skin Deep</field>
+<field name="titleSort">Skin Deep</field>
 <field name="composer">David Sawer</field>
-<field name="composersort">Sawer, David</field>
+<field name="composerSort">Sawer, David</field>
 <field name="year">2009</field>
 <field name="date">January 16, 2009</field>
 <field name="librettist">Armando Iannucci</field>
-<field name="librettistsort">Iannucci, Armando</field>
+<field name="librettistSort">Iannucci, Armando</field>
 <field name="theater">Grand Theatre</field>
 <field name="city">Leeds</field>
 <field name="region">West Yorkshire</field>

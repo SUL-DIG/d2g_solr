@@ -3,13 +3,13 @@
 <field name="id">19963092</field>
 <field name="genre">Operas</field>
 <field name="title">Z-ástarsaga (Z-a love story)</field>
-<field name="titlesort">Z-ástarsaga (Z-a love story)</field>
+<field name="titleSort">Z-ástarsaga (Z-a love story)</field>
 <field name="composer">Sigurdur Saevarsson</field>
-<field name="composersort">Saevarsson, Sigurdur</field>
+<field name="composerSort">Saevarsson, Sigurdur</field>
 <field name="year">2001</field>
 <field name="date">September 1, 2011</field>
 <field name="librettist">Vigdís Grímsdóttir</field>
-<field name="librettistsort">Grímsdóttir, Vigdís</field>
+<field name="librettistSort">Grímsdóttir, Vigdís</field>
 <field name="theater">NordurÓp Opera Festival</field>
 <field name="city">Reykjanesaer</field>
 <field name="country">Iceland</field>

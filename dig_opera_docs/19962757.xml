@@ -3,12 +3,12 @@
 <field name="id">19962757</field>
 <field name="genre">Operas</field>
 <field name="title">The Silence Tree</field>
-<field name="titlesort">Silence Tree</field>
+<field name="titleSort">Silence Tree</field>
 <field name="composer">Malcolm Fox</field>
-<field name="composersort">Fox, Malcolm</field>
+<field name="composerSort">Fox, Malcolm</field>
 <field name="year">1989</field>
 <field name="librettist">Sue Rider</field>
-<field name="librettistsort">Rider, Sue</field>
+<field name="librettistSort">Rider, Sue</field>
 <field name="theater">West Australian Opera</field>
 <field name="city">Perth</field>
 <field name="region">Western Australia</field>

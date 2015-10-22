@@ -3,13 +3,13 @@
 <field name="id">19960827</field>
 <field name="genre">Operas</field>
 <field name="title">eurydike@unterwelt</field>
-<field name="titlesort">eurydike@unterwelt</field>
+<field name="titleSort">eurydike@unterwelt</field>
 <field name="composer">Hans Petith</field>
-<field name="composersort">Petith, Hans</field>
+<field name="composerSort">Petith, Hans</field>
 <field name="year">2001</field>
 <field name="date">September 27, 2001</field>
 <field name="librettist">Johanna Martin</field>
-<field name="librettistsort">Martin, Johanna</field>
+<field name="librettistSort">Martin, Johanna</field>
 <field name="theater">Neuköllner Oper</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>

@@ -3,13 +3,13 @@
 <field name="id">19962586</field>
 <field name="genre">Operas</field>
 <field name="title">The Hourglass</field>
-<field name="titlesort">Hourglass</field>
+<field name="titleSort">Hourglass</field>
 <field name="composer">Matthew Raymond Cooper Vest</field>
-<field name="composersort">Vest, Matthew Raymond Cooper</field>
+<field name="composerSort">Vest, Matthew Raymond Cooper</field>
 <field name="year">2009</field>
 <field name="date">May 7, 2009</field>
 <field name="librettist">Danilo Kis </field>
-<field name="librettistsort">Kis, Danilo</field>
+<field name="librettistSort">Kis, Danilo</field>
 <field name="theater">Family YMCA Theater</field>
 <field name="city">Cambridge</field>
 <field name="region">Massachusetts</field>

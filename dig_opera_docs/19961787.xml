@@ -3,13 +3,13 @@
 <field name="id">19961787</field>
 <field name="genre">Operas</field>
 <field name="title">Musik</field>
-<field name="titlesort">Musik</field>
+<field name="titleSort">Musik</field>
 <field name="composer">Michael Langemann</field>
-<field name="composersort">Langemann, Michael</field>
+<field name="composerSort">Langemann, Michael</field>
 <field name="year">2013</field>
 <field name="date">December 7, 2013</field>
 <field name="librettist">Helene Hegemann</field>
-<field name="librettistsort">Hegemann, Helene</field>
+<field name="librettistSort">Hegemann, Helene</field>
 <field name="theater">Opera der Stadt</field>
 <field name="city">Cologne</field>
 <field name="region">Nordrhein-Westfallen</field>

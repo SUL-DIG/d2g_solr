@@ -3,12 +3,12 @@
 <field name="id">19961174</field>
 <field name="genre">Operas</field>
 <field name="title">Imágenes de Nacimiento</field>
-<field name="titlesort">Imágenes de Nacimiento</field>
+<field name="titleSort">Imágenes de Nacimiento</field>
 <field name="composer">José Castañeda</field>
-<field name="composersort">Castañeda, José</field>
+<field name="composerSort">Castañeda, José</field>
 <field name="year">1933</field>
 <field name="librettist">Miguel Ángel Asturias</field>
-<field name="librettistsort">Asturias, Miguel Ángel</field>
+<field name="librettistSort">Asturias, Miguel Ángel</field>
 <field name="city">Guatemala City</field>
 <field name="country">Guatemala</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Imágenes+de+Nacimiento+José+Castañeda&amp;search_field=search</field>

@@ -3,13 +3,13 @@
 <field name="id">19960185</field>
 <field name="genre">Operas</field>
 <field name="title">Antigone</field>
-<field name="titlesort">Antigone</field>
+<field name="titleSort">Antigone</field>
 <field name="composer">Luc Brewaeys</field>
-<field name="composersort">Brewaeys, Luc</field>
+<field name="composerSort">Brewaeys, Luc</field>
 <field name="year">1991</field>
 <field name="date">October 3, 1991</field>
 <field name="librettist">Dirk Opstaele</field>
-<field name="librettistsort">Opstaele, Dirk</field>
+<field name="librettistSort">Opstaele, Dirk</field>
 <field name="theater">Hippodrome</field>
 <field name="city">Douai</field>
 <field name="region">Nord</field>

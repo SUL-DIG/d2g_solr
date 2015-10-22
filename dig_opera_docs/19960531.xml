@@ -3,13 +3,13 @@
 <field name="id">19960531</field>
 <field name="genre">Operas</field>
 <field name="title">Death and the Maiden</field>
-<field name="titlesort">Death and the Maiden</field>
+<field name="titleSort">Death and the Maiden</field>
 <field name="composer">Jonas Forssell</field>
-<field name="composersort">Forssell, Jonas</field>
+<field name="composerSort">Forssell, Jonas</field>
 <field name="year">2008</field>
 <field name="date">September 20, 2008</field>
 <field name="librettist">Ariel Dorfman</field>
-<field name="librettistsort">Dorfman, Ariel</field>
+<field name="librettistSort">Dorfman, Ariel</field>
 <field name="theater">Malmö Opera och Musikteater</field>
 <field name="city">Malmö</field>
 <field name="region">Skåne</field>

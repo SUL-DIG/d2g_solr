@@ -3,13 +3,13 @@
 <field name="id">19960783</field>
 <field name="genre">Operas</field>
 <field name="title">Electra</field>
-<field name="titlesort">Electra</field>
+<field name="titleSort">Electra</field>
 <field name="composer">Catherine Kontz</field>
-<field name="composersort">Kontz, Catherine</field>
+<field name="composerSort">Kontz, Catherine</field>
 <field name="year">2008</field>
 <field name="date">August 7, 2008</field>
 <field name="librettist">Alexia Anastasiadis</field>
-<field name="librettistsort">Anastasiadis, Alexia</field>
+<field name="librettistSort">Anastasiadis, Alexia</field>
 <field name="theater">Riverside Studios</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

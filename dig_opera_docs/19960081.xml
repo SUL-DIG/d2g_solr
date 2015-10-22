@@ -3,13 +3,13 @@
 <field name="id">19960081</field>
 <field name="genre">Operas</field>
 <field name="title">Afghanistan: Requiem for a Generation</field>
-<field name="titlesort">Afghanistan: Requiem for a Generation</field>
+<field name="titleSort">Afghanistan: Requiem for a Generation</field>
 <field name="composer">Jeffrey Ryan</field>
-<field name="composersort">Ryan, Jeffrey</field>
+<field name="composerSort">Ryan, Jeffrey</field>
 <field name="year">2012</field>
 <field name="date">November 10, 2012</field>
 <field name="librettist">Suzanne Steele</field>
-<field name="librettistsort">Steele, Suzanne</field>
+<field name="librettistSort">Steele, Suzanne</field>
 <field name="theater">Jack Singer Concert Hall</field>
 <field name="city">Calgary</field>
 <field name="region">Alberta</field>

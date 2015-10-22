@@ -3,13 +3,13 @@
 <field name="id">19962888</field>
 <field name="genre">Operas</field>
 <field name="title">Tod eines Bankers</field>
-<field name="titlesort">Tod eines Bankers</field>
+<field name="titleSort">Tod eines Bankers</field>
 <field name="composer">Andreas Kersting</field>
-<field name="composersort">Kersting, Andreas</field>
+<field name="composerSort">Kersting, Andreas</field>
 <field name="year">2013</field>
 <field name="date">April 12, 2013</field>
 <field name="librettist">Fabian Scheidler</field>
-<field name="librettistsort">Scheidler, Fabian</field>
+<field name="librettistSort">Scheidler, Fabian</field>
 <field name="theater">Gerhart Hauptmann-Theater </field>
 <field name="city">Görlitz</field>
 <field name="region">Sachsen</field>

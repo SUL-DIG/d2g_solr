@@ -3,13 +3,13 @@
 <field name="id">19961229</field>
 <field name="genre">Operas</field>
 <field name="title">Jeppe på Bjerget (Jeppe on the Hill)</field>
-<field name="titlesort">Jeppe på Bjerget (Jeppe on the Hill)</field>
+<field name="titleSort">Jeppe på Bjerget (Jeppe on the Hill)</field>
 <field name="composer">Bent Lorentzen</field>
-<field name="composersort">Lorentzen, Bent</field>
+<field name="composerSort">Lorentzen, Bent</field>
 <field name="year">2009</field>
 <field name="date">March 6, 2009</field>
 <field name="librettist">Vilhelm Topsøe</field>
-<field name="librettistsort">Topsøe, Vilhelm</field>
+<field name="librettistSort">Topsøe, Vilhelm</field>
 <field name="theater">Tinghallen</field>
 <field name="city">Viborg</field>
 <field name="region">Midtjylland</field>

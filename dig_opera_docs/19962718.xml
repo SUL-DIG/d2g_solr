@@ -3,13 +3,13 @@
 <field name="id">19962718</field>
 <field name="genre">Operas</field>
 <field name="title">The Red Silk Thread</field>
-<field name="titlesort">Red Silk Thread</field>
+<field name="titleSort">Red Silk Thread</field>
 <field name="composer">Stella Stung</field>
-<field name="composersort">Stung, Stella</field>
+<field name="composerSort">Stung, Stella</field>
 <field name="year">2013</field>
 <field name="date">April 17, 2013</field>
 <field name="librettist">Ernest Hilbert</field>
-<field name="librettistsort">Hilbert, Ernest  </field>
+<field name="librettistSort">Hilbert, Ernest  </field>
 <field name="theater">University of Florida</field>
 <field name="city">Gainesvillde</field>
 <field name="region">Florida</field>

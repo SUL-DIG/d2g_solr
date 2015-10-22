@@ -3,13 +3,13 @@
 <field name="id">19961645</field>
 <field name="genre">Operas</field>
 <field name="title">Manifest Destiny</field>
-<field name="titlesort">Manifest Destiny</field>
+<field name="titleSort">Manifest Destiny</field>
 <field name="composer">Keith Burstein</field>
-<field name="composersort">Burstein, Keith</field>
+<field name="composerSort">Burstein, Keith</field>
 <field name="year">2004</field>
 <field name="date">June 27, 2004</field>
 <field name="librettist">Dic Edwards</field>
-<field name="librettistsort">Edwards, Dic</field>
+<field name="librettistSort">Edwards, Dic</field>
 <field name="theater">Tricycle Theatre</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

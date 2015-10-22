@@ -3,12 +3,12 @@
 <field name="id">19960088</field>
 <field name="genre">Operas</field>
 <field name="title">Ah, ces Russes (La boisson magique)</field>
-<field name="titlesort">Ah, ces Russes (La boisson magique)</field>
+<field name="titleSort">Ah, ces Russes (La boisson magique)</field>
 <field name="composer">Vladimir Grigor'yevich Tarnopol'sky</field>
-<field name="composersort">Tarnopol'sky, Vladimir Grigor'yevich</field>
+<field name="composerSort">Tarnopol'sky, Vladimir Grigor'yevich</field>
 <field name="year">1993</field>
 <field name="librettist">Irina Maslennikova</field>
-<field name="librettistsort">Maslennikova, Irina</field>
+<field name="librettistSort">Maslennikova, Irina</field>
 <field name="theater">Théâtre Municipal</field>
 <field name="city">Evian-les-Bains</field>
 <field name="region">Haute-Savoie</field>

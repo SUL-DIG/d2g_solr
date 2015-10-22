@@ -3,13 +3,13 @@
 <field name="id">19960084</field>
 <field name="genre">Operas</field>
 <field name="title">Agamemnon</field>
-<field name="titlesort">Agamemnon</field>
+<field name="titleSort">Agamemnon</field>
 <field name="composer">Andrew Earle Simpson</field>
-<field name="composersort">Simpson, Andrew Earle</field>
+<field name="composerSort">Simpson, Andrew Earle</field>
 <field name="year">2003</field>
 <field name="date">April 25, 2003</field>
 <field name="librettist">Sarah Brown Ferrario</field>
-<field name="librettistsort">Ferrario, Sarah Brown</field>
+<field name="librettistSort">Ferrario, Sarah Brown</field>
 <field name="theater">Catholic University</field>
 <field name="city">Washington</field>
 <field name="region">District of Columbia</field>

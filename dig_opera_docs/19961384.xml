@@ -3,13 +3,13 @@
 <field name="id">19961384</field>
 <field name="genre">Operas</field>
 <field name="title">La casa dei mostri</field>
-<field name="titlesort">casa dei mostri</field>
+<field name="titleSort">casa dei mostri</field>
 <field name="composer">Paolo Furlani</field>
-<field name="composersort">Furlani, Paolo</field>
+<field name="composerSort">Furlani, Paolo</field>
 <field name="year">2003</field>
 <field name="date">March 25, 2003</field>
 <field name="librettist">Maria Vago</field>
-<field name="librettistsort">Vago, Maria</field>
+<field name="librettistSort">Vago, Maria</field>
 <field name="theater">Centro Culturale Candiani</field>
 <field name="city">Mestre</field>
 <field name="region">Veneto</field>

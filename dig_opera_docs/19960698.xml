@@ -3,12 +3,12 @@
 <field name="id">19960698</field>
 <field name="genre">Operas</field>
 <field name="title">Double Trouble</field>
-<field name="titlesort">Double Trouble</field>
+<field name="titleSort">Double Trouble</field>
 <field name="composer">Louisa Lasdun</field>
-<field name="composersort">Lasdun, Louisa</field>
+<field name="composerSort">Lasdun, Louisa</field>
 <field name="year">1990</field>
 <field name="librettist">Adam Thorpe</field>
-<field name="librettistsort">Thorpe, Adam</field>
+<field name="librettistSort">Thorpe, Adam</field>
 <field name="theater">W11 Opera</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

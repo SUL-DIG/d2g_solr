@@ -3,12 +3,12 @@
 <field name="id">19962519</field>
 <field name="genre">Operas</field>
 <field name="title">The Dream-Eater</field>
-<field name="titlesort">Dream-Eater</field>
+<field name="titleSort">Dream-Eater</field>
 <field name="composer">Gregg Smith</field>
-<field name="composersort">Smith, Gregg</field>
+<field name="composerSort">Smith, Gregg</field>
 <field name="year">2001</field>
 <field name="librettist">Kim Rich</field>
-<field name="librettistsort">Rich, Kim</field>
+<field name="librettistSort">Rich, Kim</field>
 <field name="theater">Central Park East Elementary School</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

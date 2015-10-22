@@ -3,13 +3,13 @@
 <field name="id">19961290</field>
 <field name="genre">Operas</field>
 <field name="title">Karussell</field>
-<field name="titlesort">Karussell</field>
+<field name="titleSort">Karussell</field>
 <field name="composer">Mirela Ivicevic</field>
-<field name="composersort">Ivicevic, Mirela</field>
+<field name="composerSort">Ivicevic, Mirela</field>
 <field name="year">2013</field>
 <field name="date">November 14, 2013</field>
 <field name="librettist">Radek Knapp</field>
-<field name="librettistsort">Knapp, Radek</field>
+<field name="librettistSort">Knapp, Radek</field>
 <field name="theater">Sirene Operntheater</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

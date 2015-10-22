@@ -3,13 +3,13 @@
 <field name="id">19962674</field>
 <field name="genre">Operas</field>
 <field name="title">The Orientals</field>
-<field name="titlesort">Orientals</field>
+<field name="titleSort">Orientals</field>
 <field name="composer">Josephine Sherwood</field>
-<field name="composersort">Sherwood, Josephine</field>
+<field name="composerSort">Sherwood, Josephine</field>
 <field name="year">1898</field>
 <field name="date">May 1898</field>
 <field name="librettist">Katherine Berry</field>
-<field name="librettistsort">Berry, Katherine</field>
+<field name="librettistSort">Berry, Katherine</field>
 <field name="theater">Radcliffe College</field>
 <field name="city">Cambridge</field>
 <field name="region">Massachusetts</field>

@@ -3,13 +3,13 @@
 <field name="id">19962332</field>
 <field name="genre">Operas</field>
 <field name="title">Sömnkliniken</field>
-<field name="titlesort">Sömnkliniken</field>
+<field name="titleSort">Sömnkliniken</field>
 <field name="composer">Carl Unander-Scharin</field>
-<field name="composersort">Unander-Scharin, Carl</field>
+<field name="composerSort">Unander-Scharin, Carl</field>
 <field name="year">2009</field>
 <field name="date">February 27, 2009</field>
 <field name="librettist">Alexander Ahndoril</field>
-<field name="librettistsort">Ahndoril, Alexander</field>
+<field name="librettistSort">Ahndoril, Alexander</field>
 <field name="theater">GöteborgsOperan</field>
 <field name="city">Göteborg</field>
 <field name="region">Göteborg och Bohus</field>

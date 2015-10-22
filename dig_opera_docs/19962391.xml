@@ -3,13 +3,13 @@
 <field name="id">19962391</field>
 <field name="genre">Operas</field>
 <field name="title">Summer of the Swans</field>
-<field name="titlesort">Summer of the Swans</field>
+<field name="titleSort">Summer of the Swans</field>
 <field name="composer">Tina Davidson</field>
-<field name="composersort">Davidson, Tina</field>
+<field name="composerSort">Davidson, Tina</field>
 <field name="year">2009</field>
 <field name="date">April 24, 2009</field>
 <field name="librettist">Eva Davidson</field>
-<field name="librettistsort">Davidson, Eva</field>
+<field name="librettistSort">Davidson, Eva</field>
 <field name="theater">William Penn High School</field>
 <field name="city">Harrisburg</field>
 <field name="region">Pennsylvania</field>

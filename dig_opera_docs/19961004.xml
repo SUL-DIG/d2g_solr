@@ -3,13 +3,13 @@
 <field name="id">19961004</field>
 <field name="genre">Operas</field>
 <field name="title">Gogol</field>
-<field name="titlesort">Gogol</field>
+<field name="titleSort">Gogol</field>
 <field name="composer">Lera Auerbach</field>
-<field name="composersort">Auerbach, Lera</field>
+<field name="composerSort">Auerbach, Lera</field>
 <field name="year">2011</field>
 <field name="date">November 15, 2011</field>
 <field name="librettist">Lera Auerbach</field>
-<field name="librettistsort">Auerbach, Lera</field>
+<field name="librettistSort">Auerbach, Lera</field>
 <field name="theater">Theater an der Wien</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

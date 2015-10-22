@@ -3,13 +3,13 @@
 <field name="id">19961293</field>
 <field name="genre">Operas</field>
 <field name="title">Kaspar H</field>
-<field name="titlesort">Kaspar H</field>
+<field name="titleSort">Kaspar H</field>
 <field name="composer">Balduin Sulzer</field>
-<field name="composersort">Sulzer, Balduin</field>
+<field name="composerSort">Sulzer, Balduin</field>
 <field name="year">2011</field>
 <field name="date">January 29, 2011</field>
 <field name="librettist">Elisabeth Vera Rathenböck</field>
-<field name="librettistsort">Rathenböck, Elisabeth Vera</field>
+<field name="librettistSort">Rathenböck, Elisabeth Vera</field>
 <field name="theater">Landestheater</field>
 <field name="city">Linz</field>
 <field name="region">Oberösterreich</field>

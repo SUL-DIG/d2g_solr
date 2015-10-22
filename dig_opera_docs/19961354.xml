@@ -3,13 +3,13 @@
 <field name="id">19961354</field>
 <field name="genre">Operas</field>
 <field name="title">L'archange</field>
-<field name="titlesort">archange</field>
+<field name="titleSort">archange</field>
 <field name="composer">Louis Dufort</field>
-<field name="composersort">Dufort, Louis</field>
+<field name="composerSort">Dufort, Louis</field>
 <field name="year">2005</field>
 <field name="date">April 28, 2005</field>
 <field name="librettist">Alexis Nouss</field>
-<field name="librettistsort">Nouss, Alexis</field>
+<field name="librettistSort">Nouss, Alexis</field>
 <field name="theater">Station C</field>
 <field name="city">Montreal</field>
 <field name="region">Quebec</field>

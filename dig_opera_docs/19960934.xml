@@ -3,13 +3,13 @@
 <field name="id">19960934</field>
 <field name="genre">Operas</field>
 <field name="title">From the Other Sky</field>
-<field name="titlesort">From the Other Sky</field>
+<field name="titleSort">From the Other Sky</field>
 <field name="composer">Wang Jie </field>
-<field name="composersort">Wang Jie </field>
+<field name="composerSort">Wang Jie </field>
 <field name="year">2010</field>
 <field name="date">October 15, 2010</field>
 <field name="librettist">Wang Jie </field>
-<field name="librettistsort">Wang Jie </field>
+<field name="librettistSort">Wang Jie </field>
 <field name="theater">Carnegie Hall, Zankel Hall</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

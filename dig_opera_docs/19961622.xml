@@ -3,13 +3,13 @@
 <field name="id">19961622</field>
 <field name="genre">Operas</field>
 <field name="title">Madame White Snake</field>
-<field name="titlesort">Madame White Snake</field>
+<field name="titleSort">Madame White Snake</field>
 <field name="composer">Zhou Long</field>
-<field name="composersort">Zhou Long</field>
+<field name="composerSort">Zhou Long</field>
 <field name="year">2010</field>
 <field name="date">February 26, 2010</field>
 <field name="librettist">Cerise Lim Jacobs</field>
-<field name="librettistsort">Jacobs, Cerise Lim</field>
+<field name="librettistSort">Jacobs, Cerise Lim</field>
 <field name="theater">Cutler Majestic Theater</field>
 <field name="city">Boston</field>
 <field name="region">Massachusetts</field>

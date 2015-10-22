@@ -3,13 +3,13 @@
 <field name="id">19963060</field>
 <field name="genre">Operas</field>
 <field name="title">Willem Van Saeftinge</field>
-<field name="titlesort">Willem Van Saeftinge</field>
+<field name="titleSort">Willem Van Saeftinge</field>
 <field name="composer">Frédéric Devreese</field>
-<field name="composersort">Devreese, Frédéric</field>
+<field name="composerSort">Devreese, Frédéric</field>
 <field name="year">1964</field>
 <field name="date">September 28, 1964</field>
 <field name="librettist">Jean Francis</field>
-<field name="librettistsort">Francis, Jean</field>
+<field name="librettistSort">Francis, Jean</field>
 <field name="theater">Belgian Television (Radio Télévision Belge)</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>

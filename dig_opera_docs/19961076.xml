@@ -3,13 +3,13 @@
 <field name="id">19961076</field>
 <field name="genre">Operas</field>
 <field name="title">Hester Prynne at Death</field>
-<field name="titlesort">Hester Prynne at Death</field>
+<field name="titleSort">Hester Prynne at Death</field>
 <field name="composer">Stephen Paulus</field>
-<field name="composersort">Paulus, Stephen</field>
+<field name="composerSort">Paulus, Stephen</field>
 <field name="year">2004</field>
 <field name="date">March 8, 2004</field>
 <field name="librettist">Terry Quinn</field>
-<field name="librettistsort">Quinn, Terry</field>
+<field name="librettistSort">Quinn, Terry</field>
 <field name="theater">Kaufmann Auditorium, 92nd Street Y</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

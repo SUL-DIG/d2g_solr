@@ -3,13 +3,13 @@
 <field name="id">19962775</field>
 <field name="genre">Operas</field>
 <field name="title">The Stolen Smells</field>
-<field name="titlesort">Stolen Smells</field>
+<field name="titleSort">Stolen Smells</field>
 <field name="composer">Simon Wills</field>
-<field name="composersort">Wills, Simon</field>
+<field name="composerSort">Wills, Simon</field>
 <field name="year">2012</field>
 <field name="date">January 29, 2012</field>
 <field name="librettist">Simon Wills</field>
-<field name="librettistsort">Wills, Simon</field>
+<field name="librettistSort">Wills, Simon</field>
 <field name="theater">Stadttheater</field>
 <field name="city">Lucerne</field>
 <field name="region">Luzern</field>

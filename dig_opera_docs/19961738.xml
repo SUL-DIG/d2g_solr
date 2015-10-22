@@ -3,13 +3,13 @@
 <field name="id">19961738</field>
 <field name="genre">Operas</field>
 <field name="title">Mise en abyme</field>
-<field name="titlesort">Mise en abyme</field>
+<field name="titleSort">Mise en abyme</field>
 <field name="composer">Lucia Ronchetti</field>
-<field name="composersort">Ronchetti, Lucia</field>
+<field name="composerSort">Ronchetti, Lucia</field>
 <field name="year">2015</field>
 <field name="date">February 22, 2015</field>
 <field name="librettist">Pietro Metastasio</field>
-<field name="librettistsort">Metastasio, Pietro</field>
+<field name="librettistSort">Metastasio, Pietro</field>
 <field name="theater">Sächsische Staatsoper</field>
 <field name="city">Dresden</field>
 <field name="region">Sachsen</field>

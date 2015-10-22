@@ -3,13 +3,13 @@
 <field name="id">19962853</field>
 <field name="genre">Operas</field>
 <field name="title">The World Knot</field>
-<field name="titlesort">World Knot</field>
+<field name="titleSort">World Knot</field>
 <field name="composer">Andrew Ford</field>
-<field name="composersort">Ford, Andrew</field>
+<field name="composerSort">Ford, Andrew</field>
 <field name="year">1988</field>
 <field name="date">October 28, 1988</field>
 <field name="librettist">Graham Devlin</field>
-<field name="librettistsort">Devlin, Graham</field>
+<field name="librettistSort">Devlin, Graham</field>
 <field name="theater">Sydney Grammar School</field>
 <field name="city">Sydney</field>
 <field name="region">New South Wales</field>

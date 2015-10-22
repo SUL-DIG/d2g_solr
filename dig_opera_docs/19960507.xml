@@ -3,13 +3,13 @@
 <field name="id">19960507</field>
 <field name="genre">Operas</field>
 <field name="title">Das Mahl des Herrn Orlong</field>
-<field name="titlesort">Mahl des Herrn Orlong</field>
+<field name="titleSort">Mahl des Herrn Orlong</field>
 <field name="composer">Moritz Eggert</field>
-<field name="composersort">Eggert, Moritz</field>
+<field name="composerSort">Eggert, Moritz</field>
 <field name="year">1988</field>
 <field name="date">February 24, 1988</field>
 <field name="librettist">Moritz Eggert</field>
-<field name="librettistsort">Eggert, Moritz</field>
+<field name="librettistSort">Eggert, Moritz</field>
 <field name="theater">Biennale</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

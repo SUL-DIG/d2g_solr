@@ -3,13 +3,13 @@
 <field name="id">19961312</field>
 <field name="genre">Operas</field>
 <field name="title">Kids Court</field>
-<field name="titlesort">Kids Court</field>
+<field name="titleSort">Kids Court</field>
 <field name="composer">David Bass</field>
-<field name="composersort">Bass, David</field>
+<field name="composerSort">Bass, David</field>
 <field name="year">2007</field>
 <field name="date">March 24, 2007</field>
 <field name="librettist">John Kane</field>
-<field name="librettistsort">Kane, John</field>
+<field name="librettistSort">Kane, John</field>
 <field name="theater">King Open School</field>
 <field name="city">Cambridge</field>
 <field name="region">Massachusetts</field>

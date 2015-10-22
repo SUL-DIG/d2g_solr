@@ -3,13 +3,13 @@
 <field name="id">19960433</field>
 <field name="genre">Operas</field>
 <field name="title">Chrysalis</field>
-<field name="titlesort">Chrysalis</field>
+<field name="titleSort">Chrysalis</field>
 <field name="composer">Clark Suprynowicz</field>
-<field name="composersort">Suprynowicz, Clark </field>
+<field name="composerSort">Suprynowicz, Clark </field>
 <field name="year">2006</field>
 <field name="date">April 22, 2006</field>
 <field name="librettist">John O'Keefe</field>
-<field name="librettistsort">O'Keefe, John</field>
+<field name="librettistSort">O'Keefe, John</field>
 <field name="theater">Julia Morgan Theater</field>
 <field name="city">Berkeley</field>
 <field name="region">California</field>

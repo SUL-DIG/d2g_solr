@@ -3,13 +3,13 @@
 <field name="id">19961603</field>
 <field name="genre">Operas</field>
 <field name="title">Lulu, le chant souterrain</field>
-<field name="titlesort">Lulu, le chant souterrain</field>
+<field name="titleSort">Lulu, le chant souterrain</field>
 <field name="composer">Alain Thibault</field>
-<field name="composersort">Thibault, Alain</field>
+<field name="composerSort">Thibault, Alain</field>
 <field name="year">2000</field>
 <field name="date">February 10, 2000</field>
 <field name="librettist">Yan Muckle</field>
-<field name="librettistsort">Muckle, Yan</field>
+<field name="librettistSort">Muckle, Yan</field>
 <field name="theater">Usine C</field>
 <field name="city">Montreal</field>
 <field name="region">Quebec</field>

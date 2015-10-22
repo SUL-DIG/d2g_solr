@@ -3,13 +3,13 @@
 <field name="id">19962689</field>
 <field name="genre">Operas</field>
 <field name="title">The Picnic</field>
-<field name="titlesort">Picnic</field>
+<field name="titleSort">Picnic</field>
 <field name="composer">Richard Cumming</field>
-<field name="composersort">Cumming, Richard</field>
+<field name="composerSort">Cumming, Richard</field>
 <field name="year">1985</field>
 <field name="date">November 22, 1985</field>
 <field name="librettist">Henry Butler</field>
-<field name="librettistsort">Butler, Henry</field>
+<field name="librettistSort">Butler, Henry</field>
 <field name="theater">New York University, Reiman Opera Studio</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

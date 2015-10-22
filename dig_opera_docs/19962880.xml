@@ -3,9 +3,9 @@
 <field name="id">19962880</field>
 <field name="genre">Operas</field>
 <field name="title">Time for Love</field>
-<field name="titlesort">Time for Love</field>
+<field name="titleSort">Time for Love</field>
 <field name="composer">Dimitar Valchev</field>
-<field name="composersort">Valchev, Dimitar</field>
+<field name="composerSort">Valchev, Dimitar</field>
 <field name="year">1959</field>
 <field name="theater">Darzhaven Musikalen Teater</field>
 <field name="city">Sofia</field>

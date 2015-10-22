@@ -3,13 +3,13 @@
 <field name="id">19960186</field>
 <field name="genre">Operas</field>
 <field name="title">Antigone</field>
-<field name="titlesort">Antigone</field>
+<field name="titleSort">Antigone</field>
 <field name="composer">Mikis Theodorakes</field>
-<field name="composersort">Theodorakes, Mikis</field>
+<field name="composerSort">Theodorakes, Mikis</field>
 <field name="year">1999</field>
 <field name="date">October 7, 1999</field>
 <field name="librettist">Mikis Theodorakes</field>
-<field name="librettistsort">Theodorakes, Mikis</field>
+<field name="librettistSort">Theodorakes, Mikis</field>
 <field name="theater">Megaro Moussikis Athinon</field>
 <field name="city">Athens</field>
 <field name="region">Attiki</field>

@@ -3,13 +3,13 @@
 <field name="id">19962178</field>
 <field name="genre">Operas</field>
 <field name="title">Ronja Räubertochter</field>
-<field name="titlesort">Ronja Räubertochter</field>
+<field name="titleSort">Ronja Räubertochter</field>
 <field name="composer">Jörn Arnecke</field>
-<field name="composersort">Arnecke, Jörn</field>
+<field name="composerSort">Arnecke, Jörn</field>
 <field name="year">2015</field>
 <field name="date">February 26, 2015</field>
 <field name="librettist">Holger Potocki</field>
-<field name="librettistsort">Potocki, Holger</field>
+<field name="librettistSort">Potocki, Holger</field>
 <field name="theater">Deutsche Oper am Rhein</field>
 <field name="city">Duisburg</field>
 <field name="region">Nordrhein-Westfallen</field>

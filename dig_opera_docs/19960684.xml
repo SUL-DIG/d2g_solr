@@ -3,13 +3,13 @@
 <field name="id">19960684</field>
 <field name="genre">Operas</field>
 <field name="title">Dolja Doriana (Dorian's Fate)</field>
-<field name="titlesort">Dolja Doriana (Dorian's Fate)</field>
+<field name="titleSort">Dolja Doriana (Dorian's Fate)</field>
 <field name="composer">Karmella Tsepkolenko</field>
-<field name="composersort">Tsepkolenko, Karmella</field>
+<field name="composerSort">Tsepkolenko, Karmella</field>
 <field name="year">2004</field>
 <field name="date">June 11, 2004</field>
 <field name="librettist">Sergey Stupak</field>
-<field name="librettistsort">Stupak, Sergey</field>
+<field name="librettistSort">Stupak, Sergey</field>
 <field name="theater">Magara Music-Drama Theater</field>
 <field name="city">Zaporizhia</field>
 <field name="region">Zaporizhia Oblast</field>

@@ -3,12 +3,12 @@
 <field name="id">19961281</field>
 <field name="genre">Operas</field>
 <field name="title">Karalienė Bona</field>
-<field name="titlesort">Karalienė Bona</field>
+<field name="titleSort">Karalienė Bona</field>
 <field name="composer">Giedrius Kuprevičius</field>
-<field name="composersort">Kuprevičius, Giedrius</field>
+<field name="composerSort">Kuprevičius, Giedrius</field>
 <field name="year">2002</field>
 <field name="librettist">Giedrius Kuprevičius</field>
-<field name="librettistsort">Kuprevičius, Giedrius</field>
+<field name="librettistSort">Kuprevičius, Giedrius</field>
 <field name="theater">Kauno Valstybinis Muzikinas Teatras</field>
 <field name="city">Kaunas</field>
 <field name="country">Lithuania</field>

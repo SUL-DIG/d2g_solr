@@ -3,13 +3,13 @@
 <field name="id">19960383</field>
 <field name="genre">Operas</field>
 <field name="title">Café Kafka</field>
-<field name="titlesort">Café Kafka</field>
+<field name="titleSort">Café Kafka</field>
 <field name="composer">Francisco Coll</field>
-<field name="composersort">Coll, Francisco</field>
+<field name="composerSort">Coll, Francisco</field>
 <field name="year">2014</field>
 <field name="date">March 14, 2014</field>
 <field name="librettist">Meredith Oakes</field>
-<field name="librettistsort">Oakes, Meredith</field>
+<field name="librettistSort">Oakes, Meredith</field>
 <field name="theater">The Maltings</field>
 <field name="city">Snape</field>
 <field name="region">Suffolk</field>

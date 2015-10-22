@@ -3,9 +3,9 @@
 <field name="id">19960925</field>
 <field name="genre">Operas</field>
 <field name="title">Freud for Her</field>
-<field name="titlesort">Freud for Her</field>
+<field name="titleSort">Freud for Her</field>
 <field name="composer">Iossif Valette</field>
-<field name="composersort">Valette, Iossif</field>
+<field name="composerSort">Valette, Iossif</field>
 <field name="year">2012</field>
 <field name="date">June 21, 2012</field>
 <field name="theater">Olympia Theatron</field>

@@ -3,13 +3,13 @@
 <field name="id">19960834</field>
 <field name="genre">Operas</field>
 <field name="title">Excelsior!</field>
-<field name="titlesort">Excelsior!</field>
+<field name="titleSort">Excelsior!</field>
 <field name="composer">Gyula Fekete</field>
-<field name="composersort">Fekete, Gyula</field>
+<field name="composerSort">Fekete, Gyula</field>
 <field name="year">2011</field>
 <field name="date">March 18, 2011</field>
 <field name="librettist">András Papp</field>
-<field name="librettistsort">Papp, András</field>
+<field name="librettistSort">Papp, András</field>
 <field name="theater">Magyar Allami Operaház</field>
 <field name="city">Budapest</field>
 <field name="country">Hungary</field>

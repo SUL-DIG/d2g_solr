@@ -3,12 +3,12 @@
 <field name="id">19961298</field>
 <field name="genre">Operas</field>
 <field name="title">Kaupen, mans milais (Kaupen, My Dear)</field>
-<field name="titlesort">Kaupen, mans milais (Kaupen, My Dear)</field>
+<field name="titleSort">Kaupen, mans milais (Kaupen, My Dear)</field>
 <field name="composer">Jānis Lūsēns</field>
-<field name="composersort">Lūsēns, Jānis</field>
+<field name="composerSort">Lūsēns, Jānis</field>
 <field name="year">1999</field>
 <field name="librettist">Māra Zālīte</field>
-<field name="librettistsort">Zālīte, Māra</field>
+<field name="librettistSort">Zālīte, Māra</field>
 <field name="theater">Liepajas Teatris</field>
 <field name="city">Liepaja</field>
 <field name="region">Liepaja</field>

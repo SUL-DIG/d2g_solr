@@ -3,13 +3,13 @@
 <field name="id">19960876</field>
 <field name="genre">Operas</field>
 <field name="title">Fences</field>
-<field name="titlesort">Fences</field>
+<field name="titleSort">Fences</field>
 <field name="composer">John Sharpley</field>
-<field name="composersort">Sharpley, John</field>
+<field name="composerSort">Sharpley, John</field>
 <field name="year">2012</field>
 <field name="date">August 18, 2012</field>
 <field name="librettist">Robert Yeo</field>
-<field name="librettistsort">Yeo, Robert</field>
+<field name="librettistSort">Yeo, Robert</field>
 <field name="theater">Nanyang Academy of Fine Arts</field>
 <field name="city">Singapore</field>
 <field name="country">Singapore</field>

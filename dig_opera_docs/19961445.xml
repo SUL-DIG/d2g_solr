@@ -3,13 +3,13 @@
 <field name="id">19961445</field>
 <field name="genre">Operas</field>
 <field name="title">La serenata al vento</field>
-<field name="titlesort">serenata al vento</field>
+<field name="titleSort">serenata al vento</field>
 <field name="composer">Aldo Finzi</field>
-<field name="composersort">Finzi, Aldo</field>
+<field name="composerSort">Finzi, Aldo</field>
 <field name="year">2012</field>
 <field name="date">December 1, 2012</field>
 <field name="librettist">Carlo Veneziani</field>
-<field name="librettistsort">Veneziani, Carlo</field>
+<field name="librettistSort">Veneziani, Carlo</field>
 <field name="theater">Teatro Donizetti</field>
 <field name="city">Bergamo</field>
 <field name="region">Lombardia</field>

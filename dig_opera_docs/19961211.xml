@@ -3,13 +3,13 @@
 <field name="id">19961211</field>
 <field name="genre">Operas</field>
 <field name="title">Ivan Groznïy (Ivan the Terrible)</field>
-<field name="titlesort">Ivan Groznïy (Ivan the Terrible)</field>
+<field name="titleSort">Ivan Groznïy (Ivan the Terrible)</field>
 <field name="composer">Sergey Mikhaylovich Slonimsky</field>
-<field name="composersort">Slonimsky,Sergey Mikhaylovich</field>
+<field name="composerSort">Slonimsky,Sergey Mikhaylovich</field>
 <field name="year">1998</field>
 <field name="date">October 10, 1998</field>
 <field name="librettist">Yakov Arkad'evich Gordin</field>
-<field name="librettistsort">Gordin, Yakov Arkad'evich</field>
+<field name="librettistSort">Gordin, Yakov Arkad'evich</field>
 <field name="theater">Teatri Operï i Baletta</field>
 <field name="city">Samara</field>
 <field name="region">Tatarstan</field>

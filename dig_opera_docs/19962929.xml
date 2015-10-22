@@ -3,13 +3,13 @@
 <field name="id">19962929</field>
 <field name="genre">Operas</field>
 <field name="title">Turtle Wakes</field>
-<field name="titlesort">Turtle Wakes</field>
+<field name="titleSort">Turtle Wakes</field>
 <field name="composer">Allan Gordon Bell</field>
-<field name="composersort">Bell, Allan Gordon</field>
+<field name="composerSort">Bell, Allan Gordon</field>
 <field name="year">2001</field>
 <field name="date">February 6, 2001</field>
 <field name="librettist">Rick McNair</field>
-<field name="librettistsort">McNair, Rick</field>
+<field name="librettistSort">McNair, Rick</field>
 <field name="theater">Southern Alberta Jubilee Auditorium</field>
 <field name="city">Calgary</field>
 <field name="region">Alberta</field>

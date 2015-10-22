@@ -3,13 +3,13 @@
 <field name="id">19960176</field>
 <field name="genre">Operas</field>
 <field name="title">Anoia</field>
-<field name="titlesort">Anoia</field>
+<field name="titleSort">Anoia</field>
 <field name="composer">Gordon Kampe</field>
-<field name="composersort">Kampe, Gordon</field>
+<field name="composerSort">Kampe, Gordon</field>
 <field name="year">2012</field>
 <field name="date">July 5, 2012</field>
 <field name="librettist">Alexander Müller-Elmau</field>
-<field name="librettistsort">Müller-Elmau, Alexander</field>
+<field name="librettistSort">Müller-Elmau, Alexander</field>
 <field name="theater">Oldenburgische Staatstheater</field>
 <field name="city">Oldenburg</field>
 <field name="region">Niedersachsen</field>

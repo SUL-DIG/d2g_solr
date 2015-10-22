@@ -3,13 +3,13 @@
 <field name="id">19962032</field>
 <field name="genre">Operas</field>
 <field name="title">Pojken med flöjten</field>
-<field name="titlesort">Pojken med flöjten</field>
+<field name="titleSort">Pojken med flöjten</field>
 <field name="composer">Sven-Eric Johanson</field>
-<field name="composersort">Johanson, Sven-Eric</field>
+<field name="composerSort">Johanson, Sven-Eric</field>
 <field name="year">1980</field>
 <field name="date">December 3, 1980</field>
 <field name="librettist">Hans Peterson</field>
-<field name="librettistsort">Peterson, Hans</field>
+<field name="librettistSort">Peterson, Hans</field>
 <field name="theater">Historiska museet</field>
 <field name="city">Göteborg</field>
 <field name="region">Göteborg och Bohus</field>

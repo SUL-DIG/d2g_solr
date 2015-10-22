@@ -3,13 +3,13 @@
 <field name="id">19960809</field>
 <field name="genre">Operas</field>
 <field name="title">Entanglements</field>
-<field name="titlesort">Entanglements</field>
+<field name="titleSort">Entanglements</field>
 <field name="composer">Charles Norman Mason</field>
-<field name="composersort">Mason, Charles Norman</field>
+<field name="composerSort">Mason, Charles Norman</field>
 <field name="year">2013</field>
 <field name="date">April 18, 2013</field>
 <field name="librettist">Charles Norman Mason</field>
-<field name="librettistsort">Mason, Charles Norman</field>
+<field name="librettistSort">Mason, Charles Norman</field>
 <field name="theater">University of Miami</field>
 <field name="city">Miami</field>
 <field name="region">Florida</field>

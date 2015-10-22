@@ -3,13 +3,13 @@
 <field name="id">19960479</field>
 <field name="genre">Operas</field>
 <field name="title">Custer and Sitting Bull</field>
-<field name="titlesort">Custer and Sitting Bull</field>
+<field name="titleSort">Custer and Sitting Bull</field>
 <field name="composer">Kyle Gann</field>
-<field name="composersort">Gann, Kyle</field>
+<field name="composerSort">Gann, Kyle</field>
 <field name="year">1999</field>
 <field name="date">February 22, 1999</field>
 <field name="librettist">George Armstrong Custer</field>
-<field name="librettistsort">Custer, George Armstrong</field>
+<field name="librettistSort">Custer, George Armstrong</field>
 <field name="theater">Museum of Contemporary Art</field>
 <field name="city">Los Angeles</field>
 <field name="region">California</field>

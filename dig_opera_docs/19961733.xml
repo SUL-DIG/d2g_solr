@@ -3,13 +3,13 @@
 <field name="id">19961733</field>
 <field name="genre">Operas</field>
 <field name="title">Minsk</field>
-<field name="titlesort">Minsk</field>
+<field name="titleSort">Minsk</field>
 <field name="composer">Ian Wilson</field>
-<field name="composersort">Wilson, Ian</field>
+<field name="composerSort">Wilson, Ian</field>
 <field name="year">2013</field>
 <field name="date">March 3, 2013</field>
 <field name="librettist">Lavinia Greenlaw</field>
-<field name="librettistsort">Greenlaw, Lavinia</field>
+<field name="librettistSort">Greenlaw, Lavinia</field>
 <field name="theater">Stadttheater</field>
 <field name="city">Heilbronn</field>
 <field name="region">Baden-Württemberg</field>

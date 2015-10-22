@@ -3,13 +3,13 @@
 <field name="id">19961131</field>
 <field name="genre">Operas</field>
 <field name="title">I Hate Mozart</field>
-<field name="titlesort">I Hate Mozart</field>
+<field name="titleSort">I Hate Mozart</field>
 <field name="composer">Bernhard Lang</field>
-<field name="composersort">Lang, Bernhard</field>
+<field name="composerSort">Lang, Bernhard</field>
 <field name="year">2006</field>
 <field name="date">November 8, 2006</field>
 <field name="librettist">Michael Sturminger</field>
-<field name="librettistsort">Sturminger. Michael </field>
+<field name="librettistSort">Sturminger. Michael </field>
 <field name="theater">Theater an der Wien</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

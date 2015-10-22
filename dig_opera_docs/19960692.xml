@@ -3,13 +3,13 @@
 <field name="id">19960692</field>
 <field name="genre">Operas</field>
 <field name="title">Doorstepping Susannah</field>
-<field name="titlesort">Doorstepping Susannah</field>
+<field name="titleSort">Doorstepping Susannah</field>
 <field name="composer">Davey Moore</field>
-<field name="composersort">Moore, Davey</field>
+<field name="composerSort">Moore, Davey</field>
 <field name="year">2002</field>
 <field name="date">February 18, 2002</field>
 <field name="librettist">Helen Grime</field>
-<field name="librettistsort">Grime, Helen</field>
+<field name="librettistSort">Grime, Helen</field>
 <field name="theater">Bridewell Theatre</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

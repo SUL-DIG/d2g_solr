@@ -3,13 +3,13 @@
 <field name="id">19962860</field>
 <field name="genre">Operas</field>
 <field name="title">Thebans</field>
-<field name="titlesort">Thebans</field>
+<field name="titleSort">Thebans</field>
 <field name="composer">Julian Anderson</field>
-<field name="composersort">Anderson, Julian</field>
+<field name="composerSort">Anderson, Julian</field>
 <field name="year">2014</field>
 <field name="date">May 3, 2014</field>
 <field name="librettist">Frank McGuinness</field>
-<field name="librettistsort">McGuinness, Frank</field>
+<field name="librettistSort">McGuinness, Frank</field>
 <field name="theater">Coliseum</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

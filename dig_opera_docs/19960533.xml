@@ -3,9 +3,9 @@
 <field name="id">19960533</field>
 <field name="genre">Operas</field>
 <field name="title">Death Fragments</field>
-<field name="titlesort">Death Fragments</field>
+<field name="titleSort">Death Fragments</field>
 <field name="composer">Tetsuo Furudate</field>
-<field name="composersort">Furudate, Tetsuo</field>
+<field name="composerSort">Furudate, Tetsuo</field>
 <field name="year">2011</field>
 <field name="date">April 16, 2011</field>
 <field name="theater">Stadttheater</field>

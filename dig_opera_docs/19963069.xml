@@ -3,9 +3,9 @@
 <field name="id">19963069</field>
 <field name="genre">Operas</field>
 <field name="title">Wow!</field>
-<field name="titlesort">Wow!</field>
+<field name="titleSort">Wow!</field>
 <field name="composer">Alberto García Demestres</field>
-<field name="composersort">Demestres, Alberto García</field>
+<field name="composerSort">Demestres, Alberto García</field>
 <field name="year">2013</field>
 <field name="date">August 14, 2013</field>
 <field name="theater">Festival Castell ed Peralada</field>

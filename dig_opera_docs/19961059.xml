@@ -3,13 +3,13 @@
 <field name="id">19961059</field>
 <field name="genre">Operas</field>
 <field name="title">Hearts on Fire</field>
-<field name="titlesort">Hearts on Fire</field>
+<field name="titleSort">Hearts on Fire</field>
 <field name="composer">Roger Ames</field>
-<field name="composersort">Ames, Roger</field>
+<field name="composerSort">Ames, Roger</field>
 <field name="year">1995</field>
 <field name="date">May 11, 1995</field>
 <field name="librettist">Laura Harrington</field>
-<field name="librettistsort">Harrington, Laura</field>
+<field name="librettistSort">Harrington, Laura</field>
 <field name="theater">Nautilus Music-Theater</field>
 <field name="city">St. Paul</field>
 <field name="region">Minnesota</field>

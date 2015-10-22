@@ -3,13 +3,13 @@
 <field name="id">19960691</field>
 <field name="genre">Operas</field>
 <field name="title">Don't We All</field>
-<field name="titlesort">Don't We All</field>
+<field name="titleSort">Don't We All</field>
 <field name="composer">Burrill Phillips</field>
-<field name="composersort">Phillips, Burrill</field>
+<field name="composerSort">Phillips, Burrill</field>
 <field name="year">1949</field>
 <field name="date">May 9, 1949</field>
 <field name="librettist">Alberta Phillips</field>
-<field name="librettistsort">Phillips, Alberta</field>
+<field name="librettistSort">Phillips, Alberta</field>
 <field name="theater">Eastman School of Music</field>
 <field name="city">Rochester</field>
 <field name="region">New York</field>

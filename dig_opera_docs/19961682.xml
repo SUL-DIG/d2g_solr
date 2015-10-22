@@ -3,13 +3,13 @@
 <field name="id">19961682</field>
 <field name="genre">Operas</field>
 <field name="title">Masada</field>
-<field name="titlesort">Masada</field>
+<field name="titleSort">Masada</field>
 <field name="composer">Fredrick Kaufman</field>
-<field name="composersort">Kaufman, Fredrick</field>
+<field name="composerSort">Kaufman, Fredrick</field>
 <field name="year">1998</field>
 <field name="date">March 7, 1998</field>
 <field name="librettist">Craig Eisendrath</field>
-<field name="librettistsort">Eisendrath, Craig</field>
+<field name="librettistSort">Eisendrath, Craig</field>
 <field name="theater">City Center</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

@@ -3,12 +3,12 @@
 <field name="id">19961359</field>
 <field name="genre">Operas</field>
 <field name="title">L'autre frère</field>
-<field name="titlesort">autre frère</field>
+<field name="titleSort">autre frère</field>
 <field name="composer">Samy Moussa</field>
-<field name="composersort">Moussa, Samy</field>
+<field name="composerSort">Moussa, Samy</field>
 <field name="year">2010</field>
 <field name="librettist">Claudio Pinto</field>
-<field name="librettistsort">Pinto, Claudio</field>
+<field name="librettistSort">Pinto, Claudio</field>
 <field name="theater">Biennale</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

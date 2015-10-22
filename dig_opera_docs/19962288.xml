@@ -3,13 +3,13 @@
 <field name="id">19962288</field>
 <field name="genre">Operas</field>
 <field name="title">Simeon</field>
-<field name="titlesort">Simeon</field>
+<field name="titleSort">Simeon</field>
 <field name="composer">Dwight Gustafson</field>
-<field name="composersort">Gustafson, Dwight</field>
+<field name="composerSort">Gustafson, Dwight</field>
 <field name="year">2008</field>
 <field name="date">December 8, 2008</field>
 <field name="librettist">David Burke</field>
-<field name="librettistsort">Burke, David</field>
+<field name="librettistSort">Burke, David</field>
 <field name="theater">Bob Jones University</field>
 <field name="city">Greenville</field>
 <field name="region">South Carolina</field>

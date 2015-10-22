@@ -3,13 +3,13 @@
 <field name="id">19960386</field>
 <field name="genre">Operas</field>
 <field name="title">Cain and Abel</field>
-<field name="titlesort">Cain and Abel</field>
+<field name="titleSort">Cain and Abel</field>
 <field name="composer">Bent Lorentzen</field>
-<field name="composersort">Lorentzen, Bent</field>
+<field name="composerSort">Lorentzen, Bent</field>
 <field name="year">2006</field>
 <field name="date">September 5, 2006</field>
 <field name="librettist">Bent Lorentzen</field>
-<field name="librettistsort">Lorentzen, Bent</field>
+<field name="librettistSort">Lorentzen, Bent</field>
 <field name="theater">Takkelloftet</field>
 <field name="city">Copenhagen</field>
 <field name="region">Hovedstaden</field>

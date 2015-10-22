@@ -3,13 +3,13 @@
 <field name="id">19961941</field>
 <field name="genre">Operas</field>
 <field name="title">Outro Fim</field>
-<field name="titlesort">Outro Fim</field>
+<field name="titleSort">Outro Fim</field>
 <field name="composer">António Pinho Vargas</field>
-<field name="composersort">Vargas, António Pinho</field>
+<field name="composerSort">Vargas, António Pinho</field>
 <field name="year">2008</field>
 <field name="date">December 20, 2008</field>
 <field name="librettist">José Manuel Vieira Mendes</field>
-<field name="librettistsort">Mendes, José Manuel Vieira</field>
+<field name="librettistSort">Mendes, José Manuel Vieira</field>
 <field name="theater">Culturgest</field>
 <field name="city">Lisbon</field>
 <field name="region">Lisboa</field>

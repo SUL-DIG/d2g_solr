@@ -3,13 +3,13 @@
 <field name="id">19960638</field>
 <field name="genre">Operas</field>
 <field name="title">Die Marx Sisters</field>
-<field name="titlesort">Marx Sisters</field>
+<field name="titleSort">Marx Sisters</field>
 <field name="composer">George Dreyfus</field>
-<field name="composersort">Dreyfus, George</field>
+<field name="composerSort">Dreyfus, George</field>
 <field name="year">1996</field>
 <field name="date">April 20, 1996</field>
 <field name="librettist">Volker Elis Pilgrim</field>
-<field name="librettistsort">Pilgrim,Volker Elis</field>
+<field name="librettistSort">Pilgrim,Volker Elis</field>
 <field name="theater">Stadttheater</field>
 <field name="city">Bielefeld</field>
 <field name="region">Nordrhein-Westfallen</field>

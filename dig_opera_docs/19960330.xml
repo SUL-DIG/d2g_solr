@@ -3,13 +3,13 @@
 <field name="id">19960330</field>
 <field name="genre">Operas</field>
 <field name="title">Blaubarts</field>
-<field name="titlesort">Blaubarts</field>
+<field name="titleSort">Blaubarts</field>
 <field name="composer">Samu Gryllus</field>
-<field name="composersort">Gryllus, Samu</field>
+<field name="composerSort">Gryllus, Samu</field>
 <field name="year">2011</field>
 <field name="date">November 4, 2011</field>
 <field name="librettist">Zoltán András Bán</field>
-<field name="librettistsort">Bán, Zoltán András</field>
+<field name="librettistSort">Bán, Zoltán András</field>
 <field name="theater">Theater an der Wien</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

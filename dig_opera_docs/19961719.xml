@@ -3,13 +3,13 @@
 <field name="id">19961719</field>
 <field name="genre">Operas</field>
 <field name="title">Messenius ja Lucia (Messenius and Lucia)</field>
-<field name="titlesort">Messenius ja Lucia (Messenius and Lucia)</field>
+<field name="titleSort">Messenius ja Lucia (Messenius and Lucia)</field>
 <field name="composer">Olli Kortekangas</field>
-<field name="composersort">Kortekangas, Olli</field>
+<field name="composerSort">Kortekangas, Olli</field>
 <field name="year">2005</field>
 <field name="date">September 16, 2005</field>
 <field name="librettist">Juha Seppälä</field>
-<field name="librettistsort">Seppälä, Juha</field>
+<field name="librettistSort">Seppälä, Juha</field>
 <field name="theater">Oulun kaupunginteatteri</field>
 <field name="city">Oulu</field>
 <field name="region">Pohjois-Pohjanmaa</field>

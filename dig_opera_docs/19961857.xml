@@ -3,13 +3,13 @@
 <field name="id">19961857</field>
 <field name="genre">Operas</field>
 <field name="title">Nuit des hommes</field>
-<field name="titlesort">Nuit des hommes</field>
+<field name="titleSort">Nuit des hommes</field>
 <field name="composer">Per Nørgård</field>
-<field name="composersort">Nørgård, Per</field>
+<field name="composerSort">Nørgård, Per</field>
 <field name="year">1996</field>
 <field name="date">September 9, 1996</field>
 <field name="librettist">Guillaume Apollinaire</field>
-<field name="librettistsort">Apollinaire, Guillaume</field>
+<field name="librettistSort">Apollinaire, Guillaume</field>
 <field name="theater">Albertslundhuset</field>
 <field name="city">Copenhagen</field>
 <field name="region">Hovedstaden</field>

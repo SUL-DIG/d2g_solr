@@ -3,13 +3,13 @@
 <field name="id">19960032</field>
 <field name="genre">Operas</field>
 <field name="title">A Dream Fulfilled: The Saga of George Washington Carver</field>
-<field name="titlesort">Dream Fulfilled: The Saga of George Washington Carver</field>
+<field name="titleSort">Dream Fulfilled: The Saga of George Washington Carver</field>
 <field name="composer">Michael Patterson</field>
-<field name="composersort">Patterson, Michael</field>
+<field name="composerSort">Patterson, Michael</field>
 <field name="year">2009</field>
 <field name="date">January 26, 2009</field>
 <field name="librettist">Michael Patterson</field>
-<field name="librettistsort">Patterson, Michael</field>
+<field name="librettistSort">Patterson, Michael</field>
 <field name="theater">Simpson College</field>
 <field name="city">Indianola</field>
 <field name="region">Iowa</field>

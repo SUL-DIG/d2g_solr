@@ -3,13 +3,13 @@
 <field name="id">19962376</field>
 <field name="genre">Operas</field>
 <field name="title">Styria</field>
-<field name="titlesort">Styria</field>
+<field name="titleSort">Styria</field>
 <field name="composer">Sara Hutchings</field>
-<field name="composersort">Hutchings, Sara</field>
+<field name="composerSort">Hutchings, Sara</field>
 <field name="year">2013</field>
 <field name="date">June 2, 2013</field>
 <field name="librettist">Amanda  Consol</field>
-<field name="librettistsort">Consol, Amanda  </field>
+<field name="librettistSort">Consol, Amanda  </field>
 <field name="theater">University of Cincinnati</field>
 <field name="city">Cincinnati</field>
 <field name="region">Ohio</field>

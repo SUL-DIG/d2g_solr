@@ -3,12 +3,12 @@
 <field name="id">19962074</field>
 <field name="genre">Operas</field>
 <field name="title">Puteshestviye v zamok alfavita</field>
-<field name="titlesort">Puteshestviye v zamok alfavita</field>
+<field name="titleSort">Puteshestviye v zamok alfavita</field>
 <field name="composer">Viktor Antonovich Voytik</field>
-<field name="composersort">Voytik, Viktor Antonovich</field>
+<field name="composerSort">Voytik, Viktor Antonovich</field>
 <field name="year">1996</field>
 <field name="librettist">Svetlana Klimkovich</field>
-<field name="librettistsort">Klimkovich, Svetlana</field>
+<field name="librettistSort">Klimkovich, Svetlana</field>
 <field name="theater">Belorusskiy Teatr Operï i Baleta</field>
 <field name="city">Minsk</field>
 <field name="region">Minsk Oblast</field>

@@ -3,12 +3,12 @@
 <field name="id">19960740</field>
 <field name="genre">Operas</field>
 <field name="title">Earthrise</field>
-<field name="titlesort">Earthrise</field>
+<field name="titleSort">Earthrise</field>
 <field name="composer">Lewis Spratlan</field>
-<field name="composersort">Spratlan, Lewis</field>
+<field name="composerSort">Spratlan, Lewis</field>
 <field name="year">2004</field>
 <field name="librettist">Constance Congdon</field>
-<field name="librettistsort">Congdon, Constance</field>
+<field name="librettistSort">Congdon, Constance</field>
 <field name="theater">Opera Workshop</field>
 <field name="city">San Francisco</field>
 <field name="region">California</field>

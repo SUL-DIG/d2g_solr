@@ -3,13 +3,13 @@
 <field name="id">19961577</field>
 <field name="genre">Operas</field>
 <field name="title">Lola la piconera</field>
-<field name="titlesort">Lola la piconera</field>
+<field name="titleSort">Lola la piconera</field>
 <field name="composer">Conrado del Campo</field>
-<field name="composersort">Campo, Conrado del</field>
+<field name="composerSort">Campo, Conrado del</field>
 <field name="year">1950</field>
 <field name="date">November 14, 1950</field>
 <field name="librettist">José María Pemán</field>
-<field name="librettistsort">Pemán, José María</field>
+<field name="librettistSort">Pemán, José María</field>
 <field name="theater">Gran Teatre del Liceu</field>
 <field name="city">Barcelona</field>
 <field name="region">Catalunya</field>

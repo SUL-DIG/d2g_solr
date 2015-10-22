@@ -3,13 +3,13 @@
 <field name="id">19960748</field>
 <field name="genre">Operas</field>
 <field name="title">Edith Wharton</field>
-<field name="titlesort">Edith Wharton</field>
+<field name="titleSort">Edith Wharton</field>
 <field name="composer">Myron Fink</field>
-<field name="composersort">Fink, Myron</field>
+<field name="composerSort">Fink, Myron</field>
 <field name="year">2003</field>
 <field name="date">September 21, 2003</field>
 <field name="librettist">Donald Moreland</field>
-<field name="librettistsort">Moreland, Donald</field>
+<field name="librettistSort">Moreland, Donald</field>
 <field name="theater">Lemon Grove Historical Society</field>
 <field name="city">San Diego</field>
 <field name="region">California</field>

@@ -3,12 +3,12 @@
 <field name="id">19961468</field>
 <field name="genre">Operas</field>
 <field name="title">Laura</field>
-<field name="titlesort">Laura</field>
+<field name="titleSort">Laura</field>
 <field name="composer">Béla Tardos </field>
-<field name="composersort">Tardos, Béla</field>
+<field name="composerSort">Tardos, Béla</field>
 <field name="year">1966</field>
 <field name="librettist">Miklós Gyárfás</field>
-<field name="librettistsort">Gyárfás, Miklós</field>
+<field name="librettistSort">Gyárfás, Miklós</field>
 <field name="theater">Csokonai Nemzeti Színház</field>
 <field name="city">Debrecen</field>
 <field name="region">Hajdú-Bihar</field>

@@ -3,13 +3,13 @@
 <field name="id">19960042</field>
 <field name="genre">Operas</field>
 <field name="title">A Journey to the End of the Millennium</field>
-<field name="titlesort">Journey to the End of the Millennium</field>
+<field name="titleSort">Journey to the End of the Millennium</field>
 <field name="composer">Joseph Bardanashvili</field>
-<field name="composersort">Bardanashvili, Joseph</field>
+<field name="composerSort">Bardanashvili, Joseph</field>
 <field name="year">2005</field>
 <field name="date">May 21, 2005</field>
 <field name="librettist">Abraham B. Yehoshua</field>
-<field name="librettistsort">Yehoshua, Abraham B.</field>
+<field name="librettistSort">Yehoshua, Abraham B.</field>
 <field name="theater">Israeli Opera</field>
 <field name="city">Tel Aviv</field>
 <field name="country">Israel</field>

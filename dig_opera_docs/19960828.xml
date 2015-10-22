@@ -3,13 +3,13 @@
 <field name="id">19960828</field>
 <field name="genre">Operas</field>
 <field name="title">Eva</field>
-<field name="titlesort">Eva</field>
+<field name="titleSort">Eva</field>
 <field name="composer">Joseph Bardanashvili</field>
-<field name="composersort">Bardanashvili, Joseph</field>
+<field name="composerSort">Bardanashvili, Joseph</field>
 <field name="year">1999</field>
 <field name="date">May 1, 1999</field>
 <field name="librettist">Alexey Parin</field>
-<field name="librettistsort">Parin, Alexey</field>
+<field name="librettistSort">Parin, Alexey</field>
 <field name="theater">Mayakovsky Teatr</field>
 <field name="city">Moscow</field>
 <field name="country">Russia</field>

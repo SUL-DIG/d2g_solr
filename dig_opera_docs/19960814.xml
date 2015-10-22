@@ -3,13 +3,13 @@
 <field name="id">19960814</field>
 <field name="genre">Operas</field>
 <field name="title">Erlöst Albert E.</field>
-<field name="titlesort">Erlöst Albert E.</field>
+<field name="titleSort">Erlöst Albert E.</field>
 <field name="composer">Gerhard Stäbler</field>
-<field name="composersort">Stäbler, Gerhard</field>
+<field name="composerSort">Stäbler, Gerhard</field>
 <field name="year">2014</field>
 <field name="date">June 26, 2014</field>
 <field name="librettist">Matthias Kaiser</field>
-<field name="librettistsort">Kaiser, Matthias</field>
+<field name="librettistSort">Kaiser, Matthias</field>
 <field name="theater">Theater der Stadt</field>
 <field name="city">Ulm</field>
 <field name="region">Baden-Württemberg</field>

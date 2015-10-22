@@ -3,12 +3,12 @@
 <field name="id">19961164</field>
 <field name="genre">Operas</field>
 <field name="title">Il principe Barbablu</field>
-<field name="titlesort">principe Barbablu</field>
+<field name="titleSort">principe Barbablu</field>
 <field name="composer">Hendrik Pienaar Hofmeyr</field>
-<field name="composersort">Hofmeyr, Hendrik Pienaar</field>
+<field name="composerSort">Hofmeyr, Hendrik Pienaar</field>
 <field name="year">1986</field>
 <field name="librettist">Hendrik Pienaar Hofmeyr</field>
-<field name="librettistsort">Hofmeyr, Hendrik Pienaar</field>
+<field name="librettistSort">Hofmeyr, Hendrik Pienaar</field>
 <field name="theater">Festa musicale stiana</field>
 <field name="city">Stia</field>
 <field name="region">Toscana</field>

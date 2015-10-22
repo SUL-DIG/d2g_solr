@@ -3,9 +3,9 @@
 <field name="id">19962262</field>
 <field name="genre">Operas</field>
 <field name="title">Shahriar’s Wedding</field>
-<field name="titlesort">Shahriar’s Wedding</field>
+<field name="titleSort">Shahriar’s Wedding</field>
 <field name="composer">Asen Karastoyanov</field>
-<field name="composersort">Karastoyanov, Asen</field>
+<field name="composerSort">Karastoyanov, Asen</field>
 <field name="year">1940</field>
 <field name="city">Sofia</field>
 <field name="country">Bulgaria</field>

@@ -3,13 +3,13 @@
 <field name="id">19962120</field>
 <field name="genre">Operas</field>
 <field name="title">Red Emma</field>
-<field name="titlesort">Red Emma</field>
+<field name="titleSort">Red Emma</field>
 <field name="composer">Gary Kulesha</field>
-<field name="composersort">Kulesha, Gary</field>
+<field name="composerSort">Kulesha, Gary</field>
 <field name="year">1995</field>
 <field name="date">November 28, 1995</field>
 <field name="librettist">Carol Bolt</field>
-<field name="librettistsort">Bolt, Carol</field>
+<field name="librettistSort">Bolt, Carol</field>
 <field name="theater">Du Maurier Theatre</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

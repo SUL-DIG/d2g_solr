@@ -3,12 +3,12 @@
 <field name="id">19962601</field>
 <field name="genre">Operas</field>
 <field name="title">The Jewel Merchants</field>
-<field name="titlesort">Jewel Merchants</field>
+<field name="titleSort">Jewel Merchants</field>
 <field name="composer">Louis Cheslock</field>
-<field name="composersort">Cheslock, Louis</field>
+<field name="composerSort">Cheslock, Louis</field>
 <field name="year">1940</field>
 <field name="librettist">James Branch Cabell</field>
-<field name="librettistsort">Cabell, James Branch</field>
+<field name="librettistSort">Cabell, James Branch</field>
 <field name="theater">Peabody Conservatory</field>
 <field name="city">Baltimore</field>
 <field name="region">Maryland</field>

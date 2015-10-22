@@ -3,13 +3,13 @@
 <field name="id">19962465</field>
 <field name="genre">Operas</field>
 <field name="title">The Blizzard Voices</field>
-<field name="titlesort">Blizzard Voices</field>
+<field name="titleSort">Blizzard Voices</field>
 <field name="composer">Paul Moravec</field>
-<field name="composersort">Moravec, Paul</field>
+<field name="composerSort">Moravec, Paul</field>
 <field name="year">2009</field>
 <field name="date">September 12, 2009</field>
 <field name="librettist">Ted Koozer</field>
-<field name="librettistsort">Koozer, Ted</field>
+<field name="librettistSort">Koozer, Ted</field>
 <field name="theater">Holland Performing Arts Center</field>
 <field name="city">Omaha </field>
 <field name="region">Nebraska</field>

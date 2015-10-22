@@ -3,13 +3,13 @@
 <field name="id">19962399</field>
 <field name="genre">Operas</field>
 <field name="title">Surrender Road</field>
-<field name="titlesort">Surrender Road</field>
+<field name="titleSort">Surrender Road</field>
 <field name="composer">Marcus Hummon</field>
-<field name="composersort">Hummon, Marcus</field>
+<field name="composerSort">Hummon, Marcus</field>
 <field name="year">2005</field>
 <field name="date">November 18, 2005</field>
 <field name="librettist">Marcus Hummon</field>
-<field name="librettistsort">Hummon, Marcus</field>
+<field name="librettistSort">Hummon, Marcus</field>
 <field name="theater">James K. Polk Theater</field>
 <field name="city">Nashville</field>
 <field name="region">Tennessee</field>

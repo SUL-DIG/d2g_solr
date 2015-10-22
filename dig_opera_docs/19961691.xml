@@ -3,13 +3,13 @@
 <field name="id">19961691</field>
 <field name="genre">Operas</field>
 <field name="title">Matrimonio con variazioni</field>
-<field name="titlesort">Matrimonio con variazioni</field>
+<field name="titleSort">Matrimonio con variazioni</field>
 <field name="composer">Józef  Koffler</field>
-<field name="composersort">Koffler, Józef</field>
+<field name="composerSort">Koffler, Józef</field>
 <field name="year">2009</field>
 <field name="date">May 22, 2009</field>
 <field name="librettist">Joanna Kulmowa</field>
-<field name="librettistsort">Kulmowa, Joanna</field>
+<field name="librettistSort">Kulmowa, Joanna</field>
 <field name="theater">Warszawska Opera Kameralna</field>
 <field name="city">Warsaw</field>
 <field name="country">Poland</field>

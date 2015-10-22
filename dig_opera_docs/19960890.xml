@@ -3,13 +3,13 @@
 <field name="id">19960890</field>
 <field name="genre">Operas</field>
 <field name="title">First Night at the Opera</field>
-<field name="titlesort">First Night at the Opera</field>
+<field name="titleSort">First Night at the Opera</field>
 <field name="composer">Giancarlo Aquilanti</field>
-<field name="composersort">Aquilanti, Giancarlo</field>
+<field name="composerSort">Aquilanti, Giancarlo</field>
 <field name="year">2013</field>
 <field name="date">February 23, 2013</field>
 <field name="librettist">Derek Miller</field>
-<field name="librettistsort">Miller, Derek</field>
+<field name="librettistSort">Miller, Derek</field>
 <field name="theater">Stanford University</field>
 <field name="city">Stanford</field>
 <field name="region">California</field>

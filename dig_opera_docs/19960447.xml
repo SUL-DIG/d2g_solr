@@ -3,13 +3,13 @@
 <field name="id">19960447</field>
 <field name="genre">Operas</field>
 <field name="title">Clara</field>
-<field name="titlesort">Clara</field>
+<field name="titleSort">Clara</field>
 <field name="composer">Hans Gefors</field>
-<field name="composersort">Gefors, Hans</field>
+<field name="composerSort">Gefors, Hans</field>
 <field name="year">1998</field>
 <field name="date">December 7, 1998</field>
 <field name="librettist">Jean-Claude Carrière</field>
-<field name="librettistsort">Carrière, Jean-Claude</field>
+<field name="librettistSort">Carrière, Jean-Claude</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

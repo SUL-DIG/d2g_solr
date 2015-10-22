@@ -3,13 +3,13 @@
 <field name="id">19960908</field>
 <field name="genre">Operas</field>
 <field name="title">Foreigh Experiences</field>
-<field name="titlesort">Foreigh Experiences</field>
+<field name="titleSort">Foreigh Experiences</field>
 <field name="composer">Robert Ashley</field>
-<field name="composersort">Ashley, Robert</field>
+<field name="composerSort">Ashley, Robert</field>
 <field name="year">1994</field>
 <field name="date">July 19, 1994</field>
 <field name="librettist">Robert Ashley</field>
-<field name="librettistsort">Ashley, Robert</field>
+<field name="librettistSort">Ashley, Robert</field>
 <field name="theater">Théâtre Municipal</field>
 <field name="city">Avignon</field>
 <field name="region">Vaucluse</field>

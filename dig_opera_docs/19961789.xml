@@ -3,13 +3,13 @@
 <field name="id">19961789</field>
 <field name="genre">Operas</field>
 <field name="title">My Mother's Ring</field>
-<field name="titlesort">My Mother's Ring</field>
+<field name="titleSort">My Mother's Ring</field>
 <field name="composer">Stephen Andrew Taylor</field>
-<field name="composersort">Taylor, Stephen Andrew</field>
+<field name="composerSort">Taylor, Stephen Andrew</field>
 <field name="year">2009</field>
 <field name="date">March 27, 2009</field>
 <field name="librettist">Marcia Johnson</field>
-<field name="librettistsort">Johnson, Marcia</field>
+<field name="librettistSort">Johnson, Marcia</field>
 <field name="theater">Harbourfront Centre</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

@@ -3,13 +3,13 @@
 <field name="id">19961419</field>
 <field name="genre">Operas</field>
 <field name="title">La maison qui chante</field>
-<field name="titlesort">maison qui chante</field>
+<field name="titleSort">maison qui chante</field>
 <field name="composer">Betsy Jolas</field>
-<field name="composersort">Jolas, Betsy</field>
+<field name="composerSort">Jolas, Betsy</field>
 <field name="year">2012</field>
 <field name="date">February 9, 2012</field>
 <field name="librettist">Leigh Sauerwein</field>
-<field name="librettistsort">Sauerwein, Leigh</field>
+<field name="librettistSort">Sauerwein, Leigh</field>
 <field name="theater">Théâtre de Saint-Quentin-en-Yvelines</field>
 <field name="city">Saint-Quentin-en-Yvelines</field>
 <field name="region">Yvelines</field>

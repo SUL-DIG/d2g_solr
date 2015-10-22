@@ -3,13 +3,13 @@
 <field name="id">19960110</field>
 <field name="genre">Operas</field>
 <field name="title">Aliados</field>
-<field name="titlesort">Aliados</field>
+<field name="titleSort">Aliados</field>
 <field name="composer">Sebastian Rivas</field>
-<field name="composersort">Rivas, Sebastian</field>
+<field name="composerSort">Rivas, Sebastian</field>
 <field name="year">2013</field>
 <field name="date">June 14, 2013</field>
 <field name="librettist">Esteban Buch</field>
-<field name="librettistsort">Buch, Esteban</field>
+<field name="librettistSort">Buch, Esteban</field>
 <field name="theater">Théâtre Municipal</field>
 <field name="city">Gennevilliers</field>
 <field name="region">Hauts-de-Seine</field>

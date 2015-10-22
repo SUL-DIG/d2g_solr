@@ -3,13 +3,13 @@
 <field name="id">19963054</field>
 <field name="genre">Operas</field>
 <field name="title">White</field>
-<field name="titlesort">White</field>
+<field name="titleSort">White</field>
 <field name="composer">Gareth Williams</field>
-<field name="composersort">Williams, Gareth</field>
+<field name="composerSort">Williams, Gareth</field>
 <field name="year">2009</field>
 <field name="date">February 20, 2009</field>
 <field name="librettist">Margaret McCartney</field>
-<field name="librettistsort">McCartney, Margaret</field>
+<field name="librettistSort">McCartney, Margaret</field>
 <field name="theater">Oran Mor</field>
 <field name="city">Glasgow</field>
 <field name="region">Scotland</field>

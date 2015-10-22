@@ -3,9 +3,9 @@
 <field name="id">19962542</field>
 <field name="genre">Operas</field>
 <field name="title">The Expelled</field>
-<field name="titlesort">Expelled</field>
+<field name="titleSort">Expelled</field>
 <field name="composer">Evangelia Tonia</field>
-<field name="composersort">Tonia, Evangelia</field>
+<field name="composerSort">Tonia, Evangelia</field>
 <field name="year">2012</field>
 <field name="date">June 21, 2012</field>
 <field name="theater">Olympia Theatron</field>

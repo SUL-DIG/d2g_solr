@@ -3,13 +3,13 @@
 <field name="id">19960423</field>
 <field name="genre">Operas</field>
 <field name="title">Chatter and Static</field>
-<field name="titlesort">Chatter and Static</field>
+<field name="titleSort">Chatter and Static</field>
 <field name="composer">Paul Mathews</field>
-<field name="composersort">Mathews, Paul</field>
+<field name="composerSort">Mathews, Paul</field>
 <field name="year">1995</field>
 <field name="date">April 30, 1995</field>
 <field name="librettist">Paul Mathews</field>
-<field name="librettistsort">Mathews, Paul</field>
+<field name="librettistSort">Mathews, Paul</field>
 <field name="theater">Peabody Conservatory</field>
 <field name="city">Baltimore</field>
 <field name="region">Maryland</field>

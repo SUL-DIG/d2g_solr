@@ -3,13 +3,13 @@
 <field name="id">19962031</field>
 <field name="genre">Operas</field>
 <field name="title">Poika ja harakka (The Boy and the Magpie)</field>
-<field name="titlesort">Poika ja harakka (The Boy and the Magpie)</field>
+<field name="titleSort">Poika ja harakka (The Boy and the Magpie)</field>
 <field name="composer">Kaj Chydenius</field>
-<field name="composersort">Chydenius, Kaj</field>
+<field name="composerSort">Chydenius, Kaj</field>
 <field name="year">2001</field>
 <field name="date">July 28, 2001</field>
 <field name="librettist">Kaj Chydenius</field>
-<field name="librettistsort">Chydenius, Kaj</field>
+<field name="librettistSort">Chydenius, Kaj</field>
 <field name="theater">Valkeakosken kaupunginteatteri</field>
 <field name="city">Valkeakoski</field>
 <field name="region">Pirkanmaa</field>

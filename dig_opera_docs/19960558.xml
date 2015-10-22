@@ -3,13 +3,13 @@
 <field name="id">19960558</field>
 <field name="genre">Operas</field>
 <field name="title">Der Einfluss des Menschen auf den Mond</field>
-<field name="titlesort">Einfluss des Menschen auf den Mond</field>
+<field name="titleSort">Einfluss des Menschen auf den Mond</field>
 <field name="composer">Klaus Lang</field>
-<field name="composersort">Lang, Klaus</field>
+<field name="composerSort">Lang, Klaus</field>
 <field name="year">2011</field>
 <field name="date">March 26, 2011</field>
 <field name="librettist">[Klaus Händl] Händl Klaus</field>
-<field name="librettistsort">Klaus, Händl [Klaus Händl]</field>
+<field name="librettistSort">Klaus, Händl [Klaus Händl]</field>
 <field name="theater">Staatstheater</field>
 <field name="city">Brunswick</field>
 <field name="region">Niedersachsen</field>

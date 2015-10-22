@@ -3,13 +3,13 @@
 <field name="id">19960063</field>
 <field name="genre">Operas</field>
 <field name="title">A Way Home</field>
-<field name="titlesort">Way Home</field>
+<field name="titleSort">Way Home</field>
 <field name="composer">Ethan Frederic Greene</field>
-<field name="composersort">Greene, Ethan Frederic</field>
+<field name="composerSort">Greene, Ethan Frederic</field>
 <field name="year">2010</field>
 <field name="date">March 15, 2010</field>
 <field name="librettist">Irene Keliher</field>
-<field name="librettistsort">Keliher, Irene</field>
+<field name="librettistSort">Keliher, Irene</field>
 <field name="theater">Grand Opera</field>
 <field name="city">Houston</field>
 <field name="region">Texas</field>

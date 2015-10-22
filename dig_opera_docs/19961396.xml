@@ -3,13 +3,13 @@
 <field name="id">19961396</field>
 <field name="genre">Operas</field>
 <field name="title">La dama ed il pulitore di Damasco</field>
-<field name="titlesort">dama ed il pulitore di Damasco</field>
+<field name="titleSort">dama ed il pulitore di Damasco</field>
 <field name="composer">Jonathan Dove</field>
-<field name="composersort">Dove, Jonathan</field>
+<field name="composerSort">Dove, Jonathan</field>
 <field name="year">2003</field>
 <field name="date">July 24, 2003</field>
 <field name="librettist">Adam Pollock</field>
-<field name="librettistsort">Pollock, Adam</field>
+<field name="librettistSort">Pollock, Adam</field>
 <field name="theater">Batignano Festival</field>
 <field name="city">Batignano</field>
 <field name="region">Toscana</field>

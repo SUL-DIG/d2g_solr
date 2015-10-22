@@ -3,13 +3,13 @@
 <field name="id">19961031</field>
 <field name="genre">Operas</field>
 <field name="title">Halima</field>
-<field name="titlesort">Halima</field>
+<field name="titleSort">Halima</field>
 <field name="composer">Theofrastos Sakellarides</field>
-<field name="composersort">Sakellarides, Theofrastos</field>
+<field name="composerSort">Sakellarides, Theofrastos</field>
 <field name="year">2013</field>
 <field name="date">February 15, 2013</field>
 <field name="librettist">S. Potamianos</field>
-<field name="librettistsort">Potamianos, S.</field>
+<field name="librettistSort">Potamianos, S.</field>
 <field name="theater">Olympia Theatron</field>
 <field name="city">Athens</field>
 <field name="region">Attiki</field>

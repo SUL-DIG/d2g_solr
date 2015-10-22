@@ -3,12 +3,12 @@
 <field name="id">19962761</field>
 <field name="genre">Operas</field>
 <field name="title">The Silver Swan</field>
-<field name="titlesort">Silver Swan</field>
+<field name="titleSort">Silver Swan</field>
 <field name="composer">Victor Kioulaphides</field>
-<field name="composersort">Kioulaphides, Victor</field>
+<field name="composerSort">Kioulaphides, Victor</field>
 <field name="year">2005</field>
 <field name="librettist">Victor Kioulaphides</field>
-<field name="librettistsort">Kioulaphides, Victor</field>
+<field name="librettistSort">Kioulaphides, Victor</field>
 <field name="theater">California Opera Association</field>
 <field name="city">Fresno</field>
 <field name="region">California</field>

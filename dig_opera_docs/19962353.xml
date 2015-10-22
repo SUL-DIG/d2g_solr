@@ -3,13 +3,13 @@
 <field name="id">19962353</field>
 <field name="genre">Operas</field>
 <field name="title">St. Thomas the Carpenter</field>
-<field name="titlesort">St. Thomas the Carpenter</field>
+<field name="titleSort">St. Thomas the Carpenter</field>
 <field name="composer">Bruce Trinkley</field>
-<field name="composersort">Trinkley, Bruce</field>
+<field name="composerSort">Trinkley, Bruce</field>
 <field name="year">2011</field>
 <field name="date">January 7, 2011</field>
 <field name="librettist">J. Jason Charnesky</field>
-<field name="librettistsort">Charnesky, J. Jason</field>
+<field name="librettistSort">Charnesky, J. Jason</field>
 <field name="theater">Travis Park United Methodist Church</field>
 <field name="city">San Antonio</field>
 <field name="region">Texas</field>

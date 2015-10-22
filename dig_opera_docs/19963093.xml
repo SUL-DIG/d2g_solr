@@ -3,13 +3,13 @@
 <field name="id">19963093</field>
 <field name="genre">Operas</field>
 <field name="title">Zabette</field>
-<field name="titlesort">Zabette</field>
+<field name="titleSort">Zabette</field>
 <field name="composer">Curtis Bryant</field>
-<field name="composersort">Bryant, Curtis</field>
+<field name="composerSort">Bryant, Curtis</field>
 <field name="year">1999</field>
 <field name="date">April 29, 1999</field>
 <field name="librettist">Mary R. Bullard</field>
-<field name="librettistsort">Bullard, Mary R.</field>
+<field name="librettistSort">Bullard, Mary R.</field>
 <field name="theater">Georgia State University</field>
 <field name="city">Atlanta</field>
 <field name="region">Georgia</field>

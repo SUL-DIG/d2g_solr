@@ -3,13 +3,13 @@
 <field name="id">19961664</field>
 <field name="genre">Operas</field>
 <field name="title">MarieLuise</field>
-<field name="titlesort">MarieLuise</field>
+<field name="titleSort">MarieLuise</field>
 <field name="composer">Gernot Schedlberger</field>
-<field name="composersort">Schedlberger, Gernot</field>
+<field name="composerSort">Schedlberger, Gernot</field>
 <field name="year">2012</field>
 <field name="date">December 31, 2012</field>
 <field name="librettist">Kristine Tornquist</field>
-<field name="librettistsort">Tornquist, Kristine</field>
+<field name="librettistSort">Tornquist, Kristine</field>
 <field name="theater">Sirene Operntheater</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

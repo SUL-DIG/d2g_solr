@@ -3,13 +3,13 @@
 <field name="id">19960263</field>
 <field name="genre">Operas</field>
 <field name="title">Bahadir va Sona</field>
-<field name="titlesort">Bahadir va Sona</field>
+<field name="titleSort">Bahadir va Sona</field>
 <field name="composer">Vasif Adigozalov</field>
-<field name="composersort">Adigozalov, Vasif</field>
+<field name="composerSort">Adigozalov, Vasif</field>
 <field name="year">1961</field>
 <field name="date">November 20, 1961</field>
 <field name="librettist">Afrasiyab Badalbeyli</field>
-<field name="librettistsort">Badalbeyli, Afrasiyab</field>
+<field name="librettistSort">Badalbeyli, Afrasiyab</field>
 <field name="theater">Azerbaijanskiy Akademicheskiy Teatr Operï i Baleta imeni F. Akhundova</field>
 <field name="city">Baku</field>
 <field name="country">Azerbaijan</field>

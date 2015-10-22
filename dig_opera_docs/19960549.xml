@@ -3,13 +3,13 @@
 <field name="id">19960549</field>
 <field name="genre">Operas</field>
 <field name="title">Den Unge Pilegrim</field>
-<field name="titlesort">Unge Pilegrim</field>
+<field name="titleSort">Unge Pilegrim</field>
 <field name="composer">Bertil Palmar Johansen</field>
-<field name="composersort">Johansen, Bertil Palmar</field>
+<field name="composerSort">Johansen, Bertil Palmar</field>
 <field name="year">2012</field>
 <field name="date">July 28, 2012</field>
 <field name="librettist">Terje Nordby</field>
-<field name="librettistsort">Nordby, Terje</field>
+<field name="librettistSort">Nordby, Terje</field>
 <field name="theater">Nidarosdomen Olavsfestdagene</field>
 <field name="city">Trondheim</field>
 <field name="region">Sør-Trøndelag</field>

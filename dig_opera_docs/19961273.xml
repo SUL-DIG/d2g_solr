@@ -3,13 +3,13 @@
 <field name="id">19961273</field>
 <field name="genre">Operas</field>
 <field name="title">Kafka's Chimp</field>
-<field name="titlesort">Kafka's Chimp</field>
+<field name="titleSort">Kafka's Chimp</field>
 <field name="composer">John Metcalf</field>
-<field name="composersort">Metcalf, John</field>
+<field name="composerSort">Metcalf, John</field>
 <field name="year">1996</field>
 <field name="date">August 1, 1996</field>
 <field name="librettist">Mark Morris</field>
-<field name="librettistsort">Morris, Mark</field>
+<field name="librettistSort">Morris, Mark</field>
 <field name="theater">Banff Centre</field>
 <field name="city">Banff</field>
 <field name="region">Alberta</field>

@@ -3,12 +3,12 @@
 <field name="id">19961247</field>
 <field name="genre">Operas</field>
 <field name="title">Joseph Herzog</field>
-<field name="titlesort">Joseph Herzog</field>
+<field name="titleSort">Joseph Herzog</field>
 <field name="composer">Dirk D'Ase</field>
-<field name="composersort">D'Ase, Dirk</field>
+<field name="composerSort">D'Ase, Dirk</field>
 <field name="year">2006</field>
 <field name="librettist">Robert Schindel</field>
-<field name="librettistsort">Schindel, Robert</field>
+<field name="librettistSort">Schindel, Robert</field>
 <field name="theater">Wiener Mozartjahres 2006</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

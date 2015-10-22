@@ -3,13 +3,13 @@
 <field name="id">19961145</field>
 <field name="genre">Operas</field>
 <field name="title">Idriss ou la fête interrompue</field>
-<field name="titlesort">Idriss ou la fête interrompue</field>
+<field name="titleSort">Idriss ou la fête interrompue</field>
 <field name="composer">Isabelle Aboulker</field>
-<field name="composersort">Aboulker, Isabelle</field>
+<field name="composerSort">Aboulker, Isabelle</field>
 <field name="year">1988</field>
 <field name="date">August 1, 1988</field>
 <field name="librettist">Rémi Laureillard</field>
-<field name="librettistsort">Laureillard, Rémi</field>
+<field name="librettistSort">Laureillard, Rémi</field>
 <field name="theater">Les Orchestrades</field>
 <field name="city">Brive-la-Gaillarde</field>
 <field name="region">Corrèze</field>

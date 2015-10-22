@@ -3,12 +3,12 @@
 <field name="id">19962776</field>
 <field name="genre">Operas</field>
 <field name="title">The Story-Teller</field>
-<field name="titlesort">Story-Teller</field>
+<field name="titleSort">Story-Teller</field>
 <field name="composer">Gregg Smith</field>
-<field name="composersort">Smith, Gregg</field>
+<field name="composerSort">Smith, Gregg</field>
 <field name="year">1996</field>
 <field name="librettist">Kim Rich</field>
-<field name="librettistsort">Rich, Kim</field>
+<field name="librettistSort">Rich, Kim</field>
 <field name="theater">Tennessee Technological University</field>
 <field name="city">Cookeville</field>
 <field name="region">Tennessee</field>

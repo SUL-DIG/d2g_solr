@@ -3,12 +3,12 @@
 <field name="id">19962813</field>
 <field name="genre">Operas</field>
 <field name="title">The Umbrella</field>
-<field name="titlesort">Umbrella</field>
+<field name="titleSort">Umbrella</field>
 <field name="composer">Elena Langer</field>
-<field name="composersort">Langer, Elena</field>
+<field name="composerSort">Langer, Elena</field>
 <field name="year">2004</field>
 <field name="librettist">Lavinia Greenlaw</field>
-<field name="librettistsort">Greenlaw, Lavinia</field>
+<field name="librettistSort">Greenlaw, Lavinia</field>
 <field name="theater">Genesis Opera Workshop, Sadler's Wells</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

@@ -3,9 +3,9 @@
 <field name="id">19960302</field>
 <field name="genre">Operas</field>
 <field name="title">Ben</field>
-<field name="titlesort">Ben</field>
+<field name="titleSort">Ben</field>
 <field name="composer">David Miller</field>
-<field name="composersort">Miller, David</field>
+<field name="composerSort">Miller, David</field>
 <field name="year">1981</field>
 <field name="date">January 18, 1981</field>
 <field name="theater">Publick Playhouse</field>

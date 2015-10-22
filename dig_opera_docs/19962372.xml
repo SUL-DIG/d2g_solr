@@ -3,13 +3,13 @@
 <field name="id">19962372</field>
 <field name="genre">Operas</field>
 <field name="title">Stretta</field>
-<field name="titlesort">Stretta</field>
+<field name="titleSort">Stretta</field>
 <field name="composer">Wolfram Wagner</field>
-<field name="composersort">Wagner, Wolfram</field>
+<field name="composerSort">Wagner, Wolfram</field>
 <field name="year">2004</field>
 <field name="date">October 31, 2004</field>
 <field name="librettist">Friederike Mayröcker</field>
-<field name="librettistsort">Mayröcker, Friederike</field>
+<field name="librettistSort">Mayröcker, Friederike</field>
 <field name="theater">Tiroler Landestheater</field>
 <field name="city">Innsbruck</field>
 <field name="region">Tirol</field>

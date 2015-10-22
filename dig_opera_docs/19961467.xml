@@ -3,13 +3,13 @@
 <field name="id">19961467</field>
 <field name="genre">Operas</field>
 <field name="title">Later the Same Evening</field>
-<field name="titlesort">Later the Same Evening</field>
+<field name="titleSort">Later the Same Evening</field>
 <field name="composer">John Musto</field>
-<field name="composersort">Musto, John</field>
+<field name="composerSort">Musto, John</field>
 <field name="year">2007</field>
 <field name="date">November 15, 2007</field>
 <field name="librettist">Mark Campbell</field>
-<field name="librettistsort">Campbell, Mark</field>
+<field name="librettistSort">Campbell, Mark</field>
 <field name="theater">University of Maryland</field>
 <field name="city">College Park</field>
 <field name="region">Maryland</field>

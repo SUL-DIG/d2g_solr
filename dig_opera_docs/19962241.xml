@@ -3,13 +3,13 @@
 <field name="id">19962241</field>
 <field name="genre">Operas</field>
 <field name="title">SehnSuchtMeer</field>
-<field name="titlesort">SehnSuchtMeer</field>
+<field name="titleSort">SehnSuchtMeer</field>
 <field name="composer">Helmut Oehring</field>
-<field name="composersort">Oehring, Helmut</field>
+<field name="composerSort">Oehring, Helmut</field>
 <field name="year">2013</field>
 <field name="date">March 8, 2013</field>
 <field name="librettist">Stefanie Woerdemann</field>
-<field name="librettistsort">Woerdemann, Stefanie</field>
+<field name="librettistSort">Woerdemann, Stefanie</field>
 <field name="theater">Deutsche Oper am Rhein</field>
 <field name="city">Düsseldorf</field>
 <field name="region">Nordrhein-Westfallen</field>

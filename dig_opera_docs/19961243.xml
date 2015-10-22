@@ -3,12 +3,12 @@
 <field name="id">19961243</field>
 <field name="genre">Operas</field>
 <field name="title">Jordbaer-Liv</field>
-<field name="titlesort">Jordbaer-Liv</field>
+<field name="titleSort">Jordbaer-Liv</field>
 <field name="composer">Knut Anders Vestad</field>
-<field name="composersort">Vestad, Knut Anders</field>
+<field name="composerSort">Vestad, Knut Anders</field>
 <field name="year">2000</field>
 <field name="librettist">Kjersti Lie</field>
-<field name="librettistsort">Lie, Kjersti</field>
+<field name="librettistSort">Lie, Kjersti</field>
 <field name="theater">Kibnebfestivalen</field>
 <field name="city">Lensvik</field>
 <field name="region">Sør-Trøndelag</field>

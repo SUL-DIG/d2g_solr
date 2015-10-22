@@ -3,9 +3,9 @@
 <field name="id">19960950</field>
 <field name="genre">Operas</field>
 <field name="title">Galin gayasi (Bride's Rock)</field>
-<field name="titlesort">Galin gayasi (Bride's Rock)</field>
+<field name="titleSort">Galin gayasi (Bride's Rock)</field>
 <field name="composer">Shafiga Akhundova</field>
-<field name="composersort">Akhundova, Shafiga</field>
+<field name="composerSort">Akhundova, Shafiga</field>
 <field name="year">1974</field>
 <field name="date">April 27, 1974</field>
 <field name="theater">Azerbaijanskiy Akademicheskiy Teatr Operï i Baleta imeni M. F. Akhundova</field>

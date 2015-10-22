@@ -3,9 +3,9 @@
 <field name="id">19961574</field>
 <field name="genre">Operas</field>
 <field name="title">Lo monjo negre</field>
-<field name="titlesort">monjo negre</field>
+<field name="titleSort">monjo negre</field>
 <field name="composer">Joaquim Cassadó</field>
-<field name="composersort">Cassadó, Joaquim</field>
+<field name="composerSort">Cassadó, Joaquim</field>
 <field name="year">1920</field>
 <field name="date">January 24, 1920</field>
 <field name="theater">Gran Teatre del Liceu</field>

@@ -3,12 +3,12 @@
 <field name="id">19960720</field>
 <field name="genre">Operas</field>
 <field name="title">Dreamtime</field>
-<field name="titlesort">Dreamtime</field>
+<field name="titleSort">Dreamtime</field>
 <field name="composer">Daryl Runswick</field>
-<field name="composersort">Runswick, Daryl</field>
+<field name="composerSort">Runswick, Daryl</field>
 <field name="year">1979</field>
 <field name="librettist">Daryl Runswick</field>
-<field name="librettistsort">Runswick, Daryl</field>
+<field name="librettistSort">Runswick, Daryl</field>
 <field name="theater">W11 Opera</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

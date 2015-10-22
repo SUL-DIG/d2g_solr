@@ -3,12 +3,12 @@
 <field name="id">19961555</field>
 <field name="genre">Operas</field>
 <field name="title">Like This, Like That</field>
-<field name="titlesort">Like This, Like That</field>
+<field name="titleSort">Like This, Like That</field>
 <field name="composer">Timothy Kraemer</field>
-<field name="composersort">Kraemer, Timothy</field>
+<field name="composerSort">Kraemer, Timothy</field>
 <field name="year">1976</field>
 <field name="librettist">Peter Dickinson</field>
-<field name="librettistsort">Dickinson, Peter</field>
+<field name="librettistSort">Dickinson, Peter</field>
 <field name="theater">W11 Opera</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

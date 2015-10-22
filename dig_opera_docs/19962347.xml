@@ -3,13 +3,13 @@
 <field name="id">19962347</field>
 <field name="genre">Operas</field>
 <field name="title">Sprung in die Leere</field>
-<field name="titlesort">Sprung in die Leere</field>
+<field name="titleSort">Sprung in die Leere</field>
 <field name="composer">Felix Leuschner</field>
-<field name="composersort">Leuschner, Felix</field>
+<field name="composerSort">Leuschner, Felix</field>
 <field name="year">2012</field>
 <field name="date">October 6, 2012</field>
 <field name="librettist">Reto Finger</field>
-<field name="librettistsort">Finger, Reto</field>
+<field name="librettistSort">Finger, Reto</field>
 <field name="theater">Musiktheater im Revier</field>
 <field name="city">Gelsenkirchen</field>
 <field name="region">Nordrhein-Westfallen</field>

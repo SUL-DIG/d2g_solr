@@ -3,13 +3,13 @@
 <field name="id">19960439</field>
 <field name="genre">Operas</field>
 <field name="title">Cinderella in Spain/Cinderelle en España</field>
-<field name="titlesort">Cinderella in Spain/Cinderelle en España</field>
+<field name="titleSort">Cinderella in Spain/Cinderelle en España</field>
 <field name="composer">Mary Carol Warwick</field>
-<field name="composersort">Warwick, Mary Carol</field>
+<field name="composerSort">Warwick, Mary Carol</field>
 <field name="year">1998</field>
 <field name="date">February 24, 1998</field>
 <field name="librettist">Kate Pogue</field>
-<field name="librettistsort">Pogue, Kate</field>
+<field name="librettistSort">Pogue, Kate</field>
 <field name="theater">Houston Community College</field>
 <field name="city">Houston</field>
 <field name="region">Texas</field>

@@ -3,13 +3,13 @@
 <field name="id">19960526</field>
 <field name="genre">Operas</field>
 <field name="title">De soldaat Johan</field>
-<field name="titlesort">soldaat Johan</field>
+<field name="titleSort">soldaat Johan</field>
 <field name="composer">Frederik van Rossum</field>
-<field name="composersort">Rossum, Frederik van</field>
+<field name="composerSort">Rossum, Frederik van</field>
 <field name="year">1982</field>
 <field name="date">July 11, 1982</field>
 <field name="librettist">Filip de Pillecyn</field>
-<field name="librettistsort">Pillecyn, Filip de</field>
+<field name="librettistSort">Pillecyn, Filip de</field>
 <field name="city">Kortrijk</field>
 <field name="region">West Flaanderen</field>
 <field name="country">Belgium</field>

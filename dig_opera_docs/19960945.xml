@@ -3,13 +3,13 @@
 <field name="id">19960945</field>
 <field name="genre">Operas</field>
 <field name="title">Gaia</field>
-<field name="titlesort">Gaia</field>
+<field name="titleSort">Gaia</field>
 <field name="composer">Markus Fagerudd</field>
-<field name="composersort">Fagerudd, Markus</field>
+<field name="composerSort">Fagerudd, Markus</field>
 <field name="year">2001</field>
 <field name="date">March 24, 2001</field>
 <field name="librettist">Ilpo Tiihonen</field>
-<field name="librettistsort">Tiihonen, Ilpo</field>
+<field name="librettistSort">Tiihonen, Ilpo</field>
 <field name="theater">Suomen Kansallisooppera Alminsali</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

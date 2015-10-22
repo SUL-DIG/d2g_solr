@@ -3,13 +3,13 @@
 <field name="id">19961347</field>
 <field name="genre">Operas</field>
 <field name="title">Kursk</field>
-<field name="titlesort">Kursk</field>
+<field name="titleSort">Kursk</field>
 <field name="composer">David Chisholm</field>
-<field name="composersort">Chisholm, David</field>
+<field name="composerSort">Chisholm, David</field>
 <field name="year">2011</field>
 <field name="date">October 22, 2011</field>
 <field name="librettist">Anzhelina Polonskaya</field>
-<field name="librettistsort">Polonskaya, Anzhelina</field>
+<field name="librettistSort">Polonskaya, Anzhelina</field>
 <field name="theater">Melbourne Recital Centre</field>
 <field name="city">Melbourne</field>
 <field name="region">Victoria</field>

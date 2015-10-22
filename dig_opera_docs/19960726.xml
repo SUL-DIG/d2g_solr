@@ -3,12 +3,12 @@
 <field name="id">19960726</field>
 <field name="genre">Operas</field>
 <field name="title">Dry Smoke</field>
-<field name="titlesort">Dry Smoke</field>
+<field name="titleSort">Dry Smoke</field>
 <field name="composer">Victor Kioulaphides</field>
-<field name="composersort">Kioulaphides, Victor</field>
+<field name="composerSort">Kioulaphides, Victor</field>
 <field name="year">1998</field>
 <field name="librettist">Adele Edling Shank</field>
-<field name="librettistsort">Shank, Adele Edling</field>
+<field name="librettistSort">Shank, Adele Edling</field>
 <field name="theater">Merkin Concert Hall</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

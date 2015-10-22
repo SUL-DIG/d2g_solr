@@ -3,9 +3,9 @@
 <field name="id">19960765</field>
 <field name="genre">Operas</field>
 <field name="title">El bufón</field>
-<field name="titlesort">bufón</field>
+<field name="titleSort">bufón</field>
 <field name="composer">Alfredo Carrasco Candil</field>
-<field name="composersort">Carrasco Candil, Alfredo</field>
+<field name="composerSort">Carrasco Candil, Alfredo</field>
 <field name="year">1902</field>
 <field name="theater">Teatro Lírico</field>
 <field name="city">Mexico City</field>

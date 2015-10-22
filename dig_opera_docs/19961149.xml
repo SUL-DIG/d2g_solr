@@ -3,13 +3,13 @@
 <field name="id">19961149</field>
 <field name="genre">Operas</field>
 <field name="title">Il cambio</field>
-<field name="titlesort">cambio</field>
+<field name="titleSort">cambio</field>
 <field name="composer">Matteo D'Amico</field>
-<field name="composersort">D'Amico, Matteo</field>
+<field name="composerSort">D'Amico, Matteo</field>
 <field name="year">1998</field>
 <field name="date">July 20, 1998</field>
 <field name="librettist">Auro d'Alba</field>
-<field name="librettistsort">Alba, Auro d'</field>
+<field name="librettistSort">Alba, Auro d'</field>
 <field name="theater">Chiostro del Conservatorio</field>
 <field name="city">Verona</field>
 <field name="region">Veneto</field>

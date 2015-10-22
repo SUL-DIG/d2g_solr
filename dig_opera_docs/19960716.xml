@@ -3,13 +3,13 @@
 <field name="id">19960716</field>
 <field name="genre">Operas</field>
 <field name="title">Dream Sequence '76</field>
-<field name="titlesort">Dream Sequence '76</field>
+<field name="titleSort">Dream Sequence '76</field>
 <field name="composer">Alvin Singleton</field>
-<field name="composersort">Singleton, Alvin</field>
+<field name="composerSort">Singleton, Alvin</field>
 <field name="year">1976</field>
 <field name="date">August 12, 1976</field>
 <field name="librettist">Alvin Singleton</field>
-<field name="librettistsort">Singleton, Alvin</field>
+<field name="librettistSort">Singleton, Alvin</field>
 <field name="theater">Maurice Peress Haus der Jugend (Orpheum)</field>
 <field name="city">Graz</field>
 <field name="region">Steiermark</field>

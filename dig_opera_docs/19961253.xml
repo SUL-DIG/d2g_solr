@@ -3,13 +3,13 @@
 <field name="id">19961253</field>
 <field name="genre">Operas</field>
 <field name="title">Joy</field>
-<field name="titlesort">Joy</field>
+<field name="titleSort">Joy</field>
 <field name="composer">Susanne Erding-Swiridoff</field>
-<field name="composersort">Erding-Swiridoff, Susanne</field>
+<field name="composerSort">Erding-Swiridoff, Susanne</field>
 <field name="year">1986</field>
 <field name="date">March 3, 1986</field>
 <field name="librettist">Roy Kift</field>
-<field name="librettistsort">Kift, Roy</field>
+<field name="librettistSort">Kift, Roy</field>
 <field name="theater">Opernhaus Studio</field>
 <field name="city">Kiel</field>
 <field name="region">Schleswig-Holstein</field>

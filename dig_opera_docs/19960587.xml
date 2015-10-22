@@ -3,13 +3,13 @@
 <field name="id">19960587</field>
 <field name="genre">Operas</field>
 <field name="title">Der Sturz des Antichrist</field>
-<field name="titlesort">Sturz des Antichrist</field>
+<field name="titleSort">Sturz des Antichrist</field>
 <field name="composer">Viktor Ullmann</field>
-<field name="composersort">Ullmann, Viktor</field>
+<field name="composerSort">Ullmann, Viktor</field>
 <field name="year">2014</field>
 <field name="date">October 18, 2014</field>
 <field name="librettist">Albert Steffen</field>
-<field name="librettistsort">Steffen, Albert</field>
+<field name="librettistSort">Steffen, Albert</field>
 <field name="theater">Miroslav Oswald Moravské Divadlo</field>
 <field name="city">Olomouc</field>
 <field name="region">Severomoravsky Kraj</field>

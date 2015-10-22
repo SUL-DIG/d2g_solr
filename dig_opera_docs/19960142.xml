@@ -3,9 +3,9 @@
 <field name="id">19960142</field>
 <field name="genre">Operas</field>
 <field name="title">AMGD (aesthetica more geometrico demonstrata)</field>
-<field name="titlesort">AMGD (aesthetica more geometrico demonstrata)</field>
+<field name="titleSort">AMGD (aesthetica more geometrico demonstrata)</field>
 <field name="composer">Giovanni Bertelli</field>
-<field name="composersort">Bertelli, Giovanni</field>
+<field name="composerSort">Bertelli, Giovanni</field>
 <field name="year">2012</field>
 <field name="date">July 21, 2012</field>
 <field name="theater">Württembergisches Staatstheater</field>

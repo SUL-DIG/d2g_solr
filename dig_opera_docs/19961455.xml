@@ -3,13 +3,13 @@
 <field name="id">19961455</field>
 <field name="genre">Operas</field>
 <field name="title">Lale Çılgınlığı (Tulip Mania)</field>
-<field name="titlesort">Lale Çılgınlığı (Tulip Mania)</field>
+<field name="titleSort">Lale Çılgınlığı (Tulip Mania)</field>
 <field name="composer">Ali Hoca</field>
-<field name="composersort">Hoca, Ali</field>
+<field name="composerSort">Hoca, Ali</field>
 <field name="year">2013</field>
 <field name="date">February 2, 2013</field>
 <field name="librettist">Şefik Kahramankaptan</field>
-<field name="librettistsort">Kahramankaptan, Şefik </field>
+<field name="librettistSort">Kahramankaptan, Şefik </field>
 <field name="theater">Opera Hall at Hasim Iscan Kültür Merkezi</field>
 <field name="city">Antalya</field>
 <field name="country">Turkey</field>

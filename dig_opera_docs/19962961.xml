@@ -3,13 +3,13 @@
 <field name="id">19962961</field>
 <field name="genre">Operas</field>
 <field name="title">Unge Hamsun</field>
-<field name="titlesort">Unge Hamsun</field>
+<field name="titleSort">Unge Hamsun</field>
 <field name="composer">Knut Anders Vestad</field>
-<field name="composersort">Vestad, Knut Anders</field>
+<field name="composerSort">Vestad, Knut Anders</field>
 <field name="year">2009</field>
 <field name="date">February 6, 2009</field>
 <field name="librettist">Edvard Hoem</field>
-<field name="librettistsort">Hoem, Edvard</field>
+<field name="librettistSort">Hoem, Edvard</field>
 <field name="theater">Operaen i Kristiansund</field>
 <field name="city">Kristiansund</field>
 <field name="region">Møre og Romsdal</field>

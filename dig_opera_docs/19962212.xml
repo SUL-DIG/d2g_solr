@@ -3,13 +3,13 @@
 <field name="id">19962212</field>
 <field name="genre">Operas</field>
 <field name="title">Sankt Göran och draken</field>
-<field name="titlesort">Sankt Göran och draken</field>
+<field name="titleSort">Sankt Göran och draken</field>
 <field name="composer">Sven-David Sandström</field>
-<field name="composersort">Sandström, Sven-David</field>
+<field name="composerSort">Sandström, Sven-David</field>
 <field name="year">1998</field>
 <field name="date">April 23, 1998</field>
 <field name="librettist">Caroline Krook</field>
-<field name="librettistsort">Caroline, Krook</field>
+<field name="librettistSort">Caroline, Krook</field>
 <field name="theater">Storkyrkan</field>
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>

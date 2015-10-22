@@ -3,13 +3,13 @@
 <field name="id">19962126</field>
 <field name="genre">Operas</field>
 <field name="title">Refidim Junction</field>
-<field name="titlesort">Refidim Junction</field>
+<field name="titleSort">Refidim Junction</field>
 <field name="composer">Magret Wolf</field>
-<field name="composersort">Wolf, Magret</field>
+<field name="composerSort">Wolf, Magret</field>
 <field name="year">2012</field>
 <field name="date">November 10, 2012</field>
 <field name="librettist">Magret Wolf</field>
-<field name="librettistsort">Wolf, Magret</field>
+<field name="librettistSort">Wolf, Magret</field>
 <field name="theater">Mainfranken Theater</field>
 <field name="city">Würzburg</field>
 <field name="region">Bayern</field>

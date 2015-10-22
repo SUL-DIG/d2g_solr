@@ -3,13 +3,13 @@
 <field name="id">19960085</field>
 <field name="genre">Operas</field>
 <field name="title">Agleia Federwess</field>
-<field name="titlesort">Agleia Federwess</field>
+<field name="titleSort">Agleia Federwess</field>
 <field name="composer">Gerd Kühr</field>
-<field name="composersort">Kühr, Gerd</field>
+<field name="composerSort">Kühr, Gerd</field>
 <field name="year">2001</field>
 <field name="date">October 24, 2001</field>
 <field name="librettist">Petra Ernst</field>
-<field name="librettistsort">Ernst, Petra</field>
+<field name="librettistSort">Ernst, Petra</field>
 <field name="theater">Jugendmusikfests</field>
 <field name="city">Deutschlandsberg</field>
 <field name="region">Steiermark</field>

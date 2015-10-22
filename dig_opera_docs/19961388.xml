@@ -3,12 +3,12 @@
 <field name="id">19961388</field>
 <field name="genre">Operas</field>
 <field name="title">La chunga</field>
-<field name="titlesort">chunga</field>
+<field name="titleSort">chunga</field>
 <field name="composer">Carlos José Castro</field>
-<field name="composersort">Castro, Carlos José</field>
+<field name="composerSort">Castro, Carlos José</field>
 <field name="year">1995</field>
 <field name="librettist">Mario Vargas Llosa</field>
-<field name="librettistsort">Vargas Llosa, Mario</field>
+<field name="librettistSort">Vargas Llosa, Mario</field>
 <field name="theater">Teatro Melico Salazar</field>
 <field name="city">San Jose</field>
 <field name="country">Costa Rica</field>

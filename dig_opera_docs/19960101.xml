@@ -3,12 +3,12 @@
 <field name="id">19960101</field>
 <field name="genre">Operas</field>
 <field name="title">Aladino</field>
-<field name="titlesort">Aladino</field>
+<field name="titleSort">Aladino</field>
 <field name="composer">Alcides Prado Quesada</field>
-<field name="composersort">Prado Quesada, Alcides</field>
+<field name="composerSort">Prado Quesada, Alcides</field>
 <field name="year">1953</field>
 <field name="librettist">Carmen Carvajal de Prado</field>
-<field name="librettistsort">Carvajal de Prado, Carmen</field>
+<field name="librettistSort">Carvajal de Prado, Carmen</field>
 <field name="theater">Nacional de Teatro</field>
 <field name="city">San Jose</field>
 <field name="country">Costa Rica</field>

@@ -3,13 +3,13 @@
 <field name="id">19962261</field>
 <field name="genre">Operas</field>
 <field name="title">Shadowtracks</field>
-<field name="titlesort">Shadowtracks</field>
+<field name="titleSort">Shadowtracks</field>
 <field name="composer">Julian Grant</field>
-<field name="composersort">Grant, Julian</field>
+<field name="composerSort">Grant, Julian</field>
 <field name="year">2007</field>
 <field name="date">December 15, 2007</field>
 <field name="librettist">Christina Jones</field>
-<field name="librettistsort">Jones, Christina</field>
+<field name="librettistSort">Jones, Christina</field>
 <field name="theater">Britten Theater, Royal College of Music</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

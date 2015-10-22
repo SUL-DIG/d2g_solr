@@ -3,13 +3,13 @@
 <field name="id">19960493</field>
 <field name="genre">Operas</field>
 <field name="title">Dark Sisters</field>
-<field name="titlesort">Dark Sisters</field>
+<field name="titleSort">Dark Sisters</field>
 <field name="composer">Nico Muhly</field>
-<field name="composersort">Muhly, Nico</field>
+<field name="composerSort">Muhly, Nico</field>
 <field name="year">2011</field>
 <field name="date">November 9, 2011</field>
 <field name="librettist">Stephen Karam</field>
-<field name="librettistsort">Karam, Stephen</field>
+<field name="librettistSort">Karam, Stephen</field>
 <field name="theater">John Jay College</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

@@ -3,13 +3,13 @@
 <field name="id">19962273</field>
 <field name="genre">Operas</field>
 <field name="title">Shit också! (Oh, Shit!)</field>
-<field name="titlesort">Shit också! (Oh, Shit!)</field>
+<field name="titleSort">Shit också! (Oh, Shit!)</field>
 <field name="composer">Fredrik Österling</field>
-<field name="composersort">Österling, Fredrik</field>
+<field name="composerSort">Österling, Fredrik</field>
 <field name="year">2007</field>
 <field name="date">March 12, 2007</field>
 <field name="librettist">Manuel Cubas</field>
-<field name="librettistsort">Cubas, Manuel</field>
+<field name="librettistSort">Cubas, Manuel</field>
 <field name="theater">Folkoperan</field>
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>

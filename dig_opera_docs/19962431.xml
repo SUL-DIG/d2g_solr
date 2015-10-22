@@ -3,13 +3,13 @@
 <field name="id">19962431</field>
 <field name="genre">Operas</field>
 <field name="title">Teneke</field>
-<field name="titlesort">Teneke</field>
+<field name="titleSort">Teneke</field>
 <field name="composer">Fabio Vacchi</field>
-<field name="composersort">Fabio Vacchi</field>
+<field name="composerSort">Fabio Vacchi</field>
 <field name="year">2007</field>
 <field name="date">September 22, 2007</field>
 <field name="librettist">Franco Marcoaldi</field>
-<field name="librettistsort">Marcoaldi, Franco</field>
+<field name="librettistSort">Marcoaldi, Franco</field>
 <field name="theater">Teatro alla Scala</field>
 <field name="city">Milan</field>
 <field name="region">Lombardia</field>

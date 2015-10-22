@@ -3,13 +3,13 @@
 <field name="id">19960517</field>
 <field name="genre">Operas</field>
 <field name="title">De amore</field>
-<field name="titlesort">amore</field>
+<field name="titleSort">amore</field>
 <field name="composer">Mauricio Sotelo</field>
-<field name="composersort">Sotelo, Mauricio</field>
+<field name="composerSort">Sotelo, Mauricio</field>
 <field name="year">1999</field>
 <field name="date">April 19, 1999</field>
 <field name="librettist">Peter Mussbach</field>
-<field name="librettistsort">Mussbach, Peter</field>
+<field name="librettistSort">Mussbach, Peter</field>
 <field name="theater">Biennale</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

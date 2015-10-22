@@ -3,13 +3,13 @@
 <field name="id">19961098</field>
 <field name="genre">Operas</field>
 <field name="title">Hoffmanns Welt</field>
-<field name="titlesort">Hoffmanns Welt</field>
+<field name="titleSort">Hoffmanns Welt</field>
 <field name="composer">Roland Baumgartner</field>
-<field name="composersort">Baumgartner, Roland</field>
+<field name="composerSort">Baumgartner, Roland</field>
 <field name="year">2011</field>
 <field name="date">March 4, 2011</field>
 <field name="librettist">Rainer Lewandowski</field>
-<field name="librettistsort">Lewandowski, Rainer</field>
+<field name="librettistSort">Lewandowski, Rainer</field>
 <field name="theater">Städtebundtheater</field>
 <field name="city">Hof</field>
 <field name="region">Bayern</field>

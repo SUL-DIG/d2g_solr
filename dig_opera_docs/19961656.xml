@@ -3,13 +3,13 @@
 <field name="id">19961656</field>
 <field name="genre">Operas</field>
 <field name="title">Margaret Garner</field>
-<field name="titlesort">Margaret Garner</field>
+<field name="titleSort">Margaret Garner</field>
 <field name="composer">Richard Danielpour</field>
-<field name="composersort">Danielpour, Richard</field>
+<field name="composerSort">Danielpour, Richard</field>
 <field name="year">2005</field>
 <field name="date">May 7, 2005</field>
 <field name="librettist">Toni Morrison</field>
-<field name="librettistsort">Morrison, Toni</field>
+<field name="librettistSort">Morrison, Toni</field>
 <field name="theater">Detroit Opera House</field>
 <field name="city">Detroit</field>
 <field name="region">Michigan</field>

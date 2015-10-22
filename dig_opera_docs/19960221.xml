@@ -3,13 +3,13 @@
 <field name="id">19960221</field>
 <field name="genre">Operas</field>
 <field name="title">Asteroid 62</field>
-<field name="titlesort">Asteroid 62</field>
+<field name="titleSort">Asteroid 62</field>
 <field name="composer">Dmitri Kourliandski</field>
-<field name="composersort">Kourliandski, Dmitri</field>
+<field name="composerSort">Kourliandski, Dmitri</field>
 <field name="year">2013</field>
 <field name="date">October 23, 2013</field>
 <field name="librettist">Dimitris Yalamas</field>
-<field name="librettistsort">Yalamas, Dimitris</field>
+<field name="librettistSort">Yalamas, Dimitris</field>
 <field name="theater">Kunstuniversität</field>
 <field name="city">Graz</field>
 <field name="region">Steiermark</field>

@@ -3,13 +3,13 @@
 <field name="id">19962962</field>
 <field name="genre">Operas</field>
 <field name="title">Unicamente la Verdad</field>
-<field name="titlesort">Unicamente la Verdad</field>
+<field name="titleSort">Unicamente la Verdad</field>
 <field name="composer">Gabriela Ortiz</field>
-<field name="composersort">Ortiz, Gabriela</field>
+<field name="composerSort">Ortiz, Gabriela</field>
 <field name="year">2008</field>
 <field name="date">August 8, 2008</field>
 <field name="librettist">Rubén Ortiz Torres</field>
-<field name="librettistsort">Ortiz Torres, Rubén</field>
+<field name="librettistSort">Ortiz Torres, Rubén</field>
 <field name="theater">Indiana University</field>
 <field name="city">Bloomington</field>
 <field name="region">Indiana</field>

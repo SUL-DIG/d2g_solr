@@ -3,13 +3,13 @@
 <field name="id">19962488</field>
 <field name="genre">Operas</field>
 <field name="title">The Children's Crusade</field>
-<field name="titlesort">Children's Crusade</field>
+<field name="titleSort">Children's Crusade</field>
 <field name="composer">R. Murray Schafer</field>
-<field name="composersort">Schafer, R. Murray</field>
+<field name="composerSort">Schafer, R. Murray</field>
 <field name="year">2009</field>
 <field name="date">June 9, 2009</field>
 <field name="librettist">R. Murray Schafer</field>
-<field name="librettistsort">Schafer, R. Murray</field>
+<field name="librettistSort">Schafer, R. Murray</field>
 <field name="theater">Warehouse, 153 Dufferin Street</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

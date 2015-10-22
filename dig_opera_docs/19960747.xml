@@ -3,13 +3,13 @@
 <field name="id">19960747</field>
 <field name="genre">Operas</field>
 <field name="title">Edith Piaf</field>
-<field name="titlesort">Edith Piaf</field>
+<field name="titleSort">Edith Piaf</field>
 <field name="composer">Dirk Schattner</field>
-<field name="composersort">Schattner, Dirk</field>
+<field name="composerSort">Schattner, Dirk</field>
 <field name="year">2008</field>
 <field name="date">October 17, 2008</field>
 <field name="librettist">Dirk Schattner</field>
-<field name="librettistsort">Schattner, Dirk</field>
+<field name="librettistSort">Schattner, Dirk</field>
 <field name="theater">Musiktheater im Revier</field>
 <field name="city">Gelsenkirchen</field>
 <field name="region">Nordrhein-Westfallen</field>

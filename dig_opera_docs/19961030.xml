@@ -3,13 +3,13 @@
 <field name="id">19961030</field>
 <field name="genre">Operas</field>
 <field name="title">Haiku Moments</field>
-<field name="titlesort">Haiku Moments</field>
+<field name="titleSort">Haiku Moments</field>
 <field name="composer">Erik Ross</field>
-<field name="composersort">Ross, Erik</field>
+<field name="composerSort">Ross, Erik</field>
 <field name="year">2002</field>
 <field name="date">April 22, 2002</field>
 <field name="librettist">Jovanni Sy</field>
-<field name="librettistsort">Sy, Jovanni</field>
+<field name="librettistSort">Sy, Jovanni</field>
 <field name="theater">Isabel Bader Theatre</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

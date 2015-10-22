@@ -3,13 +3,13 @@
 <field name="id">19960016</field>
 <field name="genre">Operas</field>
 <field name="title">A Burden Far Beyond What Soul Can Cry</field>
-<field name="titlesort">Burden Far Beyond What Soul Can Cry</field>
+<field name="titleSort">Burden Far Beyond What Soul Can Cry</field>
 <field name="composer">Dominick DiOrio</field>
-<field name="composersort">DiOrio, Dominick</field>
+<field name="composerSort">DiOrio, Dominick</field>
 <field name="year">2006</field>
 <field name="date">February 28, 2006</field>
 <field name="librettist">Katharyn Howd Machan</field>
-<field name="librettistsort">Machan, Katharyn Howd</field>
+<field name="librettistSort">Machan, Katharyn Howd</field>
 <field name="theater">Ithaca College</field>
 <field name="city">Ithaca</field>
 <field name="region">New York</field>

@@ -3,9 +3,9 @@
 <field name="id">19960920</field>
 <field name="genre">Operas</field>
 <field name="title">Fremd</field>
-<field name="titlesort">Fremd</field>
+<field name="titleSort">Fremd</field>
 <field name="composer">Hans Thomalla</field>
-<field name="composersort">Thomalla, Hans</field>
+<field name="composerSort">Thomalla, Hans</field>
 <field name="year">2011</field>
 <field name="date">July 2, 2011</field>
 <field name="theater">Staatstheater</field>

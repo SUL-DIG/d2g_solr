@@ -3,13 +3,13 @@
 <field name="id">19960454</field>
 <field name="genre">Operas</field>
 <field name="title">CO2</field>
-<field name="titlesort">CO2</field>
+<field name="titleSort">CO2</field>
 <field name="composer">Giorgio Battistelli</field>
-<field name="composersort">Battistelli, Giorgio</field>
+<field name="composerSort">Battistelli, Giorgio</field>
 <field name="year">2015</field>
 <field name="date">May 16, 2015</field>
 <field name="librettist">Ian Burton</field>
-<field name="librettistsort">Burton, Ian</field>
+<field name="librettistSort">Burton, Ian</field>
 <field name="theater">Teatro alla Scala</field>
 <field name="city">Milan</field>
 <field name="region">Lombardia</field>

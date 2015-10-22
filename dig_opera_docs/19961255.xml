@@ -3,13 +3,13 @@
 <field name="id">19961255</field>
 <field name="genre">Operas</field>
 <field name="title">Juana</field>
-<field name="titlesort">Juana</field>
+<field name="titleSort">Juana</field>
 <field name="composer">Enric Palomar</field>
-<field name="composersort">Palomar, Enric</field>
+<field name="composerSort">Palomar, Enric</field>
 <field name="year">2005</field>
 <field name="date">June 25, 2005</field>
 <field name="librettist">Rebecca Simpson</field>
-<field name="librettistsort">Simpson, Rebecca</field>
+<field name="librettistSort">Simpson, Rebecca</field>
 <field name="theater">Landestheater</field>
 <field name="city">Halle</field>
 <field name="region">Sachsen-Anhalt</field>

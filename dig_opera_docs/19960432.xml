@@ -3,13 +3,13 @@
 <field name="id">19960432</field>
 <field name="genre">Operas</field>
 <field name="title">Chronicles, or Vignettes of Passion</field>
-<field name="titlesort">Chronicles, or Vignettes of Passion</field>
+<field name="titleSort">Chronicles, or Vignettes of Passion</field>
 <field name="composer">Gerald Frank Muller</field>
-<field name="composersort">Muller, Gerald Frank</field>
+<field name="composerSort">Muller, Gerald Frank</field>
 <field name="year">1977</field>
 <field name="date">October 1, 1977</field>
 <field name="librettist">Gerald Frank Muller</field>
-<field name="librettistsort">Muller, Gerald Frank</field>
+<field name="librettistSort">Muller, Gerald Frank</field>
 <field name="theater">Montgomery College</field>
 <field name="city">Rockville</field>
 <field name="region">Maryland</field>

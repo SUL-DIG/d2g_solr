@@ -3,13 +3,13 @@
 <field name="id">19962482</field>
 <field name="genre">Operas</field>
 <field name="title">The Cellar Door</field>
-<field name="titlesort">Cellar Door</field>
+<field name="titleSort">Cellar Door</field>
 <field name="composer">Melissa Hui</field>
-<field name="composersort">Hui, Melissa</field>
+<field name="composerSort">Hui, Melissa</field>
 <field name="year">2002</field>
 <field name="date">April 22, 2002</field>
 <field name="librettist">Jovanni Sy</field>
-<field name="librettistsort">Sy, Jovanni</field>
+<field name="librettistSort">Sy, Jovanni</field>
 <field name="theater">Isabel Bader Theatre</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

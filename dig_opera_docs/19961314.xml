@@ -3,13 +3,13 @@
 <field name="id">19961314</field>
 <field name="genre">Operas</field>
 <field name="title">King of the Clouds</field>
-<field name="titlesort">King of the Clouds</field>
+<field name="titleSort">King of the Clouds</field>
 <field name="composer">Michael Ching</field>
-<field name="composersort">Ching, Michael</field>
+<field name="composerSort">Ching, Michael</field>
 <field name="year">1993</field>
 <field name="date">January 18, 1993</field>
 <field name="librettist">Hugh Moffatt</field>
-<field name="librettistsort">Moffatt, Hugh</field>
+<field name="librettistSort">Moffatt, Hugh</field>
 <field name="theater">Schuster Center</field>
 <field name="city">Dayton</field>
 <field name="region">Ohio</field>

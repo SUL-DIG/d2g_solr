@@ -3,12 +3,12 @@
 <field name="id">19962008</field>
 <field name="genre">Operas</field>
 <field name="title">Piers the Plowman</field>
-<field name="titlesort">Piers the Plowman</field>
+<field name="titleSort">Piers the Plowman</field>
 <field name="composer">Charles Jones</field>
-<field name="composersort">Jones, Charles</field>
+<field name="composerSort">Jones, Charles</field>
 <field name="year">1963</field>
 <field name="librettist">William Langland</field>
-<field name="librettistsort">Langland, William</field>
+<field name="librettistSort">Langland, William</field>
 <field name="theater">Interracial Chorus of New York</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

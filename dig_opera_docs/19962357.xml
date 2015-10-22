@@ -3,13 +3,13 @@
 <field name="id">19962357</field>
 <field name="genre">Operas</field>
 <field name="title">Star Child</field>
-<field name="titlesort">Star Child</field>
+<field name="titleSort">Star Child</field>
 <field name="composer">Stephen Douglas Burton</field>
-<field name="composersort">Burton, Stephen Douglas</field>
+<field name="composerSort">Burton, Stephen Douglas</field>
 <field name="year">1976</field>
 <field name="date">December 1, 1976</field>
 <field name="librettist">Stephen Douglas Burton</field>
-<field name="librettistsort">Burton, Stephen Douglas</field>
+<field name="librettistSort">Burton, Stephen Douglas</field>
 <field name="theater">Holton Arms Lower School</field>
 <field name="city">Bethesda</field>
 <field name="region">Maryland</field>

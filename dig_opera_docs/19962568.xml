@@ -3,13 +3,13 @@
 <field name="id">19962568</field>
 <field name="genre">Operas</field>
 <field name="title">The Girl from Nogami</field>
-<field name="titlesort">Girl from Nogami</field>
+<field name="titleSort">Girl from Nogami</field>
 <field name="composer">Carey Blyton</field>
-<field name="composersort">Blyton, Carey</field>
+<field name="composerSort">Blyton, Carey</field>
 <field name="year">1977</field>
 <field name="date">March 15, 1977</field>
 <field name="librettist">Jack Grey</field>
-<field name="librettistsort">Grey, Jack</field>
+<field name="librettistSort">Grey, Jack</field>
 <field name="theater">Guildhall School for Music</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

@@ -3,13 +3,13 @@
 <field name="id">19960145</field>
 <field name="genre">Operas</field>
 <field name="title">An Aesop Odyssey</field>
-<field name="titlesort">Aesop Odyssey</field>
+<field name="titleSort">Aesop Odyssey</field>
 <field name="composer">David Gooding</field>
-<field name="composersort">Gooding, David</field>
+<field name="composerSort">Gooding, David</field>
 <field name="year">1997</field>
 <field name="date">January 11, 1997</field>
 <field name="librettist">David Gooding</field>
-<field name="librettistsort">Gooding, David</field>
+<field name="librettistSort">Gooding, David</field>
 <field name="theater">State Theater</field>
 <field name="city">Cleveland</field>
 <field name="region">Ohio</field>

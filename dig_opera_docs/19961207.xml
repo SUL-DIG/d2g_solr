@@ -3,13 +3,13 @@
 <field name="id">19961207</field>
 <field name="genre">Operas</field>
 <field name="title">Isis and the Seven Scorpions</field>
-<field name="titlesort">Isis and the Seven Scorpions</field>
+<field name="titleSort">Isis and the Seven Scorpions</field>
 <field name="composer">Dean Burry</field>
-<field name="composersort">Burry, Dean</field>
+<field name="composerSort">Burry, Dean</field>
 <field name="year">2006</field>
 <field name="date">April 29, 2006</field>
 <field name="librettist">Dean Burry</field>
-<field name="librettistsort">Burry, Dean</field>
+<field name="librettistSort">Burry, Dean</field>
 <field name="theater">Canadian Opera Company</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

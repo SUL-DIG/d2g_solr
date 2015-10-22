@@ -3,13 +3,13 @@
 <field name="id">19962007</field>
 <field name="genre">Operas</field>
 <field name="title">Pierrot in Pierrette</field>
-<field name="titlesort">Pierrot in Pierrette</field>
+<field name="titleSort">Pierrot in Pierrette</field>
 <field name="composer">Tomaž Svete</field>
-<field name="composersort">Svete, Tomaž </field>
+<field name="composerSort">Svete, Tomaž </field>
 <field name="year">2007</field>
 <field name="date">September 27, 2007</field>
 <field name="librettist">Tomaž Svete</field>
-<field name="librettistsort">Svete, Tomaž </field>
+<field name="librettistSort">Svete, Tomaž </field>
 <field name="theater">Slovensko Narodno Gledalisce</field>
 <field name="city">Maribor</field>
 <field name="country">Slovenia</field>

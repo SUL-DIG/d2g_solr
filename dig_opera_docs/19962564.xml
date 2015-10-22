@@ -3,13 +3,13 @@
 <field name="id">19962564</field>
 <field name="genre">Operas</field>
 <field name="title">The George Washington Suite</field>
-<field name="titlesort">George Washington Suite</field>
+<field name="titleSort">George Washington Suite</field>
 <field name="composer">Daron Hagen</field>
-<field name="composersort">Hagen, Daron</field>
+<field name="composerSort">Hagen, Daron</field>
 <field name="year">2012</field>
 <field name="date">July 6, 2012</field>
 <field name="librettist">Rob Handel</field>
-<field name="librettistsort">Handel, Rob</field>
+<field name="librettistSort">Handel, Rob</field>
 <field name="theater">Kountz Black Box Theater, The Hillman Center for Performing Arts</field>
 <field name="city">Pittsburgh</field>
 <field name="region">Pennsylvania</field>

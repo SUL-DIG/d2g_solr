@@ -3,13 +3,13 @@
 <field name="id">19961713</field>
 <field name="genre">Operas</field>
 <field name="title">Melodias Estranha</field>
-<field name="titlesort">Melodias Estranha</field>
+<field name="titleSort">Melodias Estranha</field>
 <field name="composer">António Chagas-Rosa</field>
-<field name="composersort">Chagas-Rosa, António</field>
+<field name="composerSort">Chagas-Rosa, António</field>
 <field name="year">2001</field>
 <field name="date">December 12, 2001</field>
 <field name="librettist">Gerrit Komrij</field>
-<field name="librettistsort">Komrij, Gerrit</field>
+<field name="librettistSort">Komrij, Gerrit</field>
 <field name="theater">O.T. Theater</field>
 <field name="city">Rotterdam</field>
 <field name="region">Suid Holland</field>

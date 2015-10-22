@@ -3,13 +3,13 @@
 <field name="id">19960674</field>
 <field name="genre">Operas</field>
 <field name="title">Dobrïnya Nikitich</field>
-<field name="titlesort">Dobrïnya Nikitich</field>
+<field name="titleSort">Dobrïnya Nikitich</field>
 <field name="composer">Aleksandr Tikhonovich Grechaninov</field>
-<field name="composersort">Grechaninov, Aleksandr Tikhonovich</field>
+<field name="composerSort">Grechaninov, Aleksandr Tikhonovich</field>
 <field name="year">1903</field>
 <field name="date">October 27, 1903</field>
 <field name="librettist">Aleksandr Tikhonovich Grechaninov</field>
-<field name="librettistsort">Grechaninov, Aleksandr Tikhonovich</field>
+<field name="librettistSort">Grechaninov, Aleksandr Tikhonovich</field>
 <field name="theater">Bol'shoy Teatr</field>
 <field name="city">Moscow</field>
 <field name="country">Russia</field>

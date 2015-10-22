@@ -3,13 +3,13 @@
 <field name="id">19960688</field>
 <field name="genre">Operas</field>
 <field name="title">Domnisoara Cristina (Miss Cristina)</field>
-<field name="titlesort">Domnisoara Cristina (Miss Cristina)</field>
+<field name="titleSort">Domnisoara Cristina (Miss Cristina)</field>
 <field name="composer">Şerban Nichifor</field>
-<field name="composersort">Nichifor, Şerban</field>
+<field name="composerSort">Nichifor, Şerban</field>
 <field name="year">1996</field>
 <field name="date">May 1, 1996</field>
 <field name="librettist">Mircea Eliade</field>
-<field name="librettistsort">Eliade, Mircea</field>
+<field name="librettistSort">Eliade, Mircea</field>
 <field name="theater">Opera de Stat</field>
 <field name="city">Timisoara</field>
 <field name="region">Timis</field>

@@ -3,13 +3,13 @@
 <field name="id">19962260</field>
 <field name="genre">Operas</field>
 <field name="title">Shadowtime</field>
-<field name="titlesort">Shadowtime</field>
+<field name="titleSort">Shadowtime</field>
 <field name="composer">Brian Ferneyhough</field>
-<field name="composersort">Ferneyhough, Brian</field>
+<field name="composerSort">Ferneyhough, Brian</field>
 <field name="year">2004</field>
 <field name="date">May 25, 2004</field>
 <field name="librettist">Charles Bernstein</field>
-<field name="librettistsort">Bernstein, Charles</field>
+<field name="librettistSort">Bernstein, Charles</field>
 <field name="theater">Biennale</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

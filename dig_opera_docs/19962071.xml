@@ -3,13 +3,13 @@
 <field name="id">19962071</field>
 <field name="genre">Operas</field>
 <field name="title">Purgatory</field>
-<field name="titlesort">Purgatory</field>
+<field name="titleSort">Purgatory</field>
 <field name="composer">Mark Lanz Weiser</field>
-<field name="composersort">Weiser, Mark Lanz</field>
+<field name="composerSort">Weiser, Mark Lanz</field>
 <field name="year">1991</field>
 <field name="date">September 15, 1991</field>
 <field name="librettist">William Butler Yeats</field>
-<field name="librettistsort">Yeats, William Butler</field>
+<field name="librettistSort">Yeats, William Butler</field>
 <field name="theater">Smith Hall, Second Presbyterian Church</field>
 <field name="city">Baltimore</field>
 <field name="region">Maryland</field>

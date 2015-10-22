@@ -3,13 +3,13 @@
 <field name="id">19961998</field>
 <field name="genre">Operas</field>
 <field name="title">Phyllis Remembers</field>
-<field name="titlesort">Phyllis Remembers</field>
+<field name="titleSort">Phyllis Remembers</field>
 <field name="composer">Philip Brownlee</field>
-<field name="composersort">Brownlee, Philip</field>
+<field name="composerSort">Brownlee, Philip</field>
 <field name="year">1997</field>
 <field name="date">May 23, 1997</field>
 <field name="librettist">Philip Brownlee</field>
-<field name="librettistsort">Brownlee, Philip</field>
+<field name="librettistSort">Brownlee, Philip</field>
 <field name="theater">Bats Theatre</field>
 <field name="city">Wellington</field>
 <field name="country">New Zealand</field>

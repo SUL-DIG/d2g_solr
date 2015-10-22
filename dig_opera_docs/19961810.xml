@@ -3,13 +3,13 @@
 <field name="id">19961810</field>
 <field name="genre">Operas</field>
 <field name="title">Naturoperan Sagan om Åland</field>
-<field name="titlesort">Naturoperan Sagan om Åland</field>
+<field name="titleSort">Naturoperan Sagan om Åland</field>
 <field name="composer">Peter Lång </field>
-<field name="composersort">Lång, Peter</field>
+<field name="composerSort">Lång, Peter</field>
 <field name="year">1999</field>
 <field name="date">July 28, 1999</field>
 <field name="librettist">Peter Lång </field>
-<field name="librettistsort">Lång, Peter</field>
+<field name="librettistSort">Lång, Peter</field>
 <field name="city">Finström</field>
 <field name="region">Ahvenanmaa</field>
 <field name="country">Finland</field>

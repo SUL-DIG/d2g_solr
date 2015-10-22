@@ -3,13 +3,13 @@
 <field name="id">19961797</field>
 <field name="genre">Operas</field>
 <field name="title">Nancy</field>
-<field name="titlesort">Nancy</field>
+<field name="titleSort">Nancy</field>
 <field name="composer">Garrison Hull</field>
-<field name="composersort">Hull, Garrison</field>
+<field name="composerSort">Hull, Garrison</field>
 <field name="year">2004</field>
 <field name="date">May 14, 2004</field>
 <field name="librettist">Garrison Hull</field>
-<field name="librettistsort">Hull, Garrison</field>
+<field name="librettistSort">Hull, Garrison</field>
 <field name="theater">Opera Theatre of Northern Virginia</field>
 <field name="city">Arlington</field>
 <field name="region">Virginia</field>

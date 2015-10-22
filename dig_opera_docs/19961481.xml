@@ -3,13 +3,13 @@
 <field name="id">19961481</field>
 <field name="genre">Operas</field>
 <field name="title">Le gentilhomme ivre</field>
-<field name="titlesort">gentilhomme ivre</field>
+<field name="titleSort">gentilhomme ivre</field>
 <field name="composer">Bruno Coli</field>
-<field name="composersort">Coli, Bruno</field>
+<field name="composerSort">Coli, Bruno</field>
 <field name="year">2009</field>
 <field name="date">March 12, 2009</field>
 <field name="librettist">Fabrizio Gambineri</field>
-<field name="librettistsort">Gambineri, Fabrizio</field>
+<field name="librettistSort">Gambineri, Fabrizio</field>
 <field name="theater">Chagall Museum Auditorium</field>
 <field name="city">Nice</field>
 <field name="region">Alpes-Maritimes</field>

@@ -3,9 +3,9 @@
 <field name="id">19960891</field>
 <field name="genre">Operas</field>
 <field name="title">Fisherman's Dock</field>
-<field name="titlesort">Fisherman's Dock</field>
+<field name="titleSort">Fisherman's Dock</field>
 <field name="composer">William Banfield</field>
-<field name="composersort">Banfield, William</field>
+<field name="composerSort">Banfield, William</field>
 <field name="year">1998</field>
 <field name="date">April 3, 1998</field>
 <field name="theater">University of St. Thomas</field>

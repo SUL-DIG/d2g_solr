@@ -3,13 +3,13 @@
 <field name="id">19962198</field>
 <field name="genre">Operas</field>
 <field name="title">S.C.H.A.S. …</field>
-<field name="titlesort">S.C.H.A.S. …</field>
+<field name="titleSort">S.C.H.A.S. …</field>
 <field name="composer">Gerhard Schedl</field>
-<field name="composersort">Schedl, Gerhard</field>
+<field name="composerSort">Schedl, Gerhard</field>
 <field name="year">1990</field>
 <field name="date">November 29, 1990</field>
 <field name="librettist">Hans Carl Artmann</field>
-<field name="librettistsort">Artmann, Hans Carl</field>
+<field name="librettistSort">Artmann, Hans Carl</field>
 <field name="theater">Landestheater</field>
 <field name="city">Salzburg</field>
 <field name="region">Salzburg</field>

@@ -3,13 +3,13 @@
 <field name="id">19960983</field>
 <field name="genre">Operas</field>
 <field name="title">Gesualdo</field>
-<field name="titlesort">Gesualdo</field>
+<field name="titleSort">Gesualdo</field>
 <field name="composer">Marc-André Dalbavie</field>
-<field name="composersort">Dalbavie, Marc-André</field>
+<field name="composerSort">Dalbavie, Marc-André</field>
 <field name="year">2010</field>
 <field name="date">October 9, 2010</field>
 <field name="librettist">Richard Millet</field>
-<field name="librettistsort">Millet, Richard</field>
+<field name="librettistSort">Millet, Richard</field>
 <field name="theater">Opernhaus</field>
 <field name="city">Zürich</field>
 <field name="region">Zürich</field>

@@ -3,13 +3,13 @@
 <field name="id">19962581</field>
 <field name="genre">Operas</field>
 <field name="title">The Harlot and the Monk</field>
-<field name="titlesort">Harlot and the Monk</field>
+<field name="titleSort">Harlot and the Monk</field>
 <field name="composer">Craig Bohmler</field>
-<field name="composersort">Bohmler, Craig</field>
+<field name="composerSort">Bohmler, Craig</field>
 <field name="year">1985</field>
 <field name="date">February 1, 1985</field>
 <field name="librettist">James Howley</field>
-<field name="librettistsort">Howley, James</field>
+<field name="librettistSort">Howley, James</field>
 <field name="theater">Banff Centre</field>
 <field name="city">Banff</field>
 <field name="region">Alberta</field>

@@ -3,13 +3,13 @@
 <field name="id">19961268</field>
 <field name="genre">Operas</field>
 <field name="title">Ka und der Pavian</field>
-<field name="titlesort">Ka und der Pavian</field>
+<field name="titleSort">Ka und der Pavian</field>
 <field name="composer">Wolfgang Mitterer</field>
-<field name="composersort">Mitterer, Wolfgang</field>
+<field name="composerSort">Mitterer, Wolfgang</field>
 <field name="year">1999</field>
 <field name="date">April 13, 1999</field>
 <field name="librettist">Wolfgang Mitterer</field>
-<field name="librettistsort">Mitterer, Wolfgang</field>
+<field name="librettistSort">Mitterer, Wolfgang</field>
 <field name="theater">Staatstheater</field>
 <field name="city">Darmstadt</field>
 <field name="region">Hessen</field>

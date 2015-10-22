@@ -3,13 +3,13 @@
 <field name="id">19962838</field>
 <field name="genre">Operas</field>
 <field name="title">The Wedding</field>
-<field name="titlesort">Wedding</field>
+<field name="titleSort">Wedding</field>
 <field name="composer">Janis Dunson Wilson</field>
-<field name="composersort">Wilson, Janis Dunson</field>
+<field name="composerSort">Wilson, Janis Dunson</field>
 <field name="year">2003</field>
 <field name="date">October 24, 2003</field>
 <field name="librettist">Harry Reid</field>
-<field name="librettistsort">Reid, Harry</field>
+<field name="librettistSort">Reid, Harry</field>
 <field name="theater">Cinnabar Theater</field>
 <field name="city">Petaluma</field>
 <field name="region">California</field>

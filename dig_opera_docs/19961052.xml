@@ -3,13 +3,13 @@
 <field name="id">19961052</field>
 <field name="genre">Operas</field>
 <field name="title">Hasekura Tsunenaga's "Faraway Sail"</field>
-<field name="titlesort">Hasekura Tsunenaga's "Faraway Sail"</field>
+<field name="titleSort">Hasekura Tsunenaga's "Faraway Sail"</field>
 <field name="composer">Akira Miyoshi</field>
-<field name="composersort">Miyoshi, Akira</field>
+<field name="composerSort">Miyoshi, Akira</field>
 <field name="year">1999</field>
 <field name="date">April 4, 1999</field>
 <field name="librettist">Takahashi Mutsuo</field>
-<field name="librettistsort">Mutsuo, Takahashi</field>
+<field name="librettistSort">Mutsuo, Takahashi</field>
 <field name="theater">Setagaya Public Hall</field>
 <field name="city">Tokyo</field>
 <field name="region">Tokyo</field>

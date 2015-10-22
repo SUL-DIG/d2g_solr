@@ -3,13 +3,13 @@
 <field name="id">19960195</field>
 <field name="genre">Operas</field>
 <field name="title">Arabian Jänis (The Arabian Rabbit)</field>
-<field name="titlesort">Arabian Jänis (The Arabian Rabbit)</field>
+<field name="titleSort">Arabian Jänis (The Arabian Rabbit)</field>
 <field name="composer">Seppo Pohjola</field>
-<field name="composersort">Pohjola, Seppo</field>
+<field name="composerSort">Pohjola, Seppo</field>
 <field name="year">2004</field>
 <field name="date">August 21, 2004</field>
 <field name="librettist">Sinikka Nopola</field>
-<field name="librettistsort">Nopola, Sinikka</field>
+<field name="librettistSort">Nopola, Sinikka</field>
 <field name="theater">Stoa Hall in Itäkeskus</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

@@ -3,13 +3,13 @@
 <field name="id">19960356</field>
 <field name="genre">Operas</field>
 <field name="title">Brain Opera</field>
-<field name="titlesort">Brain Opera</field>
+<field name="titleSort">Brain Opera</field>
 <field name="composer">Tod Machover</field>
-<field name="composersort">Machover, Tod</field>
+<field name="composerSort">Machover, Tod</field>
 <field name="year">1996</field>
 <field name="date">July 23, 1996</field>
 <field name="librettist">Marvin Minsky</field>
-<field name="librettistsort">Minsky, Marvin</field>
+<field name="librettistSort">Minsky, Marvin</field>
 <field name="theater">Lincoln Center</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

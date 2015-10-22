@@ -3,13 +3,13 @@
 <field name="id">19962366</field>
 <field name="genre">Operas</field>
 <field name="title">Stitch</field>
-<field name="titlesort">Stitch</field>
+<field name="titleSort">Stitch</field>
 <field name="composer">Juliet Palmer</field>
-<field name="composersort">Palmer, Juliet</field>
+<field name="composerSort">Palmer, Juliet</field>
 <field name="year">2008</field>
 <field name="date">March 12, 2008</field>
 <field name="librettist">Anna Chatterton</field>
-<field name="librettistsort">Chatterton, Anna</field>
+<field name="librettistSort">Chatterton, Anna</field>
 <field name="theater">Freefall Festival, Harbourfront Centre</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

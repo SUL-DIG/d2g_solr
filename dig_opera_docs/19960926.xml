@@ -3,13 +3,13 @@
 <field name="id">19960926</field>
 <field name="genre">Operas</field>
 <field name="title">Freud, Freud, I love you !</field>
-<field name="titlesort">Freud, Freud, I love you !</field>
+<field name="titleSort">Freud, Freud, I love you !</field>
 <field name="composer">Luca Mosca</field>
-<field name="composersort">Mosca, Luca</field>
+<field name="composerSort">Mosca, Luca</field>
 <field name="year">2009</field>
 <field name="date">January 15, 2009</field>
 <field name="librettist">Gianluigi Melega</field>
-<field name="librettistsort">Melega, Gianluigi</field>
+<field name="librettistSort">Melega, Gianluigi</field>
 <field name="theater">Teatro Olimpico</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>

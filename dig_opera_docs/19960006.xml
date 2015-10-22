@@ -3,13 +3,13 @@
 <field name="id">19960006</field>
 <field name="genre">Operas</field>
 <field name="title">1918, l'Homme qui titubait dans la Guerre</field>
-<field name="titlesort">1918, l'Homme qui titubait dans la Guerre</field>
+<field name="titleSort">1918, l'Homme qui titubait dans la Guerre</field>
 <field name="composer">Isabelle Aboulker</field>
-<field name="composersort">Aboulker, Isabelle</field>
+<field name="composerSort">Aboulker, Isabelle</field>
 <field name="year">1998</field>
 <field name="date">November 11, 1998</field>
 <field name="librettist">Arielle Augry</field>
-<field name="librettistsort">Augry, Arielle</field>
+<field name="librettistSort">Augry, Arielle</field>
 <field name="theater">Historial de la Grande Guerre</field>
 <field name="city">Péronne</field>
 <field name="region">Somme</field>

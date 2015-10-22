@@ -3,13 +3,13 @@
 <field name="id">19962795</field>
 <field name="genre">Operas</field>
 <field name="title">The Three Stories</field>
-<field name="titlesort">Three Stories</field>
+<field name="titleSort">Three Stories</field>
 <field name="composer">Alan Stringer </field>
-<field name="composersort">Stringer, Alan </field>
+<field name="composerSort">Stringer, Alan </field>
 <field name="year">2007</field>
 <field name="date">June 17, 2007</field>
 <field name="librettist">Alan Stringer </field>
-<field name="librettistsort">Stringer, Alan </field>
+<field name="librettistSort">Stringer, Alan </field>
 <field name="theater">First Unitarian Church</field>
 <field name="city">Albuquerque</field>
 <field name="region">New Mexico</field>

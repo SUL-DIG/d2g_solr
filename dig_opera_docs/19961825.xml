@@ -3,13 +3,13 @@
 <field name="id">19961825</field>
 <field name="genre">Operas</field>
 <field name="title">Night Passage</field>
-<field name="titlesort">Night Passage</field>
+<field name="titleSort">Night Passage</field>
 <field name="composer">Robert Moran</field>
-<field name="composersort">Moran, Robert</field>
+<field name="composerSort">Moran, Robert</field>
 <field name="year">1995</field>
 <field name="date">April 27, 1995</field>
 <field name="librettist">James Skofield</field>
-<field name="librettistsort">Skofield, James</field>
+<field name="librettistSort">Skofield, James</field>
 <field name="theater">University of Washington</field>
 <field name="city">Seattle</field>
 <field name="region">Washington</field>

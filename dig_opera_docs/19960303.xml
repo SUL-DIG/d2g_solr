@@ -3,13 +3,13 @@
 <field name="id">19960303</field>
 <field name="genre">Operas</field>
 <field name="title">Beowulf</field>
-<field name="titlesort">Beowulf</field>
+<field name="titleSort">Beowulf</field>
 <field name="composer">Victor Davies</field>
-<field name="composersort">Davies, Victor</field>
+<field name="composerSort">Davies, Victor</field>
 <field name="year">1977</field>
 <field name="date">December 1, 1977</field>
 <field name="librettist">Betty Jane Wylie</field>
-<field name="librettistsort">Wylie, Betty Jane</field>
+<field name="librettistSort">Wylie, Betty Jane</field>
 <field name="theater">AMAS Repertory Theater</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

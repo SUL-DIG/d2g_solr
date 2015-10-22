@@ -3,13 +3,13 @@
 <field name="id">19962078</field>
 <field name="genre">Operas</field>
 <field name="title">Pyymosa</field>
-<field name="titlesort">Pyymosa</field>
+<field name="titleSort">Pyymosa</field>
 <field name="composer">Tuomo Teirilä</field>
-<field name="composersort">Teirilä, Tuomo</field>
+<field name="composerSort">Teirilä, Tuomo</field>
 <field name="year">2000</field>
 <field name="date">May 11, 2000</field>
 <field name="librettist">Tuomo Teirilä</field>
-<field name="librettistsort">Teirilä, Tuomo</field>
+<field name="librettistSort">Teirilä, Tuomo</field>
 <field name="theater">Myyrmäki-halli</field>
 <field name="city">Vantaa</field>
 <field name="region">Uusimaa</field>

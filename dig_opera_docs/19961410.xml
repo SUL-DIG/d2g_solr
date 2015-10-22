@@ -3,13 +3,13 @@
 <field name="id">19961410</field>
 <field name="genre">Operas</field>
 <field name="title">La hija de Jefte (Seila)</field>
-<field name="titlesort">hija de Jefte (Seila)</field>
+<field name="titleSort">hija de Jefte (Seila)</field>
 <field name="composer">Laureano Fuentes Matons</field>
-<field name="composersort">Fuentes Matons, Laureano</field>
+<field name="composerSort">Fuentes Matons, Laureano</field>
 <field name="year">1875</field>
 <field name="date">5/16/1875</field>
 <field name="librettist">Juan Arnao</field>
-<field name="librettistsort">Arnao, Juan</field>
+<field name="librettistSort">Arnao, Juan</field>
 <field name="theater">Teatro Reina</field>
 <field name="city">Santiago de Cuba</field>
 <field name="country">Cuba</field>

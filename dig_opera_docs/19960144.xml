@@ -3,13 +3,13 @@
 <field name="id">19960144</field>
 <field name="genre">Operas</field>
 <field name="title">Amistad</field>
-<field name="titlesort">Amistad</field>
+<field name="titleSort">Amistad</field>
 <field name="composer">Anthony Davis</field>
-<field name="composersort">Davis, Anthony</field>
+<field name="composerSort">Davis, Anthony</field>
 <field name="year">1997</field>
 <field name="date">November 29, 1997</field>
 <field name="librettist">Thulani Davis</field>
-<field name="librettistsort">Davis, Thulani</field>
+<field name="librettistSort">Davis, Thulani</field>
 <field name="theater">Civic Opera House</field>
 <field name="city">Chicago</field>
 <field name="region">Illinois</field>

@@ -3,13 +3,13 @@
 <field name="id">19961416</field>
 <field name="genre">Operas</field>
 <field name="title">La macchina</field>
-<field name="titlesort">macchina</field>
+<field name="titleSort">macchina</field>
 <field name="composer">Raffaele Grimaldi</field>
-<field name="composersort">Grimaldi, Raffaele</field>
+<field name="composerSort">Grimaldi, Raffaele</field>
 <field name="year">2013</field>
 <field name="date">October 9, 2013</field>
 <field name="librettist">Diego Giordano</field>
-<field name="librettistsort">Giordano, Diego</field>
+<field name="librettistSort">Giordano, Diego</field>
 <field name="theater">Biennale</field>
 <field name="city">Venice</field>
 <field name="region">Veneto</field>

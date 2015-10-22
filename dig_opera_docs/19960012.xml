@@ -3,13 +3,13 @@
 <field name="id">19960012</field>
 <field name="genre">Operas</field>
 <field name="title">A Better Place</field>
-<field name="titlesort">Better Place</field>
+<field name="titleSort">Better Place</field>
 <field name="composer">Martin Butler</field>
-<field name="composersort">Butler, Martin</field>
+<field name="composerSort">Butler, Martin</field>
 <field name="year">2001</field>
 <field name="date">July 4, 2001</field>
 <field name="librettist">Cindy Oswin</field>
-<field name="librettistsort">Oswin, Cindy</field>
+<field name="librettistSort">Oswin, Cindy</field>
 <field name="theater">Coliseum</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

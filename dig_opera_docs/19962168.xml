@@ -3,13 +3,13 @@
 <field name="id">19962168</field>
 <field name="genre">Operas</field>
 <field name="title">Robin Hood</field>
-<field name="titlesort">Robin Hood</field>
+<field name="titleSort">Robin Hood</field>
 <field name="composer">Jukka Linkola</field>
-<field name="composersort">Linkola, Jukka</field>
+<field name="composerSort">Linkola, Jukka</field>
 <field name="year">2011</field>
 <field name="date">January 14, 2011</field>
 <field name="librettist">Jukka Virtanen</field>
-<field name="librettistsort">Virtanen, Jukka</field>
+<field name="librettistSort">Virtanen, Jukka</field>
 <field name="theater">Suomen Kansallisoopperai</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

@@ -3,13 +3,13 @@
 <field name="id">19961223</field>
 <field name="genre">Operas</field>
 <field name="title">Jam</field>
-<field name="titlesort">Jam</field>
+<field name="titleSort">Jam</field>
 <field name="composer">Rachel Clement</field>
-<field name="composersort">Clement, Rachel</field>
+<field name="composerSort">Clement, Rachel</field>
 <field name="year">2002</field>
 <field name="date">August 16, 2002</field>
 <field name="librettist">Margaret Mahy</field>
-<field name="librettistsort">Mahy, Margaret</field>
+<field name="librettistSort">Mahy, Margaret</field>
 <field name="theater">Repertory Theatre</field>
 <field name="city">Christchurch</field>
 <field name="country">New Zealand</field>

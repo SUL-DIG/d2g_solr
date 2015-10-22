@@ -3,9 +3,9 @@
 <field name="id">19961428</field>
 <field name="genre">Oratorio</field>
 <field name="title">La naissance de David de Sassoun</field>
-<field name="titlesort">naissance de David de Sassoun</field>
+<field name="titleSort">naissance de David de Sassoun</field>
 <field name="composer">Garbis Aprikian</field>
-<field name="composersort">Aprikian, Garbis</field>
+<field name="composerSort">Aprikian, Garbis</field>
 <field name="year">1994</field>
 <field name="date">March 18, 1994</field>
 <field name="theater">Grand Amphithéâtre de la Sorbonne</field>

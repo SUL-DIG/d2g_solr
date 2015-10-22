@@ -3,13 +3,13 @@
 <field name="id">19962449</field>
 <field name="genre">Operas</field>
 <field name="title">The Antient Concert</field>
-<field name="titlesort">Antient Concert</field>
+<field name="titleSort">Antient Concert</field>
 <field name="composer">Daron Hagen</field>
-<field name="composersort">Hagen, Daron</field>
+<field name="composerSort">Hagen, Daron</field>
 <field name="year">2005</field>
 <field name="date">April 17, 2005</field>
 <field name="librettist">Paul Muldoon</field>
-<field name="librettistsort">Muldoon, Paul</field>
+<field name="librettistSort">Muldoon, Paul</field>
 <field name="theater">Princeton University</field>
 <field name="city">Princeton</field>
 <field name="region">New Jersey</field>

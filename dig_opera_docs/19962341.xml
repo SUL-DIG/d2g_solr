@@ -3,13 +3,13 @@
 <field name="id">19962341</field>
 <field name="genre">Operas</field>
 <field name="title">Soyudlar aghlamaz (Willows Don't Cry)</field>
-<field name="titlesort">Soyudlar aghlamaz (Willows Don't Cry)</field>
+<field name="titleSort">Soyudlar aghlamaz (Willows Don't Cry)</field>
 <field name="composer">Afrasiyab Badalbeyli</field>
-<field name="composersort">Badalbeyli, Afrasiyab</field>
+<field name="composerSort">Badalbeyli, Afrasiyab</field>
 <field name="year">1971</field>
 <field name="date">March 14, 1971</field>
 <field name="librettist">Rafiq Khandan Zeka</field>
-<field name="librettistsort">Zeka, Rafiq Khandan</field>
+<field name="librettistSort">Zeka, Rafiq Khandan</field>
 <field name="theater">Azerbaijanskiy Akademicheskiy Teatr Operï i Baleta imeni M. F. Akhundova</field>
 <field name="city">Baku</field>
 <field name="country">Azerbaijan</field>

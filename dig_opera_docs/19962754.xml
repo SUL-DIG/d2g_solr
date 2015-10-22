@@ -3,13 +3,13 @@
 <field name="id">19962754</field>
 <field name="genre">Operas</field>
 <field name="title">The Shoemaker</field>
-<field name="titlesort">Shoemaker</field>
+<field name="titleSort">Shoemaker</field>
 <field name="composer">Stephen Paulus</field>
-<field name="composersort">Paulus, Stephen</field>
+<field name="composerSort">Paulus, Stephen</field>
 <field name="year">2012</field>
 <field name="date">September 29, 2012</field>
 <field name="librettist">Michael Dennis Browne</field>
-<field name="librettistsort">Browne, Michael Dennis</field>
+<field name="librettistSort">Browne, Michael Dennis</field>
 <field name="theater">Plymouth Congregational Church</field>
 <field name="city">Minneapolis</field>
 <field name="region">Minnesota</field>

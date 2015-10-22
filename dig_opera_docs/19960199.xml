@@ -3,13 +3,13 @@
 <field name="id">19960199</field>
 <field name="genre">Operas</field>
 <field name="title">Ariadne</field>
-<field name="titlesort">Ariadne</field>
+<field name="titleSort">Ariadne</field>
 <field name="composer">Elena Langer</field>
-<field name="composersort">Langer, Elena</field>
+<field name="composerSort">Langer, Elena</field>
 <field name="year">2002</field>
 <field name="date">July 12, 2002</field>
 <field name="librettist">Glyn Maxwell</field>
-<field name="librettistsort">Maxwell, Glyn</field>
+<field name="librettistSort">Maxwell, Glyn</field>
 <field name="theater">Almeida Theatre King's Cross</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

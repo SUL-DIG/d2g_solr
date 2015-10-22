@@ -3,13 +3,13 @@
 <field name="id">19962905</field>
 <field name="genre">Operas</field>
 <field name="title">Travellers</field>
-<field name="titlesort">Travellers</field>
+<field name="titleSort">Travellers</field>
 <field name="composer">David Horne</field>
-<field name="composersort">Horne, David</field>
+<field name="composerSort">Horne, David</field>
 <field name="year">1998</field>
 <field name="date">June 1, 1998</field>
 <field name="librettist">A. N. Wilson</field>
-<field name="librettistsort">Wilson, A. N.</field>
+<field name="librettistSort">Wilson, A. N.</field>
 <field name="theater">Cochrane Theatre</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

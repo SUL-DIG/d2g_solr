@@ -3,13 +3,13 @@
 <field name="id">19960316</field>
 <field name="genre">Operas</field>
 <field name="title">Biko</field>
-<field name="titlesort">Biko</field>
+<field name="titleSort">Biko</field>
 <field name="composer">Priti Paintal</field>
-<field name="composersort">Paintal, Priti</field>
+<field name="composerSort">Paintal, Priti</field>
 <field name="year">1992</field>
 <field name="date">May 29, 1992</field>
 <field name="librettist">Richard Fawkes</field>
-<field name="librettistsort">Fawkes, Richard</field>
+<field name="librettistSort">Fawkes, Richard</field>
 <field name="theater">Repertory Theatre</field>
 <field name="city">Birmingham</field>
 <field name="region">West Midlands</field>

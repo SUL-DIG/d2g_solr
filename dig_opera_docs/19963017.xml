@@ -3,13 +3,13 @@
 <field name="id">19963017</field>
 <field name="genre">Operas</field>
 <field name="title">Voir Dire</field>
-<field name="titlesort">Voir Dire</field>
+<field name="titleSort">Voir Dire</field>
 <field name="composer">Matthew Peterson </field>
-<field name="composersort">Peterson, Matthew</field>
+<field name="composerSort">Peterson, Matthew</field>
 <field name="year">2014</field>
 <field name="date">May 8, 2014</field>
 <field name="librettist">Jason Zencka </field>
-<field name="librettistsort">Zencka, Jason</field>
+<field name="librettistSort">Zencka, Jason</field>
 <field name="theater">McDavid Studio</field>
 <field name="city">Fort Worth</field>
 <field name="region">Texas</field>

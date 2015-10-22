@@ -3,13 +3,13 @@
 <field name="id">19962842</field>
 <field name="genre">Operas</field>
 <field name="title">The White Raven</field>
-<field name="titlesort">White Raven</field>
+<field name="titleSort">White Raven</field>
 <field name="composer">Philip Glass</field>
-<field name="composersort">Glass, Philip</field>
+<field name="composerSort">Glass, Philip</field>
 <field name="year">1998</field>
 <field name="date">September 26, 1998</field>
 <field name="librettist">Luisa Costa Gomaz</field>
-<field name="librettistsort">Gomaz, Luisa Costa</field>
+<field name="librettistSort">Gomaz, Luisa Costa</field>
 <field name="theater">Teatro Camões</field>
 <field name="city">Lisbon</field>
 <field name="region">Lisboa</field>

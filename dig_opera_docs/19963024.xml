@@ -3,13 +3,13 @@
 <field name="id">19963024</field>
 <field name="genre">Operas</field>
 <field name="title">Voro vestuvės (The Spider's Wedding)</field>
-<field name="titlesort">Voro vestuvės (The Spider's Wedding)</field>
+<field name="titleSort">Voro vestuvės (The Spider's Wedding)</field>
 <field name="composer">Zita Bružaitė </field>
-<field name="composersort">Bružaitė, Zita</field>
+<field name="composerSort">Bružaitė, Zita</field>
 <field name="year">2007</field>
 <field name="date">June 8, 2007</field>
 <field name="librettist">Justinas Marcinkevičius</field>
-<field name="librettistsort">Marcinkevičius, Justinas</field>
+<field name="librettistSort">Marcinkevičius, Justinas</field>
 <field name="theater">Muzïkal'nïy Teatr</field>
 <field name="city">Kaunas</field>
 <field name="country">Lithuania</field>

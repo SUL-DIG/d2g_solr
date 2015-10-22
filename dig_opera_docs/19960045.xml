@@ -3,13 +3,13 @@
 <field name="id">19960045</field>
 <field name="genre">Operas</field>
 <field name="title">A Little Madness in the Spring</field>
-<field name="titlesort">Little Madness in the Spring</field>
+<field name="titleSort">Little Madness in the Spring</field>
 <field name="composer">António Pinho Vargas</field>
-<field name="composersort">Vargas, António Pinho</field>
+<field name="composerSort">Vargas, António Pinho</field>
 <field name="year">2006</field>
 <field name="date">September 14, 2006</field>
 <field name="librettist">Paulo Tunhas</field>
-<field name="librettistsort">Tunhas, Paulo</field>
+<field name="librettistSort">Tunhas, Paulo</field>
 <field name="theater">Casa da Música</field>
 <field name="city">Oporto</field>
 <field name="region">Porto</field>

@@ -3,13 +3,13 @@
 <field name="id">19960917</field>
 <field name="genre">Operas</field>
 <field name="title">Frau Margot</field>
-<field name="titlesort">Frau Margot</field>
+<field name="titleSort">Frau Margot</field>
 <field name="composer">Thomas Pasatieri</field>
-<field name="composersort">Pasatieri, Thomas</field>
+<field name="composerSort">Pasatieri, Thomas</field>
 <field name="year">2007</field>
 <field name="date">June 2, 2007</field>
 <field name="librettist">Frank Corsaro</field>
-<field name="librettistsort">Corsaro, Frank</field>
+<field name="librettistSort">Corsaro, Frank</field>
 <field name="theater">Bass Performance Hall</field>
 <field name="city">Fort Worth</field>
 <field name="region">Texas</field>

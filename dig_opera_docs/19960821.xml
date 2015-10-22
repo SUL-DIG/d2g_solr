@@ -3,13 +3,13 @@
 <field name="id">19960821</field>
 <field name="genre">Operas</field>
 <field name="title">Eternity Man</field>
-<field name="titlesort">Eternity Man</field>
+<field name="titleSort">Eternity Man</field>
 <field name="composer">Jonathan Mills</field>
-<field name="composersort">Mills, Jonathan</field>
+<field name="composerSort">Mills, Jonathan</field>
 <field name="year">2003</field>
 <field name="date">July 23, 2003</field>
 <field name="librettist">Dorothy F. Porter</field>
-<field name="librettistsort">Porter, Dorothy F.</field>
+<field name="librettistSort">Porter, Dorothy F.</field>
 <field name="theater">Almeida Theatre</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

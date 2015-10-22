@@ -3,13 +3,13 @@
 <field name="id">19960354</field>
 <field name="genre">Operas</field>
 <field name="title">Bovinus Rex</field>
-<field name="titlesort">Bovinus Rex</field>
+<field name="titleSort">Bovinus Rex</field>
 <field name="composer">Rudolf Rojahn</field>
-<field name="composersort">Rojahn, Rudolf</field>
+<field name="composerSort">Rojahn, Rudolf</field>
 <field name="year">2012</field>
 <field name="date">May 24, 2012</field>
 <field name="librettist">Rudolf Rojahn</field>
-<field name="librettistsort">Rojahn, Rudolf</field>
+<field name="librettistSort">Rojahn, Rudolf</field>
 <field name="theater">Boston Conservatory</field>
 <field name="city">Boston</field>
 <field name="region">Massachusetts</field>

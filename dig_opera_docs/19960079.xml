@@ -3,13 +3,13 @@
 <field name="id">19960079</field>
 <field name="genre">Operas</field>
 <field name="title">Aethelred the Unready</field>
-<field name="titlesort">Aethelred the Unready</field>
+<field name="titleSort">Aethelred the Unready</field>
 <field name="composer">Richard Wilson</field>
-<field name="composersort">Wilson, Richard</field>
+<field name="composerSort">Wilson, Richard</field>
 <field name="year">2001</field>
 <field name="date">May 13, 2001</field>
 <field name="librettist">Richard Wilson</field>
-<field name="librettistsort">Wilson, Richard</field>
+<field name="librettistSort">Wilson, Richard</field>
 <field name="theater">Merkin Concert Hall</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

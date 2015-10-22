@@ -3,13 +3,13 @@
 <field name="id">19960574</field>
 <field name="genre">Operas</field>
 <field name="title">Der Kommissar</field>
-<field name="titlesort">Kommissar</field>
+<field name="titleSort">Kommissar</field>
 <field name="composer">Jury Everhartz</field>
-<field name="composersort">Everhartz, Jury</field>
+<field name="composerSort">Everhartz, Jury</field>
 <field name="year">2002</field>
 <field name="date">March 15, 2002</field>
 <field name="librettist">Kristine Tornquist</field>
-<field name="librettistsort">Tornquist, Kristine</field>
+<field name="librettistSort">Tornquist, Kristine</field>
 <field name="theater">Jugendstiltheater</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

@@ -3,13 +3,13 @@
 <field name="id">19962695</field>
 <field name="genre">Operas</field>
 <field name="title">The Pied Piper of Hamlin</field>
-<field name="titlesort">Pied Piper of Hamlin</field>
+<field name="titleSort">Pied Piper of Hamlin</field>
 <field name="composer">Toshi Ichiyanagi</field>
-<field name="composersort">Ichiyanagi, Toshi</field>
+<field name="composerSort">Ichiyanagi, Toshi</field>
 <field name="year">2012</field>
 <field name="date">September 15, 2012</field>
 <field name="librettist">Robert Browning</field>
-<field name="librettistsort">Browning, Robert</field>
+<field name="librettistSort">Browning, Robert</field>
 <field name="theater">Kanagawa Kenmin Hall</field>
 <field name="city">Yokohama</field>
 <field name="region">Kanagawa</field>

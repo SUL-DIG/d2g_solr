@@ -3,13 +3,13 @@
 <field name="id">19961495</field>
 <field name="genre">Operas</field>
 <field name="title">Le Senatori</field>
-<field name="titlesort">Senatori</field>
+<field name="titleSort">Senatori</field>
 <field name="composer">Lionel Lackey</field>
-<field name="composersort">Lackey, Lionel</field>
+<field name="composerSort">Lackey, Lionel</field>
 <field name="year">2003</field>
 <field name="date">November 14, 2003</field>
 <field name="librettist">Lionel Lackey</field>
-<field name="librettistsort">Lackey, Lionel</field>
+<field name="librettistSort">Lackey, Lionel</field>
 <field name="theater">Emporia State University</field>
 <field name="city">Emporia</field>
 <field name="region">Kansas</field>

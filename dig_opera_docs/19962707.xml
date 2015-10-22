@@ -3,9 +3,9 @@
 <field name="id">19962707</field>
 <field name="genre">Operas</field>
 <field name="title">The Prodigal Son</field>
-<field name="titlesort">Prodigal Son</field>
+<field name="titleSort">Prodigal Son</field>
 <field name="composer">James Stepleton</field>
-<field name="composersort">Stepleton, James</field>
+<field name="composerSort">Stepleton, James</field>
 <field name="year">1983</field>
 <field name="date">May 8, 1983</field>
 <field name="theater">Barnard College</field>

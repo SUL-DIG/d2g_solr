@@ -3,11 +3,11 @@
 <field name="id">19960797</field>
 <field name="genre">Operas</field>
 <field name="title">Émulo Lipolidón</field>
-<field name="titlesort">Émulo Lipolidón</field>
+<field name="titleSort">Émulo Lipolidón</field>
 <field name="composer">José Castañeda</field>
-<field name="composersort">Castañeda, José</field>
+<field name="composerSort">Castañeda, José</field>
 <field name="librettist">Miguel Ángel Asturias</field>
-<field name="librettistsort">Asturias, Miguel Ángel</field>
+<field name="librettistSort">Asturias, Miguel Ángel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Émulo+Lipolidón+José+Castañeda&amp;search_field=search</field>
 </doc>
 </add>

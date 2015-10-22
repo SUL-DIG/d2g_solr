@@ -3,12 +3,12 @@
 <field name="id">19962800</field>
 <field name="genre">Operas</field>
 <field name="title">The Tinsel Storm</field>
-<field name="titlesort">Tinsel Storm</field>
+<field name="titleSort">Tinsel Storm</field>
 <field name="composer">Alasdair Nicolson</field>
-<field name="composersort">Nicolson, Alasdair</field>
+<field name="composerSort">Nicolson, Alasdair</field>
 <field name="year">2007</field>
 <field name="librettist">Philip Ridley</field>
-<field name="librettistsort">Philip, Ridley</field>
+<field name="librettistSort">Philip, Ridley</field>
 <field name="theater">The Other Opera</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

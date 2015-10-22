@@ -3,13 +3,13 @@
 <field name="id">19960475</field>
 <field name="genre">Operas</field>
 <field name="title">Crux dissimulata (Concealed Cross)</field>
-<field name="titlesort">Crux dissimulata (Concealed Cross)</field>
+<field name="titleSort">Crux dissimulata (Concealed Cross)</field>
 <field name="composer">Srečko Bradić</field>
-<field name="composersort">Bradić, Srečko</field>
+<field name="composerSort">Bradić, Srečko</field>
 <field name="year">2009</field>
 <field name="date">April 16, 2009</field>
 <field name="librettist">Ivan Vidić</field>
-<field name="librettistsort">Vidić, Ivan</field>
+<field name="librettistSort">Vidić, Ivan</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Zagreb</field>
 <field name="country">Croatia</field>

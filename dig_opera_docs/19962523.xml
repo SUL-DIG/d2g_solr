@@ -3,13 +3,13 @@
 <field name="id">19962523</field>
 <field name="genre">Operas</field>
 <field name="title">The Duel</field>
-<field name="titlesort">Duel</field>
+<field name="titleSort">Duel</field>
 <field name="composer">Seymour Barab</field>
-<field name="composersort">Barab, Seymour</field>
+<field name="composerSort">Barab, Seymour</field>
 <field name="year">2007</field>
 <field name="date">May 17, 2007</field>
 <field name="librettist">Seymour Barab</field>
-<field name="librettistsort">Barab, Seymour</field>
+<field name="librettistSort">Barab, Seymour</field>
 <field name="theater">14th Street Y Theater</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

@@ -3,13 +3,13 @@
 <field name="id">19962251</field>
 <field name="genre">Operas</field>
 <field name="title">Serei eu fugindo?</field>
-<field name="titlesort">Serei eu fugindo?</field>
+<field name="titleSort">Serei eu fugindo?</field>
 <field name="composer">Luís Soldado</field>
-<field name="composersort">Soldado, Luís</field>
+<field name="composerSort">Soldado, Luís</field>
 <field name="year">2013</field>
 <field name="date">June 17, 2013</field>
 <field name="librettist">Rui Zink</field>
-<field name="librettistsort">Zink, Rui</field>
+<field name="librettistSort">Zink, Rui</field>
 <field name="theater">Cais do Sodré - Cascais Round-Trip by Train</field>
 <field name="city">Lisbon</field>
 <field name="region">Lisboa</field>

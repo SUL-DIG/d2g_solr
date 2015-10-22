@@ -3,13 +3,13 @@
 <field name="id">19960368</field>
 <field name="genre">Operas</field>
 <field name="title">Büchner</field>
-<field name="titlesort">Büchner</field>
+<field name="titleSort">Büchner</field>
 <field name="composer">Friedrich Schenker</field>
-<field name="composersort">Schenker, Friedrich</field>
+<field name="composerSort">Schenker, Friedrich</field>
 <field name="year">1987</field>
 <field name="date">October 15, 1987</field>
 <field name="librettist">Klaus Harnisch</field>
-<field name="librettistsort">Harnisch, Klaus</field>
+<field name="librettistSort">Harnisch, Klaus</field>
 <field name="theater">Deutsche Staatsoper</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>

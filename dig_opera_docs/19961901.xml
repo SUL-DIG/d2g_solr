@@ -3,9 +3,9 @@
 <field name="id">19961901</field>
 <field name="genre">Operas</field>
 <field name="title">Onni-Gebardi ja karhu (Cheetah Onni and a Bear)</field>
-<field name="titlesort">Onni-Gebardi ja karhu (Cheetah Onni and a Bear)</field>
+<field name="titleSort">Onni-Gebardi ja karhu (Cheetah Onni and a Bear)</field>
 <field name="composer">Perttu Haapanen</field>
-<field name="composersort">Haapanen, Perttu</field>
+<field name="composerSort">Haapanen, Perttu</field>
 <field name="year">2003</field>
 <field name="date">March 6, 2003</field>
 <field name="theater">Musica nova Helsinki</field>

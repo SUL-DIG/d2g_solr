@@ -3,13 +3,13 @@
 <field name="id">19962165</field>
 <field name="genre">Operas</field>
 <field name="title">Robert le Cochon et les kidnappeurs</field>
-<field name="titlesort">Robert le Cochon et les kidnappeurs</field>
+<field name="titleSort">Robert le Cochon et les kidnappeurs</field>
 <field name="composer">Marc-Olivier Dupin</field>
-<field name="composersort">Dupin, Marc-Olivier</field>
+<field name="composerSort">Dupin, Marc-Olivier</field>
 <field name="year">2014</field>
 <field name="date">June 13, 2014</field>
 <field name="librettist">Ivan Grinberg</field>
-<field name="librettistsort">Grinberg, Ivan</field>
+<field name="librettistSort">Grinberg, Ivan</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

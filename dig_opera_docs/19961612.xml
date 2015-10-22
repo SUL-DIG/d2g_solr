@@ -3,13 +3,13 @@
 <field name="id">19961612</field>
 <field name="genre">Operas</field>
 <field name="title">Lysistrata</field>
-<field name="titlesort">Lysistrata</field>
+<field name="titleSort">Lysistrata</field>
 <field name="composer">Mikis Theodorakes</field>
-<field name="composersort">Theodorakes, Mikis</field>
+<field name="composerSort">Theodorakes, Mikis</field>
 <field name="year">2002</field>
 <field name="date">April 14, 2002</field>
 <field name="librettist">Mikis Theodorakes</field>
-<field name="librettistsort">Theodorakes, Mikis</field>
+<field name="librettistSort">Theodorakes, Mikis</field>
 <field name="theater">Megaro Moussikis Athinon</field>
 <field name="city">Athens</field>
 <field name="region">Attiki</field>

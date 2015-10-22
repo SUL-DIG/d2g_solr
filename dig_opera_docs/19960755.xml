@@ -3,13 +3,13 @@
 <field name="id">19960755</field>
 <field name="genre">Operas</field>
 <field name="title">Ein Fest in die Zukunft</field>
-<field name="titlesort">Fest in die Zukunft</field>
+<field name="titleSort">Fest in die Zukunft</field>
 <field name="composer">Alexander Blechinger</field>
-<field name="composersort">Blechinger, Alexander</field>
+<field name="composerSort">Blechinger, Alexander</field>
 <field name="year">1988</field>
 <field name="date">November 25, 1988</field>
 <field name="librettist">Elisabeth Schrattenholzer</field>
-<field name="librettistsort">Schrattenholzer, Elisabeth</field>
+<field name="librettistSort">Schrattenholzer, Elisabeth</field>
 <field name="theater">Musikverein</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

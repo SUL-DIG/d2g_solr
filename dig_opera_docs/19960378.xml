@@ -3,13 +3,13 @@
 <field name="id">19960378</field>
 <field name="genre">Operas</field>
 <field name="title">Buwalsky: A Road Opera</field>
-<field name="titlesort">Buwalsky: A Road Opera</field>
+<field name="titleSort">Buwalsky: A Road Opera</field>
 <field name="composer">Mel Marvin</field>
-<field name="composersort">Marvin, Mel</field>
+<field name="composerSort">Marvin, Mel</field>
 <field name="year">2004</field>
 <field name="date">July 21, 2004</field>
 <field name="librettist">Jonathan Levi</field>
-<field name="librettistsort">Levi, Jonathan</field>
+<field name="librettistSort">Levi, Jonathan</field>
 <field name="theater">Opera Spanga</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>

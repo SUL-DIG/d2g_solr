@@ -3,13 +3,13 @@
 <field name="id">19960105</field>
 <field name="genre">Operas</field>
 <field name="title">Alexandra</field>
-<field name="titlesort">Alexandra</field>
+<field name="titleSort">Alexandra</field>
 <field name="composer">Zack Settel</field>
-<field name="composersort">Settel, Zack</field>
+<field name="composerSort">Settel, Zack</field>
 <field name="year">2012</field>
 <field name="date">May 15, 2012</field>
 <field name="librettist">Yan Muckle</field>
-<field name="librettistsort">Muckle, Yan</field>
+<field name="librettistSort">Muckle, Yan</field>
 <field name="theater">Usine C</field>
 <field name="city">Montreal</field>
 <field name="region">Quebec</field>

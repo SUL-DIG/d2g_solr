@@ -3,13 +3,13 @@
 <field name="id">19962247</field>
 <field name="genre">Operas</field>
 <field name="title">Send (Who Are You? I Love You)</field>
-<field name="titlesort">Send (Who Are You? I Love You)</field>
+<field name="titleSort">Send (Who Are You? I Love You)</field>
 <field name="composer">Michael John LaChiusa</field>
-<field name="composersort">LaChiusa, Michael John</field>
+<field name="composerSort">LaChiusa, Michael John</field>
 <field name="year">2006</field>
 <field name="date">March 4, 2006</field>
 <field name="librettist">Michael John LaChiusa</field>
-<field name="librettistsort">LaChiusa, Michael John</field>
+<field name="librettistSort">LaChiusa, Michael John</field>
 <field name="theater">Grand Opera</field>
 <field name="city">Houston</field>
 <field name="region">Texas</field>

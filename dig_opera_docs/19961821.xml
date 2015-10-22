@@ -3,13 +3,13 @@
 <field name="id">19961821</field>
 <field name="genre">Operas</field>
 <field name="title">Neumond</field>
-<field name="titlesort">Neumond</field>
+<field name="titleSort">Neumond</field>
 <field name="composer">Lucia Ronchetti</field>
-<field name="composersort">Ronchetti, Lucia</field>
+<field name="composerSort">Ronchetti, Lucia</field>
 <field name="year">2012</field>
 <field name="date">July 1, 2012</field>
 <field name="librettist">Kristo Sagor</field>
-<field name="librettistsort">Sagor, Kristo</field>
+<field name="librettistSort">Sagor, Kristo</field>
 <field name="theater">Nationaltheater Studio</field>
 <field name="city">Mannheim</field>
 <field name="region">Baden-Württemberg</field>

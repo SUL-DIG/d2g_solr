@@ -3,13 +3,13 @@
 <field name="id">19962950</field>
 <field name="genre">Operas</field>
 <field name="title">Un renard à l'opéra</field>
-<field name="titlesort">renard à l'opéra</field>
+<field name="titleSort">renard à l'opéra</field>
 <field name="composer">Isabelle Aboulker</field>
-<field name="composersort">Aboulker, Isabelle</field>
+<field name="composerSort">Aboulker, Isabelle</field>
 <field name="year">2004</field>
 <field name="date">May 18, 2004</field>
 <field name="librettist">Isabelle Aboulker</field>
-<field name="librettistsort">Aboulker, Isabelle</field>
+<field name="librettistSort">Aboulker, Isabelle</field>
 <field name="theater">Opéra-Théâtre</field>
 <field name="city">Limoges</field>
 <field name="region">Haute-Vienne</field>

@@ -3,13 +3,13 @@
 <field name="id">19961197</field>
 <field name="genre">Operas</field>
 <field name="title">Inventur</field>
-<field name="titlesort">Inventur</field>
+<field name="titleSort">Inventur</field>
 <field name="composer">Fernando Riederer</field>
-<field name="composersort">Riederer, Fernando</field>
+<field name="composerSort">Riederer, Fernando</field>
 <field name="year">2013</field>
 <field name="date">November 14, 2013</field>
 <field name="librettist">Brigitta Falkner</field>
-<field name="librettistsort">Falkner, Brigitta</field>
+<field name="librettistSort">Falkner, Brigitta</field>
 <field name="theater">Sirene Operntheater</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

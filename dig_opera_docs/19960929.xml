@@ -3,13 +3,13 @@
 <field name="id">19960929</field>
 <field name="genre">Operas</field>
 <field name="title">Frobisher</field>
-<field name="titlesort">Frobisher</field>
+<field name="titleSort">Frobisher</field>
 <field name="composer">John Estacio</field>
-<field name="composersort">Estacio, John</field>
+<field name="composerSort">Estacio, John</field>
 <field name="year">2007</field>
 <field name="date">January 27, 2007</field>
 <field name="librettist">John Murrell</field>
-<field name="librettistsort">Murrell, John</field>
+<field name="librettistSort">Murrell, John</field>
 <field name="theater">Southern Alberta Jubilee Auditorium</field>
 <field name="city">Calgary</field>
 <field name="region">Alberta</field>

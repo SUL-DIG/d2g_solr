@@ -3,12 +3,12 @@
 <field name="id">19960341</field>
 <field name="genre">Operas</field>
 <field name="title">Bokken Lasson - Stumbling Success</field>
-<field name="titlesort">Bokken Lasson - Stumbling Success</field>
+<field name="titleSort">Bokken Lasson - Stumbling Success</field>
 <field name="composer">Gisle Kverndokk</field>
-<field name="composersort">Kverndokk, Gisle</field>
+<field name="composerSort">Kverndokk, Gisle</field>
 <field name="year">2000</field>
 <field name="librettist">Ivar Tindberg</field>
-<field name="librettistsort">Tindberg, Ivar</field>
+<field name="librettistSort">Tindberg, Ivar</field>
 <field name="theater">Prix Italia (Norsk Rikskringkasting Radio)</field>
 <field name="city">Bologna</field>
 <field name="region">Emilia-Romagna</field>

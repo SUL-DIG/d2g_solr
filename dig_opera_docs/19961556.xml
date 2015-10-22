@@ -3,13 +3,13 @@
 <field name="id">19961556</field>
 <field name="genre">Operas</field>
 <field name="title">Lilith</field>
-<field name="titlesort">Lilith</field>
+<field name="titleSort">Lilith</field>
 <field name="composer">Deborah Dratell</field>
-<field name="composersort">Dratell, Deborah</field>
+<field name="composerSort">Dratell, Deborah</field>
 <field name="year">2001</field>
 <field name="date">November 11, 2001</field>
 <field name="librettist">David Steven Cohen</field>
-<field name="librettistsort">Cohen, David Steven</field>
+<field name="librettistSort">Cohen, David Steven</field>
 <field name="theater">New York City Opera</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

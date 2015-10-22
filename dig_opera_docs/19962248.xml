@@ -3,13 +3,13 @@
 <field name="id">19962248</field>
 <field name="genre">Operas</field>
 <field name="title">Sensational!</field>
-<field name="titlesort">Sensational!</field>
+<field name="titleSort">Sensational!</field>
 <field name="composer">Kevin O'Connell</field>
-<field name="composersort">O'Connell, Kevin</field>
+<field name="composerSort">O'Connell, Kevin</field>
 <field name="year">1992</field>
 <field name="date">November 17, 1992</field>
 <field name="librettist">Gerard Stembridge</field>
-<field name="librettistsort">Stembridge, Gerard</field>
+<field name="librettistSort">Stembridge, Gerard</field>
 <field name="theater">Royal Hospital Kilmainham</field>
 <field name="city">Dublin</field>
 <field name="region">Leinster</field>

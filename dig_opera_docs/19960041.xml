@@ -3,13 +3,13 @@
 <field name="id">19960041</field>
 <field name="genre">Operas</field>
 <field name="title">A Hill of Bones</field>
-<field name="titlesort">Hill of Bones</field>
+<field name="titleSort">Hill of Bones</field>
 <field name="composer">Persis Anne Parshall Vehar</field>
-<field name="composersort">Vehar, Persis Anne Parshall</field>
+<field name="composerSort">Vehar, Persis Anne Parshall</field>
 <field name="year">1993</field>
 <field name="date">July 17, 1993</field>
 <field name="librettist">Michael Ehrenreich</field>
-<field name="librettistsort">Ehrenreich, Michael</field>
+<field name="librettistSort">Ehrenreich, Michael</field>
 <field name="theater">Greater Buffalo Opera Company</field>
 <field name="city">Buffalo</field>
 <field name="region">New York</field>

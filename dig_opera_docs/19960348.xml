@@ -3,12 +3,12 @@
 <field name="id">19960348</field>
 <field name="genre">Operas</field>
 <field name="title">Bontsche Schweig</field>
-<field name="titlesort">Bontsche Schweig</field>
+<field name="titleSort">Bontsche Schweig</field>
 <field name="composer">Arnold Rosner</field>
-<field name="composersort">Rosner, Arnold</field>
+<field name="composerSort">Rosner, Arnold</field>
 <field name="year">1999</field>
 <field name="librettist">Isaac Loeb Peretz</field>
-<field name="librettistsort">Peretz, Isaac Loeb</field>
+<field name="librettistSort">Peretz, Isaac Loeb</field>
 <field name="theater">Kingsborough Community College</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

@@ -3,12 +3,12 @@
 <field name="id">19962115</field>
 <field name="genre">Operas</field>
 <field name="title">Razdelba (Separation)</field>
-<field name="titlesort">Razdelba (Separation)</field>
+<field name="titleSort">Razdelba (Separation)</field>
 <field name="composer">Trajko Prokopiev</field>
-<field name="composersort">Prokopiev, Trajko</field>
+<field name="composerSort">Prokopiev, Trajko</field>
 <field name="year">1971</field>
 <field name="librettist">Anton Panov</field>
-<field name="librettistsort">Panov, Anton</field>
+<field name="librettistSort">Panov, Anton</field>
 <field name="theater">Makedonska Opera i Balet</field>
 <field name="city">Skopje</field>
 <field name="country">Macedonia</field>

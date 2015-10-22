@@ -3,13 +3,13 @@
 <field name="id">19960066</field>
 <field name="genre">Operas</field>
 <field name="title">A. - A Shadow Opera</field>
-<field name="titlesort">A. - A Shadow Opera</field>
+<field name="titleSort">A. - A Shadow Opera</field>
 <field name="composer">Cecilie Ore</field>
-<field name="composersort">Ore, Cecilie</field>
+<field name="composerSort">Ore, Cecilie</field>
 <field name="year">2013</field>
 <field name="date">November 15, 2013</field>
 <field name="librettist">Paal-Helge Haugen</field>
-<field name="librettistsort">Haugen, Paal-Helge</field>
+<field name="librettistSort">Haugen, Paal-Helge</field>
 <field name="theater">Huddersfield Contemporary Music Festival</field>
 <field name="city">Huddersfeld</field>
 <field name="region">West Yorkshire</field>

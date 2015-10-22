@@ -3,13 +3,13 @@
 <field name="id">19962881</field>
 <field name="genre">Operas</field>
 <field name="title">Titanics Undergang</field>
-<field name="titlesort">Titanics Undergang</field>
+<field name="titleSort">Titanics Undergang</field>
 <field name="composer">Karl Aage Rasmussen</field>
-<field name="composersort">Rasmussen, Karl Aage</field>
+<field name="composerSort">Rasmussen, Karl Aage</field>
 <field name="year">1994</field>
 <field name="date">May 4, 1994</field>
 <field name="librettist">Hans Magnus Enzensberger</field>
-<field name="librettistsort">Enzensberger, Hans Magnus</field>
+<field name="librettistSort">Enzensberger, Hans Magnus</field>
 <field name="theater">Den Jyske Opera</field>
 <field name="city">Århus</field>
 <field name="region">Midtjylland</field>

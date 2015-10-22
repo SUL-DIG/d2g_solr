@@ -3,13 +3,13 @@
 <field name="id">19960455</field>
 <field name="genre">Operas</field>
 <field name="title">Coana Chirița la Iași (Mme Chirita in Iasi)</field>
-<field name="titlesort">Coana Chirița la Iași (Mme Chirita in Iasi)</field>
+<field name="titleSort">Coana Chirița la Iași (Mme Chirita in Iasi)</field>
 <field name="composer">Alexandru Flechtenmacher</field>
-<field name="composersort">Flechtenmacher, Alexandru</field>
+<field name="composerSort">Flechtenmacher, Alexandru</field>
 <field name="year">1850</field>
 <field name="date">10/31/1850</field>
 <field name="librettist">Vasile Alecsandri</field>
-<field name="librettistsort">Alecsandri, Vasile</field>
+<field name="librettistSort">Alecsandri, Vasile</field>
 <field name="theater">Teatrul National</field>
 <field name="city">Iasi</field>
 <field name="region">Iasi</field>

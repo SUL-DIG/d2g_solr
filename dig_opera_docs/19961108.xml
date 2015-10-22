@@ -3,9 +3,9 @@
 <field name="id">19961108</field>
 <field name="genre">Operas</field>
 <field name="title">Hot Rain in August</field>
-<field name="titlesort">Hot Rain in August</field>
+<field name="titleSort">Hot Rain in August</field>
 <field name="composer">Akira Nishimura</field>
-<field name="composersort">Nishimura, Akira</field>
+<field name="composerSort">Nishimura, Akira</field>
 <field name="year">1986</field>
 <field name="theater">NHK Television (Nippon Hoso Kyokai)</field>
 <field name="city">Tokyo</field>

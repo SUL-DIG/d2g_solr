@@ -3,12 +3,12 @@
 <field name="id">19960159</field>
 <field name="genre">Operas</field>
 <field name="title">Anders dan Andersen</field>
-<field name="titlesort">Anders dan Andersen</field>
+<field name="titleSort">Anders dan Andersen</field>
 <field name="composer">Tera de Marez Oyens</field>
-<field name="composersort">Marez Oyens, Tera de</field>
+<field name="composerSort">Marez Oyens, Tera de</field>
 <field name="year">1966</field>
 <field name="librettist">Hans Christian Andersen</field>
-<field name="librettistsort">Andersen, Hans Christian</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
 <field name="theater">Montessori Lyceum</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>

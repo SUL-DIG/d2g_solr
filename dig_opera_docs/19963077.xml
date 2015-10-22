@@ -3,12 +3,12 @@
 <field name="id">19963077</field>
 <field name="genre">Operas</field>
 <field name="title">Xúlitl</field>
-<field name="titlesort">Xúlitl</field>
+<field name="titleSort">Xúlitl</field>
 <field name="composer">Julián Carrillo</field>
-<field name="composersort">Carrillo, Julián</field>
+<field name="composerSort">Carrillo, Julián</field>
 <field name="year">1921</field>
 <field name="librettist">Catalina  d'Erzel</field>
-<field name="librettistsort">Erzel, Catalina d'</field>
+<field name="librettistSort">Erzel, Catalina d'</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Xúlitl+Julián+Carrillo&amp;search_field=search</field>
 </doc>
 </add>

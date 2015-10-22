@@ -3,13 +3,13 @@
 <field name="id">19962994</field>
 <field name="genre">Operas</field>
 <field name="title">Vessel</field>
-<field name="titlesort">Vessel</field>
+<field name="titleSort">Vessel</field>
 <field name="composer">Meredith Monk</field>
-<field name="composersort">Monk, Meredith</field>
+<field name="composerSort">Monk, Meredith</field>
 <field name="year">1971</field>
 <field name="date">October 18, 1971</field>
 <field name="librettist">Meredith Monk</field>
-<field name="librettistsort">Monk, Meredith</field>
+<field name="librettistSort">Monk, Meredith</field>
 <field name="theater">The House Gallery/Performing Garage/Wooster Parking Lot</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

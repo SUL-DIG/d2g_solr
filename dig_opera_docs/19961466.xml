@@ -3,13 +3,13 @@
 <field name="id">19961466</field>
 <field name="genre">Operas</field>
 <field name="title">Last One Out</field>
-<field name="titlesort">Last One Out</field>
+<field name="titleSort">Last One Out</field>
 <field name="composer">Gareth Williams</field>
-<field name="composersort">Williams, Gareth</field>
+<field name="composerSort">Williams, Gareth</field>
 <field name="year">2012</field>
 <field name="date">November 3, 2012</field>
 <field name="librettist">Johnny McKnight</field>
-<field name="librettistsort">McKnight, Johnny</field>
+<field name="librettistSort">McKnight, Johnny</field>
 <field name="theater">Fraserburgh Lighthouse</field>
 <field name="city">Fraserburgh</field>
 <field name="region">Scotland</field>

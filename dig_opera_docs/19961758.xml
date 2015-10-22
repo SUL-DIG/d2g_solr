@@ -3,13 +3,13 @@
 <field name="id">19961758</field>
 <field name="genre">Operas</field>
 <field name="title">Mordake</field>
-<field name="titlesort">Mordake</field>
+<field name="titleSort">Mordake</field>
 <field name="composer">Erling Wold</field>
-<field name="composersort">Wold, Erling</field>
+<field name="composerSort">Wold, Erling</field>
 <field name="year">2008</field>
 <field name="date">May 22, 2008</field>
 <field name="librettist">Douglas Kearney</field>
-<field name="librettistsort">Kearney, Douglas</field>
+<field name="librettistSort">Kearney, Douglas</field>
 <field name="theater">Shotwell Studios</field>
 <field name="city">San Francisco</field>
 <field name="region">California</field>

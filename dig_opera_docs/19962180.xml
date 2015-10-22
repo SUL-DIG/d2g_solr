@@ -3,13 +3,13 @@
 <field name="id">19962180</field>
 <field name="genre">Operas</field>
 <field name="title">Rosa</field>
-<field name="titlesort">Rosa</field>
+<field name="titleSort">Rosa</field>
 <field name="composer">James Rolfe</field>
-<field name="composersort">Rolfe, James</field>
+<field name="composerSort">Rolfe, James</field>
 <field name="year">2004</field>
 <field name="date">April 1, 2004</field>
 <field name="librettist">Camyar Chai</field>
-<field name="librettistsort">Chai, Camyar</field>
+<field name="librettistSort">Chai, Camyar</field>
 <field name="theater">Tapestry New Opera Works</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

@@ -3,12 +3,12 @@
 <field name="id">19961773</field>
 <field name="genre">Operas</field>
 <field name="title">Mr. Me</field>
-<field name="titlesort">Mr. Me</field>
+<field name="titleSort">Mr. Me</field>
 <field name="composer">Luca Mosca</field>
-<field name="composersort">Mosca, Luca</field>
+<field name="composerSort">Mosca, Luca</field>
 <field name="year">2003</field>
 <field name="librettist">Gianluigi Melega</field>
-<field name="librettistsort">Melega, Gianluigi</field>
+<field name="librettistSort">Melega, Gianluigi</field>
 <field name="theater">Chiesa di San Maurizio</field>
 <field name="city">Venice</field>
 <field name="region">Veneto</field>

@@ -3,13 +3,13 @@
 <field name="id">19963105</field>
 <field name="genre">Operas</field>
 <field name="title">Zhenit'ba (The Marriage)</field>
-<field name="titlesort">Zhenit'ba (The Marriage)</field>
+<field name="titleSort">Zhenit'ba (The Marriage)</field>
 <field name="composer">Aleksandr Tikhonovich Grechaninov</field>
-<field name="composersort">Grechaninov, Aleksandr Tikhonovich</field>
+<field name="composerSort">Grechaninov, Aleksandr Tikhonovich</field>
 <field name="year">1950</field>
 <field name="date">October 8, 1950</field>
 <field name="librettist">Nikolay Vasil'yevich Gogol</field>
-<field name="librettistsort">Gogol, Nikolay Vasil'yevich</field>
+<field name="librettistSort">Gogol, Nikolay Vasil'yevich</field>
 <field name="theater">Russian Opera Theatre</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

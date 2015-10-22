@@ -3,13 +3,13 @@
 <field name="id">19961830</field>
 <field name="genre">Operas</field>
 <field name="title">Niña de cera</field>
-<field name="titlesort">Niña de cera</field>
+<field name="titleSort">Niña de cera</field>
 <field name="composer">Keiko Fujiie</field>
-<field name="composersort">Fujiie, Keiko</field>
+<field name="composerSort">Fujiie, Keiko</field>
 <field name="year">1996</field>
 <field name="date">April 28, 1996</field>
 <field name="librettist">Maritza Nuñez</field>
-<field name="librettistsort">Nuñez, Maritza</field>
+<field name="librettistSort">Nuñez, Maritza</field>
 <field name="theater">Festival Green Peace</field>
 <field name="city">Kyoto</field>
 <field name="region">Kyoto</field>

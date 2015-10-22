@@ -3,9 +3,9 @@
 <field name="id">19960020</field>
 <field name="genre">Operas</field>
 <field name="title">A Chinaman's Chance</field>
-<field name="titlesort">Chinaman's Chance</field>
+<field name="titleSort">Chinaman's Chance</field>
 <field name="composer">Fred Ho</field>
-<field name="composersort">Ho, Fred</field>
+<field name="composerSort">Ho, Fred</field>
 <field name="year">1989</field>
 <field name="date">April 9, 1989</field>
 <field name="theater">Brooklyn Academy of Music</field>

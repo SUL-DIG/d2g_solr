@@ -3,13 +3,13 @@
 <field name="id">19962773</field>
 <field name="genre">Operas</field>
 <field name="title">The Sound of a Voice</field>
-<field name="titlesort">Sound of a Voice</field>
+<field name="titleSort">Sound of a Voice</field>
 <field name="composer">Philip Glass</field>
-<field name="composersort">Glass, Philip</field>
+<field name="composerSort">Glass, Philip</field>
 <field name="year">2003</field>
 <field name="date">May 24, 2003</field>
 <field name="librettist">David Henry Hwang</field>
-<field name="librettistsort">Hwang, David Henry</field>
+<field name="librettistSort">Hwang, David Henry</field>
 <field name="theater">American Repertory Theater</field>
 <field name="city">Cambridge</field>
 <field name="region">Massachusetts</field>

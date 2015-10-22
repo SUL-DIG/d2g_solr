@@ -3,13 +3,13 @@
 <field name="id">19960800</field>
 <field name="genre">Operas</field>
 <field name="title">En Mis Palabras</field>
-<field name="titlesort">En Mis Palabras</field>
+<field name="titleSort">En Mis Palabras</field>
 <field name="composer">Roger Ames</field>
-<field name="composersort">Ames, Roger</field>
+<field name="composerSort">Ames, Roger</field>
 <field name="year">2006</field>
 <field name="date">January 12, 2006</field>
 <field name="librettist">Jeffrey Gilden</field>
-<field name="librettistsort">Gilden, Jeffrey</field>
+<field name="librettistSort">Gilden, Jeffrey</field>
 <field name="theater">Opera House</field>
 <field name="city">Central City</field>
 <field name="region">Colorado</field>

@@ -3,13 +3,13 @@
 <field name="id">19961943</field>
 <field name="genre">Operas</field>
 <field name="title">Ovidania</field>
-<field name="titlesort">Ovidania</field>
+<field name="titleSort">Ovidania</field>
 <field name="composer">Matthew Greenbaum</field>
-<field name="composersort">Greenbaum, Matthew</field>
+<field name="composerSort">Greenbaum, Matthew</field>
 <field name="year">1997</field>
 <field name="date">May 4, 1997</field>
 <field name="librettist">Martine Bellen</field>
-<field name="librettistsort">Bellen, Martine</field>
+<field name="librettistSort">Bellen, Martine</field>
 <field name="theater">Temple University</field>
 <field name="city">Philadelphia</field>
 <field name="region">Pennsylvania</field>

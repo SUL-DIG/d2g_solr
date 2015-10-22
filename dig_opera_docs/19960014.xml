@@ -3,13 +3,13 @@
 <field name="id">19960014</field>
 <field name="genre">Operas</field>
 <field name="title">A Blizzard on Marblehead Neck</field>
-<field name="titlesort">Blizzard on Marblehead Neck</field>
+<field name="titleSort">Blizzard on Marblehead Neck</field>
 <field name="composer">Jeanine Tesori</field>
-<field name="composersort">Tesori, Jeanine</field>
+<field name="composerSort">Tesori, Jeanine</field>
 <field name="year">2011</field>
 <field name="date">July 21, 2011</field>
 <field name="librettist">Tony Kushner</field>
-<field name="librettistsort">Kushner, Tony</field>
+<field name="librettistSort">Kushner, Tony</field>
 <field name="theater">Glimmerglass Opera</field>
 <field name="city">Cooperstown</field>
 <field name="region">New York</field>

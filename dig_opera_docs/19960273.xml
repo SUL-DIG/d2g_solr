@@ -3,13 +3,13 @@
 <field name="id">19960273</field>
 <field name="genre">Operas</field>
 <field name="title">Bandanna</field>
-<field name="titlesort">Bandanna</field>
+<field name="titleSort">Bandanna</field>
 <field name="composer">Daron Hagen</field>
-<field name="composersort">Hagen, Daron</field>
+<field name="composerSort">Hagen, Daron</field>
 <field name="year">1999</field>
 <field name="date">February 25, 1999</field>
 <field name="librettist">Paul Muldoon</field>
-<field name="librettistsort">Muldoon, Paul</field>
+<field name="librettistSort">Muldoon, Paul</field>
 <field name="theater">University of Texas</field>
 <field name="city">Austin</field>
 <field name="region">Texas</field>

@@ -3,13 +3,13 @@
 <field name="id">19962755</field>
 <field name="genre">Operas</field>
 <field name="title">The Shops</field>
-<field name="titlesort">Shops</field>
+<field name="titleSort">Shops</field>
 <field name="composer">Edward Rushton</field>
-<field name="composersort">Rushton, Edward</field>
+<field name="composerSort">Rushton, Edward</field>
 <field name="year">2007</field>
 <field name="date">July 22, 2007</field>
 <field name="librettist">Dagny Gioulami</field>
-<field name="librettistsort">Gioulami, Dagny</field>
+<field name="librettistSort">Gioulami, Dagny</field>
 <field name="theater">CBSO Centre</field>
 <field name="city">Birmingham</field>
 <field name="region">West Midlands</field>

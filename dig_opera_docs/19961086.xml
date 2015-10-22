@@ -3,13 +3,13 @@
 <field name="id">19961086</field>
 <field name="genre">Operas</field>
 <field name="title">Hildegard</field>
-<field name="titlesort">Hildegard</field>
+<field name="titleSort">Hildegard</field>
 <field name="composer">Alasdair Nicolson</field>
-<field name="composersort">Nicolson, Alasdair</field>
+<field name="composerSort">Nicolson, Alasdair</field>
 <field name="year">1988</field>
 <field name="date">February 10, 1988</field>
 <field name="librettist">Roger Savage</field>
-<field name="librettistsort">Savage, Roger</field>
+<field name="librettistSort">Savage, Roger</field>
 <field name="theater">George Square Theatre</field>
 <field name="city">Edinburgh</field>
 <field name="region">Scotland</field>

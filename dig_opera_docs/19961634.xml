@@ -3,13 +3,13 @@
 <field name="id">19961634</field>
 <field name="genre">Operas</field>
 <field name="title">Mak the Sheep Stealer</field>
-<field name="titlesort">Mak the Sheep Stealer</field>
+<field name="titleSort">Mak the Sheep Stealer</field>
 <field name="composer">Herbert Chappell</field>
-<field name="composersort">Chappell, Herbert</field>
+<field name="composerSort">Chappell, Herbert</field>
 <field name="year">1966</field>
 <field name="date">December 25, 1966</field>
 <field name="librettist">Don Taylor</field>
-<field name="librettistsort">Taylor, Don</field>
+<field name="librettistSort">Taylor, Don</field>
 <field name="theater">BBC Television (British Broadcasting Corporation)</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

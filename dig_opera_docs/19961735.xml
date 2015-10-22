@@ -3,13 +3,13 @@
 <field name="id">19961735</field>
 <field name="genre">Operas</field>
 <field name="title">Miracle!</field>
-<field name="titlesort">Miracle!</field>
+<field name="titleSort">Miracle!</field>
 <field name="composer">Victoria Bond</field>
-<field name="composersort">Bond, Victoria</field>
+<field name="composerSort">Bond, Victoria</field>
 <field name="year">2011</field>
 <field name="date">December 18, 2011</field>
 <field name="librettist">Susan L. Roth</field>
-<field name="librettistsort">Roth, Susan L.</field>
+<field name="librettistSort">Roth, Susan L.</field>
 <field name="theater">Jewish Community Center</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

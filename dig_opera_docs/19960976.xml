@@ -3,13 +3,13 @@
 <field name="id">19960976</field>
 <field name="genre">Operas</field>
 <field name="title">Gershwin in Blue</field>
-<field name="titlesort">Gershwin in Blue</field>
+<field name="titleSort">Gershwin in Blue</field>
 <field name="composer">Chiel Meijering</field>
-<field name="composersort">Meijering, Chiel</field>
+<field name="composerSort">Meijering, Chiel</field>
 <field name="year">1998</field>
 <field name="date">November 6, 1998</field>
 <field name="librettist">Lodewijk de Boer</field>
-<field name="librettistsort">Boer, Lodewijk de</field>
+<field name="librettistSort">Boer, Lodewijk de</field>
 <field name="theater">Theater aan de Parade</field>
 <field name="city">'s-Hertogenbosch</field>
 <field name="region">Noord Brabant</field>

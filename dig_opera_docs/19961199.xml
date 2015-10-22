@@ -3,13 +3,13 @@
 <field name="id">19961199</field>
 <field name="genre">Operas</field>
 <field name="title">Ion</field>
-<field name="titlesort">Ion</field>
+<field name="titleSort">Ion</field>
 <field name="composer">Param Vir</field>
-<field name="composersort">Vir, Param</field>
+<field name="composerSort">Vir, Param</field>
 <field name="year">2000</field>
 <field name="date">June 9, 2000</field>
 <field name="librettist">David Lan</field>
-<field name="librettistsort">Lan, David</field>
+<field name="librettistSort">Lan, David</field>
 <field name="theater">The Maltings</field>
 <field name="city">Snape</field>
 <field name="region">Suffolk</field>

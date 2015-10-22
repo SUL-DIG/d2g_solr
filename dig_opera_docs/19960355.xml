@@ -3,13 +3,13 @@
 <field name="id">19960355</field>
 <field name="genre">Operas</field>
 <field name="title">Boyarina Morozova</field>
-<field name="titlesort">Boyarina Morozova</field>
+<field name="titleSort">Boyarina Morozova</field>
 <field name="composer">Rodion Konstantinovich Shchedrin</field>
-<field name="composersort">Shchedrin, Rodion Konstantinovich</field>
+<field name="composerSort">Shchedrin, Rodion Konstantinovich</field>
 <field name="year">2006</field>
 <field name="date">October 30, 2006</field>
 <field name="librettist">Rodion Konstantinovich Shchedrin</field>
-<field name="librettistsort">Shchedrin, Rodion Konstantinovich</field>
+<field name="librettistSort">Shchedrin, Rodion Konstantinovich</field>
 <field name="theater">Konservatorii</field>
 <field name="city">Moscow</field>
 <field name="country">Russia</field>

@@ -3,13 +3,13 @@
 <field name="id">19962921</field>
 <field name="genre">Operas</field>
 <field name="title">Truth</field>
-<field name="titlesort">Truth</field>
+<field name="titleSort">Truth</field>
 <field name="composer">Paula M. Kimper</field>
-<field name="composersort">Kimper, Paula M.</field>
+<field name="composerSort">Kimper, Paula M.</field>
 <field name="year">2012</field>
 <field name="date">February 16, 2012</field>
 <field name="librettist">Talaya Delaney</field>
-<field name="librettistsort">Delaney, Talaya</field>
+<field name="librettistSort">Delaney, Talaya</field>
 <field name="theater">Academy of Music</field>
 <field name="city">Northampton</field>
 <field name="region">Massachusetts</field>

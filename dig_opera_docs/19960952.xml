@@ -3,13 +3,13 @@
 <field name="id">19960952</field>
 <field name="genre">Operas</field>
 <field name="title">Gallo</field>
-<field name="titlesort">Gallo</field>
+<field name="titleSort">Gallo</field>
 <field name="composer">Ken Ueno</field>
-<field name="composersort">Ueno, Ken </field>
+<field name="composerSort">Ueno, Ken </field>
 <field name="year">2014</field>
 <field name="date">May 23, 2014</field>
 <field name="librettist">Ken Ueno</field>
-<field name="librettistsort">Ueno, Ken </field>
+<field name="librettistSort">Ueno, Ken </field>
 <field name="theater">Boston Conservatory</field>
 <field name="city">Boston</field>
 <field name="region">Massachusetts</field>

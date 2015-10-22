@@ -3,12 +3,12 @@
 <field name="id">19961330</field>
 <field name="genre">Operas</field>
 <field name="title">Koppelberg</field>
-<field name="titlesort">Koppelberg</field>
+<field name="titleSort">Koppelberg</field>
 <field name="composer">Steve Gray</field>
-<field name="composersort">Gray, Steve</field>
+<field name="composerSort">Gray, Steve</field>
 <field name="year">1989</field>
 <field name="librettist">Norman Brooke</field>
-<field name="librettistsort">Brooke, Norman</field>
+<field name="librettistSort">Brooke, Norman</field>
 <field name="theater">W11 Opera</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

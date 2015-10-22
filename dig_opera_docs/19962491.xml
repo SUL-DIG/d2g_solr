@@ -3,13 +3,13 @@
 <field name="id">19962491</field>
 <field name="genre">Operas</field>
 <field name="title">The Coma</field>
-<field name="titlesort">Coma</field>
+<field name="titleSort">Coma</field>
 <field name="composer">Martin Burlas</field>
-<field name="composersort">Burlas, Martin</field>
+<field name="composerSort">Burlas, Martin</field>
 <field name="year">2007</field>
 <field name="date">November 24, 2007</field>
 <field name="librettist">Jiří Olič</field>
-<field name="librettistsort">Olič, Jiří</field>
+<field name="librettistSort">Olič, Jiří</field>
 <field name="theater">Slovenské Narodné Divadlo</field>
 <field name="city">Bratislava</field>
 <field name="country">Slovakia</field>

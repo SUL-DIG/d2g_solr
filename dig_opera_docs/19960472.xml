@@ -3,13 +3,13 @@
 <field name="id">19960472</field>
 <field name="genre">Operas</field>
 <field name="title">Crime Fiction</field>
-<field name="titlesort">Crime Fiction</field>
+<field name="titleSort">Crime Fiction</field>
 <field name="composer">Huw Watkins</field>
-<field name="composersort">Watkins, Huw</field>
+<field name="composerSort">Watkins, Huw</field>
 <field name="year">2009</field>
 <field name="date">March 28, 2009</field>
 <field name="librettist">David Harsent</field>
-<field name="librettistsort">Harsent, David</field>
+<field name="librettistSort">Harsent, David</field>
 <field name="theater">Millenium Centre</field>
 <field name="city">Cardiff</field>
 <field name="region">Wales </field>

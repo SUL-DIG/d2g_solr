@@ -3,13 +3,13 @@
 <field name="id">19962358</field>
 <field name="genre">Operas</field>
 <field name="title">Star Fire</field>
-<field name="titlesort">Star Fire</field>
+<field name="titleSort">Star Fire</field>
 <field name="composer">Anthony Ritchie</field>
-<field name="composersort">Ritchie, Anthony</field>
+<field name="composerSort">Ritchie, Anthony</field>
 <field name="year">1997</field>
 <field name="date">February 1, 1997</field>
 <field name="librettist">Stuart Hoar</field>
-<field name="librettistsort">Hoar, Stuart</field>
+<field name="librettistSort">Hoar, Stuart</field>
 <field name="theater">Class Act Opera</field>
 <field name="city">Auckland</field>
 <field name="country">New Zealand</field>

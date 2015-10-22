@@ -3,13 +3,13 @@
 <field name="id">19961698</field>
 <field name="genre">Operas</field>
 <field name="title">Mayerling</field>
-<field name="titlesort">Mayerling</field>
+<field name="titleSort">Mayerling</field>
 <field name="composer">Jerrold Morgulas</field>
-<field name="composersort">Morgulas, Jerrold</field>
+<field name="composerSort">Morgulas, Jerrold</field>
 <field name="year">2011</field>
 <field name="date">May 27, 2011</field>
 <field name="librettist">Jerrold Morgulas</field>
-<field name="librettistsort">Morgulas, Jerrold</field>
+<field name="librettistSort">Morgulas, Jerrold</field>
 <field name="theater">House of the Scientists</field>
 <field name="city">Moscow</field>
 <field name="country">Russia</field>

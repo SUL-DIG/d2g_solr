@@ -3,13 +3,13 @@
 <field name="id">19962489</field>
 <field name="genre">Operas</field>
 <field name="title">The Clever Artifice of Harriet and Margaret</field>
-<field name="titlesort">Clever Artifice of Harriet and Margaret</field>
+<field name="titleSort">Clever Artifice of Harriet and Margaret</field>
 <field name="composer">Leanna Kirchoff</field>
-<field name="composersort">Kirchoff, Leanna</field>
+<field name="composerSort">Kirchoff, Leanna</field>
 <field name="year">2013</field>
 <field name="date">November 15, 2013</field>
 <field name="librettist">Leanna Kirchoff</field>
-<field name="librettistsort">Kirchoff, Leanna</field>
+<field name="librettistSort">Kirchoff, Leanna</field>
 <field name="theater">University of Colorado</field>
 <field name="city">Boulder</field>
 <field name="region">Colorado</field>

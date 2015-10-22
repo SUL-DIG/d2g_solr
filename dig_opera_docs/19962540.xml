@@ -3,13 +3,13 @@
 <field name="id">19962540</field>
 <field name="genre">Operas</field>
 <field name="title">The Enormous Egg</field>
-<field name="titlesort">Enormous Egg</field>
+<field name="titleSort">Enormous Egg</field>
 <field name="composer">Evelyn Dickenson Swensson</field>
-<field name="composersort">Swensson, Evelyn Dickenson</field>
+<field name="composerSort">Swensson, Evelyn Dickenson</field>
 <field name="year">1993</field>
 <field name="date">March 5, 1993</field>
 <field name="librettist">Evelyn Dickenson Swensson</field>
-<field name="librettistsort">Swensson, Evelyn Dickenson</field>
+<field name="librettistSort">Swensson, Evelyn Dickenson</field>
 <field name="theater">Grand Opera House</field>
 <field name="city">Wilmington</field>
 <field name="region">Delaware</field>

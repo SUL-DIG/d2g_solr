@@ -3,13 +3,13 @@
 <field name="id">19962825</field>
 <field name="genre">Operas</field>
 <field name="title">The Visit</field>
-<field name="titlesort">Visit</field>
+<field name="titleSort">Visit</field>
 <field name="composer">Erik Ross</field>
-<field name="composersort">Ross, Erik</field>
+<field name="composerSort">Ross, Erik</field>
 <field name="year">1997</field>
 <field name="date">April 1, 1997</field>
 <field name="librettist">Maurice Valency</field>
-<field name="librettistsort">Valency, Maurice</field>
+<field name="librettistSort">Valency, Maurice</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>
 <field name="country">Canada</field>

@@ -3,13 +3,13 @@
 <field name="id">19962369</field>
 <field name="genre">Operas</field>
 <field name="title">Stormlight</field>
-<field name="titlesort">Stormlight</field>
+<field name="titleSort">Stormlight</field>
 <field name="composer">David Knotts</field>
-<field name="composersort">Knotts, David</field>
+<field name="composerSort">Knotts, David</field>
 <field name="year">2002</field>
 <field name="date">December 7, 2002</field>
 <field name="librettist">Katharine Craik</field>
-<field name="librettistsort">Craik, Katharine</field>
+<field name="librettistSort">Craik, Katharine</field>
 <field name="theater">Saint James Norland Church</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

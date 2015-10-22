@@ -3,13 +3,13 @@
 <field name="id">19960327</field>
 <field name="genre">Operas</field>
 <field name="title">Black Water</field>
-<field name="titlesort">Black Water</field>
+<field name="titleSort">Black Water</field>
 <field name="composer">John Duffy</field>
-<field name="composersort">Duffy, John</field>
+<field name="composerSort">Duffy, John</field>
 <field name="year">1997</field>
 <field name="date">April 27, 1997</field>
 <field name="librettist">Joyce Carol Oates</field>
-<field name="librettistsort">Oates, Joyce Carol</field>
+<field name="librettistSort">Oates, Joyce Carol</field>
 <field name="theater">Plays and Players Theater</field>
 <field name="city">Philadelphia</field>
 <field name="region">Pennsylvania</field>

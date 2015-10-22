@@ -3,13 +3,13 @@
 <field name="id">19960345</field>
 <field name="genre">Operas</field>
 <field name="title">Bonhoeffer</field>
-<field name="titlesort">Bonhoeffer</field>
+<field name="titleSort">Bonhoeffer</field>
 <field name="composer">Ann K. Gebuhr</field>
-<field name="composersort">Gebuhr, Ann K.</field>
+<field name="composerSort">Gebuhr, Ann K.</field>
 <field name="year">2000</field>
 <field name="date">May 19, 2000</field>
 <field name="librettist">Robert S. Hatten</field>
-<field name="librettistsort">Hatten, Robert S.</field>
+<field name="librettistSort">Hatten, Robert S.</field>
 <field name="theater">Houston Baptist University</field>
 <field name="city">Houston</field>
 <field name="region">Texas</field>

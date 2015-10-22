@@ -3,13 +3,13 @@
 <field name="id">19962139</field>
 <field name="genre">Operas</field>
 <field name="title">Requiem for an Icon</field>
-<field name="titlesort">Requiem for an Icon</field>
+<field name="titleSort">Requiem for an Icon</field>
 <field name="composer">Katarzyna Głowicka</field>
-<field name="composersort">Głowicka, Katarzyna</field>
+<field name="composerSort">Głowicka, Katarzyna</field>
 <field name="year">2015</field>
 <field name="date">May 22, 2015</field>
 <field name="librettist">Krystian Lada</field>
-<field name="librettistsort">Lada, Krystian</field>
+<field name="librettistSort">Lada, Krystian</field>
 <field name="theater">Teatr Wielki</field>
 <field name="city">Warsaw</field>
 <field name="country">Poland</field>

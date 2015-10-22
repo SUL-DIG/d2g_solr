@@ -3,13 +3,13 @@
 <field name="id">19962573</field>
 <field name="genre">Operas</field>
 <field name="title">The Golden Ax</field>
-<field name="titlesort">Golden Ax</field>
+<field name="titleSort">Golden Ax</field>
 <field name="composer">David Heuser</field>
-<field name="composersort">Heuser, David</field>
+<field name="composerSort">Heuser, David</field>
 <field name="year">2008</field>
 <field name="date">July 11, 2008</field>
 <field name="librettist">Gary Albright</field>
-<field name="librettistsort">Albright, Gary</field>
+<field name="librettistSort">Albright, Gary</field>
 <field name="theater">Cactus Pear Music Festival</field>
 <field name="city">San Antonio</field>
 <field name="region">Texas</field>

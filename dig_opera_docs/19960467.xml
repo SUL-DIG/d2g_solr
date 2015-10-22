@@ -3,13 +3,13 @@
 <field name="id">19960467</field>
 <field name="genre">Operas</field>
 <field name="title">Coyote and the Winter that Never End</field>
-<field name="titlesort">Coyote and the Winter that Never End</field>
+<field name="titleSort">Coyote and the Winter that Never End</field>
 <field name="composer">Mervyn Burtch</field>
-<field name="composersort">Burtch, Mervyn</field>
+<field name="composerSort">Burtch, Mervyn</field>
 <field name="year">1997</field>
 <field name="date">May 8, 1997</field>
 <field name="librettist">Mark Morris</field>
-<field name="librettistsort">Morris, Mark</field>
+<field name="librettistSort">Morris, Mark</field>
 <field name="theater">Norwood Elementary School</field>
 <field name="city">Wetaskiwin</field>
 <field name="region">Alberta</field>

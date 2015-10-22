@@ -3,13 +3,13 @@
 <field name="id">19962145</field>
 <field name="genre">Operas</field>
 <field name="title">Rianta</field>
-<field name="titlesort">Rianta</field>
+<field name="titleSort">Rianta</field>
 <field name="composer">Luciano Di Giandomenico</field>
-<field name="composersort">Di Giandomenico, Luciano</field>
+<field name="composerSort">Di Giandomenico, Luciano</field>
 <field name="year">2005</field>
 <field name="date">November 22, 2005</field>
 <field name="librettist">Kay McCarthy</field>
-<field name="librettistsort">McCarthy, Kay</field>
+<field name="librettistSort">McCarthy, Kay</field>
 <field name="theater">Teatro Marrucino</field>
 <field name="city">Chieti</field>
 <field name="region">Abruzzi</field>

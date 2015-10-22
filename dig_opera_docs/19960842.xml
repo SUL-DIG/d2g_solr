@@ -3,13 +3,13 @@
 <field name="id">19960842</field>
 <field name="genre">Operas</field>
 <field name="title">Fábula del bosque</field>
-<field name="titlesort">Fábula del bosque</field>
+<field name="titleSort">Fábula del bosque</field>
 <field name="composer">Mario Alfagüell</field>
-<field name="composersort">Alfagüell, Mario</field>
+<field name="composerSort">Alfagüell, Mario</field>
 <field name="year">2006</field>
 <field name="date">August 10, 2006</field>
 <field name="librettist">Fernando Centeno Güell</field>
-<field name="librettistsort">Centeno Güell, Fernando</field>
+<field name="librettistSort">Centeno Güell, Fernando</field>
 <field name="theater">Teatro Melico Salazar</field>
 <field name="city">San Jose</field>
 <field name="country">Costa Rica</field>

@@ -3,13 +3,13 @@
 <field name="id">19963071</field>
 <field name="genre">Operas</field>
 <field name="title">Wozzeck</field>
-<field name="titlesort">Wozzeck</field>
+<field name="titleSort">Wozzeck</field>
 <field name="composer">Tetsuo Furudate</field>
-<field name="composersort">Furudate, Tetsuo</field>
+<field name="composerSort">Furudate, Tetsuo</field>
 <field name="year">2003</field>
 <field name="date">November 23, 2003</field>
 <field name="librettist">Alban Berg</field>
-<field name="librettistsort">Berg, Alban</field>
+<field name="librettistSort">Berg, Alban</field>
 <field name="theater">Podewil’sche Palais</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>

@@ -3,13 +3,13 @@
 <field name="id">19961103</field>
 <field name="genre">Operas</field>
 <field name="title">Holy Night</field>
-<field name="titlesort">Holy Night</field>
+<field name="titleSort">Holy Night</field>
 <field name="composer">Dan Welcher</field>
-<field name="composersort">Welcher, Dan</field>
+<field name="composerSort">Welcher, Dan</field>
 <field name="year">2003</field>
 <field name="date">April 22, 2003</field>
 <field name="librettist">Paul Woodruff</field>
-<field name="librettistsort">Woodruff, Paul</field>
+<field name="librettistSort">Woodruff, Paul</field>
 <field name="theater">University of Texas</field>
 <field name="city">Austin</field>
 <field name="region">Texas</field>

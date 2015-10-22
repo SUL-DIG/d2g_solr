@@ -3,13 +3,13 @@
 <field name="id">19962854</field>
 <field name="genre">Operas</field>
 <field name="title">The Year of the Serpent</field>
-<field name="titlesort">Year of the Serpent</field>
+<field name="titleSort">Year of the Serpent</field>
 <field name="composer">Erin Huelskamp</field>
-<field name="composersort">Huelskamp, Erin</field>
+<field name="composerSort">Huelskamp, Erin</field>
 <field name="year">2009</field>
 <field name="date">May 7, 2009</field>
 <field name="librettist">Shannon Rosa</field>
-<field name="librettistsort">Rosa, Shannon</field>
+<field name="librettistSort">Rosa, Shannon</field>
 <field name="theater">Family YMCA Theater</field>
 <field name="city">Cambridge</field>
 <field name="region">Massachusetts</field>

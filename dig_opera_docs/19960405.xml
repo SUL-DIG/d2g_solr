@@ -3,13 +3,13 @@
 <field name="id">19960405</field>
 <field name="genre">Operas</field>
 <field name="title">Cat Man’s Tale</field>
-<field name="titlesort">Cat Man’s Tale</field>
+<field name="titleSort">Cat Man’s Tale</field>
 <field name="composer">Alasdair Nicolson</field>
-<field name="composersort">Nicolson, Alasdair</field>
+<field name="composerSort">Nicolson, Alasdair</field>
 <field name="year">1997</field>
 <field name="date">October 1, 1997</field>
 <field name="librettist">David Harrower</field>
-<field name="librettistsort">Harrower, David</field>
+<field name="librettistSort">Harrower, David</field>
 <field name="theater">Garrison Theatre</field>
 <field name="city">Lerwick</field>
 <field name="region">Shetland Islands</field>

@@ -3,13 +3,13 @@
 <field name="id">19960406</field>
 <field name="genre">Operas</field>
 <field name="title">Cat: The Opera-Musical</field>
-<field name="titlesort">Cat: The Opera-Musical</field>
+<field name="titleSort">Cat: The Opera-Musical</field>
 <field name="composer">Kitty Brazelton</field>
-<field name="composersort">Brazelton, Kitty</field>
+<field name="composerSort">Brazelton, Kitty</field>
 <field name="year">2010</field>
 <field name="date">September 19, 2010</field>
 <field name="librettist">George Plimpton</field>
-<field name="librettistsort">Plimpton, George</field>
+<field name="librettistSort">Plimpton, George</field>
 <field name="theater">Central Park Zoo</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

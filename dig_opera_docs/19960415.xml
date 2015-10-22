@@ -3,13 +3,13 @@
 <field name="id">19960415</field>
 <field name="genre">Operas</field>
 <field name="title">Champion</field>
-<field name="titlesort">Champion</field>
+<field name="titleSort">Champion</field>
 <field name="composer">Terence Blanchard</field>
-<field name="composersort">Blanchard, Terence</field>
+<field name="composerSort">Blanchard, Terence</field>
 <field name="year">2013</field>
 <field name="date">June 15, 2013</field>
 <field name="librettist">Michael Cristofer</field>
-<field name="librettistsort">Cristofer, Michael</field>
+<field name="librettistSort">Cristofer, Michael</field>
 <field name="theater">Loretto-Hilton Theater</field>
 <field name="city">St. Louis</field>
 <field name="region">Missouri</field>

@@ -3,9 +3,9 @@
 <field name="id">19961434</field>
 <field name="genre">Operas</field>
 <field name="title">La Passion selon Marie</field>
-<field name="titlesort">Passion selon Marie</field>
+<field name="titleSort">Passion selon Marie</field>
 <field name="composer">Zad Moultaka</field>
-<field name="composersort">Moultaka, Zad</field>
+<field name="composerSort">Moultaka, Zad</field>
 <field name="year">2011</field>
 <field name="date">September 23, 2011</field>
 <field name="theater">Abbaye Notre-Dame d'Ambronay</field>

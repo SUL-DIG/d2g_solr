@@ -3,13 +3,13 @@
 <field name="id">19961241</field>
 <field name="genre">Operas</field>
 <field name="title">Jongleurs dans la jungle</field>
-<field name="titlesort">Jongleurs dans la jungle</field>
+<field name="titleSort">Jongleurs dans la jungle</field>
 <field name="composer">Isabelle Aboulker</field>
-<field name="composersort">Aboulker, Isabelle</field>
+<field name="composerSort">Aboulker, Isabelle</field>
 <field name="year">1993</field>
 <field name="date">June 26, 1993</field>
 <field name="librettist">Rémi Laureillard</field>
-<field name="librettistsort">Laureillard, Rémi</field>
+<field name="librettistSort">Laureillard, Rémi</field>
 <field name="theater">L'espace Jacques Prévert</field>
 <field name="city">Aulnay-sous-Bois</field>
 <field name="region">Seine-Saint-Denis</field>

@@ -3,13 +3,13 @@
 <field name="id">19962972</field>
 <field name="genre">Operas</field>
 <field name="title">Välilasku</field>
-<field name="titlesort">Välilasku</field>
+<field name="titleSort">Välilasku</field>
 <field name="composer">Markus Fagerudd</field>
-<field name="composersort">Fagerudd, Markus</field>
+<field name="composerSort">Fagerudd, Markus</field>
 <field name="year">2012</field>
 <field name="date">February 4, 2012</field>
 <field name="librettist">Maritza Núñes</field>
-<field name="librettistsort">Núñes, Maritza</field>
+<field name="librettistSort">Núñes, Maritza</field>
 <field name="theater">Musiikkiteatteri Kapsäkki</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

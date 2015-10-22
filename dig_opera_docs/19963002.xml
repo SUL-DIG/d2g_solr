@@ -3,13 +3,13 @@
 <field name="id">19963002</field>
 <field name="genre">Operas</field>
 <field name="title">Virgilius, der Magier von Rom</field>
-<field name="titlesort">Virgilius, der Magier von Rom</field>
+<field name="titleSort">Virgilius, der Magier von Rom</field>
 <field name="composer">Alfred Koerppen</field>
-<field name="composersort">Koerppen, Alfred</field>
+<field name="composerSort">Koerppen, Alfred</field>
 <field name="year">1951</field>
 <field name="date">June 1, 1951</field>
 <field name="librettist">Alfred Koerppen</field>
-<field name="librettistsort">Koerppen, Alfred</field>
+<field name="librettistSort">Koerppen, Alfred</field>
 <field name="theater">Sängerfest</field>
 <field name="city">Frankfurt</field>
 <field name="region">Hessen</field>

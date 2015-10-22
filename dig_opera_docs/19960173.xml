@@ -3,12 +3,12 @@
 <field name="id">19960173</field>
 <field name="genre">Operas</field>
 <field name="title">Anna Göldi</field>
-<field name="titlesort">Anna Göldi</field>
+<field name="titleSort">Anna Göldi</field>
 <field name="composer">Martin Derungs</field>
-<field name="composersort">Derungs, Martin</field>
+<field name="composerSort">Derungs, Martin</field>
 <field name="year">1991</field>
 <field name="librettist">Martin Markun</field>
-<field name="librettistsort">Markun, Martin</field>
+<field name="librettistSort">Markun, Martin</field>
 <field name="theater">Theatre Biel/Solothurn</field>
 <field name="city">Biel</field>
 <field name="region">Bern</field>

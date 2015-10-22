@@ -3,9 +3,9 @@
 <field name="id">19960489</field>
 <field name="genre">Operas</field>
 <field name="title">Dantes Inferno und der Weg ins Paradies</field>
-<field name="titlesort">Dantes Inferno und der Weg ins Paradies</field>
+<field name="titleSort">Dantes Inferno und der Weg ins Paradies</field>
 <field name="composer">Esther Hilsberg</field>
-<field name="composersort">Hilsberg, Esther</field>
+<field name="composerSort">Hilsberg, Esther</field>
 <field name="year">2005</field>
 <field name="date">September 18, 2005</field>
 <field name="theater">Konzerthaus Berlin</field>

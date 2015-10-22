@@ -3,13 +3,13 @@
 <field name="id">19961158</field>
 <field name="genre">Operas</field>
 <field name="title">Il letto della storia</field>
-<field name="titlesort">letto della storia</field>
+<field name="titleSort">letto della storia</field>
 <field name="composer">Fabio Vacchi</field>
-<field name="composersort">Fabio Vacchi</field>
+<field name="composerSort">Fabio Vacchi</field>
 <field name="year">2003</field>
 <field name="date">February 16, 2003</field>
 <field name="librettist">Franco Marcoaldi</field>
-<field name="librettistsort">Marcoaldi, Franco</field>
+<field name="librettistSort">Marcoaldi, Franco</field>
 <field name="theater">Piccolo Teatro</field>
 <field name="city">Florence</field>
 <field name="region">Toscana</field>

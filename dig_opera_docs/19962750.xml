@@ -3,14 +3,14 @@
 <field name="id">19962750</field>
 <field name="genre">Operas</field>
 <field name="title">The Sergeant-Major's Daughter</field>
-<field name="titlesort">Sergeant-Major's Daughter</field>
+<field name="titleSort">Sergeant-Major's Daughter</field>
 <field name="composer">Ian Parrott</field>
-<field name="composersort">Parrott, Ian</field>
+<field name="composerSort">Parrott, Ian</field>
 <field name="year">1943</field>
 <field name="librettist">Keith Womersley</field>
-<field name="librettistsort">Womersley, Keith</field>
+<field name="librettistSort">Womersley, Keith</field>
 <field name="librettist">Ian Parrott</field>
-<field name="librettistsort">Parrott, Ian</field>
+<field name="librettistSort">Parrott, Ian</field>
 <field name="city">Cairo</field>
 <field name="country">Egypt</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sergeant-Major's+Daughter+Ian+Parrott&amp;search_field=search</field>

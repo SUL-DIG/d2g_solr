@@ -3,13 +3,13 @@
 <field name="id">19962820</field>
 <field name="genre">Operas</field>
 <field name="title">The Velveteen Rabbit</field>
-<field name="titlesort">Velveteen Rabbit</field>
+<field name="titleSort">Velveteen Rabbit</field>
 <field name="composer">Mary Carol Warwick</field>
-<field name="composersort">Warwick, Mary Carol</field>
+<field name="composerSort">Warwick, Mary Carol</field>
 <field name="year">2004</field>
 <field name="date">January 20, 2004</field>
 <field name="librettist">Kate Pogue</field>
-<field name="librettistsort">Pogue, Kate</field>
+<field name="librettistSort">Pogue, Kate</field>
 <field name="theater">Houston Community College</field>
 <field name="city">Houston</field>
 <field name="region">Texas</field>

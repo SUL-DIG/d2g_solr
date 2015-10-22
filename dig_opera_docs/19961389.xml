@@ -3,13 +3,13 @@
 <field name="id">19961389</field>
 <field name="genre">Operas</field>
 <field name="title">La chute de Fukuyama </field>
-<field name="titlesort">chute de Fukuyama </field>
+<field name="titleSort">chute de Fukuyama </field>
 <field name="composer">Grégoire Hetzel</field>
-<field name="composersort">Hetzel, Grégoire</field>
+<field name="composerSort">Hetzel, Grégoire</field>
 <field name="year">2013</field>
 <field name="date">March 29, 2013</field>
 <field name="librettist">Camille de Toledo</field>
-<field name="librettistsort">Toledo, Camille de</field>
+<field name="librettistSort">Toledo, Camille de</field>
 <field name="theater">Salle Pleyel</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

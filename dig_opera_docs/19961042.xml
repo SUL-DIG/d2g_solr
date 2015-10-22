@@ -3,13 +3,13 @@
 <field name="id">19961042</field>
 <field name="genre">Operas</field>
 <field name="title">Hannaraptor</field>
-<field name="titlesort">Hannaraptor</field>
+<field name="titleSort">Hannaraptor</field>
 <field name="composer">Allan Gilliland</field>
-<field name="composersort">Gilliland, Allan</field>
+<field name="composerSort">Gilliland, Allan</field>
 <field name="year">2008</field>
 <field name="date">April 5, 2008</field>
 <field name="librettist">Val Brandt</field>
-<field name="librettistsort">Brandt, Val</field>
+<field name="librettistSort">Brandt, Val</field>
 <field name="theater">Calgary Opera Emerging Artist Development Program</field>
 <field name="city">Calgary</field>
 <field name="region">Alberta</field>

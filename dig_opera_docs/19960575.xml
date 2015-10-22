@@ -3,13 +3,13 @@
 <field name="id">19960575</field>
 <field name="genre">Operas</field>
 <field name="title">Der leuchtende Fluss</field>
-<field name="titlesort">leuchtende Fluss</field>
+<field name="titleSort">leuchtende Fluss</field>
 <field name="composer">Johanna Doderer</field>
-<field name="composersort">Doderer, Johanna</field>
+<field name="composerSort">Doderer, Johanna</field>
 <field name="year">2010</field>
 <field name="date">October 31, 2010</field>
 <field name="librettist">Wolfgang Hermann</field>
-<field name="librettistsort">Hermann, Wolfgang</field>
+<field name="librettistSort">Hermann, Wolfgang</field>
 <field name="theater">Stadttheater</field>
 <field name="city">Erfurt</field>
 <field name="region">Thüringen</field>

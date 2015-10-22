@@ -3,13 +3,13 @@
 <field name="id">19960030</field>
 <field name="genre">Operas</field>
 <field name="title">A Dialogue on Time upon the New Millennium</field>
-<field name="titlesort">Dialogue on Time upon the New Millennium</field>
+<field name="titleSort">Dialogue on Time upon the New Millennium</field>
 <field name="composer">Patrick Soluri</field>
-<field name="composersort">Soluri, Patrick</field>
+<field name="composerSort">Soluri, Patrick</field>
 <field name="year">1999</field>
 <field name="date">November 19, 1999</field>
 <field name="librettist">Patrick Soluri</field>
-<field name="librettistsort">Soluri, Patrick</field>
+<field name="librettistSort">Soluri, Patrick</field>
 <field name="theater">Manhattan School of Music</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

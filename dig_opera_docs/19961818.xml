@@ -3,12 +3,12 @@
 <field name="id">19961818</field>
 <field name="genre">Operas</field>
 <field name="title">Nerkes</field>
-<field name="titlesort">Nerkes</field>
+<field name="titleSort">Nerkes</field>
 <field name="composer">Khusain Faizullovich Akhmetov</field>
-<field name="composersort">Akhmetov, Khusain Faizullovich</field>
+<field name="composerSort">Akhmetov, Khusain Faizullovich</field>
 <field name="year">1994</field>
 <field name="librettist">Ilʹshat Khalilovich Iumagulov</field>
-<field name="librettistsort">Iumagulov, Ilʹshat Khalilovich</field>
+<field name="librettistSort">Iumagulov, Ilʹshat Khalilovich</field>
 <field name="theater">Teatr Operï i Baleta</field>
 <field name="city">Perm'</field>
 <field name="region">Perm' Oblast</field>

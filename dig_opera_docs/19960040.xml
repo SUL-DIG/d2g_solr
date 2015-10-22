@@ -3,13 +3,13 @@
 <field name="id">19960040</field>
 <field name="genre">Operas</field>
 <field name="title">A Heavenly Act</field>
-<field name="titlesort">Heavenly Act</field>
+<field name="titleSort">Heavenly Act</field>
 <field name="composer">Luciano Chessa</field>
-<field name="composersort">Chessa, Luciano</field>
+<field name="composerSort">Chessa, Luciano</field>
 <field name="year">2011</field>
 <field name="date">August 19, 2011</field>
 <field name="librettist">Gertrude Stein</field>
-<field name="librettistsort">Stein, Gertrude</field>
+<field name="librettistSort">Stein, Gertrude</field>
 <field name="theater">Yerba Buena Center for the Arts</field>
 <field name="city">San Francisco</field>
 <field name="region">California</field>

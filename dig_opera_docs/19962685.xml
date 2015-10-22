@@ -3,13 +3,13 @@
 <field name="id">19962685</field>
 <field name="genre">Operas</field>
 <field name="title">The Perfect Screw</field>
-<field name="titlesort">Perfect Screw</field>
+<field name="titleSort">Perfect Screw</field>
 <field name="composer">Abigail Richardson</field>
-<field name="composersort">Richardson, Abigail</field>
+<field name="composerSort">Richardson, Abigail</field>
 <field name="year">2009</field>
 <field name="date">March 27, 2009</field>
 <field name="librettist">Alexis Diamond</field>
-<field name="librettistsort">Diamond, Alexis</field>
+<field name="librettistSort">Diamond, Alexis</field>
 <field name="theater">Harbourfront Centre</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

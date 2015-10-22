@@ -3,13 +3,13 @@
 <field name="id">19961710</field>
 <field name="genre">Operas</field>
 <field name="title">Medusa</field>
-<field name="titlesort">Medusa</field>
+<field name="titleSort">Medusa</field>
 <field name="composer">Arnaldo de Felice</field>
-<field name="composersort">Felice, Arnaldo de</field>
+<field name="composerSort">Felice, Arnaldo de</field>
 <field name="year">2005</field>
 <field name="date">November 13, 2005</field>
 <field name="librettist">Arnaldo de Felice</field>
-<field name="librettistsort">Felice, Arnaldo de</field>
+<field name="librettistSort">Felice, Arnaldo de</field>
 <field name="theater">Bayerische Staatsoper</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

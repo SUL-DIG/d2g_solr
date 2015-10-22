@@ -3,13 +3,13 @@
 <field name="id">19961107</field>
 <field name="genre">Operas</field>
 <field name="title">Hot House</field>
-<field name="titlesort">Hot House</field>
+<field name="titleSort">Hot House</field>
 <field name="composer">Julian Grant</field>
-<field name="composersort">Grant, Julian</field>
+<field name="composerSort">Grant, Julian</field>
 <field name="year">2012</field>
 <field name="date">July 22, 2012</field>
 <field name="librettist">Stephen Plaice</field>
-<field name="librettistsort">Plaice, Stephen</field>
+<field name="librettistSort">Plaice, Stephen</field>
 <field name="theater">Royal Opera House, Covent Garden</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

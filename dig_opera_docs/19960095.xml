@@ -3,13 +3,13 @@
 <field name="id">19960095</field>
 <field name="genre">Operas</field>
 <field name="title">Aislinn's Boon</field>
-<field name="titlesort">Aislinn's Boon</field>
+<field name="titleSort">Aislinn's Boon</field>
 <field name="composer">Christopher Palestrant</field>
-<field name="composersort">Palestrant, Christopher</field>
+<field name="composerSort">Palestrant, Christopher</field>
 <field name="year">1999</field>
 <field name="date">April 23, 1999</field>
 <field name="librettist">Christopher Palestrant</field>
-<field name="librettistsort">Palestrant, Christopher</field>
+<field name="librettistSort">Palestrant, Christopher</field>
 <field name="theater">Peabody Conservatory</field>
 <field name="city">Baltimore</field>
 <field name="region">Maryland</field>

@@ -3,13 +3,13 @@
 <field name="id">19960244</field>
 <field name="genre">Operas</field>
 <field name="title">Axi</field>
-<field name="titlesort">Axi</field>
+<field name="titleSort">Axi</field>
 <field name="composer">Jaime Wolfson</field>
-<field name="composersort">Wolfson, Jaime</field>
+<field name="composerSort">Wolfson, Jaime</field>
 <field name="year">2013</field>
 <field name="date">November 14, 2013</field>
 <field name="librettist">Antonio Fian</field>
-<field name="librettistsort">Fian, Antonio</field>
+<field name="librettistSort">Fian, Antonio</field>
 <field name="theater">Sirene Operntheater</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

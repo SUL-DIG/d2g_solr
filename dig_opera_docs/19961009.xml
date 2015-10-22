@@ -3,13 +3,13 @@
 <field name="id">19961009</field>
 <field name="genre">Operas</field>
 <field name="title">Good Intentions</field>
-<field name="titlesort">Good Intentions</field>
+<field name="titleSort">Good Intentions</field>
 <field name="composer">Julian Philips</field>
-<field name="composersort">Philips, Julian</field>
+<field name="composerSort">Philips, Julian</field>
 <field name="year">2012</field>
 <field name="date">December 15, 2012</field>
 <field name="librettist">Simon Christmas</field>
-<field name="librettistsort">Christmas, Simon</field>
+<field name="librettistSort">Christmas, Simon</field>
 <field name="theater">Riverside Studios</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

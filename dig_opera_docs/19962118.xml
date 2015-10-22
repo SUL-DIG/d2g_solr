@@ -3,13 +3,13 @@
 <field name="id">19962118</field>
 <field name="genre">Operas</field>
 <field name="title">Rebekka</field>
-<field name="titlesort">Rebekka</field>
+<field name="titleSort">Rebekka</field>
 <field name="composer">Glenn Erik Haugland</field>
-<field name="composersort">Haugland, Glenn Erik</field>
+<field name="composerSort">Haugland, Glenn Erik</field>
 <field name="year">2007</field>
 <field name="date">September 28, 2007</field>
 <field name="librettist">Rolf Norsen</field>
-<field name="librettistsort">Norsen, Rolf</field>
+<field name="librettistSort">Norsen, Rolf</field>
 <field name="theater">Den Norske Opera</field>
 <field name="city">Oslo</field>
 <field name="country">Norway</field>

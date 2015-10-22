@@ -3,12 +3,12 @@
 <field name="id">19962913</field>
 <field name="genre">Operas</field>
 <field name="title">Tristoeil et Brunehouille</field>
-<field name="titlesort">Tristoeil et Brunehouille</field>
+<field name="titleSort">Tristoeil et Brunehouille</field>
 <field name="composer">Georges Van Parys</field>
-<field name="composersort">Van Parys, Georges</field>
+<field name="composerSort">Van Parys, Georges</field>
 <field name="year">1950</field>
 <field name="librettist">Jean Marsan</field>
-<field name="librettistsort">Marsan, Jean</field>
+<field name="librettistSort">Marsan, Jean</field>
 <field name="theater">Théâtre de la Michodière</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

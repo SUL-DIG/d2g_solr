@@ -3,9 +3,9 @@
 <field name="id">19961498</field>
 <field name="genre">Operas</field>
 <field name="title">Le Valchirie</field>
-<field name="titlesort">Valchirie</field>
+<field name="titleSort">Valchirie</field>
 <field name="composer">Boudewijn Buckinx</field>
-<field name="composersort">Buckinx, Boudewijn</field>
+<field name="composerSort">Buckinx, Boudewijn</field>
 <field name="year">1997</field>
 <field name="theater">Koninklijk Conservatorium</field>
 <field name="city">Antwerp</field>

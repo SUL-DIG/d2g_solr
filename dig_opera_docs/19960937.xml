@@ -3,13 +3,13 @@
 <field name="id">19960937</field>
 <field name="genre">Operas</field>
 <field name="title">Fruit of the Family Tree</field>
-<field name="titlesort">Fruit of the Family Tree</field>
+<field name="titleSort">Fruit of the Family Tree</field>
 <field name="composer">Anne Dimock</field>
-<field name="composersort">Dimock, Anne</field>
+<field name="composerSort">Dimock, Anne</field>
 <field name="year">2009</field>
 <field name="date">June 18, 2009</field>
 <field name="librettist">Becky Dale</field>
-<field name="librettistsort">Dale, Becky</field>
+<field name="librettistSort">Dale, Becky</field>
 <field name="theater">Nautilus Music-Theater</field>
 <field name="city">St. Paul</field>
 <field name="region">Minnesota</field>

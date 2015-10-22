@@ -3,13 +3,13 @@
 <field name="id">19960667</field>
 <field name="genre">Operas</field>
 <field name="title">Different Fields</field>
-<field name="titlesort">Different Fields</field>
+<field name="titleSort">Different Fields</field>
 <field name="composer">Mike Reid</field>
-<field name="composersort">Reid, Mike</field>
+<field name="composerSort">Reid, Mike</field>
 <field name="year">1996</field>
 <field name="date">February 7, 1996</field>
 <field name="librettist">Sarah Schlesinger</field>
-<field name="librettistsort">Schlesinger, Sarah</field>
+<field name="librettistSort">Schlesinger, Sarah</field>
 <field name="theater">New Victory Theater</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

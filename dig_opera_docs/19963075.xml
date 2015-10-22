@@ -3,13 +3,13 @@
 <field name="id">19963075</field>
 <field name="genre">Operas</field>
 <field name="title">Wüstenwind</field>
-<field name="titlesort">Wüstenwind</field>
+<field name="titleSort">Wüstenwind</field>
 <field name="composer">Selim Dogru</field>
-<field name="composersort">Dogru, Selim</field>
+<field name="composerSort">Dogru, Selim</field>
 <field name="year">2014</field>
 <field name="date">April 2, 2014</field>
 <field name="librettist">Sophie Kassies</field>
-<field name="librettistsort">Kassies, Sophie</field>
+<field name="librettistSort">Kassies, Sophie</field>
 <field name="theater">Deutsches Nationaltheater</field>
 <field name="city">Weimar</field>
 <field name="region">Thüringen</field>

@@ -3,13 +3,13 @@
 <field name="id">19961847</field>
 <field name="genre">Operas</field>
 <field name="title">Northern Lights, Eastern Fire</field>
-<field name="titlesort">Northern Lights, Eastern Fire</field>
+<field name="titleSort">Northern Lights, Eastern Fire</field>
 <field name="composer">Erik Ross</field>
-<field name="composersort">Ross, Erik</field>
+<field name="composerSort">Ross, Erik</field>
 <field name="year">2013</field>
 <field name="date">February 16, 2013</field>
 <field name="librettist">Phoebe Tsang</field>
-<field name="librettistsort">Tsang, Phoebe</field>
+<field name="librettistSort">Tsang, Phoebe</field>
 <field name="theater">Canadian Sinfonietta, Glenn Gould Studio</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

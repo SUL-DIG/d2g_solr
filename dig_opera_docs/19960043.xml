@@ -3,13 +3,13 @@
 <field name="id">19960043</field>
 <field name="genre">Operas</field>
 <field name="title">A Letter to East 11th Street</field>
-<field name="titlesort">Letter to East 11th Street</field>
+<field name="titleSort">Letter to East 11th Street</field>
 <field name="composer">Martin Hennessy</field>
-<field name="composersort">Hennessy, Martin</field>
+<field name="composerSort">Hennessy, Martin</field>
 <field name="year">2014</field>
 <field name="date">November 1, 2014</field>
 <field name="librettist">Mark Campbell</field>
-<field name="librettistsort">Campbell, Mark</field>
+<field name="librettistSort">Campbell, Mark</field>
 <field name="theater">State University of New York</field>
 <field name="city">Potsdam</field>
 <field name="region">New York</field>

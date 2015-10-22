@@ -3,9 +3,9 @@
 <field name="id">19960884</field>
 <field name="genre">Operas</field>
 <field name="title">Filoktétés</field>
-<field name="titlesort">Filoktétés</field>
+<field name="titleSort">Filoktétés</field>
 <field name="composer">Jan Klusák</field>
-<field name="composersort">Klusák, Jan</field>
+<field name="composerSort">Klusák, Jan</field>
 <field name="year">2015</field>
 <field name="date">May 14, 2015</field>
 <field name="theater">Národní Divadlo</field>

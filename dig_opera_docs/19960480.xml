@@ -3,13 +3,13 @@
 <field name="id">19960480</field>
 <field name="genre">Operas</field>
 <field name="title">Cyrano</field>
-<field name="titlesort">Cyrano</field>
+<field name="titleSort">Cyrano</field>
 <field name="composer">Jack Beeson</field>
-<field name="composersort">Beeson, Jack</field>
+<field name="composerSort">Beeson, Jack</field>
 <field name="year">1994</field>
 <field name="date">September 10, 1994</field>
 <field name="librettist">Sheldon Harnick</field>
-<field name="librettistsort">Harnick, Sheldon</field>
+<field name="librettistSort">Harnick, Sheldon</field>
 <field name="theater">Stadttheater</field>
 <field name="city">Hagen </field>
 <field name="region">Nordrhein-Westfallen</field>

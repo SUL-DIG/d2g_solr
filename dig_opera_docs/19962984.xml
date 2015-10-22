@@ -3,13 +3,13 @@
 <field name="id">19962984</field>
 <field name="genre">Operas</field>
 <field name="title">Vedem</field>
-<field name="titlesort">Vedem</field>
+<field name="titleSort">Vedem</field>
 <field name="composer">Lori Laitman</field>
-<field name="composersort">Laitman, Lori</field>
+<field name="composerSort">Laitman, Lori</field>
 <field name="year">2010</field>
 <field name="date">May 10, 2010</field>
 <field name="librettist">David Mason</field>
-<field name="librettistsort">Mason, David</field>
+<field name="librettistSort">Mason, David</field>
 <field name="theater">Benaroya Hall</field>
 <field name="city">Seattle</field>
 <field name="region">Washington</field>

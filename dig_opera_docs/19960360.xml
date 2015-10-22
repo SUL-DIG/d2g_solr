@@ -3,13 +3,13 @@
 <field name="id">19960360</field>
 <field name="genre">Operas</field>
 <field name="title">Bridge to Somewhere</field>
-<field name="titlesort">Bridge to Somewhere</field>
+<field name="titleSort">Bridge to Somewhere</field>
 <field name="composer">John Drummond</field>
-<field name="composersort">Drummond, John</field>
+<field name="composerSort">Drummond, John</field>
 <field name="year">2000</field>
 <field name="date">October 6, 2000</field>
 <field name="librettist">Nigel Eastgate</field>
-<field name="librettistsort">Eastgate, Nigel</field>
+<field name="librettistSort">Eastgate, Nigel</field>
 <field name="theater">Fortune Theatre</field>
 <field name="city">Dunedin</field>
 <field name="country">New Zealand</field>

@@ -3,13 +3,13 @@
 <field name="id">19963111</field>
 <field name="genre">Operas</field>
 <field name="title">Zolle</field>
-<field name="titlesort">Zolle</field>
+<field name="titleSort">Zolle</field>
 <field name="composer">Du Yun</field>
-<field name="composersort">Du Yun</field>
+<field name="composerSort">Du Yun</field>
 <field name="year">2005</field>
 <field name="date">October 27, 2005</field>
 <field name="librettist">Du Yun</field>
-<field name="librettistsort">Du Yun</field>
+<field name="librettistSort">Du Yun</field>
 <field name="theater">Performance Space 122</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

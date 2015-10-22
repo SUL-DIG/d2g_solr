@@ -3,13 +3,13 @@
 <field name="id">19960513</field>
 <field name="genre">Operas</field>
 <field name="title">Das tapfere Schneiderlein</field>
-<field name="titlesort">tapfere Schneiderlein</field>
+<field name="titleSort">tapfere Schneiderlein</field>
 <field name="composer">Wolfgang Mitterer</field>
-<field name="composersort">Mitterer, Wolfgang</field>
+<field name="composerSort">Mitterer, Wolfgang</field>
 <field name="year">2006</field>
 <field name="date">December 8, 2006</field>
 <field name="librettist">Helga Utz</field>
-<field name="librettistsort">Utz, Helga</field>
+<field name="librettistSort">Utz, Helga</field>
 <field name="theater">Dschungel, Theaterhaus für junges Publikum</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

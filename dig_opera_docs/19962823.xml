@@ -3,13 +3,13 @@
 <field name="id">19962823</field>
 <field name="genre">Operas</field>
 <field name="title">The Virgin Charlie</field>
-<field name="titlesort">Virgin Charlie</field>
+<field name="titleSort">Virgin Charlie</field>
 <field name="composer">William Rowson</field>
-<field name="composersort">Rowson, William</field>
+<field name="composerSort">Rowson, William</field>
 <field name="year">2009</field>
 <field name="date">March 27, 2009</field>
 <field name="librettist">Taylor Graham</field>
-<field name="librettistsort">Graham, Taylor</field>
+<field name="librettistSort">Graham, Taylor</field>
 <field name="theater">Harbourfront Centre</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

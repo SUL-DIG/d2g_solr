@@ -3,13 +3,13 @@
 <field name="id">19962493</field>
 <field name="genre">Operas</field>
 <field name="title">The Companion</field>
-<field name="titlesort">Companion</field>
+<field name="titleSort">Companion</field>
 <field name="composer">Robert Paterson </field>
-<field name="composersort">Paterson, Robert</field>
+<field name="composerSort">Paterson, Robert</field>
 <field name="year">2014</field>
 <field name="date">April 22, 2014</field>
 <field name="librettist">David Cote</field>
-<field name="librettistsort">Cote, David</field>
+<field name="librettistSort">Cote, David</field>
 <field name="theater">Roulette, Brooklyn</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

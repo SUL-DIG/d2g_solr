@@ -3,12 +3,12 @@
 <field name="id">19960807</field>
 <field name="genre">Operas</field>
 <field name="title">Enkefru</field>
-<field name="titlesort">Enkefru</field>
+<field name="titleSort">Enkefru</field>
 <field name="composer">Bertil Palmar Johansen</field>
-<field name="composersort">Johansen, Bertil Palmar</field>
+<field name="composerSort">Johansen, Bertil Palmar</field>
 <field name="year">1986</field>
 <field name="librettist">Bertil Palmar Johansen</field>
-<field name="librettistsort">Johansen, Bertil Palmar</field>
+<field name="librettistSort">Johansen, Bertil Palmar</field>
 <field name="theater">Rikskonsertturné</field>
 <field name="city">Trondheim</field>
 <field name="region">Sør-Trøndelag</field>

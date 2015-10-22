@@ -3,13 +3,13 @@
 <field name="id">19961504</field>
 <field name="genre">Operas</field>
 <field name="title">Leben im All</field>
-<field name="titlesort">Leben im All</field>
+<field name="titleSort">Leben im All</field>
 <field name="composer">Gerhard A. Meyer</field>
-<field name="composersort">Meyer, Gerhard A.</field>
+<field name="composerSort">Meyer, Gerhard A.</field>
 <field name="year">2012</field>
 <field name="date">February 11, 2012</field>
 <field name="librettist">Gerhard A. Meyer</field>
-<field name="librettistsort">Meyer, Gerhard A.</field>
+<field name="librettistSort">Meyer, Gerhard A.</field>
 <field name="theater">Theater der Stadt</field>
 <field name="city">Bonn</field>
 <field name="region">Nordrhein-Westfallen</field>

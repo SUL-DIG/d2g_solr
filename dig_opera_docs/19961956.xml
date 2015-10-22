@@ -3,13 +3,13 @@
 <field name="id">19961956</field>
 <field name="genre">Operas</field>
 <field name="title">Pardis and Parisa (The Fairytale)</field>
-<field name="titlesort">Pardis and Parisa (The Fairytale)</field>
+<field name="titleSort">Pardis and Parisa (The Fairytale)</field>
 <field name="composer">Loris Haykasi Tjeknavorian</field>
-<field name="composersort">Tjeknavorian, Loris Haykasi</field>
+<field name="composerSort">Tjeknavorian, Loris Haykasi</field>
 <field name="year">1975</field>
 <field name="date">June 1, 1975</field>
 <field name="librettist">Mahmoud Khoshnam</field>
-<field name="librettistsort">Khoshnam, Mahmoud</field>
+<field name="librettistSort">Khoshnam, Mahmoud</field>
 <field name="theater">Rudaki Opera House</field>
 <field name="city">Teheran</field>
 <field name="country">Iran</field>

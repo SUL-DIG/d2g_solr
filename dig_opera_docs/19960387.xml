@@ -3,13 +3,13 @@
 <field name="id">19960387</field>
 <field name="genre">Operas</field>
 <field name="title">Cake Talk</field>
-<field name="titlesort">Cake Talk</field>
+<field name="titleSort">Cake Talk</field>
 <field name="composer">Edward McGuire</field>
-<field name="composersort">McGuire, Edward</field>
+<field name="composerSort">McGuire, Edward</field>
 <field name="year">1996</field>
 <field name="date">November 7, 1996</field>
 <field name="librettist">Marianne Carey</field>
-<field name="librettistsort">Carey, Marianne</field>
+<field name="librettistSort">Carey, Marianne</field>
 <field name="theater">Tramway</field>
 <field name="city">Glasgow</field>
 <field name="region">Scotland</field>

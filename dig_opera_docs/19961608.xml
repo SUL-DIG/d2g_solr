@@ -3,13 +3,13 @@
 <field name="id">19961608</field>
 <field name="genre">Operas</field>
 <field name="title">Luyala</field>
-<field name="titlesort">Luyala</field>
+<field name="titleSort">Luyala</field>
 <field name="composer">William Banfield</field>
-<field name="composersort">Banfield, William</field>
+<field name="composerSort">Banfield, William</field>
 <field name="year">2002</field>
 <field name="date">March 31, 2002</field>
 <field name="librettist">Penelope Bridges</field>
-<field name="librettistsort">Bridges, Penelope</field>
+<field name="librettistSort">Bridges, Penelope</field>
 <field name="theater">Duke University</field>
 <field name="city">Durham</field>
 <field name="region">North Carolina</field>

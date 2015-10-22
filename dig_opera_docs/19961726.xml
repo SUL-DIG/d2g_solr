@@ -3,13 +3,13 @@
 <field name="id">19961726</field>
 <field name="genre">Operas</field>
 <field name="title">Midea</field>
-<field name="titlesort">Midea</field>
+<field name="titleSort">Midea</field>
 <field name="composer">Oscar Strasnoy</field>
-<field name="composersort">Strasnoy, Oscar</field>
+<field name="composerSort">Strasnoy, Oscar</field>
 <field name="year">2000</field>
 <field name="date">September 8, 2000</field>
 <field name="librettist">Irina Possamai</field>
-<field name="librettistsort">Possamai, Irina</field>
+<field name="librettistSort">Possamai, Irina</field>
 <field name="theater">Teatro Caio Melisso</field>
 <field name="city">Spoleto</field>
 <field name="region">Umbria</field>

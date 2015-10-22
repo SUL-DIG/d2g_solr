@@ -3,9 +3,9 @@
 <field name="id">19960617</field>
 <field name="genre">Operas</field>
 <field name="title">Die Endlösung der Judenfrage</field>
-<field name="titlesort">Endlösung der Judenfrage</field>
+<field name="titleSort">Endlösung der Judenfrage</field>
 <field name="composer">Peter Michael Hamel</field>
-<field name="composersort">Hamel, Peter Michael</field>
+<field name="composerSort">Hamel, Peter Michael</field>
 <field name="year">1996</field>
 <field name="date">August 29, 1996</field>
 <field name="theater">Freilufttheater</field>

@@ -3,11 +3,11 @@
 <field name="id">19961349</field>
 <field name="genre">Operas</field>
 <field name="title">Kuzman Kapidan</field>
-<field name="titlesort">Kuzman Kapidan</field>
+<field name="titleSort">Kuzman Kapidan</field>
 <field name="composer">Trajko Prokopiev</field>
-<field name="composersort">Prokopiev, Trajko</field>
+<field name="composerSort">Prokopiev, Trajko</field>
 <field name="librettist">Vasil Iljoski</field>
-<field name="librettistsort">Iljoski, Vasil</field>
+<field name="librettistSort">Iljoski, Vasil</field>
 <field name="theater">Makedonska Opera i Balet</field>
 <field name="city">Skopje</field>
 <field name="country">Macedonia</field>

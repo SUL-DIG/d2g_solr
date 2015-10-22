@@ -3,12 +3,12 @@
 <field name="id">19961638</field>
 <field name="genre">Operas</field>
 <field name="title">Mali princ (The Little Prince)</field>
-<field name="titlesort">Mali princ (The Little Prince)</field>
+<field name="titleSort">Mali princ (The Little Prince)</field>
 <field name="composer">Toma Prošev</field>
-<field name="composersort">Prošev, Toma</field>
+<field name="composerSort">Prošev, Toma</field>
 <field name="year">1966</field>
 <field name="librettist">Antoine de Saint-Exupéry</field>
-<field name="librettistsort">Saint-Exupéry, Antoine de</field>
+<field name="librettistSort">Saint-Exupéry, Antoine de</field>
 <field name="theater">Makedonska Opera i Balet</field>
 <field name="city">Skopje</field>
 <field name="country">Macedonia</field>

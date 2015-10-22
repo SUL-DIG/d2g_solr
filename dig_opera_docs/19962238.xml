@@ -3,13 +3,13 @@
 <field name="id">19962238</field>
 <field name="genre">Operas</field>
 <field name="title">Second Nature</field>
-<field name="titlesort">Second Nature</field>
+<field name="titleSort">Second Nature</field>
 <field name="composer">Matthew Aucoin</field>
-<field name="composersort">Aucoin, Matthew</field>
+<field name="composerSort">Aucoin, Matthew</field>
 <field name="year">2015</field>
 <field name="date">August 19, 2015</field>
 <field name="librettist">Matthew Aucoin</field>
-<field name="librettistsort">Aucoin, Matthew</field>
+<field name="librettistSort">Aucoin, Matthew</field>
 <field name="theater">Lincoln Park Zoo</field>
 <field name="city">Chicago</field>
 <field name="region">Illinois</field>

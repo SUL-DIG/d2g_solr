@@ -3,13 +3,13 @@
 <field name="id">19962049</field>
 <field name="genre">Operas</field>
 <field name="title">Prinsessan och månen (The Princess and the Moon)</field>
-<field name="titlesort">Prinsessan och månen (The Princess and the Moon)</field>
+<field name="titleSort">Prinsessan och månen (The Princess and the Moon)</field>
 <field name="composer">Jonas Forssell</field>
-<field name="composersort">Forssell, Jonas</field>
+<field name="composerSort">Forssell, Jonas</field>
 <field name="year">1998</field>
 <field name="date">October 24, 1998</field>
 <field name="librettist">Christian Morgenstern</field>
-<field name="librettistsort">Morgenstern, Christian</field>
+<field name="librettistSort">Morgenstern, Christian</field>
 <field name="theater">Södra Teatern</field>
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>

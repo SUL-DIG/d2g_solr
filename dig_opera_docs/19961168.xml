@@ -3,13 +3,13 @@
 <field name="id">19961168</field>
 <field name="genre">Operas</field>
 <field name="title">Il soffio delle fate</field>
-<field name="titlesort">soffio delle fate</field>
+<field name="titleSort">soffio delle fate</field>
 <field name="composer">Filippo Zigante</field>
-<field name="composersort">Zigante, Filippo</field>
+<field name="composerSort">Zigante, Filippo</field>
 <field name="year">2009</field>
 <field name="date">May 16, 2009</field>
 <field name="librettist">Angelo Cannavacciuolo</field>
-<field name="librettistsort">Cannavacciuolo, Angelo</field>
+<field name="librettistSort">Cannavacciuolo, Angelo</field>
 <field name="theater">Národní Divadlo Moravsko-Slezské</field>
 <field name="city">Ostrava</field>
 <field name="region">Severomoravsky Kraj</field>

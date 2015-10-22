@@ -3,13 +3,13 @@
 <field name="id">19960052</field>
 <field name="genre">Operas</field>
 <field name="title">A Place to Call Home</field>
-<field name="titlesort">Place to Call Home</field>
+<field name="titleSort">Place to Call Home</field>
 <field name="composer">Edward Barnes</field>
-<field name="composersort">Barnes, Edward</field>
+<field name="composerSort">Barnes, Edward</field>
 <field name="year">1992</field>
 <field name="date">March 2, 1992</field>
 <field name="librettist">Edward Barnes</field>
-<field name="librettistsort">Barnes, Edward</field>
+<field name="librettistSort">Barnes, Edward</field>
 <field name="theater">Birmingham High School, Van Nuys</field>
 <field name="city">Los Angeles</field>
 <field name="region">California</field>

@@ -3,9 +3,9 @@
 <field name="id">19961613</field>
 <field name="genre">Operas</field>
 <field name="title">Lysistrata, or The Nude Goddess</field>
-<field name="titlesort">Lysistrata, or The Nude Goddess</field>
+<field name="titleSort">Lysistrata, or The Nude Goddess</field>
 <field name="composer">Mark Adamo</field>
-<field name="composersort">Adamo, Mark</field>
+<field name="composerSort">Adamo, Mark</field>
 <field name="year">2005</field>
 <field name="date">March 4, 2005</field>
 <field name="theater">Grand Opera</field>

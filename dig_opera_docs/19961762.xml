@@ -3,12 +3,12 @@
 <field name="id">19961762</field>
 <field name="genre">Operas</field>
 <field name="title">Morozko</field>
-<field name="titlesort">Morozko</field>
+<field name="titleSort">Morozko</field>
 <field name="composer">Vladimir Bocharov</field>
-<field name="composersort">Bocharov, Vladimir</field>
+<field name="composerSort">Bocharov, Vladimir</field>
 <field name="year">2003</field>
 <field name="librettist">Vladimir Bocharov</field>
-<field name="librettistsort">Bocharov, Vladimir</field>
+<field name="librettistSort">Bocharov, Vladimir</field>
 <field name="theater">Gosudarstvennïy Akademicheskiy Teatr Operï i Baleta imeni A. V. Lunacharskogo</field>
 <field name="city">Jekaterinburg</field>
 <field name="region">Sverdlovsk Oblast</field>

@@ -3,13 +3,13 @@
 <field name="id">19961437</field>
 <field name="genre">Operas</field>
 <field name="title">La Place de la République</field>
-<field name="titlesort">Place de la République</field>
+<field name="titleSort">Place de la République</field>
 <field name="composer">Arnaud Petit</field>
-<field name="composersort">Petit, Arnaud</field>
+<field name="composerSort">Petit, Arnaud</field>
 <field name="year">1991</field>
 <field name="date">December 19, 1991</field>
 <field name="librettist">Cécile Vargaftig</field>
-<field name="librettistsort">Vargaftig, Cécile</field>
+<field name="librettistSort">Vargaftig, Cécile</field>
 <field name="theater">Centre Georges Pompidou</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

@@ -3,13 +3,13 @@
 <field name="id">19960193</field>
 <field name="genre">Operas</field>
 <field name="title">Anya 17</field>
-<field name="titlesort">Anya 17</field>
+<field name="titleSort">Anya 17</field>
 <field name="composer">Adam Gorb</field>
-<field name="composersort">Gorb, Adam</field>
+<field name="composerSort">Gorb, Adam</field>
 <field name="year">2012</field>
 <field name="date">March 7, 2012</field>
 <field name="librettist">Ben Kaye</field>
-<field name="librettistsort">Kaye, Ben</field>
+<field name="librettistSort">Kaye, Ben</field>
 <field name="theater">Philharmonic Hall</field>
 <field name="city">Liverpool</field>
 <field name="region">Merseyside</field>

@@ -3,13 +3,13 @@
 <field name="id">19962174</field>
 <field name="genre">Operas</field>
 <field name="title">Romeo i Julija</field>
-<field name="titlesort">Romeo i Julija</field>
+<field name="titleSort">Romeo i Julija</field>
 <field name="composer">Krešimir Fribec</field>
-<field name="composersort">Fribec, Krešimir</field>
+<field name="composerSort">Fribec, Krešimir</field>
 <field name="year">1955</field>
 <field name="date">June 21, 1955</field>
 <field name="librettist">William Shakespeare</field>
-<field name="librettistsort">Shakespeare, William</field>
+<field name="librettistSort">Shakespeare, William</field>
 <field name="city">Zagreb</field>
 <field name="country">Croatia</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Romeo+i+Julija+Krešimir+Fribec&amp;search_field=search</field>

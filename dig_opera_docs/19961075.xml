@@ -3,13 +3,13 @@
 <field name="id">19961075</field>
 <field name="genre">Operas</field>
 <field name="title">Herzland</field>
-<field name="titlesort">Herzland</field>
+<field name="titleSort">Herzland</field>
 <field name="composer">Sarah Nemtsov</field>
-<field name="composersort">Nemtsov, Sarah</field>
+<field name="composerSort">Nemtsov, Sarah</field>
 <field name="year">2006</field>
 <field name="date">January 20, 2006</field>
 <field name="librettist">Paul Celan</field>
-<field name="librettistsort">Celan, Paul</field>
+<field name="librettistSort">Celan, Paul</field>
 <field name="theater">Niedersächsische Staatstheater</field>
 <field name="city">Hanover</field>
 <field name="region">Niedersachsen</field>

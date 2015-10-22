@@ -3,13 +3,13 @@
 <field name="id">19962774</field>
 <field name="genre">Operas</field>
 <field name="title">The Stars in Orion</field>
-<field name="titlesort">Stars in Orion</field>
+<field name="titleSort">Stars in Orion</field>
 <field name="composer">John Drummond</field>
-<field name="composersort">Drummond, John</field>
+<field name="composerSort">Drummond, John</field>
 <field name="year">1999</field>
 <field name="date">May 19, 1999</field>
 <field name="librettist">Patrick Little</field>
-<field name="librettistsort">Little, Patrick</field>
+<field name="librettistSort">Little, Patrick</field>
 <field name="theater">Trust Bank Theatre</field>
 <field name="city">Dunedin</field>
 <field name="country">New Zealand</field>

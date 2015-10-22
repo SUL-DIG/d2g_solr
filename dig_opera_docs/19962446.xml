@@ -3,13 +3,13 @@
 <field name="id">19962446</field>
 <field name="genre">Operas</field>
 <field name="title">The Alchemist</field>
-<field name="titlesort">Alchemist</field>
+<field name="titleSort">Alchemist</field>
 <field name="composer">Cyril Scott</field>
-<field name="composersort">Scott, Cyril</field>
+<field name="composerSort">Scott, Cyril</field>
 <field name="year">1925</field>
 <field name="date">May 28, 1925</field>
 <field name="librettist">Cyril Scott</field>
-<field name="librettistsort">Scott, Cyril</field>
+<field name="librettistSort">Scott, Cyril</field>
 <field name="city">Essen</field>
 <field name="region">Nordrhein-Westfallen</field>
 <field name="country">Germany</field>

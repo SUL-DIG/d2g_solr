@@ -3,13 +3,13 @@
 <field name="id">19962058</field>
 <field name="genre">Operas</field>
 <field name="title">Prometheus Drown'd</field>
-<field name="titlesort">Prometheus Drown'd</field>
+<field name="titleSort">Prometheus Drown'd</field>
 <field name="composer">Stephen McNeff</field>
-<field name="composersort">McNeff, Stephen</field>
+<field name="composerSort">McNeff, Stephen</field>
 <field name="year">2014</field>
 <field name="date">July 29, 2014</field>
 <field name="librettist">Richard Williams</field>
-<field name="librettistsort">Williams, Richard</field>
+<field name="librettistSort">Williams, Richard</field>
 <field name="theater">Rosslyn Hill Unitarian Chapel</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

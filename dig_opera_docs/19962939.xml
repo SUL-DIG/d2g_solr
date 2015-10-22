@@ -3,13 +3,13 @@
 <field name="id">19962939</field>
 <field name="genre">Operas</field>
 <field name="title">ÜberMacht</field>
-<field name="titlesort">ÜberMacht</field>
+<field name="titleSort">ÜberMacht</field>
 <field name="composer">Tobias Kästle</field>
-<field name="composersort">Kästle, Tobias</field>
+<field name="composerSort">Kästle, Tobias</field>
 <field name="year">2002</field>
 <field name="date">February 4, 2002</field>
 <field name="librettist">Susanne Reisenberger</field>
-<field name="librettistsort">Reisenberger, Susanne</field>
+<field name="librettistSort">Reisenberger, Susanne</field>
 <field name="theater">Staatstheater</field>
 <field name="city">Mainz</field>
 <field name="region">Rheinland-Pfalz</field>

@@ -3,13 +3,13 @@
 <field name="id">19960965</field>
 <field name="genre">Operas</field>
 <field name="title">Gbeldahoven: No One's Chile</field>
-<field name="titlesort">Gbeldahoven: No One's Chile</field>
+<field name="titleSort">Gbeldahoven: No One's Chile</field>
 <field name="composer">Regina Harris Baiocchi</field>
-<field name="composersort">Baiocchi, Regina Harris</field>
+<field name="composerSort">Baiocchi, Regina Harris</field>
 <field name="year">1996</field>
 <field name="date">October 6, 1996</field>
 <field name="librettist">Regina Harris Baiocchi</field>
-<field name="librettistsort">Baiocchi, Regina Harris</field>
+<field name="librettistSort">Baiocchi, Regina Harris</field>
 <field name="theater">Harold Washington Library Center</field>
 <field name="city">Chicago</field>
 <field name="region">Illinois</field>

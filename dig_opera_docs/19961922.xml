@@ -3,12 +3,12 @@
 <field name="id">19961922</field>
 <field name="genre">Operas</field>
 <field name="title">Orpheus in the Underground</field>
-<field name="titlesort">Orpheus in the Underground</field>
+<field name="titleSort">Orpheus in the Underground</field>
 <field name="composer">Carl Davis</field>
-<field name="composersort">Davis, Carl</field>
+<field name="composerSort">Davis, Carl</field>
 <field name="year">1975</field>
 <field name="librettist">John Wells</field>
-<field name="librettistsort">Wells, John</field>
+<field name="librettistSort">Wells, John</field>
 <field name="theater">BBC Television (British Broadcasting Corporation)</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

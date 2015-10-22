@@ -3,13 +3,13 @@
 <field name="id">19961305</field>
 <field name="genre">Operas</field>
 <field name="title">Kerjäläiset (Beggars)</field>
-<field name="titlesort">Kerjäläiset (Beggars)</field>
+<field name="titleSort">Kerjäläiset (Beggars)</field>
 <field name="composer">Markus Fagerudd</field>
-<field name="composersort">Fagerudd, Markus</field>
+<field name="composerSort">Fagerudd, Markus</field>
 <field name="year">2003</field>
 <field name="date">March 17, 2003</field>
 <field name="librettist">Ilpo Tiihonen</field>
-<field name="librettistsort">Tiihonen, Ilpo</field>
+<field name="librettistSort">Tiihonen, Ilpo</field>
 <field name="theater">Suomen Kansallisooppera</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

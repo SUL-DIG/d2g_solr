@@ -3,13 +3,13 @@
 <field name="id">19962334</field>
 <field name="genre">Operas</field>
 <field name="title">Songs at the Well</field>
-<field name="titlesort">Songs at the Well</field>
+<field name="titleSort">Songs at the Well</field>
 <field name="composer">Elena Langer</field>
-<field name="composersort">Langer, Elena</field>
+<field name="composerSort">Langer, Elena</field>
 <field name="year">2009</field>
 <field name="date">May 10, 2009</field>
 <field name="librettist">Elena Langer</field>
-<field name="librettistsort">Langer, Elena</field>
+<field name="librettistSort">Langer, Elena</field>
 <field name="theater">Carnegie Hall, Weill Recital Hall</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

@@ -3,13 +3,13 @@
 <field name="id">19960600</field>
 <field name="genre">Operas</field>
 <field name="title">Despertar al sueño</field>
-<field name="titlesort">Despertar al sueño</field>
+<field name="titleSort">Despertar al sueño</field>
 <field name="composer">Federico Ibarra</field>
-<field name="composersort">Ibarra, Federico</field>
+<field name="composerSort">Ibarra, Federico</field>
 <field name="year">1994</field>
 <field name="date">October 1, 1994</field>
 <field name="librettist">David Olguín</field>
-<field name="librettistsort">Olguín, David</field>
+<field name="librettistSort">Olguín, David</field>
 <field name="theater">Centro Cultural San Ángel</field>
 <field name="city">Mexico City</field>
 <field name="country">Mexico</field>

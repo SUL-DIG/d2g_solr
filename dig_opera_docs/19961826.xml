@@ -3,13 +3,13 @@
 <field name="id">19961826</field>
 <field name="genre">Operas</field>
 <field name="title">Night Vision</field>
-<field name="titlesort">Night Vision</field>
+<field name="titleSort">Night Vision</field>
 <field name="composer">Fred Ho</field>
-<field name="composersort">Ho, Fred</field>
+<field name="composerSort">Ho, Fred</field>
 <field name="year">2000</field>
 <field name="date">February 2, 2000</field>
 <field name="librettist">Ruth Margraff</field>
-<field name="librettistsort">Margraff, Ruth</field>
+<field name="librettistSort">Margraff, Ruth</field>
 <field name="theater">HERE</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

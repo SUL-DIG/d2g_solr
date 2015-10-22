@@ -3,9 +3,9 @@
 <field name="id">19963043</field>
 <field name="genre">Operas</field>
 <field name="title">Weihnachtsoratorium</field>
-<field name="titlesort">Weihnachtsoratorium</field>
+<field name="titleSort">Weihnachtsoratorium</field>
 <field name="composer">Esther Hilsberg</field>
-<field name="composersort">Hilsberg, Esther</field>
+<field name="composerSort">Hilsberg, Esther</field>
 <field name="year">2010</field>
 <field name="date">December 10, 2010</field>
 <field name="theater">Konzerthaus Berlin</field>

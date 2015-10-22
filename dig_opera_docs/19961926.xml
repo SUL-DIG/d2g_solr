@@ -3,13 +3,13 @@
 <field name="id">19961926</field>
 <field name="genre">Operas</field>
 <field name="title">Os dias levantados</field>
-<field name="titlesort">dias levantados</field>
+<field name="titleSort">dias levantados</field>
 <field name="composer">António Pinho Vargas</field>
-<field name="composersort">Vargas, António Pinho</field>
+<field name="composerSort">Vargas, António Pinho</field>
 <field name="year">1998</field>
 <field name="date">April 25, 1998</field>
 <field name="librettist">Manuel Gusmão</field>
-<field name="librettistsort">Gusmão, Manuel</field>
+<field name="librettistSort">Gusmão, Manuel</field>
 <field name="theater">Teatro de São Carlos</field>
 <field name="city">Lisbon</field>
 <field name="region">Lisboa</field>

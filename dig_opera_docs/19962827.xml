@@ -3,13 +3,13 @@
 <field name="id">19962827</field>
 <field name="genre">Operas</field>
 <field name="title">The Wage of Sin</field>
-<field name="titlesort">Wage of Sin</field>
+<field name="titleSort">Wage of Sin</field>
 <field name="composer">Gene Murray</field>
-<field name="composersort">Murray, Gene</field>
+<field name="composerSort">Murray, Gene</field>
 <field name="year">1997</field>
 <field name="date">May 18, 1997</field>
 <field name="librettist">Gene Murray</field>
-<field name="librettistsort">Murray, Gene</field>
+<field name="librettistSort">Murray, Gene</field>
 <field name="theater">Opera</field>
 <field name="city">Amarillo</field>
 <field name="region">Texas</field>

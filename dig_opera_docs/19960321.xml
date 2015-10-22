@@ -3,13 +3,13 @@
 <field name="id">19960321</field>
 <field name="genre">Operas</field>
 <field name="title">Bird of Night</field>
-<field name="titlesort">Bird of Night</field>
+<field name="titleSort">Bird of Night</field>
 <field name="composer">Dominique Le Gendre</field>
-<field name="composersort">Le Gendre, Dominique</field>
+<field name="composerSort">Le Gendre, Dominique</field>
 <field name="year">2006</field>
 <field name="date">October 19, 2006</field>
 <field name="librettist">Paul Bentley</field>
-<field name="librettistsort">Bentley, Paul</field>
+<field name="librettistSort">Bentley, Paul</field>
 <field name="theater">Linbury Studio, Royal Opera House</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

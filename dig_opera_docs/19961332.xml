@@ -3,12 +3,12 @@
 <field name="id">19961332</field>
 <field name="genre">Operas</field>
 <field name="title">Koriolan</field>
-<field name="titlesort">Koriolan</field>
+<field name="titleSort">Koriolan</field>
 <field name="composer">Stjepan Šulek</field>
-<field name="composersort">Šulek, Stjepan</field>
+<field name="composerSort">Šulek, Stjepan</field>
 <field name="year">1958</field>
 <field name="librettist">Stjepan Šulek</field>
-<field name="librettistsort">Šulek, Stjepan</field>
+<field name="librettistSort">Šulek, Stjepan</field>
 <field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Zagreb</field>
 <field name="country">Croatia</field>

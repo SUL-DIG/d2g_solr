@@ -3,13 +3,13 @@
 <field name="id">19960710</field>
 <field name="genre">Operas</field>
 <field name="title">Dr. Quimpugh's Compendium of Peculiar Afflictions</field>
-<field name="titlesort">Dr. Quimpugh's Compendium of Peculiar Afflictions</field>
+<field name="titleSort">Dr. Quimpugh's Compendium of Peculiar Afflictions</field>
 <field name="composer">Martin Ward</field>
-<field name="composersort">Ward, Martin</field>
+<field name="composerSort">Ward, Martin</field>
 <field name="year">2011</field>
 <field name="date">September 15, 2011</field>
 <field name="librettist">Phil Porter</field>
-<field name="librettistsort">Porter, Phil</field>
+<field name="librettistSort">Porter, Phil</field>
 <field name="theater">Petersham Playhouse</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

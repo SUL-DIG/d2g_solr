@@ -3,13 +3,13 @@
 <field name="id">19960547</field>
 <field name="genre">Operas</field>
 <field name="title">Den Sidste Virtuos (The Last Virtuoso)</field>
-<field name="titlesort">Sidste Virtuos (The Last Virtuoso)</field>
+<field name="titleSort">Sidste Virtuos (The Last Virtuoso)</field>
 <field name="composer">Lars Klit</field>
-<field name="composersort">Klit, Lars</field>
+<field name="composerSort">Klit, Lars</field>
 <field name="year">1996</field>
 <field name="date">September 10, 1996</field>
 <field name="librettist">Sanne Bjerg</field>
-<field name="librettistsort">Bjerg, Sanne</field>
+<field name="librettistSort">Bjerg, Sanne</field>
 <field name="theater">Den Anden Opera</field>
 <field name="city">Copenhagen</field>
 <field name="region">Hovedstaden</field>

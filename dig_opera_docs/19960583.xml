@@ -3,12 +3,12 @@
 <field name="id">19960583</field>
 <field name="genre">Operas</field>
 <field name="title">Der Schild</field>
-<field name="titlesort">Schild</field>
+<field name="titleSort">Schild</field>
 <field name="composer">Leopold Eugen Měchura</field>
-<field name="composersort">Měchura, Leopold Eugen</field>
+<field name="composerSort">Měchura, Leopold Eugen</field>
 <field name="year">1845</field>
 <field name="librettist">Karl Egon Ebert</field>
-<field name="librettistsort">Ebert, Karl Egon</field>
+<field name="librettistSort">Ebert, Karl Egon</field>
 <field name="theater">Private Performance</field>
 <field name="city">Klatovy</field>
 <field name="region">Západocesky Kraj</field>

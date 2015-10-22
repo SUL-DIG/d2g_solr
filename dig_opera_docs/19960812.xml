@@ -3,13 +3,13 @@
 <field name="id">19960812</field>
 <field name="genre">Operas</field>
 <field name="title">Eréndira</field>
-<field name="titlesort">Eréndira</field>
+<field name="titleSort">Eréndira</field>
 <field name="composer">Violeta Dinescu</field>
-<field name="composersort">Dinescu, Violeta</field>
+<field name="composerSort">Dinescu, Violeta</field>
 <field name="year">1992</field>
 <field name="date">March 18, 1992</field>
 <field name="librettist">Monika Rothmaier</field>
-<field name="librettistsort">Rothmaier, Monika</field>
+<field name="librettistSort">Rothmaier, Monika</field>
 <field name="librettist">García Márquez, Gabriel</field>
 <field name="theater">Staatstheater</field>
 <field name="city">Stuttgart</field>

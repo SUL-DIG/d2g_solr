@@ -3,13 +3,13 @@
 <field name="id">19960170</field>
 <field name="genre">Operas</field>
 <field name="title">Animalopera</field>
-<field name="titlesort">Animalopera</field>
+<field name="titleSort">Animalopera</field>
 <field name="composer">Myron Fink</field>
-<field name="composersort">Fink, Myron</field>
+<field name="composerSort">Fink, Myron</field>
 <field name="year">2001</field>
 <field name="date">April 2, 2001</field>
 <field name="librettist">Donald Moreland</field>
-<field name="librettistsort">Moreland, Donald</field>
+<field name="librettistSort">Moreland, Donald</field>
 <field name="theater">Orange Glen Elementary School</field>
 <field name="city">Escondido</field>
 <field name="region">California</field>

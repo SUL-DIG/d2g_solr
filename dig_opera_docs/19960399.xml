@@ -3,13 +3,13 @@
 <field name="id">19960399</field>
 <field name="genre">Operas</field>
 <field name="title">Caroline</field>
-<field name="titlesort">Caroline</field>
+<field name="titleSort">Caroline</field>
 <field name="composer">Michael Obst</field>
-<field name="composersort">Obst, Michael</field>
+<field name="composerSort">Obst, Michael</field>
 <field name="year">1999</field>
 <field name="date">July 10, 1999</field>
 <field name="librettist">Ralph Günther Mohnnau</field>
-<field name="librettistsort">Mohnnau, Ralph Günther</field>
+<field name="librettistSort">Mohnnau, Ralph Günther</field>
 <field name="theater">Deutsches Nationaltheater</field>
 <field name="city">Weimar</field>
 <field name="region">Thüringen</field>

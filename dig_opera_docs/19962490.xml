@@ -3,13 +3,13 @@
 <field name="id">19962490</field>
 <field name="genre">Operas</field>
 <field name="title">The Clever Wife</field>
-<field name="titlesort">Clever Wife</field>
+<field name="titleSort">Clever Wife</field>
 <field name="composer">Mary Carol Warwick</field>
-<field name="composersort">Warwick, Mary Carol</field>
+<field name="composerSort">Warwick, Mary Carol</field>
 <field name="year">2012</field>
 <field name="date">January 19, 2012</field>
 <field name="librettist">Hugh Behm-Steinberg</field>
-<field name="librettistsort">Behm-Steinberg, Hugh</field>
+<field name="librettistSort">Behm-Steinberg, Hugh</field>
 <field name="theater">Houston Community College</field>
 <field name="city">Houston</field>
 <field name="region">Texas</field>

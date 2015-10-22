@@ -3,13 +3,13 @@
 <field name="id">19962679</field>
 <field name="genre">Operas</field>
 <field name="title">The Outcast</field>
-<field name="titlesort">Outcast</field>
+<field name="titleSort">Outcast</field>
 <field name="composer">Olga Neuwirth</field>
-<field name="composersort">Neuwirth, Olga</field>
+<field name="composerSort">Neuwirth, Olga</field>
 <field name="year">2012</field>
 <field name="date">May 25, 2012</field>
 <field name="librettist">Barry Gifford</field>
-<field name="librettistsort">Gifford, Barry</field>
+<field name="librettistSort">Gifford, Barry</field>
 <field name="theater">Nationaltheater Studio</field>
 <field name="city">Mannheim</field>
 <field name="region">Baden-Württemberg</field>

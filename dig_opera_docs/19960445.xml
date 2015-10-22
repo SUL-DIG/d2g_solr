@@ -3,13 +3,13 @@
 <field name="id">19960445</field>
 <field name="genre">Operas</field>
 <field name="title">Circus Terra</field>
-<field name="titlesort">Circus Terra</field>
+<field name="titleSort">Circus Terra</field>
 <field name="composer">Trygve Madsen</field>
-<field name="composersort">Madsen, Trygve</field>
+<field name="composerSort">Madsen, Trygve</field>
 <field name="year">2002</field>
 <field name="date">May 16, 2002</field>
 <field name="librettist">Jon Bing</field>
-<field name="librettistsort">Bing, Jon</field>
+<field name="librettistSort">Bing, Jon</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Prague</field>
 <field name="country">Czech Republic</field>

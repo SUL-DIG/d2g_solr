@@ -3,13 +3,13 @@
 <field name="id">19960686</field>
 <field name="genre">Operas</field>
 <field name="title">Dolores - ein Heldenleben?</field>
-<field name="titlesort">Dolores - ein Heldenleben?</field>
+<field name="titleSort">Dolores - ein Heldenleben?</field>
 <field name="composer">Dieter Kaufmann</field>
-<field name="composersort">Kaufmann, Dieter</field>
+<field name="composerSort">Kaufmann, Dieter</field>
 <field name="year">1996</field>
 <field name="date">April 4, 1996</field>
 <field name="librettist">Georg Maria Hofmann</field>
-<field name="librettistsort">Hofmann, Georg Maria</field>
+<field name="librettistSort">Hofmann, Georg Maria</field>
 <field name="theater">Stadttheater</field>
 <field name="city">Klagenfurt</field>
 <field name="region">Kärnten</field>

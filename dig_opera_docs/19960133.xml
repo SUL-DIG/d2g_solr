@@ -3,13 +3,13 @@
 <field name="id">19960133</field>
 <field name="genre">Operas</field>
 <field name="title">Alzheimer </field>
-<field name="titlesort">Alzheimer </field>
+<field name="titleSort">Alzheimer </field>
 <field name="composer">Chiel Meijering</field>
-<field name="composersort">Meijering, Chiel</field>
+<field name="composerSort">Meijering, Chiel</field>
 <field name="year">2006</field>
 <field name="date">September 21, 2006</field>
 <field name="librettist">Bert Keizer</field>
-<field name="librettistsort">Keizer, Bert</field>
+<field name="librettistSort">Keizer, Bert</field>
 <field name="theater">Muziekgebouw aan 't IJ</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>

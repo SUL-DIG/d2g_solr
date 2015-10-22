@@ -3,13 +3,13 @@
 <field name="id">19962852</field>
 <field name="genre">Operas</field>
 <field name="title">The Wooden Sword</field>
-<field name="titlesort">Wooden Sword</field>
+<field name="titleSort">Wooden Sword</field>
 <field name="composer">Sheila Silver</field>
-<field name="composersort">Silver, Sheila</field>
+<field name="composerSort">Silver, Sheila</field>
 <field name="year">2010</field>
 <field name="date">November 5, 2010</field>
 <field name="librettist">Stephen Kitsako</field>
-<field name="librettistsort">Kitsako, Stephen</field>
+<field name="librettistSort">Kitsako, Stephen</field>
 <field name="theater">University of Connecticut</field>
 <field name="city">Storrs</field>
 <field name="region">Connecticut</field>

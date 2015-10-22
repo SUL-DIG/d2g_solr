@@ -3,13 +3,13 @@
 <field name="id">19961801</field>
 <field name="genre">Operas</field>
 <field name="title">Narcissus und Echo</field>
-<field name="titlesort">Narcissus und Echo</field>
+<field name="titleSort">Narcissus und Echo</field>
 <field name="composer">Jay Schwartz</field>
-<field name="composersort">Schwartz, Jay</field>
+<field name="composerSort">Schwartz, Jay</field>
 <field name="year">2003</field>
 <field name="date">October 3, 2003</field>
 <field name="librettist">Jay Schwartz</field>
-<field name="librettistsort">Schwartz, Jay</field>
+<field name="librettistSort">Schwartz, Jay</field>
 <field name="theater">Pfalztheater</field>
 <field name="city">Kaiserslautern</field>
 <field name="region">Rheinland-Pfalz</field>

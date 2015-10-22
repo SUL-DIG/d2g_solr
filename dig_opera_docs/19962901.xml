@@ -3,13 +3,13 @@
 <field name="id">19962901</field>
 <field name="genre">Operas</field>
 <field name="title">Transcending Time</field>
-<field name="titlesort">Transcending Time</field>
+<field name="titleSort">Transcending Time</field>
 <field name="composer">Orlando Jacinto Garcia</field>
-<field name="composersort">Garcia, Orlando Jacinto</field>
+<field name="composerSort">Garcia, Orlando Jacinto</field>
 <field name="year">2009</field>
 <field name="date">April 22, 2009</field>
 <field name="librettist">Campbell McGrath</field>
-<field name="librettistsort">McGrath, Campbell</field>
+<field name="librettistSort">McGrath, Campbell</field>
 <field name="theater">Muzicki biennale Zagreb</field>
 <field name="city">Zagreb</field>
 <field name="country">Croatia</field>

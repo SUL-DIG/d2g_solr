@@ -3,12 +3,12 @@
 <field name="id">19961587</field>
 <field name="genre">Operas</field>
 <field name="title">Los martirios de Colón</field>
-<field name="titlesort">martirios de Colón</field>
+<field name="titleSort">martirios de Colón</field>
 <field name="composer">Federico Ruiz</field>
-<field name="composersort">Ruiz, Federico</field>
+<field name="composerSort">Ruiz, Federico</field>
 <field name="year">1981</field>
 <field name="librettist">Aquiles Nazoa</field>
-<field name="librettistsort">Nazoa, Aquiles</field>
+<field name="librettistSort">Nazoa, Aquiles</field>
 <field name="city">Caracas</field>
 <field name="country">Venezuela</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=martirios+de+Colón+Federico+Ruiz&amp;search_field=search</field>

@@ -3,13 +3,13 @@
 <field name="id">19962657</field>
 <field name="genre">Operas</field>
 <field name="title">The Mother of Black-Winged Dreams</field>
-<field name="titlesort">Mother of Black-Winged Dreams</field>
+<field name="titleSort">Mother of Black-Winged Dreams</field>
 <field name="composer">Hanna Kulenty</field>
-<field name="composersort">Kulenty, Hanna</field>
+<field name="composerSort">Kulenty, Hanna</field>
 <field name="year">1996</field>
 <field name="date">December 9, 1996</field>
 <field name="librettist">Paul Goodman</field>
-<field name="librettistsort">Goodman, Paul</field>
+<field name="librettistSort">Goodman, Paul</field>
 <field name="theater">Biennale</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

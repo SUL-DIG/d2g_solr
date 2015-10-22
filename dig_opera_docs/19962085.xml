@@ -3,13 +3,13 @@
 <field name="id">19962085</field>
 <field name="genre">Operas</field>
 <field name="title">Queen of the Night</field>
-<field name="titlesort">Queen of the Night</field>
+<field name="titleSort">Queen of the Night</field>
 <field name="composer">Ronald Strauss</field>
-<field name="composersort">Strauss, Ronald</field>
+<field name="composerSort">Strauss, Ronald</field>
 <field name="year">2001</field>
 <field name="date">May 15, 2001</field>
 <field name="librettist">Ronald Strauss</field>
-<field name="librettistsort">Strauss, Ronald</field>
+<field name="librettistSort">Strauss, Ronald</field>
 <field name="theater">Atelier de la Main d'Or</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

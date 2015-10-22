@@ -3,13 +3,13 @@
 <field name="id">19960410</field>
 <field name="genre">Operas</field>
 <field name="title">Celan</field>
-<field name="titlesort">Celan</field>
+<field name="titleSort">Celan</field>
 <field name="composer">Peter Ruzicka</field>
-<field name="composersort">Ruzicka, Peter</field>
+<field name="composerSort">Ruzicka, Peter</field>
 <field name="year">2001</field>
 <field name="date">March 25, 2001</field>
 <field name="librettist">Peter Mussbach</field>
-<field name="librettistsort">Mussbach, Peter</field>
+<field name="librettistSort">Mussbach, Peter</field>
 <field name="theater">Sächsische Staatsoper</field>
 <field name="city">Dresden</field>
 <field name="region">Sachsen</field>

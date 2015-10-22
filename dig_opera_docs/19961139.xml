@@ -3,13 +3,13 @@
 <field name="id">19961139</field>
 <field name="genre">Operas</field>
 <field name="title">I-K-O-N</field>
-<field name="titlesort">I-K-O-N</field>
+<field name="titleSort">I-K-O-N</field>
 <field name="composer">John Frandsen</field>
-<field name="composersort">Frandsen, John</field>
+<field name="composerSort">Frandsen, John</field>
 <field name="year">2003</field>
 <field name="date">March 15, 2003</field>
 <field name="librettist">Sanne Bjerg</field>
-<field name="librettistsort">Bjerg, Sanne</field>
+<field name="librettistSort">Bjerg, Sanne</field>
 <field name="theater">Det Kongelige Teater</field>
 <field name="city">Copenhagen</field>
 <field name="region">Hovedstaden</field>

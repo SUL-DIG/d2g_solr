@@ -3,13 +3,13 @@
 <field name="id">19960497</field>
 <field name="genre">Operas</field>
 <field name="title">Das geopferte Leben</field>
-<field name="titlesort">geopferte Leben</field>
+<field name="titleSort">geopferte Leben</field>
 <field name="composer">Héctor Parra</field>
-<field name="composersort">Parra, Héctor</field>
+<field name="composerSort">Parra, Héctor</field>
 <field name="year">2014</field>
 <field name="date">May 22, 2014</field>
 <field name="librettist">Marie NDiaye</field>
-<field name="librettistsort">NDiaye, Marie</field>
+<field name="librettistSort">NDiaye, Marie</field>
 <field name="theater">Biennale</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

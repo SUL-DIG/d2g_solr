@@ -3,13 +3,13 @@
 <field name="id">19961896</field>
 <field name="genre">Operas</field>
 <field name="title">One Day in the Wood</field>
-<field name="titlesort">One Day in the Wood</field>
+<field name="titleSort">One Day in the Wood</field>
 <field name="composer">Fritz Kramer</field>
-<field name="composersort">Kramer, Fritz</field>
+<field name="composerSort">Kramer, Fritz</field>
 <field name="year">1989</field>
 <field name="date">May 14, 1989</field>
 <field name="librettist">Jean Craighead George</field>
-<field name="librettistsort">George, Jean Craighead</field>
+<field name="librettistSort">George, Jean Craighead</field>
 <field name="theater">Teatown Lake Reservation</field>
 <field name="city">Ossining</field>
 <field name="region">New York</field>

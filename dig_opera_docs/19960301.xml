@@ -3,13 +3,13 @@
 <field name="id">19960301</field>
 <field name="genre">Operas</field>
 <field name="title">Bellini's War</field>
-<field name="titlesort">Bellini's War</field>
+<field name="titleSort">Bellini's War</field>
 <field name="composer">Steven Paxton</field>
-<field name="composersort">Paxton, Steven</field>
+<field name="composerSort">Paxton, Steven</field>
 <field name="year">2001</field>
 <field name="date">October 20, 2001</field>
 <field name="librettist">William Wenthe</field>
-<field name="librettistsort">Wenthe, William</field>
+<field name="librettistSort">Wenthe, William</field>
 <field name="theater">Texas Tech University</field>
 <field name="city">Lubbock</field>
 <field name="region">Texas</field>

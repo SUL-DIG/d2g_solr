@@ -3,13 +3,13 @@
 <field name="id">19961462</field>
 <field name="genre">Operas</field>
 <field name="title">Las golondrinas</field>
-<field name="titlesort">golondrinas</field>
+<field name="titleSort">golondrinas</field>
 <field name="composer">José Maria Usandizaga</field>
-<field name="composersort">Usandizaga, José Maria</field>
+<field name="composerSort">Usandizaga, José Maria</field>
 <field name="year">1914</field>
 <field name="date">February 5, 1914</field>
 <field name="librettist">Gregorio Martínez Sierra</field>
-<field name="librettistsort">Martínez Sierra, Gregorio</field>
+<field name="librettistSort">Martínez Sierra, Gregorio</field>
 <field name="theater">Teatro Circo de Price</field>
 <field name="city">Madrid</field>
 <field name="region">Madrid</field>

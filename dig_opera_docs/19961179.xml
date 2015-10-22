@@ -3,13 +3,13 @@
 <field name="id">19961179</field>
 <field name="genre">Operas</field>
 <field name="title">In Erwartung</field>
-<field name="titlesort">In Erwartung</field>
+<field name="titleSort">In Erwartung</field>
 <field name="composer">Ludger Brummer</field>
-<field name="composersort">Brummer, Ludger</field>
+<field name="composerSort">Brummer, Ludger</field>
 <field name="year">2010</field>
 <field name="date">May 5, 2010</field>
 <field name="librettist">Peter Weibel</field>
-<field name="librettistsort">Weibel, Peter</field>
+<field name="librettistSort">Weibel, Peter</field>
 <field name="theater">Biennale</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

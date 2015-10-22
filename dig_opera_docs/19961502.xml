@@ -3,13 +3,13 @@
 <field name="id">19961502</field>
 <field name="genre">Operas</field>
 <field name="title">Le volcan à l'envers</field>
-<field name="titlesort">volcan à l'envers</field>
+<field name="titleSort">volcan à l'envers</field>
 <field name="composer">Ahmed Essyad</field>
-<field name="composersort">Essyad, Ahmed</field>
+<field name="composerSort">Essyad, Ahmed</field>
 <field name="year">1998</field>
 <field name="date">December 18, 1998</field>
 <field name="librettist">Boris Gamaleya</field>
-<field name="librettistsort">Gamaleya, Boris</field>
+<field name="librettistSort">Gamaleya, Boris</field>
 <field name="theater">Radio France</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

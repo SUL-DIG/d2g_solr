@@ -3,9 +3,9 @@
 <field name="id">19960078</field>
 <field name="genre">Operas</field>
 <field name="title">Aesop's Fables</field>
-<field name="titlesort">Aesop's Fables</field>
+<field name="titleSort">Aesop's Fables</field>
 <field name="composer">Gregg Smith</field>
-<field name="composersort">Smith, Gregg</field>
+<field name="composerSort">Smith, Gregg</field>
 <field name="year">1985</field>
 <field name="date">April 11, 1985</field>
 <field name="theater">Northern Illinois University</field>

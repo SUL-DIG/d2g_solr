@@ -3,9 +3,9 @@
 <field name="id">19961151</field>
 <field name="genre">Operas</field>
 <field name="title">Il Duce</field>
-<field name="titlesort">Duce</field>
+<field name="titleSort">Duce</field>
 <field name="composer">Federico García Vigíl</field>
-<field name="composersort">Vigíl, Federico García</field>
+<field name="composerSort">Vigíl, Federico García</field>
 <field name="year">2013</field>
 <field name="date">December 17, 2013</field>
 <field name="theater">Teatro Solis</field>

@@ -3,13 +3,13 @@
 <field name="id">19961423</field>
 <field name="genre">Operas</field>
 <field name="title">La muerte pies ligeros</field>
-<field name="titlesort">muerte pies ligeros</field>
+<field name="titleSort">muerte pies ligeros</field>
 <field name="composer">Victor Rasgado</field>
-<field name="composersort">Rasgado, Victor</field>
+<field name="composerSort">Rasgado, Victor</field>
 <field name="year">2013</field>
 <field name="date">April 17, 2013</field>
 <field name="librettist">Natalia Toledo</field>
-<field name="librettistsort">Toledo, Natalia</field>
+<field name="librettistSort">Toledo, Natalia</field>
 <field name="theater">Teatro Juárez</field>
 <field name="city">Guanajuato</field>
 <field name="region">Guanajuato</field>

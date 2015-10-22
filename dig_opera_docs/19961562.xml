@@ -3,13 +3,13 @@
 <field name="id">19961562</field>
 <field name="genre">Operas</field>
 <field name="title">Lincoln's Happiest Night</field>
-<field name="titlesort">Lincoln's Happiest Night</field>
+<field name="titleSort">Lincoln's Happiest Night</field>
 <field name="composer">Lionel Lackey</field>
-<field name="composersort">Lackey, Lionel</field>
+<field name="composerSort">Lackey, Lionel</field>
 <field name="year">2003</field>
 <field name="date">February 22, 2003</field>
 <field name="librettist">Lionel Lackey</field>
-<field name="librettistsort">Lackey, Lionel</field>
+<field name="librettistSort">Lackey, Lionel</field>
 <field name="theater">Culver-Stockton College</field>
 <field name="city">Canton</field>
 <field name="region">Missouri</field>

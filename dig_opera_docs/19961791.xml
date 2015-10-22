@@ -3,13 +3,13 @@
 <field name="id">19961791</field>
 <field name="genre">Operas</field>
 <field name="title">Nachiketa</field>
-<field name="titlesort">Nachiketa</field>
+<field name="titleSort">Nachiketa</field>
 <field name="composer">Nigel Osborne</field>
-<field name="composersort">Osborne, Nigel</field>
+<field name="composerSort">Osborne, Nigel</field>
 <field name="year">2013</field>
 <field name="date">November 5, 2013</field>
 <field name="librettist">Ariel Dorfman</field>
-<field name="librettistsort">Dorfman, Ariel</field>
+<field name="librettistSort">Dorfman, Ariel</field>
 <field name="theater">Opera Circus</field>
 <field name="city">Puducherry</field>
 <field name="country">India</field>

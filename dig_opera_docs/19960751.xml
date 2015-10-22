@@ -3,13 +3,13 @@
 <field name="id">19960751</field>
 <field name="genre">Operas</field>
 <field name="title">Egoland</field>
-<field name="titlesort">Egoland</field>
+<field name="titleSort">Egoland</field>
 <field name="composer">John Frandsen</field>
-<field name="composersort">Frandsen, John</field>
+<field name="composerSort">Frandsen, John</field>
 <field name="year">2013</field>
 <field name="date">August 27, 2013</field>
 <field name="librettist">Ivar Gjørup</field>
-<field name="librettistsort">Gjørup, Ivar</field>
+<field name="librettistSort">Gjørup, Ivar</field>
 <field name="theater">Helsingør Theater</field>
 <field name="city">Århus</field>
 <field name="region">Midtjylland</field>

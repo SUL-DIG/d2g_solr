@@ -3,13 +3,13 @@
 <field name="id">19962040</field>
 <field name="genre">Operas</field>
 <field name="title">Post-fictiunea</field>
-<field name="titlesort">Post-fictiunea</field>
+<field name="titleSort">Post-fictiunea</field>
 <field name="composer">Dan Dediu</field>
-<field name="composersort">Dediu, Dan</field>
+<field name="composerSort">Dediu, Dan</field>
 <field name="year">1996</field>
 <field name="date">May 26, 1996</field>
 <field name="librettist">Dan Dediu</field>
-<field name="librettistsort">Dediu, Dan</field>
+<field name="librettistSort">Dediu, Dan</field>
 <field name="theater">Opera Româna</field>
 <field name="city">Bucharest</field>
 <field name="country">Romania</field>

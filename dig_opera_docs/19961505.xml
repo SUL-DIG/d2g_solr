@@ -3,13 +3,13 @@
 <field name="id">19961505</field>
 <field name="genre">Operas</field>
 <field name="title">Leben in dieser Zeit</field>
-<field name="titlesort">Leben in dieser Zeit</field>
+<field name="titleSort">Leben in dieser Zeit</field>
 <field name="composer">Edmund Nick</field>
-<field name="composersort">Nick, Edmund</field>
+<field name="composerSort">Nick, Edmund</field>
 <field name="year">1931</field>
 <field name="date">October 16, 1931</field>
 <field name="librettist">Erich Kästner</field>
-<field name="librettistsort">Kästner, Erich</field>
+<field name="librettistSort">Kästner, Erich</field>
 <field name="theater">Altes Stadttheater</field>
 <field name="city">Leipzig</field>
 <field name="region">Sachsen</field>

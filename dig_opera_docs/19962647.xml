@@ -3,13 +3,13 @@
 <field name="id">19962647</field>
 <field name="genre">Operas</field>
 <field name="title">The Memory Game</field>
-<field name="titlesort">Memory Game</field>
+<field name="titleSort">Memory Game</field>
 <field name="composer">Joel Hoffman</field>
-<field name="composersort">Hoffman, Joel</field>
+<field name="composerSort">Hoffman, Joel</field>
 <field name="year">2003</field>
 <field name="date">May 30, 2003</field>
 <field name="librettist">Henk Romijn Meijer</field>
-<field name="librettistsort">Romijn Meijer, Henk</field>
+<field name="librettistSort">Romijn Meijer, Henk</field>
 <field name="theater">University of Cincinnati</field>
 <field name="city">Cincinnati</field>
 <field name="region">Ohio</field>

@@ -3,13 +3,13 @@
 <field name="id">19962222</field>
 <field name="genre">Operas</field>
 <field name="title">Scènes de chasse</field>
-<field name="titlesort">Scènes de chasse</field>
+<field name="titleSort">Scènes de chasse</field>
 <field name="composer">René Koering</field>
-<field name="composersort">Koering, René</field>
+<field name="composerSort">Koering, René</field>
 <field name="year">2008</field>
 <field name="date">March 7, 2008</field>
 <field name="librettist">Heinrich von Kleist</field>
-<field name="librettistsort">Kleist, Heinrich von</field>
+<field name="librettistSort">Kleist, Heinrich von</field>
 <field name="theater">Opéra Berlioz</field>
 <field name="city">Montpellier</field>
 <field name="region">Hérault</field>

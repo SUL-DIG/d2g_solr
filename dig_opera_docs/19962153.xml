@@ -3,13 +3,13 @@
 <field name="id">19962153</field>
 <field name="genre">Operas</field>
 <field name="title">Riekko (The Willow Grouse)</field>
-<field name="titlesort">Riekko (The Willow Grouse)</field>
+<field name="titleSort">Riekko (The Willow Grouse)</field>
 <field name="composer">Ilpo Saastamoinen</field>
-<field name="composersort">Saastamoinen, Ilpo</field>
+<field name="composerSort">Saastamoinen, Ilpo</field>
 <field name="year">1996</field>
 <field name="date">August 30, 1996</field>
 <field name="librettist">Kalervo Uuttu</field>
-<field name="librettistsort">Kalervo, Uuttu</field>
+<field name="librettistSort">Kalervo, Uuttu</field>
 <field name="city">Äkäslompolo</field>
 <field name="region">Lappi</field>
 <field name="country">Finland</field>

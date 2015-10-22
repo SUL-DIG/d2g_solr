@@ -3,13 +3,13 @@
 <field name="id">19961860</field>
 <field name="genre">Operas</field>
 <field name="title">O arame</field>
-<field name="titlesort">arame</field>
+<field name="titleSort">arame</field>
 <field name="composer">Juan Durán</field>
-<field name="composersort">Durán, Juan</field>
+<field name="composerSort">Durán, Juan</field>
 <field name="year">2008</field>
 <field name="date">September 13, 2008</field>
 <field name="librettist">Manuel Lourenzo</field>
-<field name="librettistsort">Lourenzo, Manuel</field>
+<field name="librettistSort">Lourenzo, Manuel</field>
 <field name="theater">Palacio de la Opera</field>
 <field name="city">A Coruña</field>
 <field name="region">Galicia</field>

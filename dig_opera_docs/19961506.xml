@@ -3,13 +3,13 @@
 <field name="id">19961506</field>
 <field name="genre">Operas</field>
 <field name="title">Leçons de français aux étudiants américains</field>
-<field name="titlesort">Leçons de français aux étudiants américains</field>
+<field name="titleSort">Leçons de français aux étudiants américains</field>
 <field name="composer">Isabelle Aboulker</field>
-<field name="composersort">Aboulker, Isabelle</field>
+<field name="composerSort">Aboulker, Isabelle</field>
 <field name="year">1983</field>
 <field name="date">May 17, 1983</field>
 <field name="librettist">Eugène Ionesco</field>
-<field name="librettistsort">Ionesco, Eugène</field>
+<field name="librettistSort">Ionesco, Eugène</field>
 <field name="theater">Le Fresnoy</field>
 <field name="city">Tourcoing</field>
 <field name="region">Nord</field>

@@ -3,13 +3,13 @@
 <field name="id">19962380</field>
 <field name="genre">Operas</field>
 <field name="title">Sucktion</field>
-<field name="titlesort">Sucktion</field>
+<field name="titleSort">Sucktion</field>
 <field name="composer">Anna LeBaron</field>
-<field name="composersort">LeBaron, Anna</field>
+<field name="composerSort">LeBaron, Anna</field>
 <field name="year">2008</field>
 <field name="date">July 31, 2008</field>
 <field name="librettist">Douglas Kearney</field>
-<field name="librettistsort">Kearney, Douglas</field>
+<field name="librettistSort">Kearney, Douglas</field>
 <field name="theater">REDCAT Center for New Performance</field>
 <field name="city">Los Angeles</field>
 <field name="region">California</field>

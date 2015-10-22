@@ -3,13 +3,13 @@
 <field name="id">19961407</field>
 <field name="genre">Operas</field>
 <field name="title">La frontière</field>
-<field name="titlesort">frontière</field>
+<field name="titleSort">frontière</field>
 <field name="composer">Philippe Manoury</field>
-<field name="composersort">Manoury, Philippe</field>
+<field name="composerSort">Manoury, Philippe</field>
 <field name="year">2003</field>
 <field name="date">October 1, 2003</field>
 <field name="librettist">Daniela Langer</field>
-<field name="librettistsort">Langer, Daniela</field>
+<field name="librettistSort">Langer, Daniela</field>
 <field name="theater">Carré Saint-Vincent</field>
 <field name="city">Orléans</field>
 <field name="region">Loiret</field>

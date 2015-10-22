@@ -3,13 +3,13 @@
 <field name="id">19962220</field>
 <field name="genre">Operas</field>
 <field name="title">Say It Ain't So, Joe</field>
-<field name="titlesort">Say It Ain't So, Joe</field>
+<field name="titleSort">Say It Ain't So, Joe</field>
 <field name="composer">Curtis K. Hughes</field>
-<field name="composersort">Hughes, Curtis K.</field>
+<field name="composerSort">Hughes, Curtis K.</field>
 <field name="year">2009</field>
 <field name="date">September 19, 2009</field>
 <field name="librettist">Curtis K. Hughes</field>
-<field name="librettistsort">Hughes, Curtis K.</field>
+<field name="librettistSort">Hughes, Curtis K.</field>
 <field name="theater">Boston Conservatory</field>
 <field name="city">Boston</field>
 <field name="region">Massachusetts</field>

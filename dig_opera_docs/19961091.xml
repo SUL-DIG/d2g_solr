@@ -3,13 +3,13 @@
 <field name="id">19961091</field>
 <field name="genre">Operas</field>
 <field name="title">Historia de una provocación</field>
-<field name="titlesort">Historia de una provocación</field>
+<field name="titleSort">Historia de una provocación</field>
 <field name="composer">Gustavo Becerra-Schmidt</field>
-<field name="composersort">Becerra-Schmidt, Gustavo</field>
+<field name="composerSort">Becerra-Schmidt, Gustavo</field>
 <field name="year">1972</field>
 <field name="date">September 1, 1972</field>
 <field name="librettist">Luis Bocaz</field>
-<field name="librettistsort">Bocaz, Luis</field>
+<field name="librettistSort">Bocaz, Luis</field>
 <field name="theater">Salle de UNESCO</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

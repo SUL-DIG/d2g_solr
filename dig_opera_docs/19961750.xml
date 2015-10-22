@@ -3,12 +3,12 @@
 <field name="id">19961750</field>
 <field name="genre">Operas</field>
 <field name="title">Molodoy David (The Young David)</field>
-<field name="titlesort">Molodoy David (The Young David)</field>
+<field name="titleSort">Molodoy David (The Young David)</field>
 <field name="composer">Vladimir Aleksandrovich Kobekin</field>
-<field name="composersort">Kobekin, Vladimir Aleksandrovich</field>
+<field name="composerSort">Kobekin, Vladimir Aleksandrovich</field>
 <field name="year">1997</field>
 <field name="librettist">Alexey Parin</field>
-<field name="librettistsort">Parin, Alexey</field>
+<field name="librettistSort">Parin, Alexey</field>
 <field name="city">Loccum</field>
 <field name="region">Niedersachsen</field>
 <field name="country">Germany</field>

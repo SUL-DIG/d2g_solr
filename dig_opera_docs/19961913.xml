@@ -3,9 +3,9 @@
 <field name="id">19961913</field>
 <field name="genre">Operas</field>
 <field name="title">Oratorio de la paz</field>
-<field name="titlesort">Oratorio de la paz</field>
+<field name="titleSort">Oratorio de la paz</field>
 <field name="composer">Francisco Zumaqué</field>
-<field name="composersort">Zumaqué, Francisco</field>
+<field name="composerSort">Zumaqué, Francisco</field>
 <field name="year">1985</field>
 <field name="theater">Organization of American States Meeting</field>
 <field name="city">Cartegena</field>

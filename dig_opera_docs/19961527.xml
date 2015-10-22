@@ -3,13 +3,13 @@
 <field name="id">19961527</field>
 <field name="genre">Operas</field>
 <field name="title">Les enfants terribles</field>
-<field name="titlesort">enfants terribles</field>
+<field name="titleSort">enfants terribles</field>
 <field name="composer">Philip Glass</field>
-<field name="composersort">Glass, Philip</field>
+<field name="composerSort">Glass, Philip</field>
 <field name="year">1996</field>
 <field name="date">May 18, 1996</field>
 <field name="librettist">Jean Cocteau</field>
-<field name="librettistsort">Cocteau, Jean</field>
+<field name="librettistSort">Cocteau, Jean</field>
 <field name="theater">Theater Casino </field>
 <field name="city">Zug</field>
 <field name="region">Zug</field>

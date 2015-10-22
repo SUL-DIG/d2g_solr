@@ -3,13 +3,13 @@
 <field name="id">19962155</field>
 <field name="genre">Operas</field>
 <field name="title">Rime of the Ancient Mariner</field>
-<field name="titlesort">Rime of the Ancient Mariner</field>
+<field name="titleSort">Rime of the Ancient Mariner</field>
 <field name="composer">Hollis Thoms</field>
-<field name="composersort">Thoms, Hollis</field>
+<field name="composerSort">Thoms, Hollis</field>
 <field name="year">2010</field>
 <field name="date">February 14, 2010</field>
 <field name="librettist">Samuel Taylor Coleridge</field>
-<field name="librettistsort">Coleridge, Samuel Taylor</field>
+<field name="librettistSort">Coleridge, Samuel Taylor</field>
 <field name="theater">St. John's College </field>
 <field name="city">Annapolis</field>
 <field name="region">Maryland</field>

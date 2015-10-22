@@ -3,9 +3,9 @@
 <field name="id">19961753</field>
 <field name="genre">Operas</field>
 <field name="title">Monica</field>
-<field name="titlesort">Monica</field>
+<field name="titleSort">Monica</field>
 <field name="composer">Donald Lybbert</field>
-<field name="composersort">Lybbert, Donald</field>
+<field name="composerSort">Lybbert, Donald</field>
 <field name="year">1952</field>
 <field name="theater">Stadsschouwburg</field>
 <field name="city">Ansterdam</field>

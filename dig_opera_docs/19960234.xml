@@ -3,13 +3,13 @@
 <field name="id">19960234</field>
 <field name="genre">Operas</field>
 <field name="title">Aufstand der Schwingbesen</field>
-<field name="titlesort">Aufstand der Schwingbesen</field>
+<field name="titleSort">Aufstand der Schwingbesen</field>
 <field name="composer">Daniel Fueter</field>
-<field name="composersort">Fueter, Daniel</field>
+<field name="composerSort">Fueter, Daniel</field>
 <field name="year">2000</field>
 <field name="date">December 8, 2000</field>
 <field name="librettist">Thomas Hürlimann</field>
-<field name="librettistsort">Hürlimann, Thomas</field>
+<field name="librettistSort">Hürlimann, Thomas</field>
 <field name="theater">Theaterhaus Gessnerallee</field>
 <field name="city">Zürich</field>
 <field name="region">Zürich</field>

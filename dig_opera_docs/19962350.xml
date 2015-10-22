@@ -3,13 +3,13 @@
 <field name="id">19962350</field>
 <field name="genre">Oratorio</field>
 <field name="title">St. Cuthbert </field>
-<field name="titlesort">St. Cuthbert </field>
+<field name="titleSort">St. Cuthbert </field>
 <field name="composer">Will Todd</field>
-<field name="composersort">Todd, Will</field>
+<field name="composerSort">Todd, Will</field>
 <field name="year">2013</field>
 <field name="date">September 28, 2013</field>
 <field name="librettist">Ben Dunwell</field>
-<field name="librettistsort">Dunwell, Ben</field>
+<field name="librettistSort">Dunwell, Ben</field>
 <field name="theater">Durham Cathedral</field>
 <field name="city">Durham</field>
 <field name="region">Durham</field>

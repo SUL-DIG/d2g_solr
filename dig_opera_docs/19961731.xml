@@ -3,13 +3,13 @@
 <field name="id">19961731</field>
 <field name="genre">Operas</field>
 <field name="title">Mikropolis</field>
-<field name="titlesort">Mikropolis</field>
+<field name="titleSort">Mikropolis</field>
 <field name="composer">Christian Jost</field>
-<field name="composersort">Jost, Christian</field>
+<field name="composerSort">Jost, Christian</field>
 <field name="year">2011</field>
 <field name="date">October 30, 2011</field>
 <field name="librettist">Michael Frowin</field>
-<field name="librettistsort">Frowin, Michael</field>
+<field name="librettistSort">Frowin, Michael</field>
 <field name="theater">Komische Oper</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>

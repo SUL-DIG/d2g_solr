@@ -3,13 +3,13 @@
 <field name="id">19960775</field>
 <field name="genre">Operas</field>
 <field name="title">El pasado nunca se termina</field>
-<field name="titlesort">pasado nunca se termina</field>
+<field name="titleSort">pasado nunca se termina</field>
 <field name="composer">José "Pepe" Martinez</field>
-<field name="composersort">Martinez, José "Pepe"</field>
+<field name="composerSort">Martinez, José "Pepe"</field>
 <field name="year">2015</field>
 <field name="date">March 28, 2015</field>
 <field name="librettist">Leonard Foglia</field>
-<field name="librettistsort">Foglia, Leonard</field>
+<field name="librettistSort">Foglia, Leonard</field>
 <field name="theater">Civic Opera House</field>
 <field name="city">Chicago</field>
 <field name="region">Illinois</field>

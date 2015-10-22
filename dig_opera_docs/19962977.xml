@@ -3,13 +3,13 @@
 <field name="id">19962977</field>
 <field name="genre">Operas</field>
 <field name="title">Vanqui</field>
-<field name="titlesort">Vanqui</field>
+<field name="titleSort">Vanqui</field>
 <field name="composer">Leslie Burrs</field>
-<field name="composersort">Burrs, Leslie</field>
+<field name="composerSort">Burrs, Leslie</field>
 <field name="year">1999</field>
 <field name="date">October 12, 1999</field>
 <field name="librettist">John A. Williams</field>
-<field name="librettistsort">Williams, John A.</field>
+<field name="librettistSort">Williams, John A.</field>
 <field name="theater">Opera</field>
 <field name="city">Columbus</field>
 <field name="region">Ohio</field>

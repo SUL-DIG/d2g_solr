@@ -3,13 +3,13 @@
 <field name="id">19962732</field>
 <field name="genre">Operas</field>
 <field name="title">The Scarlet Letter</field>
-<field name="titlesort">Scarlet Letter</field>
+<field name="titleSort">Scarlet Letter</field>
 <field name="composer">Donald Lybbert</field>
-<field name="composersort">Lybbert, Donald</field>
+<field name="composerSort">Lybbert, Donald</field>
 <field name="year">1968</field>
 <field name="date">February 6, 1968</field>
 <field name="librettist">Nathaniel Hawthorne</field>
-<field name="librettistsort">Hawthorne, Nathaniel</field>
+<field name="librettistSort">Hawthorne, Nathaniel</field>
 <field name="theater">Metropolitan Opera Studio</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

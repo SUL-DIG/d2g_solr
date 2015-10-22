@@ -3,13 +3,13 @@
 <field name="id">19962640</field>
 <field name="genre">Operas</field>
 <field name="title">The Magic Stones</field>
-<field name="titlesort">Magic Stones</field>
+<field name="titleSort">Magic Stones</field>
 <field name="composer">Salvatore Martirano</field>
-<field name="composersort">Martirano, Salvatore</field>
+<field name="composerSort">Martirano, Salvatore</field>
 <field name="year">1952</field>
 <field name="date">April 24, 1952</field>
 <field name="librettist">Eric Rothchild</field>
-<field name="librettistsort">Rothchild, Eric</field>
+<field name="librettistSort">Rothchild, Eric</field>
 <field name="theater">Oberlin College Conservatory</field>
 <field name="city">Oberlin</field>
 <field name="region">Ohio</field>

@@ -3,13 +3,13 @@
 <field name="id">19960314</field>
 <field name="genre">Operas</field>
 <field name="title">Bhagavad Gita</field>
-<field name="titlesort">Bhagavad Gita</field>
+<field name="titleSort">Bhagavad Gita</field>
 <field name="composer">Akira Nishimura</field>
-<field name="composersort">Nishimura, Akira</field>
+<field name="composerSort">Nishimura, Akira</field>
 <field name="year">2013</field>
 <field name="date">November 23, 2013</field>
 <field name="librettist">Masakuni Kitazawa</field>
-<field name="librettistsort">Kitazawa, Masakuni</field>
+<field name="librettistSort">Kitazawa, Masakuni</field>
 <field name="theater">Suntory Hall</field>
 <field name="city">Tokyo</field>
 <field name="region">Tokyo</field>

@@ -3,12 +3,12 @@
 <field name="id">19961465</field>
 <field name="genre">Operas</field>
 <field name="title">Last Chance Planet </field>
-<field name="titlesort">Last Chance Planet </field>
+<field name="titleSort">Last Chance Planet </field>
 <field name="composer">Carman Moore</field>
-<field name="composersort">Moore, Carman</field>
+<field name="composerSort">Moore, Carman</field>
 <field name="year">1993</field>
 <field name="librettist">Carman Moore</field>
-<field name="librettistsort">Moore, Carman</field>
+<field name="librettistSort">Moore, Carman</field>
 <field name="theater">Golden Fleece Ltd.</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

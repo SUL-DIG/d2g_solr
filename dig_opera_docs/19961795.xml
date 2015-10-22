@@ -3,13 +3,13 @@
 <field name="id">19961795</field>
 <field name="genre">Operas</field>
 <field name="title">Nainen kuin jäätynyt samppanja</field>
-<field name="titlesort">Nainen kuin jäätynyt samppanja</field>
+<field name="titleSort">Nainen kuin jäätynyt samppanja</field>
 <field name="composer">lkka Kuusisto</field>
-<field name="composersort">Kuusisto, Ilkka</field>
+<field name="composerSort">Kuusisto, Ilkka</field>
 <field name="year">2000</field>
 <field name="date">February 28, 2000</field>
 <field name="librettist">Aino Piirola</field>
-<field name="librettistsort">Piirola, Aino</field>
+<field name="librettistSort">Piirola, Aino</field>
 <field name="theater">Stoa Hall in Itäkeskus</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

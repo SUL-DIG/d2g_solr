@@ -3,13 +3,13 @@
 <field name="id">19960879</field>
 <field name="genre">Operas</field>
 <field name="title">Fietsen (Cycling)</field>
-<field name="titlesort">Fietsen (Cycling)</field>
+<field name="titleSort">Fietsen (Cycling)</field>
 <field name="composer">Astrid Kruisselbrink</field>
-<field name="composersort">Kruisselbrink, Astrid</field>
+<field name="composerSort">Kruisselbrink, Astrid</field>
 <field name="year">1999</field>
 <field name="date">September 1, 1999</field>
 <field name="librettist">Gregie de Maeyer</field>
-<field name="librettistsort">Maeyer, Gregie de</field>
+<field name="librettistSort">Maeyer, Gregie de</field>
 <field name="theater">Het Paleis</field>
 <field name="city">Antwerp</field>
 <field name="region">Antwerpen</field>

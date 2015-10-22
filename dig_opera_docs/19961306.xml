@@ -3,13 +3,13 @@
 <field name="id">19961306</field>
 <field name="genre">Operas</field>
 <field name="title">Ket</field>
-<field name="titlesort">Ket</field>
+<field name="titleSort">Ket</field>
 <field name="composer">Koen Dejonghe</field>
-<field name="composersort">Dejonghe, Koen</field>
+<field name="composerSort">Dejonghe, Koen</field>
 <field name="year">2003</field>
 <field name="date">September 1, 2003</field>
 <field name="librettist">Geert van Istendael</field>
-<field name="librettistsort">Istendael, Geert van</field>
+<field name="librettistSort">Istendael, Geert van</field>
 <field name="theater">Jeugd en Muziek in Brussel</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>

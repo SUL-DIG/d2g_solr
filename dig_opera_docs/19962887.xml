@@ -3,13 +3,13 @@
 <field name="id">19962887</field>
 <field name="genre">Operas</field>
 <field name="title">Tobias and the Angel</field>
-<field name="titlesort">Tobias and the Angel</field>
+<field name="titleSort">Tobias and the Angel</field>
 <field name="composer">Jonathan Dove</field>
-<field name="composersort">Dove, Jonathan</field>
+<field name="composerSort">Dove, Jonathan</field>
 <field name="year">1999</field>
 <field name="date">July 7, 1999</field>
 <field name="librettist">David Lan</field>
-<field name="librettistsort">Lan, David</field>
+<field name="librettistSort">Lan, David</field>
 <field name="theater">Christ Church, Highbury</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

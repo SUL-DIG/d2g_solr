@@ -3,13 +3,13 @@
 <field name="id">19961364</field>
 <field name="genre">Operas</field>
 <field name="title">L'exercice de l'amour</field>
-<field name="titlesort">exercice de l'amour</field>
+<field name="titleSort">exercice de l'amour</field>
 <field name="composer">Ahmed Essyad</field>
-<field name="composersort">Essyad, Ahmed</field>
+<field name="composerSort">Essyad, Ahmed</field>
 <field name="year">1995</field>
 <field name="date">November 25, 1995</field>
 <field name="librettist">Bernard Noël</field>
-<field name="librettistsort">Noël, Bernard</field>
+<field name="librettistSort">Noël, Bernard</field>
 <field name="theater">Radio France</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

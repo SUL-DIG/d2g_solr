@@ -3,13 +3,13 @@
 <field name="id">19962629</field>
 <field name="genre">Operas</field>
 <field name="title">The Little Blue One</field>
-<field name="titlesort">Little Blue One</field>
+<field name="titleSort">Little Blue One</field>
 <field name="composer">Dominick DiOrio</field>
-<field name="composersort">DiOrio, Dominick</field>
+<field name="composerSort">DiOrio, Dominick</field>
 <field name="year">2014</field>
 <field name="date">April 24, 2014</field>
 <field name="librettist">Meghan Guidry</field>
-<field name="librettistsort">Guidry, Meghan</field>
+<field name="librettistSort">Guidry, Meghan</field>
 <field name="theater">Boston Center for the Arts Plaza Theater</field>
 <field name="city">Boston</field>
 <field name="region">Massachusetts</field>

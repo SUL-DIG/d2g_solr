@@ -3,13 +3,13 @@
 <field name="id">19960527</field>
 <field name="genre">Operas</field>
 <field name="title">De trouw van Mira en Miro</field>
-<field name="titlesort">trouw van Mira en Miro</field>
+<field name="titleSort">trouw van Mira en Miro</field>
 <field name="composer">Frank Nuyts</field>
-<field name="composersort">Nuyts, Frank</field>
+<field name="composerSort">Nuyts, Frank</field>
 <field name="year">2010</field>
 <field name="date">July 22, 2010</field>
 <field name="librettist">Frank Nuyts</field>
-<field name="librettistsort">Nuyts, Frank</field>
+<field name="librettistSort">Nuyts, Frank</field>
 <field name="theater">Zuivelmarkt</field>
 <field name="city">Hasselt</field>
 <field name="region">Limburg</field>

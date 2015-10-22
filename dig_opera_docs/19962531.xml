@@ -3,13 +3,13 @@
 <field name="id">19962531</field>
 <field name="genre">Operas</field>
 <field name="title">The Elephant Man</field>
-<field name="titlesort">Elephant Man</field>
+<field name="titleSort">Elephant Man</field>
 <field name="composer">Carl Unander-Scharin</field>
-<field name="composersort">Unander-Scharin, Carl</field>
+<field name="composerSort">Unander-Scharin, Carl</field>
 <field name="year">2012</field>
 <field name="date">October 6, 2012</field>
 <field name="librettist">Michael Williams</field>
-<field name="librettistsort">Williams, Michael</field>
+<field name="librettistSort">Williams, Michael</field>
 <field name="theater">NorrlandsOperan</field>
 <field name="city">Umeå</field>
 <field name="region">Västerbotten</field>

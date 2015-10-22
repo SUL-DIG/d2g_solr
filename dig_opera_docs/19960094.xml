@@ -3,13 +3,13 @@
 <field name="id">19960094</field>
 <field name="genre">Operas</field>
 <field name="title">Airline Icarus</field>
-<field name="titlesort">Airline Icarus</field>
+<field name="titleSort">Airline Icarus</field>
 <field name="composer">Brian Current</field>
-<field name="composersort">Current, Brian</field>
+<field name="composerSort">Current, Brian</field>
 <field name="year">2014</field>
 <field name="date">June 3, 2014</field>
 <field name="librettist">Anton Piatigorsky</field>
-<field name="librettistsort">Piatigorsky, Anton</field>
+<field name="librettistSort">Piatigorsky, Anton</field>
 <field name="theater">Ada Slaight Hall, Daniels Spectrum</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

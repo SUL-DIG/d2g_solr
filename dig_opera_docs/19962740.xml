@@ -3,13 +3,13 @@
 <field name="id">19962740</field>
 <field name="genre">Operas</field>
 <field name="title">The Seacock Bane</field>
-<field name="titlesort">Seacock Bane</field>
+<field name="titleSort">Seacock Bane</field>
 <field name="composer">Christopher Bowers-Broadbent</field>
-<field name="composersort">Bowers-Broadbent, Christopher</field>
+<field name="composerSort">Bowers-Broadbent, Christopher</field>
 <field name="year">1980</field>
 <field name="date">July 7, 1980</field>
 <field name="librettist">Tony Vincent Isaacs</field>
-<field name="librettistsort">Isaacs, Tony Vincent</field>
+<field name="librettistSort">Isaacs, Tony Vincent</field>
 <field name="theater">Cranbrook School</field>
 <field name="city">Cranbrook</field>
 <field name="region">Kent</field>

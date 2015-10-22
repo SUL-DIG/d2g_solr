@@ -3,13 +3,13 @@
 <field name="id">19960284</field>
 <field name="genre">Operas</field>
 <field name="title">Batavia</field>
-<field name="titlesort">Batavia</field>
+<field name="titleSort">Batavia</field>
 <field name="composer">Richard Mills</field>
-<field name="composersort">Mills, Richard</field>
+<field name="composerSort">Mills, Richard</field>
 <field name="year">2001</field>
 <field name="date">May 11, 2001</field>
 <field name="librettist">Peter Goldsworthy</field>
-<field name="librettistsort">Goldsworthy, Peter</field>
+<field name="librettistSort">Goldsworthy, Peter</field>
 <field name="theater">State Theatre</field>
 <field name="city">Melbourne</field>
 <field name="region">Victoria</field>

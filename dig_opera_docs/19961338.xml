@@ -3,13 +3,13 @@
 <field name="id">19961338</field>
 <field name="genre">Operas</field>
 <field name="title">Kriton</field>
-<field name="titlesort">Kriton</field>
+<field name="titleSort">Kriton</field>
 <field name="composer">Tomaž Svete</field>
-<field name="composersort">Svete, Tomaž </field>
+<field name="composerSort">Svete, Tomaž </field>
 <field name="year">2000</field>
 <field name="date">October 13, 2000</field>
 <field name="librettist">Tomaž Svete</field>
-<field name="librettistsort">Svete, Tomaž </field>
+<field name="librettistSort">Svete, Tomaž </field>
 <field name="theater">Universität für Musik und darstellende Kunst</field>
 <field name="city">Graz</field>
 <field name="region">Steiermark</field>

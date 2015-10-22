@@ -3,13 +3,13 @@
 <field name="id">19963047</field>
 <field name="genre">Operas</field>
 <field name="title">What to Wear</field>
-<field name="titlesort">What to Wear</field>
+<field name="titleSort">What to Wear</field>
 <field name="composer">Michael Gordon</field>
-<field name="composersort">Gordon, Michael</field>
+<field name="composerSort">Gordon, Michael</field>
 <field name="year">2006</field>
 <field name="date">September 20, 2006</field>
 <field name="librettist">Richard Foreman</field>
-<field name="librettistsort">Foreman, Richard</field>
+<field name="librettistSort">Foreman, Richard</field>
 <field name="theater">REDCAT Center for New Performance</field>
 <field name="city">Los Angeles</field>
 <field name="region">California</field>

@@ -3,12 +3,12 @@
 <field name="id">19961870</field>
 <field name="genre">Operas</field>
 <field name="title">Odin den' Ivana Denisovicha</field>
-<field name="titlesort">Odin den' Ivana Denisovicha</field>
+<field name="titleSort">Odin den' Ivana Denisovicha</field>
 <field name="composer">Aleksandr Vladimirovich Chaykovsky</field>
-<field name="composersort">Chaykovsky, Aleksandr Vladimirovich</field>
+<field name="composerSort">Chaykovsky, Aleksandr Vladimirovich</field>
 <field name="year">2009</field>
 <field name="librettist">Aleksandr Solzhenitzyn</field>
-<field name="librettistsort">Solzhenitzyn, Aleksandr</field>
+<field name="librettistSort">Solzhenitzyn, Aleksandr</field>
 <field name="theater">Teatr Operï i Baleta</field>
 <field name="city">Perm'</field>
 <field name="region">Perm' Oblast</field>

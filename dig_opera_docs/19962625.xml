@@ -3,13 +3,13 @@
 <field name="id">19962625</field>
 <field name="genre">Operas</field>
 <field name="title">The Lion and the Wood Nymph</field>
-<field name="titlesort">Lion and the Wood Nymph</field>
+<field name="titleSort">Lion and the Wood Nymph</field>
 <field name="composer">Jonathan Price</field>
-<field name="composersort">Price, Jonathan</field>
+<field name="composerSort">Price, Jonathan</field>
 <field name="year">2007</field>
 <field name="date">August 16, 2007</field>
 <field name="librettist">Jonathan Price</field>
-<field name="librettistsort">Price, Jonathan</field>
+<field name="librettistSort">Price, Jonathan</field>
 <field name="theater">New Opera Works</field>
 <field name="city">American Fork</field>
 <field name="region">Utah</field>

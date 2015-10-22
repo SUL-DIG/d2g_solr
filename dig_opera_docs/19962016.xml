@@ -3,9 +3,9 @@
 <field name="id">19962016</field>
 <field name="genre">Operas</field>
 <field name="title">Pir Valtasara/Posledniy den' Bel'Sar-Ussura</field>
-<field name="titlesort">Pir Valtasara/Posledniy den' Bel'Sar-Ussura</field>
+<field name="titleSort">Pir Valtasara/Posledniy den' Bel'Sar-Ussura</field>
 <field name="composer">Arseny Nikolayevich Koreshchenko</field>
-<field name="composersort">Koreshchenko, Arseny Nikolayevich</field>
+<field name="composerSort">Koreshchenko, Arseny Nikolayevich</field>
 <field name="year">1892</field>
 <field name="city">Moscow</field>
 <field name="country">Russia</field>

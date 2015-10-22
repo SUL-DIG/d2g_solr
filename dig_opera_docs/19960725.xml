@@ -3,13 +3,13 @@
 <field name="id">19960725</field>
 <field name="genre">Operas</field>
 <field name="title">Dronning Boudicca (Queen Boudica)</field>
-<field name="titlesort">Dronning Boudicca (Queen Boudica)</field>
+<field name="titleSort">Dronning Boudicca (Queen Boudica)</field>
 <field name="composer">John Frandsen</field>
-<field name="composersort">Frandsen, John</field>
+<field name="composerSort">Frandsen, John</field>
 <field name="year">1997</field>
 <field name="date">April 5, 1997</field>
 <field name="librettist">Michael Hall</field>
-<field name="librettistsort">Hall, Michael</field>
+<field name="librettistSort">Hall, Michael</field>
 <field name="theater">Den Anden Opera</field>
 <field name="city">Copenhagen</field>
 <field name="region">Hovedstaden</field>

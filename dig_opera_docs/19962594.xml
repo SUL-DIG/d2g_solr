@@ -3,13 +3,13 @@
 <field name="id">19962594</field>
 <field name="genre">Operas</field>
 <field name="title">The Inferno of Dante: Canto V</field>
-<field name="titlesort">Inferno of Dante: Canto V</field>
+<field name="titleSort">Inferno of Dante: Canto V</field>
 <field name="composer">Patrick Soluri</field>
-<field name="composersort">Soluri, Patrick</field>
+<field name="composerSort">Soluri, Patrick</field>
 <field name="year">2003</field>
 <field name="date">May 7, 2003</field>
 <field name="librettist">John Ciardi</field>
-<field name="librettistsort">Ciardi, John</field>
+<field name="librettistSort">Ciardi, John</field>
 <field name="theater">New York City Opera VOX Festival</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

@@ -3,13 +3,13 @@
 <field name="id">19963116</field>
 <field name="genre">Operas</field>
 <field name="title">Zürich 1916</field>
-<field name="titlesort">Zürich 1916</field>
+<field name="titleSort">Zürich 1916</field>
 <field name="composer">Christopher Butterfield</field>
-<field name="composersort">Butterfield, Christopher</field>
+<field name="composerSort">Butterfield, Christopher</field>
 <field name="year">1998</field>
 <field name="date">August 5, 1998</field>
 <field name="librettist">John Bentley Mays</field>
-<field name="librettistsort">Mays, John Bentley</field>
+<field name="librettistSort">Mays, John Bentley</field>
 <field name="theater">Banff Centre</field>
 <field name="city">Banff</field>
 <field name="region">Alberta</field>

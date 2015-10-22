@@ -3,13 +3,13 @@
 <field name="id">19960349</field>
 <field name="genre">Operas</field>
 <field name="title">Bordellballade</field>
-<field name="titlesort">Bordellballade</field>
+<field name="titleSort">Bordellballade</field>
 <field name="composer">Moritz Eggert</field>
-<field name="composersort">Eggert, Moritz</field>
+<field name="composerSort">Eggert, Moritz</field>
 <field name="year">2010</field>
 <field name="date">March 4, 2010</field>
 <field name="librettist">[Stefan Griebl] Franzobel</field>
-<field name="librettistsort">Franzobel, [Stefan Griebl]</field>
+<field name="librettistSort">Franzobel, [Stefan Griebl]</field>
 <field name="theater">Anhaltische Theater</field>
 <field name="city">Dessau</field>
 <field name="region">Sachsen-Anhalt</field>

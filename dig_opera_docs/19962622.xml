@@ -3,13 +3,13 @@
 <field name="id">19962622</field>
 <field name="genre">Operas</field>
 <field name="title">The Life and Death of Marina Abramovic</field>
-<field name="titlesort">Life and Death of Marina Abramovic</field>
+<field name="titleSort">Life and Death of Marina Abramovic</field>
 <field name="composer">Antony Hegarty</field>
-<field name="composersort">Hegarty, Antony</field>
+<field name="composerSort">Hegarty, Antony</field>
 <field name="year">2011</field>
 <field name="date">July 9, 2011</field>
 <field name="librettist">Marina Abramovic</field>
-<field name="librettistsort">Abramovic, Marina</field>
+<field name="librettistSort">Abramovic, Marina</field>
 <field name="theater">Lowry Theatre</field>
 <field name="city">Manchester</field>
 <field name="region">Greater Manchester</field>

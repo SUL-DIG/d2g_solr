@@ -3,13 +3,13 @@
 <field name="id">19960681</field>
 <field name="genre">Operas</field>
 <field name="title">Doglie</field>
-<field name="titlesort">Doglie</field>
+<field name="titleSort">Doglie</field>
 <field name="composer">Valerio Sannicandro</field>
-<field name="composersort">Sannicandro, Valerio</field>
+<field name="composerSort">Sannicandro, Valerio</field>
 <field name="year">2013</field>
 <field name="date">September 13, 2013</field>
 <field name="librettist">Antonio Tarantino</field>
-<field name="librettistsort">Tarantino, Antonio</field>
+<field name="librettistSort">Tarantino, Antonio</field>
 <field name="theater">Teatro Lirico Sperimentale "A. Belli"</field>
 <field name="city">Spoleto</field>
 <field name="region">Umbria</field>

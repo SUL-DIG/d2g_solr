@@ -3,13 +3,13 @@
 <field name="id">19960134</field>
 <field name="genre">Operas</field>
 <field name="title">Amalie</field>
-<field name="titlesort">Amalie</field>
+<field name="titleSort">Amalie</field>
 <field name="composer">John Frandsen</field>
-<field name="composersort">Frandsen, John</field>
+<field name="composerSort">Frandsen, John</field>
 <field name="year">1995</field>
 <field name="date">May 1, 1995</field>
 <field name="librettist">Niels Pihl</field>
-<field name="librettistsort">Pihl, Niels</field>
+<field name="librettistSort">Pihl, Niels</field>
 <field name="theater">Musikteateret Undergrunden</field>
 <field name="city">Århus</field>
 <field name="region">Midtjylland</field>

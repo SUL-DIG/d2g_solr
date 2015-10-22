@@ -3,13 +3,13 @@
 <field name="id">19960788</field>
 <field name="genre">Operas</field>
 <field name="title">Elissa</field>
-<field name="titlesort">Elissa</field>
+<field name="titleSort">Elissa</field>
 <field name="composer">Ruth Zechlin</field>
-<field name="composersort">Zechlin, Ruth</field>
+<field name="composerSort">Zechlin, Ruth</field>
 <field name="year">2005</field>
 <field name="date">April 9, 2005</field>
 <field name="librettist">Hellmuth Matiasek</field>
-<field name="librettistsort">Matiasek, Hellmuth</field>
+<field name="librettistSort">Matiasek, Hellmuth</field>
 <field name="city">Passau</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>

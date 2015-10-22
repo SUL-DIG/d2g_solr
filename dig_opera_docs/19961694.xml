@@ -3,12 +3,12 @@
 <field name="id">19961694</field>
 <field name="genre">Operas</field>
 <field name="title">Mavi Nokta (Blue Dot)</field>
-<field name="titlesort">Mavi Nokta (Blue Dot)</field>
+<field name="titleSort">Mavi Nokta (Blue Dot)</field>
 <field name="composer">Selman Ada</field>
-<field name="composersort">Ada, Selman</field>
+<field name="composerSort">Ada, Selman</field>
 <field name="year">1996</field>
 <field name="librettist">Tarık Günerse</field>
-<field name="librettistsort">Günerse, Tarık</field>
+<field name="librettistSort">Günerse, Tarık</field>
 <field name="theater">Devlet Opera ve Balesi</field>
 <field name="city">Izmir</field>
 <field name="country">Turkey</field>

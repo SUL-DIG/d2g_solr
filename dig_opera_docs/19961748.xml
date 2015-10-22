@@ -3,12 +3,12 @@
 <field name="id">19961748</field>
 <field name="genre">Operas</field>
 <field name="title">Moisey (Moses)</field>
-<field name="titlesort">Moisey (Moses)</field>
+<field name="titleSort">Moisey (Moses)</field>
 <field name="composer">Vladimir Aleksandrovich Kobekin</field>
-<field name="composersort">Kobekin, Vladimir Aleksandrovich</field>
+<field name="composerSort">Kobekin, Vladimir Aleksandrovich</field>
 <field name="year">1999</field>
 <field name="librettist">Alexey Parin</field>
-<field name="librettistsort">Parin, Alexey</field>
+<field name="librettistSort">Parin, Alexey</field>
 <field name="theater">Gelikon-Opera</field>
 <field name="city">Moscow</field>
 <field name="country">Russia</field>

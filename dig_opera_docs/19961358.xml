@@ -3,13 +3,13 @@
 <field name="id">19961358</field>
 <field name="genre">Operas</field>
 <field name="title">L'autre côté</field>
-<field name="titlesort">autre côté</field>
+<field name="titleSort">autre côté</field>
 <field name="composer">Bruno Mantovani</field>
-<field name="composersort">Mantovani, Bruno</field>
+<field name="composerSort">Mantovani, Bruno</field>
 <field name="year">2006</field>
 <field name="date">September 23, 2006</field>
 <field name="librettist">François Regnault</field>
-<field name="librettistsort">Regnault, François</field>
+<field name="librettistSort">Regnault, François</field>
 <field name="theater">Théâtre Municipal</field>
 <field name="city">Strasbourg</field>
 <field name="region">Bas-Rhin</field>

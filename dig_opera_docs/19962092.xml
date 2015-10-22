@@ -3,9 +3,9 @@
 <field name="id">19962092</field>
 <field name="genre">Operas</field>
 <field name="title">Rabbi</field>
-<field name="titlesort">Rabbi</field>
+<field name="titleSort">Rabbi</field>
 <field name="composer">Thorkell Sigurbjörnsson</field>
-<field name="composersort">Sigurbjörnsson, Thorkell</field>
+<field name="composerSort">Sigurbjörnsson, Thorkell</field>
 <field name="year">1967</field>
 <field name="theater">Reykavik Theater Company</field>
 <field name="city">Reykjavik</field>

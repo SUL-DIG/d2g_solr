@@ -3,13 +3,13 @@
 <field name="id">19960452</field>
 <field name="genre">Operas</field>
 <field name="title">Closing Time</field>
-<field name="titlesort">Closing Time</field>
+<field name="titleSort">Closing Time</field>
 <field name="composer">Kenneth LaFave</field>
-<field name="composersort">LaFave, Kenneth</field>
+<field name="composerSort">LaFave, Kenneth</field>
 <field name="year">1999</field>
 <field name="date">April 22, 1999</field>
 <field name="librettist">Robert Kastenbaum</field>
-<field name="librettistsort">Kastenbaum, Robert</field>
+<field name="librettistSort">Kastenbaum, Robert</field>
 <field name="theater">Pima Community College</field>
 <field name="city">Tucson</field>
 <field name="region">Arizona</field>

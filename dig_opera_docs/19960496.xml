@@ -3,13 +3,13 @@
 <field name="id">19960496</field>
 <field name="genre">Operas</field>
 <field name="title">Das D'Amato System</field>
-<field name="titlesort">Das D'Amato System</field>
+<field name="titleSort">Das D'Amato System</field>
 <field name="composer">Helmut Oehring</field>
-<field name="composersort">Oehring, Helmut</field>
+<field name="composerSort">Oehring, Helmut</field>
 <field name="year">1996</field>
 <field name="date">May 9, 1996</field>
 <field name="librettist">Helmut Oehring</field>
-<field name="librettistsort">Oehring, Helmut</field>
+<field name="librettistSort">Oehring, Helmut</field>
 <field name="theater">Biennale</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

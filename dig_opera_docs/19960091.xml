@@ -3,13 +3,13 @@
 <field name="id">19960091</field>
 <field name="genre">Operas</field>
 <field name="title">Äidit ja Tyttäret (Mothers and Daughters)</field>
-<field name="titlesort">Äidit ja Tyttäret (Mothers and Daughters)</field>
+<field name="titleSort">Äidit ja Tyttäret (Mothers and Daughters)</field>
 <field name="composer">Tapio Tuomela</field>
-<field name="composersort">Tuomela, Tapio</field>
+<field name="composerSort">Tuomela, Tapio</field>
 <field name="year">1999</field>
 <field name="date">November 6, 1999</field>
 <field name="librettist">Paavo Haavikko</field>
-<field name="librettistsort">Haavikko, Paavo</field>
+<field name="librettistSort">Haavikko, Paavo</field>
 <field name="theater">Suomen Kansallisooppera Alminsali</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

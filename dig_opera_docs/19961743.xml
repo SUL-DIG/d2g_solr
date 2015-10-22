@@ -3,13 +3,13 @@
 <field name="id">19961743</field>
 <field name="genre">Operas</field>
 <field name="title">Miss Treat</field>
-<field name="titlesort">Miss Treat</field>
+<field name="titleSort">Miss Treat</field>
 <field name="composer">Des Oliver</field>
-<field name="composersort">Oliver, Des</field>
+<field name="composerSort">Oliver, Des</field>
 <field name="year">1999</field>
 <field name="date">August 26, 1999</field>
 <field name="librettist">Meredith Oakes</field>
-<field name="librettistsort">Oakes, Meredith</field>
+<field name="librettistSort">Oakes, Meredith</field>
 <field name="theater">Battersea Arts Centre</field>
 <field name="city">Battersea</field>
 <field name="region">Greater London</field>

@@ -3,13 +3,13 @@
 <field name="id">19962552</field>
 <field name="genre">Operas</field>
 <field name="title">The Fisher and the Wishes</field>
-<field name="titlesort">Fisher and the Wishes</field>
+<field name="titleSort">Fisher and the Wishes</field>
 <field name="composer">Jonathan Price</field>
-<field name="composersort">Price, Jonathan</field>
+<field name="composerSort">Price, Jonathan</field>
 <field name="year">2011</field>
 <field name="date">October 15, 2011</field>
 <field name="librettist">Jeff Goode</field>
-<field name="librettistsort">Goode, Jeff</field>
+<field name="librettistSort">Goode, Jeff</field>
 <field name="theater">Blinn House</field>
 <field name="city">Pasadena</field>
 <field name="region">California</field>

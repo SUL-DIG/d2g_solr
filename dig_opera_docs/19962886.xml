@@ -3,12 +3,12 @@
 <field name="id">19962886</field>
 <field name="genre">Operas</field>
 <field name="title">Tobias</field>
-<field name="titlesort">Tobias</field>
+<field name="titleSort">Tobias</field>
 <field name="composer">André Bon</field>
-<field name="composersort">Bon, André</field>
+<field name="composerSort">Bon, André</field>
 <field name="year">1996</field>
 <field name="librettist">Michel Beretti</field>
-<field name="librettistsort">Beretti, Michel</field>
+<field name="librettistSort">Beretti, Michel</field>
 <field name="theater">Théâtre Municipal</field>
 <field name="city">Caen</field>
 <field name="region">Calvados</field>

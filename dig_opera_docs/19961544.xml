@@ -3,9 +3,9 @@
 <field name="id">19961544</field>
 <field name="genre">Operas</field>
 <field name="title">Lezioni di tenebra</field>
-<field name="titlesort">Lezioni di tenebra</field>
+<field name="titleSort">Lezioni di tenebra</field>
 <field name="composer">Lucia Ronchetti</field>
-<field name="composersort">Ronchetti, Lucia</field>
+<field name="composerSort">Ronchetti, Lucia</field>
 <field name="year">2014</field>
 <field name="date">January 30, 2014</field>
 <field name="theater">Deutsche Staatsoper</field>

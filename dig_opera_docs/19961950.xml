@@ -3,13 +3,13 @@
 <field name="id">19961950</field>
 <field name="genre">Operas</field>
 <field name="title">Pandora's Locker</field>
-<field name="titlesort">Pandora's Locker</field>
+<field name="titleSort">Pandora's Locker</field>
 <field name="composer">Dean Burry</field>
-<field name="composersort">Burry, Dean</field>
+<field name="composerSort">Burry, Dean</field>
 <field name="year">2008</field>
 <field name="date">December 5, 2008</field>
 <field name="librettist">Dean Burry</field>
-<field name="librettistsort">Burry, Dean</field>
+<field name="librettistSort">Burry, Dean</field>
 <field name="theater">Glenn Gould School</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

@@ -3,13 +3,13 @@
 <field name="id">19961511</field>
 <field name="genre">Operas</field>
 <field name="title">Leif</field>
-<field name="titlesort">Leif</field>
+<field name="titleSort">Leif</field>
 <field name="composer">Andy Vores</field>
-<field name="composersort">Vores, Andy</field>
+<field name="composerSort">Vores, Andy</field>
 <field name="year">2008</field>
 <field name="date">October 3, 2008</field>
 <field name="librettist">Frederick Choi</field>
-<field name="librettistsort">Choi, Frederick</field>
+<field name="librettistSort">Choi, Frederick</field>
 <field name="theater">Boston University</field>
 <field name="city">Boston</field>
 <field name="region">Massachusetts</field>

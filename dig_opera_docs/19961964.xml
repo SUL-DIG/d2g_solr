@@ -3,13 +3,13 @@
 <field name="id">19961964</field>
 <field name="genre">Operas</field>
 <field name="title">Passages</field>
-<field name="titlesort">Passages</field>
+<field name="titleSort">Passages</field>
 <field name="composer">Arnaud Petit</field>
-<field name="composersort">Petit, Arnaud</field>
+<field name="composerSort">Petit, Arnaud</field>
 <field name="year">2001</field>
 <field name="date">March 7, 2001</field>
 <field name="librettist">Pascalle Monnier</field>
-<field name="librettistsort">Monnier, Pascalle</field>
+<field name="librettistSort">Monnier, Pascalle</field>
 <field name="theater">Grand-Théâtre</field>
 <field name="city">Reims</field>
 <field name="region">Marne</field>

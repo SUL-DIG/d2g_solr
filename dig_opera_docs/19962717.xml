@@ -3,13 +3,13 @@
 <field name="id">19962717</field>
 <field name="genre">Operas</field>
 <field name="title">The Reclining Woman</field>
-<field name="titlesort">Reclining Woman</field>
+<field name="titleSort">Reclining Woman</field>
 <field name="composer">Astrid Kruisselbrink</field>
-<field name="composersort">Kruisselbrink, Astrid</field>
+<field name="composerSort">Kruisselbrink, Astrid</field>
 <field name="year">2011</field>
 <field name="date">April 9, 2011</field>
 <field name="librettist">Astrid Kruisselbrink</field>
-<field name="librettistsort">Kruisselbrink, Astrid</field>
+<field name="librettistSort">Kruisselbrink, Astrid</field>
 <field name="theater">Odeon Theater</field>
 <field name="city">Zwolle</field>
 <field name="region">Overijssel</field>

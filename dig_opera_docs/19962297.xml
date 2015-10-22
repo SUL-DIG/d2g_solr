@@ -3,9 +3,9 @@
 <field name="id">19962297</field>
 <field name="genre">Operas</field>
 <field name="title">Sisters of Faith</field>
-<field name="titlesort">Sisters of Faith</field>
+<field name="titleSort">Sisters of Faith</field>
 <field name="composer">Mary Carol Warwick</field>
-<field name="composersort">Warwick, Mary Carol</field>
+<field name="composerSort">Warwick, Mary Carol</field>
 <field name="year">1986</field>
 <field name="date">April 27, 1986</field>
 <field name="theater">Southwest Texas State University</field>

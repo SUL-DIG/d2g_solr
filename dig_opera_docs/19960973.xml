@@ -3,13 +3,13 @@
 <field name="id">19960973</field>
 <field name="genre">Operas</field>
 <field name="title">George Sand…and Chopin?</field>
-<field name="titlesort">George Sand…and Chopin?</field>
+<field name="titleSort">George Sand…and Chopin?</field>
 <field name="composer">Persis Anne Parshall Vehar</field>
-<field name="composersort">Vehar, Persis Anne Parshall</field>
+<field name="composerSort">Vehar, Persis Anne Parshall</field>
 <field name="year">2005</field>
 <field name="date">March 13, 2005</field>
 <field name="librettist">Gabrielle Vehar</field>
-<field name="librettistsort">Vehar, Gabrielle</field>
+<field name="librettistSort">Vehar, Gabrielle</field>
 <field name="theater">Austin-Peay State University</field>
 <field name="city">Clarksville</field>
 <field name="region">Tennessee</field>

@@ -3,13 +3,13 @@
 <field name="id">19961450</field>
 <field name="genre">Operas</field>
 <field name="title">La voz del silencio</field>
-<field name="titlesort">voz del silencio</field>
+<field name="titleSort">voz del silencio</field>
 <field name="composer">Mario Perusso</field>
-<field name="composersort">Perusso, Mario</field>
+<field name="composerSort">Perusso, Mario</field>
 <field name="year">1969</field>
 <field name="date">November 27, 1969</field>
 <field name="librettist">Leónidas Barrera Oro</field>
-<field name="librettistsort">Barrera Oro, Leónidas</field>
+<field name="librettistSort">Barrera Oro, Leónidas</field>
 <field name="theater">Teatro Colón</field>
 <field name="city">Buenos Aires</field>
 <field name="region">Buenos Aires</field>

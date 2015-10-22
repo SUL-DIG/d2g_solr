@@ -3,13 +3,13 @@
 <field name="id">19960907</field>
 <field name="genre">Operas</field>
 <field name="title">For You</field>
-<field name="titlesort">For You</field>
+<field name="titleSort">For You</field>
 <field name="composer">Michael Berkeley</field>
-<field name="composersort">Berkeley, Michael</field>
+<field name="composerSort">Berkeley, Michael</field>
 <field name="year">2008</field>
 <field name="date">October 28, 2008</field>
 <field name="librettist">Ian McEwan</field>
-<field name="librettistsort">McEwan, Ian</field>
+<field name="librettistSort">McEwan, Ian</field>
 <field name="theater">Linbury Studio, Royal Opera House</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

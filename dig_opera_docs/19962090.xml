@@ -3,12 +3,12 @@
 <field name="id">19962090</field>
 <field name="genre">Operas</field>
 <field name="title">Ra-Koun-Koc</field>
-<field name="titlesort">Ra-Koun-Koc</field>
+<field name="titleSort">Ra-Koun-Koc</field>
 <field name="composer">Gabriel Pichon</field>
-<field name="composersort">Pichon, Gabriel</field>
+<field name="composerSort">Pichon, Gabriel</field>
 <field name="year">1906</field>
 <field name="librettist">Antoine Garofalo</field>
-<field name="librettistsort">Garofalo, Antoine</field>
+<field name="librettistSort">Garofalo, Antoine</field>
 <field name="theater">Théâtre Municipal</field>
 <field name="city">Angoulême</field>
 <field name="region">Charente</field>

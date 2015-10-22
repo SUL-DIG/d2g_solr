@@ -3,13 +3,13 @@
 <field name="id">19960782</field>
 <field name="genre">Operas</field>
 <field name="title">Electra</field>
-<field name="titlesort">Electra</field>
+<field name="titleSort">Electra</field>
 <field name="composer">Mikis Theodorakes</field>
-<field name="composersort">Theodorakes, Mikis</field>
+<field name="composerSort">Theodorakes, Mikis</field>
 <field name="year">1995</field>
 <field name="date">May 2, 1995</field>
 <field name="librettist">Spyros Evangelatos</field>
-<field name="librettistsort">Evangelatos, Spyros</field>
+<field name="librettistSort">Evangelatos, Spyros</field>
 <field name="theater">Grand Théâtre</field>
 <field name="city">Luxembourg</field>
 <field name="country">Luxembourg</field>

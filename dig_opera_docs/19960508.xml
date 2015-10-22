@@ -3,13 +3,13 @@
 <field name="id">19960508</field>
 <field name="genre">Operas</field>
 <field name="title">Das Opernschiff</field>
-<field name="titlesort">Opernschiff</field>
+<field name="titleSort">Opernschiff</field>
 <field name="composer">Marius Felix Lange</field>
-<field name="composersort">Lange, Marius Felix</field>
+<field name="composerSort">Lange, Marius Felix</field>
 <field name="year">2008</field>
 <field name="date">February 22, 2008</field>
 <field name="librettist">Elke Heidenreich</field>
-<field name="librettistsort">Heidenreich, Elke</field>
+<field name="librettistSort">Heidenreich, Elke</field>
 <field name="theater">Bühnen der Stadt</field>
 <field name="city">Gera</field>
 <field name="region">Thüringen</field>

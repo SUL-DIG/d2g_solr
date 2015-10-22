@@ -3,13 +3,13 @@
 <field name="id">19960758</field>
 <field name="genre">Operas</field>
 <field name="title">Eine Kapitulation</field>
-<field name="titlesort">Kapitulation</field>
+<field name="titleSort">Kapitulation</field>
 <field name="composer">Paul Leonard Schäffer</field>
-<field name="composersort">Schäffer, Paul Leonard</field>
+<field name="composerSort">Schäffer, Paul Leonard</field>
 <field name="year">2010</field>
 <field name="date">August 24, 2010</field>
 <field name="librettist">Richard Wagner</field>
-<field name="librettistsort">Wagner, Richard</field>
+<field name="librettistSort">Wagner, Richard</field>
 <field name="theater">Das Zentrum</field>
 <field name="city">Bayreuth</field>
 <field name="region">Bayern</field>

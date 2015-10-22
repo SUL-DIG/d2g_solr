@@ -3,13 +3,13 @@
 <field name="id">19961270</field>
 <field name="genre">Operas</field>
 <field name="title">Käärme (The Snake)</field>
-<field name="titlesort">Käärme (The Snake)</field>
+<field name="titleSort">Käärme (The Snake)</field>
 <field name="composer">Ilpo Saastamoinen</field>
-<field name="composersort">Saastamoinen, Ilpo</field>
+<field name="composerSort">Saastamoinen, Ilpo</field>
 <field name="year">1999</field>
 <field name="date">August 27, 1999</field>
 <field name="librettist">Kalervo Uuttu</field>
-<field name="librettistsort">Kalervo, Uuttu</field>
+<field name="librettistSort">Kalervo, Uuttu</field>
 <field name="city">Äkäslompolo</field>
 <field name="region">Lappi</field>
 <field name="country">Finland</field>

@@ -3,13 +3,13 @@
 <field name="id">19961412</field>
 <field name="genre">Operas</field>
 <field name="title">La Lettre des sables</field>
-<field name="titlesort">Lettre des sables</field>
+<field name="titleSort">Lettre des sables</field>
 <field name="composer">Christian Lauba</field>
-<field name="composersort">Lauba, Christian</field>
+<field name="composerSort">Lauba, Christian</field>
 <field name="year">2014</field>
 <field name="date">April 25, 2014</field>
 <field name="librettist">Daniel Mesguich</field>
-<field name="librettistsort">Mesguich, Daniel</field>
+<field name="librettistSort">Mesguich, Daniel</field>
 <field name="theater">Grand-Théâtre</field>
 <field name="city">Bordeaux</field>
 <field name="region">Gironde</field>

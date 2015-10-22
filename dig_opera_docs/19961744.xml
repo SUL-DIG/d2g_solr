@@ -3,13 +3,13 @@
 <field name="id">19961744</field>
 <field name="genre">Operas</field>
 <field name="title">Mister Marimba</field>
-<field name="titlesort">Mister Marimba</field>
+<field name="titleSort">Mister Marimba</field>
 <field name="composer">Marta Ptaszyńska</field>
-<field name="composersort">Ptaszyńska, Marta</field>
+<field name="composerSort">Ptaszyńska, Marta</field>
 <field name="year">1998</field>
 <field name="date">September 27, 1998</field>
 <field name="librettist">Agnieszka Osiecka</field>
-<field name="librettistsort">Osiecka, Agnieszka</field>
+<field name="librettistSort">Osiecka, Agnieszka</field>
 <field name="theater">Teatr Wielki</field>
 <field name="city">Warsaw</field>
 <field name="country">Poland</field>

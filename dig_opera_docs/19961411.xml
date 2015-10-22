@@ -3,13 +3,13 @@
 <field name="id">19961411</field>
 <field name="genre">Operas</field>
 <field name="title">La lacune</field>
-<field name="titlesort">lacune</field>
+<field name="titleSort">lacune</field>
 <field name="composer">Isabelle Aboulker</field>
-<field name="composersort">Aboulker, Isabelle</field>
+<field name="composerSort">Aboulker, Isabelle</field>
 <field name="year">1979</field>
 <field name="date">March 11, 1979</field>
 <field name="librettist">Eugène Ionesco</field>
-<field name="librettistsort">Ionesco, Eugène</field>
+<field name="librettistSort">Ionesco, Eugène</field>
 <field name="theater">Chapelle Saint Nicolas</field>
 <field name="city">Compiègne</field>
 <field name="region">Oise</field>

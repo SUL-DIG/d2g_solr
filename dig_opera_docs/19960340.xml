@@ -3,13 +3,13 @@
 <field name="id">19960340</field>
 <field name="genre">Operas</field>
 <field name="title">Bok Choy Variations: A Tale from the Red Dust</field>
-<field name="titlesort">Bok Choy Variations: A Tale from the Red Dust</field>
+<field name="titleSort">Bok Choy Variations: A Tale from the Red Dust</field>
 <field name="composer">Evan Chen</field>
-<field name="composersort">Chen, Evan</field>
+<field name="composerSort">Chen, Evan</field>
 <field name="year">1995</field>
 <field name="date">June 10, 1995</field>
 <field name="librettist">Fifi Servoss</field>
-<field name="librettistsort">Servoss, Fifi</field>
+<field name="librettistSort">Servoss, Fifi</field>
 <field name="theater">Ordway Theater</field>
 <field name="city">St. Paul</field>
 <field name="region">Minnesota</field>

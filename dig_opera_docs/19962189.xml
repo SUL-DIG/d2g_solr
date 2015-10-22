@@ -3,13 +3,13 @@
 <field name="id">19962189</field>
 <field name="genre">Operas</field>
 <field name="title">Rumpelstiltskin</field>
-<field name="titlesort">Rumpelstiltskin</field>
+<field name="titleSort">Rumpelstiltskin</field>
 <field name="composer">Derek Bourgeois</field>
-<field name="composersort">Bourgeois, Derek</field>
+<field name="composerSort">Bourgeois, Derek</field>
 <field name="year">1976</field>
 <field name="date">March 23, 1976</field>
 <field name="librettist">David Selwyn</field>
-<field name="librettistsort">Selwyn, David</field>
+<field name="librettistSort">Selwyn, David</field>
 <field name="theater">Bristol Cathedral</field>
 <field name="city">Bristol</field>
 <field name="region">Bristol</field>

@@ -3,13 +3,13 @@
 <field name="id">19960542</field>
 <field name="genre">Operas</field>
 <field name="title">Democracy: An American Comedy</field>
-<field name="titlesort">Democracy: An American Comedy</field>
+<field name="titleSort">Democracy: An American Comedy</field>
 <field name="composer">Scott Wheeler</field>
-<field name="composersort">Wheeler, Scott</field>
+<field name="composerSort">Wheeler, Scott</field>
 <field name="year">2005</field>
 <field name="date">January 28, 2005</field>
 <field name="librettist">Romulus Linney</field>
-<field name="librettistsort">Linney, Romulus</field>
+<field name="librettistSort">Linney, Romulus</field>
 <field name="theater">George Washington University</field>
 <field name="city">Washingon</field>
 <field name="region">District of Columbia</field>

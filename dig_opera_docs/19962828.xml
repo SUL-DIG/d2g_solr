@@ -3,13 +3,13 @@
 <field name="id">19962828</field>
 <field name="genre">Operas</field>
 <field name="title">The Wager</field>
-<field name="titlesort">Wager</field>
+<field name="titleSort">Wager</field>
 <field name="composer">Buxton Orr</field>
-<field name="composersort">Orr, Buxton</field>
+<field name="composerSort">Orr, Buxton</field>
 <field name="year">1962</field>
 <field name="date">December 16, 1962</field>
 <field name="librettist">Hamilton Johnston</field>
-<field name="librettistsort">Johnston, Hamilton</field>
+<field name="librettistSort">Johnston, Hamilton</field>
 <field name="theater">Sadler's Wells Theatre</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

@@ -3,13 +3,13 @@
 <field name="id">19961785</field>
 <field name="genre">Operas</field>
 <field name="title">Murmullos del páramo</field>
-<field name="titlesort">Murmullos del páramo</field>
+<field name="titleSort">Murmullos del páramo</field>
 <field name="composer">Julio Estrada</field>
-<field name="composersort">Estrada, Julio</field>
+<field name="composerSort">Estrada, Julio</field>
 <field name="year">2006</field>
 <field name="date">May 12, 2006</field>
 <field name="librettist">Juan Rulfo</field>
-<field name="librettistsort">Rulfo, Juan</field>
+<field name="librettistSort">Rulfo, Juan</field>
 <field name="theater">Teatro Español</field>
 <field name="city">Madrid</field>
 <field name="region">Madrid</field>

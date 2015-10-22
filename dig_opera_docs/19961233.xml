@@ -3,13 +3,13 @@
 <field name="id">19961233</field>
 <field name="genre">Operas</field>
 <field name="title">Jetzt</field>
-<field name="titlesort">Jetzt</field>
+<field name="titleSort">Jetzt</field>
 <field name="composer">Mathis Nitschke</field>
-<field name="composersort">Nitschke, Mathis</field>
+<field name="composerSort">Nitschke, Mathis</field>
 <field name="year">2012</field>
 <field name="date">November 30, 2012</field>
 <field name="librettist">Jonas Lüscher</field>
-<field name="librettistsort">Lüscher, Jonas</field>
+<field name="librettistSort">Lüscher, Jonas</field>
 <field name="theater">Opéra Berlioz</field>
 <field name="city">Montpellier</field>
 <field name="region">Hérault</field>

@@ -3,13 +3,13 @@
 <field name="id">19961559</field>
 <field name="genre">Operas</field>
 <field name="title">Lillian Alling</field>
-<field name="titlesort">Lillian Alling</field>
+<field name="titleSort">Lillian Alling</field>
 <field name="composer">John Estacio</field>
-<field name="composersort">Estacio, John</field>
+<field name="composerSort">Estacio, John</field>
 <field name="year">2010</field>
 <field name="date">October 16, 2010</field>
 <field name="librettist">John Murrell</field>
-<field name="librettistsort">Murrell, John</field>
+<field name="librettistSort">Murrell, John</field>
 <field name="theater">Queen Elizabeth Theatre</field>
 <field name="city">Vancouver</field>
 <field name="region">British Columbia</field>

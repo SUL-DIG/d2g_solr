@@ -3,13 +3,13 @@
 <field name="id">19960160</field>
 <field name="genre">Operas</field>
 <field name="title">Andre Bygninger</field>
-<field name="titlesort">Andre Bygninger</field>
+<field name="titleSort">Andre Bygninger</field>
 <field name="composer">Andy Pape</field>
-<field name="composersort">Pape, Andy</field>
+<field name="composerSort">Pape, Andy</field>
 <field name="year">2015</field>
 <field name="date">April 24, 2015</field>
 <field name="librettist">Rasmus Zwicki</field>
-<field name="librettistsort">Zwicki, Rasmus</field>
+<field name="librettistSort">Zwicki, Rasmus</field>
 <field name="theater">Funen Opera</field>
 <field name="city">Odense</field>
 <field name="region">Syddanmark</field>

@@ -3,13 +3,13 @@
 <field name="id">19960854</field>
 <field name="genre">Operas</field>
 <field name="title">Falling Bodies</field>
-<field name="titlesort">Falling Bodies</field>
+<field name="titleSort">Falling Bodies</field>
 <field name="composer">Bruce Saylor</field>
-<field name="composersort">Saylor, Bruce</field>
+<field name="composerSort">Saylor, Bruce</field>
 <field name="year">2008</field>
 <field name="date">September 5, 2008</field>
 <field name="librettist">Jonathan Levi</field>
-<field name="librettistsort">Levi, Jonathan</field>
+<field name="librettistSort">Levi, Jonathan</field>
 <field name="theater">Certosa di San Giacomo</field>
 <field name="region">Capri</field>
 <field name="country">Italy</field>

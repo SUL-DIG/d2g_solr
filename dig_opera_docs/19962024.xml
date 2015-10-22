@@ -3,13 +3,13 @@
 <field name="id">19962024</field>
 <field name="genre">Operas</field>
 <field name="title">Pobeda nad solntsem (Victory over the Sun)</field>
-<field name="titlesort">Pobeda nad solntsem (Victory over the Sun)</field>
+<field name="titleSort">Pobeda nad solntsem (Victory over the Sun)</field>
 <field name="composer">Mikhail Vasilyevich Matyushin</field>
-<field name="composersort">Matyushin, Mikhail Vasilyevich</field>
+<field name="composerSort">Matyushin, Mikhail Vasilyevich</field>
 <field name="year">1913</field>
 <field name="date">December 3, 1913</field>
 <field name="librettist">Aleksey Eliseyevich Kruchenykh</field>
-<field name="librettistsort">Kruchenykh, Aleksey Eliseyevich</field>
+<field name="librettistSort">Kruchenykh, Aleksey Eliseyevich</field>
 <field name="theater">Luna Park Theater</field>
 <field name="city">St. Petersburg</field>
 <field name="country">Russia</field>

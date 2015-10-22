@@ -3,9 +3,9 @@
 <field name="id">19961885</field>
 <field name="genre">Operas</field>
 <field name="title">Okinawa monogatari</field>
-<field name="titlesort">Okinawa monogatari</field>
+<field name="titleSort">Okinawa monogatari</field>
 <field name="composer">Kikuko Kanai</field>
-<field name="composersort">Kanai, Kikuko</field>
+<field name="composerSort">Kanai, Kikuko</field>
 <field name="year">1997</field>
 <field name="date">June 1, 1997</field>
 <field name="theater">Metropolitan Festival Hall</field>

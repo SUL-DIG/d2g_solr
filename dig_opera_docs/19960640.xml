@@ -3,13 +3,13 @@
 <field name="id">19960640</field>
 <field name="genre">Operas</field>
 <field name="title">Die Mutter des Mörders</field>
-<field name="titlesort">Mutter des Mörders</field>
+<field name="titleSort">Mutter des Mörders</field>
 <field name="composer">Victor Fenigstein</field>
-<field name="composersort">Fenigstein, Victor</field>
+<field name="composerSort">Fenigstein, Victor</field>
 <field name="year">1989</field>
 <field name="date">December 2, 1989</field>
 <field name="librettist">Egon Erwin Kisch</field>
-<field name="librettistsort">Kisch, Egon Erwin</field>
+<field name="librettistSort">Kisch, Egon Erwin</field>
 <field name="theater">Kunsthalle</field>
 <field name="city">Bielefeld</field>
 <field name="region">Nordrhein-Westfallen</field>

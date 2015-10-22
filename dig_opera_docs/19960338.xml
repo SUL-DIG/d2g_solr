@@ -3,13 +3,13 @@
 <field name="id">19960338</field>
 <field name="genre">Operas</field>
 <field name="title">Bluthaus</field>
-<field name="titlesort">Bluthaus</field>
+<field name="titleSort">Bluthaus</field>
 <field name="composer">Georg Friedrich Haas</field>
-<field name="composersort">Haas, Georg Friedrich</field>
+<field name="composerSort">Haas, Georg Friedrich</field>
 <field name="year">2011</field>
 <field name="date">April 29, 2011</field>
 <field name="librettist">[Klaus Händl] Händl Klaus</field>
-<field name="librettistsort">Klaus, Händl [Klaus Händl]</field>
+<field name="librettistSort">Klaus, Händl [Klaus Händl]</field>
 <field name="theater">Schlosstheater</field>
 <field name="city">Schwetzingen</field>
 <field name="region">Baden-Württemberg</field>

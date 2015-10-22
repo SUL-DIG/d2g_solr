@@ -3,13 +3,13 @@
 <field name="id">19960756</field>
 <field name="genre">Operas</field>
 <field name="title">Ein Mond aus kochender Milch </field>
-<field name="titlesort">Mond aus kochender Milch </field>
+<field name="titleSort">Mond aus kochender Milch </field>
 <field name="composer">Camille Kerger</field>
-<field name="composersort">Kerger, Camille</field>
+<field name="composerSort">Kerger, Camille</field>
 <field name="year">2013</field>
 <field name="date">November 2, 2013</field>
 <field name="librettist">Nico Helmiger</field>
-<field name="librettistsort">Helmiger, Nico</field>
+<field name="librettistSort">Helmiger, Nico</field>
 <field name="theater">Pfalztheater</field>
 <field name="city">Kaiserslautern</field>
 <field name="region">Rheinland-Pfalz</field>

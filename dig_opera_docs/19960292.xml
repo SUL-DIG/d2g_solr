@@ -3,13 +3,13 @@
 <field name="id">19960292</field>
 <field name="genre">Operas</field>
 <field name="title">Beauty Intolerable</field>
-<field name="titlesort">Beauty Intolerable</field>
+<field name="titleSort">Beauty Intolerable</field>
 <field name="composer">Sheila Silver</field>
-<field name="composersort">Silver, Sheila</field>
+<field name="composerSort">Silver, Sheila</field>
 <field name="year">2013</field>
 <field name="date">June 8, 2013</field>
 <field name="librettist">Edna St. Vincent Millay</field>
-<field name="librettistsort">Millay, Edna St. Vincent</field>
+<field name="librettistSort">Millay, Edna St. Vincent</field>
 <field name="theater">First Presbyterian Church</field>
 <field name="city">Hudson</field>
 <field name="region">New York</field>

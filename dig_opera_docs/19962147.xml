@@ -3,13 +3,13 @@
 <field name="id">19962147</field>
 <field name="genre">Operas</field>
 <field name="title">Ricardo y Elena</field>
-<field name="titlesort">Ricardo y Elena</field>
+<field name="titleSort">Ricardo y Elena</field>
 <field name="composer">Carles Santos</field>
-<field name="composersort">Santos, Carles</field>
+<field name="composerSort">Santos, Carles</field>
 <field name="year">2000</field>
 <field name="date">March 15, 2000</field>
 <field name="librettist">Carles Santos</field>
-<field name="librettistsort">Santos, Carles</field>
+<field name="librettistSort">Santos, Carles</field>
 <field name="theater">Teatre Nacional de Catalunya</field>
 <field name="city">Barcelona</field>
 <field name="region">Catalunya</field>

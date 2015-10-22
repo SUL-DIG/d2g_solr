@@ -3,13 +3,13 @@
 <field name="id">19961453</field>
 <field name="genre">Operas</field>
 <field name="title">Laika</field>
-<field name="titlesort">Laika</field>
+<field name="titleSort">Laika</field>
 <field name="composer">Martijn Padding</field>
-<field name="composersort">Padding, Martijn</field>
+<field name="composerSort">Padding, Martijn</field>
 <field name="year">2014</field>
 <field name="date">June 3, 2014</field>
 <field name="librettist">Pieter Frans Thomése</field>
-<field name="librettistsort">Thomése, Pieter Frans</field>
+<field name="librettistSort">Thomése, Pieter Frans</field>
 <field name="theater">Stadsschouwburg</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>

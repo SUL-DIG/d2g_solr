@@ -3,13 +3,13 @@
 <field name="id">19962329</field>
 <field name="genre">Operas</field>
 <field name="title">Solity:d</field>
-<field name="titlesort">Solity:d</field>
+<field name="titleSort">Solity:d</field>
 <field name="composer">Perttu Haapanen</field>
-<field name="composersort">Haapanen, Perttu</field>
+<field name="composerSort">Haapanen, Perttu</field>
 <field name="year">2003</field>
 <field name="date">March 14, 2003</field>
 <field name="librettist">Christian Lindblad</field>
-<field name="librettistsort">Lindblad, Christian</field>
+<field name="librettistSort">Lindblad, Christian</field>
 <field name="theater">Amos Andersonin taidemuseo</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

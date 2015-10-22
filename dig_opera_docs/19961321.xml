@@ -3,13 +3,13 @@
 <field name="id">19961321</field>
 <field name="genre">Operas</field>
 <field name="title">Knight Crew</field>
-<field name="titlesort">Knight Crew</field>
+<field name="titleSort">Knight Crew</field>
 <field name="composer">Julian Philips</field>
-<field name="composersort">Philips, Julian</field>
+<field name="composerSort">Philips, Julian</field>
 <field name="year">2010</field>
 <field name="date">March 3, 2010</field>
 <field name="librettist">Nicky Singer</field>
-<field name="librettistsort">Singer, Nicky</field>
+<field name="librettistSort">Singer, Nicky</field>
 <field name="theater">Jerwood Studio</field>
 <field name="city">Glyndebourne</field>
 <field name="region">East Sussex</field>

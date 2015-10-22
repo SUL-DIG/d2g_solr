@@ -3,13 +3,13 @@
 <field name="id">19962897</field>
 <field name="genre">Operas</field>
 <field name="title">Tower</field>
-<field name="titlesort">Tower</field>
+<field name="titleSort">Tower</field>
 <field name="composer">Alun Hoddinott</field>
-<field name="composersort">Hoddinott, Alun</field>
+<field name="composerSort">Hoddinott, Alun</field>
 <field name="year">1999</field>
 <field name="date">October 23, 1999</field>
 <field name="librettist">John Owen</field>
-<field name="librettistsort">Owen, John</field>
+<field name="librettistSort">Owen, John</field>
 <field name="theater">Grand Theatre</field>
 <field name="city">Swansea</field>
 <field name="region">Wales</field>

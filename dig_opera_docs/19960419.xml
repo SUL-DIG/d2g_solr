@@ -3,13 +3,13 @@
 <field name="id">19960419</field>
 <field name="genre">Operas</field>
 <field name="title">Charlie Parker's Yardbird</field>
-<field name="titlesort">Charlie Parker's Yardbird</field>
+<field name="titleSort">Charlie Parker's Yardbird</field>
 <field name="composer">Daniel Schnyder</field>
-<field name="composersort">Schnyder, Daniel</field>
+<field name="composerSort">Schnyder, Daniel</field>
 <field name="year">2015</field>
 <field name="date">June 5, 2015</field>
 <field name="librettist">Bridgette Wimberly</field>
-<field name="librettistsort">Wimberly, Bridgette</field>
+<field name="librettistSort">Wimberly, Bridgette</field>
 <field name="theater">Perelman Theater, Kimmel Center</field>
 <field name="city">Philadelphia</field>
 <field name="region">Pennsylvania</field>

@@ -3,13 +3,13 @@
 <field name="id">19962796</field>
 <field name="genre">Operas</field>
 <field name="title">The Three Willies</field>
-<field name="titlesort">Three Willies</field>
+<field name="titleSort">Three Willies</field>
 <field name="composer">Leroy Jenkins</field>
-<field name="composersort">Jenkins, Leroy</field>
+<field name="composerSort">Jenkins, Leroy</field>
 <field name="year">1996</field>
 <field name="date">November 15, 1996</field>
 <field name="librettist">Homer Jackson</field>
-<field name="librettistsort">Jackson, Homer</field>
+<field name="librettistSort">Jackson, Homer</field>
 <field name="theater">Painted Bride Arts Center</field>
 <field name="city">Philadelphia</field>
 <field name="region">Pennsylvania</field>

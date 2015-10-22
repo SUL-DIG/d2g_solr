@@ -3,15 +3,15 @@
 <field name="id">19962278</field>
 <field name="genre">Operas</field>
 <field name="title">Shurismadziebeli (The Avenger)</field>
-<field name="titlesort">Shurismadziebeli (The Avenger)</field>
+<field name="titleSort">Shurismadziebeli (The Avenger)</field>
 <field name="composer">David Toradze</field>
-<field name="composersort">Toradze, David</field>
+<field name="composerSort">Toradze, David</field>
 <field name="year">1952</field>
 <field name="date">December 20, 1952</field>
 <field name="librettist">Petre Gruzinsky</field>
-<field name="librettistsort">Gruzinsky, Petre</field>
+<field name="librettistSort">Gruzinsky, Petre</field>
 <field name="librettist">G. Svani</field>
-<field name="librettistsort">Svani, G.</field>
+<field name="librettistSort">Svani, G.</field>
 <field name="city">Tbilisi</field>
 <field name="country">Georgia</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Shurismadziebeli+(The+Avenger)+David+Toradze&amp;search_field=search</field>

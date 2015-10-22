@@ -3,13 +3,13 @@
 <field name="id">19962407</field>
 <field name="genre">Operas</field>
 <field name="title">Swoon</field>
-<field name="titlesort">Swoon</field>
+<field name="titleSort">Swoon</field>
 <field name="composer">James Rolfe</field>
-<field name="composersort">Rolfe, James</field>
+<field name="composerSort">Rolfe, James</field>
 <field name="year">2006</field>
 <field name="date">December 5, 2006</field>
 <field name="librettist">Anna Chatterton</field>
-<field name="librettistsort">Chatterton, Anna</field>
+<field name="librettistSort">Chatterton, Anna</field>
 <field name="theater">Imperial Oil Opera Theatre</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

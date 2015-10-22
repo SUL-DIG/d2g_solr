@@ -3,13 +3,13 @@
 <field name="id">19960991</field>
 <field name="genre">Operas</field>
 <field name="title">Giuseppe e Sylvia</field>
-<field name="titlesort">Giuseppe e Sylvia</field>
+<field name="titleSort">Giuseppe e Sylvia</field>
 <field name="composer">Adriana Hölszky</field>
-<field name="composersort">Hölszky, Adriana</field>
+<field name="composerSort">Hölszky, Adriana</field>
 <field name="year">2007</field>
 <field name="date">November 17, 2007</field>
 <field name="librettist">Hans Neuenfels</field>
-<field name="librettistsort">Neuenfels, Hans</field>
+<field name="librettistSort">Neuenfels, Hans</field>
 <field name="theater">Württembergisches Staatsoper</field>
 <field name="city">Stuttgart</field>
 <field name="region">Baden-Württemberg</field>

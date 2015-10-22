@@ -3,13 +3,13 @@
 <field name="id">19962728</field>
 <field name="genre">Operas</field>
 <field name="title">The Satin Cloak</field>
-<field name="titlesort">Satin Cloak</field>
+<field name="titleSort">Satin Cloak</field>
 <field name="composer">Martin Halpern</field>
-<field name="composersort">Halpern, Martin</field>
+<field name="composerSort">Halpern, Martin</field>
 <field name="year">2001</field>
 <field name="date">June 22, 2001</field>
 <field name="librettist">Martin Halpern</field>
-<field name="librettistsort">Halpern, Martin</field>
+<field name="librettistSort">Halpern, Martin</field>
 <field name="theater">Operaworks</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

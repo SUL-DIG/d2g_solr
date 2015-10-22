@@ -3,13 +3,13 @@
 <field name="id">19961186</field>
 <field name="genre">Operas</field>
 <field name="title">Inês</field>
-<field name="titlesort">Inês</field>
+<field name="titleSort">Inês</field>
 <field name="composer">James Rolfe</field>
-<field name="composersort">Rolfe, James</field>
+<field name="composerSort">Rolfe, James</field>
 <field name="year">2009</field>
 <field name="date">February 22, 2009</field>
 <field name="librettist">Paul Bentley</field>
-<field name="librettistsort">Bentley, Paul</field>
+<field name="librettistSort">Bentley, Paul</field>
 <field name="theater">Harbourfront Centre</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

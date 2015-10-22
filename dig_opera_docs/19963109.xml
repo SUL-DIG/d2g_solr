@@ -3,13 +3,13 @@
 <field name="id">19963109</field>
 <field name="genre">Operas</field>
 <field name="title">Zoë</field>
-<field name="titlesort">Zoë</field>
+<field name="titleSort">Zoë</field>
 <field name="composer">John Lunn</field>
-<field name="composersort">Lunn, John</field>
+<field name="composerSort">Lunn, John</field>
 <field name="year">2000</field>
 <field name="date">March 1, 2000</field>
 <field name="librettist">Stephen Plaice</field>
-<field name="librettistsort">Plaice, Stephen</field>
+<field name="librettistSort">Plaice, Stephen</field>
 <field name="theater">Glyndebourne Festival Opera</field>
 <field name="city">Glyndebourne</field>
 <field name="region">East Sussex</field>

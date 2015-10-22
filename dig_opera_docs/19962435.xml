@@ -3,12 +3,12 @@
 <field name="id">19962435</field>
 <field name="genre">Operas</field>
 <field name="title">Terute to Oguri</field>
-<field name="titlesort">Terute to Oguri</field>
+<field name="titleSort">Terute to Oguri</field>
 <field name="composer">Minoru Miki</field>
-<field name="composersort">Miki, Minoru</field>
+<field name="composerSort">Miki, Minoru</field>
 <field name="year">1994</field>
 <field name="librettist">Asaya Fujita</field>
-<field name="librettistsort">Fujita, Asaya</field>
+<field name="librettistSort">Fujita, Asaya</field>
 <field name="theater">Art Creation Center</field>
 <field name="city">Nagoya</field>
 <field name="region">Aichi</field>

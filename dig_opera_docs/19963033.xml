@@ -3,13 +3,13 @@
 <field name="id">19963033</field>
 <field name="genre">Operas</field>
 <field name="title">Waiting for Miss Monroe</field>
-<field name="titlesort">Waiting for Miss Monroe</field>
+<field name="titleSort">Waiting for Miss Monroe</field>
 <field name="composer">Robin de Raaff</field>
-<field name="composersort">Raaff, Robin de</field>
+<field name="composerSort">Raaff, Robin de</field>
 <field name="year">2012</field>
 <field name="date">June 9, 2012</field>
 <field name="librettist">Janine Brogt</field>
-<field name="librettistsort">Brogt, Janine</field>
+<field name="librettistSort">Brogt, Janine</field>
 <field name="theater">Gashouder, Westergasfabriek</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>

@@ -3,13 +3,13 @@
 <field name="id">19962712</field>
 <field name="genre">Operas</field>
 <field name="title">The Rage of Life </field>
-<field name="titlesort">Rage of Life </field>
+<field name="titleSort">Rage of Life </field>
 <field name="composer">Elena Kats-Chernin</field>
-<field name="composersort">Kats-Chernin, Elena</field>
+<field name="composerSort">Kats-Chernin, Elena</field>
 <field name="year">2010</field>
 <field name="date">April 24, 2010</field>
 <field name="librettist">Igor Bauersima</field>
-<field name="librettistsort">Bauersima, Igor</field>
+<field name="librettistSort">Bauersima, Igor</field>
 <field name="theater">Troubleyn Laboratorium</field>
 <field name="city">Antwerp</field>
 <field name="region">Antwerpen</field>

@@ -3,13 +3,13 @@
 <field name="id">19960370</field>
 <field name="genre">Operas</field>
 <field name="title">Buchuland</field>
-<field name="titlesort">Buchuland</field>
+<field name="titleSort">Buchuland</field>
 <field name="composer">Roelof Temmingh</field>
-<field name="composersort">Temmingh, Roelof</field>
+<field name="composerSort">Temmingh, Roelof</field>
 <field name="year">1998</field>
 <field name="date">July 22, 1998</field>
 <field name="librettist">Michael Williams</field>
-<field name="librettistsort">Williams, Michael</field>
+<field name="librettistSort">Williams, Michael</field>
 <field name="theater">State Theatre</field>
 <field name="city">Pretoria</field>
 <field name="region">Gauteng</field>

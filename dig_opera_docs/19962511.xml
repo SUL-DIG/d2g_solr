@@ -3,13 +3,13 @@
 <field name="id">19962511</field>
 <field name="genre">Operas</field>
 <field name="title">The Directions</field>
-<field name="titlesort">Directions</field>
+<field name="titleSort">Directions</field>
 <field name="composer">Michael Torke</field>
-<field name="composersort">Torke, Michael</field>
+<field name="composerSort">Torke, Michael</field>
 <field name="year">1986</field>
 <field name="date">August 22, 1986</field>
 <field name="librettist">Michael Torke</field>
-<field name="librettistsort">Torke, Michael</field>
+<field name="librettistSort">Torke, Michael</field>
 <field name="theater">Moussikos Avgoustos Festival</field>
 <field name="city">Iráklion</field>
 <field name="region">Kriti</field>

@@ -3,13 +3,13 @@
 <field name="id">19961156</field>
 <field name="genre">Operas</field>
 <field name="title">Il giudizio universale</field>
-<field name="titlesort">giudizio universale</field>
+<field name="titleSort">giudizio universale</field>
 <field name="composer">Claudio Ambrosini</field>
-<field name="composersort">Ambrosini, Claudio</field>
+<field name="composerSort">Ambrosini, Claudio</field>
 <field name="year">1996</field>
 <field name="date">August 1, 1996</field>
 <field name="librettist">Claudio Ambrosini</field>
-<field name="librettistsort">Ambrosini, Claudio</field>
+<field name="librettistSort">Ambrosini, Claudio</field>
 <field name="theater">Parco Vitelli</field>
 <field name="city">Città di Castello</field>
 <field name="region">Perugia</field>

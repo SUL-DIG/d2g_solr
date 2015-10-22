@@ -3,13 +3,13 @@
 <field name="id">19960446</field>
 <field name="genre">Operas</field>
 <field name="title">Circus Universal</field>
-<field name="titlesort">Circus Universal</field>
+<field name="titleSort">Circus Universal</field>
 <field name="composer">Dimitri Tersakis</field>
-<field name="composersort">Tersakis, Dimitri</field>
+<field name="composerSort">Tersakis, Dimitri</field>
 <field name="year">1975</field>
 <field name="date">December 30, 1975</field>
 <field name="librettist">Angelos Terzakis</field>
-<field name="librettistsort">Terzakis, Angelos</field>
+<field name="librettistSort">Terzakis, Angelos</field>
 <field name="theater">Opernstudio</field>
 <field name="city">Kiel</field>
 <field name="region">Schleswig-Holstein</field>

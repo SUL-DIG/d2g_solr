@@ -3,13 +3,13 @@
 <field name="id">19962179</field>
 <field name="genre">Operas</field>
 <field name="title">Roope, poika joka ei uskaltanut pelätä</field>
-<field name="titlesort">Roope, poika joka ei uskaltanut pelätä</field>
+<field name="titleSort">Roope, poika joka ei uskaltanut pelätä</field>
 <field name="composer">Timo-Juhani Kyllönen</field>
-<field name="composersort">Kyllönen, Timo-Juhani</field>
+<field name="composerSort">Kyllönen, Timo-Juhani</field>
 <field name="year">2007</field>
 <field name="date">November 15, 2007</field>
 <field name="librettist">Leena Laulajainen</field>
-<field name="librettistsort">Laulajainen, Leena</field>
+<field name="librettistSort">Laulajainen, Leena</field>
 <field name="city">Vantaa</field>
 <field name="region">Uusimaa</field>
 <field name="country">Finland</field>

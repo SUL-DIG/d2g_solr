@@ -3,13 +3,13 @@
 <field name="id">19962498</field>
 <field name="genre">Operas</field>
 <field name="title">The Crackle</field>
-<field name="titlesort">Crackle</field>
+<field name="titleSort">Crackle</field>
 <field name="composer">Matthew Herbert</field>
-<field name="composersort">Herbert, Matthew</field>
+<field name="composerSort">Herbert, Matthew</field>
 <field name="year">2014</field>
 <field name="date">April 5, 2014</field>
 <field name="librettist">Matthew Herbert</field>
-<field name="librettistsort">Herbert, Matthew</field>
+<field name="librettistSort">Herbert, Matthew</field>
 <field name="theater">Linbury Studio, Royal Opera House</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

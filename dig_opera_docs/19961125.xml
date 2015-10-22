@@ -3,13 +3,13 @@
 <field name="id">19961125</field>
 <field name="genre">Operas</field>
 <field name="title">Hypermusic Prologue</field>
-<field name="titlesort">Hypermusic Prologue</field>
+<field name="titleSort">Hypermusic Prologue</field>
 <field name="composer">Héctor Parra</field>
-<field name="composersort">Parra, Héctor</field>
+<field name="composerSort">Parra, Héctor</field>
 <field name="year">2009</field>
 <field name="date">June 14, 2009</field>
 <field name="librettist">Lisa Randall</field>
-<field name="librettistsort">Randall, Lisa</field>
+<field name="librettistSort">Randall, Lisa</field>
 <field name="theater">Centre Georges Pompidou</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

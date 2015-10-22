@@ -3,13 +3,13 @@
 <field name="id">19962019</field>
 <field name="genre">Operas</field>
 <field name="title">Platform 10 (The Power of Literature)</field>
-<field name="titlesort">Platform 10 (The Power of Literature)</field>
+<field name="titleSort">Platform 10 (The Power of Literature)</field>
 <field name="composer">Julian Grant</field>
-<field name="composersort">Grant, Julian</field>
+<field name="composerSort">Grant, Julian</field>
 <field name="year">1999</field>
 <field name="date">August 26, 1999</field>
 <field name="librettist">Christina Jones</field>
-<field name="librettistsort">Jones, Christina</field>
+<field name="librettistSort">Jones, Christina</field>
 <field name="theater">Battersea Arts Centre</field>
 <field name="city">Battersea</field>
 <field name="region">Greater London</field>

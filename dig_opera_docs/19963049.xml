@@ -3,13 +3,13 @@
 <field name="id">19963049</field>
 <field name="genre">Operas</field>
 <field name="title">When the Sun Comes Out</field>
-<field name="titlesort">When the Sun Comes Out</field>
+<field name="titleSort">When the Sun Comes Out</field>
 <field name="composer">Leslie Uyeda</field>
-<field name="composersort">Uyeda, Leslie</field>
+<field name="composerSort">Uyeda, Leslie</field>
 <field name="year">2013</field>
 <field name="date">August 5, 2013</field>
 <field name="librettist">Rachel Rose</field>
-<field name="librettistsort">Rose, Rachel</field>
+<field name="librettistSort">Rose, Rachel</field>
 <field name="theater">Roundhouse Community Center, Yaletown</field>
 <field name="city">Vancouver</field>
 <field name="region">British Columbia</field>

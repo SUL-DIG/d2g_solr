@@ -3,13 +3,13 @@
 <field name="id">19961620</field>
 <field name="genre">Operas</field>
 <field name="title">Madame la Peste</field>
-<field name="titlesort">Madame la Peste</field>
+<field name="titleSort">Madame la Peste</field>
 <field name="composer">Gerhard Stäbler</field>
-<field name="composersort">Stäbler, Gerhard</field>
+<field name="composerSort">Stäbler, Gerhard</field>
 <field name="year">2002</field>
 <field name="date">April 26, 2002</field>
 <field name="librettist">Matthias Kaiser</field>
-<field name="librettistsort">Kaiser, Matthias</field>
+<field name="librettistSort">Kaiser, Matthias</field>
 <field name="theater">Deutsche Oper am Rhein</field>
 <field name="city">Duisburg</field>
 <field name="region">Nordrhein-Westfallen</field>

@@ -3,13 +3,13 @@
 <field name="id">19961342</field>
 <field name="genre">Operas</field>
 <field name="title">Kryos</field>
-<field name="titlesort">Kryos</field>
+<field name="titleSort">Kryos</field>
 <field name="composer">Jörn Arnecke</field>
-<field name="composersort">Arnecke, Jörn</field>
+<field name="composerSort">Arnecke, Jörn</field>
 <field name="year">2011</field>
 <field name="date">May 14, 2011</field>
 <field name="librettist">Hannah Dübgen</field>
-<field name="librettistsort">Dübgen, Hannah</field>
+<field name="librettistSort">Dübgen, Hannah</field>
 <field name="theater">Theater am Goetheplatz</field>
 <field name="city">Bremen</field>
 <field name="region">Bremen</field>

@@ -3,13 +3,13 @@
 <field name="id">19960992</field>
 <field name="genre">Operas</field>
 <field name="title">Glasmenagerie</field>
-<field name="titlesort">Glasmenagerie</field>
+<field name="titleSort">Glasmenagerie</field>
 <field name="composer">Antonio Bibalo</field>
-<field name="composersort">Bibalo, Antonio</field>
+<field name="composerSort">Bibalo, Antonio</field>
 <field name="year">1996</field>
 <field name="date">November 3, 1996</field>
 <field name="librettist">[Thomas Lanier Williams] Tennessee Williams</field>
-<field name="librettistsort">Williams, Tennessee [Thomas Lanier Williams] </field>
+<field name="librettistSort">Williams, Tennessee [Thomas Lanier Williams] </field>
 <field name="librettist">Williams, Tennessee</field>
 <field name="theater">Theater Trier</field>
 <field name="city">Trier</field>

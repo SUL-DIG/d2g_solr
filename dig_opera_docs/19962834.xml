@@ -3,13 +3,13 @@
 <field name="id">19962834</field>
 <field name="genre">Operas</field>
 <field name="title">The War Reporter</field>
-<field name="titlesort">War Reporter</field>
+<field name="titleSort">War Reporter</field>
 <field name="composer">Jonathan Berger</field>
-<field name="composersort">Berger, Jonathan </field>
+<field name="composerSort">Berger, Jonathan </field>
 <field name="year">2013</field>
 <field name="date">April 12, 2013</field>
 <field name="librettist">Dan O'Brien</field>
-<field name="librettistsort">O'Brien, Dan</field>
+<field name="librettistSort">O'Brien, Dan</field>
 <field name="theater">Stanford University</field>
 <field name="city">Stanford</field>
 <field name="region">California</field>

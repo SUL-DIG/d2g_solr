@@ -3,13 +3,13 @@
 <field name="id">19961914</field>
 <field name="genre">Operas</field>
 <field name="title">Orest</field>
-<field name="titlesort">Orest</field>
+<field name="titleSort">Orest</field>
 <field name="composer">Manfred Trojahn</field>
-<field name="composersort">Trojahn, Manfred</field>
+<field name="composerSort">Trojahn, Manfred</field>
 <field name="year">2011</field>
 <field name="date">December 8, 2011</field>
 <field name="librettist">Manfred Trojahn</field>
-<field name="librettistsort">Trojahn, Manfred</field>
+<field name="librettistSort">Trojahn, Manfred</field>
 <field name="theater">Muziektheater</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>

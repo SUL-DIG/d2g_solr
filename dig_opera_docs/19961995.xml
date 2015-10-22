@@ -3,13 +3,13 @@
 <field name="id">19961995</field>
 <field name="genre">Operas</field>
 <field name="title">Phoenix Park (A Poet's Journey)</field>
-<field name="titlesort">Phoenix Park (A Poet's Journey)</field>
+<field name="titleSort">Phoenix Park (A Poet's Journey)</field>
 <field name="composer">David Strickland</field>
-<field name="composersort">Strickland, David</field>
+<field name="composerSort">Strickland, David</field>
 <field name="year">2001</field>
 <field name="date">November 7, 2002</field>
 <field name="librettist">Ilsa Gilbert</field>
-<field name="librettistsort">Gilbert, Ilsa</field>
+<field name="librettistSort">Gilbert, Ilsa</field>
 <field name="theater">Theater for the New City</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

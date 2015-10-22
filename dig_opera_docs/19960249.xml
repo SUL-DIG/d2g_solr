@@ -3,12 +3,12 @@
 <field name="id">19960249</field>
 <field name="genre">Operas</field>
 <field name="title">Az utolsó stáció (The Last Station)</field>
-<field name="titlesort">utolsó stáció (The Last Station)</field>
+<field name="titleSort">utolsó stáció (The Last Station)</field>
 <field name="composer">Zoltán Pongrácz</field>
-<field name="composersort">Pongrácz, Zoltán</field>
+<field name="composerSort">Pongrácz, Zoltán</field>
 <field name="year">1989</field>
 <field name="librettist">Zoltán Pongrácz</field>
-<field name="librettistsort">Pongrácz, Zoltán</field>
+<field name="librettistSort">Pongrácz, Zoltán</field>
 <field name="theater">Nemzeti Színház</field>
 <field name="city">Szeged</field>
 <field name="region">Csongrád</field>

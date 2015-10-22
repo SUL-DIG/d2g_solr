@@ -3,13 +3,13 @@
 <field name="id">19961079</field>
 <field name="genre">Operas</field>
 <field name="title">Hetkinen (A Moment)</field>
-<field name="titlesort">Hetkinen (A Moment)</field>
+<field name="titleSort">Hetkinen (A Moment)</field>
 <field name="composer">Kirmo Lintinen</field>
-<field name="composersort">Lintinen, Kirmo</field>
+<field name="composerSort">Lintinen, Kirmo</field>
 <field name="year">2004</field>
 <field name="date">November 11, 2004</field>
 <field name="librettist">Liselott Forsman</field>
-<field name="librettistsort">Forsman, Liselott</field>
+<field name="librettistSort">Forsman, Liselott</field>
 <field name="theater">Kanneltalo</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

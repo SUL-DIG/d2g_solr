@@ -3,13 +3,13 @@
 <field name="id">19960972</field>
 <field name="genre">Operas</field>
 <field name="title">Genji monogatari (The Tale of Genji)</field>
-<field name="titlesort">Genji monogatari (The Tale of Genji)</field>
+<field name="titleSort">Genji monogatari (The Tale of Genji)</field>
 <field name="composer">Minoru Miki</field>
-<field name="composersort">Miki, Minoru</field>
+<field name="composerSort">Miki, Minoru</field>
 <field name="year">2000</field>
 <field name="date">June 15, 2000</field>
 <field name="librettist">Colin Graham</field>
-<field name="librettistsort">Graham, Colin</field>
+<field name="librettistSort">Graham, Colin</field>
 <field name="theater">Loretto-Hilton Theater</field>
 <field name="city">St. Louis</field>
 <field name="region">Missouri</field>

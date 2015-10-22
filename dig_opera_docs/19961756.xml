@@ -3,13 +3,13 @@
 <field name="id">19961756</field>
 <field name="genre">Operas</field>
 <field name="title">Monsieur de Balzac fait son théâtre</field>
-<field name="titlesort">Monsieur de Balzac fait son théâtre</field>
+<field name="titleSort">Monsieur de Balzac fait son théâtre</field>
 <field name="composer">Isabelle Aboulker</field>
-<field name="composersort">Aboulker, Isabelle</field>
+<field name="composerSort">Aboulker, Isabelle</field>
 <field name="year">1999</field>
 <field name="date">May 14, 1999</field>
 <field name="librettist">Rémi Laureillard</field>
-<field name="librettistsort">Laureillard, Rémi</field>
+<field name="librettistSort">Laureillard, Rémi</field>
 <field name="theater">Grand-Théâtre</field>
 <field name="city">Tours</field>
 <field name="region">Indre-et-Loire</field>

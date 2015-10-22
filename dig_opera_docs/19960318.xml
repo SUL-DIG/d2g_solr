@@ -3,13 +3,13 @@
 <field name="id">19960318</field>
 <field name="genre">Operas</field>
 <field name="title">Billy Blythe</field>
-<field name="titlesort">Billy Blythe</field>
+<field name="titleSort">Billy Blythe</field>
 <field name="composer">Bonnie Montgomery</field>
-<field name="composersort">Montgomery, Bonnie</field>
+<field name="composerSort">Montgomery, Bonnie</field>
 <field name="year">2011</field>
 <field name="date">June 19, 2011</field>
 <field name="librettist">Britt  Barber</field>
-<field name="librettistsort">Barber, Britt  </field>
+<field name="librettistSort">Barber, Britt  </field>
 <field name="theater">Medicine Show Theater</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

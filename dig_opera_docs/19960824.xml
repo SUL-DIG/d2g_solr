@@ -3,13 +3,13 @@
 <field name="id">19960824</field>
 <field name="genre">Operas</field>
 <field name="title">Euridice e Orfeo</field>
-<field name="titlesort">Euridice e Orfeo</field>
+<field name="titleSort">Euridice e Orfeo</field>
 <field name="composer">Mario Guido Scapucci</field>
-<field name="composersort">Scapucci, Mario Guido</field>
+<field name="composerSort">Scapucci, Mario Guido</field>
 <field name="year">2013</field>
 <field name="date">September 13, 2013</field>
 <field name="librettist">Gino Nappo</field>
-<field name="librettistsort">Nappo, Gino</field>
+<field name="librettistSort">Nappo, Gino</field>
 <field name="theater">Teatro Lirico Sperimentale "A. Belli"</field>
 <field name="city">Spoleto</field>
 <field name="region">Umbria</field>

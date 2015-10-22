@@ -3,9 +3,9 @@
 <field name="id">19960394</field>
 <field name="genre">Operas</field>
 <field name="title">Canzone dei luoghi comuni</field>
-<field name="titlesort">Canzone dei luoghi comuni</field>
+<field name="titleSort">Canzone dei luoghi comuni</field>
 <field name="composer">Cristian Carrara</field>
-<field name="composersort">Carrara, Cristian</field>
+<field name="composerSort">Carrara, Cristian</field>
 <field name="year">2014</field>
 <field name="date">September 12, 2014</field>
 <field name="theater">Teatro del Complesso Monumentale di San Nicolò</field>

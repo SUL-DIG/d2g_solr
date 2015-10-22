@@ -3,13 +3,13 @@
 <field name="id">19963025</field>
 <field name="genre">Operas</field>
 <field name="title">Voyager</field>
-<field name="titlesort">Voyager</field>
+<field name="titleSort">Voyager</field>
 <field name="composer">Sławomir Kupczak</field>
-<field name="composersort">Kupczak, Sławomir</field>
+<field name="composerSort">Kupczak, Sławomir</field>
 <field name="year">2015</field>
 <field name="date">May 22, 2015</field>
 <field name="librettist">Michal Borczuch</field>
-<field name="librettistsort">Borczuch, Michal</field>
+<field name="librettistSort">Borczuch, Michal</field>
 <field name="theater">Teatr Wielki</field>
 <field name="city">Warsaw</field>
 <field name="country">Poland</field>

@@ -3,13 +3,13 @@
 <field name="id">19961402</field>
 <field name="genre">Operas</field>
 <field name="title">La Fenice</field>
-<field name="titlesort">Fenice</field>
+<field name="titleSort">Fenice</field>
 <field name="composer">Kimmo Hakola</field>
-<field name="composersort">Hakola, Kimmo</field>
+<field name="composerSort">Hakola, Kimmo</field>
 <field name="year">2012</field>
 <field name="date">July 6, 2012</field>
 <field name="librettist">Juha-Pekka Hotinen</field>
-<field name="librettistsort">Hotinen, Juha-Pekka</field>
+<field name="librettistSort">Hotinen, Juha-Pekka</field>
 <field name="theater">Savonlinnan Ooperajuhlat</field>
 <field name="city">Savonlinna</field>
 <field name="region">Etelä-Savo</field>

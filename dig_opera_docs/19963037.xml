@@ -3,13 +3,13 @@
 <field name="id">19963037</field>
 <field name="genre">Operas</field>
 <field name="title">Wallenberg</field>
-<field name="titlesort">Wallenberg</field>
+<field name="titleSort">Wallenberg</field>
 <field name="composer">Erkki-Sven Tüür</field>
-<field name="composersort">Tüür, Erkki-Sven</field>
+<field name="composerSort">Tüür, Erkki-Sven</field>
 <field name="year">2007</field>
 <field name="date">June 1, 2007</field>
 <field name="librettist">Lutz Hübner</field>
-<field name="librettistsort">Hübner, Lutz</field>
+<field name="librettistSort">Hübner, Lutz</field>
 <field name="theater">Teatr Estoniya</field>
 <field name="city">Tallinn</field>
 <field name="region">Harju</field>

@@ -3,9 +3,9 @@
 <field name="id">19961292</field>
 <field name="genre">Operas</field>
 <field name="title">Kasandra</field>
-<field name="titlesort">Kasandra</field>
+<field name="titleSort">Kasandra</field>
 <field name="composer">Pavel Mihelcic</field>
-<field name="composersort">Mihelcic, Pavel</field>
+<field name="composerSort">Mihelcic, Pavel</field>
 <field name="year">2009</field>
 <field name="date">February 6, 2009</field>
 <field name="theater">Slovensko Narodno Gledalisce</field>

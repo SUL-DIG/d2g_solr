@@ -3,15 +3,15 @@
 <field name="id">19961866</field>
 <field name="genre">Operas</field>
 <field name="title">Ocean</field>
-<field name="titlesort">Ocean</field>
+<field name="titleSort">Ocean</field>
 <field name="composer">Danilo Švara</field>
-<field name="composersort">Švara, Danilo</field>
+<field name="composerSort">Švara, Danilo</field>
 <field name="year">1969</field>
 <field name="date">March 3, 1969</field>
 <field name="librettist">Danilo Švara</field>
-<field name="librettistsort">Švara, Danilo</field>
+<field name="librettistSort">Švara, Danilo</field>
 <field name="librettist">Leonid Nikolayevich Andreyev</field>
-<field name="librettistsort">Andreyev, Leonid Nikolayevich</field>
+<field name="librettistSort">Andreyev, Leonid Nikolayevich</field>
 <field name="city">Ljubljana</field>
 <field name="country">Slovenia</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ocean+Danilo+Švara&amp;search_field=search</field>

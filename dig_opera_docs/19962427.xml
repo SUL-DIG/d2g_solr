@@ -3,13 +3,13 @@
 <field name="id">19962427</field>
 <field name="genre">Operas</field>
 <field name="title">Tawawa House</field>
-<field name="titlesort">Tawawa House</field>
+<field name="titleSort">Tawawa House</field>
 <field name="composer">Zenobia Powell Perry</field>
-<field name="composersort">Perry, Zenobia Powell</field>
+<field name="composerSort">Perry, Zenobia Powell</field>
 <field name="year">2014</field>
 <field name="date">May 2, 2014</field>
 <field name="librettist">Zenobia Powell Perry</field>
-<field name="librettistsort">Perry, Zenobia Powell</field>
+<field name="librettistSort">Perry, Zenobia Powell</field>
 <field name="theater">Townsend Opera</field>
 <field name="city">Modesto</field>
 <field name="region">California</field>

@@ -3,13 +3,13 @@
 <field name="id">19960895</field>
 <field name="genre">Operas</field>
 <field name="title">Fitness</field>
-<field name="titlesort">Fitness</field>
+<field name="titleSort">Fitness</field>
 <field name="composer">Kirmo Lintinen</field>
-<field name="composersort">Lintinen, Kirmo</field>
+<field name="composerSort">Lintinen, Kirmo</field>
 <field name="year">2007</field>
 <field name="date">March 10, 2007</field>
 <field name="librettist">Veli-Pekka Hänninen</field>
-<field name="librettistsort">Hänninen, Veli-Pekka</field>
+<field name="librettistSort">Hänninen, Veli-Pekka</field>
 <field name="theater">Aleksanterin teatteri</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

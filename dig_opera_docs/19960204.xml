@@ -3,13 +3,13 @@
 <field name="id">19960204</field>
 <field name="genre">Operas</field>
 <field name="title">Arrest</field>
-<field name="titlesort">Arrest</field>
+<field name="titleSort">Arrest</field>
 <field name="composer">Dirk D'Ase</field>
-<field name="composersort">D'Ase, Dirk</field>
+<field name="composerSort">D'Ase, Dirk</field>
 <field name="year">2000</field>
 <field name="date">October 23, 2000</field>
 <field name="librettist">Pavel Landovsky</field>
-<field name="librettistsort">Landovsky, Pavel</field>
+<field name="librettistSort">Landovsky, Pavel</field>
 <field name="theater">Neue Oper Wien</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

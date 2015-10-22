@@ -3,13 +3,13 @@
 <field name="id">19962526</field>
 <field name="genre">Operas</field>
 <field name="title">The Early Earth Operas</field>
-<field name="titlesort">Early Earth Operas</field>
+<field name="titleSort">Early Earth Operas</field>
 <field name="composer">John Browne</field>
-<field name="composersort">Browne, John</field>
+<field name="composerSort">Browne, John</field>
 <field name="year">2004</field>
 <field name="date">June 28, 2004</field>
 <field name="librettist">Jane Buckler</field>
-<field name="librettistsort">Buckler, Jane</field>
+<field name="librettistSort">Buckler, Jane</field>
 <field name="theater">Coliseum</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

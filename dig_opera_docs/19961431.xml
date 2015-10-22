@@ -3,13 +3,13 @@
 <field name="id">19961431</field>
 <field name="genre">Operas</field>
 <field name="title">La pantera imperial</field>
-<field name="titlesort">pantera imperial</field>
+<field name="titleSort">pantera imperial</field>
 <field name="composer">Carles Santos</field>
-<field name="composersort">Santos, Carles</field>
+<field name="composerSort">Santos, Carles</field>
 <field name="year">1997</field>
 <field name="date">August 13, 1997</field>
 <field name="librettist">Carles Santos</field>
-<field name="librettistsort">Santos, Carles</field>
+<field name="librettistSort">Santos, Carles</field>
 <field name="theater">Castillo de Peralada</field>
 <field name="city">Peralada</field>
 <field name="region">Catalunya</field>

@@ -3,13 +3,13 @@
 <field name="id">19962749</field>
 <field name="genre">Operas</field>
 <field name="title">The Selfish Giant</field>
-<field name="titlesort">Selfish Giant</field>
+<field name="titleSort">Selfish Giant</field>
 <field name="composer">Mervyn Burtch</field>
-<field name="composersort">Burtch, Mervyn</field>
+<field name="composerSort">Burtch, Mervyn</field>
 <field name="year">1969</field>
 <field name="date">December 25, 1969</field>
 <field name="librettist">Oscar Wilde</field>
-<field name="librettistsort">Wilde, Oscar</field>
+<field name="librettistSort">Wilde, Oscar</field>
 <field name="theater">BBC Wales Television (British Broadcasting Corporation)</field>
 <field name="city">Cardiff</field>
 <field name="region">Wales</field>

@@ -3,12 +3,12 @@
 <field name="id">19960018</field>
 <field name="genre">Operas</field>
 <field name="title">A Call to Arms</field>
-<field name="titlesort">Call to Arms</field>
+<field name="titleSort">Call to Arms</field>
 <field name="composer">Benjamin C. S. Boyle</field>
-<field name="composersort">Boyle, Benjamin C. S.</field>
+<field name="composerSort">Boyle, Benjamin C. S.</field>
 <field name="year">1999</field>
 <field name="librettist">Roger Brunyate</field>
-<field name="librettistsort">Brunyate, Roger</field>
+<field name="librettistSort">Brunyate, Roger</field>
 <field name="theater">Peabody Conservatory</field>
 <field name="city">Baltimore</field>
 <field name="region">Maryland</field>

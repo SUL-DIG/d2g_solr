@@ -3,13 +3,13 @@
 <field name="id">19960889</field>
 <field name="genre">Operas</field>
 <field name="title">Fireworks</field>
-<field name="titlesort">Fireworks</field>
+<field name="titleSort">Fireworks</field>
 <field name="composer">Kitty Brazelton</field>
-<field name="composersort">Brazelton, Kitty</field>
+<field name="composerSort">Brazelton, Kitty</field>
 <field name="year">2002</field>
 <field name="date">July 2, 2002</field>
 <field name="librettist">Billy Aronson</field>
-<field name="librettistsort">Aronson, Billy</field>
+<field name="librettistSort">Aronson, Billy</field>
 <field name="theater">Fort Greene Park, Brooklyn</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

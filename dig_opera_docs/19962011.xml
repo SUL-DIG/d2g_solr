@@ -3,13 +3,13 @@
 <field name="id">19962011</field>
 <field name="genre">Operas</field>
 <field name="title">Pilger und Fuchs</field>
-<field name="titlesort">Pilger und Fuchs</field>
+<field name="titleSort">Pilger und Fuchs</field>
 <field name="composer">Jost Meier</field>
-<field name="composersort">Meier, Jost</field>
+<field name="composerSort">Meier, Jost</field>
 <field name="year">1995</field>
 <field name="date">March 1, 1995</field>
 <field name="librettist">Hansjörg Schneider</field>
-<field name="librettistsort">Schneider, Hansjörg</field>
+<field name="librettistSort">Schneider, Hansjörg</field>
 <field name="theater">Theatre Biel/Solothurn</field>
 <field name="city">Biel</field>
 <field name="region">Bern</field>

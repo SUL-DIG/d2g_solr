@@ -3,14 +3,14 @@
 <field name="id">19960767</field>
 <field name="genre">Operas</field>
 <field name="title">El delfín de Corubicí</field>
-<field name="titlesort">delfín de Corubicí</field>
+<field name="titleSort">delfín de Corubicí</field>
 <field name="composer">Andrés Saborío Bejarano</field>
-<field name="composersort">Saborío Bejarano, Andrés</field>
+<field name="composerSort">Saborío Bejarano, Andrés</field>
 <field name="year">1993</field>
 <field name="librettist">Ricardo Dobles</field>
-<field name="librettistsort">Dobles, Ricardo</field>
+<field name="librettistSort">Dobles, Ricardo</field>
 <field name="librettist">Anastasio Alfaro</field>
-<field name="librettistsort">Alfaro, Anastasio</field>
+<field name="librettistSort">Alfaro, Anastasio</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=delfín+de+Corubicí+Andrés+Saborío+Bejarano&amp;search_field=search</field>
 </doc>
 </add>

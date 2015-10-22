@@ -3,13 +3,13 @@
 <field name="id">19960153</field>
 <field name="genre">Operas</field>
 <field name="title">Anacleto Morones</field>
-<field name="titlesort">Anacleto Morones</field>
+<field name="titleSort">Anacleto Morones</field>
 <field name="composer">Victor Rasgado</field>
-<field name="composersort">Rasgado, Victor</field>
+<field name="composerSort">Rasgado, Victor</field>
 <field name="year">1994</field>
 <field name="date">September 9, 1994</field>
 <field name="librettist">Juan Rulfo</field>
-<field name="librettistsort">Rulfo, Juan</field>
+<field name="librettistSort">Rulfo, Juan</field>
 <field name="theater">Teatro Caio Melisso</field>
 <field name="city">Spoleto</field>
 <field name="region">Umbria</field>

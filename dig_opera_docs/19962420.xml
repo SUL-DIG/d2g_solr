@@ -3,9 +3,9 @@
 <field name="id">19962420</field>
 <field name="genre">Operas</field>
 <field name="title">Tamerlane</field>
-<field name="titlesort">Tamerlane</field>
+<field name="titleSort">Tamerlane</field>
 <field name="composer">Aleksandr Vladimirovich Chaykovsky</field>
-<field name="composersort">Chaykovsky, Aleksandr Vladimirovich</field>
+<field name="composerSort">Chaykovsky, Aleksandr Vladimirovich</field>
 <field name="year">2011</field>
 <field name="date">July 1, 2011</field>
 <field name="theater">Bystraya Sosna Riverbanks</field>

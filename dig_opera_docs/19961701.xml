@@ -3,13 +3,13 @@
 <field name="id">19961701</field>
 <field name="genre">Operas</field>
 <field name="title">Med kniven på strupen</field>
-<field name="titlesort">Med kniven på strupen</field>
+<field name="titleSort">Med kniven på strupen</field>
 <field name="composer">Bertil Palmar Johansen</field>
-<field name="composersort">Johansen, Bertil Palmar</field>
+<field name="composerSort">Johansen, Bertil Palmar</field>
 <field name="year">2010</field>
 <field name="date">February 1, 2010</field>
 <field name="librettist">Vigdis Hjorth</field>
-<field name="librettistsort">Hjorth, Vigdis</field>
+<field name="librettistSort">Hjorth, Vigdis</field>
 <field name="theater">Operaen i Kristiansund</field>
 <field name="city">Kristiansund</field>
 <field name="region">Møre og Romsdal</field>

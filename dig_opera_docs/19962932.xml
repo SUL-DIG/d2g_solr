@@ -3,13 +3,13 @@
 <field name="id">19962932</field>
 <field name="genre">Operas</field>
 <field name="title">Twice Through the Heart</field>
-<field name="titlesort">Twice Through the Heart</field>
+<field name="titleSort">Twice Through the Heart</field>
 <field name="composer">Mark-Anthony Turnage</field>
-<field name="composersort">Turnage, Mark-Anthony</field>
+<field name="composerSort">Turnage, Mark-Anthony</field>
 <field name="year">1997</field>
 <field name="date">June 13, 1997</field>
 <field name="librettist">Jackie Kay</field>
-<field name="librettistsort">Kay, Jackie</field>
+<field name="librettistSort">Kay, Jackie</field>
 <field name="theater">The Maltings</field>
 <field name="city">Snape</field>
 <field name="region">Suffolk</field>

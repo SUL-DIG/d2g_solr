@@ -3,13 +3,13 @@
 <field name="id">19961921</field>
 <field name="genre">Operas</field>
 <field name="title">Orpheus and Eurydice</field>
-<field name="titlesort">Orpheus and Eurydice</field>
+<field name="titleSort">Orpheus and Eurydice</field>
 <field name="composer">James Rolfe</field>
-<field name="composersort">Rolfe, James</field>
+<field name="composerSort">Rolfe, James</field>
 <field name="year">2004</field>
 <field name="date">May 13, 2004</field>
 <field name="librettist">André Alexis</field>
-<field name="librettistsort">Alexis, André</field>
+<field name="librettistSort">Alexis, André</field>
 <field name="theater">Toronto Masque Theatre</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

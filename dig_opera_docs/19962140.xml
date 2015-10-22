@@ -3,13 +3,13 @@
 <field name="id">19962140</field>
 <field name="genre">Oratorio</field>
 <field name="title">Requiem for Metin Altıok</field>
-<field name="titlesort">Requiem for Metin Altıok</field>
+<field name="titleSort">Requiem for Metin Altıok</field>
 <field name="composer">Fazıl Say</field>
-<field name="composersort">Say, Fazıl</field>
+<field name="composerSort">Say, Fazıl</field>
 <field name="year">2003</field>
 <field name="date">July 2, 2003</field>
 <field name="librettist">Metin Altıok</field>
-<field name="librettistsort">Altıok, Metin</field>
+<field name="librettistSort">Altıok, Metin</field>
 <field name="theater">Istanbul Music Festival</field>
 <field name="city">Istanbul</field>
 <field name="country">Turkey</field>

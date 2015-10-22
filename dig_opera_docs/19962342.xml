@@ -3,13 +3,13 @@
 <field name="id">19962342</field>
 <field name="genre">Operas</field>
 <field name="title">Space Opera</field>
-<field name="titlesort">Space Opera</field>
+<field name="titleSort">Space Opera</field>
 <field name="composer">David Bass</field>
-<field name="composersort">Bass, David</field>
+<field name="composerSort">Bass, David</field>
 <field name="year">1999</field>
 <field name="date">May 1, 1999</field>
 <field name="librettist">David Bass</field>
-<field name="librettistsort">Bass, David</field>
+<field name="librettistSort">Bass, David</field>
 <field name="theater">North Cambridge All Arts Open Studio</field>
 <field name="city">Cambridge</field>
 <field name="region">Massachusetts</field>

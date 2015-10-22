@@ -3,13 +3,13 @@
 <field name="id">19960396</field>
 <field name="genre">Operas</field>
 <field name="title">Caravaggio</field>
-<field name="titlesort">Caravaggio</field>
+<field name="titleSort">Caravaggio</field>
 <field name="composer">Suzanne Giraud</field>
-<field name="composersort">Giraud, Suzanne</field>
+<field name="composerSort">Giraud, Suzanne</field>
 <field name="year">2012</field>
 <field name="date">April 6, 2012</field>
 <field name="librettist">Dominique Fernandez</field>
-<field name="librettistsort">Fernandez, Dominique</field>
+<field name="librettistSort">Fernandez, Dominique</field>
 <field name="theater">Opéra</field>
 <field name="city">Metz</field>
 <field name="region">Moselle</field>

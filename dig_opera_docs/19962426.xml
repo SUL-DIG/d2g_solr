@@ -3,13 +3,13 @@
 <field name="id">19962426</field>
 <field name="genre">Operas</field>
 <field name="title">Tattooed Tongues</field>
-<field name="titlesort">Tattooed Tongues</field>
+<field name="titleSort">Tattooed Tongues</field>
 <field name="composer">Martijn Padding</field>
-<field name="composersort">Padding, Martijn</field>
+<field name="composerSort">Padding, Martijn</field>
 <field name="year">2001</field>
 <field name="date">September 23, 2001</field>
 <field name="librettist">Friso Haverkamp</field>
-<field name="librettistsort">Haverkamp, Friso</field>
+<field name="librettistSort">Haverkamp, Friso</field>
 <field name="theater">Teatr Wielki</field>
 <field name="city">Warsaw</field>
 <field name="country">Poland</field>

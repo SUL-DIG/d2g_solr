@@ -3,13 +3,13 @@
 <field name="id">19962312</field>
 <field name="genre">Operas</field>
 <field name="title">Slaying the Dragon</field>
-<field name="titlesort">Slaying the Dragon</field>
+<field name="titleSort">Slaying the Dragon</field>
 <field name="composer">Michael Ching</field>
-<field name="composersort">Ching, Michael</field>
+<field name="composerSort">Ching, Michael</field>
 <field name="year">2012</field>
 <field name="date">June 7, 2012</field>
 <field name="librettist">Ellen Frankel</field>
-<field name="librettistsort">Frankel, Ellen</field>
+<field name="librettistSort">Frankel, Ellen</field>
 <field name="theater">Prince Music Theater</field>
 <field name="city">Philadelphia</field>
 <field name="region">Pennsylvania</field>

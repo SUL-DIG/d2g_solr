@@ -3,13 +3,13 @@
 <field name="id">19961939</field>
 <field name="genre">Operas</field>
 <field name="title">Out of the Rain</field>
-<field name="titlesort">Out of the Rain</field>
+<field name="titleSort">Out of the Rain</field>
 <field name="composer">Michael Ching</field>
-<field name="composersort">Ching, Michael</field>
+<field name="composerSort">Ching, Michael</field>
 <field name="year">1998</field>
 <field name="date">September 25, 1998</field>
 <field name="librettist">Hugh Moffatt</field>
-<field name="librettistsort">Moffatt, Hugh</field>
+<field name="librettistSort">Moffatt, Hugh</field>
 <field name="theater">Grand Opera House</field>
 <field name="city">Wilmington</field>
 <field name="region">Delaware</field>

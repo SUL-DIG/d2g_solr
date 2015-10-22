@@ -3,12 +3,12 @@
 <field name="id">19960883</field>
 <field name="genre">Operas</field>
 <field name="title">Figasantosfagotrop</field>
-<field name="titlesort">Figasantosfagotrop</field>
+<field name="titleSort">Figasantosfagotrop</field>
 <field name="composer">Carles Santos</field>
-<field name="composersort">Santos, Carles</field>
+<field name="composerSort">Santos, Carles</field>
 <field name="year">1996</field>
 <field name="librettist">Carles Santos</field>
-<field name="librettistsort">Santos, Carles</field>
+<field name="librettistSort">Santos, Carles</field>
 <field name="theater">Poliorama</field>
 <field name="city">Barcelona</field>
 <field name="region">Catalunya</field>

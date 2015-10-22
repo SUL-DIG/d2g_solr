@@ -3,12 +3,12 @@
 <field name="id">19961949</field>
 <field name="genre">Operas</field>
 <field name="title">Pacificia</field>
-<field name="titlesort">Pacificia</field>
+<field name="titleSort">Pacificia</field>
 <field name="composer">Erich Walter Sternberg</field>
-<field name="composersort">Sternberg, Erich Walter</field>
+<field name="composerSort">Sternberg, Erich Walter</field>
 <field name="year">1939</field>
 <field name="librettist">Renate Alsberg Hunter</field>
-<field name="librettistsort">Hunter, Renate Alsberg</field>
+<field name="librettistSort">Hunter, Renate Alsberg</field>
 <field name="city">Jerusalem</field>
 <field name="country">Israel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pacificia+Erich+Walter+Sternberg&amp;search_field=search</field>

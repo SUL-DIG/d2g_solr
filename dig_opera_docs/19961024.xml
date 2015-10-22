@@ -3,13 +3,13 @@
 <field name="id">19961024</field>
 <field name="genre">Operas</field>
 <field name="title">Guest from the Future</field>
-<field name="titlesort">Guest from the Future</field>
+<field name="titleSort">Guest from the Future</field>
 <field name="composer">Mel Marvin</field>
-<field name="composersort">Marvin, Mel</field>
+<field name="composerSort">Marvin, Mel</field>
 <field name="year">2004</field>
 <field name="date">July 23, 2004</field>
 <field name="librettist">Jonathan Levi</field>
-<field name="librettistsort">Levi, Jonathan</field>
+<field name="librettistSort">Levi, Jonathan</field>
 <field name="theater">Bard College</field>
 <field name="city">Annandale-on-Hudson</field>
 <field name="region">New York</field>

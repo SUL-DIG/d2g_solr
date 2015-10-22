@@ -3,13 +3,13 @@
 <field name="id">19962394</field>
 <field name="genre">Operas</field>
 <field name="title">Suomalainen Tapiiri (The Finnish Tapir)</field>
-<field name="titlesort">Suomalainen Tapiiri (The Finnish Tapir)</field>
+<field name="titleSort">Suomalainen Tapiiri (The Finnish Tapir)</field>
 <field name="composer">Jouko Linjama</field>
-<field name="composersort">Linjama, Jouko</field>
+<field name="composerSort">Linjama, Jouko</field>
 <field name="year">2004</field>
 <field name="date">March 3, 2004</field>
 <field name="librettist">Esko-Pekka Tiitinen</field>
-<field name="librettistsort">Tiitinen, Esko-Pekka</field>
+<field name="librettistSort">Tiitinen, Esko-Pekka</field>
 <field name="theater">Suomen Kansallisooppera Alminsali</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

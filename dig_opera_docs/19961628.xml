@@ -3,13 +3,13 @@
 <field name="id">19961628</field>
 <field name="genre">Operas</field>
 <field name="title">Mae Naak </field>
-<field name="titlesort">Mae Naak </field>
+<field name="titleSort">Mae Naak </field>
 <field name="composer">Somtow Sucharitkul</field>
-<field name="composersort">Sucharitkul, Somtow</field>
+<field name="composerSort">Sucharitkul, Somtow</field>
 <field name="year">2003</field>
 <field name="date">January 6, 2003</field>
 <field name="librettist">Somtow Sucharitkul</field>
-<field name="librettistsort">Sucharitkul, Somtow</field>
+<field name="librettistSort">Sucharitkul, Somtow</field>
 <field name="theater">Thailand Cultural Center</field>
 <field name="city">Bangkok</field>
 <field name="country">Thailand</field>

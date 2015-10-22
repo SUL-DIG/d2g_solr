@@ -3,13 +3,13 @@
 <field name="id">19960477</field>
 <field name="genre">Operas</field>
 <field name="title">Cue 67</field>
-<field name="titlesort">Cue 67</field>
+<field name="titleSort">Cue 67</field>
 <field name="composer">Michael Ching</field>
-<field name="composersort">Ching, Michael</field>
+<field name="composerSort">Ching, Michael</field>
 <field name="year">1992</field>
 <field name="date">January 24, 1992</field>
 <field name="librettist">Sandra Bernhard</field>
-<field name="librettistsort">Bernhard, Sandra</field>
+<field name="librettistSort">Bernhard, Sandra</field>
 <field name="theater">Center Theater</field>
 <field name="city">Norfolk</field>
 <field name="region">Virginia</field>

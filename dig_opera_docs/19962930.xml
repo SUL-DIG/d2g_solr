@@ -3,13 +3,13 @@
 <field name="id">19962930</field>
 <field name="genre">Operas</field>
 <field name="title">Twee is te weinig, drie is te veel</field>
-<field name="titlesort">Twee is te weinig, drie is te veel</field>
+<field name="titleSort">Twee is te weinig, drie is te veel</field>
 <field name="composer">Louis de Meester</field>
-<field name="composersort">Meester, Louis de</field>
+<field name="composerSort">Meester, Louis de</field>
 <field name="year">1966</field>
 <field name="date">September 1, 1966</field>
 <field name="librettist">Tone Brulin</field>
-<field name="librettistsort">Brulin, Tone</field>
+<field name="librettistSort">Brulin, Tone</field>
 <field name="theater">Belgian Television (Radio Télévision Belge)</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>

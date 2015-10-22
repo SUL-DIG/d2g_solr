@@ -3,13 +3,13 @@
 <field name="id">19961809</field>
 <field name="genre">Operas</field>
 <field name="title">Natura viva</field>
-<field name="titlesort">Natura viva</field>
+<field name="titleSort">Natura viva</field>
 <field name="composer">Marco Betta</field>
-<field name="composersort">Betta, Marco</field>
+<field name="composerSort">Betta, Marco</field>
 <field name="year">2010</field>
 <field name="date">June 15, 2010</field>
 <field name="librettist">Ruggero Cappuccio</field>
-<field name="librettistsort">Cappuccio, Ruggero</field>
+<field name="librettistSort">Cappuccio, Ruggero</field>
 <field name="theater">Teatro Comunale</field>
 <field name="city">Florence</field>
 <field name="region">Toscana</field>

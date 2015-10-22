@@ -3,13 +3,13 @@
 <field name="id">19961522</field>
 <field name="genre">Operas</field>
 <field name="title">Les boulingrin</field>
-<field name="titlesort">boulingrin</field>
+<field name="titleSort">boulingrin</field>
 <field name="composer">Georges Aperghis</field>
-<field name="composersort">Aperghis, Georges</field>
+<field name="composerSort">Aperghis, Georges</field>
 <field name="year">2010</field>
 <field name="date">May 12, 2010</field>
 <field name="librettist">Georges Courteline</field>
-<field name="librettistsort">Courteline, Georges</field>
+<field name="librettistSort">Courteline, Georges</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

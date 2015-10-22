@@ -3,13 +3,13 @@
 <field name="id">19962257</field>
 <field name="genre">Operas</field>
 <field name="title">Seven Tons of Dung</field>
-<field name="titlesort">Seven Tons of Dung</field>
+<field name="titleSort">Seven Tons of Dung</field>
 <field name="composer">David Bruce</field>
-<field name="composersort">Bruce, David</field>
+<field name="composerSort">Bruce, David</field>
 <field name="year">1999</field>
 <field name="date">August 26, 1999</field>
 <field name="librettist">Bill Bankes-Jones</field>
-<field name="librettistsort">Bankes-Jones, Bill</field>
+<field name="librettistSort">Bankes-Jones, Bill</field>
 <field name="theater">Battersea Arts Centre</field>
 <field name="city">Battersea</field>
 <field name="region">Greater London</field>

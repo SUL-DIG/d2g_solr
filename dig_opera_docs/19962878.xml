@@ -3,13 +3,13 @@
 <field name="id">19962878</field>
 <field name="genre">Operas</field>
 <field name="title">Timberbrit</field>
-<field name="titlesort">Timberbrit</field>
+<field name="titleSort">Timberbrit</field>
 <field name="composer">Jacob Cooper</field>
-<field name="composersort">Cooper, Jacob  </field>
+<field name="composerSort">Cooper, Jacob  </field>
 <field name="year">2008</field>
 <field name="date">August 16, 2008</field>
 <field name="librettist">Yuka Igarashi</field>
-<field name="librettistsort">Igarashi, Yuka</field>
+<field name="librettistSort">Igarashi, Yuka</field>
 <field name="theater">The Tank</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

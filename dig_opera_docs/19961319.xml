@@ -3,13 +3,13 @@
 <field name="id">19961319</field>
 <field name="genre">Operas</field>
 <field name="title">Klytemnestra</field>
-<field name="titlesort">Klytemnestra</field>
+<field name="titleSort">Klytemnestra</field>
 <field name="composer">Dominick DiOrio</field>
-<field name="composersort">DiOrio, Dominick</field>
+<field name="composerSort">DiOrio, Dominick</field>
 <field name="year">2011</field>
 <field name="date">April 15, 2011</field>
 <field name="librettist">Misha Penton</field>
-<field name="librettistsort">Penton, Misha</field>
+<field name="librettistSort">Penton, Misha</field>
 <field name="theater">Divergence Vocal Theater</field>
 <field name="city">Houston</field>
 <field name="region">Texas</field>

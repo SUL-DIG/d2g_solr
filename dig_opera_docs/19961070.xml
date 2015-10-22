@@ -3,13 +3,13 @@
 <field name="id">19961070</field>
 <field name="genre">Operas</field>
 <field name="title">Hemligheter</field>
-<field name="titlesort">Hemligheter</field>
+<field name="titleSort">Hemligheter</field>
 <field name="composer">Jonas Forssell</field>
-<field name="composersort">Forssell, Jonas</field>
+<field name="composerSort">Forssell, Jonas</field>
 <field name="year">2011</field>
 <field name="date">February 12, 2011</field>
 <field name="librettist">Magnus Florin</field>
-<field name="librettistsort">Florin, Magnus</field>
+<field name="librettistSort">Florin, Magnus</field>
 <field name="theater">Malmö Opera och Musikteater</field>
 <field name="city">Malmö</field>
 <field name="region">Skåne</field>

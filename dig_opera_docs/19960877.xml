@@ -3,13 +3,13 @@
 <field name="id">19960877</field>
 <field name="genre">Operas</field>
 <field name="title">Feng Yi Ting</field>
-<field name="titlesort">Feng Yi Ting</field>
+<field name="titleSort">Feng Yi Ting</field>
 <field name="composer">Guo Wenjing</field>
-<field name="composersort">Wenjing, Guo</field>
+<field name="composerSort">Wenjing, Guo</field>
 <field name="year">2004</field>
 <field name="date">March 6, 2004</field>
 <field name="librettist">Guo Wenjing</field>
-<field name="librettistsort">Guo Wenjing</field>
+<field name="librettistSort">Guo Wenjing</field>
 <field name="theater">Concertgebouw</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>

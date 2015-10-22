@@ -3,13 +3,13 @@
 <field name="id">19962771</field>
 <field name="genre">Operas</field>
 <field name="title">The Song of Rhiannon</field>
-<field name="titlesort">Song of Rhiannon</field>
+<field name="titleSort">Song of Rhiannon</field>
 <field name="composer">Mark Bowden</field>
-<field name="composersort">Bowden, Mark</field>
+<field name="composerSort">Bowden, Mark</field>
 <field name="year">2008</field>
 <field name="date">December 5, 2008</field>
 <field name="librettist">Helen Cooper</field>
-<field name="librettistsort">Cooper, Helen</field>
+<field name="librettistSort">Cooper, Helen</field>
 <field name="theater">Riverside Studios</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

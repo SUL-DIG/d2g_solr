@@ -3,13 +3,13 @@
 <field name="id">19961938</field>
 <field name="genre">Operas</field>
 <field name="title">Out Cold</field>
-<field name="titlesort">Out Cold</field>
+<field name="titleSort">Out Cold</field>
 <field name="composer">Phil Kline</field>
-<field name="composersort">Kline, Phil</field>
+<field name="composerSort">Kline, Phil</field>
 <field name="year">2012</field>
 <field name="date">October 25, 2012</field>
 <field name="librettist">Phil Kline</field>
-<field name="librettistsort">Kline, Phil</field>
+<field name="librettistSort">Kline, Phil</field>
 <field name="theater">Brooklyn Academy of Music</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

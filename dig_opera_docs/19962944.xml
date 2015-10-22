@@ -3,12 +3,12 @@
 <field name="id">19962944</field>
 <field name="genre">Operas</field>
 <field name="title">Ulysses and the Wooden Horse</field>
-<field name="titlesort">Ulysses and the Wooden Horse</field>
+<field name="titleSort">Ulysses and the Wooden Horse</field>
 <field name="composer">Timothy Kraemer</field>
-<field name="composersort">Kraemer, Timothy</field>
+<field name="composerSort">Kraemer, Timothy</field>
 <field name="year">1987</field>
 <field name="librettist">Timothy Kraemer</field>
-<field name="librettistsort">Kraemer, Timothy</field>
+<field name="librettistSort">Kraemer, Timothy</field>
 <field name="theater">W11 Opera</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

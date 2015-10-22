@@ -3,13 +3,13 @@
 <field name="id">19962570</field>
 <field name="genre">Operas</field>
 <field name="title">The Glass Armonica</field>
-<field name="titlesort">Glass Armonica</field>
+<field name="titleSort">Glass Armonica</field>
 <field name="composer">Garry Eister</field>
-<field name="composersort">Eister, Garry</field>
+<field name="composerSort">Eister, Garry</field>
 <field name="year">1997</field>
 <field name="date">August 1, 1997</field>
 <field name="librettist">Garry Eister</field>
-<field name="librettistsort">Eister, Garry</field>
+<field name="librettistSort">Eister, Garry</field>
 <field name="theater">Mozart Festival</field>
 <field name="city">San Luis Obispo</field>
 <field name="region">California</field>

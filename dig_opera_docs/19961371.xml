@@ -3,13 +3,13 @@
 <field name="id">19961371</field>
 <field name="genre">Operas</field>
 <field name="title">L'opéra de la lune</field>
-<field name="titlesort">opéra de la lune</field>
+<field name="titleSort">opéra de la lune</field>
 <field name="composer">Brice Pauset</field>
-<field name="composersort">Pauset, Brice</field>
+<field name="composerSort">Pauset, Brice</field>
 <field name="year">2012</field>
 <field name="date">May 12, 2012</field>
 <field name="librettist">Jacques Prévert</field>
-<field name="librettistsort">Prévert, Jacques</field>
+<field name="librettistSort">Prévert, Jacques</field>
 <field name="theater">Grand-Théâtre</field>
 <field name="city">Dijon</field>
 <field name="region">Côtes-d'Or</field>

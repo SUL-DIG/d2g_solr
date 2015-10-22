@@ -3,12 +3,12 @@
 <field name="id">19961884</field>
 <field name="genre">Operas</field>
 <field name="title">Oïna o Príncipe Ossian</field>
-<field name="titlesort">Oïna o Príncipe Ossian</field>
+<field name="titleSort">Oïna o Príncipe Ossian</field>
 <field name="composer">Julián Carrillo</field>
-<field name="composersort">Carrillo, Julián</field>
+<field name="composerSort">Carrillo, Julián</field>
 <field name="year">1902</field>
 <field name="librettist">Henri Albert</field>
-<field name="librettistsort">Albert, Henri</field>
+<field name="librettistSort">Albert, Henri</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>
 <field name="country">Belgium</field>

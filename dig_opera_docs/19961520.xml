@@ -3,13 +3,13 @@
 <field name="id">19961520</field>
 <field name="genre">Operas</field>
 <field name="title">Leprechaun</field>
-<field name="titlesort">Leprechaun</field>
+<field name="titleSort">Leprechaun</field>
 <field name="composer">Richard Bunger Evans</field>
-<field name="composersort">Evans, Richard Bunger</field>
+<field name="composerSort">Evans, Richard Bunger</field>
 <field name="year">2007</field>
 <field name="date">July 27, 2007</field>
 <field name="librettist">Mark Cleary</field>
-<field name="librettistsort">Cleary, Mark</field>
+<field name="librettistSort">Cleary, Mark</field>
 <field name="theater">Bohemian Grove</field>
 <field name="city">Sonoma County</field>
 <field name="region">California</field>

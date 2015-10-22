@@ -3,13 +3,13 @@
 <field name="id">19962307</field>
 <field name="genre">Operas</field>
 <field name="title">Skriftestolen (Confessional)</field>
-<field name="titlesort">Skriftestolen (Confessional)</field>
+<field name="titleSort">Skriftestolen (Confessional)</field>
 <field name="composer">Niels Marthinsen</field>
-<field name="composersort">Marthinsen, Niels</field>
+<field name="composerSort">Marthinsen, Niels</field>
 <field name="year">2005</field>
 <field name="date">February 2, 2005</field>
 <field name="librettist">Kertin Perski</field>
-<field name="librettistsort">Perski, Kertin</field>
+<field name="librettistSort">Perski, Kertin</field>
 <field name="theater">Den Jyske Opera</field>
 <field name="city">Århus</field>
 <field name="region">Midtjylland</field>

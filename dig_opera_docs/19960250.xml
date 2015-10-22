@@ -3,9 +3,9 @@
 <field name="id">19960250</field>
 <field name="genre">Operas</field>
 <field name="title">Azad (Free)</field>
-<field name="titlesort">Azad (Free)</field>
+<field name="titleSort">Azad (Free)</field>
 <field name="composer">Jahangir Jahangirov</field>
-<field name="composersort">Jahangirov, Jahangir</field>
+<field name="composerSort">Jahangirov, Jahangir</field>
 <field name="year">1957</field>
 <field name="date">November 29, 1957</field>
 <field name="theater">Azerbaijanskiy Akademicheskiy Teatr Operï i Baleta imeni M. F. Akhundova</field>

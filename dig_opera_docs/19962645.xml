@@ -3,13 +3,13 @@
 <field name="id">19962645</field>
 <field name="genre">Operas</field>
 <field name="title">The Martyrs</field>
-<field name="titlesort">Martyrs</field>
+<field name="titleSort">Martyrs</field>
 <field name="composer">Thomas Pasatieri</field>
-<field name="composersort">Pasatieri, Thomas</field>
+<field name="composerSort">Pasatieri, Thomas</field>
 <field name="year">2012</field>
 <field name="date">November 8, 2012</field>
 <field name="librettist">Daphne Malfitano</field>
-<field name="librettistsort">Malfitano, Daphne</field>
+<field name="librettistSort">Malfitano, Daphne</field>
 <field name="theater">Dicapo Opera Theater</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

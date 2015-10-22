@@ -3,9 +3,9 @@
 <field name="id">19961073</field>
 <field name="genre">Operas</field>
 <field name="title">Herrengedeck</field>
-<field name="titlesort">Herrengedeck</field>
+<field name="titleSort">Herrengedeck</field>
 <field name="composer">Ariane Müller</field>
-<field name="composersort">Müller, Ariane</field>
+<field name="composerSort">Müller, Ariane</field>
 <field name="year">2013</field>
 <field name="date">January 11, 2013</field>
 <field name="theater">Theater der Stadt</field>

@@ -3,9 +3,9 @@
 <field name="id">19962618</field>
 <field name="genre">Operas</field>
 <field name="title">The Legend of Marietta</field>
-<field name="titlesort">Legend of Marietta</field>
+<field name="titleSort">Legend of Marietta</field>
 <field name="composer">Mabel Wheeler Daniels</field>
-<field name="composersort">Daniels, Mabel Wheeler</field>
+<field name="composerSort">Daniels, Mabel Wheeler</field>
 <field name="year">1909</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Legend+of+Marietta+Mabel+Wheeler+Daniels&amp;search_field=search</field>

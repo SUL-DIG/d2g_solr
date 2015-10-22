@@ -3,13 +3,13 @@
 <field name="id">19961471</field>
 <field name="genre">Operas</field>
 <field name="title">Le Beatitudini</field>
-<field name="titlesort">Beatitudini</field>
+<field name="titleSort">Beatitudini</field>
 <field name="composer">Giampaolo Coral</field>
-<field name="composersort">Coral, Giampaolo</field>
+<field name="composerSort">Coral, Giampaolo</field>
 <field name="year">1975</field>
 <field name="date">June 30, 1975</field>
 <field name="librettist">Ennio Emili</field>
-<field name="librettistsort">Emili, Ennio</field>
+<field name="librettistSort">Emili, Ennio</field>
 <field name="theater">RAI Television (Radiotelevisione Italiana)</field>
 <field name="city">Trieste</field>
 <field name="region">Friuli-Venezia Giulia</field>

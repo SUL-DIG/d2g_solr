@@ -3,12 +3,12 @@
 <field name="id">19960059</field>
 <field name="genre">Operas</field>
 <field name="title">A Time of Miracles</field>
-<field name="titlesort">Time of Miracles</field>
+<field name="titleSort">Time of Miracles</field>
 <field name="composer">Richard Harvey</field>
-<field name="composersort">Harvey, Richard</field>
+<field name="composerSort">Harvey, Richard</field>
 <field name="year">1991</field>
 <field name="librettist">John Kane</field>
-<field name="librettistsort">Kane, John</field>
+<field name="librettistSort">Kane, John</field>
 <field name="theater">W11 Opera</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

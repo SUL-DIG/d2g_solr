@@ -3,13 +3,13 @@
 <field name="id">19961065</field>
 <field name="genre">Operas</field>
 <field name="title">Helen of Braemore</field>
-<field name="titlesort">Helen of Braemore</field>
+<field name="titleSort">Helen of Braemore</field>
 <field name="composer">Edward McGuire</field>
-<field name="composersort">McGuire, Edward</field>
+<field name="composerSort">McGuire, Edward</field>
 <field name="year">1996</field>
 <field name="date">September 10, 1996</field>
 <field name="librettist">Peter Isaac</field>
-<field name="librettistsort">Isaac, Peter</field>
+<field name="librettistSort">Isaac, Peter</field>
 <field name="theater">Northlands Festival</field>
 <field name="city">Wick</field>
 <field name="region">Scotland</field>

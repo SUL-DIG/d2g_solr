@@ -3,13 +3,13 @@
 <field name="id">19962986</field>
 <field name="genre">Operas</field>
 <field name="title">Veľká doktorská rozprávka (Big Doctor's Fairy Tale)</field>
-<field name="titlesort">Veľká doktorská rozprávka (Big Doctor's Fairy Tale)</field>
+<field name="titleSort">Veľká doktorská rozprávka (Big Doctor's Fairy Tale)</field>
 <field name="composer">Milan Dubovský</field>
-<field name="composersort">Dubovský, Milan</field>
+<field name="composerSort">Dubovský, Milan</field>
 <field name="year">2012</field>
 <field name="date">December 6, 2012</field>
 <field name="librettist">Jela Krčméry-Vrtelová</field>
-<field name="librettistsort">Krčméry-Vrtelová, Jela</field>
+<field name="librettistSort">Krčméry-Vrtelová, Jela</field>
 <field name="theater">Slovenské Narodné Divadlo</field>
 <field name="city">Bratislava</field>
 <field name="country">Slovakia</field>

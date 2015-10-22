@@ -3,13 +3,13 @@
 <field name="id">19960893</field>
 <field name="genre">Operas</field>
 <field name="title">Fiskeren</field>
-<field name="titlesort">Fiskeren</field>
+<field name="titleSort">Fiskeren</field>
 <field name="composer">Hjalmar Borgstrøm</field>
-<field name="composersort">Borgstrøm, Hjalmar</field>
+<field name="composerSort">Borgstrøm, Hjalmar</field>
 <field name="year">2003</field>
 <field name="date">March 15, 2003</field>
 <field name="librettist">Hjalmar Borgstrøm</field>
-<field name="librettistsort">Borgstrøm, Hjalmar</field>
+<field name="librettistSort">Borgstrøm, Hjalmar</field>
 <field name="theater">Olavshallen</field>
 <field name="city">Trondheim</field>
 <field name="region">Sør-Trøndelag</field>

@@ -3,13 +3,13 @@
 <field name="id">19960293</field>
 <field name="genre">Operas</field>
 <field name="title">Bebe Dom o La Ciudad Planet</field>
-<field name="titlesort">Bebe Dom o La Ciudad Planet</field>
+<field name="titleSort">Bebe Dom o La Ciudad Planet</field>
 <field name="composer">Mario Perusso</field>
-<field name="composersort">Perusso, Mario</field>
+<field name="composerSort">Perusso, Mario</field>
 <field name="year">2013</field>
 <field name="date">October 22, 2013</field>
 <field name="librettist">Horacio Ferrer</field>
-<field name="librettistsort">Ferrer, Horacio</field>
+<field name="librettistSort">Ferrer, Horacio</field>
 <field name="theater">Teatro Colón</field>
 <field name="city">Buenos Aires</field>
 <field name="region">Buenos Aires</field>

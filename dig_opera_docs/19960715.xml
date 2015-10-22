@@ -3,13 +3,13 @@
 <field name="id">19960715</field>
 <field name="genre">Operas</field>
 <field name="title">Dream President</field>
-<field name="titlesort">Dream President</field>
+<field name="titleSort">Dream President</field>
 <field name="composer">Jennifer Griffith</field>
-<field name="composersort">Griffith, Jennifer</field>
+<field name="composerSort">Griffith, Jennifer</field>
 <field name="year">2008</field>
 <field name="date">April 17, 2008</field>
 <field name="librettist">Jennifer Griffith</field>
-<field name="librettistsort">Griffith, Jennifer</field>
+<field name="librettistSort">Griffith, Jennifer</field>
 <field name="theater">Zipper Factory</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

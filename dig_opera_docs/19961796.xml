@@ -3,13 +3,13 @@
 <field name="id">19961796</field>
 <field name="genre">Operas</field>
 <field name="title">Näktergalen</field>
-<field name="titlesort">Näktergalen</field>
+<field name="titleSort">Näktergalen</field>
 <field name="composer">Inger Wikström</field>
-<field name="composersort">Wikström, Inger</field>
+<field name="composerSort">Wikström, Inger</field>
 <field name="year">2005</field>
 <field name="date">September 17, 2005</field>
 <field name="librettist">Hans Christian Andersen</field>
-<field name="librettistsort">Andersen, Hans Christian</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
 <field name="theater">Ulriksdal Slott-Teatern</field>
 <field name="city">Solna</field>
 <field name="region">Stockholm</field>

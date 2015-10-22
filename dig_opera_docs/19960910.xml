@@ -3,13 +3,13 @@
 <field name="id">19960910</field>
 <field name="genre">Operas</field>
 <field name="title">Forever Valley</field>
-<field name="titlesort">Forever Valley</field>
+<field name="titleSort">Forever Valley</field>
 <field name="composer">Gérard Pesson</field>
-<field name="composersort">Pesson, Gérard</field>
+<field name="composerSort">Pesson, Gérard</field>
 <field name="year">2000</field>
 <field name="date">May 25, 2000</field>
 <field name="librettist">Marie Redonnet</field>
-<field name="librettistsort">Redonnet, Marie</field>
+<field name="librettistSort">Redonnet, Marie</field>
 <field name="theater">Théâtre des Amandiers</field>
 <field name="city">Nanterre</field>
 <field name="region">Yvelines</field>

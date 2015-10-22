@@ -3,9 +3,9 @@
 <field name="id">19961720</field>
 <field name="genre">Operas</field>
 <field name="title">Metamorphosen des Ovid</field>
-<field name="titlesort">Metamorphosen des Ovid</field>
+<field name="titleSort">Metamorphosen des Ovid</field>
 <field name="composer">Dieter Schnebel</field>
-<field name="composersort">Schnebel, Dieter</field>
+<field name="composerSort">Schnebel, Dieter</field>
 <field name="year">2010</field>
 <field name="date">May 12, 2010</field>
 <field name="theater">Museum TwentseWelle</field>

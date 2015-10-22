@@ -3,9 +3,9 @@
 <field name="id">19961839</field>
 <field name="genre">Operas</field>
 <field name="title">Nocturno</field>
-<field name="titlesort">Nocturno</field>
+<field name="titleSort">Nocturno</field>
 <field name="composer">Georg Friedrich Haas</field>
-<field name="composersort">Haas, Georg Friedrich</field>
+<field name="composerSort">Haas, Georg Friedrich</field>
 <field name="year">2013</field>
 <field name="date">March 23, 2013</field>
 <field name="theater">Bundeskunsthalle</field>

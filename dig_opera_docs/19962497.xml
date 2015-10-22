@@ -3,13 +3,13 @@
 <field name="id">19962497</field>
 <field name="genre">Operas</field>
 <field name="title">The Cows of Apollo or The Invention of Music</field>
-<field name="titlesort">Cows of Apollo or The Invention of Music</field>
+<field name="titleSort">Cows of Apollo or The Invention of Music</field>
 <field name="composer">Christopher Theofanidis</field>
-<field name="composersort">Theofanidis, Christopher</field>
+<field name="composerSort">Theofanidis, Christopher</field>
 <field name="year">2001</field>
 <field name="date">December 14, 2001</field>
 <field name="librettist">William M. Hoffman</field>
-<field name="librettistsort">Hoffman, William M.</field>
+<field name="librettistSort">Hoffman, William M.</field>
 <field name="theater">Brooklyn Academy of Music</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

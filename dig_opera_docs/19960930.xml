@@ -3,13 +3,13 @@
 <field name="id">19960930</field>
 <field name="genre">Operas</field>
 <field name="title">Fröhliche Wissenschaft</field>
-<field name="titlesort">Fröhliche Wissenschaft</field>
+<field name="titleSort">Fröhliche Wissenschaft</field>
 <field name="composer">Jury Everhartz</field>
-<field name="composersort">Everhartz, Jury</field>
+<field name="composerSort">Everhartz, Jury</field>
 <field name="year">2007</field>
 <field name="date">March 24, 2007</field>
 <field name="librettist">Günter Rupp</field>
-<field name="librettistsort">Rupp, Günter</field>
+<field name="librettistSort">Rupp, Günter</field>
 <field name="theater">Jugendstiltheater</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

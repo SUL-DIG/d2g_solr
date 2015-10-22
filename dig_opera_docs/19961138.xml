@@ -3,13 +3,13 @@
 <field name="id">19961138</field>
 <field name="genre">Operas</field>
 <field name="title">I Will Wait</field>
-<field name="titlesort">I Will Wait</field>
+<field name="titleSort">I Will Wait</field>
 <field name="composer">Arif Mardin</field>
-<field name="composersort">Mardin, Arif</field>
+<field name="composerSort">Mardin, Arif</field>
 <field name="year">1998</field>
 <field name="date">June 19, 1998</field>
 <field name="librettist">Arif Mardin</field>
-<field name="librettistsort">Mardin, Arif</field>
+<field name="librettistSort">Mardin, Arif</field>
 <field name="theater">Salon Theater</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

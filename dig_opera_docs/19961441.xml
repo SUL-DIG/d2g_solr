@@ -3,12 +3,12 @@
 <field name="id">19961441</field>
 <field name="genre">Operas</field>
 <field name="title">La Proserpina rapita</field>
-<field name="titlesort">Proserpina rapita</field>
+<field name="titleSort">Proserpina rapita</field>
 <field name="composer">Pompeo Colonna, principe de Gallicano</field>
-<field name="composersort">Gallicano, Pompeo Colonna, principe de</field>
+<field name="composerSort">Gallicano, Pompeo Colonna, principe de</field>
 <field name="year">1645</field>
 <field name="librettist">Ottaviano Castelli</field>
-<field name="librettistsort">Castelli, Ottaviano</field>
+<field name="librettistSort">Castelli, Ottaviano</field>
 <field name="theater">Palazzo Colonna</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>

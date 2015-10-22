@@ -3,13 +3,13 @@
 <field name="id">19962716</field>
 <field name="genre">Operas</field>
 <field name="title">The Raven King</field>
-<field name="titlesort">Raven King</field>
+<field name="titleSort">Raven King</field>
 <field name="composer">Mervyn Burtch</field>
-<field name="composersort">Burtch, Mervyn</field>
+<field name="composerSort">Burtch, Mervyn</field>
 <field name="year">1999</field>
 <field name="date">July 6, 1999</field>
 <field name="librettist">Mark Morris</field>
-<field name="librettistsort">Morris, Mark</field>
+<field name="librettistSort">Morris, Mark</field>
 <field name="theater">Blackwood Miners' Institute</field>
 <field name="city">Caerphilly</field>
 <field name="region">Wales</field>

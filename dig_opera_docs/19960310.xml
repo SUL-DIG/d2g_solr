@@ -3,13 +3,13 @@
 <field name="id">19960310</field>
 <field name="genre">Operas</field>
 <field name="title">Beuys</field>
-<field name="titlesort">Beuys</field>
+<field name="titleSort">Beuys</field>
 <field name="composer">Franz Hummel</field>
-<field name="composersort">Hummel, Franz</field>
+<field name="composerSort">Hummel, Franz</field>
 <field name="year">1998</field>
 <field name="date">May 27, 1998</field>
 <field name="librettist">Elisabeth Gutjahr</field>
-<field name="librettistsort">Gutjahr, Elisabeth</field>
+<field name="librettistSort">Gutjahr, Elisabeth</field>
 <field name="theater">Deutsche Oper am Rhein</field>
 <field name="city">Düsseldorf</field>
 <field name="region">Nordrhein-Westfallen</field>

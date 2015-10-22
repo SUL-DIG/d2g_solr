@@ -3,13 +3,13 @@
 <field name="id">19960944</field>
 <field name="genre">Operas</field>
 <field name="title">Gaddafi: A Living Myth</field>
-<field name="titlesort">Gaddafi: A Living Myth</field>
+<field name="titleSort">Gaddafi: A Living Myth</field>
 <field name="composer">Steve Chandra Savale</field>
-<field name="composersort">Chandra Savale, Steve</field>
+<field name="composerSort">Chandra Savale, Steve</field>
 <field name="year">2006</field>
 <field name="date">September 7, 2006</field>
 <field name="librettist">Shan Khan</field>
-<field name="librettistsort">Khan, Shan</field>
+<field name="librettistSort">Khan, Shan</field>
 <field name="theater">Coliseum</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

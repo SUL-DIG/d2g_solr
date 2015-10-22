@@ -3,13 +3,13 @@
 <field name="id">19962315</field>
 <field name="genre">Operas</field>
 <field name="title">Slow Man</field>
-<field name="titlesort">Slow Man</field>
+<field name="titleSort">Slow Man</field>
 <field name="composer">Nicholas Lens</field>
-<field name="composersort">Lens, Nicholas</field>
+<field name="composerSort">Lens, Nicholas</field>
 <field name="year">2012</field>
 <field name="date">July 5, 2012</field>
 <field name="librettist">John Maxwell Coetzee</field>
-<field name="librettistsort">Coetzee, John Maxwell</field>
+<field name="librettistSort">Coetzee, John Maxwell</field>
 <field name="theater">Teatr Wielki</field>
 <field name="city">Poznan</field>
 <field name="region">Wielkopolskie</field>

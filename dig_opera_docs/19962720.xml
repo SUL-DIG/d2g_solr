@@ -3,12 +3,12 @@
 <field name="id">19962720</field>
 <field name="genre">Operas</field>
 <field name="title">The Return of Odysseus</field>
-<field name="titlesort">Return of Odysseus</field>
+<field name="titleSort">Return of Odysseus</field>
 <field name="composer">David Bedford</field>
-<field name="composersort">Bedford, David</field>
+<field name="composerSort">Bedford, David</field>
 <field name="year">1988</field>
 <field name="librettist">David Bedford</field>
-<field name="librettistsort">Bedford, David</field>
+<field name="librettistSort">Bedford, David</field>
 <field name="theater">W11 Opera</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

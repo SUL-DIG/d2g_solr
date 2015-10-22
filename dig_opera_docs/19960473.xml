@@ -3,13 +3,13 @@
 <field name="id">19960473</field>
 <field name="genre">Operas</field>
 <field name="title">Critical Mass</field>
-<field name="titlesort">Critical Mass</field>
+<field name="titleSort">Critical Mass</field>
 <field name="composer">Orlando Gough</field>
-<field name="composersort">Gough, Orlando</field>
+<field name="composerSort">Gough, Orlando</field>
 <field name="year">2007</field>
 <field name="date">July 21, 2007</field>
 <field name="librettist">Orlando Gough</field>
-<field name="librettistsort">Gough, Orlando</field>
+<field name="librettistSort">Gough, Orlando</field>
 <field name="theater">Almeida Theatre</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

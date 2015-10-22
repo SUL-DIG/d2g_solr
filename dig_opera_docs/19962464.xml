@@ -3,13 +3,13 @@
 <field name="id">19962464</field>
 <field name="genre">Operas</field>
 <field name="title">The Blind Girl</field>
-<field name="titlesort">Blind Girl</field>
+<field name="titleSort">Blind Girl</field>
 <field name="composer">Scott Huston</field>
-<field name="composersort">Huston, Scott</field>
+<field name="composerSort">Huston, Scott</field>
 <field name="year">1988</field>
 <field name="date">February 13, 1988</field>
 <field name="librettist">Dan Bredemann  </field>
-<field name="librettistsort">Bredemann, Dan</field>
+<field name="librettistSort">Bredemann, Dan</field>
 <field name="theater">University of Cincinnati</field>
 <field name="city">Cincinnati</field>
 <field name="region">Ohio</field>

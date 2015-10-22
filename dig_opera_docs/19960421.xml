@@ -3,13 +3,13 @@
 <field name="id">19960421</field>
 <field name="genre">Operas</field>
 <field name="title">Charon</field>
-<field name="titlesort">Charon</field>
+<field name="titleSort">Charon</field>
 <field name="composer">Scott Perkins</field>
-<field name="composersort">Perkins, Scott</field>
+<field name="composerSort">Perkins, Scott</field>
 <field name="year">2012</field>
 <field name="date">November 19, 2012</field>
 <field name="librettist">Nat Cassidy</field>
-<field name="librettistsort">Cassidy, Nat</field>
+<field name="librettistSort">Cassidy, Nat</field>
 <field name="theater">Kennedy Center</field>
 <field name="city">Washington</field>
 <field name="region">District of Columbia</field>

@@ -3,13 +3,13 @@
 <field name="id">19962429</field>
 <field name="genre">Operas</field>
 <field name="title">Te craindre en ton absence</field>
-<field name="titlesort">Te craindre en ton absence</field>
+<field name="titleSort">Te craindre en ton absence</field>
 <field name="composer">Héctor Parra</field>
-<field name="composersort">Parra, Héctor</field>
+<field name="composerSort">Parra, Héctor</field>
 <field name="year">2014</field>
 <field name="date">March 4, 2014</field>
 <field name="librettist">Marie NDiaye</field>
-<field name="librettistsort">NDiaye, Marie</field>
+<field name="librettistSort">NDiaye, Marie</field>
 <field name="theater">Théatre des Bouffes du Nord</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

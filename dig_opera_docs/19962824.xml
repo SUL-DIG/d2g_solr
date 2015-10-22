@@ -3,13 +3,13 @@
 <field name="id">19962824</field>
 <field name="genre">Operas</field>
 <field name="title">The Vision of Perpetua</field>
-<field name="titlesort">Vision of Perpetua</field>
+<field name="titleSort">Vision of Perpetua</field>
 <field name="composer">Victor Kioulaphides</field>
-<field name="composersort">Kioulaphides, Victor</field>
+<field name="composerSort">Kioulaphides, Victor</field>
 <field name="year">2004</field>
 <field name="date">June 1, 2004</field>
 <field name="librettist">Jeremy Black</field>
-<field name="librettistsort">Black, Jeremy</field>
+<field name="librettistSort">Black, Jeremy</field>
 <field name="theater">University Settlement</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

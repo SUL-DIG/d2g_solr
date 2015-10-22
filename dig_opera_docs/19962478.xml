@@ -3,13 +3,13 @@
 <field name="id">19962478</field>
 <field name="genre">Operas</field>
 <field name="title">The Captivation of Eunice Williams</field>
-<field name="titlesort">Captivation of Eunice Williams</field>
+<field name="titleSort">Captivation of Eunice Williams</field>
 <field name="composer">Paula Kimper</field>
-<field name="composersort">Kimper, Paula</field>
+<field name="composerSort">Kimper, Paula</field>
 <field name="year">2004</field>
 <field name="date">July 1, 2004</field>
 <field name="librettist">Harley Erdman</field>
-<field name="librettistsort">Erdman, Harley</field>
+<field name="librettistSort">Erdman, Harley</field>
 <field name="theater">Deerfield Academy</field>
 <field name="city">Deerfield</field>
 <field name="region">Massachusetts</field>

@@ -3,9 +3,9 @@
 <field name="id">19962401</field>
 <field name="genre">Oratorio</field>
 <field name="title">Suter</field>
-<field name="titlesort">Suter</field>
+<field name="titleSort">Suter</field>
 <field name="composer">Helmut Degen</field>
-<field name="composersort">Degen, Helmut</field>
+<field name="composerSort">Degen, Helmut</field>
 <field name="year">1950</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Suter+Helmut+Degen&amp;search_field=search</field>
 </doc>

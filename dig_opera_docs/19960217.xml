@@ -3,13 +3,13 @@
 <field name="id">19960217</field>
 <field name="genre">Operas</field>
 <field name="title">Ashoka's Dream</field>
-<field name="titlesort">Ashoka's Dream</field>
+<field name="titleSort">Ashoka's Dream</field>
 <field name="composer">Peter Lieberson</field>
-<field name="composersort">Lieberson, Peter</field>
+<field name="composerSort">Lieberson, Peter</field>
 <field name="year">1997</field>
 <field name="date">July 26, 1997</field>
 <field name="librettist">Douglas Penick</field>
-<field name="librettistsort">Penick, Douglas</field>
+<field name="librettistSort">Penick, Douglas</field>
 <field name="theater">Opera</field>
 <field name="city">Santa Fe</field>
 <field name="region">New Mexico</field>

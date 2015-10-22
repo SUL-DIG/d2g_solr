@@ -3,13 +3,13 @@
 <field name="id">19961508</field>
 <field name="genre">Operas</field>
 <field name="title">Ledyanoy dom (The Ice House)</field>
-<field name="titlesort">Ledyanoy dom (The Ice House)</field>
+<field name="titleSort">Ledyanoy dom (The Ice House)</field>
 <field name="composer">Arseny Nikolayevich Koreshchenko</field>
-<field name="composersort">Koreshchenko, Arseny Nikolayevich</field>
+<field name="composerSort">Koreshchenko, Arseny Nikolayevich</field>
 <field name="year">1900</field>
 <field name="date">November 20, 1900</field>
 <field name="librettist">Modest Il'yich Tchaikovsky</field>
-<field name="librettistsort">Tchaikovsky, Modest Il'yich</field>
+<field name="librettistSort">Tchaikovsky, Modest Il'yich</field>
 <field name="theater">Bol'shoy Teatr</field>
 <field name="city">Moscow</field>
 <field name="country">Russia</field>

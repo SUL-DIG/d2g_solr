@@ -3,13 +3,13 @@
 <field name="id">19961545</field>
 <field name="genre">Operas</field>
 <field name="title">Liang Hongyu</field>
-<field name="titlesort">Liang Hongyu</field>
+<field name="titleSort">Liang Hongyu</field>
 <field name="composer">Guo Wenjing</field>
-<field name="composersort">Guo Wenjing</field>
+<field name="composerSort">Guo Wenjing</field>
 <field name="year">2008</field>
 <field name="date">June 2, 2008</field>
 <field name="librettist">Li Liuyi</field>
-<field name="librettistsort">Li Liuyi</field>
+<field name="librettistSort">Li Liuyi</field>
 <field name="theater">Muziekgebouw aan'TJI</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>

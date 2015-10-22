@@ -3,13 +3,13 @@
 <field name="id">19962902</field>
 <field name="genre">Operas</field>
 <field name="title">Transit of Venus</field>
-<field name="titlesort">Transit of Venus</field>
+<field name="titleSort">Transit of Venus</field>
 <field name="composer">Victor Davies</field>
-<field name="composersort">Davies, Victor</field>
+<field name="composerSort">Davies, Victor</field>
 <field name="year">2007</field>
 <field name="date">November 24, 2007</field>
 <field name="librettist">Maureen Hunter</field>
-<field name="librettistsort">Hunter, Maureen</field>
+<field name="librettistSort">Hunter, Maureen</field>
 <field name="theater">Manitoba Centennial Concert Hall</field>
 <field name="city">Winnipeg</field>
 <field name="region">Manitoba</field>

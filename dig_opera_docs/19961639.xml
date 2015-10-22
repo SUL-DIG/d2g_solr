@@ -3,13 +3,13 @@
 <field name="id">19961639</field>
 <field name="genre">Operas</field>
 <field name="title">Mama Dolorosa</field>
-<field name="titlesort">Mama Dolorosa</field>
+<field name="titleSort">Mama Dolorosa</field>
 <field name="composer">Eunyoung Esther Kim</field>
-<field name="composersort">Kim, Eunyoung Esther</field>
+<field name="composerSort">Kim, Eunyoung Esther</field>
 <field name="year">2012</field>
 <field name="date">May 5, 2012</field>
 <field name="librettist">Yona Kim</field>
-<field name="librettistsort">Kim, Yona</field>
+<field name="librettistSort">Kim, Yona</field>
 <field name="theater">Biennale</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

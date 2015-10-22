@@ -3,13 +3,13 @@
 <field name="id">19960261</field>
 <field name="genre">Operas</field>
 <field name="title">Bacon 1561-1992</field>
-<field name="titlesort">Bacon 1561-1992</field>
+<field name="titleSort">Bacon 1561-1992</field>
 <field name="composer">Manuel Hildalgo</field>
-<field name="composersort">Hildalgo, Manuel</field>
+<field name="composerSort">Hildalgo, Manuel</field>
 <field name="year">2001</field>
 <field name="date">May 21, 2001</field>
 <field name="librettist">Gabriele Adams</field>
-<field name="librettistsort">Adams, Gabriele</field>
+<field name="librettistSort">Adams, Gabriele</field>
 <field name="theater">Schlosstheater</field>
 <field name="city">Schwetzingen</field>
 <field name="region">Baden-Württemberg</field>

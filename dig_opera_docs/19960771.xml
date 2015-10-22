@@ -3,13 +3,13 @@
 <field name="id">19960771</field>
 <field name="genre">Operas</field>
 <field name="title">El maizal</field>
-<field name="titlesort">maizal</field>
+<field name="titleSort">maizal</field>
 <field name="composer">Ernesto Lecuona</field>
-<field name="composersort">Lecuona, Ernesto</field>
+<field name="composerSort">Lecuona, Ernesto</field>
 <field name="year">1930</field>
 <field name="date">March 7, 1930</field>
 <field name="librettist">Gustavo Sánchez Galarraga</field>
-<field name="librettistsort">Sánchez Galarraga, Gustavo</field>
+<field name="librettistSort">Sánchez Galarraga, Gustavo</field>
 <field name="theater">Teatro Payret</field>
 <field name="city">Havana</field>
 <field name="country">Cuba</field>

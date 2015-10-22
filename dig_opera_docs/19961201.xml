@@ -3,13 +3,13 @@
 <field name="id">19961201</field>
 <field name="genre">Operas</field>
 <field name="title">IQ</field>
-<field name="titlesort">IQ</field>
+<field name="titleSort">IQ</field>
 <field name="composer">Enno Poppe</field>
-<field name="composersort">Poppe, Enno</field>
+<field name="composerSort">Poppe, Enno</field>
 <field name="year">2012</field>
 <field name="date">April 27, 2012</field>
 <field name="librettist">Marcel Beyer</field>
-<field name="librettistsort">Beyer, Marcel</field>
+<field name="librettistSort">Beyer, Marcel</field>
 <field name="theater">Schlosstheater</field>
 <field name="city">Schwetzingen</field>
 <field name="region">Baden-Württemberg</field>

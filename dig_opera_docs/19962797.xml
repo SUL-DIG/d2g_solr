@@ -3,13 +3,13 @@
 <field name="id">19962797</field>
 <field name="genre">Operas</field>
 <field name="title">The Thunder of Horses</field>
-<field name="titlesort">Thunder of Horses</field>
+<field name="titleSort">Thunder of Horses</field>
 <field name="composer">Cary John Franklin</field>
-<field name="composersort">Franklin, Cary John</field>
+<field name="composerSort">Franklin, Cary John</field>
 <field name="year">1995</field>
 <field name="date">June 10, 1995</field>
 <field name="librettist">Michael Patrick Albano</field>
-<field name="librettistsort">Albano, Michael Patrick</field>
+<field name="librettistSort">Albano, Michael Patrick</field>
 <field name="theater">Loretto-Hilton Theater</field>
 <field name="city">St. Louis</field>
 <field name="region">Missouri</field>

@@ -3,13 +3,13 @@
 <field name="id">19961136</field>
 <field name="genre">Operas</field>
 <field name="title">I tre compagni</field>
-<field name="titlesort">tre compagni</field>
+<field name="titleSort">tre compagni</field>
 <field name="composer">Louis Gioia</field>
-<field name="composersort">Gioia, Louis</field>
+<field name="composerSort">Gioia, Louis</field>
 <field name="year">2009</field>
 <field name="date">June 19, 2009</field>
 <field name="librettist">Louis Gioia</field>
-<field name="librettistsort">Gioia, Louis</field>
+<field name="librettistSort">Gioia, Louis</field>
 <field name="theater">John Jay College</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

@@ -3,13 +3,13 @@
 <field name="id">19960844</field>
 <field name="genre">Operas</field>
 <field name="title">Fackeltanz</field>
-<field name="titlesort">Fackeltanz</field>
+<field name="titleSort">Fackeltanz</field>
 <field name="composer">Bent Lorentzen</field>
-<field name="composersort">Lorentzen, Bent</field>
+<field name="composerSort">Lorentzen, Bent</field>
 <field name="year">1993</field>
 <field name="date">July 29, 1993</field>
 <field name="librettist">Michael Leinert</field>
-<field name="librettistsort">Leinert, Michael</field>
+<field name="librettistSort">Leinert, Michael</field>
 <field name="theater">Ebeltoft Festival</field>
 <field name="city">Århus</field>
 <field name="region">Midtjylland</field>

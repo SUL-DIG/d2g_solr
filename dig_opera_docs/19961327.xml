@@ -3,13 +3,13 @@
 <field name="id">19961327</field>
 <field name="genre">Operas</field>
 <field name="title">Kommilitonen! Young Blood</field>
-<field name="titlesort">Kommilitonen! Young Blood</field>
+<field name="titleSort">Kommilitonen! Young Blood</field>
 <field name="composer">Peter Maxwell Davies</field>
-<field name="composersort">Davies, Peter Maxwell</field>
+<field name="composerSort">Davies, Peter Maxwell</field>
 <field name="year">2011</field>
 <field name="date">March 18, 2011</field>
 <field name="librettist">David Pountney</field>
-<field name="librettistsort">Pountney, David</field>
+<field name="librettistSort">Pountney, David</field>
 <field name="theater">Royal Academy of Music</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

@@ -3,13 +3,13 @@
 <field name="id">19960037</field>
 <field name="genre">Operas</field>
 <field name="title">A Game of Hearts</field>
-<field name="titlesort">Game of Hearts</field>
+<field name="titleSort">Game of Hearts</field>
 <field name="composer">Douglas Pew</field>
-<field name="composersort">Pew, Douglas</field>
+<field name="composerSort">Pew, Douglas</field>
 <field name="year">2012</field>
 <field name="date">November 19, 2012</field>
 <field name="librettist">Dara Weiberg</field>
-<field name="librettistsort">Weiberg, Dara</field>
+<field name="librettistSort">Weiberg, Dara</field>
 <field name="theater">Kennedy Center</field>
 <field name="city">Washington</field>
 <field name="region">District of Columbia</field>

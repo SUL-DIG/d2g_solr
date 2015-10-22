@@ -3,9 +3,9 @@
 <field name="id">19962017</field>
 <field name="genre">Operas</field>
 <field name="title">Pit und Paula - Frisch Versalzen</field>
-<field name="titlesort">Pit und Paula - Frisch Versalzen</field>
+<field name="titleSort">Pit und Paula - Frisch Versalzen</field>
 <field name="composer">Berndt Wilden</field>
-<field name="composersort">Wilden, Berndt</field>
+<field name="composerSort">Wilden, Berndt</field>
 <field name="year">2013</field>
 <field name="date">April 5, 2013</field>
 <field name="theater">Theater im Werftpark</field>

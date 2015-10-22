@@ -3,13 +3,13 @@
 <field name="id">19960685</field>
 <field name="genre">Operas</field>
 <field name="title">Dolly's Beauty Shop</field>
-<field name="titlesort">Dolly's Beauty Shop</field>
+<field name="titleSort">Dolly's Beauty Shop</field>
 <field name="composer">Thomas Lindahl</field>
-<field name="composersort">Lindahl, Thomas</field>
+<field name="composerSort">Lindahl, Thomas</field>
 <field name="year">2004</field>
 <field name="date">April 11, 2004</field>
 <field name="librettist">Maria Sundqvist</field>
-<field name="librettistsort">Sundqvist, Maria</field>
+<field name="librettistSort">Sundqvist, Maria</field>
 <field name="theater">Scenkonst Sörmland</field>
 <field name="city">Eskilstuna</field>
 <field name="region">Södermanland</field>

@@ -3,13 +3,13 @@
 <field name="id">19961681</field>
 <field name="genre">Operas</field>
 <field name="title">Mary's Wedding</field>
-<field name="titlesort">Mary's Wedding</field>
+<field name="titleSort">Mary's Wedding</field>
 <field name="composer">Andrew P. MacDonald</field>
-<field name="composersort">MacDonald, Andrew P.</field>
+<field name="composerSort">MacDonald, Andrew P.</field>
 <field name="year">2011</field>
 <field name="date">November 10, 2011</field>
 <field name="librettist">Stephen Massicotte</field>
-<field name="librettistsort">Massicotte, Stephen</field>
+<field name="librettistSort">Massicotte, Stephen</field>
 <field name="theater">McPherson Playhouse</field>
 <field name="city">Victoria</field>
 <field name="region">British Columbia</field>

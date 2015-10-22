@@ -3,9 +3,9 @@
 <field name="id">19962321</field>
 <field name="genre">Operas</field>
 <field name="title">Sokrates</field>
-<field name="titlesort">Sokrates</field>
+<field name="titleSort">Sokrates</field>
 <field name="composer">Boudewijn Buckinx</field>
-<field name="composersort">Buckinx, Boudewijn</field>
+<field name="composerSort">Buckinx, Boudewijn</field>
 <field name="year">1997</field>
 <field name="date">May 5, 1997</field>
 <field name="theater">De Rode Pomp</field>

@@ -3,12 +3,12 @@
 <field name="id">19961792</field>
 <field name="genre">Operas</field>
 <field name="title">Nachmittagssonne (Afternoon Sun)</field>
-<field name="titlesort">Nachmittagssonne (Afternoon Sun)</field>
+<field name="titleSort">Nachmittagssonne (Afternoon Sun)</field>
 <field name="composer">Gerhard Stäbler</field>
-<field name="composersort">Stäbler, Gerhard</field>
+<field name="composerSort">Stäbler, Gerhard</field>
 <field name="year">2006</field>
 <field name="librettist">Constantine Cavafy</field>
-<field name="librettistsort">Cavafy, Constantine</field>
+<field name="librettistSort">Cavafy, Constantine</field>
 <field name="theater">Yonsei University</field>
 <field name="city">Seoul</field>
 <field name="country">Korea</field>

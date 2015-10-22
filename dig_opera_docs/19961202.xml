@@ -3,13 +3,13 @@
 <field name="id">19961202</field>
 <field name="genre">Operas</field>
 <field name="title">Iq et Ox</field>
-<field name="titlesort">Iq et Ox</field>
+<field name="titleSort">Iq et Ox</field>
 <field name="composer">André Bon</field>
-<field name="composersort">Bon, André</field>
+<field name="composerSort">Bon, André</field>
 <field name="year">2009</field>
 <field name="date">March 18, 2009</field>
 <field name="librettist">Jean-Claude Grumberg</field>
-<field name="librettistsort">Grumberg, Jean-Claude</field>
+<field name="librettistSort">Grumberg, Jean-Claude</field>
 <field name="theater">Opéra</field>
 <field name="city">Metz</field>
 <field name="region">Moselle</field>

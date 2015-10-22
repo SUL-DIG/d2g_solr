@@ -3,13 +3,13 @@
 <field name="id">19961313</field>
 <field name="genre">Operas</field>
 <field name="title">Kill Bear Comes Home</field>
-<field name="titlesort">Kill Bear Comes Home</field>
+<field name="titleSort">Kill Bear Comes Home</field>
 <field name="composer">Paul Stuart</field>
-<field name="composersort">Stuart, Paul</field>
+<field name="composerSort">Stuart, Paul</field>
 <field name="year">1996</field>
 <field name="date">March 30, 1996</field>
 <field name="librettist">Sally M. Gall</field>
-<field name="librettistsort">Gall, Sally M.</field>
+<field name="librettistSort">Gall, Sally M.</field>
 <field name="theater">Jewish Community Center</field>
 <field name="city">Rochester</field>
 <field name="region">New York</field>

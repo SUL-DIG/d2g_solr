@@ -3,13 +3,13 @@
 <field name="id">19960125</field>
 <field name="genre">Operas</field>
 <field name="title">All in the Mind</field>
-<field name="titlesort">All in the Mind</field>
+<field name="titleSort">All in the Mind</field>
 <field name="composer">Edward Lambert</field>
-<field name="composersort">Lambert, Edward</field>
+<field name="composerSort">Lambert, Edward</field>
 <field name="year">2004</field>
 <field name="date">December 11, 2004</field>
 <field name="librettist">Edward Lambert</field>
-<field name="librettistsort">Lambert, Edward</field>
+<field name="librettistSort">Lambert, Edward</field>
 <field name="theater">Britten Theater, Royal College of Music</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

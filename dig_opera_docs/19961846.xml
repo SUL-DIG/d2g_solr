@@ -3,13 +3,13 @@
 <field name="id">19961846</field>
 <field name="genre">Operas</field>
 <field name="title">Norppaooppera</field>
-<field name="titlesort">Norppaooppera</field>
+<field name="titleSort">Norppaooppera</field>
 <field name="composer">Timo-Juhani Kyllonen</field>
-<field name="composersort">Kyllonen, Timo-Juhani</field>
+<field name="composerSort">Kyllonen, Timo-Juhani</field>
 <field name="year">2013</field>
 <field name="date">July 20, 2013</field>
 <field name="librettist">Iida Hämeen-Anttila</field>
-<field name="librettistsort">Hämeen-Anttila, Iida</field>
+<field name="librettistSort">Hämeen-Anttila, Iida</field>
 <field name="theater">Savonlinnan Ooperajuhlat</field>
 <field name="city">Savonlinna</field>
 <field name="region">Etelä-Savo</field>

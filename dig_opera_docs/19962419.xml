@@ -3,13 +3,13 @@
 <field name="id">19962419</field>
 <field name="genre">Operas</field>
 <field name="title">Tamanduá</field>
-<field name="titlesort">Tamanduá</field>
+<field name="titleSort">Tamanduá</field>
 <field name="composer">João MacDowell</field>
-<field name="composersort">MacDowell, João</field>
+<field name="composerSort">MacDowell, João</field>
 <field name="year">2009</field>
 <field name="date">December 11, 2009</field>
 <field name="librettist">João MacDowell</field>
-<field name="librettistsort">MacDowell, João</field>
+<field name="librettistSort">MacDowell, João</field>
 <field name="theater">Montclair State University</field>
 <field name="city">Montclair</field>
 <field name="region">New Jersey</field>

@@ -3,13 +3,13 @@
 <field name="id">19962096</field>
 <field name="genre">Operas</field>
 <field name="title">Rage d'amours</field>
-<field name="titlesort">Rage d'amours</field>
+<field name="titleSort">Rage d'amours</field>
 <field name="composer">Robert Zuidam</field>
-<field name="composersort">Zuidam, Robert</field>
+<field name="composerSort">Zuidam, Robert</field>
 <field name="year">2005</field>
 <field name="date">June 17, 2005</field>
 <field name="librettist">Robert Zuidam</field>
-<field name="librettistsort">Zuidam, Robert</field>
+<field name="librettistSort">Zuidam, Robert</field>
 <field name="theater">Stadsschouwburg</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>

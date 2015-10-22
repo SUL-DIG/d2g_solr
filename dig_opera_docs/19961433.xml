@@ -3,13 +3,13 @@
 <field name="id">19961433</field>
 <field name="genre">Operas</field>
 <field name="title">La passion de Simone</field>
-<field name="titlesort">passion de Simone</field>
+<field name="titleSort">passion de Simone</field>
 <field name="composer">Kaija Saariaho</field>
-<field name="composersort">Saariaho, Kaija</field>
+<field name="composerSort">Saariaho, Kaija</field>
 <field name="year">2006</field>
 <field name="date">November 26, 2006</field>
 <field name="librettist">Amin Maalouf</field>
-<field name="librettistsort">Maalouf, Amin</field>
+<field name="librettistSort">Maalouf, Amin</field>
 <field name="theater">Jugendstiltheater</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

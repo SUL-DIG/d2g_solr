@@ -3,13 +3,13 @@
 <field name="id">19962648</field>
 <field name="genre">Operas</field>
 <field name="title">The Merchant and the Pauper</field>
-<field name="titlesort">Merchant and the Pauper</field>
+<field name="titleSort">Merchant and the Pauper</field>
 <field name="composer">Paul Schoenfield</field>
-<field name="composersort">Schoenfield, Paul</field>
+<field name="composerSort">Schoenfield, Paul</field>
 <field name="year">1999</field>
 <field name="date">June 17, 1999</field>
 <field name="librettist">Margaret B. Stearns</field>
-<field name="librettistsort">Stearns, Margaret B.</field>
+<field name="librettistSort">Stearns, Margaret B.</field>
 <field name="theater">Loretto-Hilton Theater</field>
 <field name="city">St. Louis</field>
 <field name="region">Missouri</field>

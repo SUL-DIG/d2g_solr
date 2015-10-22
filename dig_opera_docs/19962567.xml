@@ -3,13 +3,13 @@
 <field name="id">19962567</field>
 <field name="genre">Operas</field>
 <field name="title">The Gilded Cage</field>
-<field name="titlesort">Gilded Cage</field>
+<field name="titleSort">Gilded Cage</field>
 <field name="composer">Victor Kioulaphides</field>
-<field name="composersort">Kioulaphides, Victor</field>
+<field name="composerSort">Kioulaphides, Victor</field>
 <field name="year">2001</field>
 <field name="date">June 1, 2001</field>
 <field name="librettist">Richard Olson</field>
-<field name="librettistsort">Olson, Richard</field>
+<field name="librettistSort">Olson, Richard</field>
 <field name="theater">Church of the Transfiguration</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

@@ -3,13 +3,13 @@
 <field name="id">19962914</field>
 <field name="genre">Operas</field>
 <field name="title">Triumf och tragedi</field>
-<field name="titlesort">Triumf och tragedi</field>
+<field name="titleSort">Triumf och tragedi</field>
 <field name="composer">Paula af Malmborg Ward</field>
-<field name="composersort">Ward, Paula af Malmborg</field>
+<field name="composerSort">Ward, Paula af Malmborg</field>
 <field name="year">2010</field>
 <field name="date">October 15, 2010</field>
 <field name="librettist">Daniel Boyacioglu</field>
-<field name="librettistsort">Daniel Boyacioglu</field>
+<field name="librettistSort">Daniel Boyacioglu</field>
 <field name="theater">Kungliga Teatern</field>
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>

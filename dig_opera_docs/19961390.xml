@@ -3,12 +3,12 @@
 <field name="id">19961390</field>
 <field name="genre">Operas</field>
 <field name="title">La ciudad ausente</field>
-<field name="titlesort">ciudad ausente</field>
+<field name="titleSort">ciudad ausente</field>
 <field name="composer">Gerardo Gandini</field>
-<field name="composersort">Gandini, Gerardo</field>
+<field name="composerSort">Gandini, Gerardo</field>
 <field name="year">1995</field>
 <field name="librettist">Ricardo Piglia</field>
-<field name="librettistsort">Piglia, Ricardo</field>
+<field name="librettistSort">Piglia, Ricardo</field>
 <field name="theater">Teatro Colón</field>
 <field name="city">Buenos Aires</field>
 <field name="region">Buenos Aires</field>

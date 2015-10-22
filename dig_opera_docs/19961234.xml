@@ -3,13 +3,13 @@
 <field name="id">19961234</field>
 <field name="genre">Operas</field>
 <field name="title">JJR, citoyen de Genève</field>
-<field name="titlesort">JJR, citoyen de Genève</field>
+<field name="titleSort">JJR, citoyen de Genève</field>
 <field name="composer">Philippe Fénelon</field>
-<field name="composersort">Fénelon, Philippe</field>
+<field name="composerSort">Fénelon, Philippe</field>
 <field name="year">2012</field>
 <field name="date">September 11, 2012</field>
 <field name="librettist">Ian Burton</field>
-<field name="librettistsort">Burton, Ian</field>
+<field name="librettistSort">Burton, Ian</field>
 <field name="theater">Grand-Théâtre</field>
 <field name="city">Geneva</field>
 <field name="region">Genève</field>

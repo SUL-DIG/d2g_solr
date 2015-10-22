@@ -3,13 +3,13 @@
 <field name="id">19963067</field>
 <field name="genre">Operas</field>
 <field name="title">Wolf in Skins</field>
-<field name="titlesort">Wolf in Skins</field>
+<field name="titleSort">Wolf in Skins</field>
 <field name="composer">Gregory Spears</field>
-<field name="composersort">Spears, Gregory</field>
+<field name="composerSort">Spears, Gregory</field>
 <field name="year">2013</field>
 <field name="date">January 25, 2013</field>
 <field name="librettist">Christopher Williams</field>
-<field name="librettistsort">Williams, Christopher</field>
+<field name="librettistSort">Williams, Christopher</field>
 <field name="theater">Temple University</field>
 <field name="city">Philadelphia</field>
 <field name="region">Pennsylvania</field>

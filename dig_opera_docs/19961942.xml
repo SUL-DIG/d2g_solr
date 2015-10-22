@@ -3,13 +3,13 @@
 <field name="id">19961942</field>
 <field name="genre">Operas</field>
 <field name="title">Ovet (Doors)</field>
-<field name="titlesort">Ovet (Doors)</field>
+<field name="titleSort">Ovet (Doors)</field>
 <field name="composer">Jarmo Sermilä</field>
-<field name="composersort">Sermilä, Jarmo</field>
+<field name="composerSort">Sermilä, Jarmo</field>
 <field name="year">1998</field>
 <field name="date">June 5, 1998</field>
 <field name="librettist">Aimo Vuorinen</field>
-<field name="librettistsort">Vuorinen, Aimo</field>
+<field name="librettistSort">Vuorinen, Aimo</field>
 <field name="theater">Kaapelitehdas</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

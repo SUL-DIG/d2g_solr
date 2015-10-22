@@ -3,9 +3,9 @@
 <field name="id">19961261</field>
 <field name="genre">Operas</field>
 <field name="title">Julio César</field>
-<field name="titlesort">Julio César</field>
+<field name="titleSort">Julio César</field>
 <field name="composer">José García-Robles</field>
-<field name="composersort">García-Robles, José</field>
+<field name="composerSort">García-Robles, José</field>
 <field name="year">1880</field>
 <field name="city">Barcelona</field>
 <field name="region">Catalunya</field>

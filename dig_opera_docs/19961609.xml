@@ -3,13 +3,13 @@
 <field name="id">19961609</field>
 <field name="genre">Operas</field>
 <field name="title">Luzifer</field>
-<field name="titlesort">Luzifer</field>
+<field name="titleSort">Luzifer</field>
 <field name="composer">Franz Hummel</field>
-<field name="composersort">Hummel, Franz</field>
+<field name="composerSort">Hummel, Franz</field>
 <field name="year">1987</field>
 <field name="date">May 29, 1987</field>
 <field name="librettist">Christian Martin Fuchs</field>
-<field name="librettistsort">Fuchs, Christian Martin</field>
+<field name="librettistSort">Fuchs, Christian Martin</field>
 <field name="theater">Theater der Stadt</field>
 <field name="city">Ulm</field>
 <field name="region">Baden-Württemberg</field>

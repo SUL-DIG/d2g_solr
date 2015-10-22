@@ -3,13 +3,13 @@
 <field name="id">19960260</field>
 <field name="genre">Operas</field>
 <field name="title">Bachs letzte Oper</field>
-<field name="titlesort">Bachs letzte Oper</field>
+<field name="titleSort">Bachs letzte Oper</field>
 <field name="composer">Stanley Walden</field>
-<field name="composersort">Walden, Stanley</field>
+<field name="composerSort">Walden, Stanley</field>
 <field name="year">2002</field>
 <field name="date">December 21, 2002</field>
 <field name="librettist">Jess Ørnsbo</field>
-<field name="librettistsort">Ørnsbo, Jess</field>
+<field name="librettistSort">Ørnsbo, Jess</field>
 <field name="theater">Stadttheater</field>
 <field name="city">Erfurt</field>
 <field name="region">Thüringen</field>

@@ -3,13 +3,13 @@
 <field name="id">19962752</field>
 <field name="genre">Operas</field>
 <field name="title">The Seventh Seed</field>
-<field name="titlesort">Seventh Seed</field>
+<field name="titleSort">Seventh Seed</field>
 <field name="composer">Hilda Paredes</field>
-<field name="composersort">Paredes, Hilda</field>
+<field name="composerSort">Paredes, Hilda</field>
 <field name="year">1993</field>
 <field name="date">June 28, 1993</field>
 <field name="librettist">Karen Whiteson</field>
-<field name="librettistsort">Whiteson, Karen</field>
+<field name="librettistSort">Whiteson, Karen</field>
 <field name="theater">Teatro Juan Ruiz de Alarcón</field>
 <field name="city">Ciudad Universitaria</field>
 <field name="region">Mexico</field>

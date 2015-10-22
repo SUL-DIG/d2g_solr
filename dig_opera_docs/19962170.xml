@@ -3,13 +3,13 @@
 <field name="id">19962170</field>
 <field name="genre">Operas</field>
 <field name="title">Rödhamn</field>
-<field name="titlesort">Rödhamn</field>
+<field name="titleSort">Rödhamn</field>
 <field name="composer">Lars Karlsson</field>
-<field name="composersort">Karlsson, Lars</field>
+<field name="composerSort">Karlsson, Lars</field>
 <field name="year">2002</field>
 <field name="date">May 18, 2002</field>
 <field name="librettist">Lars Huldén</field>
-<field name="librettistsort">Huldén, Lars</field>
+<field name="librettistSort">Huldén, Lars</field>
 <field name="theater">Suomen Kansallisooppera Alminsali</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

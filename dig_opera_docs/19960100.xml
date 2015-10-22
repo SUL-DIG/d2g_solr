@@ -3,12 +3,12 @@
 <field name="id">19960100</field>
 <field name="genre">Operas</field>
 <field name="title">Aladin in njegova čudežna svetilka</field>
-<field name="titlesort">Aladin in njegova čudežna svetilka</field>
+<field name="titleSort">Aladin in njegova čudežna svetilka</field>
 <field name="composer">Marko Mihevc</field>
-<field name="composersort">Mihevc, Marko</field>
+<field name="composerSort">Mihevc, Marko</field>
 <field name="year">1981</field>
 <field name="librettist">Svetlana Makarovič</field>
-<field name="librettistsort">Makarovič, Svetlana</field>
+<field name="librettistSort">Makarovič, Svetlana</field>
 <field name="theater">RTS Symphony Orchestra (Radiotelevizija Slovenija)</field>
 <field name="city">Ljubljana</field>
 <field name="country">Slovenia</field>

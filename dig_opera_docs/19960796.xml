@@ -3,13 +3,13 @@
 <field name="id">19960796</field>
 <field name="genre">Operas</field>
 <field name="title">Emperor Norton of the USA</field>
-<field name="titlesort">Emperor Norton of the USA</field>
+<field name="titleSort">Emperor Norton of the USA</field>
 <field name="composer">Jerome Rosen</field>
-<field name="composersort">Rosen, Jerome</field>
+<field name="composerSort">Rosen, Jerome</field>
 <field name="year">1999</field>
 <field name="date">June 3, 1999</field>
 <field name="librettist">James Schevill</field>
-<field name="librettistsort">Schevill, James</field>
+<field name="librettistSort">Schevill, James</field>
 <field name="theater">University of California</field>
 <field name="city">Davis</field>
 <field name="region">California</field>

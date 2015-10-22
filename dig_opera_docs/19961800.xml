@@ -3,13 +3,13 @@
 <field name="id">19961800</field>
 <field name="genre">Operas</field>
 <field name="title">Narcissus og Ekko</field>
-<field name="titlesort">Narcissus og Ekko</field>
+<field name="titleSort">Narcissus og Ekko</field>
 <field name="composer">Peter Bruun</field>
-<field name="composersort">Bruun, Peter</field>
+<field name="composerSort">Bruun, Peter</field>
 <field name="year">2010</field>
 <field name="date">October 22, 2010</field>
 <field name="librettist">Bent Nørgaard</field>
-<field name="librettistsort">Nørgaard, Bent</field>
+<field name="librettistSort">Nørgaard, Bent</field>
 <field name="theater">Musikhuset</field>
 <field name="city">Århus</field>
 <field name="region">Midtjylland</field>

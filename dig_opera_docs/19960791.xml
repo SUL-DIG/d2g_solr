@@ -3,12 +3,12 @@
 <field name="id">19960791</field>
 <field name="genre">Operas</field>
 <field name="title">Élöképek</field>
-<field name="titlesort">Élöképek</field>
+<field name="titleSort">Élöképek</field>
 <field name="composer">László Sáry</field>
-<field name="composersort">Sáry, László</field>
+<field name="composerSort">Sáry, László</field>
 <field name="year">1997</field>
 <field name="librettist">János Pilinszky</field>
-<field name="librettistsort">Pilinszky, János</field>
+<field name="librettistSort">Pilinszky, János</field>
 <field name="theater">Katona József Színház</field>
 <field name="city">Budapest</field>
 <field name="country">Hungary</field>

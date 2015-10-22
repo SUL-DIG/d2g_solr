@@ -3,13 +3,13 @@
 <field name="id">19961621</field>
 <field name="genre">Operas</field>
 <field name="title">Madame Mao</field>
-<field name="titlesort">Madame Mao</field>
+<field name="titleSort">Madame Mao</field>
 <field name="composer">Bright Sheng</field>
-<field name="composersort">Sheng, Bright</field>
+<field name="composerSort">Sheng, Bright</field>
 <field name="year">2003</field>
 <field name="date">July 26, 2003</field>
 <field name="librettist">Colin Graham</field>
-<field name="librettistsort">Graham, Colin</field>
+<field name="librettistSort">Graham, Colin</field>
 <field name="theater">Opera</field>
 <field name="city">Santa Fe</field>
 <field name="region">New Mexico</field>

@@ -3,13 +3,13 @@
 <field name="id">19961718</field>
 <field name="genre">Operas</field>
 <field name="title">Mercury Falling</field>
-<field name="titlesort">Mercury Falling</field>
+<field name="titleSort">Mercury Falling</field>
 <field name="composer">Chandler Carter</field>
-<field name="composersort">Carter, Chandler</field>
+<field name="composerSort">Carter, Chandler</field>
 <field name="year">2009</field>
 <field name="date">June 19, 2009</field>
 <field name="librettist">Daniel Neer</field>
-<field name="librettistsort">Neer, Daniel</field>
+<field name="librettistSort">Neer, Daniel</field>
 <field name="theater">North Carolina State University</field>
 <field name="city">Raleigh</field>
 <field name="region">North Carolina</field>

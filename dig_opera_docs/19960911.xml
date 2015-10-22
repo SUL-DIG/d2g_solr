@@ -3,9 +3,9 @@
 <field name="id">19960911</field>
 <field name="genre">Operas</field>
 <field name="title">Fotbollsoperan Learning to Shout!</field>
-<field name="titlesort">Fotbollsoperan Learning to Shout!</field>
+<field name="titleSort">Fotbollsoperan Learning to Shout!</field>
 <field name="composer">Peter Lång </field>
-<field name="composersort">Lång, Peter</field>
+<field name="composerSort">Lång, Peter</field>
 <field name="year">2004</field>
 <field name="date">August 28, 2004</field>
 <field name="theater">Baltichallen</field>

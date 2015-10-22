@@ -3,13 +3,13 @@
 <field name="id">19960389</field>
 <field name="genre">Operas</field>
 <field name="title">Caligula</field>
-<field name="titlesort">Caligula</field>
+<field name="titleSort">Caligula</field>
 <field name="composer">Detlev Glanert</field>
-<field name="composersort">Glanert, Detlev</field>
+<field name="composerSort">Glanert, Detlev</field>
 <field name="year">2006</field>
 <field name="date">October 7, 2006</field>
 <field name="librettist">Hans-Ulrich Treichel</field>
-<field name="librettistsort">Treichel, Hans-Ulrich</field>
+<field name="librettistSort">Treichel, Hans-Ulrich</field>
 <field name="theater">Schauspielhaus</field>
 <field name="city">Frankfurt</field>
 <field name="region">Hessen</field>

@@ -3,13 +3,13 @@
 <field name="id">19960379</field>
 <field name="genre">Operas</field>
 <field name="title">Byrgitta</field>
-<field name="titlesort">Byrgitta</field>
+<field name="titleSort">Byrgitta</field>
 <field name="composer">Carl Unander-Scharin</field>
-<field name="composersort">Unander-Scharin, Carl</field>
+<field name="composerSort">Unander-Scharin, Carl</field>
 <field name="year">2003</field>
 <field name="date">July 27, 2003</field>
 <field name="librettist">Magnus Carlbring</field>
-<field name="librettistsort">Carlbring, Magnus</field>
+<field name="librettistSort">Carlbring, Magnus</field>
 <field name="theater">Vadstena Slott </field>
 <field name="city">Vadstena Slott </field>
 <field name="region">Östergötland</field>

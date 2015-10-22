@@ -3,13 +3,13 @@
 <field name="id">19960948</field>
 <field name="genre">Operas</field>
 <field name="title">Galileo</field>
-<field name="titlesort">Galileo</field>
+<field name="titleSort">Galileo</field>
 <field name="composer">John Rimmer</field>
-<field name="composersort">Rimmer, John</field>
+<field name="composerSort">Rimmer, John</field>
 <field name="year">1999</field>
 <field name="date">April 8, 1999</field>
 <field name="librettist">Witi Ihimaera</field>
-<field name="librettistsort">Ihimaera, Witi</field>
+<field name="librettistSort">Ihimaera, Witi</field>
 <field name="theater">University of Auckland</field>
 <field name="city">Auckland</field>
 <field name="country">New Zealand</field>

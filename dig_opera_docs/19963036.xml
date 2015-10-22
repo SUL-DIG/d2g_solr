@@ -3,13 +3,13 @@
 <field name="id">19963036</field>
 <field name="genre">Operas</field>
 <field name="title">Wakonda's Dream</field>
-<field name="titlesort">Wakonda's Dream</field>
+<field name="titleSort">Wakonda's Dream</field>
 <field name="composer">Anthony Davis</field>
-<field name="composersort">Davis, Anthony</field>
+<field name="composerSort">Davis, Anthony</field>
 <field name="year">2007</field>
 <field name="date">March 7, 2007</field>
 <field name="librettist">Yusef Komunyakaa</field>
-<field name="librettistsort">Komunyakaa, Yusef</field>
+<field name="librettistSort">Komunyakaa, Yusef</field>
 <field name="theater">Orpheum Theater</field>
 <field name="city">Omaha</field>
 <field name="region">Nebraska</field>

@@ -3,13 +3,13 @@
 <field name="id">19961068</field>
 <field name="genre">Operas</field>
 <field name="title">Héloïse et Abélard</field>
-<field name="titlesort">Héloïse et Abélard</field>
+<field name="titleSort">Héloïse et Abélard</field>
 <field name="composer">Ahmed Essyad</field>
-<field name="composersort">Essyad, Ahmed</field>
+<field name="composerSort">Essyad, Ahmed</field>
 <field name="year">2000</field>
 <field name="date">September 22, 2000</field>
 <field name="librettist">Bernard Noël</field>
-<field name="librettistsort">Noël, Bernard</field>
+<field name="librettistSort">Noël, Bernard</field>
 <field name="theater">Théâtre Municipal</field>
 <field name="city">Strasbourg</field>
 <field name="region">Bas-Rhin</field>

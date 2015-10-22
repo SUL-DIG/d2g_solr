@@ -3,13 +3,13 @@
 <field name="id">19961304</field>
 <field name="genre">Operas</field>
 <field name="title">Keplers Traum</field>
-<field name="titlesort">Keplers Traum</field>
+<field name="titleSort">Keplers Traum</field>
 <field name="composer">Giorgio Battistelli</field>
-<field name="composersort">Battistelli, Giorgio</field>
+<field name="composerSort">Battistelli, Giorgio</field>
 <field name="year">1990</field>
 <field name="date">September 9, 1990</field>
 <field name="librettist">Giorgio Battistelli</field>
-<field name="librettistsort">Battistelli, Giorgio</field>
+<field name="librettistSort">Battistelli, Giorgio</field>
 <field name="theater">Brucknerhaus</field>
 <field name="city">Linz</field>
 <field name="region">Oberösterreich</field>

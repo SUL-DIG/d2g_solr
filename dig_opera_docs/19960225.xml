@@ -3,13 +3,13 @@
 <field name="id">19960225</field>
 <field name="genre">Operas</field>
 <field name="title">Atlas</field>
-<field name="titlesort">Atlas</field>
+<field name="titleSort">Atlas</field>
 <field name="composer">Meredith Monk</field>
-<field name="composersort">Monk, Meredith</field>
+<field name="composerSort">Monk, Meredith</field>
 <field name="year">1999</field>
 <field name="date">February 22, 1999</field>
 <field name="librettist">Meredith Monk</field>
-<field name="librettistsort">Monk, Meredith</field>
+<field name="librettistSort">Monk, Meredith</field>
 <field name="theater">Grand Opera</field>
 <field name="city">Houston</field>
 <field name="region">Texas</field>

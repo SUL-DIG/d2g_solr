@@ -3,13 +3,13 @@
 <field name="id">19960680</field>
 <field name="genre">Operas</field>
 <field name="title">Doggone</field>
-<field name="titlesort">Doggone</field>
+<field name="titleSort">Doggone</field>
 <field name="composer">Gary Carpenter</field>
-<field name="composersort">Carpenter, Gary</field>
+<field name="composerSort">Carpenter, Gary</field>
 <field name="year">1999</field>
 <field name="date">August 26, 1999</field>
 <field name="librettist">Simon Nicholson</field>
-<field name="librettistsort">Nicholson, Simon</field>
+<field name="librettistSort">Nicholson, Simon</field>
 <field name="theater">Battersea Arts Centre</field>
 <field name="city">Battersea</field>
 <field name="region">Greater London</field>

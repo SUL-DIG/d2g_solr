@@ -3,13 +3,13 @@
 <field name="id">19960167</field>
 <field name="genre">Operas</field>
 <field name="title">Angelo</field>
-<field name="titlesort">Angelo </field>
+<field name="titleSort">Angelo </field>
 <field name="composer">Lars Klit</field>
-<field name="composersort">Klit, Lars</field>
+<field name="composerSort">Klit, Lars</field>
 <field name="year">2012</field>
 <field name="date">May 11, 2012</field>
 <field name="librettist">Jesper Lützhøft</field>
-<field name="librettistsort">Lützhøft, Jesper</field>
+<field name="librettistSort">Lützhøft, Jesper</field>
 <field name="theater">Pakhus 11</field>
 <field name="city">Copenhagen</field>
 <field name="region">Hovedstaden</field>

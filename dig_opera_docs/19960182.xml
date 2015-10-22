@@ -3,13 +3,13 @@
 <field name="id">19960182</field>
 <field name="genre">Operas</field>
 <field name="title">Anschlag</field>
-<field name="titlesort">Anschlag</field>
+<field name="titleSort">Anschlag</field>
 <field name="composer">Michael Wertmüller</field>
-<field name="composersort">Wertmüller, Michael</field>
+<field name="composerSort">Wertmüller, Michael</field>
 <field name="year">2013</field>
 <field name="date">August 17, 2013</field>
 <field name="librettist">Lukas Bärfuss</field>
-<field name="librettistsort">Bärfuss, Lukas</field>
+<field name="librettistSort">Bärfuss, Lukas</field>
 <field name="theater">Konzerthaus Schüür</field>
 <field name="city">Lucerne</field>
 <field name="region">Luzern</field>

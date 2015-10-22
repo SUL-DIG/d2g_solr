@@ -3,13 +3,13 @@
 <field name="id">19961240</field>
 <field name="genre">Operas</field>
 <field name="title">Jonah and the Whale</field>
-<field name="titlesort">Jonah and the Whale</field>
+<field name="titleSort">Jonah and the Whale</field>
 <field name="composer">Jack Perla</field>
-<field name="composersort">Perla, Jack</field>
+<field name="composerSort">Perla, Jack</field>
 <field name="year">2014</field>
 <field name="date">March 21, 2014</field>
 <field name="librettist">Velina Hasu Houston</field>
-<field name="librettistsort">Houston, Velina Hasu</field>
+<field name="librettistSort">Houston, Velina Hasu</field>
 <field name="theater">Cathedral of our Lady of the Angels</field>
 <field name="city">Los Angeles</field>
 <field name="region">California</field>

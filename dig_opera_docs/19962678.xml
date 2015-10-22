@@ -3,13 +3,13 @@
 <field name="id">19962678</field>
 <field name="genre">Operas</field>
 <field name="title">The Other Wise Man</field>
-<field name="titlesort">Other Wise Man</field>
+<field name="titleSort">Other Wise Man</field>
 <field name="composer">Damjan Rakonjac</field>
-<field name="composersort">Rakonjac, Damjan  </field>
+<field name="composerSort">Rakonjac, Damjan  </field>
 <field name="year">2010</field>
 <field name="date">December 10, 2010</field>
 <field name="librettist">David Wisehart</field>
-<field name="librettistsort">Wisehart, David</field>
+<field name="librettistSort">Wisehart, David</field>
 <field name="theater">Hollywood Fringe Festival</field>
 <field name="city">Los Angeles</field>
 <field name="region">California</field>

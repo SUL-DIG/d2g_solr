@@ -3,13 +3,13 @@
 <field name="id">19963041</field>
 <field name="genre">Operas</field>
 <field name="title">Wasser</field>
-<field name="titlesort">Wasser</field>
+<field name="titleSort">Wasser</field>
 <field name="composer">Arnulf Herrmann</field>
-<field name="composersort">Herrmann, Arnulf</field>
+<field name="composerSort">Herrmann, Arnulf</field>
 <field name="year">2012</field>
 <field name="date">May 16, 2012</field>
 <field name="librettist">Nico Bleutge</field>
-<field name="librettistsort">Bleutge, Nico</field>
+<field name="librettistSort">Bleutge, Nico</field>
 <field name="theater">Biennale</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

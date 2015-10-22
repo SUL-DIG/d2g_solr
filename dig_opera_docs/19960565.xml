@@ -3,9 +3,9 @@
 <field name="id">19960565</field>
 <field name="genre">Operas</field>
 <field name="title">Der Freischuss</field>
-<field name="titlesort">Freischuss</field>
+<field name="titleSort">Freischuss</field>
 <field name="composer">Jan Müller-Wieland</field>
-<field name="composersort">Müller-Wieland, Jan</field>
+<field name="composerSort">Müller-Wieland, Jan</field>
 <field name="year">2011</field>
 <field name="date">January 20, 2011</field>
 <field name="theater">Neuköllner Oper</field>

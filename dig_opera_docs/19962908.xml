@@ -3,13 +3,13 @@
 <field name="id">19962908</field>
 <field name="genre">Operas</field>
 <field name="title">Trepte ale istoriei (Steps in History)</field>
-<field name="titlesort">Trepte ale istoriei (Steps in History)</field>
+<field name="titleSort">Trepte ale istoriei (Steps in History)</field>
 <field name="composer">Mihai Moldovan</field>
-<field name="composersort">Moldovan, Mihai</field>
+<field name="composerSort">Moldovan, Mihai</field>
 <field name="year">1973</field>
 <field name="date">April 22, 1973</field>
 <field name="librettist">Sanda Mihaescu</field>
-<field name="librettistsort">Mihaescu, Sanda</field>
+<field name="librettistSort">Mihaescu, Sanda</field>
 <field name="theater">SRTV Symphony Orchestra  (Societatea Româna de Televiziune)</field>
 <field name="city">Bucharest</field>
 <field name="country">Romania</field>

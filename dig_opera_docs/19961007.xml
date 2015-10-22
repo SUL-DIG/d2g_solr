@@ -3,13 +3,13 @@
 <field name="id">19961007</field>
 <field name="genre">Operas</field>
 <field name="title">Golden Apple</field>
-<field name="titlesort">Golden Apple</field>
+<field name="titleSort">Golden Apple</field>
 <field name="composer">Bruce Trinkley</field>
-<field name="composersort">Trinkley, Bruce</field>
+<field name="composerSort">Trinkley, Bruce</field>
 <field name="year">1999</field>
 <field name="date">April 17, 1999</field>
 <field name="librettist">J. Jason Charnesky</field>
-<field name="librettistsort">Charnesky, J. Jason</field>
+<field name="librettistSort">Charnesky, J. Jason</field>
 <field name="theater">Pennsylvania State University</field>
 <field name="city">State College</field>
 <field name="region">Pennsylvania</field>

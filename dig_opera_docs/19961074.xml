@@ -3,13 +3,13 @@
 <field name="id">19961074</field>
 <field name="genre">Operas</field>
 <field name="title">Herzalarm</field>
-<field name="titlesort">Herzalarm</field>
+<field name="titleSort">Herzalarm</field>
 <field name="composer">Ariane Müller</field>
-<field name="composersort">Müller, Ariane</field>
+<field name="composerSort">Müller, Ariane</field>
 <field name="year">2010</field>
 <field name="date">September 25, 2010</field>
 <field name="librettist">Andreas von Studnitz</field>
-<field name="librettistsort">Studnitz, Andreas von</field>
+<field name="librettistSort">Studnitz, Andreas von</field>
 <field name="theater">Theater der Stadt</field>
 <field name="city">Ulm</field>
 <field name="region">Baden-Württemberg</field>

@@ -3,13 +3,13 @@
 <field name="id">19962875</field>
 <field name="genre">Operas</field>
 <field name="title">Til døden os (Till Death Us Do)</field>
-<field name="titlesort">Til døden os (Till Death Us Do)</field>
+<field name="titleSort">Til døden os (Till Death Us Do)</field>
 <field name="composer">Andy Pape</field>
-<field name="composersort">Pape, Andy</field>
+<field name="composerSort">Pape, Andy</field>
 <field name="year">2003</field>
 <field name="date">May 2, 2003</field>
 <field name="librettist">Kit Eichler</field>
-<field name="librettistsort">Eichler, Kit</field>
+<field name="librettistSort">Eichler, Kit</field>
 <field name="theater">Funen Opera</field>
 <field name="city">Odense</field>
 <field name="region">Syddanmark</field>

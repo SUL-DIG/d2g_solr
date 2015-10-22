@@ -3,13 +3,13 @@
 <field name="id">19962018</field>
 <field name="genre">Operas</field>
 <field name="title">Plastic Flowers</field>
-<field name="titlesort">Plastic Flowers</field>
+<field name="titleSort">Plastic Flowers</field>
 <field name="composer">João MacDowell</field>
-<field name="composersort">MacDowell, João</field>
+<field name="composerSort">MacDowell, João</field>
 <field name="year">2012</field>
 <field name="date">December 17, 2012</field>
 <field name="librettist">João MacDowell</field>
-<field name="librettistsort">MacDowell, João</field>
+<field name="librettistSort">MacDowell, João</field>
 <field name="theater">Engelman Recital Hal</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

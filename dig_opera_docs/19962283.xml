@@ -3,13 +3,13 @@
 <field name="id">19962283</field>
 <field name="genre">Operas</field>
 <field name="title">Sigurd Dragedræber (Sigurd the Dragon Slayer)</field>
-<field name="titlesort">Sigurd Dragedræber (Sigurd the Dragon Slayer)</field>
+<field name="titleSort">Sigurd Dragedræber (Sigurd the Dragon Slayer)</field>
 <field name="composer">Andy Pape</field>
-<field name="composersort">Pape, Andy</field>
+<field name="composerSort">Pape, Andy</field>
 <field name="year">2006</field>
 <field name="date">March 18, 2006</field>
 <field name="librettist">Bent Nørgaard</field>
-<field name="librettistsort">Nørgaard, Bent</field>
+<field name="librettistSort">Nørgaard, Bent</field>
 <field name="theater">Takkelloftet</field>
 <field name="city">Copenhagen</field>
 <field name="region">Hovedstaden</field>

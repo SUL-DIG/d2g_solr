@@ -3,12 +3,12 @@
 <field name="id">19962158</field>
 <field name="genre">Operas</field>
 <field name="title">Rip</field>
-<field name="titlesort">Rip</field>
+<field name="titleSort">Rip</field>
 <field name="composer">Colin Towns</field>
-<field name="composersort">Towns, Colin</field>
+<field name="composerSort">Towns, Colin</field>
 <field name="year">1999</field>
 <field name="librettist">Martin Newell</field>
-<field name="librettistsort">Newell, Martin</field>
+<field name="librettistSort">Newell, Martin</field>
 <field name="theater">W11 Opera</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

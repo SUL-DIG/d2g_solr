@@ -3,13 +3,13 @@
 <field name="id">19960836</field>
 <field name="genre">Operas</field>
 <field name="title">Exile</field>
-<field name="titlesort">Exile</field>
+<field name="titleSort">Exile</field>
 <field name="composer">Helen Gifford</field>
-<field name="composersort">Gifford, Helen</field>
+<field name="composerSort">Gifford, Helen</field>
 <field name="year">2010</field>
 <field name="date">June 22, 2010</field>
 <field name="librettist">Richard Meredith</field>
-<field name="librettistsort">Meredith, Richard</field>
+<field name="librettistSort">Meredith, Richard</field>
 <field name="theater">Iwaki Auditorium</field>
 <field name="city">Melbourne</field>
 <field name="region">Victoria</field>

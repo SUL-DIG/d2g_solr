@@ -3,13 +3,13 @@
 <field name="id">19960434</field>
 <field name="genre">Operas</field>
 <field name="title">Chúo Gil</field>
-<field name="titlesort">Chúo Gil</field>
+<field name="titleSort">Chúo Gil</field>
 <field name="composer">Juan Carlos Núñez</field>
-<field name="composersort">Núñez, Juan Carlos</field>
+<field name="composerSort">Núñez, Juan Carlos</field>
 <field name="year">1983</field>
 <field name="date">July 15, 1983</field>
 <field name="librettist">Arturo Úslar Pietri</field>
-<field name="librettistsort">Úslar Pietri, Arturo</field>
+<field name="librettistSort">Úslar Pietri, Arturo</field>
 <field name="theater">Teatro Teresa Carreño</field>
 <field name="city">Caracas</field>
 <field name="country">Venezuela</field>

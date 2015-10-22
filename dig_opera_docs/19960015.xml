@@ -3,13 +3,13 @@
 <field name="id">19960015</field>
 <field name="genre">Operas</field>
 <field name="title">A Brief History of Root Vegetables</field>
-<field name="titlesort">Brief History of Root Vegetables</field>
+<field name="titleSort">Brief History of Root Vegetables</field>
 <field name="composer">David Heuser</field>
-<field name="composersort">Heuser, David</field>
+<field name="composerSort">Heuser, David</field>
 <field name="year">2010</field>
 <field name="date">March 5, 2010</field>
 <field name="librettist">David Heuser</field>
-<field name="librettistsort">Heuser, David</field>
+<field name="librettistSort">Heuser, David</field>
 <field name="theater">University of Texas</field>
 <field name="city">San Antonio</field>
 <field name="region">Texas</field>

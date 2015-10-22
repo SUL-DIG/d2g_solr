@@ -3,13 +3,13 @@
 <field name="id">19962208</field>
 <field name="genre">Operas</field>
 <field name="title">Sammon tarina (The Mystery of Sampo)</field>
-<field name="titlesort">Sammon tarina (The Mystery of Sampo)</field>
+<field name="titleSort">Sammon tarina (The Mystery of Sampo)</field>
 <field name="composer">Pekka Kostiainen</field>
-<field name="composersort">Kostiainen, Pekka</field>
+<field name="composerSort">Kostiainen, Pekka</field>
 <field name="year">2003</field>
 <field name="date">June 10, 2003</field>
 <field name="librettist">Paavo Liski</field>
-<field name="librettistsort">Liski, Paavo</field>
+<field name="librettistSort">Liski, Paavo</field>
 <field name="city">Ypäjä</field>
 <field name="region">Kanta-Häme</field>
 <field name="country">Finland</field>

@@ -3,13 +3,13 @@
 <field name="id">19961480</field>
 <field name="genre">Operas</field>
 <field name="title">Le fusil de chasse</field>
-<field name="titlesort">fusil de chasse</field>
+<field name="titleSort">fusil de chasse</field>
 <field name="composer">Michèle Reverdy</field>
-<field name="composersort">Reverdy, Michèle</field>
+<field name="composerSort">Reverdy, Michèle</field>
 <field name="year">2000</field>
 <field name="date">March 10, 2000</field>
 <field name="librettist">Yasushi Inoué</field>
-<field name="librettistsort">Inoué, Yasushi</field>
+<field name="librettistSort">Inoué, Yasushi</field>
 <field name="theater">Grand-Théâtre</field>
 <field name="city">Reims</field>
 <field name="region">Marne</field>

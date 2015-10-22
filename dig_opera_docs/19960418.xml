@@ -3,13 +3,13 @@
 <field name="id">19960418</field>
 <field name="genre">Operas</field>
 <field name="title">Charivari</field>
-<field name="titlesort">Charivari</field>
+<field name="titleSort">Charivari</field>
 <field name="composer">Peter Westergaard</field>
-<field name="composersort">Westergaard, Peter</field>
+<field name="composerSort">Westergaard, Peter</field>
 <field name="year">1953</field>
 <field name="date">May 13, 1953</field>
 <field name="librettist">Peter Westergaard</field>
-<field name="librettistsort">Westergaard, Peter</field>
+<field name="librettistSort">Westergaard, Peter</field>
 <field name="theater">Harvard-Radcliffe Music Clubs</field>
 <field name="city">Cambridge</field>
 <field name="region">Massachusetts</field>

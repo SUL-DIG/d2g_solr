@@ -3,13 +3,13 @@
 <field name="id">19960326</field>
 <field name="genre">Operas</field>
 <field name="title">Black Feather Rising</field>
-<field name="titlesort">Black Feather Rising</field>
+<field name="titleSort">Black Feather Rising</field>
 <field name="composer">Param Vir</field>
-<field name="composersort">Vir, Param</field>
+<field name="composerSort">Vir, Param</field>
 <field name="year">2008</field>
 <field name="date">October 24, 2008</field>
 <field name="librettist">David Rudkin</field>
-<field name="librettistsort">Rudkin, David</field>
+<field name="librettistSort">Rudkin, David</field>
 <field name="theater">De Toneelschuur</field>
 <field name="city">Haarlem</field>
 <field name="region">Noord Holland</field>

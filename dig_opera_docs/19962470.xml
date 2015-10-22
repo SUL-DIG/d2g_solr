@@ -3,13 +3,13 @@
 <field name="id">19962470</field>
 <field name="genre">Operas</field>
 <field name="title">The Books of Daniel</field>
-<field name="titlesort">Books of Daniel</field>
+<field name="titleSort">Books of Daniel</field>
 <field name="composer">Richard L. Rose</field>
-<field name="composersort">Rose, Richard L.</field>
+<field name="composerSort">Rose, Richard L.</field>
 <field name="year">1997</field>
 <field name="date">November 15, 1997</field>
 <field name="librettist">Richard L. Rose</field>
-<field name="librettistsort">Rose, Richard L.</field>
+<field name="librettistSort">Rose, Richard L.</field>
 <field name="theater">Farmwell Station Middle School</field>
 <field name="city">Ashburn</field>
 <field name="region">Virgina</field>

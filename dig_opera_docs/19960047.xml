@@ -3,13 +3,13 @@
 <field name="id">19960047</field>
 <field name="genre">Operas</field>
 <field name="title">A Midsummer Night's Dream</field>
-<field name="titlesort">Midsummer Night's Dream</field>
+<field name="titleSort">Midsummer Night's Dream</field>
 <field name="composer">Michael Ching</field>
-<field name="composersort">Ching, Michael</field>
+<field name="composerSort">Ching, Michael</field>
 <field name="year">2011</field>
 <field name="date">January 21, 2011</field>
 <field name="librettist">William Shakespeare</field>
-<field name="librettistsort">Shakespeare, William</field>
+<field name="librettistSort">Shakespeare, William</field>
 <field name="theater">Orpheum Theater</field>
 <field name="city">Memphis</field>
 <field name="region">Tennessee</field>

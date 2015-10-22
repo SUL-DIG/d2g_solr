@@ -3,13 +3,13 @@
 <field name="id">19963079</field>
 <field name="genre">Operas</field>
 <field name="title">Ye Yan (Night Banquet)</field>
-<field name="titlesort">Ye Yan (Night Banquet)</field>
+<field name="titleSort">Ye Yan (Night Banquet)</field>
 <field name="composer">Guo Wenjing</field>
-<field name="composersort">Wenjing, Guo</field>
+<field name="composerSort">Wenjing, Guo</field>
 <field name="year">1998</field>
 <field name="date">July 10, 1998</field>
 <field name="librettist">Zhou Jingzhi</field>
-<field name="librettistsort">Zhou Jingzhi</field>
+<field name="librettistSort">Zhou Jingzhi</field>
 <field name="theater">Almeida Theatre</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

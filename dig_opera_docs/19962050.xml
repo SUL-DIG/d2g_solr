@@ -3,13 +3,13 @@
 <field name="id">19962050</field>
 <field name="genre">Operas</field>
 <field name="title">Prinsessan och vildsvanarna</field>
-<field name="titlesort">Prinsessan och vildsvanarna</field>
+<field name="titleSort">Prinsessan och vildsvanarna</field>
 <field name="composer">Jaakko Kuusisto</field>
-<field name="composersort">Kuusisto, Jaakko</field>
+<field name="composerSort">Kuusisto, Jaakko</field>
 <field name="year">2003</field>
 <field name="date">January 12, 2003</field>
 <field name="librettist">Liselott Forsman</field>
-<field name="librettistsort">Forsman, Liselott</field>
+<field name="librettistSort">Forsman, Liselott</field>
 <field name="city">Espoo</field>
 <field name="region">Uusimaa</field>
 <field name="country">Finland</field>

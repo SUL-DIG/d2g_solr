@@ -3,13 +3,13 @@
 <field name="id">19960180</field>
 <field name="genre">Operas</field>
 <field name="title">Another America: Fire</field>
-<field name="titlesort">Another America: Fire</field>
+<field name="titleSort">Another America: Fire</field>
 <field name="composer">Errollyn Wallen</field>
-<field name="composersort">Wallen, Errollyn</field>
+<field name="composerSort">Wallen, Errollyn</field>
 <field name="year">2004</field>
 <field name="date">September 16, 2004</field>
 <field name="librettist">Errollyn Wallen</field>
-<field name="librettistsort">Wallen, Errollyn</field>
+<field name="librettistSort">Wallen, Errollyn</field>
 <field name="theater">Sadler's Wells Theatre</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

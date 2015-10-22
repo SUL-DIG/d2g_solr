@@ -3,9 +3,9 @@
 <field name="id">19961817</field>
 <field name="genre">Oratorio</field>
 <field name="title">Nenia</field>
-<field name="titlesort">Nenia</field>
+<field name="titleSort">Nenia</field>
 <field name="composer">Endre Székely</field>
-<field name="composersort">Székely, Endre</field>
+<field name="composerSort">Székely, Endre</field>
 <field name="year">1969</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nenia+Endre+Székely&amp;search_field=search</field>
 </doc>

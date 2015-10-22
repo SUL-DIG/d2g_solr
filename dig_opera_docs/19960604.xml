@@ -3,13 +3,13 @@
 <field name="id">19960604</field>
 <field name="genre">Operas</field>
 <field name="title">Diamond Street</field>
-<field name="titlesort">Diamond Street</field>
+<field name="titleSort">Diamond Street</field>
 <field name="composer">Harold Farberman</field>
-<field name="composersort">Farberman, Harold</field>
+<field name="composerSort">Farberman, Harold</field>
 <field name="year">2009</field>
 <field name="date">October 1, 2009</field>
 <field name="librettist">Andrew Joffe</field>
-<field name="librettistsort">Joffe, Andrew</field>
+<field name="librettistSort">Joffe, Andrew</field>
 <field name="theater">Hudson Opera House</field>
 <field name="city">Hudson</field>
 <field name="region">New York</field>

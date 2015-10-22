@@ -3,13 +3,13 @@
 <field name="id">19962282</field>
 <field name="genre">Operas</field>
 <field name="title">Signor Goldoni</field>
-<field name="titlesort">Signor Goldoni</field>
+<field name="titleSort">Signor Goldoni</field>
 <field name="composer">Luca Mosca</field>
-<field name="composersort">Mosca, Luca</field>
+<field name="composerSort">Mosca, Luca</field>
 <field name="year">2007</field>
 <field name="date">September 21, 2007</field>
 <field name="librettist">Gianluigi Melega</field>
-<field name="librettistsort">Melega, Gianluigi</field>
+<field name="librettistSort">Melega, Gianluigi</field>
 <field name="theater">Teatro La Fenice</field>
 <field name="city">Venice</field>
 <field name="region">Veneto</field>

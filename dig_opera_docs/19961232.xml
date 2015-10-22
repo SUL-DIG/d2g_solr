@@ -3,13 +3,13 @@
 <field name="id">19961232</field>
 <field name="genre">Operas</field>
 <field name="title">Jerusalem</field>
-<field name="titlesort">Jerusalem</field>
+<field name="titleSort">Jerusalem</field>
 <field name="composer">Elizabeth Swados</field>
-<field name="composersort">Swados, Elizabeth</field>
+<field name="composerSort">Swados, Elizabeth</field>
 <field name="year">1984</field>
 <field name="date">May 24, 1984</field>
 <field name="librettist">Yehuda Amichai</field>
-<field name="librettistsort">Amichai, Yehuda</field>
+<field name="librettistSort">Amichai, Yehuda</field>
 <field name="theater">La Mama Theater Annex</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

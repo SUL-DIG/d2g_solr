@@ -3,13 +3,13 @@
 <field name="id">19961973</field>
 <field name="genre">Operas</field>
 <field name="title">Patima (The Passion)</field>
-<field name="titlesort">Patima (The Passion)</field>
+<field name="titleSort">Patima (The Passion)</field>
 <field name="composer">Emil Lerescu</field>
-<field name="composersort">Lerescu, Emil</field>
+<field name="composerSort">Lerescu, Emil</field>
 <field name="year">1995</field>
 <field name="date">April 5, 1995</field>
 <field name="librettist">Mihail Sorbul</field>
-<field name="librettistsort">Sorbul, Mihail</field>
+<field name="librettistSort">Sorbul, Mihail</field>
 <field name="theater">Palatul Cotroceni</field>
 <field name="city">Bucharest</field>
 <field name="country">Romania</field>

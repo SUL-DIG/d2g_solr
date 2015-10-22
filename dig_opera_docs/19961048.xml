@@ -3,13 +3,13 @@
 <field name="id">19961048</field>
 <field name="genre">Operas</field>
 <field name="title">Harriet Tubman</field>
-<field name="titlesort">Harriet Tubman</field>
+<field name="titleSort">Harriet Tubman</field>
 <field name="composer">Nkeiru Okoye</field>
-<field name="composersort">Okoye, Nkeiru</field>
+<field name="composerSort">Okoye, Nkeiru</field>
 <field name="year">2014</field>
 <field name="date">February 21, 2014</field>
 <field name="librettist">Nkeiru Okoye</field>
-<field name="librettistsort">Okoye, Nkeiru</field>
+<field name="librettistSort">Okoye, Nkeiru</field>
 <field name="theater">Irondale Center, Brooklyn</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

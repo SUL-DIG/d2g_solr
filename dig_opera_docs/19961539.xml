@@ -3,13 +3,13 @@
 <field name="id">19961539</field>
 <field name="genre">Operas</field>
 <field name="title">Les visites espacées</field>
-<field name="titlesort">visites espacées</field>
+<field name="titleSort">visites espacées</field>
 <field name="composer">Philippe Hersant</field>
-<field name="composersort">Hersant, Philippe</field>
+<field name="composerSort">Hersant, Philippe</field>
 <field name="year">1986</field>
 <field name="date">July 18, 1983</field>
 <field name="librettist">Jean-Claude Buchard</field>
-<field name="librettistsort">Buchard, Jean-Claude</field>
+<field name="librettistSort">Buchard, Jean-Claude</field>
 <field name="theater">Festival d'Avignon</field>
 <field name="city">Avignon</field>
 <field name="region">Vaucluse</field>

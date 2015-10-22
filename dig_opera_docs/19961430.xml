@@ -3,13 +3,13 @@
 <field name="id">19961430</field>
 <field name="genre">Operas</field>
 <field name="title">La página en blanco</field>
-<field name="titlesort">página en blanco</field>
+<field name="titleSort">página en blanco</field>
 <field name="composer">Pilar Jurado</field>
-<field name="composersort">Jurado, Pilar</field>
+<field name="composerSort">Jurado, Pilar</field>
 <field name="year">2011</field>
 <field name="date">February 11, 2011</field>
 <field name="librettist">Pilar Jurado</field>
-<field name="librettistsort">Jurado, Pilar</field>
+<field name="librettistSort">Jurado, Pilar</field>
 <field name="theater">Teatro Real</field>
 <field name="city">Madrid</field>
 <field name="region">Madrid</field>

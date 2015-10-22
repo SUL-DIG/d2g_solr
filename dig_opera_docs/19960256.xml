@@ -3,13 +3,13 @@
 <field name="id">19960256</field>
 <field name="genre">Operas</field>
 <field name="title">Baby Kintyre</field>
-<field name="titlesort">Baby Kintyre</field>
+<field name="titleSort">Baby Kintyre</field>
 <field name="composer">Dean Burry</field>
-<field name="composersort">Burry, Dean</field>
+<field name="composerSort">Burry, Dean</field>
 <field name="year">2009</field>
 <field name="date">November 7, 2009</field>
 <field name="librettist">Dean Burry</field>
-<field name="librettistsort">Burry, Dean</field>
+<field name="librettistSort">Burry, Dean</field>
 <field name="theater">CBC Radio (Canadian Broadcasting Corporation)</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

@@ -3,13 +3,13 @@
 <field name="id">19961100</field>
 <field name="genre">Operas</field>
 <field name="title">Hölderlin</field>
-<field name="titlesort">Hölderlin</field>
+<field name="titleSort">Hölderlin</field>
 <field name="composer">Peter Ruzicka</field>
-<field name="composersort">Ruzicka, Peter</field>
+<field name="composerSort">Ruzicka, Peter</field>
 <field name="year">2008</field>
 <field name="date">November 16, 2008</field>
 <field name="librettist">Peter Mussbach</field>
-<field name="librettistsort">Mussbach, Peter</field>
+<field name="librettistSort">Mussbach, Peter</field>
 <field name="theater">Deutsche Staatsoper</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>

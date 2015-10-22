@@ -3,13 +3,13 @@
 <field name="id">19960380</field>
 <field name="genre">Operas</field>
 <field name="title">C'Era una volta la Principessa Dispettosa</field>
-<field name="titlesort">C'Era una volta la Principessa Dispettosa</field>
+<field name="titleSort">C'Era una volta la Principessa Dispettosa</field>
 <field name="composer">Roberta Vacca</field>
-<field name="composersort">Vacca, Roberto</field>
+<field name="composerSort">Vacca, Roberto</field>
 <field name="year">2000</field>
 <field name="date">May 12, 2000</field>
 <field name="librettist">Nicoletta Costa</field>
-<field name="librettistsort">Costa, Nicoletta</field>
+<field name="librettistSort">Costa, Nicoletta</field>
 <field name="theater">Teatro Greco</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>

@@ -3,13 +3,13 @@
 <field name="id">19961883</field>
 <field name="genre">Operas</field>
 <field name="title">Oh Pilot!</field>
-<field name="titlesort">Oh Pilot!</field>
+<field name="titleSort">Oh Pilot!</field>
 <field name="composer">Nic Gotham</field>
-<field name="composersort">Gotham, Nic</field>
+<field name="composerSort">Gotham, Nic</field>
 <field name="year">2007</field>
 <field name="date">February 24, 2007</field>
 <field name="librettist">Baņuta Rubess</field>
-<field name="librettistsort">Rubess, Baņuta</field>
+<field name="librettistSort">Rubess, Baņuta</field>
 <field name="theater">Latviyskiy Teatr Operï i Baleta</field>
 <field name="city">Riga</field>
 <field name="country">Latvia</field>

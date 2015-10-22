@@ -3,13 +3,13 @@
 <field name="id">19962163</field>
 <field name="genre">Operas</field>
 <field name="title">River of Women/Rio de Mujeres</field>
-<field name="titlesort">River of Women/Rio de Mujeres</field>
+<field name="titleSort">River of Women/Rio de Mujeres</field>
 <field name="composer">Hector Armienta</field>
-<field name="composersort">Armienta, Hector</field>
+<field name="composerSort">Armienta, Hector</field>
 <field name="year">2001</field>
 <field name="date">May 4, 2001</field>
 <field name="librettist">Hector Armienta</field>
-<field name="librettistsort">Armienta, Hector</field>
+<field name="librettistSort">Armienta, Hector</field>
 <field name="theater">Theater Artaud</field>
 <field name="city">San Francisco</field>
 <field name="region">California</field>

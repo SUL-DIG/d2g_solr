@@ -3,13 +3,13 @@
 <field name="id">19961526</field>
 <field name="genre">Operas</field>
 <field name="title">Les enfants du Levant</field>
-<field name="titlesort">enfants du Levant</field>
+<field name="titleSort">enfants du Levant</field>
 <field name="composer">Isabelle Aboulker</field>
-<field name="composersort">Aboulker, Isabelle</field>
+<field name="composerSort">Aboulker, Isabelle</field>
 <field name="year">2004</field>
 <field name="date">October 5, 2004</field>
 <field name="librettist">Christian Eymery</field>
-<field name="librettistsort">Eymery, Christian</field>
+<field name="librettistSort">Eymery, Christian</field>
 <field name="theater">L'espace Jacques Prévert</field>
 <field name="city">Aulnay-sous-Bois</field>
 <field name="region">Seine-Saint-Denis</field>

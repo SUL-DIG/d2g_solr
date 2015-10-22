@@ -3,13 +3,13 @@
 <field name="id">19962400</field>
 <field name="genre">Operas</field>
 <field name="title">Suster Bertken</field>
-<field name="titlesort">Suster Bertken</field>
+<field name="titleSort">Suster Bertken</field>
 <field name="composer">Robert Zuidam</field>
-<field name="composersort">Zuidam, Robert</field>
+<field name="composerSort">Zuidam, Robert</field>
 <field name="year">2010</field>
 <field name="date">December 4, 2010</field>
 <field name="librettist">Robert Zuidam</field>
-<field name="librettistsort">Zuidam, Robert</field>
+<field name="librettistSort">Zuidam, Robert</field>
 <field name="theater">Concertgebouw</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>

@@ -3,13 +3,13 @@
 <field name="id">19963000</field>
 <field name="genre">Operas</field>
 <field name="title">Vinkensport or The Finch Opera</field>
-<field name="titlesort">Vinkensport or The Finch Opera</field>
+<field name="titleSort">Vinkensport or The Finch Opera</field>
 <field name="composer">David T. Little</field>
-<field name="composersort">Little, David T.</field>
+<field name="composerSort">Little, David T.</field>
 <field name="year">2010</field>
 <field name="date">February 26, 2010</field>
 <field name="librettist">Royce Vavrek</field>
-<field name="librettistsort">Vavrek, Royce</field>
+<field name="librettistSort">Vavrek, Royce</field>
 <field name="theater">Bard College</field>
 <field name="city">Annandale-on-Hudson</field>
 <field name="region">New York</field>

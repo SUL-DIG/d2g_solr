@@ -3,12 +3,12 @@
 <field name="id">19962799</field>
 <field name="genre">Operas</field>
 <field name="title">The Tin Knight</field>
-<field name="titlesort">Tin Knight</field>
+<field name="titleSort">Tin Knight</field>
 <field name="composer">Francis Shaw</field>
-<field name="composersort">Shaw, Francis</field>
+<field name="composerSort">Shaw, Francis</field>
 <field name="year">1986</field>
 <field name="librettist">Michael Finch</field>
-<field name="librettistsort">Finch, Michael</field>
+<field name="librettistSort">Finch, Michael</field>
 <field name="theater">W11 Opera</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

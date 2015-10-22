@@ -3,12 +3,12 @@
 <field name="id">19961286</field>
 <field name="genre">Operas</field>
 <field name="title">Karlugas (The Swallow)</field>
-<field name="titlesort">Karlugas (The Swallow)</field>
+<field name="titleSort">Karlugas (The Swallow)</field>
 <field name="composer">Nikolay Karpovich Chemberdzhi</field>
-<field name="composersort">Chemberdzhi, Nikolay Karpovich</field>
+<field name="composerSort">Chemberdzhi, Nikolay Karpovich</field>
 <field name="year">1941</field>
 <field name="librettist">Bayazit Bikbay</field>
-<field name="librettistsort">Bikbay, Bayazit</field>
+<field name="librettistSort">Bikbay, Bayazit</field>
 <field name="theater">Bashkirskiy Teatr Operï i Baleta</field>
 <field name="city">Ufa</field>
 <field name="region">Bashkortostan Republic</field>

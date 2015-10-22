@@ -3,13 +3,13 @@
 <field name="id">19962084</field>
 <field name="genre">Operas</field>
 <field name="title">Qudsja Zaher</field>
-<field name="titlesort">Qudsja Zaher</field>
+<field name="titleSort">Qudsja Zaher</field>
 <field name="composer">Paweł Szymański</field>
-<field name="composersort">Szymański, Paweł</field>
+<field name="composerSort">Szymański, Paweł</field>
 <field name="year">2013</field>
 <field name="date">April 20, 2013</field>
 <field name="librettist">Maciej J. Drygas</field>
-<field name="librettistsort">Drygas, Maciej J.</field>
+<field name="librettistSort">Drygas, Maciej J.</field>
 <field name="theater">Teatr Wielki</field>
 <field name="city">Warsaw</field>
 <field name="country">Poland</field>

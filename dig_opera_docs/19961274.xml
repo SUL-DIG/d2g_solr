@@ -3,13 +3,13 @@
 <field name="id">19961274</field>
 <field name="genre">Operas</field>
 <field name="title">Kahalaopuna, Princess of Manoa</field>
-<field name="titlesort">Kahalaopuna, Princess of Manoa</field>
+<field name="titleSort">Kahalaopuna, Princess of Manoa</field>
 <field name="composer">Neil McKay</field>
-<field name="composersort">McKay, Neil</field>
+<field name="composerSort">McKay, Neil</field>
 <field name="year">1995</field>
 <field name="date">February 15, 1995</field>
 <field name="librettist">Neil McKay</field>
-<field name="librettistsort">McKay, Neil</field>
+<field name="librettistSort">McKay, Neil</field>
 <field name="theater">KHET Television</field>
 <field name="city">Honolulu</field>
 <field name="region">Hawaii</field>

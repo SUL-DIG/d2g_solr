@@ -3,13 +3,13 @@
 <field name="id">19961811</field>
 <field name="genre">Operas</field>
 <field name="title">Nätverket (The Network)</field>
-<field name="titlesort">Nätverket (The Network)</field>
+<field name="titleSort">Nätverket (The Network)</field>
 <field name="composer">Sven-David Sandström</field>
-<field name="composersort">Sandström, Sven-David</field>
+<field name="composerSort">Sandström, Sven-David</field>
 <field name="year">2009</field>
 <field name="date">November 28, 2009</field>
 <field name="librettist">Claes Fellbom</field>
-<field name="librettistsort">Fellbom, Claes</field>
+<field name="librettistSort">Fellbom, Claes</field>
 <field name="theater">Operahögskolan</field>
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>

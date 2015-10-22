@@ -3,13 +3,13 @@
 <field name="id">19962292</field>
 <field name="genre">Operas</field>
 <field name="title">Sinapinsiemen (The Mustard Seed)</field>
-<field name="titlesort">Sinapinsiemen (The Mustard Seed)</field>
+<field name="titleSort">Sinapinsiemen (The Mustard Seed)</field>
 <field name="composer">Kimmo Hakola</field>
-<field name="composersort">Hakola, Kimmo</field>
+<field name="composerSort">Hakola, Kimmo</field>
 <field name="year">2001</field>
 <field name="date">August 2, 2001</field>
 <field name="librettist">Antti Tuuri</field>
-<field name="librettistsort">Tuuri, Antti</field>
+<field name="librettistSort">Tuuri, Antti</field>
 <field name="theater">Seinäjoki-sali</field>
 <field name="city">Seinäjoki</field>
 <field name="region">Etelä-Pohjanmaa</field>

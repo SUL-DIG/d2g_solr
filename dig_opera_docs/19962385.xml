@@ -3,13 +3,13 @@
 <field name="id">19962385</field>
 <field name="genre">Operas</field>
 <field name="title">Sulka (The Quill)</field>
-<field name="titlesort">Sulka (The Quill)</field>
+<field name="titleSort">Sulka (The Quill)</field>
 <field name="composer">Tapani Länsiö</field>
-<field name="composersort">Länsiö, Tapani</field>
+<field name="composerSort">Länsiö, Tapani</field>
 <field name="year">2001</field>
 <field name="date">March 3, 2001</field>
 <field name="librettist">Paavo Haavikko</field>
-<field name="librettistsort">Haavikko, Paavo</field>
+<field name="librettistSort">Haavikko, Paavo</field>
 <field name="theater">Suomen Kansallisooppera Alminsali</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

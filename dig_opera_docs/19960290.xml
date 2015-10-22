@@ -3,13 +3,13 @@
 <field name="id">19960290</field>
 <field name="genre">Operas</field>
 <field name="title">Beautiful Creatures</field>
-<field name="titlesort">Beautiful Creatures</field>
+<field name="titleSort">Beautiful Creatures</field>
 <field name="composer">Jennifer Griffith</field>
-<field name="composersort">Griffith, Jennifer</field>
+<field name="composerSort">Griffith, Jennifer</field>
 <field name="year">2011</field>
 <field name="date">November 10, 2011</field>
 <field name="librettist">Dominic Orlando</field>
-<field name="librettistsort">Orlando, Dominic</field>
+<field name="librettistSort">Orlando, Dominic</field>
 <field name="theater">Norwood Club</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

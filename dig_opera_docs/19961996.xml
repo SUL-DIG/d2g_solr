@@ -3,13 +3,13 @@
 <field name="id">19961996</field>
 <field name="genre">Operas</field>
 <field name="title">Phoolan Devi: The Bandit Queen</field>
-<field name="titlesort">Phoolan Devi: The Bandit Queen</field>
+<field name="titleSort">Phoolan Devi: The Bandit Queen</field>
 <field name="composer">Shirish Korde</field>
-<field name="composersort">Korde, Shirish</field>
+<field name="composerSort">Korde, Shirish</field>
 <field name="year">2010</field>
 <field name="date">April 15, 2010</field>
 <field name="librettist">Lynn Kremer</field>
-<field name="librettistsort">Kremer, Lynn</field>
+<field name="librettistSort">Kremer, Lynn</field>
 <field name="theater">College of the Holy Cross</field>
 <field name="city">Worcester</field>
 <field name="region">Massachusetts</field>

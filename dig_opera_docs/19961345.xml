@@ -3,13 +3,13 @@
 <field name="id">19961345</field>
 <field name="genre">Operas</field>
 <field name="title">Kunskapens vin (The Wine of Knowledge)</field>
-<field name="titlesort">Kunskapens vin (The Wine of Knowledge)</field>
+<field name="titleSort">Kunskapens vin (The Wine of Knowledge)</field>
 <field name="composer">Sven-Eric Johanson</field>
-<field name="composersort">Johanson, Sven-Eric</field>
+<field name="composerSort">Johanson, Sven-Eric</field>
 <field name="year">1959</field>
 <field name="date">May 21, 1959</field>
 <field name="librettist">Gunnar Möllerstedt</field>
-<field name="librettistsort">Gunnar, Möllerstedt</field>
+<field name="librettistSort">Gunnar, Möllerstedt</field>
 <field name="city">Göteborg</field>
 <field name="region">Göteborg och Bohus</field>
 <field name="country">Sweden</field>

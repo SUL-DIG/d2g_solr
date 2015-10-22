@@ -3,13 +3,13 @@
 <field name="id">19961654</field>
 <field name="genre">Operas</field>
 <field name="title">Marco Polo</field>
-<field name="titlesort">Marco Polo</field>
+<field name="titleSort">Marco Polo</field>
 <field name="composer">Daniele Zanettovich</field>
-<field name="composersort">Zanettovich, Daniele</field>
+<field name="composerSort">Zanettovich, Daniele</field>
 <field name="year">2013</field>
 <field name="date">April 24, 2013</field>
 <field name="librettist">Fabio Ceresa</field>
-<field name="librettistsort">Ceresa, Fabio</field>
+<field name="librettistSort">Ceresa, Fabio</field>
 <field name="theater">Hrvatsko Narodno Kazaliste Ivan Zajc</field>
 <field name="city">Rijeka</field>
 <field name="region">Primorje-Gorski</field>

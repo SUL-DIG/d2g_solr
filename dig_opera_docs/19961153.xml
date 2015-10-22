@@ -3,13 +3,13 @@
 <field name="id">19961153</field>
 <field name="genre">Operas</field>
 <field name="title">Il favorito del re</field>
-<field name="titlesort">favorito del re</field>
+<field name="titleSort">favorito del re</field>
 <field name="composer">Antonio Veretti</field>
-<field name="composersort">Veretti, Antonio</field>
+<field name="composerSort">Veretti, Antonio</field>
 <field name="year">1932</field>
 <field name="date">March 17, 1932</field>
 <field name="librettist">Arturo Rossato</field>
-<field name="librettistsort">Rossato, Arturo</field>
+<field name="librettistSort">Rossato, Arturo</field>
 <field name="theater">Teatro alla Scala</field>
 <field name="city">Milan</field>
 <field name="region">Lombardia</field>

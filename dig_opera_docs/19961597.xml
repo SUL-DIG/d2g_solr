@@ -3,13 +3,13 @@
 <field name="id">19961597</field>
 <field name="genre">Operas</field>
 <field name="title">Love in the Blue Corner</field>
-<field name="titlesort">Love in the Blue Corner</field>
+<field name="titleSort">Love in the Blue Corner</field>
 <field name="composer">Gareth Williams</field>
-<field name="composersort">Williams, Gareth</field>
+<field name="composerSort">Williams, Gareth</field>
 <field name="year">2006</field>
 <field name="date">May 3, 2006</field>
 <field name="librettist">Gareth Williams</field>
-<field name="librettistsort">Williams, Gareth</field>
+<field name="librettistSort">Williams, Gareth</field>
 <field name="theater">Royal Scottish Academy of Music and Drama</field>
 <field name="city">Glasgow</field>
 <field name="region">Scotland</field>

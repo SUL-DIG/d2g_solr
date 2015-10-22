@@ -3,13 +3,13 @@
 <field name="id">19962991</field>
 <field name="genre">Operas</field>
 <field name="title">Verraten und verkauft </field>
-<field name="titlesort">Verraten und verkauft </field>
+<field name="titleSort">Verraten und verkauft </field>
 <field name="composer">Niclas Ramdohr</field>
-<field name="composersort">Ramdohr, Niclas</field>
+<field name="composerSort">Ramdohr, Niclas</field>
 <field name="year">1996</field>
 <field name="date">August 16, 1996</field>
 <field name="librettist">Peter Lund</field>
-<field name="librettistsort">Lund, Peter</field>
+<field name="librettistSort">Lund, Peter</field>
 <field name="theater">Neuköllner Oper</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>

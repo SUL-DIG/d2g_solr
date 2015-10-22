@@ -3,13 +3,13 @@
 <field name="id">19960294</field>
 <field name="genre">Operas</field>
 <field name="title">Bed and Sofa</field>
-<field name="titlesort">Bed and Sofa</field>
+<field name="titleSort">Bed and Sofa</field>
 <field name="composer">Polly Pen</field>
-<field name="composersort">Pen, Polly</field>
+<field name="composerSort">Pen, Polly</field>
 <field name="year">1996</field>
 <field name="date">February 1, 1996</field>
 <field name="librettist">Laurence Klavan</field>
-<field name="librettistsort">Klavan, Laurence</field>
+<field name="librettistSort">Klavan, Laurence</field>
 <field name="theater">Vineyard Theater</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

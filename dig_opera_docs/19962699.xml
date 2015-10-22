@@ -3,13 +3,13 @@
 <field name="id">19962699</field>
 <field name="genre">Operas</field>
 <field name="title">The Pleasure Garden</field>
-<field name="titlesort">Pleasure Garden</field>
+<field name="titleSort">Pleasure Garden</field>
 <field name="composer">Philip Norman</field>
-<field name="composersort">Norman, Philip</field>
+<field name="composerSort">Norman, Philip</field>
 <field name="year">2008</field>
 <field name="date">April 9, 2008</field>
 <field name="librettist">Alan Keith Grant</field>
-<field name="librettistsort">Grant, Alan Keith</field>
+<field name="librettistSort">Grant, Alan Keith</field>
 <field name="theater">Opera Factory Studio Theatre</field>
 <field name="city">Auckland</field>
 <field name="country">New Zealand</field>

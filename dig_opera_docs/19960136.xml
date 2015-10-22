@@ -3,13 +3,13 @@
 <field name="id">19960136</field>
 <field name="genre">Operas</field>
 <field name="title">Ambrosio o la fábula del amor</field>
-<field name="titlesort">Ambrosio o la fábula del amor</field>
+<field name="titleSort">Ambrosio o la fábula del amor</field>
 <field name="composer">José Antonio Guzmán</field>
-<field name="composersort">Guzmán, José Antonio</field>
+<field name="composerSort">Guzmán, José Antonio</field>
 <field name="year">1990</field>
 <field name="date">July 5, 1990</field>
 <field name="librettist">José Antonio Guzmán</field>
-<field name="librettistsort">Guzmán, José Antonio</field>
+<field name="librettistSort">Guzmán, José Antonio</field>
 <field name="theater">Sala Miguel Covarrubias</field>
 <field name="city">Mexico City</field>
 <field name="country">Mexico</field>

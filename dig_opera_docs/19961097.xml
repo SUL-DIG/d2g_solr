@@ -3,13 +3,13 @@
 <field name="id">19961097</field>
 <field name="genre">Operas</field>
 <field name="title">Hofers Nacht</field>
-<field name="titlesort">Hofers Nacht</field>
+<field name="titleSort">Hofers Nacht</field>
 <field name="composer">Florian Bramböck</field>
-<field name="composersort">Bramböck, Florian</field>
+<field name="composerSort">Bramböck, Florian</field>
 <field name="year">2009</field>
 <field name="date">April 5, 2009</field>
 <field name="librettist">Alois Schöpf</field>
-<field name="librettistsort">Schöpf, Alois</field>
+<field name="librettistSort">Schöpf, Alois</field>
 <field name="theater">Tiroler Landestheater</field>
 <field name="city">Innsbruck</field>
 <field name="region">Tirol</field>

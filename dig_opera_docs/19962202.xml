@@ -3,13 +3,13 @@
 <field name="id">19962202</field>
 <field name="genre">Operas</field>
 <field name="title">Safe Word</field>
-<field name="titlesort">Safe Word</field>
+<field name="titleSort">Safe Word</field>
 <field name="composer">Robert Paterson </field>
-<field name="composersort">Paterson, Robert</field>
+<field name="composerSort">Paterson, Robert</field>
 <field name="year">2014</field>
 <field name="date">May 8, 2014</field>
 <field name="librettist">David Cote</field>
-<field name="librettistsort">Cote, David</field>
+<field name="librettistSort">Cote, David</field>
 <field name="theater">McDavid Studio</field>
 <field name="city">Fort Worth</field>
 <field name="region">Texas</field>

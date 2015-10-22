@@ -3,13 +3,13 @@
 <field name="id">19961248</field>
 <field name="genre">Operas</field>
 <field name="title">Joseph Merrick dit Elephant Man</field>
-<field name="titlesort">Joseph Merrick dit Elephant Man</field>
+<field name="titleSort">Joseph Merrick dit Elephant Man</field>
 <field name="composer">Laurent Petitgirard</field>
-<field name="composersort">Petitgirard, Laurent</field>
+<field name="composerSort">Petitgirard, Laurent</field>
 <field name="year">2002</field>
 <field name="date">February 7, 2002</field>
 <field name="librettist">Eric Nonn</field>
-<field name="librettistsort">Nonn, Eric</field>
+<field name="librettistSort">Nonn, Eric</field>
 <field name="theater">Národní Divadlo</field>
 <field name="city">Prague</field>
 <field name="country">Czech Republic</field>

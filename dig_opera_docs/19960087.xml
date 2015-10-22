@@ -3,12 +3,12 @@
 <field name="id">19960087</field>
 <field name="genre">Operas</field>
 <field name="title">Agrā rūsa (Early Rust)</field>
-<field name="titlesort">Agrā rūsa (Early Rust)</field>
+<field name="titleSort">Agrā rūsa (Early Rust)</field>
 <field name="composer">Jānis Lūsēns</field>
-<field name="composersort">Lūsēns, Jānis</field>
+<field name="composerSort">Lūsēns, Jānis</field>
 <field name="year">2007</field>
 <field name="librettist">Pēters Brūveris</field>
-<field name="librettistsort">Brūveris, Pēters</field>
+<field name="librettistSort">Brūveris, Pēters</field>
 <field name="theater">Liepajas Teatris</field>
 <field name="city">Liepaja</field>
 <field name="region">Liepaja</field>

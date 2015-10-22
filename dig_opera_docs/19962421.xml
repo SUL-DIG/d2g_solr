@@ -3,13 +3,13 @@
 <field name="id">19962421</field>
 <field name="genre">Operas</field>
 <field name="title">Tangier Tattoo</field>
-<field name="titlesort">Tangier Tattoo</field>
+<field name="titleSort">Tangier Tattoo</field>
 <field name="composer">John Lunn</field>
-<field name="composersort">Lunn, John</field>
+<field name="composerSort">Lunn, John</field>
 <field name="year">2005</field>
 <field name="date">October 22, 2005</field>
 <field name="librettist">Stephen Plaice</field>
-<field name="librettistsort">Plaice, Stephen</field>
+<field name="librettistSort">Plaice, Stephen</field>
 <field name="theater">Glyndebourne Festival Opera</field>
 <field name="city">Glyndebourne</field>
 <field name="region">East Sussex</field>

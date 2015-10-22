@@ -3,13 +3,13 @@
 <field name="id">19962287</field>
 <field name="genre">Operas</field>
 <field name="title">Silmänkääntäjä</field>
-<field name="titlesort">Silmänkääntäjä</field>
+<field name="titleSort">Silmänkääntäjä</field>
 <field name="composer">Hannu Sinnemäki </field>
-<field name="composersort">Sinnemäki, Hannu</field>
+<field name="composerSort">Sinnemäki, Hannu</field>
 <field name="year">1997</field>
 <field name="date">November 28, 1997</field>
 <field name="librettist">Pekka Juhani Hannikainen</field>
-<field name="librettistsort">Hannikainen, Pekka Juhani</field>
+<field name="librettistSort">Hannikainen, Pekka Juhani</field>
 <field name="theater">Suomen Kansallisooppera Alminsali</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

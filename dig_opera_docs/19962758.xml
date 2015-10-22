@@ -3,13 +3,13 @@
 <field name="id">19962758</field>
 <field name="genre">Operas</field>
 <field name="title">The Silent Prince</field>
-<field name="titlesort">Silent Prince</field>
+<field name="titleSort">Silent Prince</field>
 <field name="composer">Somtow Sucharitkul</field>
-<field name="composersort">Sucharitkul, Somtow</field>
+<field name="composerSort">Sucharitkul, Somtow</field>
 <field name="year">2010</field>
 <field name="date">October 15, 2010</field>
 <field name="librettist">Somtow Sucharitkul</field>
-<field name="librettistsort">Sucharitkul, Somtow</field>
+<field name="librettistSort">Sucharitkul, Somtow</field>
 <field name="theater">Hobby Performing Arts Center, Zilkha Hall</field>
 <field name="city">Houston</field>
 <field name="region">Texas</field>

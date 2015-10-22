@@ -3,12 +3,12 @@
 <field name="id">19962274</field>
 <field name="genre">Operas</field>
 <field name="title">Shizuka to Yoshitsune</field>
-<field name="titlesort">Shizuka to Yoshitsune</field>
+<field name="titleSort">Shizuka to Yoshitsune</field>
 <field name="composer">Minoru Miki</field>
-<field name="composersort">Miki, Minoru</field>
+<field name="composerSort">Miki, Minoru</field>
 <field name="year">1993</field>
 <field name="librettist">Rei Nakanishi</field>
-<field name="librettistsort">Nakanishi, Rei</field>
+<field name="librettistSort">Nakanishi, Rei</field>
 <field name="theater">Kamakura Performing Arts Center</field>
 <field name="city">Kamakura</field>
 <field name="region">Kanagawa</field>

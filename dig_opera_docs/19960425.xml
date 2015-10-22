@@ -3,12 +3,12 @@
 <field name="id">19960425</field>
 <field name="genre">Operas</field>
 <field name="title">Chertogon</field>
-<field name="titlesort">Chertogon</field>
+<field name="titleSort">Chertogon</field>
 <field name="composer">Nikolay Nikolayevich Sidel'nikov</field>
-<field name="composersort">Sidel'nikov, Nikolay Nikolayevich</field>
+<field name="composerSort">Sidel'nikov, Nikolay Nikolayevich</field>
 <field name="year">2007</field>
 <field name="librettist">Nikolay Semyonovich Leskov</field>
-<field name="librettistsort">Leskov, Nikolay Semyonovich</field>
+<field name="librettistSort">Leskov, Nikolay Semyonovich</field>
 <field name="theater">Teatr Operï i Baleta</field>
 <field name="city">Perm'</field>
 <field name="region">Perm' Oblast</field>

@@ -3,9 +3,9 @@
 <field name="id">19961659</field>
 <field name="genre">Operas</field>
 <field name="title">Maria di Venosa</field>
-<field name="titlesort">Maria di Venosa</field>
+<field name="titleSort">Maria di Venosa</field>
 <field name="composer">Francesco d'Avalos</field>
-<field name="composersort">d'Avalos, Francesco</field>
+<field name="composerSort">d'Avalos, Francesco</field>
 <field name="year">2013</field>
 <field name="date">July 19, 2013</field>
 <field name="theater">Festival della Valle d’Itria, Palazzo Ducale</field>

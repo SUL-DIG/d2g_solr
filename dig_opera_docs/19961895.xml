@@ -3,13 +3,13 @@
 <field name="id">19961895</field>
 <field name="genre">Operas</field>
 <field name="title">One</field>
-<field name="titlesort">One</field>
+<field name="titleSort">One</field>
 <field name="composer">Michel van der Aa</field>
-<field name="composersort">van der Aa, Michel</field>
+<field name="composerSort">van der Aa, Michel</field>
 <field name="year">2003</field>
 <field name="date">January 12, 2003</field>
 <field name="librettist">Michel van der Aa</field>
-<field name="librettistsort">van der Aa, Michel</field>
+<field name="librettistSort">van der Aa, Michel</field>
 <field name="theater">Frascati Theater</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>

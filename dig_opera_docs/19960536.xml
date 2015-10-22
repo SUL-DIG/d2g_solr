@@ -3,13 +3,13 @@
 <field name="id">19960536</field>
 <field name="genre">Operas</field>
 <field name="title">Death of Columbus</field>
-<field name="titlesort">Death of Columbus</field>
+<field name="titleSort">Death of Columbus</field>
 <field name="composer">Leonardo Balada</field>
-<field name="composersort">Balada, Leonardo</field>
+<field name="composerSort">Balada, Leonardo</field>
 <field name="year">2005</field>
 <field name="date">January 13, 1995</field>
 <field name="librettist">Leonardo Balada</field>
-<field name="librettistsort">Balada, Leonardo</field>
+<field name="librettistSort">Balada, Leonardo</field>
 <field name="theater">Carnegie Mellon University</field>
 <field name="city">Pittsburgh</field>
 <field name="region">Pennsylvania</field>

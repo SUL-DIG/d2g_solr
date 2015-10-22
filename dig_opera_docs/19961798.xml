@@ -3,13 +3,13 @@
 <field name="id">19961798</field>
 <field name="genre">Operas</field>
 <field name="title">Naomi in the Living Room</field>
-<field name="titlesort">Naomi in the Living Room</field>
+<field name="titleSort">Naomi in the Living Room</field>
 <field name="composer">Jonathan Holland</field>
-<field name="composersort">Holland, Jonathan</field>
+<field name="composerSort">Holland, Jonathan</field>
 <field name="year">2001</field>
 <field name="date">October 27, 2001</field>
 <field name="librettist">Christopher Durang</field>
-<field name="librettistsort">Durang, Christopher</field>
+<field name="librettistSort">Durang, Christopher</field>
 <field name="theater">Swarthmore college</field>
 <field name="city">Swarthmore </field>
 <field name="region">Pennsylvania</field>

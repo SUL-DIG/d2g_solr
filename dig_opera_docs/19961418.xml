@@ -3,13 +3,13 @@
 <field name="id">19961418</field>
 <field name="genre">Operas</field>
 <field name="title">La madre del mostro</field>
-<field name="titlesort">madre del mostro</field>
+<field name="titleSort">madre del mostro</field>
 <field name="composer">Fabio Vacchi</field>
-<field name="composersort">Fabio Vacchi</field>
+<field name="composerSort">Fabio Vacchi</field>
 <field name="year">2007</field>
 <field name="date">July 15, 2007</field>
 <field name="librettist">Michele Serra</field>
-<field name="librettistsort">Serra, Michele</field>
+<field name="librettistSort">Serra, Michele</field>
 <field name="theater">Teatro dei Rozzi</field>
 <field name="city">Siena</field>
 <field name="region">Toscana</field>

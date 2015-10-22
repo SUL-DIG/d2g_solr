@@ -3,13 +3,13 @@
 <field name="id">19961109</field>
 <field name="genre">Operas</field>
 <field name="title">Hôtel de Pékin</field>
-<field name="titlesort">Hôtel de Pékin</field>
+<field name="titleSort">Hôtel de Pékin</field>
 <field name="composer">Willem Jeths</field>
-<field name="composersort">Jeths, Willem</field>
+<field name="composerSort">Jeths, Willem</field>
 <field name="year">2008</field>
 <field name="date">November 25, 2008</field>
 <field name="librettist">Friso Haverkamp</field>
-<field name="librettistsort">Haverkamp, Friso</field>
+<field name="librettistSort">Haverkamp, Friso</field>
 <field name="theater">Nationale Reisopera</field>
 <field name="city">Enschede</field>
 <field name="region">Overijssel</field>

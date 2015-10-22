@@ -3,13 +3,13 @@
 <field name="id">19962651</field>
 <field name="genre">Operas</field>
 <field name="title">The Minotaur Trilogy</field>
-<field name="titlesort">Minotaur Trilogy</field>
+<field name="titleSort">Minotaur Trilogy</field>
 <field name="composer">David Young</field>
-<field name="composersort">Young, David</field>
+<field name="composerSort">Young, David</field>
 <field name="year">2012</field>
 <field name="date">October 18, 2012</field>
 <field name="librettist">Margaret Cameron</field>
-<field name="librettistsort">Cameron, Margaret</field>
+<field name="librettistSort">Cameron, Margaret</field>
 <field name="theater">Salon, Melbourne Recital Centre</field>
 <field name="city">Melbourne</field>
 <field name="region">Victoria</field>

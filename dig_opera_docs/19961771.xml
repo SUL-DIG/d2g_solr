@@ -3,13 +3,13 @@
 <field name="id">19961771</field>
 <field name="genre">Operas</field>
 <field name="title">Mr. Emmet Takes a Walk</field>
-<field name="titlesort">Mr. Emmet Takes a Walk</field>
+<field name="titleSort">Mr. Emmet Takes a Walk</field>
 <field name="composer">Peter Maxwell Davies</field>
-<field name="composersort">Davies, Peter Maxwell</field>
+<field name="composerSort">Davies, Peter Maxwell</field>
 <field name="year">2000</field>
 <field name="date">June 16, 2000</field>
 <field name="librettist">David Pountney</field>
-<field name="librettistsort">Pountney, David</field>
+<field name="librettistSort">Pountney, David</field>
 <field name="theater">Pickaquoy Centre</field>
 <field name="city">Kirkwall</field>
 <field name="region">Orkney Islands</field>

@@ -3,13 +3,13 @@
 <field name="id">19962903</field>
 <field name="genre">Operas</field>
 <field name="title">Träskoprinsessan</field>
-<field name="titlesort">Träskoprinsessan</field>
+<field name="titleSort">Träskoprinsessan</field>
 <field name="composer">Jonas Forssell</field>
-<field name="composersort">Forssell, Jonas</field>
+<field name="composerSort">Forssell, Jonas</field>
 <field name="year">2007</field>
 <field name="date">February 10, 2007</field>
 <field name="librettist">Maria Sundkvist</field>
-<field name="librettistsort">Sundkvist, Maria</field>
+<field name="librettistSort">Sundkvist, Maria</field>
 <field name="theater">Malmö Opera och Musikteater</field>
 <field name="city">Malmö</field>
 <field name="region">Skåne</field>

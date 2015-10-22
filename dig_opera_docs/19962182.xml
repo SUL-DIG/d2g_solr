@@ -3,13 +3,13 @@
 <field name="id">19962182</field>
 <field name="genre">Operas</field>
 <field name="title">Rose og ravn (Rose and Raven)</field>
-<field name="titlesort">Rose og ravn (Rose and Raven)</field>
+<field name="titleSort">Rose og ravn (Rose and Raven)</field>
 <field name="composer">Ragnar Söderlind</field>
-<field name="composersort">Söderlind, Ragnar</field>
+<field name="composerSort">Söderlind, Ragnar</field>
 <field name="year">1995</field>
 <field name="date">May 24, 1995</field>
 <field name="librettist">Knut Jørgen Moe</field>
-<field name="librettistsort">Moe, Knut Jørgen</field>
+<field name="librettistSort">Moe, Knut Jørgen</field>
 <field name="theater">Grieghallen</field>
 <field name="city">Bergen</field>
 <field name="region">Hordaland</field>

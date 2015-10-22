@@ -3,12 +3,12 @@
 <field name="id">19962546</field>
 <field name="genre">Operas</field>
 <field name="title">The Fashionable Vices: Fables of John Gay</field>
-<field name="titlesort">Fashionable Vices: Fables of John Gay</field>
+<field name="titleSort">Fashionable Vices: Fables of John Gay</field>
 <field name="composer">Garrison Hull</field>
-<field name="composersort">Hull, Garrison</field>
+<field name="composerSort">Hull, Garrison</field>
 <field name="year">1990</field>
 <field name="librettist">John Gay</field>
-<field name="librettistsort">Gay, John</field>
+<field name="librettistSort">Gay, John</field>
 <field name="theater">Opera Americana</field>
 <field name="city">Arlington</field>
 <field name="region">Virginia</field>

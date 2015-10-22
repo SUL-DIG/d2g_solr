@@ -3,13 +3,13 @@
 <field name="id">19961094</field>
 <field name="genre">Operas</field>
 <field name="title">HjerterDame til Ringve</field>
-<field name="titlesort">HjerterDame til Ringve</field>
+<field name="titleSort">HjerterDame til Ringve</field>
 <field name="composer">Bertil Palmar Johansen</field>
-<field name="composersort">Johansen, Bertil Palmar</field>
+<field name="composerSort">Johansen, Bertil Palmar</field>
 <field name="year">2000</field>
 <field name="date">May 6, 2000</field>
 <field name="librettist">Cecilie Løveid</field>
-<field name="librettistsort">Løveid, Cecilie</field>
+<field name="librettistSort">Løveid, Cecilie</field>
 <field name="city">Trondheim</field>
 <field name="region">Sør-Trøndelag</field>
 <field name="country">Norway</field>

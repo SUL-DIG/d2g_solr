@@ -3,13 +3,13 @@
 <field name="id">19962628</field>
 <field name="genre">Operas</field>
 <field name="title">The Lists of Infinity</field>
-<field name="titlesort">Lists of Infinity</field>
+<field name="titleSort">Lists of Infinity</field>
 <field name="composer">Martin Smolka</field>
-<field name="composersort">Smolka, Martin</field>
+<field name="composerSort">Smolka, Martin</field>
 <field name="year">2014</field>
 <field name="date">June 26, 2014</field>
 <field name="librettist">Jiří Adámek</field>
-<field name="librettistsort">Adámek, Jiří</field>
+<field name="librettistSort">Adámek, Jiří</field>
 <field name="theater">Národní Divadlo Moravsko-Slezské</field>
 <field name="city">Ostrava</field>
 <field name="region">Severomoravsky Kraj</field>

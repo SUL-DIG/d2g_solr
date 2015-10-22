@@ -3,13 +3,13 @@
 <field name="id">19962951</field>
 <field name="genre">Operas</field>
 <field name="title">Un retour</field>
-<field name="titlesort">retour</field>
+<field name="titleSort">retour</field>
 <field name="composer">Oscar Strasnoy</field>
-<field name="composersort">Strasnoy, Oscar</field>
+<field name="composerSort">Strasnoy, Oscar</field>
 <field name="year">2010</field>
 <field name="date">July 4, 2010</field>
 <field name="librettist">Alberto Manguel</field>
-<field name="librettistsort">Manguel, Alberto</field>
+<field name="librettistSort">Manguel, Alberto</field>
 <field name="theater">Théâtre du Grand Saint-Jean</field>
 <field name="city">Aix-en-Provence</field>
 <field name="region">Bouches-du-Rhône</field>

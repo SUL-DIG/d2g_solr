@@ -3,13 +3,13 @@
 <field name="id">19961015</field>
 <field name="genre">Operas</field>
 <field name="title">Granatno jabolko</field>
-<field name="titlesort">Granatno jabolko</field>
+<field name="titleSort">Granatno jabolko</field>
 <field name="composer">Tomaž Svete</field>
-<field name="composersort">Svete, Tomaž </field>
+<field name="composerSort">Svete, Tomaž </field>
 <field name="year">2013</field>
 <field name="date">October 15, 2013</field>
 <field name="librettist">Tomaž Svete</field>
-<field name="librettistsort">Svete, Tomaž </field>
+<field name="librettistSort">Svete, Tomaž </field>
 <field name="theater">Slovensko Narodno Gledalisce</field>
 <field name="city">Maribor</field>
 <field name="country">Slovenia</field>

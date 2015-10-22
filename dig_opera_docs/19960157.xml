@@ -3,9 +3,9 @@
 <field name="id">19960157</field>
 <field name="genre">Operas</field>
 <field name="title">And the Trains Kept Coming</field>
-<field name="titlesort">And the Trains Kept Coming</field>
+<field name="titleSort">And the Trains Kept Coming</field>
 <field name="composer">Lior Navok</field>
-<field name="composersort">Navok, Lior</field>
+<field name="composerSort">Navok, Lior</field>
 <field name="year">2008</field>
 <field name="date">January 18, 2008</field>
 <field name="theater">Cantata Singers</field>

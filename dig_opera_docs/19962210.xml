@@ -3,13 +3,13 @@
 <field name="id">19962210</field>
 <field name="genre">Operas</field>
 <field name="title">Sanctuary</field>
-<field name="titlesort">Sanctuary</field>
+<field name="titleSort">Sanctuary</field>
 <field name="composer">James Callahan</field>
-<field name="composersort">Callahan, James</field>
+<field name="composerSort">Callahan, James</field>
 <field name="year">2003</field>
 <field name="date">November 7, 2003</field>
 <field name="librettist">Merie Kirby</field>
-<field name="librettistsort">Kirby, Merie</field>
+<field name="librettistSort">Kirby, Merie</field>
 <field name="theater">University of St. Thomas</field>
 <field name="city">St. Paul</field>
 <field name="region">Minnesota</field>

@@ -3,13 +3,13 @@
 <field name="id">19962737</field>
 <field name="genre">Operas</field>
 <field name="title">The School for Wives</field>
-<field name="titlesort">School for Wives</field>
+<field name="titleSort">School for Wives</field>
 <field name="composer">Vladimir Martynov</field>
-<field name="composersort">Martynov, Vladimir </field>
+<field name="composerSort">Martynov, Vladimir </field>
 <field name="year">2014</field>
 <field name="date">May 20, 2014</field>
 <field name="librettist">Yury Lyubimov</field>
-<field name="librettistsort">Lyubimov, Yury</field>
+<field name="librettistSort">Lyubimov, Yury</field>
 <field name="theater">Novaya Opera</field>
 <field name="city">Moscow</field>
 <field name="country">Russia</field>

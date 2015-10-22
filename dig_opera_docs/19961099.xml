@@ -3,13 +3,13 @@
 <field name="id">19961099</field>
 <field name="genre">Operas</field>
 <field name="title">Hohepa</field>
-<field name="titlesort">Hohepa</field>
+<field name="titleSort">Hohepa</field>
 <field name="composer">Jenny McLeod</field>
-<field name="composersort">McLeod, Jenny</field>
+<field name="composerSort">McLeod, Jenny</field>
 <field name="year">2012</field>
 <field name="date">March 15, 2012</field>
 <field name="librettist">Jenny McLeod</field>
-<field name="librettistsort">McLeod, Jenny</field>
+<field name="librettistSort">McLeod, Jenny</field>
 <field name="theater">Opera House</field>
 <field name="city">Wellington</field>
 <field name="country">New Zealand</field>

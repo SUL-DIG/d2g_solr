@@ -3,13 +3,13 @@
 <field name="id">19962002</field>
 <field name="genre">Operas</field>
 <field name="title">Pieces of Eight</field>
-<field name="titlesort">Pieces of Eight</field>
+<field name="titleSort">Pieces of Eight</field>
 <field name="composer">Bernard Wagenaar</field>
-<field name="composersort">Wagenaar, Bernard</field>
+<field name="composerSort">Wagenaar, Bernard</field>
 <field name="year">1944</field>
 <field name="date">May 9, 1944</field>
 <field name="librettist">Edward Eager</field>
-<field name="librettistsort">Eager, Edward</field>
+<field name="librettistSort">Eager, Edward</field>
 <field name="theater">Columbia University</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

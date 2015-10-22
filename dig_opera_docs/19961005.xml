@@ -3,13 +3,13 @@
 <field name="id">19961005</field>
 <field name="genre">Operas</field>
 <field name="title">Going into Shadows</field>
-<field name="titlesort">Going into Shadows</field>
+<field name="titleSort">Going into Shadows</field>
 <field name="composer">Andrew Schultz</field>
-<field name="composersort">Schultz, Andrew</field>
+<field name="composerSort">Schultz, Andrew</field>
 <field name="year">2001</field>
 <field name="date">June 7, 2001</field>
 <field name="librettist">Julianne Schultz</field>
-<field name="librettistsort">Schultz, Julianne</field>
+<field name="librettistSort">Schultz, Julianne</field>
 <field name="theater">Guildhall School of Music</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

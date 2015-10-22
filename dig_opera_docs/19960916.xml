@@ -3,13 +3,13 @@
 <field name="id">19960916</field>
 <field name="genre">Operas</field>
 <field name="title">Franziskus</field>
-<field name="titlesort">Franziskus</field>
+<field name="titleSort">Franziskus</field>
 <field name="composer">Sergey Nevsky</field>
-<field name="composersort">Nevsky, Sergey</field>
+<field name="composerSort">Nevsky, Sergey</field>
 <field name="year">2012</field>
 <field name="date">September 12, 2012</field>
 <field name="librettist">Claudius Lunstedt </field>
-<field name="librettistsort">Lunstedt, Claudius</field>
+<field name="librettistSort">Lunstedt, Claudius</field>
 <field name="theater">Bol'shoy Teatr</field>
 <field name="city">Moscow</field>
 <field name="country">Russia</field>

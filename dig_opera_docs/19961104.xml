@@ -3,13 +3,13 @@
 <field name="id">19961104</field>
 <field name="genre">Operas</field>
 <field name="title">Home and the River</field>
-<field name="titlesort">Home and the River</field>
+<field name="titleSort">Home and the River</field>
 <field name="composer">George Quincy</field>
-<field name="composersort">Quincy, George</field>
+<field name="composerSort">Quincy, George</field>
 <field name="year">1997</field>
 <field name="date">November 9, 1997</field>
 <field name="librettist">Benjamin Barber</field>
-<field name="librettistsort">Barber, Benjamin</field>
+<field name="librettistSort">Barber, Benjamin</field>
 <field name="theater">Suffolk Community College</field>
 <field name="city">Selden</field>
 <field name="region">New York</field>

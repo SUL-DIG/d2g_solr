@@ -3,13 +3,13 @@
 <field name="id">19960257</field>
 <field name="genre">Operas</field>
 <field name="title">Babylon</field>
-<field name="titlesort">Babylon</field>
+<field name="titleSort">Babylon</field>
 <field name="composer">Jörg Widmann</field>
-<field name="composersort">Widmann, Jörg</field>
+<field name="composerSort">Widmann, Jörg</field>
 <field name="year">2012</field>
 <field name="date">October 27, 2012</field>
 <field name="librettist">Peter Sloterdijk</field>
-<field name="librettistsort">Sloterdijk, Peter</field>
+<field name="librettistSort">Sloterdijk, Peter</field>
 <field name="theater">Bayerische Staatsoper</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

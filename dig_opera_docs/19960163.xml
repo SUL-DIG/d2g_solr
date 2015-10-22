@@ -3,13 +3,13 @@
 <field name="id">19960163</field>
 <field name="genre">Operas</field>
 <field name="title">Angel of the Amazon</field>
-<field name="titlesort">Angel of the Amazon</field>
+<field name="titleSort">Angel of the Amazon</field>
 <field name="composer">Evan Mack</field>
-<field name="composersort">Mack, Evan</field>
+<field name="composerSort">Mack, Evan</field>
 <field name="year">2011</field>
 <field name="date">May 6, 2011</field>
 <field name="librettist">Evan Mack</field>
-<field name="librettistsort">Mack, Evan</field>
+<field name="librettistSort">Mack, Evan</field>
 <field name="theater">Baryshnikov Arts Center</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

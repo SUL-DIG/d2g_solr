@@ -3,13 +3,13 @@
 <field name="id">19961340</field>
 <field name="genre">Operas</field>
 <field name="title">Kronprinz Friedrich</field>
-<field name="titlesort">Kronprinz Friedrich</field>
+<field name="titleSort">Kronprinz Friedrich</field>
 <field name="composer">Siegfried Matthus</field>
-<field name="composersort">Matthus, Siegfried</field>
+<field name="composerSort">Matthus, Siegfried</field>
 <field name="year">1999</field>
 <field name="date">December 30, 1999</field>
 <field name="librettist">Thomas Höft</field>
-<field name="librettistsort">Höft, Thomas</field>
+<field name="librettistSort">Höft, Thomas</field>
 <field name="theater">Schlosstheater der Prinz Heinrich von Preussen</field>
 <field name="city">Rheinsberg</field>
 <field name="region">Brandenburg</field>

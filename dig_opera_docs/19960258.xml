@@ -3,13 +3,13 @@
 <field name="id">19960258</field>
 <field name="genre">Operas</field>
 <field name="title">Bacchae</field>
-<field name="titlesort">Bacchae</field>
+<field name="titleSort">Bacchae</field>
 <field name="composer">Theodore Antoniou</field>
-<field name="composersort">Antoniou, Theodore</field>
+<field name="composerSort">Antoniou, Theodore</field>
 <field name="year">1995</field>
 <field name="date">August 17, 1995</field>
 <field name="librettist">Keith Botsford</field>
-<field name="librettistsort">Botsford, Keith</field>
+<field name="librettistSort">Botsford, Keith</field>
 <field name="theater">Acropolis</field>
 <field name="city">Athens</field>
 <field name="region">Attiki</field>

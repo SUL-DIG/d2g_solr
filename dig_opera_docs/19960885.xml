@@ -3,13 +3,13 @@
 <field name="id">19960885</field>
 <field name="genre">Operas</field>
 <field name="title">Filumena</field>
-<field name="titlesort">Filumena</field>
+<field name="titleSort">Filumena</field>
 <field name="composer">John Estacio</field>
-<field name="composersort">Estacio, John</field>
+<field name="composerSort">Estacio, John</field>
 <field name="year">2003</field>
 <field name="date">February 1, 2003</field>
 <field name="librettist">John Murrell</field>
-<field name="librettistsort">Murrell, John</field>
+<field name="librettistSort">Murrell, John</field>
 <field name="theater">Southern Alberta Jubilee Auditorium</field>
 <field name="city">Calgary</field>
 <field name="region">Alberta</field>

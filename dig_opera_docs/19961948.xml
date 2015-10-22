@@ -3,13 +3,13 @@
 <field name="id">19961948</field>
 <field name="genre">Operas</field>
 <field name="title">Pacamambo</field>
-<field name="titlesort">Pacamambo</field>
+<field name="titleSort">Pacamambo</field>
 <field name="composer">Zack Settel</field>
-<field name="composersort">Settel, Zack</field>
+<field name="composerSort">Settel, Zack</field>
 <field name="year">2002</field>
 <field name="date">December 1, 2002</field>
 <field name="librettist">Wajdi Mouawad</field>
-<field name="librettistsort">Mouawad, Wajdi</field>
+<field name="librettistSort">Mouawad, Wajdi</field>
 <field name="theater">Salle Beverley Webster Rolph, Musée d’art contemporain de Montréal</field>
 <field name="city">Montreal</field>
 <field name="region">Quebec</field>

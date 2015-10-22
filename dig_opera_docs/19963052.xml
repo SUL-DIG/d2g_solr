@@ -3,13 +3,13 @@
 <field name="id">19963052</field>
 <field name="genre">Operas</field>
 <field name="title">Whirlwind</field>
-<field name="titlesort">Whirlwind</field>
+<field name="titleSort">Whirlwind</field>
 <field name="composer">Will Todd</field>
-<field name="composersort">Todd, Will</field>
+<field name="composerSort">Todd, Will</field>
 <field name="year">2006</field>
 <field name="date">October 24, 2006</field>
 <field name="librettist">Ben Dunwell</field>
-<field name="librettistsort">Dunwell, Ben</field>
+<field name="librettistSort">Dunwell, Ben</field>
 <field name="theater">The Sage</field>
 <field name="city">Gateshead</field>
 <field name="region">Tyne and Wear</field>

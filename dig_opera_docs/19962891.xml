@@ -3,13 +3,13 @@
 <field name="id">19962891</field>
 <field name="genre">Operas</field>
 <field name="title">Tokaido Road, a Journey after Hiroshige</field>
-<field name="titlesort">Tokaido Road, a Journey after Hiroshige</field>
+<field name="titleSort">Tokaido Road, a Journey after Hiroshige</field>
 <field name="composer">Nicola LeFanu</field>
-<field name="composersort">LeFanu, Nicola</field>
+<field name="composerSort">LeFanu, Nicola</field>
 <field name="year">2014</field>
 <field name="date">July 6, 2014</field>
 <field name="librettist">Nancy Gaffield</field>
-<field name="librettistsort">Gaffield, Nancy</field>
+<field name="librettistSort">Gaffield, Nancy</field>
 <field name="theater">Parabola Arts Centre</field>
 <field name="city">Cheltenham</field>
 <field name="region">Gloucestershire</field>

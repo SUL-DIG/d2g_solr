@@ -3,13 +3,13 @@
 <field name="id">19960404</field>
 <field name="genre">Operas</field>
 <field name="title">Cassandra</field>
-<field name="titlesort">Cassandra</field>
+<field name="titleSort">Cassandra</field>
 <field name="composer">Ian McAndrew</field>
-<field name="composersort">McAndrew, Ian</field>
+<field name="composerSort">McAndrew, Ian</field>
 <field name="year">2003</field>
 <field name="date">May 25, 2003</field>
 <field name="librettist">Gordon Portman</field>
-<field name="librettistsort">Portman, Gordon</field>
+<field name="librettistSort">Portman, Gordon</field>
 <field name="theater">St. Anne's Anglican Church</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

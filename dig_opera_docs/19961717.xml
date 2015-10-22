@@ -3,13 +3,13 @@
 <field name="id">19961717</field>
 <field name="genre">Operas</field>
 <field name="title">Menyasszonytánc (The Wedding Dance)</field>
-<field name="titlesort">Menyasszonytánc (The Wedding Dance)</field>
+<field name="titleSort">Menyasszonytánc (The Wedding Dance)</field>
 <field name="composer">Ferenc Jávori</field>
-<field name="composersort">Jávori, Ferenc</field>
+<field name="composerSort">Jávori, Ferenc</field>
 <field name="year">2006</field>
 <field name="date">March 17, 2006</field>
 <field name="librettist">Tibor Miklós</field>
-<field name="librettistsort">Miklós, Tibor</field>
+<field name="librettistSort">Miklós, Tibor</field>
 <field name="theater">Budapesti Operettszínház </field>
 <field name="city">Budapest</field>
 <field name="country">Hungary</field>

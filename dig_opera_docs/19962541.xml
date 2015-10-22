@@ -3,12 +3,12 @@
 <field name="id">19962541</field>
 <field name="genre">Operas</field>
 <field name="title">The Expedition</field>
-<field name="titlesort">Expedition</field>
+<field name="titleSort">Expedition</field>
 <field name="composer">Klas Torstensson</field>
-<field name="composersort">Torstensson, Klas</field>
+<field name="composerSort">Torstensson, Klas</field>
 <field name="year">1999</field>
 <field name="librettist">Klas Torstensson</field>
-<field name="librettistsort">Torstensson, Klas</field>
+<field name="librettistSort">Torstensson, Klas</field>
 <field name="theater">Concertgebouw</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>

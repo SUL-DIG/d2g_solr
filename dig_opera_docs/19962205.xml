@@ -3,13 +3,13 @@
 <field name="id">19962205</field>
 <field name="genre">Operas</field>
 <field name="title">Salt</field>
-<field name="titlesort">Salt</field>
+<field name="titleSort">Salt</field>
 <field name="composer">Missy Mazzoli</field>
-<field name="composersort">Mazzoli, Missy</field>
+<field name="composerSort">Mazzoli, Missy</field>
 <field name="year">2012</field>
 <field name="date">October 12, 2012</field>
 <field name="librettist">Erin Cressida-Wilson</field>
-<field name="librettistsort">Cressida-Wilson, Erin</field>
+<field name="librettistSort">Cressida-Wilson, Erin</field>
 <field name="theater">University of North Carolina</field>
 <field name="city">Chapel Hill</field>
 <field name="region">North Carolina</field>

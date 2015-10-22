@@ -3,12 +3,12 @@
 <field name="id">19961779</field>
 <field name="genre">Operas</field>
 <field name="title">Mu Guiying</field>
-<field name="titlesort">Mu Guiying</field>
+<field name="titleSort">Mu Guiying</field>
 <field name="composer">Guo Wenjing</field>
-<field name="composersort">Guo Wenjing</field>
+<field name="composerSort">Guo Wenjing</field>
 <field name="year">2003</field>
 <field name="librettist">Li Liuyi</field>
-<field name="librettistsort">Li Liuyi</field>
+<field name="librettistSort">Li Liuyi</field>
 <field name="theater">Capital Theatre</field>
 <field name="city">Beijing</field>
 <field name="country">China</field>

@@ -3,13 +3,13 @@
 <field name="id">19962815</field>
 <field name="genre">Operas</field>
 <field name="title">The Undertaker</field>
-<field name="titlesort">Undertaker</field>
+<field name="titleSort">Undertaker</field>
 <field name="composer">John Purser</field>
-<field name="composersort">Purser, John</field>
+<field name="composerSort">Purser, John</field>
 <field name="year">1969</field>
 <field name="date">September 1, 1969</field>
 <field name="librettist">John Purser</field>
-<field name="librettistsort">Purser, John</field>
+<field name="librettistSort">Purser, John</field>
 <field name="theater">Scottish Television</field>
 <field name="city">Edinburgh</field>
 <field name="region">Scotland</field>

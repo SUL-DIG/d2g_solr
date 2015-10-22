@@ -3,12 +3,12 @@
 <field name="id">19960605</field>
 <field name="genre">Operas</field>
 <field name="title">Diary of Ronald Hansen</field>
-<field name="titlesort">Diary of Ronald Hansen</field>
+<field name="titleSort">Diary of Ronald Hansen</field>
 <field name="composer">Dirk D'Ase</field>
-<field name="composersort">D'Ase, Dirk</field>
+<field name="composerSort">D'Ase, Dirk</field>
 <field name="year">1997</field>
 <field name="librettist">Hugo Claus</field>
-<field name="librettistsort">Claus, Hugo</field>
+<field name="librettistSort">Claus, Hugo</field>
 <field name="theater">Muziektheater Transparant</field>
 <field name="city">Antwerp</field>
 <field name="region">Antwerpen</field>

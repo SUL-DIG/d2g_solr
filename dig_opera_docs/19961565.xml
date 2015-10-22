@@ -3,13 +3,13 @@
 <field name="id">19961565</field>
 <field name="genre">Operas</field>
 <field name="title">Lisa</field>
-<field name="titlesort">Lisa</field>
+<field name="titleSort">Lisa</field>
 <field name="composer">Omar Daniel</field>
-<field name="composersort">Daniel, Omar</field>
+<field name="composerSort">Daniel, Omar</field>
 <field name="year">2002</field>
 <field name="date">April 22, 2002</field>
 <field name="librettist">Alex Poch-Goldin</field>
-<field name="librettistsort">Poch-Goldin, Alex</field>
+<field name="librettistSort">Poch-Goldin, Alex</field>
 <field name="theater">Isabel Bader Theatre</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

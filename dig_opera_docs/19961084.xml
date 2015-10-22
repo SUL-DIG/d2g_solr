@@ -3,13 +3,13 @@
 <field name="id">19961084</field>
 <field name="genre">Operas</field>
 <field name="title">Hier</field>
-<field name="titlesort">Hier</field>
+<field name="titleSort">Hier</field>
 <field name="composer">Guus Janssen</field>
-<field name="composersort">Janssen, Guus</field>
+<field name="composerSort">Janssen, Guus</field>
 <field name="year">2000</field>
 <field name="date">January 1, 2000</field>
 <field name="librettist">Friso Haverkamp</field>
-<field name="librettistsort">Haverkamp, Friso</field>
+<field name="librettistSort">Haverkamp, Friso</field>
 <field name="theater">Muziektheater</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>

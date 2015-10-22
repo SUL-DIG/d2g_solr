@@ -3,13 +3,13 @@
 <field name="id">19961909</field>
 <field name="genre">Operas</field>
 <field name="title">Operette</field>
-<field name="titlesort">Operette</field>
+<field name="titleSort">Operette</field>
 <field name="composer">Mario Wiegand</field>
-<field name="composersort">Wiegand, Mario</field>
+<field name="composerSort">Wiegand, Mario</field>
 <field name="year">2009</field>
 <field name="date">March 7, 2009</field>
 <field name="librettist">Witold Gombrowicz</field>
-<field name="librettistsort">Gombrowicz, Witold</field>
+<field name="librettistSort">Gombrowicz, Witold</field>
 <field name="theater">Grosses Haus am Domhof</field>
 <field name="city">Osnabrück</field>
 <field name="region">Niedersachsen</field>

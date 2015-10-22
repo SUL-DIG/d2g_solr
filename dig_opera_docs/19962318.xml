@@ -3,13 +3,13 @@
 <field name="id">19962318</field>
 <field name="genre">Operas</field>
 <field name="title">So This Duck Walks Into a Psychiatrists Office</field>
-<field name="titlesort">So This Duck Walks Into a Psychiatrists Office</field>
+<field name="titleSort">So This Duck Walks Into a Psychiatrists Office</field>
 <field name="composer">George Maurer</field>
-<field name="composersort">Maurer, George</field>
+<field name="composerSort">Maurer, George</field>
 <field name="year">2009</field>
 <field name="date">June 18, 2009</field>
 <field name="librettist">Ari Hoptman</field>
-<field name="librettistsort">Hoptman, Ari</field>
+<field name="librettistSort">Hoptman, Ari</field>
 <field name="theater">Nautilus Music-Theater</field>
 <field name="city">St. Paul</field>
 <field name="region">Minnesota</field>

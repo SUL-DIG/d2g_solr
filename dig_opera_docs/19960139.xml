@@ -3,13 +3,13 @@
 <field name="id">19960139</field>
 <field name="genre">Operas</field>
 <field name="title">America Tropical</field>
-<field name="titlesort">America Tropical</field>
+<field name="titleSort">America Tropical</field>
 <field name="composer">David Conte</field>
-<field name="composersort">Conte, David</field>
+<field name="composerSort">Conte, David</field>
 <field name="year">2007</field>
 <field name="date">May 25, 2007</field>
 <field name="librettist">Oliver Mayer</field>
-<field name="librettistsort">Mayer, Oliver</field>
+<field name="librettistSort">Mayer, Oliver</field>
 <field name="theater">Thick House</field>
 <field name="city">San Francisco</field>
 <field name="region">California</field>

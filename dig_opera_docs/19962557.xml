@@ -3,13 +3,13 @@
 <field name="id">19962557</field>
 <field name="genre">Operas</field>
 <field name="title">The Fox and the Magpie</field>
-<field name="titlesort">Fox and the Magpie</field>
+<field name="titleSort">Fox and the Magpie</field>
 <field name="composer">Kurt Schwertsik</field>
-<field name="composersort">Schwertsik, Kurt</field>
+<field name="composerSort">Schwertsik, Kurt</field>
 <field name="year">1994</field>
 <field name="date">July 19, 1994</field>
 <field name="librettist">David Malouf</field>
-<field name="librettistsort">David Malouf</field>
+<field name="librettistSort">David Malouf</field>
 <field name="theater">Renaissance Hotel</field>
 <field name="city">Sydney</field>
 <field name="region">New South Wales</field>

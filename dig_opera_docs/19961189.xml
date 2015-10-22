@@ -3,13 +3,13 @@
 <field name="id">19961189</field>
 <field name="genre">Operas</field>
 <field name="title">Inferno</field>
-<field name="titlesort">Inferno</field>
+<field name="titleSort">Inferno</field>
 <field name="composer">Patrick Soluri</field>
-<field name="composersort">Soluri, Patrick</field>
+<field name="composerSort">Soluri, Patrick</field>
 <field name="year">1999</field>
 <field name="date">March 19, 1999</field>
 <field name="librettist">Allison Ryan</field>
-<field name="librettistsort">Ryan, Allison</field>
+<field name="librettistSort">Ryan, Allison</field>
 <field name="theater">Manhattan School of Music</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

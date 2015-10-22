@@ -3,13 +3,13 @@
 <field name="id">19961521</field>
 <field name="genre">Operas</field>
 <field name="title">Les amants byzantins</field>
-<field name="titlesort">amants byzantins</field>
+<field name="titleSort">amants byzantins</field>
 <field name="composer">Henry Woollett</field>
-<field name="composersort">Woollett, Henry</field>
+<field name="composerSort">Woollett, Henry</field>
 <field name="year">1926</field>
 <field name="date">March 1, 1926</field>
 <field name="librettist">Hugues Le Roux</field>
-<field name="librettistsort">Le Roux, Hugues</field>
+<field name="librettistSort">Le Roux, Hugues</field>
 <field name="theater">Grand-Théâtre</field>
 <field name="city">Le Havre</field>
 <field name="region">Seine-Maritime</field>

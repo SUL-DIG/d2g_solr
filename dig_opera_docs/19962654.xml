@@ -3,13 +3,13 @@
 <field name="id">19962654</field>
 <field name="genre">Operas</field>
 <field name="title">The Money Man</field>
-<field name="titlesort">Money Man</field>
+<field name="titleSort">Money Man</field>
 <field name="composer">Lyell Cresswell</field>
-<field name="composersort">Cresswell, Lyell</field>
+<field name="composerSort">Cresswell, Lyell</field>
 <field name="year">2010</field>
 <field name="date">May 15, 2010</field>
 <field name="librettist">Ron Butlin</field>
-<field name="librettistsort">Butlin, Ron</field>
+<field name="librettistSort">Butlin, Ron</field>
 <field name="theater">University of Aberdeen, Elphinstone Hall</field>
 <field name="city">Aberdeen</field>
 <field name="region">Scotland</field>

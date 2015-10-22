@@ -3,13 +3,13 @@
 <field name="id">19960393</field>
 <field name="genre">Operas</field>
 <field name="title">Canti dall'inferno</field>
-<field name="titlesort">Canti dall'inferno</field>
+<field name="titleSort">Canti dall'inferno</field>
 <field name="composer">Andrea Chenna</field>
-<field name="composersort">Chenna, Andrea</field>
+<field name="composerSort">Chenna, Andrea</field>
 <field name="year">2014</field>
 <field name="date">June 20, 2014</field>
 <field name="librettist">Ramón Sampedro</field>
-<field name="librettistsort">Sampedro, Ramón</field>
+<field name="librettistSort">Sampedro, Ramón</field>
 <field name="theater">Palau de les Arts Reina Sofia</field>
 <field name="city">Valencia</field>
 <field name="region">Valencia</field>

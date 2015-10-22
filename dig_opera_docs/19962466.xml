@@ -3,13 +3,13 @@
 <field name="id">19962466</field>
 <field name="genre">Operas</field>
 <field name="title">The Blur, or How to Marry a Billionaire</field>
-<field name="titlesort">Blur, or How to Marry a Billionaire</field>
+<field name="titleSort">Blur, or How to Marry a Billionaire</field>
 <field name="composer">Peter Wing Healey</field>
-<field name="composersort">Healey, Peter Wing</field>
+<field name="composerSort">Healey, Peter Wing</field>
 <field name="year">2011</field>
 <field name="date">June 11, 2011</field>
 <field name="librettist">Peter Wing Healey</field>
-<field name="librettistsort">Healey, Peter Wing</field>
+<field name="librettistSort">Healey, Peter Wing</field>
 <field name="theater">South Pasadena Public Library Community Room</field>
 <field name="city">Pasadena</field>
 <field name="region">California</field>

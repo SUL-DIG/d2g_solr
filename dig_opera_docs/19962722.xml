@@ -3,14 +3,14 @@
 <field name="id">19962722</field>
 <field name="genre">Oratorio</field>
 <field name="title">The Rising: An Irish Allegory</field>
-<field name="titlesort">Rising: An Irish Allegory</field>
+<field name="titleSort">Rising: An Irish Allegory</field>
 <field name="composer">Richard Bunger Evans</field>
-<field name="composersort">Evans, Richard Bunger</field>
+<field name="composerSort">Evans, Richard Bunger</field>
 <field name="year">1995</field>
 <field name="librettist">William Butler Yeats</field>
-<field name="librettistsort">Yeats, William Butler</field>
+<field name="librettistSort">Yeats, William Butler</field>
 <field name="librettist">Maud Gonne</field>
-<field name="librettistsort">Gonne, Maud</field>
+<field name="librettistSort">Gonne, Maud</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rising:+An+Irish+Allegory+Richard+Bunger+Evans&amp;search_field=search</field>
 </doc>
 </add>

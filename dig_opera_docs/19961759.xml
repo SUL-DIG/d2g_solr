@@ -3,13 +3,13 @@
 <field name="id">19961759</field>
 <field name="genre">Operas</field>
 <field name="title">Mörder Kaspar Brand</field>
-<field name="titlesort">Mörder Kaspar Brand</field>
+<field name="titleSort">Mörder Kaspar Brand</field>
 <field name="composer">Anno Schreier</field>
-<field name="composersort">Schreier, Anno</field>
+<field name="composerSort">Schreier, Anno</field>
 <field name="year">2012</field>
 <field name="date">June 14, 2012</field>
 <field name="librettist">Philipp J. Neumann</field>
-<field name="librettistsort">Neumann, Philipp J.</field>
+<field name="librettistSort">Neumann, Philipp J.</field>
 <field name="theater">Deutsche Oper am Rhein</field>
 <field name="city">Düsseldorf</field>
 <field name="region">Nordrhein-Westfallen</field>

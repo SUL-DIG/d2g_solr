@@ -3,13 +3,13 @@
 <field name="id">19961165</field>
 <field name="genre">Operas</field>
 <field name="title">Il re</field>
-<field name="titlesort">re</field>
+<field name="titleSort">re</field>
 <field name="composer">Giulio Castagnoli</field>
-<field name="composersort">Castagnoli, Giulio</field>
+<field name="composerSort">Castagnoli, Giulio</field>
 <field name="year">1999</field>
 <field name="date">May 10, 1999</field>
 <field name="librettist">Carlo Cignetti</field>
-<field name="librettistsort">Cignetti, Carlo</field>
+<field name="librettistSort">Cignetti, Carlo</field>
 <field name="theater">Accademia Filarmonica Romana</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>

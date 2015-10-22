@@ -3,12 +3,12 @@
 <field name="id">19960460</field>
 <field name="genre">Operas</field>
 <field name="title">Columba</field>
-<field name="titlesort">Columba</field>
+<field name="titleSort">Columba</field>
 <field name="composer">Kenneth Leighton</field>
-<field name="composersort">Leighton, Kenneth</field>
+<field name="composerSort">Leighton, Kenneth</field>
 <field name="year">1981</field>
 <field name="librettist">Edwin Morgan</field>
-<field name="librettistsort">Morgan, Edwin</field>
+<field name="librettistSort">Morgan, Edwin</field>
 <field name="theater">Royal Scottish Academy of Music and Drama</field>
 <field name="city">Glasgow</field>
 <field name="region">Scotland</field>

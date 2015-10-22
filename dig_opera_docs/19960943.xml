@@ -3,13 +3,13 @@
 <field name="id">19960943</field>
 <field name="genre">Operas</field>
 <field name="title">Gabriel's Daughter</field>
-<field name="titlesort">Gabriel's Daughter</field>
+<field name="titleSort">Gabriel's Daughter</field>
 <field name="composer">Henry Mollicone</field>
-<field name="composersort">Mollicone, Henry</field>
+<field name="composerSort">Mollicone, Henry</field>
 <field name="year">2003</field>
 <field name="date">July 12, 2003</field>
 <field name="librettist">William Luce</field>
-<field name="librettistsort">Luce, William</field>
+<field name="librettistSort">Luce, William</field>
 <field name="theater">Opera House</field>
 <field name="city">Central City</field>
 <field name="region">Colorado </field>

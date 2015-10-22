@@ -3,13 +3,13 @@
 <field name="id">19960076</field>
 <field name="genre">Operas</field>
 <field name="title">Adrianas Fall</field>
-<field name="titlesort">Adrianas Fall</field>
+<field name="titleSort">Adrianas Fall</field>
 <field name="composer">Marc-Aurel Floros</field>
-<field name="composersort">Floros, Marc-Aurel</field>
+<field name="composerSort">Floros, Marc-Aurel</field>
 <field name="year">2008</field>
 <field name="date">December 6, 2008</field>
 <field name="librettist">Elke Heidenreich</field>
-<field name="librettistsort">Heidenreich, Elke</field>
+<field name="librettistSort">Heidenreich, Elke</field>
 <field name="theater">Bühnen der Stadt</field>
 <field name="city">Cologne</field>
 <field name="region">Nordrhein-Westfallen</field>

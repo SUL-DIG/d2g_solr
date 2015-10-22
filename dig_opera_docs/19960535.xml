@@ -3,13 +3,13 @@
 <field name="id">19960535</field>
 <field name="genre">Operas</field>
 <field name="title">Death of Baldur</field>
-<field name="titlesort">Death of Baldur</field>
+<field name="titleSort">Death of Baldur</field>
 <field name="composer">David Bedford</field>
-<field name="composersort">Bedford, David</field>
+<field name="composerSort">Bedford, David</field>
 <field name="year">1980</field>
 <field name="date">March 20, 1980</field>
 <field name="librettist">Terry Bagg</field>
-<field name="librettistsort">Bagg, Terry</field>
+<field name="librettistSort">Bagg, Terry</field>
 <field name="theater">Gordonstoun School</field>
 <field name="city">Elgin</field>
 <field name="region">Scotland</field>

@@ -3,13 +3,13 @@
 <field name="id">19961406</field>
 <field name="genre">Operas</field>
 <field name="title">La Fontaine et le Corbeau</field>
-<field name="titlesort">Fontaine et le Corbeau</field>
+<field name="titleSort">Fontaine et le Corbeau</field>
 <field name="composer">Isabelle Aboulker</field>
-<field name="composersort">Aboulker, Isabelle</field>
+<field name="composerSort">Aboulker, Isabelle</field>
 <field name="year">2001</field>
 <field name="date">June 7, 2001</field>
 <field name="librettist">Isabelle Aboulker</field>
-<field name="librettistsort">Aboulker, Isabelle</field>
+<field name="librettistSort">Aboulker, Isabelle</field>
 <field name="theater">Salle des Fêtes</field>
 <field name="city">Alfortville</field>
 <field name="region">Val-de-Marne</field>

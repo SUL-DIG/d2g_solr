@@ -3,13 +3,13 @@
 <field name="id">19960444</field>
 <field name="genre">Operas</field>
 <field name="title">Circus</field>
-<field name="titlesort">Circus</field>
+<field name="titleSort">Circus</field>
 <field name="composer">Jury Everhartz</field>
-<field name="composersort">Everhartz, Jury</field>
+<field name="composerSort">Everhartz, Jury</field>
 <field name="year">2009</field>
 <field name="date">April 21, 2009</field>
 <field name="librettist">Kristine Tornquist</field>
-<field name="librettistsort">Tornquist, Kristine</field>
+<field name="librettistSort">Tornquist, Kristine</field>
 <field name="theater">Muzicki biennale Zagreb</field>
 <field name="city">Zagreb</field>
 <field name="country">Croatia</field>

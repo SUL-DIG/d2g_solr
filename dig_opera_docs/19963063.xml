@@ -3,13 +3,13 @@
 <field name="id">19963063</field>
 <field name="genre">Operas</field>
 <field name="title">Wir sind Daheim</field>
-<field name="titlesort">Wir sind Daheim</field>
+<field name="titleSort">Wir sind Daheim</field>
 <field name="composer">Moritz Eggert</field>
-<field name="composersort">Eggert, Moritz</field>
+<field name="composerSort">Eggert, Moritz</field>
 <field name="year">1998</field>
 <field name="date">April 22, 1998</field>
 <field name="librettist">Helmut Krausser</field>
-<field name="librettistsort">Krausser, Helmut</field>
+<field name="librettistSort">Krausser, Helmut</field>
 <field name="theater">Nationaltheater</field>
 <field name="city">Mannheim</field>
 <field name="region">Baden-Württemberg</field>

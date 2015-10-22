@@ -3,13 +3,13 @@
 <field name="id">19961320</field>
 <field name="genre">Operas</field>
 <field name="title">Kniefall in Warschau</field>
-<field name="titlesort">Kniefall in Warschau</field>
+<field name="titleSort">Kniefall in Warschau</field>
 <field name="composer">Gerhard Rosenfeld</field>
-<field name="composersort">Rosenfeld, Gerhard</field>
+<field name="composerSort">Rosenfeld, Gerhard</field>
 <field name="year">1997</field>
 <field name="date">November 22, 1997</field>
 <field name="librettist">Philipp Kochheim</field>
-<field name="librettistsort">Kochheim, Philipp</field>
+<field name="librettistSort">Kochheim, Philipp</field>
 <field name="theater">Theater Dortmund</field>
 <field name="city">Dortmund</field>
 <field name="region">Nordrhein-Westfallen</field>

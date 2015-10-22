@@ -3,13 +3,13 @@
 <field name="id">19961046</field>
 <field name="genre">Operas</field>
 <field name="title">Harley</field>
-<field name="titlesort">Harley</field>
+<field name="titleSort">Harley</field>
 <field name="composer">Edward Rushton</field>
-<field name="composersort">Rushton, Edward</field>
+<field name="composerSort">Rushton, Edward</field>
 <field name="year">2005</field>
 <field name="date">November 20, 2005</field>
 <field name="librettist">Dagny Gioulami</field>
-<field name="librettistsort">Gioulami, Dagny</field>
+<field name="librettistSort">Gioulami, Dagny</field>
 <field name="theater">Opernhaus</field>
 <field name="city">Zürich</field>
 <field name="region">Zürich</field>

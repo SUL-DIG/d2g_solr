@@ -3,13 +3,13 @@
 <field name="id">19961835</field>
 <field name="genre">Operas</field>
 <field name="title">Noach</field>
-<field name="titlesort">Noach</field>
+<field name="titleSort">Noach</field>
 <field name="composer">Sidney Corbett</field>
-<field name="composersort">Corbett, Sidney</field>
+<field name="composerSort">Corbett, Sidney</field>
 <field name="year">2001</field>
 <field name="date">October 19, 2001</field>
 <field name="librettist">Christoph Hein</field>
-<field name="librettistsort">Hein, Christoph</field>
+<field name="librettistSort">Hein, Christoph</field>
 <field name="theater">Theater am Goetheplatz</field>
 <field name="city">Bremen</field>
 <field name="region">Bremen</field>

@@ -3,13 +3,13 @@
 <field name="id">19962346</field>
 <field name="genre">Operas</field>
 <field name="title">Springtime for Haman</field>
-<field name="titlesort">Springtime for Haman</field>
+<field name="titleSort">Springtime for Haman</field>
 <field name="composer">David Bass</field>
-<field name="composersort">Bass, David</field>
+<field name="composerSort">Bass, David</field>
 <field name="year">2004</field>
 <field name="date">March 20, 2004</field>
 <field name="librettist">David Bass</field>
-<field name="librettistsort">Bass, David</field>
+<field name="librettistSort">Bass, David</field>
 <field name="theater">King Open School</field>
 <field name="city">Cambridge</field>
 <field name="region">Massachusetts</field>

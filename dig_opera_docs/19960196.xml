@@ -3,12 +3,12 @@
 <field name="id">19960196</field>
 <field name="genre">Operas</field>
 <field name="title">Aranycsillag (The Golden Star)</field>
-<field name="titlesort">Aranycsillag (The Golden Star)</field>
+<field name="titleSort">Aranycsillag (The Golden Star)</field>
 <field name="composer">Endre Székely</field>
-<field name="composersort">Székely, Endre</field>
+<field name="composerSort">Székely, Endre</field>
 <field name="year">1950</field>
 <field name="librettist">György Hámos</field>
-<field name="librettistsort">Hámos, György</field>
+<field name="librettistSort">Hámos, György</field>
 <field name="theater">Fovárosi Operettszínház</field>
 <field name="city">Budapest</field>
 <field name="country">Hungary</field>

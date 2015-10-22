@@ -3,13 +3,13 @@
 <field name="id">19961653</field>
 <field name="genre">Operas</field>
 <field name="title">Marco Polo</field>
-<field name="titlesort">Marco Polo</field>
+<field name="titleSort">Marco Polo</field>
 <field name="composer">Tan Dun</field>
-<field name="composersort">Tan Dun</field>
+<field name="composerSort">Tan Dun</field>
 <field name="year">1996</field>
 <field name="date">May 7, 1996</field>
 <field name="librettist">Paul Griffiths</field>
-<field name="librettistsort">Griffiths, Paul</field>
+<field name="librettistSort">Griffiths, Paul</field>
 <field name="theater">Biennale</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

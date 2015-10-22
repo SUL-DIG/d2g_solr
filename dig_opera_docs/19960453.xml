@@ -3,13 +3,13 @@
 <field name="id">19960453</field>
 <field name="genre">Operas</field>
 <field name="title">Clown</field>
-<field name="titlesort">Clown</field>
+<field name="titleSort">Clown</field>
 <field name="composer">Aldo Tarabella</field>
-<field name="composersort">Tarabella, Aldo</field>
+<field name="composerSort">Tarabella, Aldo</field>
 <field name="year">1993</field>
 <field name="date">February 21, 1993</field>
 <field name="librettist">Aldo Tarabella</field>
-<field name="librettistsort">Tarabella, Aldo</field>
+<field name="librettistSort">Tarabella, Aldo</field>
 <field name="theater">Teatro Comunale del Giglio</field>
 <field name="city">Lucca</field>
 <field name="region">Toscana</field>

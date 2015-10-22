@@ -3,13 +3,13 @@
 <field name="id">19961878</field>
 <field name="genre">Operas</field>
 <field name="title">Odyssey Reloaded</field>
-<field name="titlesort">Odyssey Reloaded</field>
+<field name="titleSort">Odyssey Reloaded</field>
 <field name="composer">Claude Lenners</field>
-<field name="composersort">Lenners, Claude</field>
+<field name="composerSort">Lenners, Claude</field>
 <field name="year">2007</field>
 <field name="date">November 30, 2007</field>
 <field name="librettist">Ernest Colbach </field>
-<field name="librettistsort">Colbach, Ernest</field>
+<field name="librettistSort">Colbach, Ernest</field>
 <field name="theater">Abbaye de Neumünster</field>
 <field name="city">Luxembourg</field>
 <field name="country">Luxembourg</field>

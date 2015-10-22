@@ -3,13 +3,13 @@
 <field name="id">19960636</field>
 <field name="genre">Operas</field>
 <field name="title">Die Maden</field>
-<field name="titlesort">Maden</field>
+<field name="titleSort">Maden</field>
 <field name="composer">Eckard Koltermann</field>
-<field name="composersort">Koltermann, Eckard</field>
+<field name="composerSort">Koltermann, Eckard</field>
 <field name="year">2000</field>
 <field name="date">September 16, 2000</field>
 <field name="librettist">Jan Demuth</field>
-<field name="librettistsort">Demuth, Jan</field>
+<field name="librettistSort">Demuth, Jan</field>
 <field name="theater">Prinz Regent Theater</field>
 <field name="city">Bochum</field>
 <field name="region">Nordrhein-Westfallen</field>

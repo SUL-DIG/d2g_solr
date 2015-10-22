@@ -3,13 +3,13 @@
 <field name="id">19962772</field>
 <field name="genre">Operas</field>
 <field name="title">The Sorcerer's Apprentice</field>
-<field name="titlesort">Sorcerer's Apprentice</field>
+<field name="titleSort">Sorcerer's Apprentice</field>
 <field name="composer">Carman Moore</field>
-<field name="composersort">Moore, Carman</field>
+<field name="composerSort">Moore, Carman</field>
 <field name="year">2006</field>
 <field name="date">November 6, 2006</field>
 <field name="librettist">[Charles F. Gordon] OyamO</field>
-<field name="librettistsort">OyamO, [Charles F. Gordon]</field>
+<field name="librettistSort">OyamO, [Charles F. Gordon]</field>
 <field name="theater">Seattle Children's Theater</field>
 <field name="city">Seattle</field>
 <field name="region">Washington</field>

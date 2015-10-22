@@ -3,13 +3,13 @@
 <field name="id">19962091</field>
 <field name="genre">Operas</field>
 <field name="title">RAAFF</field>
-<field name="titlesort">RAAFF</field>
+<field name="titleSort">RAAFF</field>
 <field name="composer">Robin de Raaff</field>
-<field name="composersort">Raaff, Robin de</field>
+<field name="composerSort">Raaff, Robin de</field>
 <field name="year">2004</field>
 <field name="date">June 23, 2004</field>
 <field name="librettist">Janine Brogt</field>
-<field name="librettistsort">Brogt, Janine</field>
+<field name="librettistSort">Brogt, Janine</field>
 <field name="theater">Gashouder, Westergasfabriek</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>

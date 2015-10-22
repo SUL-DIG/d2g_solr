@@ -3,13 +3,13 @@
 <field name="id">19962638</field>
 <field name="genre">Operas</field>
 <field name="title">The Mad Duchess</field>
-<field name="titlesort">Mad Duchess</field>
+<field name="titleSort">Mad Duchess</field>
 <field name="composer">Peter Cowdrey</field>
-<field name="composersort">Cowdrey, Peter</field>
+<field name="composerSort">Cowdrey, Peter</field>
 <field name="year">2011</field>
 <field name="date">November 26, 2011</field>
 <field name="librettist">Hamish Robinson</field>
-<field name="librettistsort">Robinson, Hamish</field>
+<field name="librettistSort">Robinson, Hamish</field>
 <field name="theater">Boughton House</field>
 <field name="city">Geddington</field>
 <field name="region">Northamptonshire</field>

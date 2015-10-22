@@ -3,13 +3,13 @@
 <field name="id">19962095</field>
 <field name="genre">Operas</field>
 <field name="title">Ragaaazziii!</field>
-<field name="titlesort">Ragaaazziii!</field>
+<field name="titleSort">Ragaaazziii!</field>
 <field name="composer">Andrea Cera</field>
-<field name="composersort">Cera, Andrea</field>
+<field name="composerSort">Cera, Andrea</field>
 <field name="year">2011</field>
 <field name="date">September 9, 2011</field>
 <field name="librettist">Laura Brizi</field>
-<field name="librettistsort">Brizi, Laura</field>
+<field name="librettistSort">Brizi, Laura</field>
 <field name="theater">Teatro del Complesso Monumentale di San Nicolò</field>
 <field name="city">Spoleto</field>
 <field name="region">Umbria</field>

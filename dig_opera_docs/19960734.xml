@@ -3,13 +3,13 @@
 <field name="id">19960734</field>
 <field name="genre">Operas</field>
 <field name="title">Dustefjerten</field>
-<field name="titlesort">Dustefjerten</field>
+<field name="titleSort">Dustefjerten</field>
 <field name="composer">Bertil Palmar Johansen</field>
-<field name="composersort">Johansen, Bertil Palmar</field>
+<field name="composerSort">Johansen, Bertil Palmar</field>
 <field name="year">2006</field>
 <field name="date">October 13, 2006</field>
 <field name="librettist">Rune Belsvik</field>
-<field name="librettistsort">Belsvik, Rune</field>
+<field name="librettistSort">Belsvik, Rune</field>
 <field name="theater">Opera Sør, Kilden</field>
 <field name="city">Kristiansand</field>
 <field name="region">Vest-Agder </field>

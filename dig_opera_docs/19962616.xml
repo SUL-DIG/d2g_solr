@@ -3,13 +3,13 @@
 <field name="id">19962616</field>
 <field name="genre">Operas</field>
 <field name="title">The Last Supper</field>
-<field name="titlesort">Last Supper</field>
+<field name="titleSort">Last Supper</field>
 <field name="composer">Harrison Birtwistle</field>
-<field name="composersort">Birtwistle, Harrison</field>
+<field name="composerSort">Birtwistle, Harrison</field>
 <field name="year">2000</field>
 <field name="date">April 18, 2000</field>
 <field name="librettist">Robin Blaser</field>
-<field name="librettistsort">Blaser, Robin</field>
+<field name="librettistSort">Blaser, Robin</field>
 <field name="theater">Staatsoper</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>

@@ -3,13 +3,13 @@
 <field name="id">19961549</field>
 <field name="genre">Operas</field>
 <field name="title">Liebster Vater</field>
-<field name="titlesort">Liebster Vater</field>
+<field name="titleSort">Liebster Vater</field>
 <field name="composer">Stanley Walden</field>
-<field name="composersort">Walden, Stanley</field>
+<field name="composerSort">Walden, Stanley</field>
 <field name="year">1996</field>
 <field name="date">November 2, 1996</field>
 <field name="librettist">Franz Kafka</field>
-<field name="librettistsort">Kafka, Franz</field>
+<field name="librettistSort">Kafka, Franz</field>
 <field name="theater">Concordia-Theater</field>
 <field name="city">Bremen</field>
 <field name="region">Bremen</field>

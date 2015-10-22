@@ -3,13 +3,13 @@
 <field name="id">19961159</field>
 <field name="genre">Operas</field>
 <field name="title">Il maestro di Go</field>
-<field name="titlesort">maestro di Go</field>
+<field name="titleSort">maestro di Go</field>
 <field name="composer">Alessandro Melchiorre</field>
-<field name="composersort">Melchiorre, Alessandro</field>
+<field name="composerSort">Melchiorre, Alessandro</field>
 <field name="year">2008</field>
 <field name="date">October 28, 2008</field>
 <field name="librettist">Betta Brusa</field>
-<field name="librettistsort">Brusa, Betta</field>
+<field name="librettistSort">Brusa, Betta</field>
 <field name="theater">Teatro Filarmonico</field>
 <field name="city">Verona</field>
 <field name="region">Veneto</field>

@@ -3,13 +3,13 @@
 <field name="id">19960463</field>
 <field name="genre">Operas</field>
 <field name="title">Corps of Discovery</field>
-<field name="titlesort">Corps of Discovery</field>
+<field name="titleSort">Corps of Discovery</field>
 <field name="composer">Michael Ching</field>
-<field name="composersort">Ching, Michael</field>
+<field name="composerSort">Ching, Michael</field>
 <field name="year">2003</field>
 <field name="date">May 2, 2003</field>
 <field name="librettist">Hugh Moffatt</field>
-<field name="librettistsort">Moffatt, Hugh</field>
+<field name="librettistSort">Moffatt, Hugh</field>
 <field name="theater">University of Missouri</field>
 <field name="city">Columbia</field>
 <field name="region">Missouri</field>

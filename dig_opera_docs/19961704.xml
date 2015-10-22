@@ -3,13 +3,13 @@
 <field name="id">19961704</field>
 <field name="genre">Operas</field>
 <field name="title">Medea</field>
-<field name="titlesort">Medea</field>
+<field name="titleSort">Medea</field>
 <field name="composer">Wim Henderickx</field>
-<field name="composersort">Henderickx, Wim</field>
+<field name="composerSort">Henderickx, Wim</field>
 <field name="year">2011</field>
 <field name="date">May 19, 2011</field>
 <field name="librettist">Peter Verhelst</field>
-<field name="librettistsort">Verhelst, Peter</field>
+<field name="librettistSort">Verhelst, Peter</field>
 <field name="theater">deSingel</field>
 <field name="city">Antwerp</field>
 <field name="region">Antwerpen</field>

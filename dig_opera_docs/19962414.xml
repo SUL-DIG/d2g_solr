@@ -3,13 +3,13 @@
 <field name="id">19962414</field>
 <field name="genre">Operas</field>
 <field name="title">Tahir and Zohra</field>
-<field name="titlesort">Tahir and Zohra</field>
+<field name="titleSort">Tahir and Zohra</field>
 <field name="composer">Tokhtasin Jalilov</field>
-<field name="composersort">Jalilov, Tokhtasin</field>
+<field name="composerSort">Jalilov, Tokhtasin</field>
 <field name="year">2013</field>
 <field name="date">September 17, 2013</field>
 <field name="librettist">[Sabirdschan Abdullayev] Savir Abdulla</field>
-<field name="librettistsort">Abdulla, Savir [Sabirdschan Abdullayev] </field>
+<field name="librettistSort">Abdulla, Savir [Sabirdschan Abdullayev] </field>
 <field name="theater">Teatr Operï i Baleta imeni A. Navoi</field>
 <field name="city">Tashkent</field>
 <field name="country">Uzbekistan</field>

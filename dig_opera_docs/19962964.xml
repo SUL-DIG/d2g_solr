@@ -3,13 +3,13 @@
 <field name="id">19962964</field>
 <field name="genre">Operas</field>
 <field name="title">Unto the Earth: Vignettes of a War</field>
-<field name="titlesort">Unto the Earth: Vignettes of a War</field>
+<field name="titleSort">Unto the Earth: Vignettes of a War</field>
 <field name="composer">Dean Burry</field>
-<field name="composersort">Burry, Dean</field>
+<field name="composerSort">Burry, Dean</field>
 <field name="year">1993</field>
 <field name="date">March 1, 1993</field>
 <field name="librettist">Dean Burry</field>
-<field name="librettistsort">Burry, Dean</field>
+<field name="librettistSort">Burry, Dean</field>
 <field name="theater">Mount Allison University</field>
 <field name="city">Sackville</field>
 <field name="region">New Brunswick</field>

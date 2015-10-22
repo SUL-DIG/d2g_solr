@@ -3,13 +3,13 @@
 <field name="id">19962041</field>
 <field name="genre">Operas</field>
 <field name="title">Powder Her Face</field>
-<field name="titlesort">Powder Her Face</field>
+<field name="titleSort">Powder Her Face</field>
 <field name="composer">Thomas Adès</field>
-<field name="composersort">Adès, Thomas</field>
+<field name="composerSort">Adès, Thomas</field>
 <field name="year">1995</field>
 <field name="date">July 1, 1995</field>
 <field name="librettist">Philip Hensher</field>
-<field name="librettistsort">Hensher, Philip</field>
+<field name="librettistSort">Hensher, Philip</field>
 <field name="theater">Everyman Theatre</field>
 <field name="city">Cheltenham</field>
 <field name="country">United Kingdom</field>

@@ -3,12 +3,12 @@
 <field name="id">19961497</field>
 <field name="genre">Operas</field>
 <field name="title">Le talisman</field>
-<field name="titlesort">talisman</field>
+<field name="titleSort">talisman</field>
 <field name="composer">Hippolyte Lazerges</field>
-<field name="composersort">Lazerges, Hippolyte</field>
+<field name="composerSort">Lazerges, Hippolyte</field>
 <field name="year">1885</field>
 <field name="librettist">__ Duval</field>
-<field name="librettistsort">Duval, __</field>
+<field name="librettistSort">Duval, __</field>
 <field name="city">Algiers</field>
 <field name="country">Algeria</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=talisman+Hippolyte+Lazerges&amp;search_field=search</field>

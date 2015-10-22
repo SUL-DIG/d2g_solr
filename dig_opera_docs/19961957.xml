@@ -3,13 +3,13 @@
 <field name="id">19961957</field>
 <field name="genre">Operas</field>
 <field name="title">Paris and Oenone (or Did the Trojan War Take Place?)</field>
-<field name="titlesort">Paris and Oenone (or Did the Trojan War Take Place?)</field>
+<field name="titleSort">Paris and Oenone (or Did the Trojan War Take Place?)</field>
 <field name="composer">Philip Hagemann</field>
-<field name="composersort">Hagemann, Philip</field>
+<field name="composerSort">Hagemann, Philip</field>
 <field name="year">1999</field>
 <field name="date">January 10, 1999</field>
 <field name="librettist">Sally M. Gall</field>
-<field name="librettistsort">Gall, Sally M.</field>
+<field name="librettistSort">Gall, Sally M.</field>
 <field name="theater">Manhattan School of Music</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

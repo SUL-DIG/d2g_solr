@@ -3,12 +3,12 @@
 <field name="id">19962114</field>
 <field name="genre">Operas</field>
 <field name="title">RAW</field>
-<field name="titlesort">RAW</field>
+<field name="titleSort">RAW</field>
 <field name="composer">Paulo César Chagas</field>
-<field name="composersort">Chagas, Paulo César</field>
+<field name="composerSort">Chagas, Paulo César</field>
 <field name="year">1999</field>
 <field name="librettist">Paulo César Chagas</field>
-<field name="librettistsort">Chagas, Paulo César</field>
+<field name="librettistSort">Chagas, Paulo César</field>
 <field name="theater">Theater der Stadt</field>
 <field name="city">Bonn</field>
 <field name="region">Nordrhein-Westfallen</field>

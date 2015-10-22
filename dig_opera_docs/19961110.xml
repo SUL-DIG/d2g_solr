@@ -3,12 +3,12 @@
 <field name="id">19961110</field>
 <field name="genre">Operas</field>
 <field name="title">Hotel Kristina</field>
-<field name="titlesort">Hotel Kristina</field>
+<field name="titleSort">Hotel Kristina</field>
 <field name="composer">Jānis Lūsēns</field>
-<field name="composersort">Lūsēns, Jānis</field>
+<field name="composerSort">Lūsēns, Jānis</field>
 <field name="year">2006</field>
 <field name="librettist">Māra Zālīte</field>
-<field name="librettistsort">Zālīte, Māra</field>
+<field name="librettistSort">Zālīte, Māra</field>
 <field name="theater">Latvijas Nacionalais Teatris</field>
 <field name="city">Riga</field>
 <field name="country">Latvia</field>

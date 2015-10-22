@@ -3,13 +3,13 @@
 <field name="id">19963117</field>
 <field name="genre">Operas</field>
 <field name="title">Zwerg Nase</field>
-<field name="titlesort">Zwerg Nase</field>
+<field name="titleSort">Zwerg Nase</field>
 <field name="composer">Samuel Hogarth</field>
-<field name="composersort">Hogarth, Samuel</field>
+<field name="composerSort">Hogarth, Samuel</field>
 <field name="year">2014</field>
 <field name="date">February 2, 2014</field>
 <field name="librettist">Wilhelm Hauff</field>
-<field name="librettistsort">Hauff, Wilhelm</field>
+<field name="librettistSort">Hauff, Wilhelm</field>
 <field name="theater">Hamburgisches Staatsoper</field>
 <field name="city">Hamburg</field>
 <field name="region">Hamburg</field>

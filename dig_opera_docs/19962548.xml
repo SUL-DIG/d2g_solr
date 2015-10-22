@@ -3,13 +3,13 @@
 <field name="id">19962548</field>
 <field name="genre">Operas</field>
 <field name="title">The Fire King</field>
-<field name="titlesort">Fire King</field>
+<field name="titleSort">Fire King</field>
 <field name="composer">Kevin O'Connell</field>
-<field name="composersort">O'Connell, Kevin</field>
+<field name="composerSort">O'Connell, Kevin</field>
 <field name="year">1995</field>
 <field name="date">October 2, 1995</field>
 <field name="librettist">John Goodby</field>
-<field name="librettistsort">Goodby, John</field>
+<field name="librettistSort">Goodby, John</field>
 <field name="theater">The Playhouse</field>
 <field name="city">Derry</field>
 <field name="region">Northern Ireland</field>

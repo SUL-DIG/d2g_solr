@@ -3,13 +3,13 @@
 <field name="id">19960613</field>
 <field name="genre">Operas</field>
 <field name="title">Die chinesische Nachtigall</field>
-<field name="titlesort">chinesische Nachtigall</field>
+<field name="titleSort">chinesische Nachtigall</field>
 <field name="composer">Esther Hilsberg</field>
-<field name="composersort">Hilsberg, Esther</field>
+<field name="composerSort">Hilsberg, Esther</field>
 <field name="year">2009</field>
 <field name="date">June 27, 2009</field>
 <field name="librettist">Holger Pototzki</field>
-<field name="librettistsort">Pototzki, Holger</field>
+<field name="librettistSort">Pototzki, Holger</field>
 <field name="theater">Festspielhaus</field>
 <field name="city">Baden-Baden</field>
 <field name="region">Baden-Württemberg</field>

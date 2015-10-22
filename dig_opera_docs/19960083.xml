@@ -3,13 +3,13 @@
 <field name="id">19960083</field>
 <field name="genre">Operas</field>
 <field name="title">Again</field>
-<field name="titlesort">Again</field>
+<field name="titleSort">Again</field>
 <field name="composer">Jake Heggie</field>
-<field name="composersort">Heggie, Jake</field>
+<field name="composerSort">Heggie, Jake</field>
 <field name="year">2000</field>
 <field name="date">May 4, 2000</field>
 <field name="librettist">Kevin Gregory</field>
-<field name="librettistsort">Gregory, Kevin</field>
+<field name="librettistSort">Gregory, Kevin</field>
 <field name="theater">Society for Ethical Culture</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

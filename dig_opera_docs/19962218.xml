@@ -3,9 +3,9 @@
 <field name="id">19962218</field>
 <field name="genre">Operas</field>
 <field name="title">Saul and David</field>
-<field name="titlesort">Saul and David</field>
+<field name="titleSort">Saul and David</field>
 <field name="composer">Lily Gunn</field>
-<field name="composersort">Gunn, Lily</field>
+<field name="composerSort">Gunn, Lily</field>
 <field name="year">1982</field>
 <field name="date">January 30, 1982</field>
 <field name="theater">Publick Playhouse</field>

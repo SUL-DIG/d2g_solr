@@ -3,13 +3,13 @@
 <field name="id">19962537</field>
 <field name="genre">Operas</field>
 <field name="title">The Enchantment of Dreams</field>
-<field name="titlesort">Enchantment of Dreams</field>
+<field name="titleSort">Enchantment of Dreams</field>
 <field name="composer">Cary John Franklin</field>
-<field name="composersort">Franklin, Cary John</field>
+<field name="composerSort">Franklin, Cary John</field>
 <field name="year">2004</field>
 <field name="date">August 14, 2004</field>
 <field name="librettist">Michael Patrick Albano</field>
-<field name="librettistsort">Albano, Michael Patrick</field>
+<field name="librettistSort">Albano, Michael Patrick</field>
 <field name="theater">Kennedy Center</field>
 <field name="city">Washington</field>
 <field name="region">District of Columbia</field>

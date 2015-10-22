@@ -3,13 +3,13 @@
 <field name="id">19961937</field>
 <field name="genre">Operas</field>
 <field name="title">Ouraooppera (Oura Opera)</field>
-<field name="titlesort">Ouraooppera (Oura Opera)</field>
+<field name="titleSort">Ouraooppera (Oura Opera)</field>
 <field name="composer">Kari Tarkkio</field>
-<field name="composersort">Tarkkio, Kari</field>
+<field name="composerSort">Tarkkio, Kari</field>
 <field name="year">2002</field>
 <field name="date">July 4, 2002</field>
 <field name="librettist">Arvo Salo</field>
-<field name="librettistsort">Salo, Arvo</field>
+<field name="librettistSort">Salo, Arvo</field>
 <field name="theater">Krookan Satama (Merikarvia Harbor)</field>
 <field name="city">Merikarvia</field>
 <field name="region">Satakunta</field>

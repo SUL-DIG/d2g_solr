@@ -3,13 +3,13 @@
 <field name="id">19962700</field>
 <field name="genre">Operas</field>
 <field name="title">The Portrait</field>
-<field name="titlesort">Portrait</field>
+<field name="titleSort">Portrait</field>
 <field name="composer">Becky Llewellyn</field>
-<field name="composersort">Llewellyn, Becky</field>
+<field name="composerSort">Llewellyn, Becky</field>
 <field name="year">2006</field>
 <field name="date">February 3, 2006</field>
 <field name="librettist">Becky Llewellyn</field>
-<field name="librettistsort">Llewellyn, Becky</field>
+<field name="librettistSort">Llewellyn, Becky</field>
 <field name="theater">Centre Space Theatre</field>
 <field name="city">Adelaide</field>
 <field name="region">South Australia</field>

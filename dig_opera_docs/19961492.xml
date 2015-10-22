@@ -3,13 +3,13 @@
 <field name="id">19961492</field>
 <field name="genre">Operas</field>
 <field name="title">Le rêve de Grégoire</field>
-<field name="titlesort">rêve de Grégoire</field>
+<field name="titleSort">rêve de Grégoire</field>
 <field name="composer">Pierre Michaud</field>
-<field name="composersort">Michaud, Pierre</field>
+<field name="composerSort">Michaud, Pierre</field>
 <field name="year">2014</field>
 <field name="date">May 15, 2014</field>
 <field name="librettist">Pierre Michaud</field>
-<field name="librettistsort">Michaud, Pierre</field>
+<field name="librettistSort">Michaud, Pierre</field>
 <field name="theater">Monument National</field>
 <field name="city">Montreal</field>
 <field name="region">Quebec</field>

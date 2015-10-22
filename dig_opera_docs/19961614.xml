@@ -3,13 +3,13 @@
 <field name="id">19961614</field>
 <field name="genre">Operas</field>
 <field name="title">Lysistrate</field>
-<field name="titlesort">Lysistrate</field>
+<field name="titleSort">Lysistrate</field>
 <field name="composer">Carl Unander-Scharin</field>
-<field name="composersort">Unander-Scharin, Carl</field>
+<field name="composerSort">Unander-Scharin, Carl</field>
 <field name="year">1998</field>
 <field name="date">June 6, 1998</field>
 <field name="librettist">Magnus Carlbring</field>
-<field name="librettistsort">Carlbring, Magnus</field>
+<field name="librettistSort">Carlbring, Magnus</field>
 <field name="theater">Folkoperan</field>
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>

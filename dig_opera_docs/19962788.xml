@@ -3,13 +3,13 @@
 <field name="id">19962788</field>
 <field name="genre">Operas</field>
 <field name="title">The Testament of François Villon</field>
-<field name="titlesort">Testament of François Villon</field>
+<field name="titleSort">Testament of François Villon</field>
 <field name="composer">Ezra Pound</field>
-<field name="composersort">Pound, Ezra</field>
+<field name="composerSort">Pound, Ezra</field>
 <field name="year">1926</field>
 <field name="date">June 29, 1926</field>
 <field name="librettist">François Villon</field>
-<field name="librettistsort">Villon, François</field>
+<field name="librettistSort">Villon, François</field>
 <field name="theater">Salle Pleyel</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

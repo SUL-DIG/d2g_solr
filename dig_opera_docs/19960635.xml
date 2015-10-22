@@ -3,13 +3,13 @@
 <field name="id">19960635</field>
 <field name="genre">Operas</field>
 <field name="title">Die Liebesprobe</field>
-<field name="titlesort">Liebesprobe</field>
+<field name="titleSort">Liebesprobe</field>
 <field name="composer">Iván Eröd</field>
-<field name="composersort">Eröd, Iván</field>
+<field name="composerSort">Eröd, Iván</field>
 <field name="year">2002</field>
 <field name="date">March 13, 2002</field>
 <field name="librettist">Richard Bletschacher</field>
-<field name="librettistsort">Bletschacher, Richard</field>
+<field name="librettistSort">Bletschacher, Richard</field>
 <field name="theater">Kammeroper</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

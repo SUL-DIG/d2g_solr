@@ -3,13 +3,13 @@
 <field name="id">19960888</field>
 <field name="genre">Operas</field>
 <field name="title">Firegarden</field>
-<field name="titlesort">Firegarden</field>
+<field name="titleSort">Firegarden</field>
 <field name="composer">Tõnu Kõrvits</field>
-<field name="composersort">Kõrvits, Tõnu</field>
+<field name="composerSort">Kõrvits, Tõnu</field>
 <field name="year">2006</field>
 <field name="date">April 20, 2006</field>
 <field name="librettist">Maarja Kangro</field>
-<field name="librettistsort">Kangro, Maarja</field>
+<field name="librettistSort">Kangro, Maarja</field>
 <field name="theater">Von Krahli Teater</field>
 <field name="city">Tallinn</field>
 <field name="region">Harju</field>

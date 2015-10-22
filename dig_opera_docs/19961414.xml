@@ -3,13 +3,13 @@
 <field name="id">19961414</field>
 <field name="genre">Operas</field>
 <field name="title">La liberta chiama la liberta</field>
-<field name="titlesort">liberta chiama la liberta</field>
+<field name="titleSort">liberta chiama la liberta</field>
 <field name="composer">Eugeniusz Knapik</field>
-<field name="composersort">Knapik, Eugeniusz</field>
+<field name="composerSort">Knapik, Eugeniusz</field>
 <field name="year">2010</field>
 <field name="date">October 16, 2010</field>
 <field name="librettist">Jan Fabre</field>
-<field name="librettistsort">Fabre, Jan </field>
+<field name="librettistSort">Fabre, Jan </field>
 <field name="theater">Opera Dolnoslaska</field>
 <field name="city">Wroclaw</field>
 <field name="region">Dolnoslaskie</field>

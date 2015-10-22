@@ -3,13 +3,13 @@
 <field name="id">19961820</field>
 <field name="genre">Operas</field>
 <field name="title">Neuf-cent-vingt-six et demi</field>
-<field name="titlesort">Neuf-cent-vingt-six et demi</field>
+<field name="titleSort">Neuf-cent-vingt-six et demi</field>
 <field name="composer">Suzanne Giraud</field>
-<field name="composersort">Giraud, Suzanne</field>
+<field name="composerSort">Giraud, Suzanne</field>
 <field name="year">2010</field>
 <field name="date">February 1, 2010</field>
 <field name="librettist">Jean-Nestor Debazille</field>
-<field name="librettistsort">Debazille, Jean-Nestor</field>
+<field name="librettistSort">Debazille, Jean-Nestor</field>
 <field name="theater">Péniche Opéra</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

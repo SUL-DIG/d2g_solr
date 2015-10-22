@@ -3,13 +3,13 @@
 <field name="id">19960372</field>
 <field name="genre">Operas</field>
 <field name="title">Bukowski: Larger Than Life</field>
-<field name="titlesort">Bukowski: Larger Than Life</field>
+<field name="titleSort">Bukowski: Larger Than Life</field>
 <field name="composer">Persis Anne Parshall Vehar</field>
-<field name="composersort">Vehar, Persis Anne Parshall</field>
+<field name="composerSort">Vehar, Persis Anne Parshall</field>
 <field name="year">2002</field>
 <field name="date">September 12, 2002</field>
 <field name="librettist">Charles Bukowski</field>
-<field name="librettistsort">Bukowski, Charles</field>
+<field name="librettistSort">Bukowski, Charles</field>
 <field name="theater">Philadelphia Fringe Festival</field>
 <field name="city">Philadelphia</field>
 <field name="region">Pennsylvania</field>

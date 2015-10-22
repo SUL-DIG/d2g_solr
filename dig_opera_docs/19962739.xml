@@ -3,13 +3,13 @@
 <field name="id">19962739</field>
 <field name="genre">Operas</field>
 <field name="title">The Scrimshaw Violin</field>
-<field name="titlesort">Scrimshaw Violin</field>
+<field name="titleSort">Scrimshaw Violin</field>
 <field name="composer">Bruce Saylor</field>
-<field name="composersort">Saylor, Bruce</field>
+<field name="composerSort">Saylor, Bruce</field>
 <field name="year">2001</field>
 <field name="date">December 3, 2001</field>
 <field name="librettist">Jonathan Levi</field>
-<field name="librettistsort">Levi, Jonathan</field>
+<field name="librettistSort">Levi, Jonathan</field>
 <field name="theater">Kaufmann Auditorium, 92nd Street Y</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

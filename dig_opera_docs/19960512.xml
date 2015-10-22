@@ -3,13 +3,13 @@
 <field name="id">19960512</field>
 <field name="genre">Operas</field>
 <field name="title">Das Tanzlegendchen</field>
-<field name="titlesort">Tanzlegendchen</field>
+<field name="titleSort">Tanzlegendchen</field>
 <field name="composer">Erika Radermacher</field>
-<field name="composersort">Radermacher, Erika</field>
+<field name="composerSort">Radermacher, Erika</field>
 <field name="year">1990</field>
 <field name="date">June 1, 1990</field>
 <field name="librettist">Gottfried Keller</field>
-<field name="librettistsort">Keller, Gottfried</field>
+<field name="librettistSort">Keller, Gottfried</field>
 <field name="theater">Internationale Junifestwochen</field>
 <field name="city">Zürich</field>
 <field name="region">Zürich</field>

@@ -3,13 +3,13 @@
 <field name="id">19960089</field>
 <field name="genre">Operas</field>
 <field name="title">Ahne tuomari (The Greedy Judge)</field>
-<field name="titlesort">Ahne tuomari (The Greedy Judge)</field>
+<field name="titleSort">Ahne tuomari (The Greedy Judge)</field>
 <field name="composer">Kaj Chydenius</field>
-<field name="composersort">Chydenius, Kaj</field>
+<field name="composerSort">Chydenius, Kaj</field>
 <field name="year">2001</field>
 <field name="date">July 28, 2001</field>
 <field name="librettist">Kaj Chydenius</field>
-<field name="librettistsort">Chydenius, Kaj</field>
+<field name="librettistSort">Chydenius, Kaj</field>
 <field name="theater">Valkeakosken kaupunginteatteri</field>
 <field name="city">Valkeakoski</field>
 <field name="region">Pirkanmaa</field>

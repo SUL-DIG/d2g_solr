@@ -3,13 +3,13 @@
 <field name="id">19960939</field>
 <field name="genre">Operas</field>
 <field name="title">Fuge - Unfug - E</field>
-<field name="titlesort">Fuge - Unfug - E</field>
+<field name="titleSort">Fuge - Unfug - E</field>
 <field name="composer">Dieter Kaufmann</field>
-<field name="composersort">Kaufmann, Dieter</field>
+<field name="composerSort">Kaufmann, Dieter</field>
 <field name="year">2008</field>
 <field name="date">December 3, 2008</field>
 <field name="librettist">Elfriede Jelinek</field>
-<field name="librettistsort">Jelinek, Elfriede</field>
+<field name="librettistSort">Jelinek, Elfriede</field>
 <field name="theater">Kammeroper</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

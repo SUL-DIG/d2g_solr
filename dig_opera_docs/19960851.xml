@@ -3,13 +3,13 @@
 <field name="id">19960851</field>
 <field name="genre">Operas</field>
 <field name="title">Falketеrnet</field>
-<field name="titlesort">Falketеrnet</field>
+<field name="titleSort">Falketеrnet</field>
 <field name="composer">Gisle Kverndokk</field>
-<field name="composersort">Kverndokk, Gisle</field>
+<field name="composerSort">Kverndokk, Gisle</field>
 <field name="year">1990</field>
 <field name="date">March 8, 1990</field>
 <field name="librettist">Erik Fosnes Hansen</field>
-<field name="librettistsort">Hansen, Erik Fosnes</field>
+<field name="librettistSort">Hansen, Erik Fosnes</field>
 <field name="theater">Ibsenhuset</field>
 <field name="city">Skien</field>
 <field name="region">Telemark</field>

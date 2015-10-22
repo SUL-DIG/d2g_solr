@@ -3,13 +3,13 @@
 <field name="id">19962687</field>
 <field name="genre">Operas</field>
 <field name="title">The Phone Call</field>
-<field name="titlesort">Phone Call</field>
+<field name="titleSort">Phone Call</field>
 <field name="composer">B. A. Diana</field>
-<field name="composersort">Diana, B. A.</field>
+<field name="composerSort">Diana, B. A.</field>
 <field name="year">2002</field>
 <field name="date">February 18, 2002</field>
 <field name="librettist">John Webb</field>
-<field name="librettistsort">Webb, John</field>
+<field name="librettistSort">Webb, John</field>
 <field name="theater">Bridewell Theatre</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

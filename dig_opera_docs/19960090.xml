@@ -3,13 +3,13 @@
 <field name="id">19960090</field>
 <field name="genre">Operas</field>
 <field name="title">Ai-en (To Die for Love)</field>
-<field name="titlesort">Ai-en (To Die for Love)</field>
+<field name="titleSort">Ai-en (To Die for Love)</field>
 <field name="composer">Minoru Miki</field>
-<field name="composersort">Miki, Minoru</field>
+<field name="composerSort">Miki, Minoru</field>
 <field name="year">2006</field>
 <field name="date">February 17, 2006</field>
 <field name="librettist">Setouchi Jakucho</field>
-<field name="librettistsort">Jakucho, Setouchi</field>
+<field name="librettistSort">Jakucho, Setouchi</field>
 <field name="theater">New National Theatre</field>
 <field name="city">Tokyo</field>
 <field name="region">Tokyo</field>

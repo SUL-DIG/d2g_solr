@@ -3,13 +3,13 @@
 <field name="id">19960709</field>
 <field name="genre">Operas</field>
 <field name="title">Dr. Popels fiese Falle</field>
-<field name="titlesort">Dr. Popels fiese Falle</field>
+<field name="titleSort">Dr. Popels fiese Falle</field>
 <field name="composer">Moritz Eggert</field>
-<field name="composersort">Eggert, Moritz</field>
+<field name="composerSort">Eggert, Moritz</field>
 <field name="year">2002</field>
 <field name="date">June 14, 2002</field>
 <field name="librettist">Andrea Heuser</field>
-<field name="librettistsort">Heuser, Andrea</field>
+<field name="librettistSort">Heuser, Andrea</field>
 <field name="theater">Schauspielhaus</field>
 <field name="city">Frankfurt</field>
 <field name="region">Hessen</field>

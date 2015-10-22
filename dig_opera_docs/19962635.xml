@@ -3,13 +3,13 @@
 <field name="id">19962635</field>
 <field name="genre">Operas</field>
 <field name="title">The Love of the Poet</field>
-<field name="titlesort">Love of the Poet</field>
+<field name="titleSort">Love of the Poet</field>
 <field name="composer">Rezeda Akhiyarova</field>
-<field name="composersort">Akhiyarova, Rezeda</field>
+<field name="composerSort">Akhiyarova, Rezeda</field>
 <field name="year">2006</field>
 <field name="date">November 10, 2006</field>
 <field name="librettist">Renat Kharis</field>
-<field name="librettistsort">Kharis, Renat</field>
+<field name="librettistSort">Kharis, Renat</field>
 <field name="theater">Tatarskiy Gosudarstvennïy Teatr</field>
 <field name="city">Kazan'</field>
 <field name="country">Tatarstan</field>

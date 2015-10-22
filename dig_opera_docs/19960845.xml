@@ -3,13 +3,13 @@
 <field name="id">19960845</field>
 <field name="genre">Operas</field>
 <field name="title">Fade</field>
-<field name="titlesort">Fade</field>
+<field name="titleSort">Fade</field>
 <field name="composer">Stefan Weisman</field>
-<field name="composersort">Weisman, Stefan</field>
+<field name="composerSort">Weisman, Stefan</field>
 <field name="year">2008</field>
 <field name="date">October 22, 2008</field>
 <field name="librettist">David Cote</field>
-<field name="librettistsort">Cote, David</field>
+<field name="librettistSort">Cote, David</field>
 <field name="theater">Hoxton Hall</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

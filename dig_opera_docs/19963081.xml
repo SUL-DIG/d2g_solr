@@ -3,13 +3,13 @@
 <field name="id">19963081</field>
 <field name="genre">Operas</field>
 <field name="title">Yggdrasil</field>
-<field name="titlesort">Yggdrasil</field>
+<field name="titleSort">Yggdrasil</field>
 <field name="composer">Fredrik Österling</field>
-<field name="composersort">Österling, Fredrik</field>
+<field name="composerSort">Österling, Fredrik</field>
 <field name="year">2000</field>
 <field name="date">February 26, 2000</field>
 <field name="librettist">Hans Berndtsson</field>
-<field name="librettistsort">Berndtsson, Hans</field>
+<field name="librettistSort">Berndtsson, Hans</field>
 <field name="theater">GöteborgsOperan</field>
 <field name="city">Göteborg</field>
 <field name="region">Göteborg och Bohus</field>

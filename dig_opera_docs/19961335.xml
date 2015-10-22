@@ -3,13 +3,13 @@
 <field name="id">19961335</field>
 <field name="genre">Operas</field>
 <field name="title">Kotia kohti</field>
-<field name="titlesort">Kotia kohti</field>
+<field name="titleSort">Kotia kohti</field>
 <field name="composer">lkka Kuusisto</field>
-<field name="composersort">Kuusisto, Ilkka</field>
+<field name="composerSort">Kuusisto, Ilkka</field>
 <field name="year">2008</field>
 <field name="date">July 18, 2008</field>
 <field name="librettist">Pia Perkiö</field>
-<field name="librettistsort">Perkiö, Pia</field>
+<field name="librettistSort">Perkiö, Pia</field>
 <field name="theater">Isokyrön kirkko</field>
 <field name="city">Isokyrö</field>
 <field name="region">Pohjanmaa</field>

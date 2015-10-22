@@ -3,12 +3,12 @@
 <field name="id">19961501</field>
 <field name="genre">Operas</field>
 <field name="title">Le vilain petit canard</field>
-<field name="titlesort">vilain petit canard</field>
+<field name="titleSort">vilain petit canard</field>
 <field name="composer">Vojtěch Saudek</field>
-<field name="composersort">Saudek, Vojtěch </field>
+<field name="composerSort">Saudek, Vojtěch </field>
 <field name="year">1994</field>
 <field name="librettist">Hans Christian Andersen</field>
-<field name="librettistsort">Andersen, Hans Christian</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=vilain+petit+canard+Vojtěch+Saudek&amp;search_field=search</field>
 </doc>
 </add>

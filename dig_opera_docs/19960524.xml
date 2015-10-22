@@ -3,9 +3,9 @@
 <field name="id">19960524</field>
 <field name="genre">Operas</field>
 <field name="title">De Rolstoel</field>
-<field name="titlesort">Rolstoel</field>
+<field name="titleSort">Rolstoel</field>
 <field name="composer">Boudewijn Buckinx</field>
-<field name="composersort">Buckinx, Boudewijn</field>
+<field name="composerSort">Buckinx, Boudewijn</field>
 <field name="year">2010</field>
 <field name="date">July 22, 2010</field>
 <field name="theater">Zuivelmarkt</field>

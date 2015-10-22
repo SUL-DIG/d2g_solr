@@ -3,13 +3,13 @@
 <field name="id">19962128</field>
 <field name="genre">Operas</field>
 <field name="title">Reigen</field>
-<field name="titlesort">Reigen</field>
+<field name="titleSort">Reigen</field>
 <field name="composer">Bernhard Lang</field>
-<field name="composersort">Lang, Bernhard</field>
+<field name="composerSort">Lang, Bernhard</field>
 <field name="year">2014</field>
 <field name="date">April 25, 2014</field>
 <field name="librettist">Michael Sturminger</field>
-<field name="librettistsort">Sturminger. Michael </field>
+<field name="librettistSort">Sturminger. Michael </field>
 <field name="theater">Schlosstheater</field>
 <field name="city">Schwetzingen</field>
 <field name="region">Baden-Württemberg</field>

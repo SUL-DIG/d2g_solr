@@ -3,13 +3,13 @@
 <field name="id">19962916</field>
 <field name="genre">Operas</field>
 <field name="title">Troijan naiset (The Trojan Women)</field>
-<field name="titlesort">Troijan naiset (The Trojan Women)</field>
+<field name="titleSort">Troijan naiset (The Trojan Women)</field>
 <field name="composer">Jani Sivén</field>
-<field name="composersort">Sivén, Jani</field>
+<field name="composerSort">Sivén, Jani</field>
 <field name="year">2002</field>
 <field name="date">March 15, 2002</field>
 <field name="librettist">Tapani Mikkola</field>
-<field name="librettistsort">Mikkola, Tapani</field>
+<field name="librettistSort">Mikkola, Tapani</field>
 <field name="theater">Conservatory</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

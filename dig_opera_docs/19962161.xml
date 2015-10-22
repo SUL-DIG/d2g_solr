@@ -3,13 +3,13 @@
 <field name="id">19962161</field>
 <field name="genre">Operas</field>
 <field name="title">Rise for Freedom: The John P. Parker Story</field>
-<field name="titlesort">Rise for Freedom: The John P. Parker Story</field>
+<field name="titleSort">Rise for Freedom: The John P. Parker Story</field>
 <field name="composer">Adolphus Hailstork</field>
-<field name="composersort">Hailstork, Adolphus</field>
+<field name="composerSort">Hailstork, Adolphus</field>
 <field name="year">2007</field>
 <field name="date">October 13, 2007</field>
 <field name="librettist">David Gonzales</field>
-<field name="librettistsort">Gonzales, David</field>
+<field name="librettistSort">Gonzales, David</field>
 <field name="theater">Corbett Theater</field>
 <field name="city">Cincinnati</field>
 <field name="region">Ohio</field>

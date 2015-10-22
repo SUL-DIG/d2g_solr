@@ -3,13 +3,13 @@
 <field name="id">19961142</field>
 <field name="genre">Operas</field>
 <field name="title">Ice</field>
-<field name="titlesort">Ice</field>
+<field name="titleSort">Ice</field>
 <field name="composer">Alasdair Nicolson</field>
-<field name="composersort">Nicolson, Alasdair</field>
+<field name="composerSort">Nicolson, Alasdair</field>
 <field name="year">2001</field>
 <field name="date">July 27, 2001</field>
 <field name="librettist">Andy Rashleigh</field>
-<field name="librettistsort">Rashleigh, Andy</field>
+<field name="librettistSort">Rashleigh, Andy</field>
 <field name="theater">People's Palace</field>
 <field name="city">Stepney</field>
 <field name="region">Greater London</field>

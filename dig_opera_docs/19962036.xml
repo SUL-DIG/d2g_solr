@@ -3,13 +3,13 @@
 <field name="id">19962036</field>
 <field name="genre">Operas</field>
 <field name="title">Pontalba</field>
-<field name="titlesort">Pontalba</field>
+<field name="titleSort">Pontalba</field>
 <field name="composer">Thea Musgrave</field>
-<field name="composersort">Musgrave, Thea</field>
+<field name="composerSort">Musgrave, Thea</field>
 <field name="year">2003</field>
 <field name="date">October 2, 2003</field>
 <field name="librettist">Thea Musgrave</field>
-<field name="librettistsort">Musgrave, Thea</field>
+<field name="librettistSort">Musgrave, Thea</field>
 <field name="theater">Mahalia Jackson Theater</field>
 <field name="city">New Orleans</field>
 <field name="region">Louisiana</field>

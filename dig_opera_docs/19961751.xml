@@ -3,12 +3,12 @@
 <field name="id">19961751</field>
 <field name="genre">Operas</field>
 <field name="title">Momo</field>
-<field name="titlesort">Momo</field>
+<field name="titleSort">Momo</field>
 <field name="composer">Toshi Ichiyanagi</field>
-<field name="composersort">Ichiyanagi, Toshi</field>
+<field name="composerSort">Ichiyanagi, Toshi</field>
 <field name="year">1995</field>
 <field name="librettist">Michael Ende</field>
-<field name="librettistsort">Ende, Michael</field>
+<field name="librettistSort">Ende, Michael</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Momo+Toshi+Ichiyanagi&amp;search_field=search</field>
 </doc>
 </add>

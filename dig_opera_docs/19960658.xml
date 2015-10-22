@@ -3,13 +3,13 @@
 <field name="id">19960658</field>
 <field name="genre">Operas</field>
 <field name="title">Die traurige Ballade von John Merrick, genannt: Der Elefantenmensch </field>
-<field name="titlesort">Die traurige Ballade von John Merrick, genannt: Der Elefantenmensch </field>
+<field name="titleSort">Die traurige Ballade von John Merrick, genannt: Der Elefantenmensch </field>
 <field name="composer">Niclas Ramdohr</field>
-<field name="composersort">Ramdohr, Niclas</field>
+<field name="composerSort">Ramdohr, Niclas</field>
 <field name="year">2004</field>
 <field name="date">March 12, 2004</field>
 <field name="librettist">Peter Lund</field>
-<field name="librettistsort">Lund, Peter</field>
+<field name="librettistSort">Lund, Peter</field>
 <field name="theater">Neuköllner Oper</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>

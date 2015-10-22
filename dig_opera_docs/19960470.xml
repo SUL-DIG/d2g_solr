@@ -3,13 +3,13 @@
 <field name="id">19960470</field>
 <field name="genre">Operas</field>
 <field name="title">Cricketina</field>
-<field name="titlesort">Cricketina</field>
+<field name="titleSort">Cricketina</field>
 <field name="composer">Kristine Burns</field>
-<field name="composersort">Burns, Kristine</field>
+<field name="composerSort">Burns, Kristine</field>
 <field name="year">2003</field>
 <field name="date">November 15, 2003</field>
 <field name="librettist">Lynne Barrett</field>
-<field name="librettistsort">Barrett, Lynne</field>
+<field name="librettistSort">Barrett, Lynne</field>
 <field name="theater">Florida International University</field>
 <field name="city">Miami</field>
 <field name="region">Florida</field>

@@ -3,13 +3,13 @@
 <field name="id">19960515</field>
 <field name="genre">Operas</field>
 <field name="title">Daughter of the Sea</field>
-<field name="titlesort">Daughter of the Sea</field>
+<field name="titleSort">Daughter of the Sea</field>
 <field name="composer">Richard Chew</field>
-<field name="composersort">Chew, Richard</field>
+<field name="composerSort">Chew, Richard</field>
 <field name="year">2009</field>
 <field name="date">May 20, 2009</field>
 <field name="librettist">Berlie Doherty</field>
-<field name="librettistsort">Doherty, Berlie</field>
+<field name="librettistSort">Doherty, Berlie</field>
 <field name="theater">Come Out Festival</field>
 <field name="city">Adelaide</field>
 <field name="region">South Australia</field>

@@ -3,13 +3,13 @@
 <field name="id">19961610</field>
 <field name="genre">Operas</field>
 <field name="title">Luzifers Lächeln</field>
-<field name="titlesort">Luzifers Lächeln</field>
+<field name="titleSort">Luzifers Lächeln</field>
 <field name="composer">Gottfried von Einem</field>
-<field name="composersort">Einem, Gottfried von</field>
+<field name="composerSort">Einem, Gottfried von</field>
 <field name="year">1998</field>
 <field name="date">February 4, 1998</field>
 <field name="librettist">Lotte Ingrisch</field>
-<field name="librettistsort">Ingrisch, Lotte</field>
+<field name="librettistSort">Ingrisch, Lotte</field>
 <field name="theater">Ronachers Operetten-Theater im Prater</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

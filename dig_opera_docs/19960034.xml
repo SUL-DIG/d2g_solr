@@ -3,13 +3,13 @@
 <field name="id">19960034</field>
 <field name="genre">Operas</field>
 <field name="title">A Fleeting Animal: An Opera from Judevine</field>
-<field name="titlesort">Fleeting Animal: An Opera from Judevine</field>
+<field name="titleSort">Fleeting Animal: An Opera from Judevine</field>
 <field name="composer">Erik Nielsen</field>
-<field name="composersort">Nielsen, Erik</field>
+<field name="composerSort">Nielsen, Erik</field>
 <field name="year">2000</field>
 <field name="date">October 20, 2000</field>
 <field name="librettist">David Budbill</field>
-<field name="librettistsort">Budbill, David</field>
+<field name="librettistSort">Budbill, David</field>
 <field name="theater">Vermont Opera Theater</field>
 <field name="city">Montpelier</field>
 <field name="region">Vermont</field>

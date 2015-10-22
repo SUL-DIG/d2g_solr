@@ -3,13 +3,13 @@
 <field name="id">19962171</field>
 <field name="genre">Operas</field>
 <field name="title">Rodman in North Korea</field>
-<field name="titlesort">Rodman in North Korea</field>
+<field name="titleSort">Rodman in North Korea</field>
 <field name="composer">Sarah Hutchings</field>
-<field name="composersort">Hutchings, Sarah</field>
+<field name="composerSort">Hutchings, Sarah</field>
 <field name="year">2014</field>
 <field name="date">May 1, 2014</field>
 <field name="librettist">Mark Sonnenblick</field>
-<field name="librettistsort">Sonnenblick, Mark</field>
+<field name="librettistSort">Sonnenblick, Mark</field>
 <field name="theater">Houghton College</field>
 <field name="city">Houghton</field>
 <field name="region">New York</field>

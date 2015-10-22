@@ -3,13 +3,13 @@
 <field name="id">19962243</field>
 <field name="genre">Operas</field>
 <field name="title">Seijo</field>
-<field name="titlesort">Seijo</field>
+<field name="titleSort">Seijo</field>
 <field name="composer">Stan Hoffman</field>
-<field name="composersort">Hoffman, Stan</field>
+<field name="composerSort">Hoffman, Stan</field>
 <field name="year">2003</field>
 <field name="date">February 25, 2003</field>
 <field name="librettist">Melanie Grimes</field>
-<field name="librettistsort">Grimes, Melanie</field>
+<field name="librettistSort">Grimes, Melanie</field>
 <field name="theater">New England Conservatory</field>
 <field name="city">Boston</field>
 <field name="region">Massachusetts</field>

@@ -3,13 +3,13 @@
 <field name="id">19960067</field>
 <field name="genre">Operas</field>
 <field name="title">Abends am Fluss</field>
-<field name="titlesort">Abends am Fluss</field>
+<field name="titleSort">Abends am Fluss</field>
 <field name="composer">Johannes Harneit</field>
-<field name="composersort">Harneit, Johannes</field>
+<field name="composerSort">Harneit, Johannes</field>
 <field name="year">2015</field>
 <field name="date">February 6, 2015</field>
 <field name="librettist">Gero Troike</field>
-<field name="librettistsort">Troike, Gero</field>
+<field name="librettistSort">Troike, Gero</field>
 <field name="theater">Theater der Stadt</field>
 <field name="city">Heidelberg</field>
 <field name="region">Baden-Württemberg</field>

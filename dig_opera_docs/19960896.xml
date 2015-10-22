@@ -3,9 +3,9 @@
 <field name="id">19960896</field>
 <field name="genre">Operas</field>
 <field name="title">Fjórdi söngur Gudrúnar (Gudrun's 4th Song)</field>
-<field name="titlesort">Fjórdi söngur Gudrúnar (Gudrun's 4th Song)</field>
+<field name="titleSort">Fjórdi söngur Gudrúnar (Gudrun's 4th Song)</field>
 <field name="composer">Haukur Tómasson</field>
-<field name="composersort">Tómasson, Haukur</field>
+<field name="composerSort">Tómasson, Haukur</field>
 <field name="year">1996</field>
 <field name="date">July 24, 1996</field>
 <field name="theater">Dry Dock, Holmen</field>

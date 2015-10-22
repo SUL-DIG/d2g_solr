@@ -3,13 +3,13 @@
 <field name="id">19961196</field>
 <field name="genre">Operas</field>
 <field name="title">Intrigos</field>
-<field name="titlesort">Intrigos</field>
+<field name="titleSort">Intrigos</field>
 <field name="composer">Giedrius Kuprevičius</field>
-<field name="composersort">Kuprevičius, Giedrius</field>
+<field name="composerSort">Kuprevičius, Giedrius</field>
 <field name="year">2006</field>
 <field name="date">November 8, 2006</field>
 <field name="librettist">Giedrius Kuprevičius</field>
-<field name="librettistsort">Kuprevičius, Giedrius</field>
+<field name="librettistSort">Kuprevičius, Giedrius</field>
 <field name="theater">Is Arti Festival</field>
 <field name="city">Kaunas</field>
 <field name="country">Lithuania</field>

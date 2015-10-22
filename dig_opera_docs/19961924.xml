@@ -3,13 +3,13 @@
 <field name="id">19961924</field>
 <field name="genre">Operas</field>
 <field name="title">Orpheus Kristall</field>
-<field name="titlesort">Orpheus Kristall</field>
+<field name="titleSort">Orpheus Kristall</field>
 <field name="composer">Manfred Stahnke</field>
-<field name="composersort">Stahnke, Manfred</field>
+<field name="composerSort">Stahnke, Manfred</field>
 <field name="year">2002</field>
 <field name="date">May 2, 2002</field>
 <field name="librettist">Simone Homem de Mello</field>
-<field name="librettistsort">Mello, Simone Homem de</field>
+<field name="librettistSort">Mello, Simone Homem de</field>
 <field name="theater">Biennale</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

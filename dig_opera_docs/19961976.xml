@@ -3,13 +3,13 @@
 <field name="id">19961976</field>
 <field name="genre">Operas</field>
 <field name="title">Paul und Virginie</field>
-<field name="titlesort">Paul und Virginie</field>
+<field name="titleSort">Paul und Virginie</field>
 <field name="composer">Moritz Eggert</field>
-<field name="composersort">Eggert, Moritz</field>
+<field name="composerSort">Eggert, Moritz</field>
 <field name="year">1990</field>
 <field name="date">April 29, 1990</field>
 <field name="librettist">Moritz Eggert</field>
-<field name="librettistsort">Eggert, Moritz</field>
+<field name="librettistSort">Eggert, Moritz</field>
 <field name="theater">Black Box</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

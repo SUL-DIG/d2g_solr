@@ -3,13 +3,13 @@
 <field name="id">19960412</field>
 <field name="genre">Operas</field>
 <field name="title">Centones meae urbi</field>
-<field name="titlesort">Centones meae urbi</field>
+<field name="titleSort">Centones meae urbi</field>
 <field name="composer">Onutė Narbutaitė</field>
-<field name="composersort">Narbutaitė, Onutė</field>
+<field name="composerSort">Narbutaitė, Onutė</field>
 <field name="year">1997</field>
 <field name="date">August 9, 1997</field>
 <field name="librettist">Czesław Miłosz</field>
-<field name="librettistsort">Miłosz, Czesław</field>
+<field name="librettistSort">Miłosz, Czesław</field>
 <field name="theater">St. Catherine's Church</field>
 <field name="city">Vilnius</field>
 <field name="country">Lithuania</field>

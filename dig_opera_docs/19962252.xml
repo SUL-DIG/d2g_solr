@@ -3,9 +3,9 @@
 <field name="id">19962252</field>
 <field name="genre">Operas</field>
 <field name="title">Serial Sevens</field>
-<field name="titlesort">Serial Sevens</field>
+<field name="titleSort">Serial Sevens</field>
 <field name="composer">Francesca Verunelli</field>
-<field name="composersort">Verunelli, Francesca</field>
+<field name="composerSort">Verunelli, Francesca</field>
 <field name="year">2012</field>
 <field name="date">July 21, 2012</field>
 <field name="theater">Württembergisches Staatstheater</field>

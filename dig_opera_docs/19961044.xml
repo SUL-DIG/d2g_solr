@@ -3,13 +3,13 @@
 <field name="id">19961044</field>
 <field name="genre">Operas</field>
 <field name="title">Happy Birthday, Mr. President</field>
-<field name="titlesort">Happy Birthday, Mr. President</field>
+<field name="titleSort">Happy Birthday, Mr. President</field>
 <field name="composer">Kriss Russman</field>
-<field name="composersort">Russman, Kriss</field>
+<field name="composerSort">Russman, Kriss</field>
 <field name="year">2013</field>
 <field name="date">January 27, 2013</field>
 <field name="librettist">Kriss Russman</field>
-<field name="librettistsort">Russman, Kriss</field>
+<field name="librettistSort">Russman, Kriss</field>
 <field name="theater">Volkestheater</field>
 <field name="city">Rostock</field>
 <field name="region">Mecklenburg-Vorpommern</field>

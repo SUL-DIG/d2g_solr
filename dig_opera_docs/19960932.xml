@@ -3,13 +3,13 @@
 <field name="id">19960932</field>
 <field name="genre">Operas</field>
 <field name="title">From Little to Less</field>
-<field name="titlesort">From Little to Less</field>
+<field name="titleSort">From Little to Less</field>
 <field name="composer">Lionel Lackey</field>
-<field name="composersort">Lackey, Lionel</field>
+<field name="composerSort">Lackey, Lionel</field>
 <field name="year">2002</field>
 <field name="date">November 21, 2002</field>
 <field name="librettist">Lionel Lackey</field>
-<field name="librettistsort">Lackey, Lionel</field>
+<field name="librettistSort">Lackey, Lionel</field>
 <field name="theater">DePauw University</field>
 <field name="city">Greencastle</field>
 <field name="region">Indiana</field>

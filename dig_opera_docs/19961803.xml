@@ -3,13 +3,13 @@
 <field name="id">19961803</field>
 <field name="genre">Operas</field>
 <field name="title">Näsflöjten</field>
-<field name="titlesort">Näsflöjten</field>
+<field name="titleSort">Näsflöjten</field>
 <field name="composer">Fredrik Österling</field>
-<field name="composersort">Österling, Fredrik</field>
+<field name="composerSort">Österling, Fredrik</field>
 <field name="year">2009</field>
 <field name="date">August 8, 2009</field>
 <field name="librettist">Magnus Lindman</field>
-<field name="librettistsort">Lindman, Magnus</field>
+<field name="librettistSort">Lindman, Magnus</field>
 <field name="theater">Vadstena Slott </field>
 <field name="city">Vadstena</field>
 <field name="region">Östergötland</field>

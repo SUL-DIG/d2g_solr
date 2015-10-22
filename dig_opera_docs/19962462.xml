@@ -3,13 +3,13 @@
 <field name="id">19962462</field>
 <field name="genre">Operas</field>
 <field name="title">The Blackened Man</field>
-<field name="titlesort">Blackened Man</field>
+<field name="titleSort">Blackened Man</field>
 <field name="composer">Will Todd</field>
-<field name="composersort">Todd, Will</field>
+<field name="composerSort">Todd, Will</field>
 <field name="year">2002</field>
 <field name="date">September 26, 2002</field>
 <field name="librettist">Ben Dunwell</field>
-<field name="librettistsort">Dunwell, Ben</field>
+<field name="librettistSort">Dunwell, Ben</field>
 <field name="theater">Linbury Studio, Royal Opera House</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

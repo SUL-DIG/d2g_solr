@@ -3,13 +3,13 @@
 <field name="id">19961461</field>
 <field name="genre">Operas</field>
 <field name="title">Las cartas de Frida</field>
-<field name="titlesort">cartas de Frida</field>
+<field name="titleSort">cartas de Frida</field>
 <field name="composer">Marcela Rodríguez</field>
-<field name="composersort">Rodríguez, Marcela</field>
+<field name="composerSort">Rodríguez, Marcela</field>
 <field name="year">2011</field>
 <field name="date">October 26, 2011</field>
 <field name="librettist">Frida Kahlo</field>
-<field name="librettistsort">Kahlo, Frida</field>
+<field name="librettistSort">Kahlo, Frida</field>
 <field name="theater">Theater der Stadt</field>
 <field name="city">Heidelberg</field>
 <field name="region">Baden-Württemberg</field>

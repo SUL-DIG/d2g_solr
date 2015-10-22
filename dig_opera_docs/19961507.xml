@@ -3,12 +3,12 @@
 <field name="id">19961507</field>
 <field name="genre">Operas</field>
 <field name="title">Leda</field>
-<field name="titlesort">Leda</field>
+<field name="titleSort">Leda</field>
 <field name="composer">Manfred Niehaus</field>
-<field name="composersort">Niehaus, Manfred</field>
+<field name="composerSort">Niehaus, Manfred</field>
 <field name="year">1998</field>
 <field name="librettist">Alfred Jarry</field>
-<field name="librettistsort">Jarry, Alfred</field>
+<field name="librettistSort">Jarry, Alfred</field>
 <field name="theater">ArTheater</field>
 <field name="city">Cologne</field>
 <field name="country">Germany</field>

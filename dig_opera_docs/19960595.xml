@@ -3,13 +3,13 @@
 <field name="id">19960595</field>
 <field name="genre">Operas</field>
 <field name="title">Der Weg nach Emmaus</field>
-<field name="titlesort">Weg nach Emmaus</field>
+<field name="titleSort">Weg nach Emmaus</field>
 <field name="composer">Thomas Christian David</field>
-<field name="composersort">David, Thomas Christian</field>
+<field name="composerSort">David, Thomas Christian</field>
 <field name="year">1982</field>
 <field name="date">August 29, 1982</field>
 <field name="librettist">Herbert Vogg</field>
-<field name="librettistsort">Vogg, Herbert</field>
+<field name="librettistSort">Vogg, Herbert</field>
 <field name="theater">Dorfkirche</field>
 <field name="city">Alpbach</field>
 <field name="region">Tirol</field>

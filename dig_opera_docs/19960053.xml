@@ -3,13 +3,13 @@
 <field name="id">19960053</field>
 <field name="genre">Operas</field>
 <field name="title">A Proposal</field>
-<field name="titlesort">Proposal</field>
+<field name="titleSort">Proposal</field>
 <field name="composer">Richard Dubugnon</field>
-<field name="composersort">Dubugnon, Richard</field>
+<field name="composerSort">Dubugnon, Richard</field>
 <field name="year">2000</field>
 <field name="date">March 6, 2000</field>
 <field name="librettist">Richard Dubugnon</field>
-<field name="librettistsort">Dubugnon, Richard</field>
+<field name="librettistSort">Dubugnon, Richard</field>
 <field name="theater">Royal Academy of Music</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

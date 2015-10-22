@@ -3,13 +3,13 @@
 <field name="id">19962280</field>
 <field name="genre">Operas</field>
 <field name="title">Si camminava sull'Arno</field>
-<field name="titlesort">Si camminava sull'Arno</field>
+<field name="titleSort">Si camminava sull'Arno</field>
 <field name="composer">Marco Simoni</field>
-<field name="composersort">Simoni, Marco</field>
+<field name="composerSort">Simoni, Marco</field>
 <field name="year">2014</field>
 <field name="date">April 4, 2014</field>
 <field name="librettist">Fabrizio Altieri</field>
-<field name="librettistsort">Altieri, Fabrizio</field>
+<field name="librettistSort">Altieri, Fabrizio</field>
 <field name="theater">Teatro Comunale Verdi</field>
 <field name="city">Pisa</field>
 <field name="region">Toscana</field>

@@ -3,12 +3,12 @@
 <field name="id">19961348</field>
 <field name="genre">Operas</field>
 <field name="title">Kusabira</field>
-<field name="titlesort">Kusabira</field>
+<field name="titleSort">Kusabira</field>
 <field name="composer">Minoru Miki</field>
-<field name="composersort">Miki, Minoru</field>
+<field name="composerSort">Miki, Minoru</field>
 <field name="year">1995</field>
 <field name="librettist">Asaya Fujita</field>
-<field name="librettistsort">Fujita, Asaya</field>
+<field name="librettistSort">Fujita, Asaya</field>
 <field name="theater">Geidankyo (Japan Council of Performer's Organizations)</field>
 <field name="city">Tokyo</field>
 <field name="region">Tokyo</field>

@@ -3,13 +3,13 @@
 <field name="id">19960903</field>
 <field name="genre">Operas</field>
 <field name="title">Flying High</field>
-<field name="titlesort">Flying High</field>
+<field name="titleSort">Flying High</field>
 <field name="composer">Graham Preskett</field>
-<field name="composersort">Preskett, Graham</field>
+<field name="composerSort">Preskett, Graham</field>
 <field name="year">2001</field>
 <field name="date">December 8, 2001</field>
 <field name="librettist">John Kane</field>
-<field name="librettistsort">Kane, John</field>
+<field name="librettistSort">Kane, John</field>
 <field name="theater">Linbury Studio, Royal Opera House</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

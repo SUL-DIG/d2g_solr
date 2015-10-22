@@ -3,13 +3,13 @@
 <field name="id">19960468</field>
 <field name="genre">Operas</field>
 <field name="title">Coyote Tales</field>
-<field name="titlesort">Coyote Tales</field>
+<field name="titleSort">Coyote Tales</field>
 <field name="composer">Henry Mollicone</field>
-<field name="composersort">Mollicone, Henry</field>
+<field name="composerSort">Mollicone, Henry</field>
 <field name="year">1998</field>
 <field name="date">March 7, 1998</field>
 <field name="librettist">Sheldon Harnick</field>
-<field name="librettistsort">Harnick, Sheldon</field>
+<field name="librettistSort">Harnick, Sheldon</field>
 <field name="theater">Lyric Opera</field>
 <field name="city">Kansas City</field>
 <field name="region">Missouri</field>

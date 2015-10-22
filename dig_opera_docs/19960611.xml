@@ -3,13 +3,13 @@
 <field name="id">19960611</field>
 <field name="genre">Operas</field>
 <field name="title">Die Blinden</field>
-<field name="titlesort">Blinden</field>
+<field name="titleSort">Blinden</field>
 <field name="composer">Walter Zimmermann</field>
-<field name="composersort">Zimmermann, Walter</field>
+<field name="composerSort">Zimmermann, Walter</field>
 <field name="year">1986</field>
 <field name="date">May 25, 1986</field>
 <field name="librettist">Maurice Maeterlinck</field>
-<field name="librettistsort">Maeterlinck, Maurice</field>
+<field name="librettistSort">Maeterlinck, Maurice</field>
 <field name="theater">Musiktheater im Revier</field>
 <field name="city">Gelsenkirchen</field>
 <field name="region">Nordrhein-Westfallen</field>

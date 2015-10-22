@@ -3,13 +3,13 @@
 <field name="id">19962644</field>
 <field name="genre">Operas</field>
 <field name="title">The Marriages between Zones Three, Four and Five</field>
-<field name="titlesort">Marriages between Zones Three, Four and Five</field>
+<field name="titleSort">Marriages between Zones Three, Four and Five</field>
 <field name="composer">Philip Glass</field>
-<field name="composersort">Glass, Philip</field>
+<field name="composerSort">Glass, Philip</field>
 <field name="year">1997</field>
 <field name="date">May 10, 1997</field>
 <field name="librettist">Doris Lessing</field>
-<field name="librettistsort">Lessing, Doris</field>
+<field name="librettistSort">Lessing, Doris</field>
 <field name="theater">Theater der Stadt</field>
 <field name="city">Heidelberg</field>
 <field name="region">Baden-Württemberg</field>

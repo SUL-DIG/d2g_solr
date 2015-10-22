@@ -3,13 +3,13 @@
 <field name="id">19962617</field>
 <field name="genre">Operas</field>
 <field name="title">The Laurels</field>
-<field name="titlesort">Laurels</field>
+<field name="titleSort">Laurels</field>
 <field name="composer">Jeffrey Ryan</field>
-<field name="composersort">Ryan, Jeffrey</field>
+<field name="composerSort">Ryan, Jeffrey</field>
 <field name="year">2002</field>
 <field name="date">April 22, 2002</field>
 <field name="librettist">Michael Lewis MacLennan</field>
-<field name="librettistsort">MacLennan, Michael Lewis</field>
+<field name="librettistSort">MacLennan, Michael Lewis</field>
 <field name="theater">Isabel Bader Theatre</field>
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>

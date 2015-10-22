@@ -3,13 +3,13 @@
 <field name="id">19960239</field>
 <field name="genre">Operas</field>
 <field name="title">Aurora</field>
-<field name="titlesort">Aurora</field>
+<field name="titleSort">Aurora</field>
 <field name="composer">Trygve Madsen</field>
-<field name="composersort">Madsen, Trygve</field>
+<field name="composerSort">Madsen, Trygve</field>
 <field name="year">2005</field>
 <field name="date">June 1, 2005</field>
 <field name="librettist">Jon Bing</field>
-<field name="librettistsort">Bing, Jon</field>
+<field name="librettistSort">Bing, Jon</field>
 <field name="theater">Fredriksten Festning</field>
 <field name="city">Halden</field>
 <field name="region">Østfold</field>

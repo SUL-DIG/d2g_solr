@@ -3,13 +3,13 @@
 <field name="id">19960498</field>
 <field name="genre">Operas</field>
 <field name="title">Das Gesicht im Spiegel</field>
-<field name="titlesort">Gesicht im Spiegel</field>
+<field name="titleSort">Gesicht im Spiegel</field>
 <field name="composer">Jörg Widmann</field>
-<field name="composersort">Widmann, Jörg</field>
+<field name="composerSort">Widmann, Jörg</field>
 <field name="year">2003</field>
 <field name="date">July 17, 2003</field>
 <field name="librettist">Roland Schimmelpfennig</field>
-<field name="librettistsort">Schimmelpfennig, Roland</field>
+<field name="librettistSort">Schimmelpfennig, Roland</field>
 <field name="theater">Residenztheater (Cuvilliéstheater)</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

@@ -3,13 +3,13 @@
 <field name="id">19960899</field>
 <field name="genre">Operas</field>
 <field name="title">Flight</field>
-<field name="titlesort">Flight</field>
+<field name="titleSort">Flight</field>
 <field name="composer">Jonathan Dove</field>
-<field name="composersort">Dove, Jonathan</field>
+<field name="composerSort">Dove, Jonathan</field>
 <field name="year">1998</field>
 <field name="date">September 24, 1998</field>
 <field name="librettist">April de Angelis</field>
-<field name="librettistsort">Angelis, April de</field>
+<field name="librettistSort">Angelis, April de</field>
 <field name="theater">Glyndebourne Festival Opera</field>
 <field name="city">Glyndebourne</field>
 <field name="region">East Sussex</field>

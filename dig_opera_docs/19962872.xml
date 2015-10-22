@@ -3,13 +3,13 @@
 <field name="id">19962872</field>
 <field name="genre">Operas</field>
 <field name="title">Thumbprint</field>
-<field name="titlesort">Thumbprint</field>
+<field name="titleSort">Thumbprint</field>
 <field name="composer">Kamala Sankaram </field>
-<field name="composersort">Sankaram, Kamala</field>
+<field name="composerSort">Sankaram, Kamala</field>
 <field name="year">2014</field>
 <field name="date">January 8, 2014</field>
 <field name="librettist">Susan Yankowitz</field>
-<field name="librettistsort">Yankowitz, Susan</field>
+<field name="librettistSort">Yankowitz, Susan</field>
 <field name="theater">Baruch Performing Arts Center</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

@@ -3,12 +3,12 @@
 <field name="id">19961363</field>
 <field name="genre">Operas</field>
 <field name="title">L'enfant et le diable</field>
-<field name="titlesort">enfant et le diable</field>
+<field name="titleSort">enfant et le diable</field>
 <field name="composer">Aurel Stroe</field>
-<field name="composersort">Stroe, Aurel</field>
+<field name="composerSort">Stroe, Aurel</field>
 <field name="year">1989</field>
 <field name="librettist">Marina Tsvetaeva</field>
-<field name="librettistsort">Tsvetaeva, Marina</field>
+<field name="librettistSort">Tsvetaeva, Marina</field>
 <field name="theater">Radio France </field>
 <field name="city">Paris</field>
 <field name="country">France</field>

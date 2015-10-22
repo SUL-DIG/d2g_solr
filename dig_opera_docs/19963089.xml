@@ -3,13 +3,13 @@
 <field name="id">19963089</field>
 <field name="genre">Operas</field>
 <field name="title">Yuè Lìng Jié (Moon Spirit Feasting)</field>
-<field name="titlesort">Yuè Lìng Jié (Moon Spirit Feasting)</field>
+<field name="titleSort">Yuè Lìng Jié (Moon Spirit Feasting)</field>
 <field name="composer">Liza Lim</field>
-<field name="composersort">Lim, Liza</field>
+<field name="composerSort">Lim, Liza</field>
 <field name="year">2000</field>
 <field name="date">March 15, 2000</field>
 <field name="librettist">Beth Yahp</field>
-<field name="librettistsort">Yahp, Beth</field>
+<field name="librettistSort">Yahp, Beth</field>
 <field name="theater">Adelaide Festival, Torrens River barge</field>
 <field name="city">Adelaide</field>
 <field name="region">South Australia</field>

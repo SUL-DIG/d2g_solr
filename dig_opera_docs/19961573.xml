@@ -3,13 +3,13 @@
 <field name="id">19961573</field>
 <field name="genre">Operas</field>
 <field name="title">Ljubezen kapital (Love Capital)</field>
-<field name="titlesort">Ljubezen kapital (Love Capital)</field>
+<field name="titleSort">Ljubezen kapital (Love Capital)</field>
 <field name="composer">Jani Golob</field>
-<field name="composersort">Golob, Jani</field>
+<field name="composerSort">Golob, Jani</field>
 <field name="year">2012</field>
 <field name="date">June 27, 2012</field>
 <field name="librettist">Vinko Möderndorfer</field>
-<field name="librettistsort">Möderndorfer, Vinko</field>
+<field name="librettistSort">Möderndorfer, Vinko</field>
 <field name="theater">Slovensko Dazelno Gledalisce</field>
 <field name="city">Ljubljana</field>
 <field name="country">Slovenia</field>

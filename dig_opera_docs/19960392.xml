@@ -3,13 +3,13 @@
 <field name="id">19960392</field>
 <field name="genre">Operas</field>
 <field name="title">Cantatrix Sopranica L.</field>
-<field name="titlesort">Cantatrix Sopranica L.</field>
+<field name="titleSort">Cantatrix Sopranica L.</field>
 <field name="composer">Arnaud Petit</field>
-<field name="composersort">Petit, Arnaud</field>
+<field name="composerSort">Petit, Arnaud</field>
 <field name="year">2006</field>
 <field name="date">May 5, 2006</field>
 <field name="librettist">Georges Pérec</field>
-<field name="librettistsort">Pérec, Georges</field>
+<field name="librettistSort">Pérec, Georges</field>
 <field name="theater">Grand-Théâtre</field>
 <field name="city">Reims</field>
 <field name="region">Marne</field>

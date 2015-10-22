@@ -3,13 +3,13 @@
 <field name="id">19960385</field>
 <field name="genre">Operas</field>
 <field name="title">Cain</field>
-<field name="titlesort">Cain</field>
+<field name="titleSort">Cain</field>
 <field name="composer">Lubomir Denev</field>
-<field name="composersort">Denev, Lubomir</field>
+<field name="composerSort">Denev, Lubomir</field>
 <field name="year">2012</field>
 <field name="date">December 2, 2012</field>
 <field name="librettist">George Gordon, Lord Byron</field>
-<field name="librettistsort">Byron, George Gordon, Lord</field>
+<field name="librettistSort">Byron, George Gordon, Lord</field>
 <field name="theater">Narodna Opera</field>
 <field name="city">Ruse</field>
 <field name="region">Ruse Oblast</field>

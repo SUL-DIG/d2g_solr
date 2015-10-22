@@ -3,13 +3,13 @@
 <field name="id">19961421</field>
 <field name="genre">Operas</field>
 <field name="title">La mort de Virgile</field>
-<field name="titlesort">mort de Virgile</field>
+<field name="titleSort">mort de Virgile</field>
 <field name="composer">Thierry Lancino</field>
-<field name="composersort">Lancino, Thierry</field>
+<field name="composerSort">Lancino, Thierry</field>
 <field name="year">2000</field>
 <field name="date">December 2, 2000</field>
 <field name="librettist">Marc Gautron</field>
-<field name="librettistsort">Gautron, Marc</field>
+<field name="librettistSort">Gautron, Marc</field>
 <field name="theater">Radio France</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

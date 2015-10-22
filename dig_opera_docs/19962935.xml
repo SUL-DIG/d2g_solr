@@ -3,13 +3,13 @@
 <field name="id">19962935</field>
 <field name="genre">Operas</field>
 <field name="title">Two Boys</field>
-<field name="titlesort">Two Boys</field>
+<field name="titleSort">Two Boys</field>
 <field name="composer">Nico Muhly</field>
-<field name="composersort">Muhly, Nico</field>
+<field name="composerSort">Muhly, Nico</field>
 <field name="year">2011</field>
 <field name="date">June 24, 2011</field>
 <field name="librettist">Craig Lucas</field>
-<field name="librettistsort">Lucas, Craig</field>
+<field name="librettistSort">Lucas, Craig</field>
 <field name="theater">Coliseum</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

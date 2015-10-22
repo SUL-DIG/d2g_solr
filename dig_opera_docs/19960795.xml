@@ -3,13 +3,13 @@
 <field name="id">19960795</field>
 <field name="genre">Operas</field>
 <field name="title">Émilie</field>
-<field name="titlesort">Émilie</field>
+<field name="titleSort">Émilie</field>
 <field name="composer">Kaija Saariaho</field>
-<field name="composersort">Saariaho, Kaija</field>
+<field name="composerSort">Saariaho, Kaija</field>
 <field name="year">2010</field>
 <field name="date">March 1, 2010</field>
 <field name="librettist">Amin Maalouf</field>
-<field name="librettistsort">Maalouf, Amin</field>
+<field name="librettistSort">Maalouf, Amin</field>
 <field name="theater">Opéra</field>
 <field name="city">Lyon</field>
 <field name="region">Rhône du Lyonnais</field>

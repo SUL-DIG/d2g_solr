@@ -3,13 +3,13 @@
 <field name="id">19962134</field>
 <field name="genre">Operas</field>
 <field name="title">Rembrandt's Wife</field>
-<field name="titlesort">Rembrandt's Wife</field>
+<field name="titleSort">Rembrandt's Wife</field>
 <field name="composer">Andrew Ford</field>
-<field name="composersort">Ford, Andrew</field>
+<field name="composerSort">Ford, Andrew</field>
 <field name="year">2009</field>
 <field name="date">April 18, 2009</field>
 <field name="librettist">Sue Smith</field>
-<field name="librettistsort">Smith, Sue</field>
+<field name="librettistSort">Smith, Sue</field>
 <field name="theater">Merlyn Theatre, CUB Malthouse</field>
 <field name="city">Melbourne</field>
 <field name="region">Victoria</field>

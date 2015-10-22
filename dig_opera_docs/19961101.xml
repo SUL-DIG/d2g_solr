@@ -3,13 +3,13 @@
 <field name="id">19961101</field>
 <field name="genre">Operas</field>
 <field name="title">Holodomar (Hunger)</field>
-<field name="titlesort">Holodomar (Hunger)</field>
+<field name="titleSort">Holodomar (Hunger)</field>
 <field name="composer">Virko Baley</field>
-<field name="composersort">Baley, Virko</field>
+<field name="composerSort">Baley, Virko</field>
 <field name="year">2013</field>
 <field name="date">January 26, 2013</field>
 <field name="librettist">Bohdan Boychuk</field>
-<field name="librettistsort">Boychuk, Bohdan</field>
+<field name="librettistSort">Boychuk, Bohdan</field>
 <field name="theater">University of Nevada</field>
 <field name="city">Las Vegas</field>
 <field name="region">Nevada</field>

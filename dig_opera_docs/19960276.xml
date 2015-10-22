@@ -3,13 +3,13 @@
 <field name="id">19960276</field>
 <field name="genre">Operas</field>
 <field name="title">Banyan-puun juurella (Under the Banyan Tree)</field>
-<field name="titlesort">Banyan-puun juurella (Under the Banyan Tree)</field>
+<field name="titleSort">Banyan-puun juurella (Under the Banyan Tree)</field>
 <field name="composer">Kaj Chydenius</field>
-<field name="composersort">Chydenius, Kaj</field>
+<field name="composerSort">Chydenius, Kaj</field>
 <field name="year">2002</field>
 <field name="date">January 15, 2002</field>
 <field name="librettist">Kaj Chydenius</field>
-<field name="librettistsort">Chydenius, Kaj</field>
+<field name="librettistSort">Chydenius, Kaj</field>
 <field name="theater">Koulukatu Day Care Center</field>
 <field name="city">Tampere</field>
 <field name="region">Pirkanmaa</field>

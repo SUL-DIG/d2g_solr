@@ -3,13 +3,13 @@
 <field name="id">19960178</field>
 <field name="genre">Operas</field>
 <field name="title">Another America: Air</field>
-<field name="titlesort">Another America: Air</field>
+<field name="titleSort">Another America: Air</field>
 <field name="composer">Errollyn Wallen</field>
-<field name="composersort">Wallen, Errollyn</field>
+<field name="composerSort">Wallen, Errollyn</field>
 <field name="year">2009</field>
 <field name="date">March 18, 2009</field>
 <field name="librettist">Errollyn Wallen</field>
-<field name="librettistsort">Wallen, Errollyn</field>
+<field name="librettistSort">Wallen, Errollyn</field>
 <field name="theater">Abbotsholme School</field>
 <field name="city">Rocester</field>
 <field name="region">Staffordshire</field>

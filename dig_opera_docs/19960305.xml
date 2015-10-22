@@ -3,13 +3,13 @@
 <field name="id">19960305</field>
 <field name="genre">Operas</field>
 <field name="title">Bernarda Alba Haus</field>
-<field name="titlesort">Bernarda Alba Haus</field>
+<field name="titleSort">Bernarda Alba Haus</field>
 <field name="composer">Aribert Reimann</field>
-<field name="composersort">Reimann, Aribert</field>
+<field name="composerSort">Reimann, Aribert</field>
 <field name="year">2000</field>
 <field name="date">October 30, 2000</field>
 <field name="librettist">Enrique Beck</field>
-<field name="librettistsort">Beck, Enrique</field>
+<field name="librettistSort">Beck, Enrique</field>
 <field name="librettist">Federico García Lorca</field>
 <field name="theater">Bayerische Staatsoper</field>
 <field name="city">Munich</field>

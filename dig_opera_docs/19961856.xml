@@ -3,12 +3,12 @@
 <field name="id">19961856</field>
 <field name="genre">Operas</field>
 <field name="title">Nowe wyzolenie (New Deliverance)</field>
-<field name="titlesort">Nowe wyzolenie (New Deliverance)</field>
+<field name="titleSort">Nowe wyzolenie (New Deliverance)</field>
 <field name="composer">Krzystof Baculewski</field>
-<field name="composersort">Baculewski, Krzystof</field>
+<field name="composerSort">Baculewski, Krzystof</field>
 <field name="year">1986</field>
 <field name="librettist">Stanisław Ignacy Witkiewicz</field>
-<field name="librettistsort">Witkiewicz, Stanisław Ignacy</field>
+<field name="librettistSort">Witkiewicz, Stanisław Ignacy</field>
 <field name="theater">Opera Dolnoslaska</field>
 <field name="city">Wroclaw</field>
 <field name="region">Dolnoslaskie</field>

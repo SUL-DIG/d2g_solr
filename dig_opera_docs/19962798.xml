@@ -3,13 +3,13 @@
 <field name="id">19962798</field>
 <field name="genre">Operas</field>
 <field name="title">The Tibetan Book Of The Dead</field>
-<field name="titlesort">Tibetan Book Of The Dead</field>
+<field name="titleSort">Tibetan Book Of The Dead</field>
 <field name="composer">Ricky Ian Gordon</field>
-<field name="composersort">Gordon, Ricky Ian</field>
+<field name="composerSort">Gordon, Ricky Ian</field>
 <field name="year">1996</field>
 <field name="date">May 31, 1996</field>
 <field name="librettist">Jean-Claude van Itallie</field>
-<field name="librettistsort">Itallie, Jean-Claude van</field>
+<field name="librettistSort">Itallie, Jean-Claude van</field>
 <field name="theater">Rice University</field>
 <field name="city">Houston</field>
 <field name="region">Texas</field>

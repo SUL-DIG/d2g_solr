@@ -3,13 +3,13 @@
 <field name="id">19961019</field>
 <field name="genre">Operas</field>
 <field name="title">Groceries and Notions</field>
-<field name="titlesort">Groceries and Notions</field>
+<field name="titleSort">Groceries and Notions</field>
 <field name="composer">Martha Alter</field>
-<field name="composersort">Alter, Martha</field>
+<field name="composerSort">Alter, Martha</field>
 <field name="year">1931</field>
 <field name="date">February 21, 1931</field>
 <field name="librettist">Katharine Kinard Doughtie</field>
-<field name="librettistsort">Doughtie, Katharine Kinard</field>
+<field name="librettistSort">Doughtie, Katharine Kinard</field>
 <field name="theater">Vassar College</field>
 <field name="city">Poughkeepsie</field>
 <field name="region">New York</field>

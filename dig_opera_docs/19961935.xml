@@ -3,13 +3,13 @@
 <field name="id">19961935</field>
 <field name="genre">Operas</field>
 <field name="title">Our Giraffe</field>
-<field name="titlesort">Our Giraffe</field>
+<field name="titleSort">Our Giraffe</field>
 <field name="composer">Sorrel Hays</field>
-<field name="composersort">Hays, Sorrel</field>
+<field name="composerSort">Hays, Sorrel</field>
 <field name="year">2008</field>
 <field name="date">May 10, 2008</field>
 <field name="librettist">Charles Flowers</field>
-<field name="librettistsort">Flowers, Charles</field>
+<field name="librettistSort">Flowers, Charles</field>
 <field name="theater">New York City Opera VOX Festival</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

@@ -3,13 +3,13 @@
 <field name="id">19961585</field>
 <field name="genre">Operas</field>
 <field name="title">Los enemigos</field>
-<field name="titlesort">enemigos</field>
+<field name="titleSort">enemigos</field>
 <field name="composer">Mesías Maiguashca</field>
-<field name="composersort">Maiguashca, Mesías</field>
+<field name="composerSort">Maiguashca, Mesías</field>
 <field name="year">1997</field>
 <field name="date">October 31, 1997</field>
 <field name="librettist">Jorge Luis Borges</field>
-<field name="librettistsort">Borges, Jorge Luis</field>
+<field name="librettistSort">Borges, Jorge Luis</field>
 <field name="theater">Zentrum für Kunst und Medientechnologie</field>
 <field name="city">Karlsruhe</field>
 <field name="region">Baden-Württemberg</field>

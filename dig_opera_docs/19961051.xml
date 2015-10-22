@@ -3,13 +3,13 @@
 <field name="id">19961051</field>
 <field name="genre">Operas</field>
 <field name="title">Hasanaginica</field>
-<field name="titlesort">Hasanaginica</field>
+<field name="titleSort">Hasanaginica</field>
 <field name="composer">Rastislav Kambasković </field>
-<field name="composersort">Kambasković, Rastislav</field>
+<field name="composerSort">Kambasković, Rastislav</field>
 <field name="year">2009</field>
 <field name="date">November 22, 2009</field>
 <field name="librettist">Ljubomir Simović </field>
-<field name="librettistsort">Simović, Ljubomir</field>
+<field name="librettistSort">Simović, Ljubomir</field>
 <field name="theater">Narodno Pozorista</field>
 <field name="city">Belgrade</field>
 <field name="country">Serbia</field>

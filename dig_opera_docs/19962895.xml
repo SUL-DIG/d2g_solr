@@ -3,13 +3,13 @@
 <field name="id">19962895</field>
 <field name="genre">Operas</field>
 <field name="title">Tony Caruso's Final Broadcast</field>
-<field name="titlesort">Tony Caruso's Final Broadcast</field>
+<field name="titleSort">Tony Caruso's Final Broadcast</field>
 <field name="composer">Paul Salerni</field>
-<field name="composersort">Salerni, Paul</field>
+<field name="composerSort">Salerni, Paul</field>
 <field name="year">2008</field>
 <field name="date">January 4, 2008</field>
 <field name="librettist">Dana Gioia</field>
-<field name="librettistsort">Gioia, Dana</field>
+<field name="librettistSort">Gioia, Dana</field>
 <field name="theater">National Opera Association Convention, Biltmore Hotel</field>
 <field name="city">Los Angeles</field>
 <field name="region">California</field>

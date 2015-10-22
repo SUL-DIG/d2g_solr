@@ -3,13 +3,13 @@
 <field name="id">19962777</field>
 <field name="genre">Operas</field>
 <field name="title">The Stranger's Tale</field>
-<field name="titlesort">Stranger's Tale</field>
+<field name="titleSort">Stranger's Tale</field>
 <field name="composer">Curtis Tucker</field>
-<field name="composersort">Tucker, Curtis</field>
+<field name="composerSort">Tucker, Curtis</field>
 <field name="year">2005</field>
 <field name="date">April 22, 2005</field>
 <field name="librettist">Nelson Sheeley</field>
-<field name="librettistsort">Sheeley, Nelson</field>
+<field name="librettistSort">Sheeley, Nelson</field>
 <field name="theater">Sorg Opera House</field>
 <field name="city">Middleton</field>
 <field name="region">Ohio</field>

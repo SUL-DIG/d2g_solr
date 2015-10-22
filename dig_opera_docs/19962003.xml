@@ -3,13 +3,13 @@
 <field name="id">19962003</field>
 <field name="genre">Operas</field>
 <field name="title">Piére li houïeu</field>
-<field name="titlesort">Piére li houïeu</field>
+<field name="titleSort">Piére li houïeu</field>
 <field name="composer">Eugène Ysaÿe</field>
-<field name="composersort">Ysaÿe, Eugène</field>
+<field name="composerSort">Ysaÿe, Eugène</field>
 <field name="year">1931</field>
 <field name="date">March 4, 1931</field>
 <field name="librettist">Eugène Ysaÿe</field>
-<field name="librettistsort">Ysaÿe, Eugène</field>
+<field name="librettistSort">Ysaÿe, Eugène</field>
 <field name="theater">Théâtre-Royal</field>
 <field name="city">Liège</field>
 <field name="region">Liège</field>

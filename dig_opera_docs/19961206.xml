@@ -3,13 +3,13 @@
 <field name="id">19961206</field>
 <field name="genre">Operas</field>
 <field name="title">Isänmaan tyttäret (Daughters of the Fatherland)</field>
-<field name="titlesort">Isänmaan tyttäret (Daughters of the Fatherland)</field>
+<field name="titleSort">Isänmaan tyttäret (Daughters of the Fatherland)</field>
 <field name="composer">lkka Kuusisto</field>
-<field name="composersort">Kuusisto, Ilkka</field>
+<field name="composerSort">Kuusisto, Ilkka</field>
 <field name="year">1998</field>
 <field name="date">June 11, 1998</field>
 <field name="librettist">Pia Perkiö</field>
-<field name="librettistsort">Perkiö, Pia</field>
+<field name="librettistSort">Perkiö, Pia</field>
 <field name="theater">Ilmajoen musiikkijuhlat</field>
 <field name="city">Ilmajoki</field>
 <field name="region">Etelä-Pohjanmaa</field>

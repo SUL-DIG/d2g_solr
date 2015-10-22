@@ -3,13 +3,13 @@
 <field name="id">19960539</field>
 <field name="genre">Operas</field>
 <field name="title">Deep Waters</field>
-<field name="titlesort">Deep Waters</field>
+<field name="titleSort">Deep Waters</field>
 <field name="composer">Cecilia McDowall</field>
-<field name="composersort">McDowall, Cecilia</field>
+<field name="composerSort">McDowall, Cecilia</field>
 <field name="year">2000</field>
 <field name="date">November 27, 2000</field>
 <field name="librettist">Christie Dickason</field>
-<field name="librettistsort">Dickason, Christie</field>
+<field name="librettistSort">Dickason, Christie</field>
 <field name="theater">St. John's Church, Notting Hill</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

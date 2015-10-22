@@ -3,13 +3,13 @@
 <field name="id">19962495</field>
 <field name="genre">Operas</field>
 <field name="title">The Coronation of Esther</field>
-<field name="titlesort">Coronation of Esther</field>
+<field name="titleSort">Coronation of Esther</field>
 <field name="composer">David Bass</field>
-<field name="composersort">Bass, David</field>
+<field name="composerSort">Bass, David</field>
 <field name="year">2001</field>
 <field name="date">March 10, 2001</field>
 <field name="librettist">David Bass</field>
-<field name="librettistsort">Bass, David</field>
+<field name="librettistSort">Bass, David</field>
 <field name="theater">Tobin School</field>
 <field name="city">Cambridge</field>
 <field name="region">Massachusetts</field>

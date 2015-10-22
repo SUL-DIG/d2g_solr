@@ -3,13 +3,13 @@
 <field name="id">19960099</field>
 <field name="genre">Operas</field>
 <field name="title">Akseli</field>
-<field name="titlesort">Akseli</field>
+<field name="titleSort">Akseli</field>
 <field name="composer">Kimmo Hakola</field>
-<field name="composersort">Hakola, Kimmo</field>
+<field name="composerSort">Hakola, Kimmo</field>
 <field name="year">2013</field>
 <field name="date">February 28, 2013</field>
 <field name="librettist">Pekka Hako</field>
-<field name="librettistsort">Hako, Pekka</field>
+<field name="librettistSort">Hako, Pekka</field>
 <field name="theater">Suomalainen Kamariooppera</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

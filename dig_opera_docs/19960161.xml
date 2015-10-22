@@ -3,13 +3,13 @@
 <field name="id">19960161</field>
 <field name="genre">Operas</field>
 <field name="title">Andreas weent</field>
-<field name="titlesort">Andreas weent</field>
+<field name="titleSort">Andreas weent</field>
 <field name="composer">Peter-Jan Wagemans</field>
-<field name="composersort">Wagemans, Peter-Jan</field>
+<field name="composerSort">Wagemans, Peter-Jan</field>
 <field name="year">2012</field>
 <field name="date">October 20, 2012</field>
 <field name="librettist">Peter-Jan Wagemans</field>
-<field name="librettistsort">Wagemans, Peter-Jan</field>
+<field name="librettistSort">Wagemans, Peter-Jan</field>
 <field name="theater">Concertgebouw</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>

@@ -3,13 +3,13 @@
 <field name="id">19962713</field>
 <field name="genre">Operas</field>
 <field name="title">The Ragnarok (Doom of the Gods)</field>
-<field name="titlesort">Ragnarok (Doom of the Gods)</field>
+<field name="titleSort">Ragnarok (Doom of the Gods)</field>
 <field name="composer">David Bedford</field>
-<field name="composersort">Bedford, David</field>
+<field name="composerSort">Bedford, David</field>
 <field name="year">1982</field>
 <field name="date">January 1, 1982</field>
 <field name="librettist">Terry Bagg</field>
-<field name="librettistsort">Bagg, Terry</field>
+<field name="librettistSort">Bagg, Terry</field>
 <field name="theater">Gordonstoun School</field>
 <field name="city">Elgin</field>
 <field name="region">Scotland</field>

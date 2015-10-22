@@ -3,13 +3,13 @@
 <field name="id">19962030</field>
 <field name="genre">Operas</field>
 <field name="title">Pohjanmaan kautta (Bottoms Up!)</field>
-<field name="titlesort">Pohjanmaan kautta (Bottoms Up!)</field>
+<field name="titleSort">Pohjanmaan kautta (Bottoms Up!)</field>
 <field name="composer">Atso Almila</field>
-<field name="composersort">Almila, Atso</field>
+<field name="composerSort">Almila, Atso</field>
 <field name="year">2002</field>
 <field name="date">June 13, 2002</field>
 <field name="librettist">Tiina Puumalainen</field>
-<field name="librettistsort">Puumalainen, Tiina</field>
+<field name="librettistSort">Puumalainen, Tiina</field>
 <field name="theater">Ilmajoen musiikkijuhlat</field>
 <field name="city">Ilmajoki</field>
 <field name="region">Etelä-Pohjanmaa</field>

@@ -3,13 +3,13 @@
 <field name="id">19962911</field>
 <field name="genre">Operas</field>
 <field name="title">Triskelion</field>
-<field name="titlesort">Triskelion</field>
+<field name="titleSort">Triskelion</field>
 <field name="composer">Linda Bouchard</field>
-<field name="composersort">Bouchard, Linda</field>
+<field name="composerSort">Bouchard, Linda</field>
 <field name="year">1983</field>
 <field name="date">March 2, 1983</field>
 <field name="librettist">Anne Tierney</field>
-<field name="librettistsort">Tierney, Anne</field>
+<field name="librettistSort">Tierney, Anne</field>
 <field name="theater">Symphony Space</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

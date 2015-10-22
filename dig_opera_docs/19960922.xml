@@ -3,13 +3,13 @@
 <field name="id">19960922</field>
 <field name="genre">Operas</field>
 <field name="title">Fresh Faust</field>
-<field name="titlesort">Fresh Faust</field>
+<field name="titleSort">Fresh Faust</field>
 <field name="composer">Leroy Jenkins</field>
-<field name="composersort">Jenkins, Leroy</field>
+<field name="composerSort">Jenkins, Leroy</field>
 <field name="year">1994</field>
 <field name="date">March 1, 1994</field>
 <field name="librettist">Greg Tate</field>
-<field name="librettistsort">Tate, Greg</field>
+<field name="librettistSort">Tate, Greg</field>
 <field name="theater">Institute of Contemporary Arts</field>
 <field name="city">Boston</field>
 <field name="region">Massachusetts</field>

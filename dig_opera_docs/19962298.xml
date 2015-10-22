@@ -3,13 +3,13 @@
 <field name="id">19962298</field>
 <field name="genre">Operas</field>
 <field name="title">Sivaia Legenda (The Grey Legend)</field>
-<field name="titlesort">Sivaia Legenda (The Grey Legend)</field>
+<field name="titleSort">Sivaia Legenda (The Grey Legend)</field>
 <field name="composer">Dmitry Smolsky</field>
-<field name="composersort">Smolsky, Dmitry</field>
+<field name="composerSort">Smolsky, Dmitry</field>
 <field name="year">2012</field>
 <field name="date">September 9, 2012</field>
 <field name="librettist">Uladzimir Karatkevich</field>
-<field name="librettistsort">Karatkevich, Uladzimir</field>
+<field name="librettistSort">Karatkevich, Uladzimir</field>
 <field name="theater">Belorusskiy Teatr Operï i Baleta</field>
 <field name="city">Minsk</field>
 <field name="region">Minsk Oblast</field>

@@ -3,9 +3,9 @@
 <field name="id">19961598</field>
 <field name="genre">Operas</field>
 <field name="title">Love Songs</field>
-<field name="titlesort">Love Songs</field>
+<field name="titleSort">Love Songs</field>
 <field name="composer">Ana Sokolović</field>
-<field name="composersort">Sokolović, Ana</field>
+<field name="composerSort">Sokolović, Ana</field>
 <field name="year">2008</field>
 <field name="date">March 25, 2008</field>
 <field name="theater">Richard Bradshaw Amphitheatre</field>

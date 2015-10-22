@@ -3,13 +3,13 @@
 <field name="id">19962410</field>
 <field name="genre">Operas</field>
 <field name="title">Syunkan</field>
-<field name="titlesort">Syunkan</field>
+<field name="titleSort">Syunkan</field>
 <field name="composer">Mamiya Michio</field>
-<field name="composersort">Michio, Mamiya</field>
+<field name="composerSort">Michio, Mamiya</field>
 <field name="year">2004</field>
 <field name="date">February 1, 2004</field>
 <field name="librettist">Okamoto Kazuhiko</field>
-<field name="librettistsort">Kazuhiko, Okamoto</field>
+<field name="librettistSort">Kazuhiko, Okamoto</field>
 <field name="theater">New National Theatre</field>
 <field name="city">Tokyo</field>
 <field name="region">Tokyo</field>

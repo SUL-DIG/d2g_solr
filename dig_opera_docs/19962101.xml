@@ -3,13 +3,13 @@
 <field name="id">19962101</field>
 <field name="genre">Operas</field>
 <field name="title">Ramanujan</field>
-<field name="titlesort">Ramanujan</field>
+<field name="titleSort">Ramanujan</field>
 <field name="composer">Sandeep Bhagwati</field>
-<field name="composersort">Bhagwati, Sandeep</field>
+<field name="composerSort">Bhagwati, Sandeep</field>
 <field name="year">1998</field>
 <field name="date">April 21, 1998</field>
 <field name="librettist">Sandeep Bhagwati</field>
-<field name="librettistsort">Bhagwati, Sandeep</field>
+<field name="librettistSort">Bhagwati, Sandeep</field>
 <field name="theater">Biennale</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

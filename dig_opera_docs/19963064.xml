@@ -3,13 +3,13 @@
 <field name="id">19963064</field>
 <field name="genre">Operas</field>
 <field name="title">With Blood, With Ink</field>
-<field name="titlesort">With Blood, With Ink</field>
+<field name="titleSort">With Blood, With Ink</field>
 <field name="composer">Daniel Crozier</field>
-<field name="composersort">Crozier, Daniel</field>
+<field name="composerSort">Crozier, Daniel</field>
 <field name="year">1993</field>
 <field name="date">March 7, 1993</field>
 <field name="librettist">Paul M. Krask</field>
-<field name="librettistsort">Krask, Paul M.</field>
+<field name="librettistSort">Krask, Paul M.</field>
 <field name="theater">Peabody Conservatory of Music</field>
 <field name="city">Baltimore</field>
 <field name="region">Maryland</field>

@@ -3,13 +3,13 @@
 <field name="id">19961987</field>
 <field name="genre">Operas</field>
 <field name="title">Persephone's Sister</field>
-<field name="titlesort">Persephone's Sister</field>
+<field name="titleSort">Persephone's Sister</field>
 <field name="composer">Robert Elhai</field>
-<field name="composersort">Elhai, Robert</field>
+<field name="composerSort">Elhai, Robert</field>
 <field name="year">2009</field>
 <field name="date">June 18, 2009</field>
 <field name="librettist">Dominic Orlando</field>
-<field name="librettistsort">Orlando, Dominic</field>
+<field name="librettistSort">Orlando, Dominic</field>
 <field name="theater">Nautilus Music-Theater</field>
 <field name="city">St. Paul</field>
 <field name="region">Minnesota</field>

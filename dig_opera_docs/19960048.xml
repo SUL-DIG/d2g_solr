@@ -3,13 +3,13 @@
 <field name="id">19960048</field>
 <field name="genre">Operas</field>
 <field name="title">A More Perfect Union</field>
-<field name="titlesort">More Perfect Union</field>
+<field name="titleSort">More Perfect Union</field>
 <field name="composer">Victoria Bond</field>
-<field name="composersort">Bond, Victoria</field>
+<field name="composerSort">Bond, Victoria</field>
 <field name="year">2004</field>
 <field name="date">May 27, 2004</field>
 <field name="librettist">Isaiah Sheffer</field>
-<field name="librettistsort">Sheffer, Isaiah</field>
+<field name="librettistSort">Sheffer, Isaiah</field>
 <field name="theater">Center for Contemporary Opera</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

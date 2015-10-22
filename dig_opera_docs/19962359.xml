@@ -3,12 +3,12 @@
 <field name="id">19962359</field>
 <field name="genre">Operas</field>
 <field name="title">Står om enn tårnene faller</field>
-<field name="titlesort">Står om enn tårnene faller</field>
+<field name="titleSort">Står om enn tårnene faller</field>
 <field name="composer">Knut Anders Vestad</field>
-<field name="composersort">Vestad, Knut Anders</field>
+<field name="composerSort">Vestad, Knut Anders</field>
 <field name="year">2007</field>
 <field name="librettist">Knut Ødegård</field>
-<field name="librettistsort">Ødegård, Knut</field>
+<field name="librettistSort">Ødegård, Knut</field>
 <field name="theater">Molde Domkyrkje</field>
 <field name="city">Molde</field>
 <field name="region">Møre og Romsdal</field>

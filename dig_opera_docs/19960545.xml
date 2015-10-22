@@ -3,13 +3,13 @@
 <field name="id">19960545</field>
 <field name="genre">Operas</field>
 <field name="title">Den fredlöse (The Outlawed)</field>
-<field name="titlesort">fredlöse (The Outlawed)</field>
+<field name="titleSort">fredlöse (The Outlawed)</field>
 <field name="composer">Inger Wikström</field>
-<field name="composersort">Wikström, Inger</field>
+<field name="composerSort">Wikström, Inger</field>
 <field name="year">1986</field>
 <field name="date">May 23, 1986</field>
 <field name="librettist">August Strindberg</field>
-<field name="librettistsort">Strindberg, August</field>
+<field name="librettistSort">Strindberg, August</field>
 <field name="theater">Ulriksdal Slott-Teatern</field>
 <field name="city">Solna</field>
 <field name="region">Stockholm</field>

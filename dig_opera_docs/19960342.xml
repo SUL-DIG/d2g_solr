@@ -3,13 +3,13 @@
 <field name="id">19960342</field>
 <field name="genre">Operas</field>
 <field name="title">Boletus</field>
-<field name="titlesort">Boletus</field>
+<field name="titleSort">Boletus</field>
 <field name="composer">Carlo Boccadoro</field>
-<field name="composersort">Boccadoro, Carlo</field>
+<field name="composerSort">Boccadoro, Carlo</field>
 <field name="year">2012</field>
 <field name="date">October 12, 2012</field>
 <field name="librettist">Giuseppe Di Leva</field>
-<field name="librettistsort">Di Leva, Giuseppe</field>
+<field name="librettistSort">Di Leva, Giuseppe</field>
 <field name="theater">Teatro Secci</field>
 <field name="city">Terni</field>
 <field name="region">Umbria</field>

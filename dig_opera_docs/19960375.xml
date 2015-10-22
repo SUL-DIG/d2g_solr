@@ -3,13 +3,13 @@
 <field name="id">19960375</field>
 <field name="genre">Operas</field>
 <field name="title">Buoso's Ghost</field>
-<field name="titlesort">Buoso's Ghost</field>
+<field name="titleSort">Buoso's Ghost</field>
 <field name="composer">Michael Ching</field>
-<field name="composersort">Ching, Michael</field>
+<field name="composerSort">Ching, Michael</field>
 <field name="year">1997</field>
 <field name="date">January 25, 1997</field>
 <field name="librettist">Michael Ching</field>
-<field name="librettistsort">Ching, Michael</field>
+<field name="librettistSort">Ching, Michael</field>
 <field name="theater">Orpheum Theater</field>
 <field name="city">Memphis</field>
 <field name="region">Tennessee</field>

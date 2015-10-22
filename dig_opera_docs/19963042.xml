@@ -3,13 +3,13 @@
 <field name="id">19963042</field>
 <field name="genre">Operas</field>
 <field name="title">We Are Sons</field>
-<field name="titlesort">We Are Sons</field>
+<field name="titleSort">We Are Sons</field>
 <field name="composer">Rudolf Rojahn</field>
-<field name="composersort">Rojahn, Rudolf</field>
+<field name="composerSort">Rojahn, Rudolf</field>
 <field name="year">2008</field>
 <field name="date">September 17, 2008</field>
 <field name="librettist">Rudolf Rojahn</field>
-<field name="librettistsort">Rojahn, Rudolf</field>
+<field name="librettistSort">Rojahn, Rudolf</field>
 <field name="theater">Boston Conservatory</field>
 <field name="city">Boston</field>
 <field name="region">Massachusetts</field>

@@ -3,13 +3,13 @@
 <field name="id">19961592</field>
 <field name="genre">Operas</field>
 <field name="title">Lost Objects</field>
-<field name="titlesort">Lost Objects</field>
+<field name="titleSort">Lost Objects</field>
 <field name="composer">Michael Gordon</field>
-<field name="composersort">Gordon, Michael</field>
+<field name="composerSort">Gordon, Michael</field>
 <field name="year">2001</field>
 <field name="date">May 23, 2001</field>
 <field name="librettist">Deborah Artman</field>
-<field name="librettistsort">Artman, Deborah</field>
+<field name="librettistSort">Artman, Deborah</field>
 <field name="theater">Alter Schlachthof</field>
 <field name="city">Dresden</field>
 <field name="region">Sachsen</field>

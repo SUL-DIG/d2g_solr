@@ -3,13 +3,13 @@
 <field name="id">19960450</field>
 <field name="genre">Operas</field>
 <field name="title">Clemency</field>
-<field name="titlesort">Clemency</field>
+<field name="titleSort">Clemency</field>
 <field name="composer">James MacMillan</field>
-<field name="composersort">MacMillan, James</field>
+<field name="composerSort">MacMillan, James</field>
 <field name="year">2011</field>
 <field name="date">May 6, 2011</field>
 <field name="librettist">Michael Symmons Roberts</field>
-<field name="librettistsort">Roberts, Michael Symmons</field>
+<field name="librettistSort">Roberts, Michael Symmons</field>
 <field name="theater">Linbury Studio, Royal Opera House</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

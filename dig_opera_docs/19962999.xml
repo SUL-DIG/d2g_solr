@@ -3,13 +3,13 @@
 <field name="id">19962999</field>
 <field name="genre">Operas</field>
 <field name="title">Vincent</field>
-<field name="titlesort">Vincent</field>
+<field name="titleSort">Vincent</field>
 <field name="composer">Bernard Rands</field>
-<field name="composersort">Rands, Bernard</field>
+<field name="composerSort">Rands, Bernard</field>
 <field name="year">2011</field>
 <field name="date">April 8, 2011</field>
 <field name="librettist">Joseph Donald McClatchy</field>
-<field name="librettistsort">McClatchy, Joseph Donald</field>
+<field name="librettistSort">McClatchy, Joseph Donald</field>
 <field name="theater">Indiana University</field>
 <field name="city">Bloomington</field>
 <field name="region">Indiana</field>

@@ -3,13 +3,13 @@
 <field name="id">19961904</field>
 <field name="genre">Operas</field>
 <field name="title">Opéra thérapeutique</field>
-<field name="titlesort">Opéra thérapeutique</field>
+<field name="titleSort">Opéra thérapeutique</field>
 <field name="composer">Isabelle Aboulker</field>
-<field name="composersort">Aboulker, Isabelle</field>
+<field name="composerSort">Aboulker, Isabelle</field>
 <field name="year">1979</field>
 <field name="date">October 26, 1979</field>
 <field name="librettist">Félix Vicq d'Azyr</field>
-<field name="librettistsort">Vicq d'Azyr, Félix</field>
+<field name="librettistSort">Vicq d'Azyr, Félix</field>
 <field name="city">Roissy-en-France</field>
 <field name="region">Val d'Oise</field>
 <field name="country">France</field>

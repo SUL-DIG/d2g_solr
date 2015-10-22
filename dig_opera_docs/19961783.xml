@@ -3,13 +3,13 @@
 <field name="id">19961783</field>
 <field name="genre">Operas</field>
 <field name="title">Mukashibanashi hitokai Tarobei (The Old Tale)</field>
-<field name="titlesort">Mukashibanashi hitokai Tarobei (The Old Tale)</field>
+<field name="titleSort">Mukashibanashi hitokai Tarobei (The Old Tale)</field>
 <field name="composer">Mamiya Michio</field>
-<field name="composersort">Michio, Mamiya</field>
+<field name="composerSort">Michio, Mamiya</field>
 <field name="year">1959</field>
 <field name="date">June 1, 1959</field>
 <field name="librettist">Ichiro Wakabayashi</field>
-<field name="librettistsort">Wakabayashi, Ichiro</field>
+<field name="librettistSort">Wakabayashi, Ichiro</field>
 <field name="theater">NHK Radio (Nippon Hoso Kyokai)</field>
 <field name="city">Tokyo</field>
 <field name="region">Tokyo</field>

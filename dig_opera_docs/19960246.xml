@@ -3,9 +3,9 @@
 <field name="id">19960246</field>
 <field name="genre">Operas</field>
 <field name="title">Aygun</field>
-<field name="titlesort">Aygun</field>
+<field name="titleSort">Aygun</field>
 <field name="composer">Zakir Bagirov</field>
-<field name="composersort">Bagirov, Zakir</field>
+<field name="composerSort">Bagirov, Zakir</field>
 <field name="year">1973</field>
 <field name="date">April 27, 1973</field>
 <field name="theater">Azerbaijanskiy Akademicheskiy Teatr Operï i Baleta imeni M. F. Akhundova</field>

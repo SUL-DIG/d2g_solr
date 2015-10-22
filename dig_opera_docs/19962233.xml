@@ -3,13 +3,13 @@
 <field name="id">19962233</field>
 <field name="genre">Operas</field>
 <field name="title">Schwarz wie Tinte</field>
-<field name="titlesort">Schwarz wie Tinte</field>
+<field name="titleSort">Schwarz wie Tinte</field>
 <field name="composer">Astrid Kruisselbrink</field>
-<field name="composersort">Kruisselbrink, Astrid</field>
+<field name="composerSort">Kruisselbrink, Astrid</field>
 <field name="year">2009</field>
 <field name="date">October 3, 2009</field>
 <field name="librettist">Wim Hofman</field>
-<field name="librettistsort">Hofman, Wim</field>
+<field name="librettistSort">Hofman, Wim</field>
 <field name="theater">Bürgerhaus Weserterrassen</field>
 <field name="city">Bremen</field>
 <field name="region">Bremen</field>

@@ -3,13 +3,13 @@
 <field name="id">19962954</field>
 <field name="genre">Operas</field>
 <field name="title">Undankbare Biester</field>
-<field name="titlesort">Undankbare Biester</field>
+<field name="titleSort">Undankbare Biester</field>
 <field name="composer">Marcell Dargay</field>
-<field name="composersort">Dargay, Marcell</field>
+<field name="composerSort">Dargay, Marcell</field>
 <field name="year">2011</field>
 <field name="date">July 19, 2011</field>
 <field name="librettist">Gábor Schein</field>
-<field name="librettistsort">Schein, Gábor</field>
+<field name="librettistSort">Schein, Gábor</field>
 <field name="theater">Münchner Opernfestspiele, Pavillon 21 MINI Opera Space</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

@@ -3,13 +3,13 @@
 <field name="id">19963039</field>
 <field name="genre">Operas</field>
 <field name="title">Warrior Sisters</field>
-<field name="titlesort">Warrior Sisters</field>
+<field name="titleSort">Warrior Sisters</field>
 <field name="composer">Fred Ho</field>
-<field name="composersort">Ho, Fred</field>
+<field name="composerSort">Ho, Fred</field>
 <field name="year">1996</field>
 <field name="date">May 1, 1996</field>
 <field name="librettist">Ann T. Greene</field>
-<field name="librettistsort">Greene, Ann T.</field>
+<field name="librettistSort">Greene, Ann T.</field>
 <field name="theater">City College</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

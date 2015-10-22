@@ -3,9 +3,9 @@
 <field name="id">19962361</field>
 <field name="genre">Operas</field>
 <field name="title">Stari Most (Old Bridge)</field>
-<field name="titlesort">Stari Most (Old Bridge)</field>
+<field name="titleSort">Stari Most (Old Bridge)</field>
 <field name="composer">Richard Chew</field>
-<field name="composersort">Chew, Richard</field>
+<field name="composerSort">Chew, Richard</field>
 <field name="year">2008</field>
 <field name="date">October 11, 2008</field>
 <field name="theater">Salisbury Cathedral</field>

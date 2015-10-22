@@ -3,13 +3,13 @@
 <field name="id">19963086</field>
 <field name="genre">Operas</field>
 <field name="title">York: The Voice of Freedom</field>
-<field name="titlesort">York: The Voice of Freedom</field>
+<field name="titleSort">York: The Voice of Freedom</field>
 <field name="composer">Bruce Trinkley</field>
-<field name="composersort">Trinkley, Bruce</field>
+<field name="composerSort">Trinkley, Bruce</field>
 <field name="year">2002</field>
 <field name="date">November 14, 2002</field>
 <field name="librettist">J. Jason Charnesky</field>
-<field name="librettistsort">Charnesky, J. Jason</field>
+<field name="librettistSort">Charnesky, J. Jason</field>
 <field name="theater">Pennsylvania State University</field>
 <field name="city">State College</field>
 <field name="region">Pennsylvania</field>

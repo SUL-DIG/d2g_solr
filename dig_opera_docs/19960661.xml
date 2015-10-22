@@ -3,13 +3,13 @@
 <field name="id">19960661</field>
 <field name="genre">Operas</field>
 <field name="title">Die Verwandlung</field>
-<field name="titlesort">Verwandlung</field>
+<field name="titleSort">Verwandlung</field>
 <field name="composer">Stephan Peiffer</field>
-<field name="composersort">Peiffer, Stephan</field>
+<field name="composerSort">Peiffer, Stephan</field>
 <field name="year">2011</field>
 <field name="date">April 13, 2011</field>
 <field name="librettist">Franz Kafka</field>
-<field name="librettistsort">Kafka, Franz</field>
+<field name="librettistSort">Kafka, Franz</field>
 <field name="theater">Hochschule für Musik und Theater</field>
 <field name="city">Hamburg</field>
 <field name="region">Hamburg</field>

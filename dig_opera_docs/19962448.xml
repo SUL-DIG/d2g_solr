@@ -3,13 +3,13 @@
 <field name="id">19962448</field>
 <field name="genre">Operas</field>
 <field name="title">The Ant and the Grasshopper</field>
-<field name="titlesort">Ant and the Grasshopper</field>
+<field name="titleSort">Ant and the Grasshopper</field>
 <field name="composer">Allen Shawn</field>
-<field name="composersort">Shawn, Allen</field>
+<field name="composerSort">Shawn, Allen</field>
 <field name="year">1999</field>
 <field name="date">November 27, 1999</field>
 <field name="librettist">Penny Orloff</field>
-<field name="librettistsort">Orloff, Penny</field>
+<field name="librettistSort">Orloff, Penny</field>
 <field name="theater">Meydenbauer Center Theater</field>
 <field name="city">Bellevue</field>
 <field name="region">Washington</field>

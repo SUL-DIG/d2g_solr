@@ -3,13 +3,13 @@
 <field name="id">19960817</field>
 <field name="genre">Operas</field>
 <field name="title">eros-ion!</field>
-<field name="titlesort">eros-ion!</field>
+<field name="titleSort">eros-ion!</field>
 <field name="composer">Paulo César Chagas</field>
-<field name="composersort">Chagas, Paulo César</field>
+<field name="composerSort">Chagas, Paulo César</field>
 <field name="year">2006</field>
 <field name="date">August 1, 2006</field>
 <field name="librettist">Paulo César Chagas</field>
-<field name="librettistsort">Chagas, Paulo César</field>
+<field name="librettistSort">Chagas, Paulo César</field>
 <field name="theater">Festival Música Nova</field>
 <field name="city">São Paulo</field>
 <field name="region">São Paulo</field>

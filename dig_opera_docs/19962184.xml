@@ -3,13 +3,13 @@
 <field name="id">19962184</field>
 <field name="genre">Operas</field>
 <field name="title">Rotter</field>
-<field name="titlesort">Rotter</field>
+<field name="titleSort">Rotter</field>
 <field name="composer">Torsten Rasch</field>
-<field name="composersort">Rasch, Torsten</field>
+<field name="composerSort">Rasch, Torsten</field>
 <field name="year">2008</field>
 <field name="date">February 23, 2008</field>
 <field name="librettist">Thomas Brasch</field>
-<field name="librettistsort">Brasch, Thomas</field>
+<field name="librettistSort">Brasch, Thomas</field>
 <field name="theater">Opera der Stadt</field>
 <field name="city">Cologne</field>
 <field name="region">Nordrhein-Westfallen</field>

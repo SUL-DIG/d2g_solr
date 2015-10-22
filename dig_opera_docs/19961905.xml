@@ -3,13 +3,13 @@
 <field name="id">19961905</field>
 <field name="genre">Operas</field>
 <field name="title">Opera ton skion (The Opera of Shadows)</field>
-<field name="titlesort">Opera ton skion (The Opera of Shadows)</field>
+<field name="titleSort">Opera ton skion (The Opera of Shadows)</field>
 <field name="composer">Nikos Mamangakis</field>
-<field name="composersort">Mamangakis, Nikos</field>
+<field name="composerSort">Mamangakis, Nikos</field>
 <field name="year">1997</field>
 <field name="date">April 5, 1997</field>
 <field name="librettist">Nasos Theofilou</field>
-<field name="librettistsort">Theofilou, Nasos</field>
+<field name="librettistSort">Theofilou, Nasos</field>
 <field name="theater">Megaro Moussikis Athinon</field>
 <field name="city">Athens </field>
 <field name="region">Attiki</field>

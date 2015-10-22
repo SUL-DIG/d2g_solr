@@ -3,13 +3,13 @@
 <field name="id">19961752</field>
 <field name="genre">Operas</field>
 <field name="title">Monadologie XXIV .... The Stoned Guest</field>
-<field name="titlesort">Monadologie XXIV .... The Stoned Guest</field>
+<field name="titleSort">Monadologie XXIV .... The Stoned Guest</field>
 <field name="composer">Bernhard Lang</field>
-<field name="composersort">Lang, Bernhard</field>
+<field name="composerSort">Lang, Bernhard</field>
 <field name="year">2013</field>
 <field name="date">November 14, 2013</field>
 <field name="librettist">Lorenzo Da Ponte</field>
-<field name="librettistsort">Da Ponte, Lorenzo</field>
+<field name="librettistSort">Da Ponte, Lorenzo</field>
 <field name="theater">Sirene Operntheater</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

@@ -3,9 +3,9 @@
 <field name="id">19962333</field>
 <field name="genre">Operas</field>
 <field name="title">Song of David</field>
-<field name="titlesort">Song of David</field>
+<field name="titleSort">Song of David</field>
 <field name="composer">Ira Arnstein</field>
-<field name="composersort">Arnstein, Ira</field>
+<field name="composerSort">Arnstein, Ira</field>
 <field name="year">1925</field>
 <field name="date">May 17, 1925</field>
 <field name="theater">Aeolian Hall</field>

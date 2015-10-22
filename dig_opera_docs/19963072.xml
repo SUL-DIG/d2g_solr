@@ -3,13 +3,13 @@
 <field name="id">19963072</field>
 <field name="genre">Operas</field>
 <field name="title">Writing to Vermeer</field>
-<field name="titlesort">Writing to Vermeer</field>
+<field name="titleSort">Writing to Vermeer</field>
 <field name="composer">Louis Andriessen</field>
-<field name="composersort">Andriessen, Louis</field>
+<field name="composerSort">Andriessen, Louis</field>
 <field name="year">1999</field>
 <field name="date">January 12, 1999</field>
 <field name="librettist">Peter Greenaway</field>
-<field name="librettistsort">Greenaway, Peter</field>
+<field name="librettistSort">Greenaway, Peter</field>
 <field name="theater">Muziektheater</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>

@@ -3,13 +3,13 @@
 <field name="id">19960719</field>
 <field name="genre">Operas</field>
 <field name="title">Dreamkeepers</field>
-<field name="titlesort">Dreamkeepers</field>
+<field name="titleSort">Dreamkeepers</field>
 <field name="composer">David Carlson</field>
-<field name="composersort">Carlson, David</field>
+<field name="composerSort">Carlson, David</field>
 <field name="year">1996</field>
 <field name="date">January 13, 1996</field>
 <field name="librettist">Aden Ross</field>
-<field name="librettistsort">Ross, Aden</field>
+<field name="librettistSort">Ross, Aden</field>
 <field name="theater">Capitol Theater</field>
 <field name="city">Salt Lake City</field>
 <field name="region">Utah</field>

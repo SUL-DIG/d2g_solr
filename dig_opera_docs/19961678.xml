@@ -3,13 +3,13 @@
 <field name="id">19961678</field>
 <field name="genre">Operas</field>
 <field name="title">Mary Muller, The Secret Suffragette</field>
-<field name="titlesort">Mary Muller, The Secret Suffragette</field>
+<field name="titleSort">Mary Muller, The Secret Suffragette</field>
 <field name="composer">David Griffiths</field>
-<field name="composersort">Griffiths, David</field>
+<field name="composerSort">Griffiths, David</field>
 <field name="year">2009</field>
 <field name="date">August 20, 2009</field>
 <field name="librettist">Lynn John</field>
-<field name="librettistsort">John, Lynn</field>
+<field name="librettistSort">John, Lynn</field>
 <field name="theater">Waikato University</field>
 <field name="city">Hamilton</field>
 <field name="country">New Zealand</field>

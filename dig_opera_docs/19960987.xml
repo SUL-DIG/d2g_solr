@@ -3,13 +3,13 @@
 <field name="id">19960987</field>
 <field name="genre">Operas</field>
 <field name="title">Ghost Patrol</field>
-<field name="titlesort">Ghost Patrol</field>
+<field name="titleSort">Ghost Patrol</field>
 <field name="composer">Stuart MacRae</field>
-<field name="composersort">MacRae, Stuart</field>
+<field name="composerSort">MacRae, Stuart</field>
 <field name="year">2012</field>
 <field name="date">August 30, 2012</field>
 <field name="librettist">Louise Welsh</field>
-<field name="librettistsort">Welsh, Louise</field>
+<field name="librettistSort">Welsh, Louise</field>
 <field name="theater">Traverse Theatre</field>
 <field name="city">Edinburgh</field>
 <field name="region">Scotland</field>

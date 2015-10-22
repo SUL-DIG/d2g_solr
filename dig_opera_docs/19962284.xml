@@ -3,13 +3,13 @@
 <field name="id">19962284</field>
 <field name="genre">Operas</field>
 <field name="title">Silence</field>
-<field name="titlesort">Silence</field>
+<field name="titleSort">Silence</field>
 <field name="composer">José María Sánchez-Verdú</field>
-<field name="composersort">Sánchez-Verdú, José María</field>
+<field name="composerSort">Sánchez-Verdú, José María</field>
 <field name="year">2005</field>
 <field name="date">September 14, 2005</field>
 <field name="librettist">Jonathan Safran Foer</field>
-<field name="librettistsort">Safran Foer, Jonathan</field>
+<field name="librettistSort">Safran Foer, Jonathan</field>
 <field name="theater">Deutsche Staatsoper</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>

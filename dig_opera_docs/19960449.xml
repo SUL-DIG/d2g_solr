@@ -3,14 +3,14 @@
 <field name="id">19960449</field>
 <field name="genre">Oratorio</field>
 <field name="title">Cleaving the Coffin</field>
-<field name="titlesort">Cleaving the Coffin</field>
+<field name="titleSort">Cleaving the Coffin</field>
 <field name="composer">Qu Xiao-song</field>
-<field name="composersort">Qu Xiao-song</field>
+<field name="composerSort">Qu Xiao-song</field>
 <field name="year">1987</field>
 <field name="librettist">Gao Xinjian</field>
-<field name="librettistsort">Gao Xinjian</field>
+<field name="librettistSort">Gao Xinjian</field>
 <field name="librettist">Zhuang Zi</field>
-<field name="librettistsort">Zhuang Zi</field>
+<field name="librettistSort">Zhuang Zi</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cleaving+the+Coffin+Qu+Xiao-song&amp;search_field=search</field>
 </doc>
 </add>

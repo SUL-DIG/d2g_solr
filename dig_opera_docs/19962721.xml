@@ -3,13 +3,13 @@
 <field name="id">19962721</field>
 <field name="genre">Operas</field>
 <field name="title">The Reunion</field>
-<field name="titlesort">Reunion</field>
+<field name="titleSort">Reunion</field>
 <field name="composer">Daniel Crozier</field>
-<field name="composersort">Crozier, Daniel</field>
+<field name="composerSort">Crozier, Daniel</field>
 <field name="year">1989</field>
 <field name="date">October 14, 1989</field>
 <field name="librettist">Roger Brunyate</field>
-<field name="librettistsort">Brunyate, Roger</field>
+<field name="librettistSort">Brunyate, Roger</field>
 <field name="theater">Peabody Conservatory</field>
 <field name="city">Baltimore</field>
 <field name="region">Maryland</field>

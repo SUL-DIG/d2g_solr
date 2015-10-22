@@ -3,13 +3,13 @@
 <field name="id">19962724</field>
 <field name="genre">Operas</field>
 <field name="title">The Rosenbergs</field>
-<field name="titlesort">Rosenbergs</field>
+<field name="titleSort">Rosenbergs</field>
 <field name="composer">Joachim Holbek</field>
-<field name="composersort">Holbek, Joachim</field>
+<field name="composerSort">Holbek, Joachim</field>
 <field name="year">2015</field>
 <field name="date">March 1, 2015</field>
 <field name="librettist">Joachim Holbek</field>
-<field name="librettistsort">Holbek, Joachim</field>
+<field name="librettistSort">Holbek, Joachim</field>
 <field name="theater">Musikhuset</field>
 <field name="city">Esbjerg</field>
 <field name="region">Syddanmark</field>

@@ -3,13 +3,13 @@
 <field name="id">19961722</field>
 <field name="genre">Operas</field>
 <field name="title">Meteorologen</field>
-<field name="titlesort">Meteorologen</field>
+<field name="titleSort">Meteorologen</field>
 <field name="composer">Thomas Jennefelt</field>
-<field name="composersort">Jennefelt, Thomas</field>
+<field name="composerSort">Jennefelt, Thomas</field>
 <field name="year">1997</field>
 <field name="date">April 17, 1997</field>
 <field name="librettist">Thomas Jennefelt</field>
-<field name="librettistsort">Jennefelt, Thomas</field>
+<field name="librettistSort">Jennefelt, Thomas</field>
 <field name="theater">Berwald Hall</field>
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>

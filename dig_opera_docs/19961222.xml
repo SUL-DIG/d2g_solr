@@ -3,13 +3,13 @@
 <field name="id">19961222</field>
 <field name="genre">Operas</field>
 <field name="title">Jakub Flügelbunt ...und Magdalena Rotenband oder: Wie tief ein Vogel singen kann </field>
-<field name="titlesort">Jakub Flügelbunt ...und Magdalena Rotenband oder: Wie tief ein Vogel singen kann </field>
+<field name="titleSort">Jakub Flügelbunt ...und Magdalena Rotenband oder: Wie tief ein Vogel singen kann </field>
 <field name="composer">Miroslav Srnka</field>
-<field name="composersort">Srnka, Miroslav</field>
+<field name="composerSort">Srnka, Miroslav</field>
 <field name="year">2011</field>
 <field name="date">December 15, 2011</field>
 <field name="librettist">Miroslav Srnka</field>
-<field name="librettistsort">Srnka, Miroslav</field>
+<field name="librettistSort">Srnka, Miroslav</field>
 <field name="theater">Sächsische Staatsoper</field>
 <field name="city">Dresden</field>
 <field name="region">Sachsen</field>

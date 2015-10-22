@@ -3,13 +3,13 @@
 <field name="id">19962662</field>
 <field name="genre">Operas</field>
 <field name="title">The New Era</field>
-<field name="titlesort">New Era</field>
+<field name="titleSort">New Era</field>
 <field name="composer">Masahiro Miwa</field>
-<field name="composersort">Miwa, Masahiro</field>
+<field name="composerSort">Miwa, Masahiro</field>
 <field name="year">2000</field>
 <field name="date">April 20, 2000</field>
 <field name="librettist">Masahiro Miwa</field>
-<field name="librettistsort">Miwa, Masahiro</field>
+<field name="librettistSort">Miwa, Masahiro</field>
 <field name="theater">ALTI Hall</field>
 <field name="city">Kyoto</field>
 <field name="region">Kyoto</field>

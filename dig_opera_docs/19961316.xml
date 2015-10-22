@@ -3,13 +3,13 @@
 <field name="id">19961316</field>
 <field name="genre">Operas</field>
 <field name="title">Kitty Hawk</field>
-<field name="titlesort">Kitty Hawk</field>
+<field name="titleSort">Kitty Hawk</field>
 <field name="composer">J. Mark Scearce</field>
-<field name="composersort">Scearce, J. Mark</field>
+<field name="composerSort">Scearce, J. Mark</field>
 <field name="year">2000</field>
 <field name="date">April 25, 2000</field>
 <field name="librettist">Will Graham</field>
-<field name="librettistsort">Graham, Will</field>
+<field name="librettistSort">Graham, Will</field>
 <field name="theater">North Carolina State University</field>
 <field name="city">Raleigh</field>
 <field name="region">North Carolina</field>

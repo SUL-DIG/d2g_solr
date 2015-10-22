@@ -3,13 +3,13 @@
 <field name="id">19962375</field>
 <field name="genre">Operas</field>
 <field name="title">Stuyvesant Zero</field>
-<field name="titlesort">Stuyvesant Zero</field>
+<field name="titleSort">Stuyvesant Zero</field>
 <field name="composer">Caroline Ansink</field>
-<field name="composersort">Ansink, Caroline</field>
+<field name="composerSort">Ansink, Caroline</field>
 <field name="year">2012</field>
 <field name="date">August 22, 2012</field>
 <field name="librettist">Jonathan Levi</field>
-<field name="librettistsort">Levi, Jonathan</field>
+<field name="librettistSort">Levi, Jonathan</field>
 <field name="theater">Opera Spanga</field>
 <field name="city">Amsterdam</field>
 <field name="region">Noord Holland</field>

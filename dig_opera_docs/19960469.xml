@@ -3,9 +3,9 @@
 <field name="id">19960469</field>
 <field name="genre">Operas</field>
 <field name="title">Creation Oratorio</field>
-<field name="titlesort">Creation Oratorio</field>
+<field name="titleSort">Creation Oratorio</field>
 <field name="composer">Christopher Theofanidis</field>
-<field name="composersort">Theofanidis, Christopher</field>
+<field name="composerSort">Theofanidis, Christopher</field>
 <field name="year">2015</field>
 <field name="date">April 23, 2015</field>
 <field name="theater">Symphony Hall</field>

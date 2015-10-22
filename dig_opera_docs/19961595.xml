@@ -3,13 +3,13 @@
 <field name="id">19961595</field>
 <field name="genre">Operas</field>
 <field name="title">Love Counts</field>
-<field name="titlesort">Love Counts</field>
+<field name="titleSort">Love Counts</field>
 <field name="composer">Michael Nyman</field>
-<field name="composersort">Nyman, Michael </field>
+<field name="composerSort">Nyman, Michael </field>
 <field name="year">2005</field>
 <field name="date">March 12, 2005</field>
 <field name="librettist">Michael Hastings</field>
-<field name="librettistsort">Hastings, Michael</field>
+<field name="librettistSort">Hastings, Michael</field>
 <field name="theater">Badisches Staatstheater</field>
 <field name="city">Karlsruhe</field>
 <field name="region">Baden-Württemberg</field>

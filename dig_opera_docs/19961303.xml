@@ -3,13 +3,13 @@
 <field name="id">19961303</field>
 <field name="genre">Operas</field>
 <field name="title">Kepler</field>
-<field name="titlesort">Kepler</field>
+<field name="titleSort">Kepler</field>
 <field name="composer">Philip Glass</field>
-<field name="composersort">Glass, Philip</field>
+<field name="composerSort">Glass, Philip</field>
 <field name="year">2009</field>
 <field name="date">September 20, 2009</field>
 <field name="librettist">Martina Winkel</field>
-<field name="librettistsort">Winkel, Martina</field>
+<field name="librettistSort">Winkel, Martina</field>
 <field name="theater">Landestheater</field>
 <field name="city">Linz</field>
 <field name="region">Oberösterreich</field>

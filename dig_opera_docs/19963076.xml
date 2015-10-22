@@ -3,13 +3,13 @@
 <field name="id">19963076</field>
 <field name="genre">Operas</field>
 <field name="title">X und Y</field>
-<field name="titlesort">X und Y</field>
+<field name="titleSort">X und Y</field>
 <field name="composer">Sidney Corbett</field>
-<field name="composersort">Corbett, Sidney</field>
+<field name="composerSort">Corbett, Sidney</field>
 <field name="year">2002</field>
 <field name="date">February 3, 2002</field>
 <field name="librettist">Anja Tuckermann</field>
-<field name="librettistsort">Tuckermann, Anja</field>
+<field name="librettistSort">Tuckermann, Anja</field>
 <field name="theater">Eclat Festival</field>
 <field name="city">Stuttgart</field>
 <field name="region">Baden-Württemberg</field>

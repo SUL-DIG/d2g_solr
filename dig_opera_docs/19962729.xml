@@ -3,13 +3,13 @@
 <field name="id">19962729</field>
 <field name="genre">Operas</field>
 <field name="title">The Scarecrow</field>
-<field name="titlesort">Scarecrow</field>
+<field name="titleSort">Scarecrow</field>
 <field name="composer">Joseph Turrin</field>
-<field name="composersort">Turrin, Joseph</field>
+<field name="composerSort">Turrin, Joseph</field>
 <field name="year">2006</field>
 <field name="date">February 24, 2006</field>
 <field name="librettist">Bernard Stambler</field>
-<field name="librettistsort">Stambler, Bernard</field>
+<field name="librettistSort">Stambler, Bernard</field>
 <field name="theater">University of Texas</field>
 <field name="city">Austin</field>
 <field name="region">Texas</field>

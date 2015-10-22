@@ -3,13 +3,13 @@
 <field name="id">19960147</field>
 <field name="genre">Operas</field>
 <field name="title">An der Donau</field>
-<field name="titlesort">An der Donau</field>
+<field name="titleSort">An der Donau</field>
 <field name="composer">Heiner Goebbels</field>
-<field name="composersort">Goebbels, Heiner</field>
+<field name="composerSort">Goebbels, Heiner</field>
 <field name="year">1987</field>
 <field name="date">June 12, 1987</field>
 <field name="librettist">Herbert Achternbusch</field>
-<field name="librettistsort">Achternbusch, Herbert</field>
+<field name="librettistSort">Achternbusch, Herbert</field>
 <field name="theater">Burgtheater</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

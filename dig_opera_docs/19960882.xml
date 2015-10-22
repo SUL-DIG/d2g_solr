@@ -3,13 +3,13 @@
 <field name="id">19960882</field>
 <field name="genre">Operas</field>
 <field name="title">Figaro’s Last Hangover</field>
-<field name="titlesort">Figaro’s Last Hangover</field>
+<field name="titleSort">Figaro’s Last Hangover</field>
 <field name="composer">Patrick Soluri</field>
-<field name="composersort">Soluri, Patrick</field>
+<field name="composerSort">Soluri, Patrick</field>
 <field name="year">2002</field>
 <field name="date">January 17, 2002</field>
 <field name="librettist">Patrick Soluri</field>
-<field name="librettistsort">Soluri, Patrick</field>
+<field name="librettistSort">Soluri, Patrick</field>
 <field name="theater">University of Louisville</field>
 <field name="city">Louisville</field>
 <field name="region">Kentucky</field>

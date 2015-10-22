@@ -3,13 +3,13 @@
 <field name="id">19960283</field>
 <field name="genre">Operas</field>
 <field name="title">Bastianello</field>
-<field name="titlesort">Bastianello</field>
+<field name="titleSort">Bastianello</field>
 <field name="composer">John Musto</field>
-<field name="composersort">Musto, John</field>
+<field name="composerSort">Musto, John</field>
 <field name="year">2008</field>
 <field name="date">March 11, 2008</field>
 <field name="librettist">Mark Campbell</field>
-<field name="librettistsort">Campbell, Mark</field>
+<field name="librettistSort">Campbell, Mark</field>
 <field name="theater">Carnegie Hall, Weill Recital Hall</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

@@ -3,13 +3,13 @@
 <field name="id">19960328</field>
 <field name="genre">Operas</field>
 <field name="title">Blanche och Marie</field>
-<field name="titlesort">Blanche och Marie</field>
+<field name="titleSort">Blanche och Marie</field>
 <field name="composer">Mats Larsson Gothe</field>
-<field name="composersort">Gothe, Mats Larsson</field>
+<field name="composerSort">Gothe, Mats Larsson</field>
 <field name="year">2014</field>
 <field name="date">October 10, 2014</field>
 <field name="librettist">Maria Sundqvist</field>
-<field name="librettistsort">Sundqvist, Maria</field>
+<field name="librettistSort">Sundqvist, Maria</field>
 <field name="theater">NorrlandsOperan</field>
 <field name="city">Umeå</field>
 <field name="region">Västerbotten</field>

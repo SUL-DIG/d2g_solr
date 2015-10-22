@@ -3,13 +3,13 @@
 <field name="id">19960272</field>
 <field name="genre">Operas</field>
 <field name="title">Bamboo</field>
-<field name="titlesort">Bamboo</field>
+<field name="titleSort">Bamboo</field>
 <field name="composer">Jeno Platthy</field>
-<field name="composersort">Platthy, Jeno</field>
+<field name="composerSort">Platthy, Jeno</field>
 <field name="year">1976</field>
 <field name="date">June 23, 1976</field>
 <field name="librettist">Rosemarie Steeg</field>
-<field name="librettistsort">Steeg, Rosemarie</field>
+<field name="librettistSort">Steeg, Rosemarie</field>
 <field name="theater">Prince George's Community College</field>
 <field name="city">Largo</field>
 <field name="region">Maryland</field>

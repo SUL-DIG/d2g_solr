@@ -3,12 +3,12 @@
 <field name="id">19961876</field>
 <field name="genre">Operas</field>
 <field name="title">Odysseus és Nausikaa</field>
-<field name="titlesort">Odysseus és Nausikaa</field>
+<field name="titleSort">Odysseus és Nausikaa</field>
 <field name="composer">Zoltán Pongrácz</field>
-<field name="composersort">Pongrácz, Zoltán</field>
+<field name="composerSort">Pongrácz, Zoltán</field>
 <field name="year">1960</field>
 <field name="librettist">Zoltán Pongrácz</field>
-<field name="librettistsort">Pongrácz, Zoltán</field>
+<field name="librettistSort">Pongrácz, Zoltán</field>
 <field name="theater">Csokonai Nemzeti Színház</field>
 <field name="city">Debrecen</field>
 <field name="region">Hajdú-Bihar</field>

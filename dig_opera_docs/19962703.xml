@@ -3,13 +3,13 @@
 <field name="id">19962703</field>
 <field name="genre">Operas</field>
 <field name="title">The Price of Eggs</field>
-<field name="titlesort">Price of Eggs</field>
+<field name="titleSort">Price of Eggs</field>
 <field name="composer">Thomas Cain</field>
-<field name="composersort">Cain, Thomas</field>
+<field name="composerSort">Cain, Thomas</field>
 <field name="year">1982</field>
 <field name="date">January 24, 1982</field>
 <field name="librettist">Eugène Ionesco</field>
-<field name="librettistsort">Ionesco, Eugène</field>
+<field name="librettistSort">Ionesco, Eugène</field>
 <field name="theater">Publick Playhouse</field>
 <field name="city">Cheverly</field>
 <field name="region">Maryland</field>

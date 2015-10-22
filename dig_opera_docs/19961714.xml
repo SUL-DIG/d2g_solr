@@ -3,9 +3,9 @@
 <field name="id">19961714</field>
 <field name="genre">Operas</field>
 <field name="title">Memento</field>
-<field name="titlesort">Memento</field>
+<field name="titleSort">Memento</field>
 <field name="composer">Salavat Akhmadeevich Nizametdinov</field>
-<field name="composersort">Nizametdinov, Salavat Akhmadeevich</field>
+<field name="composerSort">Nizametdinov, Salavat Akhmadeevich</field>
 <field name="year">2000</field>
 <field name="theater">Teatr Operï i Baleta</field>
 <field name="city">Perm'</field>

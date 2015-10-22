@@ -3,9 +3,9 @@
 <field name="id">19961728</field>
 <field name="genre">Operas</field>
 <field name="title">Mihail Strogov</field>
-<field name="titlesort">Mihail Strogov</field>
+<field name="titleSort">Mihail Strogov</field>
 <field name="composer">Asen Karastoyanov</field>
-<field name="composersort">Karastoyanov, Asen</field>
+<field name="composerSort">Karastoyanov, Asen</field>
 <field name="year">1940</field>
 <field name="city">Sofia</field>
 <field name="country">Bulgaria</field>

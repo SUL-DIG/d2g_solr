@@ -3,13 +3,13 @@
 <field name="id">19960191</field>
 <field name="genre">Operas</field>
 <field name="title">Antonia und der Reissteufel</field>
-<field name="titlesort">Antonia und der Reissteufel</field>
+<field name="titleSort">Antonia und der Reissteufel</field>
 <field name="composer">Christian Kolonovits</field>
-<field name="composersort">Kolonovits, Christian</field>
+<field name="composerSort">Kolonovits, Christian</field>
 <field name="year">2009</field>
 <field name="date">December 13, 2009</field>
 <field name="librettist">Angelika Messner</field>
-<field name="librettistsort">Messner, Angelika</field>
+<field name="librettistSort">Messner, Angelika</field>
 <field name="theater">Volksoper</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

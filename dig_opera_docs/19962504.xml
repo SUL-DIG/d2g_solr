@@ -3,12 +3,12 @@
 <field name="id">19962504</field>
 <field name="genre">Operas</field>
 <field name="title">The Dancing Princesses</field>
-<field name="titlesort">Dancing Princesses</field>
+<field name="titleSort">Dancing Princesses</field>
 <field name="composer">Bill Connor</field>
-<field name="composersort">Connor, Bill</field>
+<field name="composerSort">Connor, Bill</field>
 <field name="year">1995</field>
 <field name="librettist">Nick Renton</field>
-<field name="librettistsort">Renton, Nick</field>
+<field name="librettistSort">Renton, Nick</field>
 <field name="theater">W11 Opera</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

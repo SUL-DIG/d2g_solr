@@ -3,13 +3,13 @@
 <field name="id">19962293</field>
 <field name="genre">Operas</field>
 <field name="title">Sinbad</field>
-<field name="titlesort">Sinbad</field>
+<field name="titleSort">Sinbad</field>
 <field name="composer">Howard Moody</field>
-<field name="composersort">Moody, Howard</field>
+<field name="composerSort">Moody, Howard</field>
 <field name="year">2014</field>
 <field name="date">February 14, 2014</field>
 <field name="librettist">Howard Moody</field>
-<field name="librettistsort">Moody, Howard</field>
+<field name="librettistSort">Moody, Howard</field>
 <field name="theater">Théâtre-Royal de la Monnaie</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>

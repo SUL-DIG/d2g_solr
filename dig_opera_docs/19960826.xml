@@ -3,13 +3,13 @@
 <field name="id">19960826</field>
 <field name="genre">Operas</field>
 <field name="title">Eurydike</field>
-<field name="titlesort">Eurydike</field>
+<field name="titleSort">Eurydike</field>
 <field name="composer">Iris ter Schiphorst</field>
-<field name="composersort">Schiphorst, Iris  ter</field>
+<field name="composerSort">Schiphorst, Iris  ter</field>
 <field name="year">2002</field>
 <field name="date">September 20, 2002</field>
 <field name="librettist">Karin Spielhofer</field>
-<field name="librettistsort">Spielhofer, Karin</field>
+<field name="librettistSort">Spielhofer, Karin</field>
 <field name="theater">Stadttheater</field>
 <field name="city">Bielefeld</field>
 <field name="region">Nordrhein-Westfallen</field>

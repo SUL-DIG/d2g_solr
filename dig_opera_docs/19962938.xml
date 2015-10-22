@@ -3,13 +3,13 @@
 <field name="id">19962938</field>
 <field name="genre">Operas</field>
 <field name="title">Über die Dörfer</field>
-<field name="titlesort">Über die Dörfer</field>
+<field name="titleSort">Über die Dörfer</field>
 <field name="composer">Walter Zimmermann</field>
-<field name="composersort">Zimmermann, Walter</field>
+<field name="composerSort">Zimmermann, Walter</field>
 <field name="year">1988</field>
 <field name="date">June 12, 1988</field>
 <field name="librettist">Peter Handke</field>
-<field name="librettistsort">Handke, Peter</field>
+<field name="librettistSort">Handke, Peter</field>
 <field name="theater">Opernhaus</field>
 <field name="city">Nuremberg</field>
 <field name="region">Bayern</field>

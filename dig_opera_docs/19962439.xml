@@ -3,13 +3,13 @@
 <field name="id">19962439</field>
 <field name="genre">Operas</field>
 <field name="title">The Achilles Heel</field>
-<field name="titlesort">Achilles Heel</field>
+<field name="titleSort">Achilles Heel</field>
 <field name="composer">Craig Bohmler</field>
-<field name="composersort">Bohmler, Craig</field>
+<field name="composerSort">Bohmler, Craig</field>
 <field name="year">1993</field>
 <field name="date">February 22, 1993</field>
 <field name="librettist">Mary Carol Warwick</field>
-<field name="librettistsort">Warwick, Mary Carol</field>
+<field name="librettistSort">Warwick, Mary Carol</field>
 <field name="theater">Houston Community College</field>
 <field name="city">Houston</field>
 <field name="region">Texas</field>

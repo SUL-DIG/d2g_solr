@@ -3,13 +3,13 @@
 <field name="id">19961946</field>
 <field name="genre">Operas</field>
 <field name="title">Paavo Suuri. Suuri Juoksu. Suuri Uni</field>
-<field name="titlesort">Paavo Suuri. Suuri Juoksu. Suuri Uni</field>
+<field name="titleSort">Paavo Suuri. Suuri Juoksu. Suuri Uni</field>
 <field name="composer">Tuomas Kantelinen</field>
-<field name="composersort">Kantelinen, Tuomas</field>
+<field name="composerSort">Kantelinen, Tuomas</field>
 <field name="year">2000</field>
 <field name="date">August 11, 2000</field>
 <field name="librettist">Paavo Haavikko</field>
-<field name="librettistsort">Haavikko, Paavo</field>
+<field name="librettistSort">Haavikko, Paavo</field>
 <field name="theater">Helsingin Olympiastadion</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

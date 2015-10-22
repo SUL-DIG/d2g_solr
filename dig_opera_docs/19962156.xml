@@ -3,13 +3,13 @@
 <field name="id">19962156</field>
 <field name="genre">Operas</field>
 <field name="title">Rinderwahn oder Poveretti wird singen</field>
-<field name="titlesort">Rinderwahn oder Poveretti wird singen</field>
+<field name="titleSort">Rinderwahn oder Poveretti wird singen</field>
 <field name="composer">Camille Kerger</field>
-<field name="composersort">Kerger, Camille</field>
+<field name="composerSort">Kerger, Camille</field>
 <field name="year">1999</field>
 <field name="date">May 15, 1999</field>
 <field name="librettist">Nico Helmiger</field>
-<field name="librettistsort">Helmiger, Nico</field>
+<field name="librettistSort">Helmiger, Nico</field>
 <field name="theater">Nationaltheater Studio</field>
 <field name="city">Mannheim</field>
 <field name="region">Baden-Württemberg</field>

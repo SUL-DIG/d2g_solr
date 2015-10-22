@@ -3,13 +3,13 @@
 <field name="id">19960115</field>
 <field name="genre">Operas</field>
 <field name="title">Alice in Wonderland</field>
-<field name="titlesort">Alice in Wonderland</field>
+<field name="titleSort">Alice in Wonderland</field>
 <field name="composer">Mervyn Burtch</field>
-<field name="composersort">Burtch, Mervyn</field>
+<field name="composerSort">Burtch, Mervyn</field>
 <field name="year">1981</field>
 <field name="date">July 30, 1981</field>
 <field name="librettist">[Charles Lutwidge Dodgson] Lewis Carroll</field>
-<field name="librettistsort">Carroll, Lewis [Charles Lutwidge Dodgson] </field>
+<field name="librettistSort">Carroll, Lewis [Charles Lutwidge Dodgson] </field>
 <field name="theater">International Children's Opera Summer School</field>
 <field name="city">Monmouth</field>
 <field name="region">Wales</field>

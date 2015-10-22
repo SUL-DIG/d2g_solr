@@ -3,13 +3,13 @@
 <field name="id">19960614</field>
 <field name="genre">Operas</field>
 <field name="title">Die chinesische Wäscherei</field>
-<field name="titlesort">chinesische Wäscherei</field>
+<field name="titleSort">chinesische Wäscherei</field>
 <field name="composer">Jan Müller-Wieland</field>
-<field name="composersort">Müller-Wieland, Jan</field>
+<field name="composerSort">Müller-Wieland, Jan</field>
 <field name="year">2003</field>
 <field name="date">November 18, 2003</field>
 <field name="librettist">Elke Heidenreich</field>
-<field name="librettistsort">Heidenreich, Elke</field>
+<field name="librettistSort">Heidenreich, Elke</field>
 <field name="theater">Bühnen der Stadt</field>
 <field name="city">Cologne</field>
 <field name="region">Nordrhein-Westfallen</field>
