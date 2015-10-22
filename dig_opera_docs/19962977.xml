@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962977</field>
+<field name="genre">Operas</field>
 <field name="title">Vanqui</field>
 <field name="titlesort">Vanqui</field>
 <field name="composer">Leslie Burrs</field>
@@ -14,7 +14,6 @@
 <field name="city">Columbus</field>
 <field name="region">Ohio</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vanqui+Leslie+Burrs&amp;search_field=search</field>
 </doc>
 </add>

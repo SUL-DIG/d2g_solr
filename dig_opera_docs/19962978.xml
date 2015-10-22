@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962978</field>
+<field name="genre">Operas</field>
 <field name="title">Vänrikki Stool (Ensign Stål)</field>
 <field name="titlesort">Vänrikki Stool (Ensign Stål)</field>
 <field name="composer">Pentti Tynkkynen</field>
@@ -14,7 +14,6 @@
 <field name="city">Kuru</field>
 <field name="region">Pirkanmaa</field>
 <field name="country">Finland</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vänrikki+Stool+(Ensign+Stål)+Pentti+Tynkkynen&amp;search_field=search</field>
 </doc>
 </add>

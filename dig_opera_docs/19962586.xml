@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962586</field>
+<field name="genre">Operas</field>
 <field name="title">The Hourglass</field>
 <field name="titlesort">Hourglass</field>
 <field name="composer">Matthew Raymond Cooper Vest</field>
@@ -14,7 +14,6 @@
 <field name="city">Cambridge</field>
 <field name="region">Massachusetts</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hourglass+Matthew+Raymond+Cooper+Vest&amp;search_field=search</field>
 </doc>
 </add>

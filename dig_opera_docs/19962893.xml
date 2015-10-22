@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962893</field>
+<field name="genre">Oratorio</field>
 <field name="title">Tolu (Sunrise)</field>
 <field name="titlesort">Tolu (Sunrise)</field>
 <field name="composer">Saeed Sharifian</field>
 <field name="composersort">Sharifian, Saeed</field>
 <field name="year">2005</field>
-<field name="genre">Oratorio</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tolu+(Sunrise)+Saeed+Sharifian&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960196</field>
+<field name="genre">Operas</field>
 <field name="title">Aranycsillag (The Golden Star)</field>
 <field name="titlesort">Aranycsillag (The Golden Star)</field>
 <field name="composer">Endre Székely</field>
@@ -12,7 +12,6 @@
 <field name="theater">Fovárosi Operettszínház</field>
 <field name="city">Budapest</field>
 <field name="country">Hungary</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aranycsillag+(The+Golden+Star)+Endre+Székely&amp;search_field=search</field>
 </doc>
 </add>

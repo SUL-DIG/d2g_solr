@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961718</field>
+<field name="genre">Operas</field>
 <field name="title">Mercury Falling</field>
 <field name="titlesort">Mercury Falling</field>
 <field name="composer">Chandler Carter</field>
@@ -14,7 +14,6 @@
 <field name="city">Raleigh</field>
 <field name="region">North Carolina</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mercury+Falling+Chandler+Carter&amp;search_field=search</field>
 </doc>
 </add>

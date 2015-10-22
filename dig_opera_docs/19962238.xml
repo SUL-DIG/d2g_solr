@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962238</field>
+<field name="genre">Operas</field>
 <field name="title">Second Nature</field>
 <field name="titlesort">Second Nature</field>
 <field name="composer">Matthew Aucoin</field>
@@ -14,7 +14,6 @@
 <field name="city">Chicago</field>
 <field name="region">Illinois</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Second+Nature+Matthew+Aucoin&amp;search_field=search</field>
 </doc>
 </add>

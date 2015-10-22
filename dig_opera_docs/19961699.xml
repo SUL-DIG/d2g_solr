@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961699</field>
+<field name="genre">Operas</field>
 <field name="title">Mayo... Bisperas ng Liwanag</field>
 <field name="titlesort">Mayo... Bisperas ng Liwanag</field>
 <field name="composer">Rey Paguio</field>
@@ -15,7 +15,6 @@
 <field name="theater">Camp Aguinaldo Theater</field>
 <field name="city">Quezon City</field>
 <field name="country">Philippines</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mayo...+Bisperas+ng+Liwanag+Rey+Paguio&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961734</field>
+<field name="genre">Operas</field>
 <field name="title">Mirabell's Book of Numbers</field>
 <field name="titlesort">Mirabell's Book of Numbers</field>
 <field name="composer">Maura Bosch</field>
@@ -15,7 +15,6 @@
 <field name="city">Minneapolis</field>
 <field name="region">Minnesota</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mirabell's+Book+of+Numbers+Maura+Bosch&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960212</field>
+<field name="genre">Operas</field>
 <field name="title">As duas mulheres de Sigmund Freud</field>
 <field name="titlesort">duas mulheres de Sigmund Freud</field>
 <field name="composer">Hugo Ribeiro</field>
@@ -14,7 +14,6 @@
 <field name="city">Lisbon</field>
 <field name="region">Lisboa</field>
 <field name="country">Portugal</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=duas+mulheres+de+Sigmund+Freud+Hugo+Ribeiro&amp;search_field=search</field>
 </doc>
 </add>

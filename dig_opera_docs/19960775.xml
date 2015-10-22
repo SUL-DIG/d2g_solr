@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960775</field>
+<field name="genre">Operas</field>
 <field name="title">El pasado nunca se termina</field>
 <field name="titlesort">pasado nunca se termina</field>
 <field name="composer">José "Pepe" Martinez</field>
@@ -14,7 +14,6 @@
 <field name="city">Chicago</field>
 <field name="region">Illinois</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=pasado+nunca+se+termina+José+"Pepe"+Martinez&amp;search_field=search</field>
 </doc>
 </add>

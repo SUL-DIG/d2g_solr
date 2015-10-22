@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961807</field>
+<field name="genre">Operas</field>
 <field name="title">Nativity: A Canticle for the Child</field>
 <field name="titlesort">Nativity: A Canticle for the Child</field>
 <field name="composer">Norman Dello Joio</field>
@@ -14,7 +14,6 @@
 <field name="city">Midland</field>
 <field name="region">Michigan</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nativity:+A+Canticle+for+the+Child+Norman+Dello+Joio&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962597</field>
+<field name="genre">Operas</field>
 <field name="title">The Inventor</field>
 <field name="titlesort">Inventor</field>
 <field name="composer">Bramwell Tovey</field>
@@ -14,7 +14,6 @@
 <field name="city">Calgary</field>
 <field name="region">Alberta</field>
 <field name="country">Canada</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Inventor+Bramwell+Tovey&amp;search_field=search</field>
 </doc>
 </add>

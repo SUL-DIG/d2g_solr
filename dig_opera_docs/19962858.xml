@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962858</field>
+<field name="genre">Operas</field>
 <field name="title">The Young Man with the Carnation</field>
 <field name="titlesort">Young Man with the Carnation</field>
 <field name="composer">Edward Rushton</field>
@@ -16,7 +16,6 @@
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Young+Man+with+the+Carnation+Edward+Rushton&amp;search_field=search</field>
 </doc>
 </add>

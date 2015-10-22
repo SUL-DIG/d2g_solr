@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960135</field>
+<field name="genre">Operas</field>
 <field name="title">Amb els peus a la lluna (Con los pies en la luna)</field>
 <field name="titlesort">Amb els peus a la lluna (Con los pies en la luna)</field>
 <field name="composer">Antoni Parera Fons</field>
@@ -16,7 +16,6 @@
 <field name="city">Barcelona</field>
 <field name="region">Catalunya</field>
 <field name="country">Spain</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amb+els+peus+a+la+lluna+(Con+los+pies+en+la+luna)+Antoni+Parera+Fons&amp;search_field=search</field>
 </doc>
 </add>

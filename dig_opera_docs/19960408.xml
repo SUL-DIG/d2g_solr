@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960408</field>
+<field name="genre">Operas</field>
 <field name="title">Cavalcanti</field>
 <field name="titlesort">Cavalcanti</field>
 <field name="composer">Ezra Pound</field>
@@ -14,7 +14,6 @@
 <field name="city">San Francisco</field>
 <field name="region">California</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cavalcanti+Ezra+Pound&amp;search_field=search</field>
 </doc>
 </add>

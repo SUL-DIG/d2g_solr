@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961155</field>
+<field name="genre">Operas</field>
 <field name="title">Il giudizio di Paride (Das Urteil des Paris)</field>
 <field name="titlesort">Il giudizio di Paride (Das Urteil des Paris)</field>
 <field name="composer">Marcello Panni</field>
@@ -16,7 +16,6 @@
 <field name="city">Bonn</field>
 <field name="region">Nordrhein-Westfallen</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+giudizio+di+Paride+(Das+Urteil+des+Paris)+Marcello+Panni&amp;search_field=search</field>
 </doc>
 </add>

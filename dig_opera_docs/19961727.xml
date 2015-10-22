@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961727</field>
+<field name="genre">Operas</field>
 <field name="title">Midnight Son</field>
 <field name="titlesort">Midnight Son</field>
 <field name="composer">Gordon Kerry</field>
@@ -14,7 +14,6 @@
 <field name="city">Melbourne</field>
 <field name="region">Victoria</field>
 <field name="country">Australia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Midnight+Son+Gordon+Kerry&amp;search_field=search</field>
 </doc>
 </add>

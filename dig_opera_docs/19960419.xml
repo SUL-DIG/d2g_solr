@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960419</field>
+<field name="genre">Operas</field>
 <field name="title">Charlie Parker's Yardbird</field>
 <field name="titlesort">Charlie Parker's Yardbird</field>
 <field name="composer">Daniel Schnyder</field>
@@ -14,7 +14,6 @@
 <field name="city">Philadelphia</field>
 <field name="region">Pennsylvania</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Charlie+Parker's+Yardbird+Daniel+Schnyder&amp;search_field=search</field>
 </doc>
 </add>

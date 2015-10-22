@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960483</field>
+<field name="genre">Operas</field>
 <field name="title">Czar's Case</field>
 <field name="titlesort">Czar's Case</field>
 <field name="composer">Aleksandr Vladimirovich Chaykovsky</field>
@@ -11,7 +11,6 @@
 <field name="city">Yelets</field>
 <field name="region">Lipetsk Oblast</field>
 <field name="country">Russia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Czar's+Case+Aleksandr+Vladimirovich+Chaykovsky&amp;search_field=search</field>
 </doc>
 </add>

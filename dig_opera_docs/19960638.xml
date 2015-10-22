@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960638</field>
+<field name="genre">Operas</field>
 <field name="title">Die Marx Sisters</field>
 <field name="titlesort">Marx Sisters</field>
 <field name="composer">George Dreyfus</field>
@@ -14,7 +14,6 @@
 <field name="city">Bielefeld</field>
 <field name="region">Nordrhein-Westfallen</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marx+Sisters+George+Dreyfus&amp;search_field=search</field>
 </doc>
 </add>

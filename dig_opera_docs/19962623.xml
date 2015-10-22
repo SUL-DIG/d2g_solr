@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962623</field>
+<field name="genre">Operas</field>
 <field name="title">The Life and Love of Joe Coogan </field>
 <field name="titlesort">Life and Love of Joe Coogan </field>
 <field name="composer">Paul Salerni</field>
@@ -16,7 +16,6 @@
 <field name="city">Bethlehem</field>
 <field name="region">Pennsylvania</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Life+and+Love+of+Joe+Coogan++Paul+Salerni&amp;search_field=search</field>
 </doc>
 </add>

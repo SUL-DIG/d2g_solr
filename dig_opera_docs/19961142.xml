@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961142</field>
+<field name="genre">Operas</field>
 <field name="title">Ice</field>
 <field name="titlesort">Ice</field>
 <field name="composer">Alasdair Nicolson</field>
@@ -14,7 +14,6 @@
 <field name="city">Stepney</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ice+Alasdair+Nicolson&amp;search_field=search</field>
 </doc>
 </add>

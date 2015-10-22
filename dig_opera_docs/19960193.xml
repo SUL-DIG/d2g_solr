@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960193</field>
+<field name="genre">Operas</field>
 <field name="title">Anya 17</field>
 <field name="titlesort">Anya 17</field>
 <field name="composer">Adam Gorb</field>
@@ -14,7 +14,6 @@
 <field name="city">Liverpool</field>
 <field name="region">Merseyside</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anya+17+Adam+Gorb&amp;search_field=search</field>
 </doc>
 </add>

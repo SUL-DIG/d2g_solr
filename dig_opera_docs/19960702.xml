@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960702</field>
+<field name="genre">Operas</field>
 <field name="title">Dr. Doolittle</field>
 <field name="titlesort">Dr. Doolittle</field>
 <field name="composer">Erich Walter Sternberg</field>
@@ -11,7 +11,6 @@
 <field name="librettistsort">Lofting, Hugh</field>
 <field name="city">Jerusalem</field>
 <field name="country">Israel</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dr.+Doolittle+Erich+Walter+Sternberg&amp;search_field=search</field>
 </doc>
 </add>

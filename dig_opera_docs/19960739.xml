@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960739</field>
+<field name="genre">Operas</field>
 <field name="title">Earnest, The Importance of Being</field>
 <field name="titlesort">Earnest, The Importance of Being</field>
 <field name="composer">Victor Davies</field>
@@ -16,7 +16,6 @@
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Earnest,+The+Importance+of+Being+Victor+Davies&amp;search_field=search</field>
 </doc>
 </add>

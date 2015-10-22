@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962768</field>
+<field name="genre">Operas</field>
 <field name="title">The Snow Queen</field>
 <field name="titlesort">Snow Queen</field>
 <field name="composer">Grahame Dudley</field>
@@ -16,7 +16,6 @@
 <field name="city">Adelaide</field>
 <field name="region">South Australia</field>
 <field name="country">Australia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Snow+Queen+Grahame+Dudley&amp;search_field=search</field>
 </doc>
 </add>

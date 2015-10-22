@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961749</field>
+<field name="genre">Operas</field>
 <field name="title">Molière ou la double vie de Jean-Baptiste P.</field>
 <field name="titlesort">Molière ou la double vie de Jean-Baptiste P.</field>
 <field name="composer">Isabelle Aboulker</field>
@@ -16,7 +16,6 @@
 <field name="city">Crétei</field>
 <field name="region">Val-de-Marne</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Molière+ou+la+double+vie+de+Jean-Baptiste+P.+Isabelle+Aboulker&amp;search_field=search</field>
 </doc>
 </add>

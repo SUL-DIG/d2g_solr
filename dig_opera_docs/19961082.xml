@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961082</field>
+<field name="genre">Operas</field>
 <field name="title">Hexe Hillary und der beleidigte Kontrabass</field>
 <field name="titlesort">Hexe Hillary und der beleidigte Kontrabass</field>
 <field name="composer">Winfried Radeke</field>
@@ -14,7 +14,6 @@
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hexe+Hillary+und+der+beleidigte+Kontrabass+Winfried+Radeke&amp;search_field=search</field>
 </doc>
 </add>

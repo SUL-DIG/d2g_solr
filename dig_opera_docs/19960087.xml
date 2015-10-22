@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960087</field>
+<field name="genre">Operas</field>
 <field name="title">Agrā rūsa (Early Rust)</field>
 <field name="titlesort">Agrā rūsa (Early Rust)</field>
 <field name="composer">Jānis Lūsēns</field>
@@ -13,7 +13,6 @@
 <field name="city">Liepaja</field>
 <field name="region">Liepaja</field>
 <field name="country">Latvia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Agrā+rūsa+(Early+Rust)+Jānis+Lūsēns&amp;search_field=search</field>
 </doc>
 </add>

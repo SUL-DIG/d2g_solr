@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961523</field>
+<field name="genre">Operas</field>
 <field name="title">Les chasseurs d'images</field>
 <field name="titlesort">chasseurs d'images</field>
 <field name="composer">Georges Van Parys</field>
@@ -15,7 +15,6 @@
 <field name="theater">Théâtre du Châtelet</field>
 <field name="city">Paris</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=chasseurs+d'images+Georges+Van+Parys&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961149</field>
+<field name="genre">Operas</field>
 <field name="title">Il cambio</field>
 <field name="titlesort">cambio</field>
 <field name="composer">Matteo D'Amico</field>
@@ -14,7 +14,6 @@
 <field name="city">Verona</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=cambio+Matteo+D'Amico&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19963095</field>
+<field name="genre">Operas</field>
 <field name="title">Zakletá píseň (Enchanted Song)</field>
 <field name="titlesort">Zakletá píseň (Enchanted Song)</field>
 <field name="composer">Karel Reiner</field>
@@ -12,7 +12,6 @@
 <field name="librettistsort">Beneš, Karel Josef</field>
 <field name="city">Prague</field>
 <field name="country">Czech Republic</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zakletá+píseň+(Enchanted+Song)+Karel+Reiner&amp;search_field=search</field>
 </doc>
 </add>

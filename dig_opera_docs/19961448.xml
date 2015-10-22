@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961448</field>
+<field name="genre">Operas</field>
 <field name="title">La tragédie de Carmen</field>
 <field name="titlesort">tragédie de Carmen</field>
 <field name="composer">Marius Constant</field>
@@ -15,7 +15,6 @@
 <field name="theater">Théâtre des Bouffes du Nord</field>
 <field name="city">Paris</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=tragédie+de+Carmen+Marius+Constant&amp;search_field=search</field>
 </doc>
 </add>

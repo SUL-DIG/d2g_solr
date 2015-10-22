@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962843</field>
+<field name="genre">Operas</field>
 <field name="title">The Widow's Lantern</field>
 <field name="titlesort">Widow's Lantern</field>
 <field name="composer">David Ott</field>
@@ -14,7 +14,6 @@
 <field name="city">Pensacola</field>
 <field name="region">Florida</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Widow's+Lantern+David+Ott&amp;search_field=search</field>
 </doc>
 </add>

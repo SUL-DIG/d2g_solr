@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960587</field>
+<field name="genre">Operas</field>
 <field name="title">Der Sturz des Antichrist</field>
 <field name="titlesort">Sturz des Antichrist</field>
 <field name="composer">Viktor Ullmann</field>
@@ -14,7 +14,6 @@
 <field name="city">Olomouc</field>
 <field name="region">Severomoravsky Kraj</field>
 <field name="country">Czech Republic</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sturz+des+Antichrist+Viktor+Ullmann&amp;search_field=search</field>
 </doc>
 </add>

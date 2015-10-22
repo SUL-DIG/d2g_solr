@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960273</field>
+<field name="genre">Operas</field>
 <field name="title">Bandanna</field>
 <field name="titlesort">Bandanna</field>
 <field name="composer">Daron Hagen</field>
@@ -14,7 +14,6 @@
 <field name="city">Austin</field>
 <field name="region">Texas</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bandanna+Daron+Hagen&amp;search_field=search</field>
 </doc>
 </add>

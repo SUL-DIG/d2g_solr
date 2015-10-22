@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962437</field>
+<field name="genre">Operas</field>
 <field name="title">Texas!</field>
 <field name="titlesort">Texas!</field>
 <field name="composer">Mary Carol Warwick</field>
@@ -14,7 +14,6 @@
 <field name="city">Houston</field>
 <field name="region">Texas</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Texas!+Mary+Carol+Warwick&amp;search_field=search</field>
 </doc>
 </add>

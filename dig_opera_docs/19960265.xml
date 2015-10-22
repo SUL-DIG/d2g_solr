@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960265</field>
+<field name="genre">Operas</field>
 <field name="title">Balagtas at Selya</field>
 <field name="titlesort">Balagtas at Selya</field>
 <field name="composer">Eliseo Pajaro </field>
@@ -13,7 +13,6 @@
 <field name="librettistsort">Salazar, Dionisio</field>
 <field name="city">Manila</field>
 <field name="country">Philippines</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Balagtas+at+Selya+Eliseo+Pajaro+&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962259</field>
+<field name="genre">Operas</field>
 <field name="title">Shadowboxer</field>
 <field name="titlesort">Shadowboxer</field>
 <field name="composer">Frank Proto</field>
@@ -14,7 +14,6 @@
 <field name="city">College Park</field>
 <field name="region">Maryland</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Shadowboxer+Frank+Proto&amp;search_field=search</field>
 </doc>
 </add>

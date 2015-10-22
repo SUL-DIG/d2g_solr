@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962559</field>
+<field name="genre">Operas</field>
 <field name="title">The Frogs and the Crane</field>
 <field name="titlesort">Frogs and the Crane</field>
 <field name="composer">Jonathan Price</field>
@@ -14,7 +14,6 @@
 <field name="city">Pasadena</field>
 <field name="region">California</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frogs+and+the+Crane+Jonathan+Price&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962254</field>
+<field name="genre">Operas</field>
 <field name="title">Set Phasers on KILL!</field>
 <field name="titlesort">Set Phasers on KILL!</field>
 <field name="composer">Jennifer Walshe</field>
@@ -16,7 +16,6 @@
 <field name="city">Hamburg</field>
 <field name="region">Hamburg</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Set+Phasers+on+KILL!+Jennifer+Walshe&amp;search_field=search</field>
 </doc>
 </add>

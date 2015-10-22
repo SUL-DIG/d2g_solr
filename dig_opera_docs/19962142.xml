@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962142</field>
+<field name="genre">Operas</field>
 <field name="title">Requiem für Piccoletto</field>
 <field name="titlesort">Requiem für Piccoletto</field>
 <field name="composer">Dieter Kaufmann</field>
@@ -15,7 +15,6 @@
 <field name="theater">Halle E im Museumsquartier</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Requiem+für+Piccoletto+Dieter+Kaufmann&amp;search_field=search</field>
 </doc>
 </add>

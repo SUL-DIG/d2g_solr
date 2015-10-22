@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961890</field>
+<field name="genre">Operas</field>
 <field name="title">Olivia meistriklass (Olivia's Master-class)</field>
 <field name="titlesort">Olivia meistriklass (Olivia's Master-class)</field>
 <field name="composer">Lepo Sumera</field>
@@ -16,7 +16,6 @@
 <field name="city">Tallinn</field>
 <field name="region">Harju</field>
 <field name="country">Estonia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Olivia+meistriklass+(Olivia's+Master-class)+Lepo+Sumera&amp;search_field=search</field>
 </doc>
 </add>

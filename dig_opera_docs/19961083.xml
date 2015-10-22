@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961083</field>
+<field name="genre">Operas</field>
 <field name="title">Hexen 1x1</field>
 <field name="titlesort">Hexen 1x1</field>
 <field name="composer">Franz Hummel</field>
@@ -14,7 +14,6 @@
 <field name="city">Augsburg</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hexen+1x1+Franz+Hummel&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961222</field>
+<field name="genre">Operas</field>
 <field name="title">Jakub Flügelbunt ...und Magdalena Rotenband oder: Wie tief ein Vogel singen kann </field>
 <field name="titlesort">Jakub Flügelbunt ...und Magdalena Rotenband oder: Wie tief ein Vogel singen kann </field>
 <field name="composer">Miroslav Srnka</field>
@@ -14,7 +14,6 @@
 <field name="city">Dresden</field>
 <field name="region">Sachsen</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jakub+Flügelbunt+...und+Magdalena+Rotenband+oder:+Wie+tief+ein+Vogel+singen+kann++Miroslav+Srnka&amp;search_field=search</field>
 </doc>
 </add>

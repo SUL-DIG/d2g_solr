@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962661</field>
+<field name="genre">Operas</field>
 <field name="title">The Navigator</field>
 <field name="titlesort">Navigator</field>
 <field name="composer">Liza Lim</field>
@@ -14,7 +14,6 @@
 <field name="city">Brisbane</field>
 <field name="region">Queensland</field>
 <field name="country">Australia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Navigator+Liza+Lim&amp;search_field=search</field>
 </doc>
 </add>

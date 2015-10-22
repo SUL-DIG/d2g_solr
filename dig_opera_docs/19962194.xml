@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962194</field>
+<field name="genre">Oratorio</field>
 <field name="title">Rungholt</field>
 <field name="titlesort">Rungholt</field>
 <field name="composer">Jakob Vinje</field>
@@ -11,7 +11,6 @@
 <field name="librettistsort">Liliencron, Detlev von</field>
 <field name="librettist">Rainer Maria Rilke</field>
 <field name="librettistsort">Rilke, Rainer Maria</field>
-<field name="genre">Oratorio</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rungholt+Jakob+Vinje&amp;search_field=search</field>
 </doc>
 </add>

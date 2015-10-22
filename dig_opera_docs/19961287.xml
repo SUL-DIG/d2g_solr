@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961287</field>
+<field name="genre">Operas</field>
 <field name="title">Karnyóné</field>
 <field name="titlesort">Karnyóné</field>
 <field name="composer">János Vajda</field>
@@ -15,7 +15,6 @@
 <field name="theater">Magyar Allami Operaház</field>
 <field name="city">Budapest</field>
 <field name="country">Hungary</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Karnyóné+János+Vajda&amp;search_field=search</field>
 </doc>
 </add>

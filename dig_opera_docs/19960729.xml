@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960729</field>
+<field name="genre">Operas</field>
 <field name="title">Dulcinea</field>
 <field name="titlesort">Dulcinea</field>
 <field name="composer">Mauricio Sotelo</field>
@@ -16,7 +16,6 @@
 <field name="city">Madrid</field>
 <field name="region">Madrid</field>
 <field name="country">Spain</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dulcinea+Mauricio+Sotelo&amp;search_field=search</field>
 </doc>
 </add>

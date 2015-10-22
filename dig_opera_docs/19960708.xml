@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960708</field>
+<field name="genre">Operas</field>
 <field name="title">Dr. Jekylls advokat</field>
 <field name="titlesort">Dr. Jekylls advokat</field>
 <field name="composer">Niels Marthinsen</field>
@@ -16,7 +16,6 @@
 <field name="city">Odense</field>
 <field name="region">Syddanmark</field>
 <field name="country">Denmark</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dr.+Jekylls+advokat+Niels+Marthinsen&amp;search_field=search</field>
 </doc>
 </add>

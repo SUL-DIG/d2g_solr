@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961995</field>
+<field name="genre">Operas</field>
 <field name="title">Phoenix Park (A Poet's Journey)</field>
 <field name="titlesort">Phoenix Park (A Poet's Journey)</field>
 <field name="composer">David Strickland</field>
@@ -14,7 +14,6 @@
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Phoenix+Park+(A+Poet's+Journey)+David+Strickland&amp;search_field=search</field>
 </doc>
 </add>

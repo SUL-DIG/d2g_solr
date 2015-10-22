@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961166</field>
+<field name="genre">Operas</field>
 <field name="title">Il re nudo</field>
 <field name="titlesort">re nudo</field>
 <field name="composer">Luca Lombardi</field>
@@ -14,7 +14,6 @@
 <field name="city">Rome</field>
 <field name="region">Lazio</field>
 <field name="country">Italy</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=re+nudo+Luca+Lombardi&amp;search_field=search</field>
 </doc>
 </add>

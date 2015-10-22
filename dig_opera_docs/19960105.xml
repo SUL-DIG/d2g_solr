@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960105</field>
+<field name="genre">Operas</field>
 <field name="title">Alexandra</field>
 <field name="titlesort">Alexandra</field>
 <field name="composer">Zack Settel</field>
@@ -14,7 +14,6 @@
 <field name="city">Montreal</field>
 <field name="region">Quebec</field>
 <field name="country">Canada</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alexandra+Zack+Settel&amp;search_field=search</field>
 </doc>
 </add>

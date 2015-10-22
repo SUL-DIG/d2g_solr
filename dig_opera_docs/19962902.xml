@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962902</field>
+<field name="genre">Operas</field>
 <field name="title">Transit of Venus</field>
 <field name="titlesort">Transit of Venus</field>
 <field name="composer">Victor Davies</field>
@@ -14,7 +14,6 @@
 <field name="city">Winnipeg</field>
 <field name="region">Manitoba</field>
 <field name="country">Canada</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Transit+of+Venus+Victor+Davies&amp;search_field=search</field>
 </doc>
 </add>

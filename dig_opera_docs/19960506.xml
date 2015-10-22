@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960506</field>
+<field name="genre">Operas</field>
 <field name="title">Das Mädchen mit den Schwefelhölzern</field>
 <field name="titlesort">Mädchen mit den Schwefelhölzern</field>
 <field name="composer">Helmut Lachenmann</field>
@@ -16,7 +16,6 @@
 <field name="city">Hamburg</field>
 <field name="region">Hamburg</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mädchen+mit+den+Schwefelhölzern+Helmut+Lachenmann&amp;search_field=search</field>
 </doc>
 </add>

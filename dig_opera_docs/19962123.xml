@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962123</field>
+<field name="genre">Operas</field>
 <field name="title">RedDust</field>
 <field name="titlesort">RedDust</field>
 <field name="composer">Matthew Rosenblum</field>
@@ -16,7 +16,6 @@
 <field name="city">Pittsburgh</field>
 <field name="region">Pennsylvania</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=RedDust+Matthew+Rosenblum&amp;search_field=search</field>
 </doc>
 </add>

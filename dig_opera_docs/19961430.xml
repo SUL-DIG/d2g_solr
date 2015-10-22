@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961430</field>
+<field name="genre">Operas</field>
 <field name="title">La página en blanco</field>
 <field name="titlesort">página en blanco</field>
 <field name="composer">Pilar Jurado</field>
@@ -14,7 +14,6 @@
 <field name="city">Madrid</field>
 <field name="region">Madrid</field>
 <field name="country">Spain</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=página+en+blanco+Pilar+Jurado&amp;search_field=search</field>
 </doc>
 </add>

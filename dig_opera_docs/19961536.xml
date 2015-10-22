@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961536</field>
+<field name="genre">Operas</field>
 <field name="title">Les quatre jumelles</field>
 <field name="titlesort">quatre jumelles</field>
 <field name="composer">Régis Campo</field>
@@ -16,7 +16,6 @@
 <field name="city">Nanterre</field>
 <field name="region">Yvelines</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=quatre+jumelles+Régis+Campo&amp;search_field=search</field>
 </doc>
 </add>

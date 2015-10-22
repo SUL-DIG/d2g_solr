@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962927</field>
+<field name="genre">Operas</field>
 <field name="title">Tunglskinseyjan (The Isle of Moonlight)</field>
 <field name="titlesort">Tunglskinseyjan (The Isle of Moonlight)</field>
 <field name="composer">Atli Heimir Sveinsson</field>
@@ -12,7 +12,6 @@
 <field name="librettistsort">Pálsson, Sigurdur</field>
 <field name="city">Beijing</field>
 <field name="country">China</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tunglskinseyjan+(The+Isle+of+Moonlight)+Atli+Heimir+Sveinsson&amp;search_field=search</field>
 </doc>
 </add>

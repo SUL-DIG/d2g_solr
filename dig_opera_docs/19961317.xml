@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961317</field>
+<field name="genre">Operas</field>
 <field name="title">Kjartan und Gudrun</field>
 <field name="titlesort">Kjartan und Gudrun</field>
 <field name="composer">Paul von Klenau</field>
@@ -13,7 +13,6 @@
 <field name="city">Mannheim</field>
 <field name="region">Baden-Württemberg</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kjartan+und+Gudrun+Paul+von+Klenau&amp;search_field=search</field>
 </doc>
 </add>

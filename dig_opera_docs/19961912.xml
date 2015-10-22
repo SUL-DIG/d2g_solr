@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961912</field>
+<field name="genre">Operas</field>
 <field name="title">Ophelia Forever</field>
 <field name="titlesort">Ophelia Forever</field>
 <field name="composer">Amy Beth Kirsten</field>
@@ -16,7 +16,6 @@
 <field name="city">Baltimore</field>
 <field name="region">Maryland</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ophelia+Forever+Amy+Beth+Kirsten&amp;search_field=search</field>
 </doc>
 </add>

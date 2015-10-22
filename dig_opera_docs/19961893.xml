@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961893</field>
+<field name="genre">Operas</field>
 <field name="title">On This Planet</field>
 <field name="titlesort">On This Planet</field>
 <field name="composer">Anders Nordentoft</field>
@@ -16,7 +16,6 @@
 <field name="city">Copenhagen</field>
 <field name="region">Hovedstaden</field>
 <field name="country">Denmark</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=On+This+Planet+Anders+Nordentoft&amp;search_field=search</field>
 </doc>
 </add>

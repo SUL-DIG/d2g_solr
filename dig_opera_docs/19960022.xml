@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960022</field>
+<field name="genre">Operas</field>
 <field name="title">A Christmas Carol</field>
 <field name="titlesort">Christmas Carol</field>
 <field name="composer">Philip Norman</field>
@@ -15,7 +15,6 @@
 <field name="theater">James Hay Theatre</field>
 <field name="city">Christchurch</field>
 <field name="country">New Zealand</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Christmas+Carol+Philip+Norman&amp;search_field=search</field>
 </doc>
 </add>

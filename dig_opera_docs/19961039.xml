@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961039</field>
+<field name="genre">Operas</field>
 <field name="title">Hani</field>
 <field name="titlesort">Hani</field>
 <field name="composer">Bongani Ndodana-Breen</field>
@@ -14,7 +14,6 @@
 <field name="city">Cape Town</field>
 <field name="region">Western Cape</field>
 <field name="country">South Africa</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hani+Bongani+Ndodana-Breen&amp;search_field=search</field>
 </doc>
 </add>

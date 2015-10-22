@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960295</field>
+<field name="genre">Operas</field>
 <field name="title">Before Brabant</field>
 <field name="titlesort">Before Brabant</field>
 <field name="composer">Jeffrey Ching</field>
@@ -15,7 +15,6 @@
 <field name="theater">Hong Kong Jockey Club Amphitheatre</field>
 <field name="city">Hong Kong</field>
 <field name="country">China</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Before+Brabant+Jeffrey+Ching&amp;search_field=search</field>
 </doc>
 </add>

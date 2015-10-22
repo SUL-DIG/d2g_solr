@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960364</field>
+<field name="genre">Operas</field>
 <field name="title">Broken Birds: An Epic Longing</field>
 <field name="titlesort">Broken Birds: An Epic Longing</field>
 <field name="composer">John Sharpley</field>
@@ -15,7 +15,6 @@
 <field name="theater">Fort Canning Green</field>
 <field name="city">Singapore</field>
 <field name="country">Singapore</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Broken+Birds:+An+Epic+Longing+John+Sharpley&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961046</field>
+<field name="genre">Operas</field>
 <field name="title">Harley</field>
 <field name="titlesort">Harley</field>
 <field name="composer">Edward Rushton</field>
@@ -14,7 +14,6 @@
 <field name="city">Zürich</field>
 <field name="region">Zürich</field>
 <field name="country">Switzerland</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Harley+Edward+Rushton&amp;search_field=search</field>
 </doc>
 </add>

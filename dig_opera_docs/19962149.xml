@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962149</field>
+<field name="genre">Operas</field>
 <field name="title">Richter/Meinhof-Opera</field>
 <field name="titlesort">Richter/Meinhof-Opera</field>
 <field name="composer">David Chesworth</field>
@@ -14,7 +14,6 @@
 <field name="city">Melbourne</field>
 <field name="region">Victoria</field>
 <field name="country">Australia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Richter/Meinhof-Opera+David+Chesworth&amp;search_field=search</field>
 </doc>
 </add>

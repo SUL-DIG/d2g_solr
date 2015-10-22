@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961206</field>
+<field name="genre">Operas</field>
 <field name="title">Isänmaan tyttäret (Daughters of the Fatherland)</field>
 <field name="titlesort">Isänmaan tyttäret (Daughters of the Fatherland)</field>
 <field name="composer">lkka Kuusisto</field>
@@ -14,7 +14,6 @@
 <field name="city">Ilmajoki</field>
 <field name="region">Etelä-Pohjanmaa</field>
 <field name="country">Finland</field>
-<field name="genre">Opera</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Isänmaan+tyttäret+(Daughters+of+the+Fatherland)+lkka+Kuusisto&amp;search_field=search</field>
 </doc>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962301</field>
+<field name="genre">Operas</field>
 <field name="title">Skabt af fravaer og intet</field>
 <field name="titlesort">Skabt af fravaer og intet</field>
 <field name="composer">John Frandsen</field>
@@ -16,7 +16,6 @@
 <field name="city">Århus</field>
 <field name="region">Midtjylland</field>
 <field name="country">Denmark</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Skabt+af+fravaer+og+intet+John+Frandsen&amp;search_field=search</field>
 </doc>
 </add>

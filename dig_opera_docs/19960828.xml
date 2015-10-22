@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960828</field>
+<field name="genre">Operas</field>
 <field name="title">Eva</field>
 <field name="titlesort">Eva</field>
 <field name="composer">Joseph Bardanashvili</field>
@@ -13,7 +13,6 @@
 <field name="theater">Mayakovsky Teatr</field>
 <field name="city">Moscow</field>
 <field name="country">Russia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eva+Joseph+Bardanashvili&amp;search_field=search</field>
 </doc>
 </add>

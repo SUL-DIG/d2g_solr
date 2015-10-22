@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960287</field>
+<field name="genre">Operas</field>
 <field name="title">Beast and Superbeast</field>
 <field name="titlesort">Beast and Superbeast</field>
 <field name="composer">Jorge Martín</field>
@@ -16,7 +16,6 @@
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beast+and+Superbeast+Jorge+Martín&amp;search_field=search</field>
 </doc>
 </add>

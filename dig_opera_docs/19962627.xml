@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962627</field>
+<field name="genre">Operas</field>
 <field name="title">The Lion's Face</field>
 <field name="titlesort">Lion's Face</field>
 <field name="composer">Elena Langer</field>
@@ -14,7 +14,6 @@
 <field name="city">Brighton</field>
 <field name="region">East Sussex</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lion's+Face+Elena+Langer&amp;search_field=search</field>
 </doc>
 </add>

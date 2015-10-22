@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960845</field>
+<field name="genre">Operas</field>
 <field name="title">Fade</field>
 <field name="titlesort">Fade</field>
 <field name="composer">Stefan Weisman</field>
@@ -14,7 +14,6 @@
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fade+Stefan+Weisman&amp;search_field=search</field>
 </doc>
 </add>

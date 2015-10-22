@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962489</field>
+<field name="genre">Operas</field>
 <field name="title">The Clever Artifice of Harriet and Margaret</field>
 <field name="titlesort">Clever Artifice of Harriet and Margaret</field>
 <field name="composer">Leanna Kirchoff</field>
@@ -14,7 +14,6 @@
 <field name="city">Boulder</field>
 <field name="region">Colorado</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Clever+Artifice+of+Harriet+and+Margaret+Leanna+Kirchoff&amp;search_field=search</field>
 </doc>
 </add>

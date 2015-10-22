@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961762</field>
+<field name="genre">Operas</field>
 <field name="title">Morozko</field>
 <field name="titlesort">Morozko</field>
 <field name="composer">Vladimir Bocharov</field>
@@ -13,7 +13,6 @@
 <field name="city">Jekaterinburg</field>
 <field name="region">Sverdlovsk Oblast</field>
 <field name="country">Russia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Morozko+Vladimir+Bocharov&amp;search_field=search</field>
 </doc>
 </add>

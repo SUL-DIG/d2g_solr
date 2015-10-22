@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962387</field>
+<field name="genre">Operas</field>
 <field name="title">Šuma Striborova (Stribor's Forest)</field>
 <field name="titlesort">Šuma Striborova (Stribor's Forest)</field>
 <field name="composer">Ivan Josip Skender</field>
@@ -14,7 +14,6 @@
 <field name="city">Rijeka</field>
 <field name="region">Primorje-Gorski</field>
 <field name="country">Croatia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Šuma+Striborova+(Stribor's+Forest)+Ivan+Josip+Skender&amp;search_field=search</field>
 </doc>
 </add>

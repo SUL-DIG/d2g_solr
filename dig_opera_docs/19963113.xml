@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19963113</field>
+<field name="genre">Operas</field>
 <field name="title">Zolotoslov</field>
 <field name="titlesort">Zolotoslov</field>
 <field name="composer">Lesya Dychko</field>
@@ -12,7 +12,6 @@
 <field name="city">Kiev</field>
 <field name="region">Kyïvs'ka Oblast</field>
 <field name="country">Ukraine</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zolotoslov+Lesya+Dychko&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962563</field>
+<field name="genre">Operas</field>
 <field name="title">The Geometry of Life</field>
 <field name="titlesort">Geometry of Life</field>
 <field name="composer">Salavat Akhmadeevich Nizametdinov</field>
@@ -12,7 +12,6 @@
 <field name="city">Ufa</field>
 <field name="region">Bashkortostan Republic</field>
 <field name="country">Russia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Geometry+of+Life+Salavat+Akhmadeevich+Nizametdinov&amp;search_field=search</field>
 </doc>
 </add>

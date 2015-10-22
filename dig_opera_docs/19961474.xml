@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961474</field>
+<field name="genre">Operas</field>
 <field name="title">Le château des Carpathes</field>
 <field name="titlesort">château des Carpathes</field>
 <field name="composer">Philippe Hersant</field>
@@ -16,7 +16,6 @@
 <field name="city">Montpellier</field>
 <field name="region">Hérault</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=château+des+Carpathes+Philippe+Hersant&amp;search_field=search</field>
 </doc>
 </add>

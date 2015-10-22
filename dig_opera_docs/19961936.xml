@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961936</field>
+<field name="genre">Operas</field>
 <field name="title">Our Town</field>
 <field name="titlesort">Our Town</field>
 <field name="composer">Ned Rorem</field>
@@ -16,7 +16,6 @@
 <field name="city">Bloomington</field>
 <field name="region">Indiana</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Our+Town+Ned+Rorem&amp;search_field=search</field>
 </doc>
 </add>

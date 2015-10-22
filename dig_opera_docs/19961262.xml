@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961262</field>
+<field name="genre">Operas</field>
 <field name="title">Jump Into My Sack</field>
 <field name="titlesort">Jump Into My Sack</field>
 <field name="composer">Julian Grant</field>
@@ -16,7 +16,6 @@
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jump+Into+My+Sack+Julian+Grant&amp;search_field=search</field>
 </doc>
 </add>

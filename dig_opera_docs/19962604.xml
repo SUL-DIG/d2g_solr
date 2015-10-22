@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962604</field>
+<field name="genre">Operas</field>
 <field name="title">The Juniper Tree</field>
 <field name="titlesort">Juniper Tree</field>
 <field name="composer">Andrew Toovey</field>
@@ -16,7 +16,6 @@
 <field name="city">Tunbridge Wells</field>
 <field name="region">Kent</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Juniper+Tree+Andrew+Toovey&amp;search_field=search</field>
 </doc>
 </add>

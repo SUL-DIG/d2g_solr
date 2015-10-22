@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960956</field>
+<field name="genre">Operas</field>
 <field name="title">Gamlet (Hamlet)</field>
 <field name="titlesort">Gamlet (Hamlet)</field>
 <field name="composer">Sergey Mikhaylovich Slonimsky</field>
@@ -16,7 +16,6 @@
 <field name="city">Krasnojarsk</field>
 <field name="region">Krasnojarsk Territory</field>
 <field name="country">Russia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gamlet+(Hamlet)+Sergey+Mikhaylovich+Slonimsky&amp;search_field=search</field>
 </doc>
 </add>

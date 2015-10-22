@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960270</field>
+<field name="genre">Operas</field>
 <field name="title">Balseros</field>
 <field name="titlesort">Balseros</field>
 <field name="composer">Robert Ashley</field>
@@ -14,7 +14,6 @@
 <field name="city">Miami Beach</field>
 <field name="region">Florida</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Balseros+Robert+Ashley&amp;search_field=search</field>
 </doc>
 </add>

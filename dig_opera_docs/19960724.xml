@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960724</field>
+<field name="genre">Operas</field>
 <field name="title">Drømmen og Ilden</field>
 <field name="titlesort">Drømmen og Ilden</field>
 <field name="composer">Bertil Palmar Johansen</field>
@@ -16,7 +16,6 @@
 <field name="city">Trondheim</field>
 <field name="region">Sør-Trøndelag</field>
 <field name="country">Norway</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Drømmen+og+Ilden+Bertil+Palmar+Johansen&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962640</field>
+<field name="genre">Operas</field>
 <field name="title">The Magic Stones</field>
 <field name="titlesort">Magic Stones</field>
 <field name="composer">Salvatore Martirano</field>
@@ -14,7 +14,6 @@
 <field name="city">Oberlin</field>
 <field name="region">Ohio</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Magic+Stones+Salvatore+Martirano&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962213</field>
+<field name="genre">Operas</field>
 <field name="title">Santa Iria</field>
 <field name="titlesort">Santa Iria</field>
 <field name="composer">Francisco de Sá Noronha</field>
@@ -13,7 +13,6 @@
 <field name="city">Lisbon</field>
 <field name="region">Lisboa</field>
 <field name="country">Portugal</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santa+Iria+Francisco+de+Sá+Noronha&amp;search_field=search</field>
 </doc>
 </add>

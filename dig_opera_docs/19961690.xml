@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961690</field>
+<field name="genre">Operas</field>
 <field name="title">Matricide</field>
 <field name="titlesort">Matricide</field>
 <field name="composer">Elena Kats-Chernin</field>
@@ -14,7 +14,6 @@
 <field name="city">Melbourne</field>
 <field name="region">Victoria</field>
 <field name="country">Australia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Matricide+Elena+Kats-Chernin&amp;search_field=search</field>
 </doc>
 </add>

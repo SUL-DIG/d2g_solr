@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961400</field>
+<field name="genre">Operas</field>
 <field name="title">La emperatriz de la mentira</field>
 <field name="titlesort">emperatriz de la mentira</field>
 <field name="composer">Dimitri Dudin</field>
@@ -14,7 +14,6 @@
 <field name="city">Tijuana</field>
 <field name="region">Baja California</field>
 <field name="country">Mexico</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=emperatriz+de+la+mentira+Dimitri+Dudin&amp;search_field=search</field>
 </doc>
 </add>

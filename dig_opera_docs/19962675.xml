@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962675</field>
+<field name="genre">Operas</field>
 <field name="title">The Other Half</field>
 <field name="titlesort">Other Half</field>
 <field name="composer">William Copper</field>
@@ -13,7 +13,6 @@
 <field name="city">Middletown</field>
 <field name="region">Delaware</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Other+Half+William+Copper&amp;search_field=search</field>
 </doc>

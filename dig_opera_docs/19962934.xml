@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962934</field>
+<field name="genre">Operas</field>
 <field name="title">Twisted Apples</field>
 <field name="titlesort">Twisted Apples</field>
 <field name="composer">Robert Elhai</field>
@@ -16,7 +16,6 @@
 <field name="city">St. Paul</field>
 <field name="region">Minnesota</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Twisted+Apples+Robert+Elhai&amp;search_field=search</field>
 </doc>
 </add>

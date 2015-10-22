@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961574</field>
+<field name="genre">Operas</field>
 <field name="title">Lo monjo negre</field>
 <field name="titlesort">monjo negre</field>
 <field name="composer">Joaquim Cassadó</field>
@@ -12,7 +12,6 @@
 <field name="city">Barcelona</field>
 <field name="region">Catalunya</field>
 <field name="country">Spain</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=monjo+negre+Joaquim+Cassadó&amp;search_field=search</field>
 </doc>
 </add>

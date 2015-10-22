@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961104</field>
+<field name="genre">Operas</field>
 <field name="title">Home and the River</field>
 <field name="titlesort">Home and the River</field>
 <field name="composer">George Quincy</field>
@@ -14,7 +14,6 @@
 <field name="city">Selden</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Home+and+the+River+George+Quincy&amp;search_field=search</field>
 </doc>
 </add>

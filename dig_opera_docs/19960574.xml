@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960574</field>
+<field name="genre">Operas</field>
 <field name="title">Der Kommissar</field>
 <field name="titlesort">Kommissar</field>
 <field name="composer">Jury Everhartz</field>
@@ -13,7 +13,6 @@
 <field name="theater">Jugendstiltheater</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kommissar+Jury+Everhartz&amp;search_field=search</field>
 </doc>
 </add>

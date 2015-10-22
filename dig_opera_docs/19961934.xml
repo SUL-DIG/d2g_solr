@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961934</field>
+<field name="genre">Operas</field>
 <field name="title">Our American Cousin</field>
 <field name="titlesort">Our American Cousin</field>
 <field name="composer">Eric Sawyer</field>
@@ -14,7 +14,6 @@
 <field name="city">Northampton</field>
 <field name="region">Massachusetts</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Our+American+Cousin+Eric+Sawyer&amp;search_field=search</field>
 </doc>
 </add>

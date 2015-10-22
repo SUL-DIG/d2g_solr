@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962289</field>
+<field name="genre">Operas</field>
 <field name="title">Simón</field>
 <field name="titlesort">Simón</field>
 <field name="composer">Francisco Zumaqué</field>
@@ -14,7 +14,6 @@
 <field name="theater">Institulo Colombiano de Cultura - Biblioteca Nacional</field>
 <field name="city">Bogota</field>
 <field name="country">Columbia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Simón+Francisco+Zumaqué&amp;search_field=search</field>
 </doc>
 </add>

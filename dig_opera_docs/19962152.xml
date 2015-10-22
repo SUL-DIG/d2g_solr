@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962152</field>
+<field name="genre">Operas</field>
 <field name="title">Riders to the Sea</field>
 <field name="titlesort">Riders to the Sea</field>
 <field name="composer">Marga Richter</field>
@@ -14,7 +14,6 @@
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Riders+to+the+Sea+Marga+Richter&amp;search_field=search</field>
 </doc>
 </add>

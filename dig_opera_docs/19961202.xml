@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961202</field>
+<field name="genre">Operas</field>
 <field name="title">Iq et Ox</field>
 <field name="titlesort">Iq et Ox</field>
 <field name="composer">André Bon</field>
@@ -14,7 +14,6 @@
 <field name="city">Metz</field>
 <field name="region">Moselle</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Iq+et+Ox+André+Bon&amp;search_field=search</field>
 </doc>
 </add>

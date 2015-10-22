@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961550</field>
+<field name="genre">Operas</field>
 <field name="title">Life Is a Dream</field>
 <field name="titlesort">Life Is a Dream</field>
 <field name="composer">Lewis Spratlan</field>
@@ -16,7 +16,6 @@
 <field name="city">Santa Fe</field>
 <field name="region">New Mexico</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Life+Is+a+Dream+Lewis+Spratlan&amp;search_field=search</field>
 </doc>
 </add>

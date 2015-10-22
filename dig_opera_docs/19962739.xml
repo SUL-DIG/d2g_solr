@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962739</field>
+<field name="genre">Operas</field>
 <field name="title">The Scrimshaw Violin</field>
 <field name="titlesort">Scrimshaw Violin</field>
 <field name="composer">Bruce Saylor</field>
@@ -14,7 +14,6 @@
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Scrimshaw+Violin+Bruce+Saylor&amp;search_field=search</field>
 </doc>
 </add>

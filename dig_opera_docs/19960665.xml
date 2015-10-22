@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960665</field>
+<field name="genre">Operas</field>
 <field name="title">Die Zugvögel </field>
 <field name="titlesort">Zugvögel </field>
 <field name="composer">Mathias Husmann</field>
@@ -16,7 +16,6 @@
 <field name="city">Stralsund-Putbus</field>
 <field name="region">Mecklenburg-Vorpommern</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zugvögel++Mathias+Husmann&amp;search_field=search</field>
 </doc>
 </add>

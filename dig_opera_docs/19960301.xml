@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960301</field>
+<field name="genre">Operas</field>
 <field name="title">Bellini's War</field>
 <field name="titlesort">Bellini's War</field>
 <field name="composer">Steven Paxton</field>
@@ -14,7 +14,6 @@
 <field name="city">Lubbock</field>
 <field name="region">Texas</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bellini's+War+Steven+Paxton&amp;search_field=search</field>
 </doc>
 </add>

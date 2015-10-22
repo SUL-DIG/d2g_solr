@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960155</field>
+<field name="genre">Operas</field>
 <field name="title">Ancient Songs Of The Universe</field>
 <field name="titlesort">Ancient Songs Of The Universe</field>
 <field name="composer">Roger Ames</field>
@@ -14,7 +14,6 @@
 <field name="city">Garden City</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ancient+Songs+Of+The+Universe+Roger+Ames&amp;search_field=search</field>
 </doc>
 </add>

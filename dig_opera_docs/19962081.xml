@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962081</field>
+<field name="genre">Operas</field>
 <field name="title">Quarry</field>
 <field name="titlesort">Quarry</field>
 <field name="composer">Meredith Monk</field>
@@ -14,7 +14,6 @@
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Quarry+Meredith+Monk&amp;search_field=search</field>
 </doc>
 </add>

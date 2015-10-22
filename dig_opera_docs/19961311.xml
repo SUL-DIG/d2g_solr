@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961311</field>
+<field name="genre">Operas</field>
 <field name="title">KibergOdysseen</field>
 <field name="titlesort">KibergOdysseen</field>
 <field name="composer">Trygve Brøske</field>
@@ -14,7 +14,6 @@
 <field name="city">Tromsø</field>
 <field name="region">Troms</field>
 <field name="country">Norway</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=KibergOdysseen+Trygve+Brøske&amp;search_field=search</field>
 </doc>
 </add>

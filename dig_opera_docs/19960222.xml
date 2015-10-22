@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960222</field>
+<field name="genre">Operas</field>
 <field name="title">At the Hawk's Well</field>
 <field name="titlesort">At the Hawk's Well</field>
 <field name="composer">Nigel Keay</field>
@@ -13,7 +13,6 @@
 <field name="theater">Nelson School of Music</field>
 <field name="city">Nelson</field>
 <field name="country">New Zealand</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=At+the+Hawk's+Well+Nigel+Keay&amp;search_field=search</field>
 </doc>
 </add>

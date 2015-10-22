@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961440</field>
+<field name="genre">Operas</field>
 <field name="title">La princesa y la arveja</field>
 <field name="titlesort">princesa y la arveja</field>
 <field name="composer">Luis Antonio Escobar</field>
@@ -9,7 +9,6 @@
 <field name="year">1957</field>
 <field name="librettist">Hans Christian Andersen</field>
 <field name="librettistsort">Andersen, Hans Christian</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=princesa+y+la+arveja+Luis+Antonio+Escobar&amp;search_field=search</field>
 </doc>
 </add>

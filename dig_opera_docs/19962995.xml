@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962995</field>
+<field name="genre">Operas</field>
 <field name="title">Viento blanco</field>
 <field name="titlesort">Viento blanco</field>
 <field name="composer">Sebastián Errazuriz</field>
@@ -15,7 +15,6 @@
 <field name="theater">Teatro Municipal</field>
 <field name="city">Santiago</field>
 <field name="country">Chile</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Viento+blanco+Sebastián+Errazuriz&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961161</field>
+<field name="genre">Operas</field>
 <field name="title">Il mistero del finto cantante</field>
 <field name="titlesort">mistero del finto cantante</field>
 <field name="composer">Marco Betta</field>
@@ -16,7 +16,6 @@
 <field name="city">Siena</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=mistero+del+finto+cantante+Marco+Betta&amp;search_field=search</field>
 </doc>
 </add>

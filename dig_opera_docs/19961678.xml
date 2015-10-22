@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961678</field>
+<field name="genre">Operas</field>
 <field name="title">Mary Muller, The Secret Suffragette</field>
 <field name="titlesort">Mary Muller, The Secret Suffragette</field>
 <field name="composer">David Griffiths</field>
@@ -13,7 +13,6 @@
 <field name="theater">Waikato University</field>
 <field name="city">Hamilton</field>
 <field name="country">New Zealand</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mary+Muller,+The+Secret+Suffragette+David+Griffiths&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960227</field>
+<field name="genre">Operas</field>
 <field name="title">Atossa</field>
 <field name="titlesort">Atossa</field>
 <field name="composer">Thomas Christian David</field>
@@ -12,7 +12,6 @@
 <field name="theater">Rudaki Hal</field>
 <field name="city">Teheran</field>
 <field name="country">Iran</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Atossa+Thomas+Christian+David&amp;search_field=search</field>
 </doc>
 </add>

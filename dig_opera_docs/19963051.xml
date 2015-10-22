@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19963051</field>
+<field name="genre">Operas</field>
 <field name="title">Where the Cross is Made</field>
 <field name="titlesort">Where the Cross is Made</field>
 <field name="composer">Nancy Van de Vate</field>
@@ -16,7 +16,6 @@
 <field name="city">Normal</field>
 <field name="region">Illinois</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Where+the+Cross+is+Made+Nancy+Van+de+Vate&amp;search_field=search</field>
 </doc>
 </add>

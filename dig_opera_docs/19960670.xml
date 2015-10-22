@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960670</field>
+<field name="genre">Operas</field>
 <field name="title">Dirty Apple</field>
 <field name="titlesort">Dirty Apple</field>
 <field name="composer">Jonathan Henderson</field>
@@ -14,7 +14,6 @@
 <field name="city">Brisbane</field>
 <field name="region">Queensland</field>
 <field name="country">Australia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dirty+Apple+Jonathan+Henderson&amp;search_field=search</field>
 </doc>
 </add>

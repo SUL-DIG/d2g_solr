@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960354</field>
+<field name="genre">Operas</field>
 <field name="title">Bovinus Rex</field>
 <field name="titlesort">Bovinus Rex</field>
 <field name="composer">Rudolf Rojahn</field>
@@ -14,7 +14,6 @@
 <field name="city">Boston</field>
 <field name="region">Massachusetts</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bovinus+Rex+Rudolf+Rojahn&amp;search_field=search</field>
 </doc>
 </add>

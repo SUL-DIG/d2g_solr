@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961116</field>
+<field name="genre">Operas</field>
 <field name="title">Hua Mulan</field>
 <field name="titlesort">Hua Mulan</field>
 <field name="composer">Guo Wenjing</field>
@@ -12,7 +12,6 @@
 <field name="theater">Capital Theatre</field>
 <field name="city">Beijing</field>
 <field name="country">China</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hua+Mulan+Guo+Wenjing&amp;search_field=search</field>
 </doc>
 </add>

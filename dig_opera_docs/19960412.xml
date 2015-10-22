@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960412</field>
+<field name="genre">Operas</field>
 <field name="title">Centones meae urbi</field>
 <field name="titlesort">Centones meae urbi</field>
 <field name="composer">Onutė Narbutaitė</field>
@@ -13,7 +13,6 @@
 <field name="theater">St. Catherine's Church</field>
 <field name="city">Vilnius</field>
 <field name="country">Lithuania</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Centones+meae+urbi+Onutė+Narbutaitė&amp;search_field=search</field>
 </doc>
 </add>

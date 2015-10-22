@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962580</field>
+<field name="genre">Operas</field>
 <field name="title">The Greater Good</field>
 <field name="titlesort">Greater Good</field>
 <field name="composer">Stephen Hartke</field>
@@ -16,7 +16,6 @@
 <field name="city">Cooperstown</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Greater+Good+Stephen+Hartke&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961650</field>
+<field name="genre">Operas</field>
 <field name="title">Manuela y Bolívar</field>
 <field name="titlesort">Manuela y Bolívar</field>
 <field name="composer">Diego Luzuriaga</field>
@@ -13,7 +13,6 @@
 <field name="theater">Teatro Nacional Sucre</field>
 <field name="city">Quito</field>
 <field name="country">Ecuador</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Manuela+y+Bolívar+Diego+Luzuriaga&amp;search_field=search</field>
 </doc>
 </add>

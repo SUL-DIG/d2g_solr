@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960148</field>
+<field name="genre">Operas</field>
 <field name="title">An der schönen blauen Donau</field>
 <field name="titlesort">An der schönen blauen Donau</field>
 <field name="composer">Franz Hummel</field>
@@ -14,7 +14,6 @@
 <field name="city">Klagenfurt</field>
 <field name="region">Kärnten</field>
 <field name="country">Austria</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=An+der+schönen+blauen+Donau+Franz+Hummel&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961841</field>
+<field name="genre">Operas</field>
 <field name="title">Noli me tangere</field>
 <field name="titlesort">Noli me tangere</field>
 <field name="composer">Felipe Padilla de Leon</field>
@@ -14,7 +14,6 @@
 <field name="theater">Far Eastern University</field>
 <field name="city">Manila</field>
 <field name="country">Philippines</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Noli+me+tangere+Felipe+Padilla+de+Leon&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961863</field>
+<field name="genre">Operas</field>
 <field name="title">O scrisoare pierdută (A Lost Letter)</field>
 <field name="titlesort">scrisoare pierdută (A Lost Letter)</field>
 <field name="composer">Dan Dediu</field>
@@ -15,7 +15,6 @@
 <field name="theater">Opera Româna</field>
 <field name="city">Bucharest</field>
 <field name="country">Romania</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=scrisoare+pierdută+(A+Lost+Letter)+Dan+Dediu&amp;search_field=search</field>
 </doc>
 </add>

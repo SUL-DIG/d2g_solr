@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962990</field>
+<field name="genre">Operas</field>
 <field name="title">Veronika Deseniška </field>
 <field name="titlesort">Veronika Deseniška </field>
 <field name="composer">Danilo Švara</field>
@@ -14,7 +14,6 @@
 <field name="librettistsort">Tomić, Josip Eugen</field>
 <field name="city">Ljubljana</field>
 <field name="country">Slovenia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Veronika+Deseniška++Danilo+Švara&amp;search_field=search</field>
 </doc>
 </add>

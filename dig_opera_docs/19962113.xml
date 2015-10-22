@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962113</field>
+<field name="genre">Operas</field>
 <field name="title">Ravenshead</field>
 <field name="titlesort">Ravenshead</field>
 <field name="composer">Steven Mackey</field>
@@ -14,7 +14,6 @@
 <field name="city">State College</field>
 <field name="region">Pennsylvania</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ravenshead+Steven+Mackey&amp;search_field=search</field>
 </doc>
 </add>

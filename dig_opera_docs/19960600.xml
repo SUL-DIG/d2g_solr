@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960600</field>
+<field name="genre">Operas</field>
 <field name="title">Despertar al sueño</field>
 <field name="titlesort">Despertar al sueño</field>
 <field name="composer">Federico Ibarra</field>
@@ -13,7 +13,6 @@
 <field name="theater">Centro Cultural San Ángel</field>
 <field name="city">Mexico City</field>
 <field name="country">Mexico</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Despertar+al+sueño+Federico+Ibarra&amp;search_field=search</field>
 </doc>
 </add>

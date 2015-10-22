@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960300</field>
+<field name="genre">Operas</field>
 <field name="title">Bellarosa</field>
 <field name="titlesort">Bellarosa</field>
 <field name="composer">Mikuláš Schneider-Trnavský</field>
@@ -12,7 +12,6 @@
 <field name="librettistsort">Schneider-Trnavský, Mikuláš</field>
 <field name="city">Bratislava</field>
 <field name="country">Slovakia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bellarosa+Mikuláš+Schneider-Trnavský&amp;search_field=search</field>
 </doc>
 </add>

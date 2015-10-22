@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961431</field>
+<field name="genre">Operas</field>
 <field name="title">La pantera imperial</field>
 <field name="titlesort">pantera imperial</field>
 <field name="composer">Carles Santos</field>
@@ -14,7 +14,6 @@
 <field name="city">Peralada</field>
 <field name="region">Catalunya</field>
 <field name="country">Spain</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=pantera+imperial+Carles+Santos&amp;search_field=search</field>
 </doc>
 </add>

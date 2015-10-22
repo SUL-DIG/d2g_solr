@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962271</field>
+<field name="genre">Operas</field>
 <field name="title">Shiawase no Pagoda (The Happy Pagoda)</field>
 <field name="titlesort">Shiawase no Pagoda (The Happy Pagoda)</field>
 <field name="composer">Minoru Miki</field>
@@ -13,7 +13,6 @@
 <field name="city">Tokushima</field>
 <field name="region">Tokushima</field>
 <field name="country">Japan</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Shiawase+no+Pagoda+(The+Happy+Pagoda)+Minoru+Miki&amp;search_field=search</field>
 </doc>
 </add>

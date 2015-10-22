@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960932</field>
+<field name="genre">Operas</field>
 <field name="title">From Little to Less</field>
 <field name="titlesort">From Little to Less</field>
 <field name="composer">Lionel Lackey</field>
@@ -14,7 +14,6 @@
 <field name="city">Greencastle</field>
 <field name="region">Indiana</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=From+Little+to+Less+Lionel+Lackey&amp;search_field=search</field>
 </doc>
 </add>

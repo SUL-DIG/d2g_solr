@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961746</field>
+<field name="genre">Operas</field>
 <field name="title">Moby Dick: Scenes from an Imaginary Opera</field>
 <field name="titlesort">Moby Dick: Scenes from an Imaginary Opera</field>
 <field name="composer">Peter Westergaard</field>
@@ -16,7 +16,6 @@
 <field name="city">Princeton</field>
 <field name="region">New Jersey</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Moby+Dick:+Scenes+from+an+Imaginary+Opera+Peter+Westergaard&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961925</field>
+<field name="genre">Operas</field>
 <field name="title">Orquídeas Azules</field>
 <field name="titlesort">Orquídeas Azules</field>
 <field name="composer">María Luisa Escobar</field>
@@ -12,7 +12,6 @@
 <field name="theater">Teatro Municipal</field>
 <field name="city">Caracas</field>
 <field name="country">Venezuela</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orquídeas+Azules+María+Luisa+Escobar&amp;search_field=search</field>
 </doc>
 </add>

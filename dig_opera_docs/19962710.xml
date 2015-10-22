@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962710</field>
+<field name="genre">Operas</field>
 <field name="title">The Queen and the Dragon</field>
 <field name="titlesort">Queen and the Dragon</field>
 <field name="composer">Jonathan Price</field>
@@ -16,7 +16,6 @@
 <field name="city">North Hollywood</field>
 <field name="region">California</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Queen+and+the+Dragon+Jonathan+Price&amp;search_field=search</field>
 </doc>
 </add>

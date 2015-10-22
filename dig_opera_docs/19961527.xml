@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961527</field>
+<field name="genre">Operas</field>
 <field name="title">Les enfants terribles</field>
 <field name="titlesort">enfants terribles</field>
 <field name="composer">Philip Glass</field>
@@ -14,7 +14,6 @@
 <field name="city">Zug</field>
 <field name="region">Zug</field>
 <field name="country">Switzerland</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=enfants+terribles+Philip+Glass&amp;search_field=search</field>
 </doc>
 </add>

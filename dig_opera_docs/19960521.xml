@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960521</field>
+<field name="genre">Operas</field>
 <field name="title">De grote verzoeking van Sint-Antonius</field>
 <field name="titlesort">grote verzoeking van Sint-Antonius</field>
 <field name="composer">Louis de Meester</field>
@@ -14,7 +14,6 @@
 <field name="city">Antwerp</field>
 <field name="region">Antwerpen</field>
 <field name="country">Belgium</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=grote+verzoeking+van+Sint-Antonius+Louis+de+Meester&amp;search_field=search</field>
 </doc>
 </add>

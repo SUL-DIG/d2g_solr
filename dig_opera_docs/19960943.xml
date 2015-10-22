@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960943</field>
+<field name="genre">Operas</field>
 <field name="title">Gabriel's Daughter</field>
 <field name="titlesort">Gabriel's Daughter</field>
 <field name="composer">Henry Mollicone</field>
@@ -14,7 +14,6 @@
 <field name="city">Central City</field>
 <field name="region">Colorado </field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gabriel's+Daughter+Henry+Mollicone&amp;search_field=search</field>
 </doc>
 </add>

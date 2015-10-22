@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961627</field>
+<field name="genre">Operas</field>
 <field name="title">Mae Mona</field>
 <field name="titlesort">Mae Mona</field>
 <field name="composer">Christoph Ehrenfellner</field>
@@ -13,7 +13,6 @@
 <field name="theater">Musikwerkstatt Wien</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mae+Mona+Christoph+Ehrenfellner&amp;search_field=search</field>
 </doc>
 </add>

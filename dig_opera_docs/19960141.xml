@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960141</field>
+<field name="genre">Operas</field>
 <field name="title">Americana, or, A New Tale of the Genii</field>
 <field name="titlesort">Americana, or, A New Tale of the Genii</field>
 <field name="composer">Neely Bruce</field>
@@ -14,7 +14,6 @@
 <field name="city">New Haven</field>
 <field name="region">Connecticut</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Americana,+or,+A+New+Tale+of+the+Genii+Neely+Bruce&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960851</field>
+<field name="genre">Operas</field>
 <field name="title">Falketеrnet</field>
 <field name="titlesort">Falketеrnet</field>
 <field name="composer">Gisle Kverndokk</field>
@@ -14,7 +14,6 @@
 <field name="city">Skien</field>
 <field name="region">Telemark</field>
 <field name="country">Norway</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Falketеrnet+Gisle+Kverndokk&amp;search_field=search</field>
 </doc>
 </add>

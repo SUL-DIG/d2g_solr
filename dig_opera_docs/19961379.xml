@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961379</field>
+<field name="genre">Operas</field>
 <field name="title">La bête dans la jungle</field>
 <field name="titlesort">bête dans la jungle</field>
 <field name="composer">Arnaud Petit</field>
@@ -16,7 +16,6 @@
 <field name="city">Le Blanc-Mesnil</field>
 <field name="region">Seine-Saint-Denis</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=bête+dans+la+jungle+Arnaud+Petit&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960041</field>
+<field name="genre">Operas</field>
 <field name="title">A Hill of Bones</field>
 <field name="titlesort">Hill of Bones</field>
 <field name="composer">Persis Anne Parshall Vehar</field>
@@ -14,7 +14,6 @@
 <field name="city">Buffalo</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hill+of+Bones+Persis+Anne+Parshall+Vehar&amp;search_field=search</field>
 </doc>
 </add>

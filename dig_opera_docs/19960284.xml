@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960284</field>
+<field name="genre">Operas</field>
 <field name="title">Batavia</field>
 <field name="titlesort">Batavia</field>
 <field name="composer">Richard Mills</field>
@@ -14,7 +14,6 @@
 <field name="city">Melbourne</field>
 <field name="region">Victoria</field>
 <field name="country">Australia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Batavia+Richard+Mills&amp;search_field=search</field>
 </doc>
 </add>

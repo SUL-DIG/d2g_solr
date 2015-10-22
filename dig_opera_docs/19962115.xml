@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962115</field>
+<field name="genre">Operas</field>
 <field name="title">Razdelba (Separation)</field>
 <field name="titlesort">Razdelba (Separation)</field>
 <field name="composer">Trajko Prokopiev</field>
@@ -12,7 +12,6 @@
 <field name="theater">Makedonska Opera i Balet</field>
 <field name="city">Skopje</field>
 <field name="country">Macedonia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Razdelba+(Separation)+Trajko+Prokopiev&amp;search_field=search</field>
 </doc>
 </add>

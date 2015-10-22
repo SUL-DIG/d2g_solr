@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960690</field>
+<field name="genre">Operas</field>
 <field name="title">Don Perlimplín</field>
 <field name="titlesort">Don Perlimplín</field>
 <field name="composer">János Vajda</field>
@@ -14,7 +14,6 @@
 <field name="city">Debrecen</field>
 <field name="region">Hajdú-Bihar</field>
 <field name="country">Hungary</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Perlimplín+János+Vajda&amp;search_field=search</field>
 </doc>
 </add>

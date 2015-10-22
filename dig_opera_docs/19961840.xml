@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961840</field>
+<field name="genre">Operas</field>
 <field name="title">Nokon kjem til å komme (Someone Is Going to Come)</field>
 <field name="titlesort">Nokon kjem til å komme (Someone Is Going to Come)</field>
 <field name="composer">Knut Vaage</field>
@@ -13,7 +13,6 @@
 <field name="theater">Black Box Teater</field>
 <field name="city">Oslo</field>
 <field name="country">Norway</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nokon+kjem+til+å+komme+(Someone+Is+Going+to+Come)+Knut+Vaage&amp;search_field=search</field>
 </doc>
 </add>

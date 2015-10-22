@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960282</field>
+<field name="genre">Operas</field>
 <field name="title">Baruchs Schweigen</field>
 <field name="titlesort">Baruchs Schweigen</field>
 <field name="composer">Ella Milch-Sheriff</field>
@@ -16,7 +16,6 @@
 <field name="city">Brunswick</field>
 <field name="region">Niedersachsen</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Baruchs+Schweigen+Ella+Milch-Sheriff&amp;search_field=search</field>
 </doc>
 </add>

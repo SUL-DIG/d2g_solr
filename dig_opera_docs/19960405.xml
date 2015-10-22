@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960405</field>
+<field name="genre">Operas</field>
 <field name="title">Cat Man’s Tale</field>
 <field name="titlesort">Cat Man’s Tale</field>
 <field name="composer">Alasdair Nicolson</field>
@@ -14,7 +14,6 @@
 <field name="city">Lerwick</field>
 <field name="region">Shetland Islands</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cat+Man’s+Tale+Alasdair+Nicolson&amp;search_field=search</field>
 </doc>
 </add>

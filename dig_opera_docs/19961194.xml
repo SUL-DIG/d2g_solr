@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961194</field>
+<field name="genre">Operas</field>
 <field name="title">Inte alla tjuvar kommer för att stjäla</field>
 <field name="titlesort">Inte alla tjuvar kommer för att stjäla</field>
 <field name="composer">Thomas Lindahl</field>
@@ -16,7 +16,6 @@
 <field name="city">Ystad</field>
 <field name="region">Skåne</field>
 <field name="country">Sweden</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Inte+alla+tjuvar+kommer+för+att+stjäla+Thomas+Lindahl&amp;search_field=search</field>
 </doc>
 </add>

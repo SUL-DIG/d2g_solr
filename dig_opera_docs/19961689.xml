@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961689</field>
+<field name="genre">Operas</field>
 <field name="title">Matilda ja Nikolai</field>
 <field name="titlesort">Matilda ja Nikolai</field>
 <field name="composer">lkka Kuusisto</field>
@@ -14,7 +14,6 @@
 <field name="city">Pori</field>
 <field name="region">Satakunta</field>
 <field name="country">Finland</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Matilda+ja+Nikolai+lkka+Kuusisto&amp;search_field=search</field>
 </doc>
 </add>

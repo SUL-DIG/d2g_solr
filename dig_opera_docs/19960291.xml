@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960291</field>
+<field name="genre">Operas</field>
 <field name="title">Beauty and the Beast</field>
 <field name="titlesort">Beauty and the Beast</field>
 <field name="composer">Michael Easton</field>
@@ -14,7 +14,6 @@
 <field name="city">Melbourne</field>
 <field name="region">Victoria</field>
 <field name="country">Australia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beauty+and+the+Beast+Michael+Easton&amp;search_field=search</field>
 </doc>
 </add>

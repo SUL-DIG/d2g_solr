@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961271</field>
+<field name="genre">Operas</field>
 <field name="title">Käärmeen hetki (The Hour of Snake)</field>
 <field name="titlesort">Käärmeen hetki (The Hour of Snake)</field>
 <field name="composer">Mikko Heiniö</field>
@@ -14,7 +14,6 @@
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>
 <field name="country">Finland</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Käärmeen+hetki+(The+Hour+of+Snake)+Mikko+Heiniö&amp;search_field=search</field>
 </doc>
 </add>

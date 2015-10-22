@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960816</field>
+<field name="genre">Operas</field>
 <field name="title">Ernest Worthing</field>
 <field name="titlesort">Ernest Worthing</field>
 <field name="composer">John Biggs</field>
@@ -16,7 +16,6 @@
 <field name="city">Ventura</field>
 <field name="region">California</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ernest+Worthing+John+Biggs&amp;search_field=search</field>
 </doc>
 </add>

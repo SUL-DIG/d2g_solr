@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962851</field>
+<field name="genre">Operas</field>
 <field name="title">The Wondrous Tale of Fanferlizzy Sunnyfeet </field>
 <field name="titlesort">Wondrous Tale of Fanferlizzy Sunnyfeet </field>
 <field name="composer">Kurt Schwertsik</field>
@@ -16,7 +16,6 @@
 <field name="city">Stuttgart</field>
 <field name="region">Baden-Württemberg</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wondrous+Tale+of+Fanferlizzy+Sunnyfeet +Kurt+Schwertsik&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960489</field>
+<field name="genre">Operas</field>
 <field name="title">Dantes Inferno und der Weg ins Paradies</field>
 <field name="titlesort">Dantes Inferno und der Weg ins Paradies</field>
 <field name="composer">Esther Hilsberg</field>
@@ -12,7 +12,6 @@
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dantes+Inferno+und+der+Weg+ins+Paradies+Esther+Hilsberg&amp;search_field=search</field>
 </doc>
 </add>

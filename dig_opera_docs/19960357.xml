@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960357</field>
+<field name="genre">Operas</field>
 <field name="title">Brat'ya Karamazovy (The Brothers Karamazov)</field>
 <field name="titlesort">Brat'ya Karamazovy (The Brothers Karamazov)</field>
 <field name="composer">Aleksandr Smelkov</field>
@@ -15,7 +15,6 @@
 <field name="theater">Mariinsky Teatr</field>
 <field name="city">St. Petersburg</field>
 <field name="country">Russia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Brat'ya+Karamazovy+(The+Brothers+Karamazov)+Aleksandr+Smelkov&amp;search_field=search</field>
 </doc>
 </add>

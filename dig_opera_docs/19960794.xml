@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960794</field>
+<field name="genre">Operas</field>
 <field name="title">Emilia Galotti</field>
 <field name="titlesort">Emilia Galotti</field>
 <field name="composer">Moïse Simons</field>
@@ -14,7 +14,6 @@
 <field name="city">Koblenz</field>
 <field name="region">Rheinland-Pfalz</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Emilia+Galotti+Moïse+Simons&amp;search_field=search</field>
 </doc>
 </add>

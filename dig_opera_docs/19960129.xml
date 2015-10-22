@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960129</field>
+<field name="genre">Operas</field>
 <field name="title">Alpha and Omega</field>
 <field name="titlesort">Alpha and Omega</field>
 <field name="composer">Gil Shohat</field>
@@ -15,7 +15,6 @@
 <field name="theater">Israeli Opera</field>
 <field name="city">Tel Aviv</field>
 <field name="country">Israel</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alpha+and+Omega+Gil+Shohat&amp;search_field=search</field>
 </doc>
 </add>

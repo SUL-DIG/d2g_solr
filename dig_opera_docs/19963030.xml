@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19963030</field>
+<field name="genre">Operas</field>
 <field name="title">Wagner Dream</field>
 <field name="titlesort">Wagner Dream</field>
 <field name="composer">Jonathan Harvey</field>
@@ -13,7 +13,6 @@
 <field name="theater">Grand Théâtre</field>
 <field name="city">Luxembourg</field>
 <field name="country">Luxembourg</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wagner+Dream+Jonathan+Harvey&amp;search_field=search</field>
 </doc>
 </add>

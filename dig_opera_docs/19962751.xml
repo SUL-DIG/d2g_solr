@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962751</field>
+<field name="genre">Operas</field>
 <field name="title">The Servant</field>
 <field name="titlesort">Servant</field>
 <field name="composer">Marco Tutino</field>
@@ -16,7 +16,6 @@
 <field name="city">Plzen</field>
 <field name="region">Západocesky Kraj</field>
 <field name="country">Czech Republic</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Servant+Marco+Tutino&amp;search_field=search</field>
 </doc>
 </add>

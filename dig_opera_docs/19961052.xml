@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961052</field>
+<field name="genre">Operas</field>
 <field name="title">Hasekura Tsunenaga's "Faraway Sail"</field>
 <field name="titlesort">Hasekura Tsunenaga's "Faraway Sail"</field>
 <field name="composer">Akira Miyoshi</field>
@@ -14,7 +14,6 @@
 <field name="city">Tokyo</field>
 <field name="region">Tokyo</field>
 <field name="country">Japan</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hasekura+Tsunenaga's+"Faraway+Sail"+Akira+Miyoshi&amp;search_field=search</field>
 </doc>
 </add>

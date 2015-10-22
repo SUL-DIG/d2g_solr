@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962876</field>
+<field name="genre">Operas</field>
 <field name="title">Till Victory Is Won</field>
 <field name="titlesort">Till Victory Is Won</field>
 <field name="composer">Mark Fax</field>
@@ -14,7 +14,6 @@
 <field name="city">Washington</field>
 <field name="region">District of Columbia</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Till+Victory+Is+Won+Mark+Fax&amp;search_field=search</field>
 </doc>
 </add>

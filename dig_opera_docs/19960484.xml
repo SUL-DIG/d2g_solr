@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960484</field>
+<field name="genre">Operas</field>
 <field name="title">D.Q., Don Quijote en Barcelona</field>
 <field name="titlesort">D.Q., Don Quijote en Barcelona</field>
 <field name="composer">José Luis Turina</field>
@@ -16,7 +16,6 @@
 <field name="city">Barcelona</field>
 <field name="region">Catalunya</field>
 <field name="country">Spain</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=D.Q.,+Don+Quijote+en+Barcelona+José+Luis+Turina&amp;search_field=search</field>
 </doc>
 </add>

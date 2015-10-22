@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960850</field>
+<field name="genre">Operas</field>
 <field name="title">Falcone e Borsellino</field>
 <field name="titlesort">Falcone e Borsellino</field>
 <field name="composer">Antonio Fortunato</field>
@@ -14,7 +14,6 @@
 <field name="city">Pisa</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Falcone+e+Borsellino+Antonio+Fortunato&amp;search_field=search</field>
 </doc>
 </add>

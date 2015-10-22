@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962195</field>
+<field name="genre">Operas</field>
 <field name="title">Runon lintu ja liekki (Poem Bird and Flame)</field>
 <field name="titlesort">Runon lintu ja liekki (Poem Bird and Flame)</field>
 <field name="composer">Risto Vähäsarja</field>
@@ -14,7 +14,6 @@
 <field name="city">Vaala</field>
 <field name="region">Kainuu</field>
 <field name="country">Finland</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Runon+lintu+ja+liekki+(Poem+Bird+and+Flame)+Risto+Vähäsarja&amp;search_field=search</field>
 </doc>
 </add>

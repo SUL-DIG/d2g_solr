@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961686</field>
+<field name="genre">Operas</field>
 <field name="title">Master i Margarita</field>
 <field name="titlesort">Master i Margarita</field>
 <field name="composer">Sergey Mikhaylovich Slonimsky</field>
@@ -14,7 +14,6 @@
 <field name="theater">House of Composers</field>
 <field name="city">St. Petersburg</field>
 <field name="country">Russia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Master+i+Margarita+Sergey+Mikhaylovich+Slonimsky&amp;search_field=search</field>
 </doc>
 </add>

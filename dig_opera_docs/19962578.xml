@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962578</field>
+<field name="genre">Operas</field>
 <field name="title">The Grapes of Wrath</field>
 <field name="titlesort">Grapes of Wrath</field>
 <field name="composer">Ricky Ian Gordon</field>
@@ -16,7 +16,6 @@
 <field name="city">St. Paul</field>
 <field name="region">Minnesota</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Grapes+of+Wrath+Ricky+Ian+Gordon&amp;search_field=search</field>
 </doc>
 </add>

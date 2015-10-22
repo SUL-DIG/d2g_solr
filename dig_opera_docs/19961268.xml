@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961268</field>
+<field name="genre">Operas</field>
 <field name="title">Ka und der Pavian</field>
 <field name="titlesort">Ka und der Pavian</field>
 <field name="composer">Wolfgang Mitterer</field>
@@ -14,7 +14,6 @@
 <field name="city">Darmstadt</field>
 <field name="region">Hessen</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ka+und+der+Pavian+Wolfgang+Mitterer&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962976</field>
+<field name="genre">Operas</field>
 <field name="title">Vanadzins (The Little Hawk)</field>
 <field name="titlesort">Vanadzins (The Little Hawk)</field>
 <field name="composer">Olgerts Gravitis</field>
@@ -10,7 +10,6 @@
 <field name="theater">Latvian Television (Latvijas Televizija)</field>
 <field name="city">Riga</field>
 <field name="country">Latvia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vanadzins+(The+Little+Hawk)+Olgerts+Gravitis&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960475</field>
+<field name="genre">Operas</field>
 <field name="title">Crux dissimulata (Concealed Cross)</field>
 <field name="titlesort">Crux dissimulata (Concealed Cross)</field>
 <field name="composer">Srečko Bradić</field>
@@ -13,7 +13,6 @@
 <field name="theater">Hrvatsko Narodno Kazaliste</field>
 <field name="city">Zagreb</field>
 <field name="country">Croatia</field>
-<field name="genre">Opera</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Crux+dissimulata+(Concealed+Cross)+Srečko+Bradić&amp;search_field=search</field>
 </doc>

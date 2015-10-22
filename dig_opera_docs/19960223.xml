@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960223</field>
+<field name="genre">Operas</field>
 <field name="title">At the Statue of Venus</field>
 <field name="titlesort">At the Statue of Venus</field>
 <field name="composer">Jake Heggie</field>
@@ -14,7 +14,6 @@
 <field name="city">Denver</field>
 <field name="region">Colorado</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=At+the+Statue+of+Venus+Jake+Heggie&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962197</field>
+<field name="genre">Operas</field>
 <field name="title">S.</field>
 <field name="titlesort">S.</field>
 <field name="composer">Ronald Perera</field>
@@ -16,7 +16,6 @@
 <field name="city">Northampton</field>
 <field name="region">Massachusetts</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=S.+Ronald+Perera&amp;search_field=search</field>
 </doc>
 </add>

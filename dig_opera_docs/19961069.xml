@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961069</field>
+<field name="genre">Operas</field>
 <field name="title">Helsinkiin (To Helsinki)</field>
 <field name="titlesort">Helsinkiin (To Helsinki)</field>
 <field name="composer">Pasi Lyytikäinen</field>
@@ -16,7 +16,6 @@
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>
 <field name="country">Finland</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Helsinkiin+(To+Helsinki)+Pasi+Lyytikäinen&amp;search_field=search</field>
 </doc>
 </add>

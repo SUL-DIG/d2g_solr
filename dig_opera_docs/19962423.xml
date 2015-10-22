@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962423</field>
+<field name="genre">Operas</field>
 <field name="title">Tanter (Aunties)</field>
 <field name="titlesort">Tanter (Aunties)</field>
 <field name="composer">Thomas Jennefelt</field>
@@ -16,7 +16,6 @@
 <field name="city">Örebro</field>
 <field name="region">Örebro</field>
 <field name="country">Sweden</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tanter+(Aunties)+Thomas+Jennefelt&amp;search_field=search</field>
 </doc>
 </add>

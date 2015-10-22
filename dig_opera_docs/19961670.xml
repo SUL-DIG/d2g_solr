@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961670</field>
+<field name="genre">Operas</field>
 <field name="title">Marnotratný syn (The Prodigal Son)</field>
 <field name="titlesort">Marnotratný syn (The Prodigal Son)</field>
 <field name="composer">Miloš Sokola</field>
@@ -14,7 +14,6 @@
 <field name="city">Olomouc</field>
 <field name="region">Severomoravsky Kraj</field>
 <field name="country">Czech Republic</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marnotratný+syn+(The+Prodigal+Son)+Miloš+Sokola&amp;search_field=search</field>
 </doc>
 </add>

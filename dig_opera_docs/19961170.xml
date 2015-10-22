@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961170</field>
+<field name="genre">Operas</field>
 <field name="title">Il vestito nuovo dell’Imperatore (The Emperor's New Clothes)</field>
 <field name="titlesort">vestito nuovo dell’Imperatore (The Emperor's New Clothes)</field>
 <field name="composer">Paolo Furlani</field>
@@ -16,7 +16,6 @@
 <field name="city">Savona</field>
 <field name="region">Liguria</field>
 <field name="country">Italy</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=vestito+nuovo+dell’Imperatore+(The+Emperor's+New+Clothes)+Paolo+Furlani&amp;search_field=search</field>
 </doc>
 </add>

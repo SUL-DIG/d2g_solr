@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962660</field>
+<field name="genre">Operas</field>
 <field name="title">The Mummer's Revel and the Masque of the Apple</field>
 <field name="titlesort">Mummer's Revel and the Masque of the Apple</field>
 <field name="composer">Kurt Schindler</field>
@@ -15,7 +15,6 @@
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mummer's+Revel+and+the+Masque+of+the+Apple+Kurt+Schindler&amp;search_field=search</field>
 </doc>
 </add>

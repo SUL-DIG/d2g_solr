@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962954</field>
+<field name="genre">Operas</field>
 <field name="title">Undankbare Biester</field>
 <field name="titlesort">Undankbare Biester</field>
 <field name="composer">Marcell Dargay</field>
@@ -14,7 +14,6 @@
 <field name="city">Munich</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Undankbare+Biester+Marcell+Dargay&amp;search_field=search</field>
 </doc>
 </add>

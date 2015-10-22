@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960080</field>
+<field name="genre">Operas</field>
 <field name="title">Affaire étrangère</field>
 <field name="titlesort">Affaire étrangère</field>
 <field name="composer">Valentin Villenave</field>
@@ -14,7 +14,6 @@
 <field name="city">Montpellier</field>
 <field name="region">Hérault</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Affaire+étrangère+Valentin+Villenave&amp;search_field=search</field>
 </doc>
 </add>

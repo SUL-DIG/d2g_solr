@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961028</field>
+<field name="genre">Operas</field>
 <field name="title">H. H. Ulysse</field>
 <field name="titlesort">H. H. Ulysse</field>
 <field name="composer">Jean Prodromidès</field>
@@ -14,7 +14,6 @@
 <field name="city">Strasbourg</field>
 <field name="region">Bas-Rhin</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=H.+H.+Ulysse+Jean+Prodromidès&amp;search_field=search</field>
 </doc>
 </add>

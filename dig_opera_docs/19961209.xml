@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961209</field>
+<field name="genre">Operas</field>
 <field name="title">It Began with a Pony</field>
 <field name="titlesort">It Began with a Pony</field>
 <field name="composer">Dorothy Buchanan</field>
@@ -15,7 +15,6 @@
 <field name="theater">Wellesley Club</field>
 <field name="city">Wellington</field>
 <field name="country">New Zealand</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=It+Began+with+a+Pony+Dorothy+Buchanan&amp;search_field=search</field>
 </doc>
 </add>

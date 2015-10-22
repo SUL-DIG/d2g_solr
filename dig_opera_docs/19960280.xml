@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960280</field>
+<field name="genre">Operas</field>
 <field name="title">Baron Munchhausen</field>
 <field name="titlesort">Baron Munchhausen</field>
 <field name="composer">Wolfgang Mitterer</field>
@@ -13,7 +13,6 @@
 <field name="theater">Rabenhof Theater</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Baron+Munchhausen+Wolfgang+Mitterer&amp;search_field=search</field>
 </doc>
 </add>

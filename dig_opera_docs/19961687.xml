@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961687</field>
+<field name="genre">Operas</field>
 <field name="title">Master Pieces</field>
 <field name="titlesort">Master Pieces</field>
 <field name="composer">Petr Kotik</field>
@@ -16,7 +16,6 @@
 <field name="city">Ostrava</field>
 <field name="region">Severomoravsky Kraj</field>
 <field name="country">Czech Republic</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Master+Pieces+Petr+Kotik&amp;search_field=search</field>
 </doc>
 </add>

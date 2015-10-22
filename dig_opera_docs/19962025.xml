@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962025</field>
+<field name="genre">Operas</field>
 <field name="title">Poe 2, Hawthorne 1</field>
 <field name="titlesort">Poe 2, Hawthorne 1</field>
 <field name="composer">David Bernstein</field>
@@ -14,7 +14,6 @@
 <field name="city">Akron</field>
 <field name="region">Ohio</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Poe+2,+Hawthorne+1+David+Bernstein&amp;search_field=search</field>
 </doc>
 </add>

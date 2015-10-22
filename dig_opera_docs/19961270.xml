@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961270</field>
+<field name="genre">Operas</field>
 <field name="title">Käärme (The Snake)</field>
 <field name="titlesort">Käärme (The Snake)</field>
 <field name="composer">Ilpo Saastamoinen</field>
@@ -13,7 +13,6 @@
 <field name="city">Äkäslompolo</field>
 <field name="region">Lappi</field>
 <field name="country">Finland</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Käärme+(The+Snake)+Ilpo+Saastamoinen&amp;search_field=search</field>
 </doc>
 </add>

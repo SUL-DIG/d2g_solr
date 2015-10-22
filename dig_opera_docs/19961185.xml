@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961185</field>
+<field name="genre">Operas</field>
 <field name="title">Indriķa hronika (Chronicle of Henry)</field>
 <field name="titlesort">Indriķa hronika (Chronicle of Henry)</field>
 <field name="composer">Jānis Lūsēns</field>
@@ -12,7 +12,6 @@
 <field name="theater">Latvijas Nacionalais Teatris</field>
 <field name="city">Riga</field>
 <field name="country">Latvia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Indriķa+hronika+(Chronicle+of+Henry)+Jānis+Lūsēns&amp;search_field=search</field>
 </doc>
 </add>

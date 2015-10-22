@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962342</field>
+<field name="genre">Operas</field>
 <field name="title">Space Opera</field>
 <field name="titlesort">Space Opera</field>
 <field name="composer">David Bass</field>
@@ -14,7 +14,6 @@
 <field name="city">Cambridge</field>
 <field name="region">Massachusetts</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Space+Opera+David+Bass&amp;search_field=search</field>
 </doc>
 </add>

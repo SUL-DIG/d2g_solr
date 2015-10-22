@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960323</field>
+<field name="genre">Operas</field>
 <field name="title">Birgitta-Musik I: På Finsta 1316</field>
 <field name="titlesort">Birgitta-Musik I: På Finsta 1316</field>
 <field name="composer">Sven-David Sandström</field>
@@ -14,7 +14,6 @@
 <field name="city">Vadstena</field>
 <field name="region">Östergötland</field>
 <field name="country">Sweden</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Birgitta-Musik+I:+På+Finsta+1316+Sven-David+Sandström&amp;search_field=search</field>
 </doc>
 </add>

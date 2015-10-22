@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960391</field>
+<field name="genre">Operas</field>
 <field name="title">Cankarjev dom</field>
 <field name="titlesort">Cankarjev dom</field>
 <field name="composer">Tomaž Svete</field>
@@ -12,7 +12,6 @@
 <field name="theater">Radio Ljubljana</field>
 <field name="city">Ljubljana</field>
 <field name="country">Slovenia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cankarjev+dom+Tomaž+Svete&amp;search_field=search</field>
 </doc>
 </add>

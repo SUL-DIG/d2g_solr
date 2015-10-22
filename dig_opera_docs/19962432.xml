@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962432</field>
+<field name="genre">Operas</field>
 <field name="title">Terem-teremok (The Little Tower Chamber)</field>
 <field name="titlesort">Terem-teremok (The Little Tower Chamber)</field>
 <field name="composer">Ilya Polskiy</field>
@@ -16,7 +16,6 @@
 <field name="city">Minsk</field>
 <field name="region">Minsk Oblast</field>
 <field name="country">Belarus</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Terem-teremok+(The+Little+Tower+Chamber)+Ilya+Polskiy&amp;search_field=search</field>
 </doc>
 </add>

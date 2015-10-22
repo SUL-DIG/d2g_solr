@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19963118</field>
+<field name="genre">Operas</field>
 <field name="title">Zwycięstwo nad słońcem</field>
 <field name="titlesort">Zwycięstwo nad słońcem</field>
 <field name="composer">Sławomir Wojciechowski</field>
@@ -13,7 +13,6 @@
 <field name="theater">Teatr Wielki</field>
 <field name="city">Warsaw</field>
 <field name="country">Poland</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zwycięstwo+nad+słońcem+Sławomir+Wojciechowski&amp;search_field=search</field>
 </doc>
 </add>

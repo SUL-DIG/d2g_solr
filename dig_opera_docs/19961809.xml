@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961809</field>
+<field name="genre">Operas</field>
 <field name="title">Natura viva</field>
 <field name="titlesort">Natura viva</field>
 <field name="composer">Marco Betta</field>
@@ -14,7 +14,6 @@
 <field name="city">Florence</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Natura+viva+Marco+Betta&amp;search_field=search</field>
 </doc>
 </add>

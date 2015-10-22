@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960516</field>
+<field name="genre">Operas</field>
 <field name="title">Dauka</field>
 <field name="titlesort">Dauka</field>
 <field name="composer">Andris Dzenītis</field>
@@ -13,7 +13,6 @@
 <field name="theater">Latviyskiy Teatr Operï i Baleta</field>
 <field name="city">Riga</field>
 <field name="country">Latvia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dauka+Andris+Dzenītis&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19963025</field>
+<field name="genre">Operas</field>
 <field name="title">Voyager</field>
 <field name="titlesort">Voyager</field>
 <field name="composer">Sławomir Kupczak</field>
@@ -13,7 +13,6 @@
 <field name="theater">Teatr Wielki</field>
 <field name="city">Warsaw</field>
 <field name="country">Poland</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Voyager+Sławomir+Kupczak&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960448</field>
+<field name="genre">Operas</field>
 <field name="title">Claude</field>
 <field name="titlesort">Claude</field>
 <field name="composer">Thierry Escaich</field>
@@ -16,7 +16,6 @@
 <field name="city">Lyon</field>
 <field name="region">Rhône du Lyonnais</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Claude+Thierry+Escaich&amp;search_field=search</field>
 </doc>
 </add>

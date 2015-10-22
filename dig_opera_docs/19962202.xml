@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962202</field>
+<field name="genre">Operas</field>
 <field name="title">Safe Word</field>
 <field name="titlesort">Safe Word</field>
 <field name="composer">Robert Paterson </field>
@@ -14,7 +14,6 @@
 <field name="city">Fort Worth</field>
 <field name="region">Texas</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Safe+Word+Robert+Paterson+&amp;search_field=search</field>
 </doc>
 </add>

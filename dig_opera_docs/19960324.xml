@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960324</field>
+<field name="genre">Operas</field>
 <field name="title">Birthday</field>
 <field name="titlesort">Birthday</field>
 <field name="composer">George Fenton</field>
@@ -13,7 +13,6 @@
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Birthday+George+Fenton&amp;search_field=search</field>
 </doc>
 </add>

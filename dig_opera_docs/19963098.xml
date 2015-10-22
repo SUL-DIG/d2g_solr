@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19963098</field>
+<field name="genre">Operas</field>
 <field name="title">Zauberflote 06</field>
 <field name="titlesort">Zauberflote 06</field>
 <field name="composer">Thomas Pernes</field>
@@ -15,7 +15,6 @@
 <field name="theater">Halle E im Museumsquartier</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zauberflote+06+Thomas+Pernes&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960596</field>
+<field name="genre">Operas</field>
 <field name="title">Der Zauberer von Oz</field>
 <field name="titlesort">Zauberer von Oz</field>
 <field name="composer">Christian Gundlach</field>
@@ -14,7 +14,6 @@
 <field name="city">Hof</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zauberer+von+Oz+Christian+Gundlach&amp;search_field=search</field>
 </doc>
 </add>

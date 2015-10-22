@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960057</field>
+<field name="genre">Operas</field>
 <field name="title">A Shipwreck Opera</field>
 <field name="titlesort">Shipwreck Opera</field>
 <field name="composer">John B. Hedges</field>
@@ -14,7 +14,6 @@
 <field name="city">Carrboro</field>
 <field name="region">North Carolina</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Shipwreck+Opera+John+B.+Hedges&amp;search_field=search</field>
 </doc>

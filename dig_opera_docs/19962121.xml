@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962121</field>
+<field name="genre">Operas</field>
 <field name="title">Red Rubber</field>
 <field name="titlesort">Red Rubber</field>
 <field name="composer">Dirk D'Ase</field>
@@ -14,7 +14,6 @@
 <field name="city">Antwerp</field>
 <field name="region">Antwerpen</field>
 <field name="country">Belgium</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Red+Rubber+Dirk+D'Ase&amp;search_field=search</field>
 </doc>
 </add>

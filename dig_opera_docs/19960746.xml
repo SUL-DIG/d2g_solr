@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960746</field>
+<field name="genre">Operas</field>
 <field name="title">Édipo, tragédia do saber</field>
 <field name="titlesort">Édipo, tragédia do saber</field>
 <field name="composer">António Pinho Vargas</field>
@@ -13,7 +13,6 @@
 <field name="city">Lisbon</field>
 <field name="region">Lisboa</field>
 <field name="country">Portugal</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Édipo,+tragédia+do+saber+António+Pinho+Vargas&amp;search_field=search</field>
 </doc>
 </add>

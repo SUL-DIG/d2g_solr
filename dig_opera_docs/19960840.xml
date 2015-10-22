@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960840</field>
+<field name="genre">Operas</field>
 <field name="title">Fables of La Fontaine</field>
 <field name="titlesort">Fables of La Fontaine</field>
 <field name="composer">Ivan Moody</field>
@@ -14,7 +14,6 @@
 <field name="city">Cambridge</field>
 <field name="region">Cambridgeshire</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fables+of+La+Fontaine+Ivan+Moody&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960849</field>
+<field name="genre">Operas</field>
 <field name="title">Faith: DWF, 235</field>
 <field name="titlesort">Faith: DWF, 235</field>
 <field name="composer">Michael Ching</field>
@@ -16,7 +16,6 @@
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Faith:+DWF,+235+Michael+Ching&amp;search_field=search</field>
 </doc>
 </add>

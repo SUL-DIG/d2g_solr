@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961813</field>
+<field name="genre">Operas</field>
 <field name="title">Nedarim (Vows)</field>
 <field name="titlesort">Nedarim (Vows)</field>
 <field name="composer">Karl Salomon</field>
@@ -12,7 +12,6 @@
 <field name="theater">Kibbutz Ein-Gev Festival</field>
 <field name="city">Kibbutz Ein-Gev</field>
 <field name="country">Israel</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nedarim+(Vows)+Karl+Salomon&amp;search_field=search</field>
 </doc>
 </add>

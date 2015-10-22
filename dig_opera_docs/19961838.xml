@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961838</field>
+<field name="genre">Operas</field>
 <field name="title">Noctuaile</field>
 <field name="titlesort">Noctuaile</field>
 <field name="composer">Monic Cecconi-Botella</field>
@@ -12,7 +12,6 @@
 <field name="theater">France 3 Television</field>
 <field name="city">Paris</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Noctuaile+Monic+Cecconi-Botella&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960267</field>
+<field name="genre">Operas</field>
 <field name="title">Bali Tiba (A House in Bali)</field>
 <field name="titlesort">Bali Tiba (A House in Bali)</field>
 <field name="composer">Evan Ziporyn</field>
@@ -16,7 +16,6 @@
 <field name="city">Ubud</field>
 <field name="region">Bali</field>
 <field name="country">Indonesia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bali+Tiba+(A+House+in+Bali)+Evan+Ziporyn&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962298</field>
+<field name="genre">Operas</field>
 <field name="title">Sivaia Legenda (The Grey Legend)</field>
 <field name="titlesort">Sivaia Legenda (The Grey Legend)</field>
 <field name="composer">Dmitry Smolsky</field>
@@ -14,7 +14,6 @@
 <field name="city">Minsk</field>
 <field name="region">Minsk Oblast</field>
 <field name="country">Belarus</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sivaia+Legenda+(The+Grey+Legend)+Dmitry+Smolsky&amp;search_field=search</field>
 </doc>
 </add>

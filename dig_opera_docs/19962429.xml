@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962429</field>
+<field name="genre">Operas</field>
 <field name="title">Te craindre en ton absence</field>
 <field name="titlesort">Te craindre en ton absence</field>
 <field name="composer">Héctor Parra</field>
@@ -13,7 +13,6 @@
 <field name="theater">Théatre des Bouffes du Nord</field>
 <field name="city">Paris</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Te+craindre+en+ton+absence+Héctor+Parra&amp;search_field=search</field>
 </doc>
 </add>

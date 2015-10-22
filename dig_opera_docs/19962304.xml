@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962304</field>
+<field name="genre">Operas</field>
 <field name="title">Skellig</field>
 <field name="titlesort">Skellig</field>
 <field name="composer">Tod Machover</field>
@@ -14,7 +14,6 @@
 <field name="city">Gateshead</field>
 <field name="region">Tyne and Wear</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Skellig+Tod+Machover&amp;search_field=search</field>
 </doc>
 </add>

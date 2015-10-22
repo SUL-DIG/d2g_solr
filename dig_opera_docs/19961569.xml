@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961569</field>
+<field name="genre">Operas</field>
 <field name="title">Little Red Riding Hood</field>
 <field name="titlesort">Little Red Riding Hood</field>
 <field name="composer">Mary a'Beckett</field>
@@ -16,7 +16,6 @@
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Little+Red+Riding+Hood+Mary+a'Beckett&amp;search_field=search</field>
 </doc>
 </add>

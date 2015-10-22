@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961265</field>
+<field name="genre">Operas</field>
 <field name="title">Just Above My Head</field>
 <field name="titlesort">Just Above My Head</field>
 <field name="composer">Nathan Davis</field>
@@ -14,7 +14,6 @@
 <field name="city">Pittsburgh</field>
 <field name="region">Pennsylvania</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Just+Above+My+Head+Nathan+Davis&amp;search_field=search</field>
 </doc>
 </add>

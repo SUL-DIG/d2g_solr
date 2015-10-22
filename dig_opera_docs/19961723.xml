@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961723</field>
+<field name="genre">Operas</field>
 <field name="title">México en 1810 (Matilde)</field>
 <field name="titlesort">México en 1810 (Matilde)</field>
 <field name="composer">Julián Carrillo</field>
@@ -14,7 +14,6 @@
 <field name="city">San Luis Potosí</field>
 <field name="region">San Luis Potosí</field>
 <field name="country">Mexico</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=México+en+1810+(Matilde)+Julián+Carrillo&amp;search_field=search</field>
 </doc>
 </add>

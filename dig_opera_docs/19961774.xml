@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961774</field>
+<field name="genre">Operas</field>
 <field name="title">Mr. Polly at the Potwell Inn</field>
 <field name="titlesort">Mr. Polly at the Potwell Inn</field>
 <field name="composer">John Drummond</field>
@@ -15,7 +15,6 @@
 <field name="theater">University of Otago</field>
 <field name="city">Dunedin</field>
 <field name="country">New Zealand</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mr.+Polly+at+the+Potwell+Inn+John+Drummond&amp;search_field=search</field>
 </doc>
 </add>

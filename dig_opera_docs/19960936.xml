@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960936</field>
+<field name="genre">Operas</field>
 <field name="title">Fruen fra havet (The Lady from the Sea)</field>
 <field name="titlesort">Fruen fra havet (The Lady from the Sea)</field>
 <field name="composer">Ragnar Söderlind</field>
@@ -15,7 +15,6 @@
 <field name="theater">Den Norske Opera & Ballett</field>
 <field name="city">Oslo</field>
 <field name="country">Norway</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fruen+fra+havet+(The+Lady+from+the+Sea)+Ragnar+Söderlind&amp;search_field=search</field>
 </doc>
 </add>

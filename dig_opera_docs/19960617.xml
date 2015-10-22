@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960617</field>
+<field name="genre">Operas</field>
 <field name="title">Die Endlösung der Judenfrage</field>
 <field name="titlesort">Endlösung der Judenfrage</field>
 <field name="composer">Peter Michael Hamel</field>
@@ -12,7 +12,6 @@
 <field name="city">Koblenz</field>
 <field name="region">Rheinland-Pfalz</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Endlösung+der+Judenfrage+Peter+Michael+Hamel&amp;search_field=search</field>
 </doc>
 </add>

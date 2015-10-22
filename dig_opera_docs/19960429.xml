@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960429</field>
+<field name="genre">Operas</field>
 <field name="title">Chinmoku (Silence)</field>
 <field name="titlesort">Chinmoku (Silence)</field>
 <field name="composer">Teizo Matsumura</field>
@@ -15,7 +15,6 @@
 <field name="city">Osaka</field>
 <field name="region">Osaka</field>
 <field name="country">Japan</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chinmoku+(Silence)+Teizo+Matsumura&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961236</field>
+<field name="genre">Operas</field>
 <field name="title">Joel</field>
 <field name="titlesort">Joel</field>
 <field name="composer">Nikolo Kotzev</field>
@@ -14,7 +14,6 @@
 <field name="city">Lund</field>
 <field name="region">Skåne</field>
 <field name="country">Sweden</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Joel+Nikolo+Kotzev&amp;search_field=search</field>
 </doc>
 </add>

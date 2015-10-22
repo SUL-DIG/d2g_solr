@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961318</field>
+<field name="genre">Operas</field>
 <field name="title">Kleopatra</field>
 <field name="titlesort">Kleopatra</field>
 <field name="composer">Danilo Švara</field>
@@ -12,7 +12,6 @@
 <field name="librettistsort">Švara, Danilo</field>
 <field name="city">Ljubljana</field>
 <field name="country">Slovenia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kleopatra+Danilo+Švara&amp;search_field=search</field>
 </doc>
 </add>

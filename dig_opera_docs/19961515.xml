@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961515</field>
+<field name="genre">Operas</field>
 <field name="title">Len Lye</field>
 <field name="titlesort">Len Lye</field>
 <field name="composer">Eve de Castro-Robinson</field>
@@ -13,7 +13,6 @@
 <field name="theater">Maidment Theatre</field>
 <field name="city">Auckland</field>
 <field name="country">New Zealand</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Len+Lye+Eve+de+Castro-Robinson&amp;search_field=search</field>
 </doc>
 </add>

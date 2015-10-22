@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961178</field>
+<field name="genre">Operas</field>
 <field name="title">Impressions de Pelléas</field>
 <field name="titlesort">Impressions de Pelléas</field>
 <field name="composer">Marius Constant</field>
@@ -13,7 +13,6 @@
 <field name="theater">Théâtre des Bouffes du Nord</field>
 <field name="city">Paris</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Impressions+de+Pelléas+Marius+Constant&amp;search_field=search</field>
 </doc>
 </add>

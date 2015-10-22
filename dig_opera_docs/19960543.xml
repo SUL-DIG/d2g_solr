@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960543</field>
+<field name="genre">Operas</field>
 <field name="title">Demoni e fantasmi notturni della città di Perla</field>
 <field name="titlesort">Demoni e fantasmi notturni della città di Perla</field>
 <field name="composer">Giampaolo Coral</field>
@@ -16,7 +16,6 @@
 <field name="city">Cividale del Fruili</field>
 <field name="region">Friuli-Venezia Giulia</field>
 <field name="country">Italy</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Demoni+e+fantasmi+notturni+della+città+di+Perla+Giampaolo+Coral&amp;search_field=search</field>
 </doc>
 </add>

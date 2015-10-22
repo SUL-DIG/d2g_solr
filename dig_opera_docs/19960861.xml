@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960861</field>
+<field name="genre">Operas</field>
 <field name="title">Farewell, Auschwitz</field>
 <field name="titlesort">Farewell, Auschwitz</field>
 <field name="composer">Jake Heggie</field>
@@ -16,7 +16,6 @@
 <field name="city">Seattle</field>
 <field name="region">Washington</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Farewell,+Auschwitz+Jake+Heggie&amp;search_field=search</field>
 </doc>
 </add>

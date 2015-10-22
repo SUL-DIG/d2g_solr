@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961654</field>
+<field name="genre">Operas</field>
 <field name="title">Marco Polo</field>
 <field name="titlesort">Marco Polo</field>
 <field name="composer">Daniele Zanettovich</field>
@@ -14,7 +14,6 @@
 <field name="city">Rijeka</field>
 <field name="region">Primorje-Gorski</field>
 <field name="country">Croatia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marco+Polo+Daniele+Zanettovich&amp;search_field=search</field>
 </doc>
 </add>

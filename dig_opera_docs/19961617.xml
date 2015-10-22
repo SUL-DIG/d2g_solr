@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961617</field>
+<field name="genre">Operas</field>
 <field name="title">Machine</field>
 <field name="titlesort">Machine</field>
 <field name="composer">Clark Suprynowicz</field>
@@ -16,7 +16,6 @@
 <field name="city">Oakland</field>
 <field name="region">California</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Machine+Clark Suprynowicz&amp;search_field=search</field>
 </doc>
 </add>

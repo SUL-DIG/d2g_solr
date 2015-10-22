@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961644</field>
+<field name="genre">Operas</field>
 <field name="title">Mandragola</field>
 <field name="titlesort">Mandragola</field>
 <field name="composer">Ivan Jevtić</field>
@@ -15,7 +15,6 @@
 <field name="theater">Madlenianum opera i teatar</field>
 <field name="city">Belgrade</field>
 <field name="country">Serbia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mandragola+Ivan+Jevtić&amp;search_field=search</field>
 </doc>
 </add>

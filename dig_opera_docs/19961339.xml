@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961339</field>
+<field name="genre">Operas</field>
 <field name="title">Królewna Śnieżka i siedmiu krasnoludków (Snow White)</field>
 <field name="titlesort">Królewna Śnieżka i siedmiu krasnoludków (Snow White)</field>
 <field name="composer">Bogdan Pawłowski</field>
@@ -15,7 +15,6 @@
 <field name="theater">Operos ir Baleto Teatras</field>
 <field name="city">Vilnius</field>
 <field name="country">Lithuania</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Królewna+Śnieżka+i+siedmiu+krasnoludków+(Snow+White)+Bogdan+Pawłowski&amp;search_field=search</field>
 </doc>
 </add>

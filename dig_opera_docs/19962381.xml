@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962381</field>
+<field name="genre">Operas</field>
 <field name="title">Süda (The Heart)</field>
 <field name="titlesort">Süda (The Heart)</field>
 <field name="composer">Raimo Kangro</field>
@@ -16,7 +16,6 @@
 <field name="city">Tallinn</field>
 <field name="region">Harju</field>
 <field name="country">Estonia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Süda+(The+Heart)+Raimo+Kangro&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960008</field>
+<field name="genre">Operas</field>
 <field name="title">3 Franks</field>
 <field name="titlesort">3 Franks</field>
 <field name="composer">David Griffiths</field>
@@ -13,7 +13,6 @@
 <field name="theater">Waikato University</field>
 <field name="city">Hamilton</field>
 <field name="country">New Zealand</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=3+Franks+David+Griffiths&amp;search_field=search</field>
 </doc>
 </add>

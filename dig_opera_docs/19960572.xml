@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960572</field>
+<field name="genre">Operas</field>
 <field name="title">Der Herrscher und das Mädchen</field>
 <field name="titlesort">Herrscher und das Mädchen</field>
 <field name="composer">Nancy Van de Vate</field>
@@ -15,7 +15,6 @@
 <field name="theater">Künstlerhaus</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Herrscher+und+das+Mädchen+Nancy+Van+de+Vate&amp;search_field=search</field>
 </doc>
 </add>

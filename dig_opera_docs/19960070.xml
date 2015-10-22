@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960070</field>
+<field name="genre">Operas</field>
 <field name="title">Acquanetta</field>
 <field name="titlesort">Acquanetta</field>
 <field name="composer">Michael Gordon</field>
@@ -14,7 +14,6 @@
 <field name="city">Aachen</field>
 <field name="region">Nordrhein-Westfallen</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Acquanetta+Michael+Gordon&amp;search_field=search</field>
 </doc>
 </add>

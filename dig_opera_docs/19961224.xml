@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961224</field>
+<field name="genre">Operas</field>
 <field name="title">Jane Eyre</field>
 <field name="titlesort">Jane Eyre</field>
 <field name="composer">Michael Berkeley</field>
@@ -16,7 +16,6 @@
 <field name="city">Cheltenham</field>
 <field name="region">Gloucestershire</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jane+Eyre+Michael+Berkeley&amp;search_field=search</field>
 </doc>
 </add>

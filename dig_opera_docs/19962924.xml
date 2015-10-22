@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962924</field>
+<field name="genre">Operas</field>
 <field name="title">Tsar' Nikita i yego sorok docherey</field>
 <field name="titlesort">Tsar' Nikita i yego sorok docherey</field>
 <field name="composer">Aleksandr Vladimirovich Chaykovsky</field>
@@ -9,7 +9,6 @@
 <field name="year">1997</field>
 <field name="librettist">Aleksandr Sergeyevich Pushkin</field>
 <field name="librettistsort">Aleksandr Sergeyevich, Pushkin</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tsar'+Nikita+i+yego+sorok+docherey+Aleksandr+Vladimirovich+Chaykovsky&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961588</field>
+<field name="genre">Operas</field>
 <field name="title">Los niños perdidos</field>
 <field name="titlesort">niños perdidos</field>
 <field name="composer">Christian Kolonovits</field>
@@ -14,7 +14,6 @@
 <field name="city">Bilbao</field>
 <field name="region">Euskal Herriko</field>
 <field name="country">Spain</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=niños+perdidos+Christian+Kolonovits&amp;search_field=search</field>
 </doc>
 </add>

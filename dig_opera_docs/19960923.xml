@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960923</field>
+<field name="genre">Operas</field>
 <field name="title">Fresh Ghosts</field>
 <field name="titlesort">Fresh Ghosts</field>
 <field name="composer">Julian Yu</field>
@@ -16,7 +16,6 @@
 <field name="city">St. Kilda</field>
 <field name="region">Victoria</field>
 <field name="country">Australia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fresh+Ghosts+Julian+Yu&amp;search_field=search</field>
 </doc>
 </add>

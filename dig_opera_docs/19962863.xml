@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962863</field>
+<field name="genre">Operas</field>
 <field name="title">This Is the Rill Speaking</field>
 <field name="titlesort">This Is the Rill Speaking</field>
 <field name="composer">Lee Hoiby</field>
@@ -16,7 +16,6 @@
 <field name="city">Memphis</field>
 <field name="region">Tennessee</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=This+Is+the+Rill+Speaking+Lee+Hoiby&amp;search_field=search</field>
 </doc>
 </add>

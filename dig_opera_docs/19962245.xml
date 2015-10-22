@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962245</field>
+<field name="genre">Operas</field>
 <field name="title">Sekund av evighet (Second of Eternity)</field>
 <field name="titlesort">Sekund av evighet (Second of Eternity)</field>
 <field name="composer">Torbjörn Iwan Lundquist</field>
@@ -14,7 +14,6 @@
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>
 <field name="country">Sweden</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sekund+av+evighet+(Second+of+Eternity)+Torbjörn+Iwan+Lundquist&amp;search_field=search</field>
 </doc>
 </add>

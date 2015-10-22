@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960131</field>
+<field name="genre">Operas</field>
 <field name="title">Alternative</field>
 <field name="titlesort">Alternative</field>
 <field name="composer">Joseph Bardanashvili</field>
@@ -14,7 +14,6 @@
 <field name="librettistsort">Bardanashvili, Ruben</field>
 <field name="city">Tbilisi</field>
 <field name="country">Georgia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alternative+Joseph+Bardanashvili&amp;search_field=search</field>
 </doc>
 </add>

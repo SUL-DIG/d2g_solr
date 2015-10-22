@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961586</field>
+<field name="genre">Operas</field>
 <field name="title">Los hampones</field>
 <field name="titlesort">hampones</field>
 <field name="composer">Luis Antonio Escobar</field>
@@ -11,7 +11,6 @@
 <field name="librettistsort">Gaitán Durán, Jorge</field>
 <field name="city">Bogota</field>
 <field name="country">Columbia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=hampones+Luis+Antonio+Escobar&amp;search_field=search</field>
 </doc>
 </add>

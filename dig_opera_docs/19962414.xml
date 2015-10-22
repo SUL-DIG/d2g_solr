@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962414</field>
+<field name="genre">Operas</field>
 <field name="title">Tahir and Zohra</field>
 <field name="titlesort">Tahir and Zohra</field>
 <field name="composer">Tokhtasin Jalilov</field>
@@ -13,7 +13,6 @@
 <field name="theater">Teatr Operï i Baleta imeni A. Navoi</field>
 <field name="city">Tashkent</field>
 <field name="country">Uzbekistan</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tahir+and+Zohra+Tokhtasin+Jalilov&amp;search_field=search</field>
 </doc>
 </add>

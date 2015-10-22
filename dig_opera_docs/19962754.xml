@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962754</field>
+<field name="genre">Operas</field>
 <field name="title">The Shoemaker</field>
 <field name="titlesort">Shoemaker</field>
 <field name="composer">Stephen Paulus</field>
@@ -14,7 +14,6 @@
 <field name="city">Minneapolis</field>
 <field name="region">Minnesota</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Shoemaker+Stephen+Paulus&amp;search_field=search</field>
 </doc>
 </add>

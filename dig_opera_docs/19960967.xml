@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960967</field>
+<field name="genre">Operas</field>
 <field name="title">Gegen die Wand</field>
 <field name="titlesort">Gegen die Wand</field>
 <field name="composer">Ludger Vollmer</field>
@@ -16,7 +16,6 @@
 <field name="city">Bremen</field>
 <field name="region">Bremen</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gegen+die+Wand+Ludger+Vollmer&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19963057</field>
+<field name="genre">Operas</field>
 <field name="title">Wide Sargasso Sea</field>
 <field name="titlesort">Wide Sargasso Sea</field>
 <field name="composer">Brian Howard</field>
@@ -14,7 +14,6 @@
 <field name="city">Melbourne</field>
 <field name="region">Victoria</field>
 <field name="country">Australia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wide+Sargasso+Sea+Brian+Howard&amp;search_field=search</field>
 </doc>
 </add>

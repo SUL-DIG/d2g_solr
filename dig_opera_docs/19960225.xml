@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960225</field>
+<field name="genre">Operas</field>
 <field name="title">Atlas</field>
 <field name="titlesort">Atlas</field>
 <field name="composer">Meredith Monk</field>
@@ -14,7 +14,6 @@
 <field name="city">Houston</field>
 <field name="region">Texas</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Atlas+Meredith+Monk&amp;search_field=search</field>
 </doc>
 </add>

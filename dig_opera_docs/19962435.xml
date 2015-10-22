@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962435</field>
+<field name="genre">Operas</field>
 <field name="title">Terute to Oguri</field>
 <field name="titlesort">Terute to Oguri</field>
 <field name="composer">Minoru Miki</field>
@@ -13,7 +13,6 @@
 <field name="city">Nagoya</field>
 <field name="region">Aichi</field>
 <field name="country">Japan</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Terute+to+Oguri+Minoru+Miki&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961998</field>
+<field name="genre">Operas</field>
 <field name="title">Phyllis Remembers</field>
 <field name="titlesort">Phyllis Remembers</field>
 <field name="composer">Philip Brownlee</field>
@@ -13,7 +13,6 @@
 <field name="theater">Bats Theatre</field>
 <field name="city">Wellington</field>
 <field name="country">New Zealand</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Phyllis+Remembers+Philip+Brownlee&amp;search_field=search</field>
 </doc>
 </add>

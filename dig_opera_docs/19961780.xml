@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961780</field>
+<field name="genre">Operas</field>
 <field name="title">Mu luiged, mu mõtted (My Swans, My Thoughts)</field>
 <field name="titlesort">Mu luiged, mu mõtted (My Swans, My Thoughts)</field>
 <field name="composer">Tõnu Kõrvits</field>
@@ -16,7 +16,6 @@
 <field name="city">Tallinn</field>
 <field name="region">Harju</field>
 <field name="country">Estonia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mu+luiged,+mu+mõtted+(My+Swans,+My+Thoughts)+Tõnu+Kõrvits&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962607</field>
+<field name="genre">Operas</field>
 <field name="title">The King Who Saved Himself from Being Saved</field>
 <field name="titlesort">King Who Saved Himself from Being Saved</field>
 <field name="composer">Philip Hagemann</field>
@@ -14,7 +14,6 @@
 <field name="city">Chico</field>
 <field name="region">California</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=King+Who+Saved+Himself+from+Being+Saved+Philip+Hagemann&amp;search_field=search</field>
 </doc>
 </add>

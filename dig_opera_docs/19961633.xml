@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961633</field>
+<field name="genre">Operas</field>
 <field name="title">Majakowskis Tod - Totentanz</field>
 <field name="titlesort">Majakowskis Tod - Totentanz</field>
 <field name="composer">Dieter Schnebel</field>
@@ -16,7 +16,6 @@
 <field name="city">Leipzig</field>
 <field name="region">Sachsen</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Majakowskis+Tod+-+Totentanz+Dieter+Schnebel&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960832</field>
+<field name="genre">Operas</field>
 <field name="title">Everest</field>
 <field name="titlesort">Everest</field>
 <field name="composer">Joby Talbot</field>
@@ -14,7 +14,6 @@
 <field name="city">Dallas</field>
 <field name="region">Texas</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Everest+Joby+Talbot&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961227</field>
+<field name="genre">Oratorio</field>
 <field name="title">Jefta und seine Tochter</field>
 <field name="titlesort">Jefta und seine Tochter</field>
 <field name="composer">Wolfgang Stockmeier</field>
@@ -9,7 +9,6 @@
 <field name="year">1995</field>
 <field name="librettist">Lion Feuchtwanger</field>
 <field name="librettistsort">Feuchtwanger, Lion</field>
-<field name="genre">Oratorio</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jefta+und+seine+Tochter+Wolfgang+Stockmeier&amp;search_field=search</field>
 </doc>
 </add>

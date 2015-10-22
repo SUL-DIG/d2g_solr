@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961085</field>
+<field name="genre">Operas</field>
 <field name="title">Hikari (Light)</field>
 <field name="titlesort">Hikari (Light)</field>
 <field name="composer">Toshi Ichiyanagi</field>
@@ -16,7 +16,6 @@
 <field name="city">Tokyo</field>
 <field name="region">Tokyo</field>
 <field name="country">Japan</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hikari+(Light)+Toshi+Ichiyanagi&amp;search_field=search</field>
 </doc>
 </add>

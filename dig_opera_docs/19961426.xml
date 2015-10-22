@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961426</field>
+<field name="genre">Operas</field>
 <field name="title">La mujer y su sombra</field>
 <field name="titlesort">mujer y su sombra</field>
 <field name="composer">Miguel Alcázar</field>
@@ -15,7 +15,6 @@
 <field name="theater">Palácio de Bellas Artes</field>
 <field name="city">Mexico City</field>
 <field name="country">Mexico</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=mujer+y+su+sombra+Miguel+Alcázar&amp;search_field=search</field>
 </doc>
 </add>

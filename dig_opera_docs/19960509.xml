@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960509</field>
+<field name="genre">Operas</field>
 <field name="title">Das schlaue Gretchen (Královna Kolobezka I.)</field>
 <field name="titlesort">schlaue Gretchen (Královna Kolobezka I.)</field>
 <field name="composer">Martin Smolka</field>
@@ -16,7 +16,6 @@
 <field name="city">Nuremberg</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=schlaue+Gretchen+(Královna+Kolobezka+I.)+Martin+Smolka&amp;search_field=search</field>
 </doc>
 </add>

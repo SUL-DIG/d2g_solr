@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961534</field>
+<field name="genre">Operas</field>
 <field name="title">Les petites filles modèles</field>
 <field name="titlesort">petites filles modèles</field>
 <field name="composer">Johannes Schöllhorn</field>
@@ -14,7 +14,6 @@
 <field name="theater">Opéra Bastille Amphithéâtre</field>
 <field name="city">Paris</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=petites+filles+modèles+Johannes+Schöllhorn&amp;search_field=search</field>
 </doc>
 </add>

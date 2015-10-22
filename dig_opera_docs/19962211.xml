@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962211</field>
+<field name="genre">Operas</field>
 <field name="title">Sanctuary Song</field>
 <field name="titlesort">Sanctuary Song</field>
 <field name="composer">Abigail Richardson</field>
@@ -14,7 +14,6 @@
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>
 <field name="country">Canada</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sanctuary+Song+Abigail+Richardson&amp;search_field=search</field>
 </doc>
 </add>

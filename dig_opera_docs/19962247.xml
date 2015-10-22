@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962247</field>
+<field name="genre">Operas</field>
 <field name="title">Send (Who Are You? I Love You)</field>
 <field name="titlesort">Send (Who Are You? I Love You)</field>
 <field name="composer">Michael John LaChiusa</field>
@@ -14,7 +14,6 @@
 <field name="city">Houston</field>
 <field name="region">Texas</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Send+(Who+Are+You?+I+Love+You)+Michael+John+LaChiusa&amp;search_field=search</field>
 </doc>
 </add>

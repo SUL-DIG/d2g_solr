@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960891</field>
+<field name="genre">Operas</field>
 <field name="title">Fisherman's Dock</field>
 <field name="titlesort">Fisherman's Dock</field>
 <field name="composer">William Banfield</field>
@@ -12,7 +12,6 @@
 <field name="city">St. Paul</field>
 <field name="region">Minnesota</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fisherman's+Dock+William+Banfield&amp;search_field=search</field>
 </doc>
 </add>

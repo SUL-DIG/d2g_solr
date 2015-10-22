@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962755</field>
+<field name="genre">Operas</field>
 <field name="title">The Shops</field>
 <field name="titlesort">Shops</field>
 <field name="composer">Edward Rushton</field>
@@ -14,7 +14,6 @@
 <field name="city">Birmingham</field>
 <field name="region">West Midlands</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Shops+Edward+Rushton&amp;search_field=search</field>
 </doc>
 </add>

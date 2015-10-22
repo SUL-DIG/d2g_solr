@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962571</field>
+<field name="genre">Operas</field>
 <field name="title">The God Boy</field>
 <field name="titlesort">God Boy</field>
 <field name="composer">Anthony Ritchie</field>
@@ -15,7 +15,6 @@
 <field name="theater">Mayfair Theatre</field>
 <field name="city">Dunedin</field>
 <field name="country">New Zealand</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=God+Boy+Anthony+Ritchie&amp;search_field=search</field>
 </doc>
 </add>

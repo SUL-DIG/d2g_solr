@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961145</field>
+<field name="genre">Operas</field>
 <field name="title">Idriss ou la fête interrompue</field>
 <field name="titlesort">Idriss ou la fête interrompue</field>
 <field name="composer">Isabelle Aboulker</field>
@@ -14,7 +14,6 @@
 <field name="city">Brive-la-Gaillarde</field>
 <field name="region">Corrèze</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Idriss+ou+la+fête+interrompue+Isabelle+Aboulker&amp;search_field=search</field>
 </doc>
 </add>

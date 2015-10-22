@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960805</field>
+<field name="genre">Operas</field>
 <field name="title">Enemies, A Love Story</field>
 <field name="titlesort">Enemies, A Love Story</field>
 <field name="composer">Ben Moore</field>
@@ -16,7 +16,6 @@
 <field name="city">West Palm Beach</field>
 <field name="region">Florida</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Enemies,+A+Love+Story+Ben+Moore&amp;search_field=search</field>
 </doc>
 </add>

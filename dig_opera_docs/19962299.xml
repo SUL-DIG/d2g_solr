@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962299</field>
+<field name="genre">Operas</field>
 <field name="title">Six Characters in Search of a Stage</field>
 <field name="titlesort">Six Characters in Search of a Stage</field>
 <field name="composer">Edward Lambert</field>
@@ -16,7 +16,6 @@
 <field name="city">Brighton</field>
 <field name="region">East Sussex</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Six+Characters+in+Search+of+a+Stage+Edward+Lambert&amp;search_field=search</field>
 </doc>
 </add>

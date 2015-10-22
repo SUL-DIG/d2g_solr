@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961458</field>
+<field name="genre">Operas</field>
 <field name="title">Larawan ng Kababaihan: Maskara at Mukh</field>
 <field name="titlesort">Larawan ng Kababaihan: Maskara at Mukh</field>
 <field name="composer">Lucrecia R. Kasilag</field>
@@ -12,7 +12,6 @@
 <field name="theater">Cultural Center of the Philippines</field>
 <field name="city">Manila</field>
 <field name="country">Philippines</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Larawan+ng+Kababaihan:+Maskara+at+Mukh+Lucrecia+R.+Kasilag&amp;search_field=search</field>
 </doc>
 </add>

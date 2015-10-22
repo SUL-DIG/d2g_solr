@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961506</field>
+<field name="genre">Operas</field>
 <field name="title">Leçons de français aux étudiants américains</field>
 <field name="titlesort">Leçons de français aux étudiants américains</field>
 <field name="composer">Isabelle Aboulker</field>
@@ -14,7 +14,6 @@
 <field name="city">Tourcoing</field>
 <field name="region">Nord</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leçons+de+français+aux+étudiants+américains+Isabelle+Aboulker&amp;search_field=search</field>
 </doc>
 </add>

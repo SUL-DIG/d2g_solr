@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962852</field>
+<field name="genre">Operas</field>
 <field name="title">The Wooden Sword</field>
 <field name="titlesort">Wooden Sword</field>
 <field name="composer">Sheila Silver</field>
@@ -14,7 +14,6 @@
 <field name="city">Storrs</field>
 <field name="region">Connecticut</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wooden+Sword+Sheila+Silver&amp;search_field=search</field>
 </doc>
 </add>

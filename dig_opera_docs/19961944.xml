@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961944</field>
+<field name="genre">Operas</field>
 <field name="title">Oxford Companions</field>
 <field name="titlesort">Oxford Companions</field>
 <field name="composer">Giancarlo Aquilanti</field>
@@ -14,7 +14,6 @@
 <field name="city">Stanford</field>
 <field name="region">California</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oxford+Companions+Giancarlo+Aquilanti&amp;search_field=search</field>
 </doc>
 </add>

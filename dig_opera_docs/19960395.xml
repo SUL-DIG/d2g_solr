@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960395</field>
+<field name="genre">Operas</field>
 <field name="title">Cappuccetto rosso</field>
 <field name="titlesort">Cappuccetto rosso</field>
 <field name="composer">Carlo Boccadoro</field>
@@ -16,7 +16,6 @@
 <field name="city">Modena</field>
 <field name="region">Emilia-Romagna</field>
 <field name="country">Italy</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cappuccetto+rosso+Carlo+Boccadoro&amp;search_field=search</field>
 </doc>
 </add>

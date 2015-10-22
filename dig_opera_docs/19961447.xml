@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961447</field>
+<field name="genre">Operas</field>
 <field name="title">La tentación de San Antonio</field>
 <field name="titlesort">tentación de San Antonio</field>
 <field name="composer">Luis Jaime Cortez</field>
@@ -15,7 +15,6 @@
 <field name="theater">Palácio de Bellas Artes</field>
 <field name="city">Mexico City</field>
 <field name="country">Mexico</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=tentación+de+San+Antonio+Luis+Jaime+Cortez&amp;search_field=search</field>
 </doc>
 </add>

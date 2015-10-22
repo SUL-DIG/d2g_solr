@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961940</field>
+<field name="genre">Operas</field>
 <field name="title">Outrageous Fortune</field>
 <field name="titlesort">Outrageous Fortune</field>
 <field name="composer">Gillian Whitehead</field>
@@ -13,7 +13,6 @@
 <field name="theater">Otago Commemorative Opera Trust</field>
 <field name="city">Dunedin</field>
 <field name="country">New Zealand</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Outrageous+Fortune+Gillian+Whitehead&amp;search_field=search</field>
 </doc>
 </add>

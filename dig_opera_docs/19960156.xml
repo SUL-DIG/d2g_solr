@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960156</field>
+<field name="genre">Operas</field>
 <field name="title">And the Rat Laughed</field>
 <field name="titlesort">And the Rat Laughed</field>
 <field name="composer">Ella Milch-Sheriff</field>
@@ -15,7 +15,6 @@
 <field name="theater">Cameri Theater</field>
 <field name="city">Tel Aviv</field>
 <field name="country">Israel</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=And+the+Rat+Laughed+Ella+Milch-Sheriff&amp;search_field=search</field>
 </doc>
 </add>

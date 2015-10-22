@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962459</field>
+<field name="genre">Operas</field>
 <field name="title">The Birds</field>
 <field name="titlesort">Birds</field>
 <field name="composer">John Drummond</field>
@@ -12,7 +12,6 @@
 <field name="theater">University of Otago</field>
 <field name="city">Dunedin</field>
 <field name="country">New Zealand</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Birds+John+Drummond&amp;search_field=search</field>
 </doc>
 </add>

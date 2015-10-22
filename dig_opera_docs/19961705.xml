@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961705</field>
+<field name="genre">Operas</field>
 <field name="title">Medea</field>
 <field name="titlesort">Medea</field>
 <field name="composer">Bidzina Kvernadze</field>
@@ -11,7 +11,6 @@
 <field name="librettistsort">Sanikidze, Levan</field>
 <field name="city">Kutaisi</field>
 <field name="country">Georgia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Medea+Bidzina+Kvernadze&amp;search_field=search</field>
 </doc>
 </add>

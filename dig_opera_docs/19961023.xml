@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961023</field>
+<field name="genre">Operas</field>
 <field name="title">Gudruns fjerde sang</field>
 <field name="titlesort">Gudruns fjerde sang</field>
 <field name="composer">Haukur Tómasson</field>
@@ -15,7 +15,6 @@
 <field name="city">Copenhagen</field>
 <field name="region">Hovedstaden</field>
 <field name="country">Denmark</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gudruns+fjerde+sang+Haukur+Tómasson&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960886</field>
+<field name="genre">Operas</field>
 <field name="title">Finn Varra Maa</field>
 <field name="titlesort">Finn Varra Maa</field>
 <field name="composer">Geoffrey Molyneux Palmer</field>
@@ -14,7 +14,6 @@
 <field name="city">Dublin</field>
 <field name="region">Leinster</field>
 <field name="country">Ireland</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Finn+Varra+Maa+Geoffrey+Molyneux+Palmer&amp;search_field=search</field>
 </doc>
 </add>

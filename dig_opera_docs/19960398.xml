@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960398</field>
+<field name="genre">Operas</field>
 <field name="title">Čarokraj (Mythologia)</field>
 <field name="titlesort">Čarokraj (Mythologia)</field>
 <field name="composer">Marko Ivanović </field>
@@ -15,7 +15,6 @@
 <field name="theater">Národní Divadlo</field>
 <field name="city">Prague</field>
 <field name="country">Czech Republic</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Čarokraj+(Mythologia)+Marko+Ivanović+&amp;search_field=search</field>
 </doc>
 </add>

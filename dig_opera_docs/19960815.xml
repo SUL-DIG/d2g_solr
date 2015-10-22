@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960815</field>
+<field name="genre">Operas</field>
 <field name="title">Ernest Kheminguey</field>
 <field name="titlesort">Ernest Kheminguey</field>
 <field name="composer">Yury Shaheni Ghazarian</field>
@@ -15,7 +15,6 @@
 <field name="theater">Gran Teatro de La Habana</field>
 <field name="city">Havana</field>
 <field name="country">Cuba</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ernest+Kheminguey+Yury+Shaheni+Ghazarian&amp;search_field=search</field>
 </doc>
 </add>

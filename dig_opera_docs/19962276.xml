@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962276</field>
+<field name="genre">Operas</field>
 <field name="title">Shot!</field>
 <field name="titlesort">Shot!</field>
 <field name="composer">Persis Anne Parshall Vehar</field>
@@ -14,7 +14,6 @@
 <field name="city">Buffalo</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Shot!+Persis+Anne+Parshall+Vehar&amp;search_field=search</field>
 </doc>
 </add>

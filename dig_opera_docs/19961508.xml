@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961508</field>
+<field name="genre">Operas</field>
 <field name="title">Ledyanoy dom (The Ice House)</field>
 <field name="titlesort">Ledyanoy dom (The Ice House)</field>
 <field name="composer">Arseny Nikolayevich Koreshchenko</field>
@@ -13,7 +13,6 @@
 <field name="theater">Bol'shoy Teatr</field>
 <field name="city">Moscow</field>
 <field name="country">Russia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ledyanoy+dom+(The+Ice+House)+Arseny+Nikolayevich+Koreshchenko&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962952</field>
+<field name="genre">Operas</field>
 <field name="title">Un tango pour Monsieur Lautrec</field>
 <field name="titlesort">tango pour Monsieur Lautrec</field>
 <field name="composer">Jorge Zulueta</field>
@@ -16,7 +16,6 @@
 <field name="city">Nancy</field>
 <field name="region">Meurthe-et-Moselle</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=tango+pour+Monsieur+Lautrec+Jorge+Zulueta&amp;search_field=search</field>
 </doc>

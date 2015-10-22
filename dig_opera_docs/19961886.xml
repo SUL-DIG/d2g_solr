@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961886</field>
+<field name="genre">Operas</field>
 <field name="title">Olav Engelbrektsson</field>
 <field name="titlesort">Olav Engelbrektsson</field>
 <field name="composer">Henning Sommerro</field>
@@ -14,7 +14,6 @@
 <field name="city">Trondheim</field>
 <field name="region">Sør-Trøndelag</field>
 <field name="country">Norway</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Olav+Engelbrektsson+Henning+Sommerro&amp;search_field=search</field>
 </doc>
 </add>

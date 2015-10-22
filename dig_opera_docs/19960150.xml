@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960150</field>
+<field name="genre">Operas</field>
 <field name="title">An Island Idyll</field>
 <field name="titlesort">Island Idyll</field>
 <field name="composer">Florence Heath</field>
@@ -13,7 +13,6 @@
 <field name="city">Cambridge</field>
 <field name="region">Massachusetts</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Island+Idyll+Florence+Heath&amp;search_field=search</field>
 </doc>
 </add>

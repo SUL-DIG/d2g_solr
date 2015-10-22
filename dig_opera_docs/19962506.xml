@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962506</field>
+<field name="genre">Operas</field>
 <field name="title">The Daughters of the Late Colonel</field>
 <field name="titlesort">Daughters of the Late Colonel</field>
 <field name="composer">Dorothy Buchanan</field>
@@ -15,7 +15,6 @@
 <field name="theater">Victoria University</field>
 <field name="city">Wellington</field>
 <field name="country">New Zealand</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daughters+of+the+Late+Colonel+Dorothy+Buchanan&amp;search_field=search</field>
 </doc>
 </add>

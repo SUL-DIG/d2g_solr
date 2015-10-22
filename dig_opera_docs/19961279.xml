@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961279</field>
+<field name="genre">Operas</field>
 <field name="title">Kannagi: The Story of the Jeweled Anklet</field>
 <field name="titlesort">Kannagi: The Story of the Jeweled Anklet</field>
 <field name="composer">John Sharpley</field>
@@ -13,7 +13,6 @@
 <field name="theater">Sri Mariammam Temple</field>
 <field name="city">Singapore</field>
 <field name="country">Singapore</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kannagi:+The+Story+of+the+Jeweled+Anklet+John+Sharpley&amp;search_field=search</field>
 </doc>
 </add>

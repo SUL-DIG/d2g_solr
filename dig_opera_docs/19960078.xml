@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960078</field>
+<field name="genre">Operas</field>
 <field name="title">Aesop's Fables</field>
 <field name="titlesort">Aesop's Fables</field>
 <field name="composer">Gregg Smith</field>
@@ -12,7 +12,6 @@
 <field name="city">DeKalb</field>
 <field name="region">Illinois</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aesop's+Fables+Gregg+Smith&amp;search_field=search</field>
 </doc>
 </add>

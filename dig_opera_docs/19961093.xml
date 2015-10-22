@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961093</field>
+<field name="genre">Operas</field>
 <field name="title">Hjärtats nycklar</field>
 <field name="titlesort">Hjärtats nycklar</field>
 <field name="composer">Peter Bruun</field>
@@ -16,7 +16,6 @@
 <field name="city">Umeå</field>
 <field name="region">Västerbotten</field>
 <field name="country">Sweden</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hjärtats+nycklar+Peter+Bruun&amp;search_field=search</field>
 </doc>
 </add>

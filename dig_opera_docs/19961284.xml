@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961284</field>
+<field name="genre">Operas</field>
 <field name="title">Karla</field>
 <field name="titlesort">Karla</field>
 <field name="composer">Leonard Lehrman</field>
@@ -16,7 +16,6 @@
 <field name="city">Bloomington</field>
 <field name="region">Indiana</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Karla+Leonard+Lehrman&amp;search_field=search</field>
 </doc>
 </add>

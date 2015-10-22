@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961213</field>
+<field name="genre">Operas</field>
 <field name="title">Iwona, ksiezniczka Burgunda (Yvonne, Princess of Burgundy)</field>
 <field name="titlesort">Iwona, ksiezniczka Burgunda (Yvonne, Princess of Burgundy)</field>
 <field name="composer">Zygmunt Krauze</field>
@@ -15,7 +15,6 @@
 <field name="theater">Théâtre Sylvia Monfort</field>
 <field name="city">Paris</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Iwona,+ksiezniczka+Burgunda+(Yvonne,+Princess+of+Burgundy)+Zygmunt+Krauze&amp;search_field=search</field>
 </doc>
 </add>

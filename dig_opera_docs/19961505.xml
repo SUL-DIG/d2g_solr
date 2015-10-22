@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961505</field>
+<field name="genre">Operas</field>
 <field name="title">Leben in dieser Zeit</field>
 <field name="titlesort">Leben in dieser Zeit</field>
 <field name="composer">Edmund Nick</field>
@@ -14,7 +14,6 @@
 <field name="city">Leipzig</field>
 <field name="region">Sachsen</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leben+in+dieser+Zeit+Edmund+Nick&amp;search_field=search</field>
 </doc>
 </add>

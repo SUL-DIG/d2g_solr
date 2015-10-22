@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961204</field>
+<field name="genre">Operas</field>
 <field name="title">Is-slottet</field>
 <field name="titlesort">Is-slottet</field>
 <field name="composer">Magnar Am</field>
@@ -16,7 +16,6 @@
 <field name="city">Esbjerg</field>
 <field name="region">Syddanmark</field>
 <field name="country">Denmark</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Is-slottet+Magnar+Am&amp;search_field=search</field>
 </doc>
 </add>

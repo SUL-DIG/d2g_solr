@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961476</field>
+<field name="genre">Operas</field>
 <field name="title">Le coucher de Suzette </field>
 <field name="titlesort">coucher de Suzette </field>
 <field name="composer">Henri Mailfait </field>
@@ -16,7 +16,6 @@
 <field name="city">Tours</field>
 <field name="region">Indre-et-Loire</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=coucher+de+Suzette++Henri+Mailfait+&amp;search_field=search</field>
 </doc>
 </add>

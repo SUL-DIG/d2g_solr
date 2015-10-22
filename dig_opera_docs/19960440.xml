@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960440</field>
+<field name="genre">Operas</field>
 <field name="title">Cinderella passt was nicht</field>
 <field name="titlesort">Cinderella passt was nicht</field>
 <field name="composer">Thomas Zaufke</field>
@@ -13,7 +13,6 @@
 <field name="theater">Renaissance Theater</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cinderella+passt+was+nicht+Thomas+Zaufke&amp;search_field=search</field>
 </doc>
 </add>

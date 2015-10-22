@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961514</field>
+<field name="genre">Operas</field>
 <field name="title">Leļļu opera (The Puppet Opera)</field>
 <field name="titlesort">Leļļu opera (The Puppet Opera)</field>
 <field name="composer">Jānis Lūsēns</field>
@@ -13,7 +13,6 @@
 <field name="theater">Latvijas Nacionalaja Opera</field>
 <field name="city">Riga</field>
 <field name="country">Latvia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leļļu+opera+(The+Puppet+Opera)+Jānis+Lūsēns&amp;search_field=search</field>
 </doc>
 </add>

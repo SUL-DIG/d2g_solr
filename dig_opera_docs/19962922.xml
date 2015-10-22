@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962922</field>
+<field name="genre">Operas</field>
 <field name="title">Tsar and Plumber</field>
 <field name="titlesort">Tsar and Plumber</field>
 <field name="composer">Dimitar Valchev</field>
@@ -10,7 +10,6 @@
 <field name="theater">Bulgarian National Radio</field>
 <field name="city">Sofia</field>
 <field name="country">Bulgaria</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tsar+and+Plumber+Dimitar+Valchev&amp;search_field=search</field>
 </doc>
 </add>

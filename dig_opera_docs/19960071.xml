@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960071</field>
+<field name="genre">Operas</field>
 <field name="title">Across Spoon River</field>
 <field name="titlesort">Across Spoon River</field>
 <field name="composer">Marguerite Clarke</field>
@@ -16,7 +16,6 @@
 <field name="city">Forest Park</field>
 <field name="region">Illinois</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Across+Spoon+River+Marguerite+Clarke&amp;search_field=search</field>
 </doc>
 </add>

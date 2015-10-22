@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960246</field>
+<field name="genre">Operas</field>
 <field name="title">Aygun</field>
 <field name="titlesort">Aygun</field>
 <field name="composer">Zakir Bagirov</field>
@@ -11,7 +11,6 @@
 <field name="theater">Azerbaijanskiy Akademicheskiy Teatr Operï i Baleta imeni M. F. Akhundova</field>
 <field name="city">Baku</field>
 <field name="country">Azerbaijan</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aygun+Zakir+Bagirov&amp;search_field=search</field>
 </doc>
 </add>

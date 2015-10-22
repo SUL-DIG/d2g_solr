@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962365</field>
+<field name="genre">Operas</field>
 <field name="title">Štirje junaki (The Four Heroes)</field>
 <field name="titlesort">Štirje junaki (The Four Heroes)</field>
 <field name="composer">Danilo Švara</field>
@@ -12,7 +12,6 @@
 <field name="librettistsort">Grimm, Jakob & Wilhelm</field>
 <field name="city">Maribor</field>
 <field name="country">Slovenia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Štirje+junaki+(The+Four+Heroes)+Danilo+Švara&amp;search_field=search</field>
 </doc>
 </add>

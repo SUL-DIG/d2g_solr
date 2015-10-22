@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960965</field>
+<field name="genre">Operas</field>
 <field name="title">Gbeldahoven: No One's Chile</field>
 <field name="titlesort">Gbeldahoven: No One's Chile</field>
 <field name="composer">Regina Harris Baiocchi</field>
@@ -14,7 +14,6 @@
 <field name="city">Chicago</field>
 <field name="region">Illinois</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gbeldahoven:+No+One's+Chile+Regina+Harris+Baiocchi&amp;search_field=search</field>
 </doc>
 </add>

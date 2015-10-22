@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961445</field>
+<field name="genre">Operas</field>
 <field name="title">La serenata al vento</field>
 <field name="titlesort">serenata al vento</field>
 <field name="composer">Aldo Finzi</field>
@@ -14,7 +14,6 @@
 <field name="city">Bergamo</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=serenata+al+vento+Aldo+Finzi&amp;search_field=search</field>
 </doc>
 </add>

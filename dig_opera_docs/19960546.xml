@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960546</field>
+<field name="genre">Operas</field>
 <field name="title">Den magiske Brillant (The Magic Diamond)</field>
 <field name="titlesort">magiske Brillant (The Magic Diamond)</field>
 <field name="composer">Bent Lorentzen</field>
@@ -14,7 +14,6 @@
 <field name="city">Århus</field>
 <field name="region">Midtjylland</field>
 <field name="country">Denmark</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=magiske+Brillant+(The+Magic+Diamond)+Bent+Lorentzen&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960297</field>
+<field name="genre">Operas</field>
 <field name="title">Beg (The Run)</field>
 <field name="titlesort">Beg (The Run)</field>
 <field name="composer">Nikolay Nikolayevich Sidel'nikov</field>
@@ -9,7 +9,6 @@
 <field name="year">1987</field>
 <field name="librettist">Mikhail Afanas'yevich Bulgakov</field>
 <field name="librettistsort">Bulgakov, Mikhail Afanas'yevich</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beg+(The+Run)+Nikolay+Nikolayevich+Sidel'nikov&amp;search_field=search</field>
 </doc>
 </add>

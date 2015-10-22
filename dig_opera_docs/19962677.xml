@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962677</field>
+<field name="genre">Operas</field>
 <field name="title">The Other Wise Man</field>
 <field name="titlesort">Other Wise Man</field>
 <field name="composer">M. Ryan Taylor</field>
@@ -16,7 +16,6 @@
 <field name="city">American Fork</field>
 <field name="region">Utah</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Other+Wise+Man+M.+Ryan+Taylor&amp;search_field=search</field>
 </doc>
 </add>

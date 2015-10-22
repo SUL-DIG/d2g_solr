@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962983</field>
+<field name="genre">Operas</field>
 <field name="title">Ve stínu klobásy (In the Shadow of a Sausage)</field>
 <field name="titlesort">Ve stínu klobásy (In the Shadow of a Sausage)</field>
 <field name="composer">Miroslav Pudlák</field>
@@ -16,7 +16,6 @@
 <field name="city">Brno</field>
 <field name="region">Jihomoravsky Kraj</field>
 <field name="country">Czech Republic</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ve+stínu+klobásy+(In+the+Shadow+of+a+Sausage)+Miroslav+Pudlák&amp;search_field=search</field>
 </doc>
 </add>

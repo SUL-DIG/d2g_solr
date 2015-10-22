@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962356</field>
+<field name="genre">Operas</field>
 <field name="title">Stadt der 1000 Feuer </field>
 <field name="titlesort">Stadt der 1000 Feuer </field>
 <field name="composer">Oliver Augst</field>
@@ -16,7 +16,6 @@
 <field name="city">Gelsenkirchen</field>
 <field name="region">Nordrhein-Westfallen</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stadt+der+1000+Feuer++Oliver+Augst&amp;search_field=search</field>
 </doc>
 </add>

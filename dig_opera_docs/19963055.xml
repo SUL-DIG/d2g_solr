@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19963055</field>
+<field name="genre">Operas</field>
 <field name="title">White Nights</field>
 <field name="titlesort">White Nights</field>
 <field name="composer">Toshi Ichiyanagi</field>
@@ -14,7 +14,6 @@
 <field name="city">Yokohama</field>
 <field name="region">Kanagawa</field>
 <field name="country">Japan</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=White+Nights+Toshi+Ichiyanagi&amp;search_field=search</field>
 </doc>
 </add>

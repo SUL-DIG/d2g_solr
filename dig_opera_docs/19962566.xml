@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962566</field>
+<field name="genre">Operas</field>
 <field name="title">The Gift of the Magi</field>
 <field name="titlesort">Gift of the Magi</field>
 <field name="composer">David Conte</field>
@@ -16,7 +16,6 @@
 <field name="city">San Francisco</field>
 <field name="region">California</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gift+of+the+Magi+David+Conte&amp;search_field=search</field>
 </doc>
 </add>

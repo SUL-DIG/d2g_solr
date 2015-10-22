@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961260</field>
+<field name="genre">Operas</field>
 <field name="title">Julie Sits Waiting</field>
 <field name="titlesort">Julie Sits Waiting</field>
 <field name="composer">Louis Dufort</field>
@@ -14,7 +14,6 @@
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>
 <field name="country">Canada</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Julie+Sits+Waiting+Louis+Dufort&amp;search_field=search</field>
 </doc>
 </add>

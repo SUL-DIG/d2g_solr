@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961775</field>
+<field name="genre">Operas</field>
 <field name="title">Mririda</field>
 <field name="titlesort">Mririda</field>
 <field name="composer">Ahmed Essyad</field>
@@ -15,7 +15,6 @@
 <field name="theater">Timitar Festival</field>
 <field name="city">Agadir</field>
 <field name="country">Morocco</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mririda+Ahmed+Essyad&amp;search_field=search</field>
 </doc>
 </add>

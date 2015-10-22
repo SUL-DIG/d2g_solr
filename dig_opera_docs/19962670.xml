@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962670</field>
+<field name="genre">Oratorio</field>
 <field name="title">The Odyssey of Mr. Good-Evil</field>
 <field name="titlesort">Odyssey of Mr. Good-Evil</field>
 <field name="composer">Tera de Marez Oyens</field>
@@ -9,7 +9,6 @@
 <field name="year">1981</field>
 <field name="librettist">Menachem Samuel Arnoni</field>
 <field name="librettistsort">Arnoni, Menachem Samuel</field>
-<field name="genre">Oratorio</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Odyssey+of+Mr.+Good-Evil+Tera+de+Marez+Oyens&amp;search_field=search</field>
 </doc>
 </add>

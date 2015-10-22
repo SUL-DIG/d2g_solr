@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961504</field>
+<field name="genre">Operas</field>
 <field name="title">Leben im All</field>
 <field name="titlesort">Leben im All</field>
 <field name="composer">Gerhard A. Meyer</field>
@@ -14,7 +14,6 @@
 <field name="city">Bonn</field>
 <field name="region">Nordrhein-Westfallen</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leben+im+All+Gerhard+A.+Meyer&amp;search_field=search</field>
 </doc>
 </add>

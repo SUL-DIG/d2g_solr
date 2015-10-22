@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960495</field>
+<field name="genre">Operas</field>
 <field name="title">Das Beben</field>
 <field name="titlesort">Beben</field>
 <field name="composer">Avet Terterian</field>
@@ -16,7 +16,6 @@
 <field name="city">Munich</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beben+Avet+Terterian&amp;search_field=search</field>
 </doc>
 </add>

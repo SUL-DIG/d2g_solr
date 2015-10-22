@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962836</field>
+<field name="genre">Operas</field>
 <field name="title">The Water Babies</field>
 <field name="titlesort">Water Babies</field>
 <field name="composer">Paolo Furlani</field>
@@ -16,7 +16,6 @@
 <field name="city">Rovigo</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Water+Babies+Paolo+Furlani&amp;search_field=search</field>
 </doc>
 </add>

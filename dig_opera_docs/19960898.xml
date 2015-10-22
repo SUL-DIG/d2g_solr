@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960898</field>
+<field name="genre">Operas</field>
 <field name="title">Fleur et le miroir magique</field>
 <field name="titlesort">Fleur et le miroir magique</field>
 <field name="composer">Nicolas Bacri</field>
@@ -14,7 +14,6 @@
 <field name="city">Lille</field>
 <field name="region">Nord</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fleur+et+le+miroir+magique+Nicolas+Bacri&amp;search_field=search</field>
 </doc>
 </add>

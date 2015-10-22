@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961949</field>
+<field name="genre">Operas</field>
 <field name="title">Pacificia</field>
 <field name="titlesort">Pacificia</field>
 <field name="composer">Erich Walter Sternberg</field>
@@ -11,7 +11,6 @@
 <field name="librettistsort">Hunter, Renate Alsberg</field>
 <field name="city">Jerusalem</field>
 <field name="country">Israel</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pacificia+Erich+Walter+Sternberg&amp;search_field=search</field>
 </doc>
 </add>

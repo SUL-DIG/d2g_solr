@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961341</field>
+<field name="genre">Operas</field>
 <field name="title">Krpanova kobila (Krpan’s Mare)</field>
 <field name="titlesort">Krpanova kobila (Krpan’s Mare)</field>
 <field name="composer">Jani Golob</field>
@@ -15,7 +15,6 @@
 <field name="theater">Slovensko Dazelno Gledalisce</field>
 <field name="city">Ljubljana</field>
 <field name="country">Slovenia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Krpanova+kobila+(Krpan’s+Mare)+Jani+Golob&amp;search_field=search</field>
 </doc>
 </add>

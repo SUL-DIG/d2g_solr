@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961403</field>
+<field name="genre">Operas</field>
 <field name="title">La finestra su Kensington Gardens</field>
 <field name="titlesort">finestra su Kensington Gardens</field>
 <field name="composer">Matteo D'Amico</field>
@@ -14,7 +14,6 @@
 <field name="city">Noto</field>
 <field name="region">Sicilia</field>
 <field name="country">Italy</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=finestra+su+Kensington+Gardens+Matteo+D'Amico&amp;search_field=search</field>
 </doc>
 </add>

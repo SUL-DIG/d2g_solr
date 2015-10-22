@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961634</field>
+<field name="genre">Operas</field>
 <field name="title">Mak the Sheep Stealer</field>
 <field name="titlesort">Mak the Sheep Stealer</field>
 <field name="composer">Herbert Chappell</field>
@@ -14,7 +14,6 @@
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mak+the+Sheep+Stealer+Herbert+Chappell&amp;search_field=search</field>
 </doc>
 </add>

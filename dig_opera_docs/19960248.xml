@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960248</field>
+<field name="genre">Operas</field>
 <field name="title">Az öt utolsó szín (The Last Five Scenes)</field>
 <field name="titlesort">öt utolsó szín (The Last Five Scenes)</field>
 <field name="composer">Attila Bozay</field>
@@ -15,7 +15,6 @@
 <field name="theater">Millenniumi Operapályázaton</field>
 <field name="city">Budapest</field>
 <field name="country">Hungary</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=öt+utolsó+szín+(The+Last+Five+Scenes)+Attila+Bozay&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961333</field>
+<field name="genre">Operas</field>
 <field name="title">Kornetas</field>
 <field name="titlesort">Kornetas</field>
 <field name="composer">Onutė Narbutaitė</field>
@@ -15,7 +15,6 @@
 <field name="theater">Lietuvos Nacionalinis Operos ir Baleto Teatras</field>
 <field name="city">Vilnius</field>
 <field name="country">Lithuania</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kornetas+Onutė+Narbutaitė&amp;search_field=search</field>
 </doc>
 </add>

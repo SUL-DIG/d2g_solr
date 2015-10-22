@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961191</field>
+<field name="genre">Operas</field>
 <field name="title">Infinito nero</field>
 <field name="titlesort">Infinito nero</field>
 <field name="composer">Salvatore Sciarrino</field>
@@ -16,7 +16,6 @@
 <field name="city">Saarbrücken</field>
 <field name="region">Saarland</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Infinito+nero+Salvatore+Sciarrino&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962906</field>
+<field name="genre">Operas</field>
 <field name="title">Travels</field>
 <field name="titlesort">Travels</field>
 <field name="composer">Victoria Bond</field>
@@ -16,7 +16,6 @@
 <field name="city">Roanoke</field>
 <field name="region">Virginia</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Travels+Victoria+Bond&amp;search_field=search</field>
 </doc>
 </add>

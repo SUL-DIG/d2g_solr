@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960527</field>
+<field name="genre">Operas</field>
 <field name="title">De trouw van Mira en Miro</field>
 <field name="titlesort">trouw van Mira en Miro</field>
 <field name="composer">Frank Nuyts</field>
@@ -14,7 +14,6 @@
 <field name="city">Hasselt</field>
 <field name="region">Limburg</field>
 <field name="country">Belgium</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=trouw+van+Mira+en+Miro+Frank+Nuyts&amp;search_field=search</field>
 </doc>
 </add>

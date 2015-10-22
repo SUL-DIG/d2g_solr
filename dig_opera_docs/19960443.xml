@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960443</field>
+<field name="genre">Operas</field>
 <field name="title">Ciocanul satului (The Village Hammer)</field>
 <field name="titlesort">Ciocanul satului (The Village Hammer)</field>
 <field name="composer">Erwin Junger</field>
@@ -16,7 +16,6 @@
 <field name="city">Cluj-Napoca</field>
 <field name="region">Cluj</field>
 <field name="country">Romania</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ciocanul+satului+(The+Village+Hammer)+Erwin+Junger&amp;search_field=search</field>
 </doc>
 </add>

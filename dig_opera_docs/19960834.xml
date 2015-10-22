@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960834</field>
+<field name="genre">Operas</field>
 <field name="title">Excelsior!</field>
 <field name="titlesort">Excelsior!</field>
 <field name="composer">Gyula Fekete</field>
@@ -13,7 +13,6 @@
 <field name="theater">Magyar Allami Operaház</field>
 <field name="city">Budapest</field>
 <field name="country">Hungary</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Excelsior!+Gyula+Fekete&amp;search_field=search</field>
 </doc>
 </add>

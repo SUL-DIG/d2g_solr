@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961852</field>
+<field name="genre">Operas</field>
 <field name="title">Nothing to Declare</field>
 <field name="titlesort">Nothing to Declare</field>
 <field name="composer">Perttu Haapanen</field>
@@ -16,7 +16,6 @@
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>
 <field name="country">Finland</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nothing+to+Declare+Perttu+Haapanen&amp;search_field=search</field>
 </doc>
 </add>

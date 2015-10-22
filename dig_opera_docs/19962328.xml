@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962328</field>
+<field name="genre">Operas</field>
 <field name="title">Solarize</field>
 <field name="titlesort">Solarize</field>
 <field name="composer">Marcin Stańczyk</field>
@@ -13,7 +13,6 @@
 <field name="theater">Teatr Wielki</field>
 <field name="city">Warsaw</field>
 <field name="country">Poland</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Solarize+Marcin+Stańczyk&amp;search_field=search</field>
 </doc>
 </add>

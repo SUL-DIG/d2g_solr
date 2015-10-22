@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961160</field>
+<field name="genre">Operas</field>
 <field name="title">Il medico dei pazzi</field>
 <field name="titlesort">medico dei pazzi</field>
 <field name="composer">Giorgio Battistelli</field>
@@ -16,7 +16,6 @@
 <field name="city">Nancy</field>
 <field name="region">Meurthe-et-Moselle</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=medico+dei+pazzi+Giorgio+Battistelli&amp;search_field=search</field>
 </doc>
 </add>

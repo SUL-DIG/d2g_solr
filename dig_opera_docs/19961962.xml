@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961962</field>
+<field name="genre">Operas</field>
 <field name="title">Paso del norte</field>
 <field name="titlesort">Paso del norte</field>
 <field name="composer">Victor Rasgado</field>
@@ -14,7 +14,6 @@
 <field name="city">Oaxaca</field>
 <field name="region">Oaxaca</field>
 <field name="country">Mexico</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paso+del+norte+Victor+Rasgado&amp;search_field=search</field>
 </doc>
 </add>

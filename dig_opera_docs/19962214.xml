@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962214</field>
+<field name="genre">Operas</field>
 <field name="title">Sara McKinnon</field>
 <field name="titlesort">Sara McKinnon</field>
 <field name="composer">Randall Shinn</field>
@@ -14,7 +14,6 @@
 <field name="city">Las Cruces</field>
 <field name="region">New Mexico</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sara+McKinnon+Randall+Shinn&amp;search_field=search</field>
 </doc>
 </add>

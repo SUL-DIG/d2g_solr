@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961365</field>
+<field name="genre">Operas</field>
 <field name="title">L'instant</field>
 <field name="titlesort">instant</field>
 <field name="composer">Oscar Strasnoy</field>
@@ -14,7 +14,6 @@
 <field name="city">Aulnay-sous-Bois</field>
 <field name="region">Seine-Saint-Denis</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=instant+Oscar+Strasnoy&amp;search_field=search</field>
 </doc>
 </add>

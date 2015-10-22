@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961258</field>
+<field name="genre">Operas</field>
 <field name="title">Judith</field>
 <field name="titlesort">Judith</field>
 <field name="composer">Philippe Fénelon</field>
@@ -15,7 +15,6 @@
 <field name="theater">Salle Pleyel</field>
 <field name="city">Paris</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Judith+Philippe+Fénelon&amp;search_field=search</field>
 </doc>
 </add>

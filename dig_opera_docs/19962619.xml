@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962619</field>
+<field name="genre">Operas</field>
 <field name="title">The Legend of Redwall Abbey</field>
 <field name="titlesort">Legend of Redwall Abbey</field>
 <field name="composer">Evelyn Dickenson Swensson</field>
@@ -16,7 +16,6 @@
 <field name="city">Wilmington</field>
 <field name="region">Delaware</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Legend+of+Redwall+Abbey+Evelyn+Dickenson+Swensson&amp;search_field=search</field>
 </doc>
 </add>

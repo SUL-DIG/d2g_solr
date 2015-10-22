@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961763</field>
+<field name="genre">Operas</field>
 <field name="title">Morvoren</field>
 <field name="titlesort">Morvoren</field>
 <field name="composer">Philip Cannon</field>
@@ -16,7 +16,6 @@
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Morvoren+Philip+Cannon&amp;search_field=search</field>
 </doc>
 </add>

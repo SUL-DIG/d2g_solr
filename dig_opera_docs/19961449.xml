@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961449</field>
+<field name="genre">Operas</field>
 <field name="title">La vie de Robert le diable</field>
 <field name="titlesort">vie de Robert le diable</field>
 <field name="composer">Ahmed Essyad</field>
@@ -16,7 +16,6 @@
 <field name="city">Rennes</field>
 <field name="region">Ille-et-Vilaine</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=vie+de+Robert+le+diable+Ahmed+Essyad&amp;search_field=search</field>
 </doc>
 </add>

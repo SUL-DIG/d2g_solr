@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960479</field>
+<field name="genre">Operas</field>
 <field name="title">Custer and Sitting Bull</field>
 <field name="titlesort">Custer and Sitting Bull</field>
 <field name="composer">Kyle Gann</field>
@@ -14,7 +14,6 @@
 <field name="city">Los Angeles</field>
 <field name="region">California</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Custer+and+Sitting+Bull+Kyle+Gann&amp;search_field=search</field>
 </doc>
 </add>

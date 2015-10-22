@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961310</field>
+<field name="genre">Operas</field>
 <field name="title">Khrabroy I smeloy vityaz' Akhrideich</field>
 <field name="titlesort">Khrabroy I smeloy vityaz' Akhrideich</field>
 <field name="composer">Arnost Vancura</field>
@@ -15,7 +15,6 @@
 <field name="theater">Zrmitazny Teatr</field>
 <field name="city">St. Petersburg</field>
 <field name="country">Russia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Khrabroy+I+smeloy+vityaz'+Akhrideich+Arnost+Vancura&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960032</field>
+<field name="genre">Operas</field>
 <field name="title">A Dream Fulfilled: The Saga of George Washington Carver</field>
 <field name="titlesort">Dream Fulfilled: The Saga of George Washington Carver</field>
 <field name="composer">Michael Patterson</field>
@@ -14,7 +14,6 @@
 <field name="city">Indianola</field>
 <field name="region">Iowa</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dream+Fulfilled:+The+Saga+of+George+Washington+Carver+Michael+Patterson&amp;search_field=search</field>
 </doc>
 </add>

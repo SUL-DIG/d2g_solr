@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962826</field>
+<field name="genre">Operas</field>
 <field name="title">The Voyage of the Catarineta</field>
 <field name="titlesort">Voyage of the Catarineta</field>
 <field name="composer">Thomas Eastwood</field>
@@ -12,7 +12,6 @@
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Voyage+of+the+Catarineta+Thomas+Eastwood&amp;search_field=search</field>
 </doc>
 </add>

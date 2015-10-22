@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961879</field>
+<field name="genre">Operas</field>
 <field name="title">Oedipus</field>
 <field name="titlesort">Oedipus</field>
 <field name="composer">Qu Xiao-song</field>
@@ -13,7 +13,6 @@
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>
 <field name="country">Sweden</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oedipus+Qu+Xiao-song&amp;search_field=search</field>
 </doc>
 </add>

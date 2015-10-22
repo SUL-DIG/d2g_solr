@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962912</field>
+<field name="genre">Operas</field>
 <field name="title">Tristes tropiques</field>
 <field name="titlesort">Tristes tropiques</field>
 <field name="composer">Georges Aperghis</field>
@@ -16,7 +16,6 @@
 <field name="city">Strasbourg</field>
 <field name="region">Bas-Rhin</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tristes+tropiques+Georges+Aperghis&amp;search_field=search</field>
 </doc>
 </add>

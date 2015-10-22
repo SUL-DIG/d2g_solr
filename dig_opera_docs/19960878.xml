@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960878</field>
+<field name="genre">Operas</field>
 <field name="title">Fiela's Child</field>
 <field name="titlesort">Fiela's Child</field>
 <field name="composer">Carl Van Wyk</field>
@@ -16,7 +16,6 @@
 <field name="city">Johannesburg</field>
 <field name="region">Gauteng</field>
 <field name="country">South Africa</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fiela's+Child+Carl+Van+Wyk&amp;search_field=search</field>
 </doc>
 </add>

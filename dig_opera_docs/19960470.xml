@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960470</field>
+<field name="genre">Operas</field>
 <field name="title">Cricketina</field>
 <field name="titlesort">Cricketina</field>
 <field name="composer">Kristine Burns</field>
@@ -14,7 +14,6 @@
 <field name="city">Miami</field>
 <field name="region">Florida</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cricketina+Kristine+Burns&amp;search_field=search</field>
 </doc>
 </add>

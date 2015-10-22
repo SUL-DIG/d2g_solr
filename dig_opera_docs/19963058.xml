@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19963058</field>
+<field name="genre">Operas</field>
 <field name="title">Wild Boy</field>
 <field name="titlesort">Wild Boy</field>
 <field name="composer">Gary Adams</field>
@@ -14,7 +14,6 @@
 <field name="city">Overland Park</field>
 <field name="region">Kansas</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wild+Boy+Gary+Adams&amp;search_field=search</field>
 </doc>
 </add>

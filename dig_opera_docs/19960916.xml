@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960916</field>
+<field name="genre">Operas</field>
 <field name="title">Franziskus</field>
 <field name="titlesort">Franziskus</field>
 <field name="composer">Sergey Nevsky</field>
@@ -13,7 +13,6 @@
 <field name="theater">Bol'shoy Teatr</field>
 <field name="city">Moscow</field>
 <field name="country">Russia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Franziskus+Sergey+Nevsky&amp;search_field=search</field>
 </doc>
 </add>

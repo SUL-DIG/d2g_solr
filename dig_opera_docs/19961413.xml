@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961413</field>
+<field name="genre">Operas</field>
 <field name="title">La liberazione di Ruggiero dall'isola di Alcina</field>
 <field name="titlesort">liberazione di Ruggiero dall'isola di Alcina</field>
 <field name="composer">Ada Gentile</field>
@@ -16,7 +16,6 @@
 <field name="city">Munich</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=liberazione+di+Ruggiero+dall'isola+di+Alcina+Ada+Gentile&amp;search_field=search</field>
 </doc>
 </add>

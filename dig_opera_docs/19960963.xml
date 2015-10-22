@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960963</field>
+<field name="genre">Operas</field>
 <field name="title">Gaudi</field>
 <field name="titlesort">Gaudi</field>
 <field name="composer">Joan Guinjoan</field>
@@ -14,7 +14,6 @@
 <field name="city">Barcelona</field>
 <field name="region">Catalunya</field>
 <field name="country">Spain</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gaudi+Joan+Guinjoan&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962055</field>
+<field name="genre">Operas</field>
 <field name="title">Proces Kafka (Kafka's Trial)</field>
 <field name="titlesort">Proces Kafka (Kafka's Trial)</field>
 <field name="composer">Poul Ruders</field>
@@ -16,7 +16,6 @@
 <field name="city">Copenhagen</field>
 <field name="region">Hovedstaden</field>
 <field name="country">Denmark</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Proces+Kafka+(Kafka's+Trial)+Poul+Ruders&amp;search_field=search</field>
 </doc>
 </add>

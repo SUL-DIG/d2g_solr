@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961908</field>
+<field name="genre">Operas</field>
 <field name="title">Operation Orfeo</field>
 <field name="titlesort">Operation Orfeo</field>
 <field name="composer">Bo Holten</field>
@@ -13,7 +13,6 @@
 <field name="city">Århus</field>
 <field name="region">Midtjylland</field>
 <field name="country">Denmark</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Operation+Orfeo+Bo+Holten&amp;search_field=search</field>
 </doc>
 </add>

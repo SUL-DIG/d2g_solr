@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962244</field>
+<field name="genre">Operas</field>
 <field name="title">Seitsemän koiraveljestä (The Seven Dog Brothers)</field>
 <field name="titlesort">Seitsemän koiraveljestä (The Seven Dog Brothers)</field>
 <field name="composer">Markus Fagerudd</field>
@@ -16,7 +16,6 @@
 <field name="city">Savonlinna</field>
 <field name="region">Etelä-Savo</field>
 <field name="country">Finland</field>
-<field name="genre">Opera</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Seitsemän+koiraveljestä+(The+Seven+Dog+Brothers)+Markus+Fagerudd&amp;search_field=search</field>
 </doc>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961205</field>
+<field name="genre">Operas</field>
 <field name="title">Isän tyttö (Daddy's Girl)</field>
 <field name="titlesort">Isän tyttö (Daddy's Girl)</field>
 <field name="composer">Olli Kortekangas</field>
@@ -16,7 +16,6 @@
 <field name="city">Savonlinna</field>
 <field name="region">Etelä-Savo</field>
 <field name="country">Finland</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Isän+tyttö+(Daddy's+Girl)+Olli+Kortekangas&amp;search_field=search</field>
 </doc>
 </add>

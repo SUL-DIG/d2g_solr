@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961856</field>
+<field name="genre">Operas</field>
 <field name="title">Nowe wyzolenie (New Deliverance)</field>
 <field name="titlesort">Nowe wyzolenie (New Deliverance)</field>
 <field name="composer">Krzystof Baculewski</field>
@@ -13,7 +13,6 @@
 <field name="city">Wroclaw</field>
 <field name="region">Dolnoslaskie</field>
 <field name="country">Poland</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nowe+wyzolenie+(New+Deliverance)+Krzystof+Baculewski&amp;search_field=search</field>
 </doc>
 </add>

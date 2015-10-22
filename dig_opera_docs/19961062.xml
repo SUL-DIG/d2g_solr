@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961062</field>
+<field name="genre">Operas</field>
 <field name="title">Heinähattu, Vilttitossu ja suuri pamau</field>
 <field name="titlesort">Heinähattu, Vilttitossu ja suuri pamau</field>
 <field name="composer">Markus Fagerudd</field>
@@ -16,7 +16,6 @@
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>
 <field name="country">Finland</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Heinähattu,+Vilttitossu+ja+suuri+pamau+Markus+Fagerudd&amp;search_field=search</field>
 </doc>
 </add>

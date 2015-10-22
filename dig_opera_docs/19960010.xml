@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960010</field>
+<field name="genre">Operas</field>
 <field name="title">60e Parallèle</field>
 <field name="titlesort">60e Parallèle</field>
 <field name="composer">Philippe Manoury</field>
@@ -15,7 +15,6 @@
 <field name="theater">Théâtre du Châtelet</field>
 <field name="city">Paris</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=60e+Parallèle+Philippe+Manoury&amp;search_field=search</field>
 </doc>
 </add>

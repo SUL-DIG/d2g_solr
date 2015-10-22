@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960778</field>
+<field name="genre">Operas</field>
 <field name="title">El regreso (The Return)</field>
 <field name="titlesort">regreso (The Return)</field>
 <field name="composer">Ricardo Storm</field>
@@ -12,7 +12,6 @@
 <field name="theater">Teatro Solis</field>
 <field name="city">Montevideo</field>
 <field name="country">Uruguay</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=regreso+(The+Return)+Ricardo+Storm&amp;search_field=search</field>
 </doc>
 </add>

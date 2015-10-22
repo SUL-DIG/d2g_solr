@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962750</field>
+<field name="genre">Operas</field>
 <field name="title">The Sergeant-Major's Daughter</field>
 <field name="titlesort">Sergeant-Major's Daughter</field>
 <field name="composer">Ian Parrott</field>
@@ -13,7 +13,6 @@
 <field name="librettistsort">Parrott, Ian</field>
 <field name="city">Cairo</field>
 <field name="country">Egypt</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sergeant-Major's+Daughter+Ian+Parrott&amp;search_field=search</field>
 </doc>
 </add>

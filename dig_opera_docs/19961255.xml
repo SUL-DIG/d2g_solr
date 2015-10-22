@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961255</field>
+<field name="genre">Operas</field>
 <field name="title">Juana</field>
 <field name="titlesort">Juana</field>
 <field name="composer">Enric Palomar</field>
@@ -14,7 +14,6 @@
 <field name="city">Halle</field>
 <field name="region">Sachsen-Anhalt</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Juana+Enric+Palomar&amp;search_field=search</field>
 </doc>
 </add>

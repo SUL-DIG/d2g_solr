@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961613</field>
+<field name="genre">Operas</field>
 <field name="title">Lysistrata, or The Nude Goddess</field>
 <field name="titlesort">Lysistrata, or The Nude Goddess</field>
 <field name="composer">Mark Adamo</field>
@@ -12,7 +12,6 @@
 <field name="city">Houston</field>
 <field name="region">Texas</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lysistrata,+or+The+Nude+Goddess+Mark+Adamo&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961484</field>
+<field name="genre">Operas</field>
 <field name="title">Le Malentendu</field>
 <field name="titlesort">Malentendu</field>
 <field name="composer">Matteo D'Amico</field>
@@ -14,7 +14,6 @@
 <field name="city">Macerata</field>
 <field name="region">Marche</field>
 <field name="country">Italy</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Malentendu+Matteo+D'Amico&amp;search_field=search</field>
 </doc>
 </add>

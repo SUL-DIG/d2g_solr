@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960892</field>
+<field name="genre">Operas</field>
 <field name="title">Fiskaren Rasmus og felemusikken</field>
 <field name="titlesort">Fiskaren Rasmus og felemusikken</field>
 <field name="composer">Knut Anders Vestad</field>
@@ -14,7 +14,6 @@
 <field name="city">Fraena</field>
 <field name="region">Møre og Romsdal</field>
 <field name="country">Norway</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fiskaren+Rasmus+og+felemusikken+Knut+Anders+Vestad&amp;search_field=search</field>
 </doc>
 </add>

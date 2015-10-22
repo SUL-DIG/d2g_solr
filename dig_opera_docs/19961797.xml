@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961797</field>
+<field name="genre">Operas</field>
 <field name="title">Nancy</field>
 <field name="titlesort">Nancy</field>
 <field name="composer">Garrison Hull</field>
@@ -14,7 +14,6 @@
 <field name="city">Arlington</field>
 <field name="region">Virginia</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nancy+Garrison+Hull&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960465</field>
+<field name="genre">Operas</field>
 <field name="title">Country of the Blind</field>
 <field name="titlesort">Country of the Blind</field>
 <field name="composer">Mark-Anthony Turnage</field>
@@ -16,7 +16,6 @@
 <field name="city">Snape</field>
 <field name="region">Suffolk</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Country+of+the+Blind+Mark-Anthony+Turnage&amp;search_field=search</field>
 </doc>
 </add>

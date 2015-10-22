@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961580</field>
+<field name="genre">Operas</field>
 <field name="title">Lontananze vicino a noi</field>
 <field name="titlesort">Lontananze vicino a noi</field>
 <field name="composer">Giulio Castagnoli</field>
@@ -11,7 +11,6 @@
 <field name="librettistsort">Voltolini, Dario</field>
 <field name="theater">RAI Radio (Radiotelevisione Italiana)</field>
 <field name="country">Italy</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lontananze+vicino+a+noi+Giulio+Castagnoli&amp;search_field=search</field>
 </doc>
 </add>

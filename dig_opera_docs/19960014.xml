@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960014</field>
+<field name="genre">Operas</field>
 <field name="title">A Blizzard on Marblehead Neck</field>
 <field name="titlesort">Blizzard on Marblehead Neck</field>
 <field name="composer">Jeanine Tesori</field>
@@ -14,7 +14,6 @@
 <field name="city">Cooperstown</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Blizzard+on+Marblehead+Neck+Jeanine+Tesori&amp;search_field=search</field>
 </doc>
 </add>

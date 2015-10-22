@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962085</field>
+<field name="genre">Operas</field>
 <field name="title">Queen of the Night</field>
 <field name="titlesort">Queen of the Night</field>
 <field name="composer">Ronald Strauss</field>
@@ -13,7 +13,6 @@
 <field name="theater">Atelier de la Main d'Or</field>
 <field name="city">Paris</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Queen+of+the+Night+Ronald+Strauss&amp;search_field=search</field>
 </doc>
 </add>

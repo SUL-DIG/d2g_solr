@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960130</field>
+<field name="genre">Operas</field>
 <field name="title">Alternate Visions</field>
 <field name="titlesort">Alternate Visions</field>
 <field name="composer">John Oliver</field>
@@ -14,7 +14,6 @@
 <field name="city">Montreal</field>
 <field name="region">Quebec</field>
 <field name="country">Canada</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alternate+Visions+John+Oliver&amp;search_field=search</field>
 </doc>
 </add>

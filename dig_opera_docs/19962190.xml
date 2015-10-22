@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962190</field>
+<field name="genre">Operas</field>
 <field name="title">Rumpelstiltskin</field>
 <field name="titlesort">Rumpelstiltskin</field>
 <field name="composer">Joseph Baber</field>
@@ -16,7 +16,6 @@
 <field name="city">Lexington</field>
 <field name="region">Kentucky</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rumpelstiltskin+Joseph+Baber&amp;search_field=search</field>
 </doc>
 </add>

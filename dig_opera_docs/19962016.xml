@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962016</field>
+<field name="genre">Operas</field>
 <field name="title">Pir Valtasara/Posledniy den' Bel'Sar-Ussura</field>
 <field name="titlesort">Pir Valtasara/Posledniy den' Bel'Sar-Ussura</field>
 <field name="composer">Arseny Nikolayevich Koreshchenko</field>
@@ -9,7 +9,6 @@
 <field name="year">1892</field>
 <field name="city">Moscow</field>
 <field name="country">Russia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pir+Valtasara/Posledniy+den'+Bel'Sar-Ussura+Arseny+Nikolayevich+Koreshchenko&amp;search_field=search</field>
 </doc>
 </add>

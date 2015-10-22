@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961903</field>
+<field name="genre">Operas</field>
 <field name="title">Ópera Café</field>
 <field name="titlesort">Ópera Café</field>
 <field name="composer">Hans Joachim Koellreutter</field>
@@ -14,7 +14,6 @@
 <field name="city">Santos</field>
 <field name="region">São Paulo</field>
 <field name="country">Brazil</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ópera+Café+Hans+Joachim+Koellreutter&amp;search_field=search</field>
 </doc>
 </add>

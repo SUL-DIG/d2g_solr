@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961652</field>
+<field name="genre">Operas</field>
 <field name="title">Märchen der 672. Nacht</field>
 <field name="titlesort">Märchen der 672. Nacht</field>
 <field name="composer">Jan Müller-Wieland</field>
@@ -15,7 +15,6 @@
 <field name="theater">Kammeroper</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Märchen+der+672.+Nacht+Jan+Müller-Wieland&amp;search_field=search</field>
 </doc>
 </add>

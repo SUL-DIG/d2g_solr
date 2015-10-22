@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960719</field>
+<field name="genre">Operas</field>
 <field name="title">Dreamkeepers</field>
 <field name="titlesort">Dreamkeepers</field>
 <field name="composer">David Carlson</field>
@@ -14,7 +14,6 @@
 <field name="city">Salt Lake City</field>
 <field name="region">Utah</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dreamkeepers+David+Carlson&amp;search_field=search</field>
 </doc>
 </add>

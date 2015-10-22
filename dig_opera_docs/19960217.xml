@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960217</field>
+<field name="genre">Operas</field>
 <field name="title">Ashoka's Dream</field>
 <field name="titlesort">Ashoka's Dream</field>
 <field name="composer">Peter Lieberson</field>
@@ -14,7 +14,6 @@
 <field name="city">Santa Fe</field>
 <field name="region">New Mexico</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ashoka's+Dream+Peter+Lieberson&amp;search_field=search</field>
 </doc>
 </add>

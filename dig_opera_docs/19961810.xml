@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961810</field>
+<field name="genre">Operas</field>
 <field name="title">Naturoperan Sagan om Åland</field>
 <field name="titlesort">Naturoperan Sagan om Åland</field>
 <field name="composer">Peter Lång </field>
@@ -13,7 +13,6 @@
 <field name="city">Finström</field>
 <field name="region">Ahvenanmaa</field>
 <field name="country">Finland</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Naturoperan+Sagan+om+Åland+Peter+Lång+&amp;search_field=search</field>
 </doc>
 </add>

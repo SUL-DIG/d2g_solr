@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960542</field>
+<field name="genre">Operas</field>
 <field name="title">Democracy: An American Comedy</field>
 <field name="titlesort">Democracy: An American Comedy</field>
 <field name="composer">Scott Wheeler</field>
@@ -14,7 +14,6 @@
 <field name="city">Washingon</field>
 <field name="region">District of Columbia</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Democracy:+An+American+Comedy+Scott+Wheeler&amp;search_field=search</field>
 </doc>
 </add>

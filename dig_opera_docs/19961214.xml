@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961214</field>
+<field name="genre">Operas</field>
 <field name="title">Ja Schatz</field>
 <field name="titlesort">Ja Schatz</field>
 <field name="composer">Erke Duit</field>
@@ -12,7 +12,6 @@
 <field name="city">Sankt Gallen</field>
 <field name="region">Sankt Gallen</field>
 <field name="country">Switzerland</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ja+Schatz+Erke+Duit&amp;search_field=search</field>
 </doc>
 </add>

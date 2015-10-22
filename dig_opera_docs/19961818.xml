@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961818</field>
+<field name="genre">Operas</field>
 <field name="title">Nerkes</field>
 <field name="titlesort">Nerkes</field>
 <field name="composer">Khusain Faizullovich Akhmetov</field>
@@ -13,7 +13,6 @@
 <field name="city">Perm'</field>
 <field name="region">Perm' Oblast</field>
 <field name="country">Russia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nerkes+Khusain+Faizullovich+Akhmetov&amp;search_field=search</field>
 </doc>
 </add>

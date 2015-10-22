@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962831</field>
+<field name="genre">Operas</field>
 <field name="title">The Walls of Troy</field>
 <field name="titlesort">Walls of Troy</field>
 <field name="composer">David Griffiths</field>
@@ -13,7 +13,6 @@
 <field name="theater">Waikato University</field>
 <field name="city">Hamilton</field>
 <field name="country">New Zealand</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Walls+of+Troy+David+Griffiths&amp;search_field=search</field>
 </doc>
 </add>

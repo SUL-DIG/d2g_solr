@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960940</field>
+<field name="genre">Operas</field>
 <field name="title">Fulgor y Muerte de Joaquin Murieta</field>
 <field name="titlesort">Fulgor y Muerte de Joaquin Murieta</field>
 <field name="composer">Sergio Ortega</field>
@@ -13,7 +13,6 @@
 <field name="theater">Teatro Municipal</field>
 <field name="city">Santiago</field>
 <field name="country">Chile</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fulgor+y+Muerte+de+Joaquin+Murieta+Sergio+Ortega&amp;search_field=search</field>
 </doc>
 </add>

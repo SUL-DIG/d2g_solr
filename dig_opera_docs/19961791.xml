@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961791</field>
+<field name="genre">Operas</field>
 <field name="title">Nachiketa</field>
 <field name="titlesort">Nachiketa</field>
 <field name="composer">Nigel Osborne</field>
@@ -13,7 +13,6 @@
 <field name="theater">Opera Circus</field>
 <field name="city">Puducherry</field>
 <field name="country">India</field>
-<field name="genre">Opera</field>
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nachiketa+Nigel+Osborne&amp;search_field=search</field>
 </doc>

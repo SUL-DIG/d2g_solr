@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960982</field>
+<field name="genre">Operas</field>
 <field name="title">Gesualdo</field>
 <field name="titlesort">Gesualdo</field>
 <field name="composer">Bo Holten</field>
@@ -14,7 +14,6 @@
 <field name="city">Copenhagen</field>
 <field name="region">Hovedstaden</field>
 <field name="country">Denmark</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gesualdo+Bo+Holten&amp;search_field=search</field>
 </doc>
 </add>

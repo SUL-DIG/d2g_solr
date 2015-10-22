@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961733</field>
+<field name="genre">Operas</field>
 <field name="title">Minsk</field>
 <field name="titlesort">Minsk</field>
 <field name="composer">Ian Wilson</field>
@@ -14,7 +14,6 @@
 <field name="city">Heilbronn</field>
 <field name="region">Baden-Württemberg</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Minsk+Ian+Wilson&amp;search_field=search</field>
 </doc>
 </add>

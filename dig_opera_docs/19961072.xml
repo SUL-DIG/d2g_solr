@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961072</field>
+<field name="genre">Operas</field>
 <field name="title">Heroes Don’t Dance</field>
 <field name="titlesort">Heroes Don’t Dance</field>
 <field name="composer">Julian Grant</field>
@@ -14,7 +14,6 @@
 <field name="city">Cambridge </field>
 <field name="region">Cambridgeshire</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Heroes+Don’t+Dance+Julian+Grant&amp;search_field=search</field>
 </doc>
 </add>

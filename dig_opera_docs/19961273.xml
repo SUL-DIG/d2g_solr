@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961273</field>
+<field name="genre">Operas</field>
 <field name="title">Kafka's Chimp</field>
 <field name="titlesort">Kafka's Chimp</field>
 <field name="composer">John Metcalf</field>
@@ -14,7 +14,6 @@
 <field name="city">Banff</field>
 <field name="region">Alberta</field>
 <field name="country">Canada</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kafka's+Chimp+John+Metcalf&amp;search_field=search</field>
 </doc>
 </add>

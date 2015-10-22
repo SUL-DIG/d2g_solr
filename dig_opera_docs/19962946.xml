@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962946</field>
+<field name="genre">Operas</field>
 <field name="title">Un alcalde a la moderna y dos primos a la antigua</field>
 <field name="titlesort">alcalde a la moderna y dos primos a la antigua</field>
 <field name="composer">José María Ponce de León</field>
@@ -12,7 +12,6 @@
 <field name="librettistsort">Samper, José María</field>
 <field name="city">Bogota</field>
 <field name="country">Colombia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=alcalde+a+la+moderna+y+dos+primos+a+la+antigua+José+María+Ponce+de+León&amp;search_field=search</field>
 </doc>
 </add>

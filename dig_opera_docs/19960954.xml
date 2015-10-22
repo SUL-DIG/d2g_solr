@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960954</field>
+<field name="genre">Operas</field>
 <field name="title">Game Misconduct</field>
 <field name="titlesort">Game Misconduct</field>
 <field name="composer">Leslie Uyeda</field>
@@ -14,7 +14,6 @@
 <field name="city">Vancouver</field>
 <field name="region">British Columbia</field>
 <field name="country">Canada</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Game+Misconduct+Leslie+Uyeda&amp;search_field=search</field>
 </doc>
 </add>

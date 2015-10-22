@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962339</field>
+<field name="genre">Operas</field>
 <field name="title">Soul Gone Home</field>
 <field name="titlesort">Soul Gone Home</field>
 <field name="composer">William Banfield</field>
@@ -16,7 +16,6 @@
 <field name="city">Durham</field>
 <field name="region">North Carolina</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Soul+Gone+Home+William+Banfield&amp;search_field=search</field>
 </doc>
 </add>

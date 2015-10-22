@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962715</field>
+<field name="genre">Operas</field>
 <field name="title">The Raven</field>
 <field name="titlesort">Raven</field>
 <field name="composer">Toshio Hosokawa</field>
@@ -14,7 +14,6 @@
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>
 <field name="country">Belgium</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Raven+Toshio+Hosokawa&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961466</field>
+<field name="genre">Operas</field>
 <field name="title">Last One Out</field>
 <field name="titlesort">Last One Out</field>
 <field name="composer">Gareth Williams</field>
@@ -14,7 +14,6 @@
 <field name="city">Fraserburgh</field>
 <field name="region">Scotland</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Last+One+Out+Gareth+Williams&amp;search_field=search</field>
 </doc>
 </add>

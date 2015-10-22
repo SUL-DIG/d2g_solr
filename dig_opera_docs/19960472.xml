@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960472</field>
+<field name="genre">Operas</field>
 <field name="title">Crime Fiction</field>
 <field name="titlesort">Crime Fiction</field>
 <field name="composer">Huw Watkins</field>
@@ -14,7 +14,6 @@
 <field name="city">Cardiff</field>
 <field name="region">Wales </field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Crime+Fiction+Huw+Watkins&amp;search_field=search</field>
 </doc>
 </add>

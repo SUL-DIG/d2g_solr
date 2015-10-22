@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962785</field>
+<field name="genre">Operas</field>
 <field name="title">The Tell-Tale Heart</field>
 <field name="titlesort">Tell-Tale Heart</field>
 <field name="composer">Stewart Copeland</field>
@@ -16,7 +16,6 @@
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tell-Tale+Heart+Stewart+Copeland&amp;search_field=search</field>
 </doc>
 </add>

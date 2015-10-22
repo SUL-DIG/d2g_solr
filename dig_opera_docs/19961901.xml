@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961901</field>
+<field name="genre">Operas</field>
 <field name="title">Onni-Gebardi ja karhu (Cheetah Onni and a Bear)</field>
 <field name="titlesort">Onni-Gebardi ja karhu (Cheetah Onni and a Bear)</field>
 <field name="composer">Perttu Haapanen</field>
@@ -12,7 +12,6 @@
 <field name="city">Espoo</field>
 <field name="region">Uusimaa</field>
 <field name="country">Finland</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Onni-Gebardi+ja+karhu+(Cheetah+Onni+and+a+Bear)+Perttu+Haapanen&amp;search_field=search</field>
 </doc>
 </add>

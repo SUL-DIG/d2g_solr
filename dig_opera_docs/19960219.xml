@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960219</field>
+<field name="genre">Operas</field>
 <field name="title">Aska i vuk (Aska and the Wolf)</field>
 <field name="titlesort">Aska i vuk (Aska and the Wolf)</field>
 <field name="composer">Asim Horozić </field>
@@ -15,7 +15,6 @@
 <field name="theater">Narodno pozoriste</field>
 <field name="city">Sarajevo</field>
 <field name="country">Bosnia-Hercegovina</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aska+i+vuk+(Aska+and+the+Wolf)+Asim+Horozić+&amp;search_field=search</field>
 </doc>
 </add>

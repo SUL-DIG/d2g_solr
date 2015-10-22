@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961571</field>
+<field name="genre">Operas</field>
 <field name="title">Little Women</field>
 <field name="titlesort">Little Women</field>
 <field name="composer">Mark Adamo</field>
@@ -16,7 +16,6 @@
 <field name="city">Houston</field>
 <field name="region">Texas</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Little+Women+Mark+Adamo&amp;search_field=search</field>
 </doc>
 </add>

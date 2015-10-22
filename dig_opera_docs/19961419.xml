@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961419</field>
+<field name="genre">Operas</field>
 <field name="title">La maison qui chante</field>
 <field name="titlesort">maison qui chante</field>
 <field name="composer">Betsy Jolas</field>
@@ -14,7 +14,6 @@
 <field name="city">Saint-Quentin-en-Yvelines</field>
 <field name="region">Yvelines</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=maison+qui+chante+Betsy+Jolas&amp;search_field=search</field>
 </doc>
 </add>

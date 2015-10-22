@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962841</field>
+<field name="genre">Operas</field>
 <field name="title">The White Lady</field>
 <field name="titlesort">White Lady</field>
 <field name="composer">David Griffiths</field>
@@ -13,7 +13,6 @@
 <field name="theater">Waikato University</field>
 <field name="city">Hamilton</field>
 <field name="country">New Zealand</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=White+Lady+David+Griffiths&amp;search_field=search</field>
 </doc>
 </add>

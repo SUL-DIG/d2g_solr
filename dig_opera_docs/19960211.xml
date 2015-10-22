@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960211</field>
+<field name="genre">Operas</field>
 <field name="title">As alegrias de Nossa Senhora</field>
 <field name="titlesort">alegrias de Nossa Senhora</field>
 <field name="composer">Lindembergue Cardoso</field>
@@ -13,7 +13,6 @@
 <field name="city">Salvador</field>
 <field name="region">Bahia</field>
 <field name="country">Brazil</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=alegrias+de+Nossa+Senhora+Lindembergue+Cardoso&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962981</field>
+<field name="genre">Operas</field>
 <field name="title">Varjak Paw</field>
 <field name="titlesort">Varjak Paw</field>
 <field name="composer">Julian Philips</field>
@@ -16,7 +16,6 @@
 <field name="city">Basingstoke</field>
 <field name="region">Hampshire</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Varjak+Paw+Julian+Philips&amp;search_field=search</field>
 </doc>
 </add>

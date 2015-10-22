@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961679</field>
+<field name="genre">Operas</field>
 <field name="title">Mary Seacole</field>
 <field name="titlesort">Mary Seacole</field>
 <field name="composer">Richard Chew</field>
@@ -14,7 +14,6 @@
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mary+Seacole+Richard+Chew&amp;search_field=search</field>
 </doc>
 </add>

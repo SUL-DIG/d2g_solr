@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961827</field>
+<field name="genre">Operas</field>
 <field name="title">Nigredo Hotel</field>
 <field name="titlesort">Nigredo Hotel</field>
 <field name="composer">Nic Gotham</field>
@@ -14,7 +14,6 @@
 <field name="city">Toronto</field>
 <field name="region">Ontario</field>
 <field name="country">Canada</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nigredo+Hotel+Nic+Gotham&amp;search_field=search</field>
 </doc>
 </add>

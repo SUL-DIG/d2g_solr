@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961475</field>
+<field name="genre">Operas</field>
 <field name="title">Le collier des ruses</field>
 <field name="titlesort">collier des ruses</field>
 <field name="composer">Ahmed Essyad</field>
@@ -16,7 +16,6 @@
 <field name="city">Avignon</field>
 <field name="region">Vaucluse</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=collier+des+ruses+Ahmed+Essyad&amp;search_field=search</field>
 </doc>
 </add>

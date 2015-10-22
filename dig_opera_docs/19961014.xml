@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961014</field>
+<field name="genre">Operas</field>
 <field name="title">Gramma</field>
 <field name="titlesort">Gramma</field>
 <field name="composer">José María Sánchez-Verdú</field>
@@ -14,7 +14,6 @@
 <field name="city">Munich</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gramma+José+María+Sánchez-Verdú&amp;search_field=search</field>
 </doc>
 </add>

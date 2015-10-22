@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962904</field>
+<field name="genre">Operas</field>
 <field name="title">Traveller’s Tale</field>
 <field name="titlesort">Traveller’s Tale</field>
 <field name="composer">Michael Kamen</field>
@@ -15,7 +15,6 @@
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Traveller’s+Tale+Michael+Kamen&amp;search_field=search</field>
 </doc>
 </add>

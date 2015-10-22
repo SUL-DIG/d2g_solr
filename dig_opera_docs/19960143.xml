@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960143</field>
+<field name="genre">Operas</field>
 <field name="title">Amin</field>
 <field name="titlesort">Amin</field>
 <field name="composer">Matteo D'Amico</field>
@@ -14,7 +14,6 @@
 <field name="city">Palermo</field>
 <field name="region">Sicilia</field>
 <field name="country">Italy</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amin+Matteo+D'Amico&amp;search_field=search</field>
 </doc>
 </add>

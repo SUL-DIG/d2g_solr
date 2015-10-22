@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961953</field>
+<field name="genre">Operas</field>
 <field name="title">Paradise reloaded (Lilith)</field>
 <field name="titlesort">Paradise reloaded (Lilith)</field>
 <field name="composer">Peter Eötvös</field>
@@ -15,7 +15,6 @@
 <field name="theater">Neue Oper Wien</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paradise+reloaded+(Lilith)+Peter+Eötvös&amp;search_field=search</field>
 </doc>
 </add>

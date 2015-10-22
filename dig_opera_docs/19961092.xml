@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961092</field>
+<field name="genre">Operas</field>
 <field name="title">Hittekvinnan</field>
 <field name="titlesort">Hittekvinnan</field>
 <field name="composer">Paula af Malmborg Ward</field>
@@ -16,7 +16,6 @@
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>
 <field name="country">Sweden</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hittekvinnan+Paula+af+Malmborg+Ward&amp;search_field=search</field>
 </doc>
 </add>

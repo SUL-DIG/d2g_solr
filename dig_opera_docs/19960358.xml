@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960358</field>
+<field name="genre">Operas</field>
 <field name="title">Brave Jack</field>
 <field name="titlesort">Brave Jack</field>
 <field name="composer">Emory Waters</field>
@@ -16,7 +16,6 @@
 <field name="city">Troy</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Brave+Jack+Emory+Waters&amp;search_field=search</field>
 </doc>
 </add>

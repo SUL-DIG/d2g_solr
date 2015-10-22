@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960110</field>
+<field name="genre">Operas</field>
 <field name="title">Aliados</field>
 <field name="titlesort">Aliados</field>
 <field name="composer">Sebastian Rivas</field>
@@ -14,7 +14,6 @@
 <field name="city">Gennevilliers</field>
 <field name="region">Hauts-de-Seine</field>
 <field name="country">France</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aliados+Sebastian+Rivas&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962077</field>
+<field name="genre">Operas</field>
 <field name="title">Pyramus and Thisbe</field>
 <field name="titlesort">Pyramus and Thisbe</field>
 <field name="composer">Neely Bruce</field>
@@ -15,7 +15,6 @@
 <field name="city">Tuscaloosa</field>
 <field name="region">Alabama</field>
 <field name="country">United States</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pyramus+and+Thisbe+Neely+Bruce&amp;search_field=search</field>
 </doc>
 </add>

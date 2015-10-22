@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960086</field>
+<field name="genre">Operas</field>
 <field name="title">Agnete og Havmanden</field>
 <field name="titlesort">Agnete og Havmanden</field>
 <field name="composer">Hilda Sehested</field>
@@ -14,7 +14,6 @@
 <field name="city">Odense</field>
 <field name="region">Syddanmark</field>
 <field name="country">Denmark</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Agnete+og+Havmanden+Hilda+Sehested&amp;search_field=search</field>
 </doc>
 </add>

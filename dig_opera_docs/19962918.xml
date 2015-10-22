@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962918</field>
+<field name="genre">Operas</field>
 <field name="title">Trojruza (The Rose)</field>
 <field name="titlesort">Trojruza (The Rose)</field>
 <field name="composer">Ladislav Kupkovič </field>
@@ -13,7 +13,6 @@
 <field name="theater">Slovenské Narodné Divadlo</field>
 <field name="city">Bratislava</field>
 <field name="country">Slovakia</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Trojruza+(The+Rose)+Ladislav+Kupkovič+&amp;search_field=search</field>
 </doc>
 </add>

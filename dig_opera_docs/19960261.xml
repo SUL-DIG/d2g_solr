@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960261</field>
+<field name="genre">Operas</field>
 <field name="title">Bacon 1561-1992</field>
 <field name="titlesort">Bacon 1561-1992</field>
 <field name="composer">Manuel Hildalgo</field>
@@ -14,7 +14,6 @@
 <field name="city">Schwetzingen</field>
 <field name="region">Baden-Württemberg</field>
 <field name="country">Germany</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bacon+1561-1992+Manuel+Hildalgo&amp;search_field=search</field>
 </doc>
 </add>

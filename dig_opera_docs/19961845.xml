@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961845</field>
+<field name="genre">Operas</field>
 <field name="title">Norge-Brasil</field>
 <field name="titlesort">Norge-Brasil</field>
 <field name="composer">Helge Førde</field>
@@ -14,7 +14,6 @@
 <field name="city">Nordfjordeid</field>
 <field name="region">Sogn og Fjordane</field>
 <field name="country">Norway</field>
-<field name="genre">Opera</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Norge-Brasil+Helge+Førde&amp;search_field=search</field>
 </doc>
 </add>
