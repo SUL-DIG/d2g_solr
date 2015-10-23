@@ -10,8 +10,8 @@
 <field name="date">September 27, 1996</field>
 <field name="librettist">Kalevi Aho</field>
 <field name="librettistSort">Aho, Kalevi</field>
-<field name="librettist">Karel & Josef Capek</field>
-<field name="librettistSort">Capek, Karel & Josef</field>
+<field name="librettist">Karel &amp; Josef Capek</field>
+<field name="librettistSort">Capek, Karel &amp; Josef</field>
 <field name="theater">Suomen Kansallisoopperai</field>
 <field name="city">Helsinki</field>
 <field name="region">Uusimaa</field>

@@ -10,8 +10,8 @@
 <field name="date">April 28, 2013</field>
 <field name="librettist">Deborah Brevoort</field>
 <field name="librettistSort">Brevoort, Deborah</field>
-<field name="librettist">Jaap &  Ina Soep Polak</field>
-<field name="librettistSort">Polak, Jaap &  Ina Soep</field>
+<field name="librettist">Jaap &amp;  Ina Soep Polak</field>
+<field name="librettistSort">Polak, Jaap &amp;  Ina Soep</field>
 <field name="theater">Shaarei Tikvah Congregation</field>
 <field name="city">Scarsdale</field>
 <field name="region">New York</field>

@@ -10,8 +10,8 @@
 <field name="date">February 19, 2005</field>
 <field name="librettist">Anno Schreier</field>
 <field name="librettistSort">Schreier, Anno</field>
-<field name="librettist">Jakob & Wilhelm Grimm</field>
-<field name="librettistSort">Grimm, Jakob & Wilhelm</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
 <field name="theater">Saarländisches Staatstheater</field>
 <field name="city">Saarbrücken</field>
 <field name="region">Saarland</field>

@@ -8,8 +8,8 @@
 <field name="composerSort">Švara, Danilo</field>
 <field name="year">1974</field>
 <field name="date">December 22, 1974</field>
-<field name="librettist">Jakob & Wilhelm Grimm</field>
-<field name="librettistSort">Grimm, Jakob & Wilhelm</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
 <field name="city">Maribor</field>
 <field name="country">Slovenia</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Štirje+junaki+(The+Four+Heroes)+Danilo+Švara&amp;search_field=search</field>

@@ -2,8 +2,8 @@
 <doc>
 <field name="id">19961217</field>
 <field name="genre">Operas</field>
-<field name="title">Jack & Jill</field>
-<field name="titleSort">Jack & Jill</field>
+<field name="title">Jack &amp; Jill</field>
+<field name="titleSort">Jack &amp; Jill</field>
 <field name="composer">Jo Davies</field>
 <field name="composerSort">Davies, Jo</field>
 <field name="year">2002</field>

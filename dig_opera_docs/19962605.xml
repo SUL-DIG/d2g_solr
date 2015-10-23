@@ -10,8 +10,8 @@
 <field name="date">April 14, 1997</field>
 <field name="librettist">Patricia Debney</field>
 <field name="librettistSort">Debney, Patricia</field>
-<field name="librettist">Jakob & Wilhelm Grimm</field>
-<field name="librettistSort">Grimm, Jakob & Wilhelm</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
 <field name="theater">Biennale</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

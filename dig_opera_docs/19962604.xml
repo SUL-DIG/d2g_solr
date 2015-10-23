@@ -10,8 +10,8 @@
 <field name="date">July 17, 1993</field>
 <field name="librettist">Die Edwards</field>
 <field name="librettistSort">Edwards, Die</field>
-<field name="librettist">Jakob & Wilhelm Grimm</field>
-<field name="librettistSort">Grimm, Jakob & Wilhelm</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
 <field name="theater">Broomhill Opera</field>
 <field name="city">Tunbridge Wells</field>
 <field name="region">Kent</field>

@@ -10,8 +10,8 @@
 <field name="date">Aug 1842</field>
 <field name="librettist">Mary a'Beckett</field>
 <field name="librettistSort">a'Beckett, Mary</field>
-<field name="librettist">Jakob & Wilhelm Grimm</field>
-<field name="librettistSort">Grimm, Jakob & Wilhelm</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
 <field name="theater">Surrey Gardens Theatre</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

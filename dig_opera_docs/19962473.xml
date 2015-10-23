@@ -10,8 +10,8 @@
 <field name="date">December 11, 2009</field>
 <field name="librettist">Dean Burry</field>
 <field name="librettistSort">Burry, Dean</field>
-<field name="librettist">Jakob & Wilhelm Grimm</field>
-<field name="librettistSort">Grimm, Jakob & Wilhelm</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
 <field name="theater">Opera Lyra</field>
 <field name="city">Ottawa</field>
 <field name="region">Ontario</field>

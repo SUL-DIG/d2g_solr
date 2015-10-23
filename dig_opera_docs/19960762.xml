@@ -10,8 +10,8 @@
 <field name="date">May 2, 2011</field>
 <field name="librettist">Helga Utz</field>
 <field name="librettistSort">Utz, Helga</field>
-<field name="librettist">Jakob & Wilhelm Grimm</field>
-<field name="librettistSort">Grimm, Jakob & Wilhelm</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
 <field name="theater">Deutsche Staatsoper</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>

@@ -10,8 +10,8 @@
 <field name="date">April 21, 2011</field>
 <field name="librettist">Marius Felix Lange</field>
 <field name="librettistSort">Lange, Marius Felix</field>
-<field name="librettist">Jakob & Wilhelm Grimm</field>
-<field name="librettistSort">Grimm, Jakob & Wilhelm</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
 <field name="theater">Kinderoper, Altes Pfandhaus</field>
 <field name="city">Cologne</field>
 <field name="region">Nordrhein-Westfallen</field>

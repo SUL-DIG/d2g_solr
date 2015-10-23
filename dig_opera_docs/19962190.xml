@@ -10,8 +10,8 @@
 <field name="date">January 21, 1977</field>
 <field name="librettist">John Gardner</field>
 <field name="librettistSort">Gardner, John</field>
-<field name="librettist">Jakob & Wilhelm Grimm</field>
-<field name="librettistSort">Grimm, Jakob & Wilhelm</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
 <field name="theater">University of Kentucky</field>
 <field name="city">Lexington</field>
 <field name="region">Kentucky</field>

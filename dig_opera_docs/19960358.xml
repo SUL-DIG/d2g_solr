@@ -10,8 +10,8 @@
 <field name="date">November 7, 1993</field>
 <field name="librettist">Mary Ann Waters</field>
 <field name="librettistSort">Waters, Mary Ann</field>
-<field name="librettist">Jakob & Wilhelm Grimm</field>
-<field name="librettistSort">Grimm, Jakob & Wilhelm</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
 <field name="theater">Rensselaer Polytechnic Institute</field>
 <field name="city">Troy</field>
 <field name="region">New York</field>

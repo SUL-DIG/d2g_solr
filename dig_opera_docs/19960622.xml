@@ -10,8 +10,8 @@
 <field name="date">February 18, 2010</field>
 <field name="librettist">Helga Utz</field>
 <field name="librettistSort">Utz, Helga</field>
-<field name="librettist">Jakob & Wilhelm Grimm</field>
-<field name="librettistSort">Grimm, Jakob & Wilhelm</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
 <field name="theater">Dschungel, Theaterhaus für junges Publikum</field>
 <field name="city">Vienna</field>
 <field name="country">Austria</field>

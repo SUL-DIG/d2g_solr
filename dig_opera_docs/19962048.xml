@@ -10,8 +10,8 @@
 <field name="date">May 20, 1989</field>
 <field name="librettist">Wallis Wood</field>
 <field name="librettistSort">Wood, Wallis</field>
-<field name="librettist">Jakob & Wilhelm Grimm</field>
-<field name="librettistSort">Grimm, Jakob & Wilhelm</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
 <field name="theater">White Plains Intermediate School</field>
 <field name="city">White Plains</field>
 <field name="region">New York</field>

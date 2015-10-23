@@ -10,8 +10,8 @@
 <field name="date">March 20, 1998</field>
 <field name="librettist">Neely Bruce</field>
 <field name="librettistSort">Bruce, Neely</field>
-<field name="librettist">Jakob & Wilhelm Grimm</field>
-<field name="librettistSort">Grimm, Jakob & Wilhelm</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
 <field name="theater">Bushnell Memorial Auditorium</field>
 <field name="city">Hartford</field>
 <field name="region">Connecticut</field>

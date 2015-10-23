@@ -10,8 +10,8 @@
 <field name="date">October 17, 2014</field>
 <field name="librettist">Dana Gioia</field>
 <field name="librettistSort">Gioia, Dana</field>
-<field name="librettist">Jakob & Wilhelm Grimm</field>
-<field name="librettistSort">Grimm, Jakob & Wilhelm</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
 <field name="theater">Virginia Polytechnic Institute and State University</field>
 <field name="city">Blacksburg</field>
 <field name="region">Virginia</field>

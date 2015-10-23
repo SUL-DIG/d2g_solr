@@ -10,8 +10,8 @@
 <field name="date">January 17, 2013</field>
 <field name="librettist">Richard Gill</field>
 <field name="librettistSort">Gill, Richard</field>
-<field name="librettist">Jakob & Wilhelm Grimm</field>
-<field name="librettistSort">Grimm, Jakob & Wilhelm</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
 <field name="theater">Her Majesty's Theatre</field>
 <field name="city">Melbourne</field>
 <field name="region">Victoria</field>
