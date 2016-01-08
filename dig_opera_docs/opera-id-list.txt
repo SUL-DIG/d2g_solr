@@ -33,3 +33,5 @@ ID # - Date Used - Opera Title
 20100028 - 2015-09-03 - Helen of Braemore
 20100029 - 2015-09-03 - Cullercoats Tommy
 20100030 - 2015-09-03 - Cake-Talk
+20100031 - 2016-01-08 - City of Ashes
+20100032 - 2016-01-08 - The Island of the Ugly Sisters
