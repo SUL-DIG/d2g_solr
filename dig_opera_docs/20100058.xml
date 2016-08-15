@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100058</field>
+        <field name="genre">Operas</field>
+  
+        <field name="title">Prince of Players</field>
+        <!-- The titleSort field should be the Title beginning with whatever word should be used for alphabetical sorting (the elimination of title-beginning articles). -->
+        <field name="titleSort">Prince of Players</field>
+        <!-- The composer's name should be put in Natural Order: First Middle Last -->
+        <field name="composer">Carlisle Floyd</field>
+        <!-- The composer's name should be put in Indirect Order: Last, First Middle, etc. -->
+        <field name="composerSort">Floyd, Carlisle</field>
+        <!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        <field name="librettist">Carlisle Floyd</field>
+        <!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
+        <field name="librettistSort">Floyd, Carlisle</field>
+ <!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        <field name="librettist">Jeffrey Hatcher</field>
+        <!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
+        <field name="librettistSort">Hatcher, Jeffrey</field>
+        <field name="year">2016</field>
+        <!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
+        <field name="date">March 5, 2016</field>
+        <field name="theater">Grand Opera</field>
+        <field name="city">Houston</field>
+        <!-- We use the region field for states or regions. -->
+        <field name="region">Texas</field>
+        <field name="country">United States</field>
+        <!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prince+Players+Carlisle+Floyd&amp;search_field=search</field>
+        
+    </doc>
+</add>
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

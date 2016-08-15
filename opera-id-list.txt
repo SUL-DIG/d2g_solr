@@ -1,0 +1,78 @@
+Opera ID Number List
+Using the format below, you can continuously add to this list in an incremental format. Begin with 20100001, then 20100002, etc.
+
+ID # - Date Used - Opera Title
+
+20100001 - 2013-09-26 - Anna Nicole
+20100002 - 2013-09-26 - Little Nemo in Slumberland
+20100003 - 2013-09-26 - Fedra
+20100004 - 2013-10-08 - Emmeline
+20100005 - 2013-10-08 - Dolores Claiborne
+20100006 - 2013-10-08 - Fantastic Mr. Fox
+20100007 - 2013-11-25 - Urteil der Kalliope
+20100008 - 2013-11-25 - Medea
+20100009 - 2013-11-25 - Rabarbaro rabarbaro
+20100010 - 2014-03-04 - Written on skin
+20100011 - 2014-03-04 - La metamorfosi
+20100012 - 2014-05-20 - Paul's case
+20100013 - 2014-05-20 - The color of gold
+20100014 - 2014-06-24 - Doctor Atomic
+20100015 - 2014-06-24 - Appomattox
+20100016 - 2014-06-24 - Bonesetter's Daughter
+20100017 - 2014-06-24 - Heart of a Soldier
+20100018 - 2014-06-24 - Secret Garden
+20100019 - 2014-06-24 - Gospel of Mary Magdalene
+20100020 - 2014-06-24 - Streetcar Named Desire
+20100021 - 2014-06-24 - Dead Man Walking
+20100022 - 2014-12-02 - Pippetto ha fatto sega
+20100023 - 2015-12-02 - Rise of Spinoza
+20100024 - 2015-04-20 - Dafne
+20100025 - 2015-06-08 - Crossing
+20100026 - 2015-06-08 - CO2
+20100027 - 2015-07-10 - Two women
+20100028 - 2015-09-03 - Helen of Braemore
+20100029 - 2015-09-03 - Cullercoats Tommy
+20100030 - 2015-09-03 - Cake-Talk
+20100031 - 2016-01-08 - City of Ashes
+20100032 - 2016-01-08 - The Island of the Ugly Sisters
+20100033 - 2016-08-09 - Becoming Santa
+20100034 - 2016-08-09 - Bel Canto
+20100035 - 2016-08-09 - Entanglement
+20100036 - 2016-08-09 - Great Scott
+20100037 - 2016-08-09 - Out of Darkness
+20100038 - 2016-08-09 - Morgen und Abend
+20100039 - 2016-08-09 - Notorious
+20100040 - 2016-08-09 - Figaro Gets a Divorce
+20100041 - 2016-08-09 - Found and Lost
+20100042 - 2016-08-09 - JFK
+20100043 - 2016-08-09 - The Shining
+20100044 - 2016-08-09 - Pedr Solis
+20100045 - 2016-08-09 - Cloudstreet
+20100046 - 2016-08-09 - Senza Sangue
+20100047 - 2016-08-09 - Blank Out
+20100048 - 2016-08-09 - Trials of Patricia Isasa
+20100049 - 2016-08-09 - Les Feulettes (Lilies)
+20100050 - 2016-08-09 - Beowolf
+20100051 - 2016-08-09 - The Devil Inside
+20100052 - 2016-08-09 - Troubled Water
+20100053 - 2016-08-09 - Lady Bird: First Lady of the Land
+20100054 - 2016-08-09 - Witches of Venice
+20100055 - 2016-08-09 - As You Like It
+20100056 - 2016-08-09 - Memory Boy
+20100057 - 2016-08-09 - Paradise Interrupted
+20100058 - 2016-08-09 - Prince of Players
+20100059 - 2016-08-09 - Isis and Osiris
+20100060 - 2016-08-10 - anatomy theater
+20100061 - 2016-08-10 - Empty the House
+20100062 - 2016-08-10 - In Parenthesis
+20100063 - 2016-08-10 - Shalimar the Clown
+20100064 - 2016-08-10 - American Soldier
+20100065 - 2016-08-10 - The Body Politic
+20100066 - 2016-08-10 - An American Dream
+20100067 - 2016-08-10 - Elysium
+20100068 - 2016-08-10 - Fellow Travelers
+20100069 - 2016-08-10 - The Long Walk
+20100070 - 2016-08-10 - UnShakeable
+20100071 - 2016-08-10 - Via Lactea
+
+
