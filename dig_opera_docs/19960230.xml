@@ -4,8 +4,8 @@
 <field name="genre">Operas</field>
 <field name="title">Au temps passé</field>
 <field name="titleSort">Au temps passé</field>
-<field name="composer">M. Mariton</field>
-<field name="composerSort">Mariton, M.</field>
+<field name="composer">Maurice Mariton</field>
+<field name="composerSort">Mariton, Maurice</field>
 <field name="year">1909</field>
 <field name="librettist">J. Henry-Lagaillarde </field>
 <field name="librettistSort">Henry-Lagaillarde, J.</field>
@@ -13,6 +13,6 @@
 <field name="city">Asnières</field>
 <field name="region">Hauts-de-Seine</field>
 <field name="country">France</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Au+temps+passé+M.+Mariton&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Au+temps+passé+Maurice+Mariton&amp;search_field=search</field>
 </doc>
 </add>

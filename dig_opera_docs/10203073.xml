@@ -10,8 +10,8 @@
 		<field name="date">January 11, 1829</field>
 		<field name="composer">__  Savène</field>
 		<field name="composerSort">Savène, __</field>
-		<field name="librettist">Amédée Decampe</field>
-		<field name="librettistSort">Decampe, Amédée</field>
+		<field name="librettist">Louis Amédée Decampe</field>
+		<field name="librettistSort">Decampe, Louis Amédée</field>
 		
 		<field name="theater">Église paroissiale Notre-Dame de la Daurade</field>
 		<field name="city">Toulouse</field>
