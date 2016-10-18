@@ -2,10 +2,10 @@
 <doc>
 <field name="id">10114866</field>
 <field name="genre">Operas</field>
-<field name="title">Tündérszerelem (Fairy Love)</field>
-<field name="titleSort">Tündérszerelem (Fairy Love)</field>
-<field name="composer">Jenö Huszka</field>
-<field name="composerSort">Huszka, Jenö</field>
+<field name="title">Tűndérszerelem (Fairy Love)</field>
+<field name="titleSort">Tűndérszerelem (Fairy Love)</field>
+<field name="composer">Jenő Huszka</field>
+<field name="composerSort">Huszka, Jenő</field>
 <field name="year">1907</field>
 <field name="date">1907</field>
 <field name="librettist">Ferenc Martos</field>
@@ -17,6 +17,6 @@
 
 <field name="country">Hungary</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tündérszerelem+Fairy+Love+Jenö+Huszka&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tűndérszerelem+Fairy+Love+Jenő+Huszka&amp;search_field=search</field>
 </doc>
 </add>

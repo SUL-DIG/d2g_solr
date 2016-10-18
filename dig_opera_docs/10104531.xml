@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10104531</field>
 <field name="genre">Operas</field>
-<field name="title">A bolygó görög</field>
-<field name="titleSort">bolygó görög</field>
+<field name="title">A bolygó gőrőg</field>
+<field name="titleSort">bolygó gőrőg</field>
 <field name="composer">Ákos Buttykay</field>
 <field name="composerSort">Buttykay, Ákos</field>
 <field name="year">1905</field>
@@ -15,6 +15,6 @@
 
 <field name="country">Hungary</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+bolygó+görög+Ákos+Buttykay&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+bolygó+gőrőg+Ákos+Buttykay&amp;search_field=search</field>
 </doc>
 </add>

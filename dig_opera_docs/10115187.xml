@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Die Csikós-Baroness</field>
 <field name="titleSort">Csikós-Baroness</field>
-<field name="composer">[György Kohner] Georg Jarno</field>
-<field name="composerSort">Jarno, Georg [György Kohner]</field>
+<field name="composer">[Győrgy Kohner] Georg Jarno</field>
+<field name="composerSort">Jarno, Georg [Győrgy Kohner]</field>
 <field name="year">1919</field>
 <field name="date">1919</field>
 <field name="librettist">Fritz Grünbaum</field>
@@ -16,6 +16,6 @@
 <field name="region">Hamburg</field>
 <field name="country">Germany</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Csikós-Baroness+György+Kohner]+Georg+Jarno&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Csikós-Baroness+Győrgy+Kohner]+Georg+Jarno&amp;search_field=search</field>
 </doc>
 </add>

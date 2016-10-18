@@ -4,8 +4,8 @@
 <field name="genre">Operas</field>
 <field name="title">Udvari Kaland</field>
 <field name="titleSort">Udvari Kaland</field>
-<field name="composer">György Garay</field>
-<field name="composerSort">Garay, György</field>
+<field name="composer">Győrgy Garay</field>
+<field name="composerSort">Garay, Győrgy</field>
 <field name="year">1903</field>
 <field name="date">1903</field>
 <field name="librettist">Sándor Ratkay</field>
@@ -15,6 +15,6 @@
 
 <field name="country">Hungary</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Udvari+Kaland+György+Garay&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Udvari+Kaland+Győrgy+Garay&amp;search_field=search</field>
 </doc>
 </add>

@@ -4,8 +4,8 @@
 <field name="genre">Operas</field>
 <field name="title">A makrancos királylány (The Stubborn Princess)</field>
 <field name="titleSort">makrancos királylány (The Stubborn Princess)</field>
-<field name="composer">Erzsébet Szönyi</field>
-<field name="composerSort">Szönyi, Erzsébet</field>
+<field name="composer">Erzsébet Szőnyi</field>
+<field name="composerSort">Szőnyi, Erzsébet</field>
 <field name="year">1955</field>
 <field name="date">1955</field>
 <field name="librettist">Edit Kováts</field>
@@ -15,6 +15,6 @@
 
 <field name="country">Hungary</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+makrancos+királylány+The+Stubborn+Princess+Erzsébet+Szönyi&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+makrancos+királylány+The+Stubborn+Princess+Erzsébet+Szőnyi&amp;search_field=search</field>
 </doc>
 </add>

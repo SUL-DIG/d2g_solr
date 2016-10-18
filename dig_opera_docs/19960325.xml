@@ -4,18 +4,18 @@
 <field name="genre">Operas</field>
 <field name="title">Bizantyum</field>
 <field name="titleSort">Bizantyum</field>
-<field name="composer">György Selmeczi</field>
-<field name="composerSort">Selmeczi, György</field>
+<field name="composer">Győrgy Selmeczi</field>
+<field name="composerSort">Selmeczi, Győrgy</field>
 <field name="year">2014</field>
 <field name="date">June 14, 2014</field>
 <field name="librettist">Zsuzsa Kapecz</field>
 <field name="librettistSort">Kapecz, Zsuzsa</field>
-<field name="librettist">György Selmeczi</field>
-<field name="librettistSort">Selmeczi, György</field>
+<field name="librettist">Győrgy Selmeczi</field>
+<field name="librettistSort">Selmeczi, Győrgy</field>
 <field name="theater">Nemzeti Színház</field>
 <field name="city">Miskolc</field>
 <field name="region">Borsod-Abaúj-Zemplén</field>
 <field name="country">Hungary</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bizantyum+György+Selmeczi&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bizantyum+Győrgy+Selmeczi&amp;search_field=search</field>
 </doc>
 </add>

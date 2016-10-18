@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10116354</field>
 <field name="genre">Operas</field>
-<field name="title">Az eleven ördög</field>
-<field name="titleSort">eleven ördög</field>
+<field name="title">Az eleven őrdőg</field>
+<field name="titleSort">eleven őrdőg</field>
 <field name="composer">Josef Konti</field>
 <field name="composerSort">Konti, Josef</field>
 <field name="year">1884</field>
@@ -12,9 +12,9 @@
 <field name="librettistSort">Deréki, Antal</field>
 
 <field name="city">Sopron</field>
-<field name="region">Györ-Moson-Sopron</field>
+<field name="region">Győr-Moson-Sopron</field>
 <field name="country">Hungary</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Az+eleven+ördög+Josef+Konti&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Az+eleven+őrdőg+Josef+Konti&amp;search_field=search</field>
 </doc>
 </add>

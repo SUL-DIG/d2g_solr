@@ -4,8 +4,8 @@
 <field name="genre">Operas</field>
 <field name="title">Balassa Bálint</field>
 <field name="titleSort">Balassa Bálint</field>
-<field name="composer">Ödön Farkas</field>
-<field name="composerSort">Farkas, Ödön</field>
+<field name="composer">Ődőn Farkas</field>
+<field name="composerSort">Farkas, Ődőn</field>
 <field name="year">1896</field>
 <field name="date">1896</field>
 <field name="librettist">József Hamvas</field>
@@ -17,6 +17,6 @@
 
 <field name="country">Hungary</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Balassa+Bálint+Ödön+Farkas&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Balassa+Bálint+Ődőn+Farkas&amp;search_field=search</field>
 </doc>
 </add>

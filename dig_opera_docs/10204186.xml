@@ -7,8 +7,8 @@
 		
 		
 		<field name="date">1935</field>
-		<field name="composer">György Kósa</field>
-		<field name="composerSort">Kósa, György</field>
+		<field name="composer">Győrgy Kósa</field>
+		<field name="composerSort">Kósa, Győrgy</field>
 		
 		
 		
@@ -18,5 +18,5 @@
 		<field name="subject">Saul</field>
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Saulus+György+Kósa&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Saulus+Győrgy+Kósa&amp;search_field=search</field>
 	</doc></add>

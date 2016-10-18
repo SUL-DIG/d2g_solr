@@ -5,17 +5,17 @@
 <field name="genre">Operas</field>
 <field name="title">A fekete hájo</field>
 <field name="titleSort">fekete hájo</field>
-<field name="composer">György Bánffy</field>
-<field name="composerSort">Bánffy, György</field>
+<field name="composer">Győrgy Bánffy</field>
+<field name="composerSort">Bánffy, Győrgy</field>
 <field name="year">1883</field>
 <field name="date">1883</field>
-<field name="librettist">Jenö Rákosi</field>
-<field name="librettistSort">Rákosi, Jenö</field>
+<field name="librettist">Jenő Rákosi</field>
+<field name="librettistSort">Rákosi, Jenő</field>
 
 <field name="city">Budapest</field>
 
 <field name="country">Hungary</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+fekete+hájo+György+Banffy&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+fekete+hájo+Győrgy+Banffy&amp;search_field=search</field>
 </doc>
 </add>

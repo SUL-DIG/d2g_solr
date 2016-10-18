@@ -4,8 +4,8 @@
 <field name="genre">Operas</field>
 <field name="title">Szabadsag, szerelem (Freedom, Love)</field>
 <field name="titleSort">Szabadsag, szerelem (Freedom, Love)</field>
-<field name="composer">Jenö Huszka</field>
-<field name="composerSort">Huszka, Jenö</field>
+<field name="composer">Jenő Huszka</field>
+<field name="composerSort">Huszka, Jenő</field>
 <field name="year">1955</field>
 <field name="date">1955</field>
 <field name="librettist">Sándor Fischer</field>
@@ -17,6 +17,6 @@
 
 <field name="country">Hungary</field>
 <field name="subgenre">Singspiel</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Szabadsag,+szerelem+Freedom,+Love+Jenö+Huszka&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Szabadsag,+szerelem+Freedom,+Love+Jenő+Huszka&amp;search_field=search</field>
 </doc>
 </add>

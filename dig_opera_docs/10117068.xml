@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10117068</field>
 <field name="genre">Operas</field>
-<field name="title">Az ártatlan özvegy</field>
-<field name="titleSort">ártatlan özvegy</field>
+<field name="title">Az ártatlan őzvegy</field>
+<field name="titleSort">ártatlan őzvegy</field>
 <field name="composer">Lajos Lajtai</field>
 <field name="composerSort">Lajtai, Lajos</field>
 <field name="year">1925</field>
@@ -15,6 +15,6 @@
 
 <field name="country">Hungary</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Az+ártatlan+özvegy+Lajos+Lajtai&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Az+ártatlan+őzvegy+Lajos+Lajtai&amp;search_field=search</field>
 </doc>
 </add>

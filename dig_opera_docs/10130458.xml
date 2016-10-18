@@ -4,8 +4,8 @@
 <field name="genre">Operas</field>
 <field name="title">Elfrida</field>
 <field name="titleSort">Elfrida</field>
-<field name="composer">Erzsébet Szönyi</field>
-<field name="composerSort">Szönyi, Erzsébet</field>
+<field name="composer">Erzsébet Szőnyi</field>
+<field name="composerSort">Szőnyi, Erzsébet</field>
 <field name="year">1987</field>
 <field name="date">1987</field>
 <field name="librettist">László Arany</field>
@@ -15,6 +15,6 @@
 
 <field name="country">Hungary</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elfrida+Erzsébet+Szönyi&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elfrida+Erzsébet+Szőnyi&amp;search_field=search</field>
 </doc>
 </add>

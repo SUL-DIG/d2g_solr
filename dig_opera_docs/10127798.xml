@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10127798</field>
 <field name="genre">Operas</field>
-<field name="title">Szölke Pepi</field>
-<field name="titleSort">Szölke Pepi</field>
+<field name="title">Szőlke Pepi</field>
+<field name="titleSort">Szőlke Pepi</field>
 <field name="composer">Naczi Sas</field>
 <field name="composerSort">Sas, Naczi</field>
 <field name="year">1914</field>
@@ -15,6 +15,6 @@
 
 <field name="country">Hungary</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Szölke+Pepi+Naczi+Sas&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Szőlke+Pepi+Naczi+Sas&amp;search_field=search</field>
 </doc>
 </add>

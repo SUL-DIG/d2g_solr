@@ -2,8 +2,8 @@
 <doc>
 <field name="id">19960017</field>
 <field name="genre">Operas</field>
-<field name="title">A büvös szék (The Magic Chair)</field>
-<field name="titleSort">büvös szék (The Magic Chair)</field>
+<field name="title">A bűvős szék (The Magic Chair)</field>
+<field name="titleSort">bűvős szék (The Magic Chair)</field>
 <field name="composer">Kamilló Lendvay</field>
 <field name="composerSort">Lendvay, Kamilló</field>
 <field name="year">1972</field>
@@ -14,6 +14,6 @@
 <field name="theater">Hungarian Television (Magyar Televízió)</field>
 <field name="city">Budapest</field>
 <field name="country">Hungary</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=büvös+szék+(The+Magic+Chair)+Kamilló+Lendvay&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=bűvős+szék+(The+Magic+Chair)+Kamilló+Lendvay&amp;search_field=search</field>
 </doc>
 </add>

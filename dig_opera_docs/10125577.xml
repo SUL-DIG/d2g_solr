@@ -4,8 +4,8 @@
 <field name="genre">Operas</field>
 <field name="title">Végelszámolás (Terminal)</field>
 <field name="titleSort">Végelszámolás (Terminal)</field>
-<field name="composer">György Ránki</field>
-<field name="composerSort">Ránki, György</field>
+<field name="composer">Győrgy Ránki</field>
+<field name="composerSort">Ránki, Győrgy</field>
 <field name="year">1982</field>
 <field name="date">1982</field>
 <field name="librettist">Ferenc Karinthy</field>
@@ -15,6 +15,6 @@
 
 <field name="country">Hungary</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Végelszámolás+Terminal+György+Ránki&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Végelszámolás+Terminal+Győrgy+Ránki&amp;search_field=search</field>
 </doc>
 </add>

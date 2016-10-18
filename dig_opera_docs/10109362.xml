@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10109362</field>
 <field name="genre">Operas</field>
-<field name="title">Pünkösdi rózsa</field>
-<field name="titleSort">Pünkösdi rózsa</field>
+<field name="title">Pűnkősdi rózsa</field>
+<field name="titleSort">Pűnkősdi rózsa</field>
 <field name="composer">Imre Farkas</field>
 <field name="composerSort">Farkas, Imre</field>
 <field name="year">1920</field>
@@ -12,11 +12,11 @@
 <field name="librettistSort">Farkas, Imre</field>
 <field name="librettist">István Bródy</field>
 <field name="librettistSort">Bródy, István</field>
-<field name="theater">Revü Színház</field>
+<field name="theater">Revű Színház</field>
 <field name="city">Budapest</field>
 
 <field name="country">Hungary</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pünkösdi+rózsa+Imre+Farkas&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pűnkősdi+rózsa+Imre+Farkas&amp;search_field=search</field>
 </doc>
 </add>

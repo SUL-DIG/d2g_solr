@@ -4,8 +4,8 @@
 <field name="genre">Operas</field>
 <field name="title">Spiritiszták</field>
 <field name="titleSort">Spiritiszták</field>
-<field name="composer">György Selmeczi</field>
-<field name="composerSort">Selmeczi, György</field>
+<field name="composer">Győrgy Selmeczi</field>
+<field name="composerSort">Selmeczi, Győrgy</field>
 <field name="year">2014</field>
 <field name="date">January 19, 2014</field>
 <field name="librettist">Csilla Péntek</field>
@@ -15,6 +15,6 @@
 <field name="theater">Magyar Allami Operaház</field>
 <field name="city">Budapest</field>
 <field name="country">Hungary</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Spiritiszták+György+Selmeczi&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Spiritiszták+Győrgy+Selmeczi&amp;search_field=search</field>
 </doc>
 </add>

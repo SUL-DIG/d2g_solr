@@ -4,8 +4,8 @@
 <field name="genre">Operas</field>
 <field name="title">A prófetá álma</field>
 <field name="titleSort">prófetá álma</field>
-<field name="composer">Jenö Márkus</field>
-<field name="composerSort">Márkus, Jenö</field>
+<field name="composer">Jenő Márkus</field>
+<field name="composerSort">Márkus, Jenő</field>
 <field name="year">1904</field>
 <field name="date">1904</field>
 <field name="librettist">Adolf Mérei</field>
@@ -15,6 +15,6 @@
 
 <field name="country">Hungary</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+prófetá+álma+Jenö+Márkus&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+prófetá+álma+Jenő+Márkus&amp;search_field=search</field>
 </doc>
 </add>

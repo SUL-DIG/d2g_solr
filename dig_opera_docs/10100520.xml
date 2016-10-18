@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10100520</field>
 <field name="genre">Operas</field>
-<field name="title">A zeneszerzö</field>
-<field name="titleSort">zeneszerzö</field>
+<field name="title">A zeneszerző</field>
+<field name="titleSort">zeneszerző</field>
 <field name="composer">Géza Allaga</field>
 <field name="composerSort">Allaga, Géza</field>
 <field name="year">1862</field>
@@ -15,6 +15,6 @@
 
 <field name="country">Hungary</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+zeneszerzö+Géza+Allaga&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+zeneszerző+Géza+Allaga&amp;search_field=search</field>
 </doc>
 </add>

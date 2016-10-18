@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10101656</field>
 <field name="genre">Operas</field>
-<field name="title">Az ajtón kivül (The Man Outside)</field>
-<field name="titleSort">ajtón kivül (The Man Outside)</field>
+<field name="title">Az ajtón kivűl (The Man Outside)</field>
+<field name="titleSort">ajtón kivűl (The Man Outside)</field>
 <field name="composer">Sándor Balassa</field>
 <field name="composerSort">Balassa, Sándor</field>
 <field name="year">1978</field>
@@ -17,6 +17,6 @@
 
 <field name="country">Hungary</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Az+ajtón+kivül+The+Man+Outside+Sándor+Balassa&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Az+ajtón+kivűl+The+Man+Outside+Sándor+Balassa&amp;search_field=search</field>
 </doc>
 </add>

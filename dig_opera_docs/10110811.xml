@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10110811</field>
 <field name="genre">Operas</field>
-<field name="title">Böksém</field>
-<field name="titleSort">Böksém</field>
+<field name="title">Bőksém</field>
+<field name="titleSort">Bőksém</field>
 <field name="composer">Stephan Gajáry</field>
 <field name="composerSort">Gajáry, Stephan</field>
 <field name="year">1914</field>
@@ -15,6 +15,6 @@
 
 <field name="country">Hungary</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Böksém+Stephan+Gajáry&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bőksém+Stephan+Gajáry&amp;search_field=search</field>
 </doc>
 </add>

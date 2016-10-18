@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">A góliakiraly</field>
 <field name="titleSort">góliakiraly</field>
-<field name="composer">György Bánffy</field>
-<field name="composerSort">Bánffy, György</field>
+<field name="composer">Győrgy Bánffy</field>
+<field name="composerSort">Bánffy, Győrgy</field>
 <field name="year">1881</field>
 <field name="date">1881</field>
 <field name="librettist">André Kemeny</field>
@@ -16,6 +16,6 @@
 <field name="region">Cluj</field>
 <field name="country">Romania</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+góliakiraly+György+Banffy&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+góliakiraly+Győrgy+Banffy&amp;search_field=search</field>
 </doc>
 </add>

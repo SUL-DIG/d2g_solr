@@ -7,8 +7,8 @@
 		
 		
 		<field name="date">1987</field>
-		<field name="composer">György Ránki</field>
-		<field name="composerSort">Ránki, György</field>
+		<field name="composer">Győrgy Ránki</field>
+		<field name="composerSort">Ránki, Győrgy</field>
 		
 		
 		
@@ -18,5 +18,5 @@
 		
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nyitány+a+21+Századhoz+(Overture+to+the+21st+Century)+György+Ránki&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nyitány+a+21+Századhoz+(Overture+to+the+21st+Century)+Győrgy+Ránki&amp;search_field=search</field>
 	</doc></add>

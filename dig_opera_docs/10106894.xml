@@ -3,8 +3,8 @@
 <doc>
 <field name="id">10106894</field>
 <field name="genre">Operas</field>
-<field name="title">Görög Ilona</field>
-<field name="titleSort">Görög Ilona</field>
+<field name="title">Gőrőg Ilona</field>
+<field name="titleSort">Gőrőg Ilona</field>
 <field name="composer">Boldizsár Csíky</field>
 <field name="composerSort">Csíky, Boldizsár</field>
 <field name="year">1967</field>
@@ -13,6 +13,6 @@
 <field name="region">Mures</field>
 <field name="country">Romania</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Görög+Ilona+Boldizsár+Csiky&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gőrőg+Ilona+Boldizsár+Csiky&amp;search_field=search</field>
 </doc>
 </add>

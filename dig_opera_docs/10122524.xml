@@ -11,8 +11,8 @@
 <field name="librettist">Karl Michael von Pauersbach</field>
 <field name="librettistSort">Pauersbach, Karl Michael von</field>
 <field name="theater">Schloss Esterháza</field>
-<field name="city">Fertöd</field>
-<field name="region">Györ-Moson-Sopron</field>
+<field name="city">Fertőd</field>
+<field name="region">Győr-Moson-Sopron</field>
 <field name="country">Hungary</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alceste+Carlo+d'Ordonez&amp;search_field=search</field>

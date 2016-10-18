@@ -7,8 +7,8 @@
 		
 		
 		<field name="date">1961</field>
-		<field name="composer">György Kósa</field>
-		<field name="composerSort">Kósa, György</field>
+		<field name="composer">Győrgy Kósa</field>
+		<field name="composerSort">Kósa, Győrgy</field>
 		<field name="librettist">Eva Barthes</field>
 		<field name="librettistSort">Barthes, Eva</field>
 		
@@ -19,5 +19,5 @@
 		<field name="subject">François Villon</field>
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Villon+György+Kósa&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Villon+Győrgy+Kósa&amp;search_field=search</field>
 	</doc></add>

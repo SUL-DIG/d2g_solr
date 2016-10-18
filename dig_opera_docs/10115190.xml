@@ -5,8 +5,8 @@
 <field name="genre">Operas</field>
 <field name="title">Der Goldfisch</field>
 <field name="titleSort">Goldfisch</field>
-<field name="composer">[György Kohner] Georg Jarno</field>
-<field name="composerSort">Jarno, Georg [György Kohner]</field>
+<field name="composer">[Győrgy Kohner] Georg Jarno</field>
+<field name="composerSort">Jarno, Georg [Győrgy Kohner]</field>
 <field name="year">1907</field>
 <field name="date">1907</field>
 <field name="librettist">Richard Jäger</field>
@@ -16,6 +16,6 @@
 <field name="region">Dolnoslaskie</field>
 <field name="country">Poland</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Goldfisch+György+Kohner]+Georg+Jarno&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Goldfisch+Győrgy+Kohner]+Georg+Jarno&amp;search_field=search</field>
 </doc>
 </add>

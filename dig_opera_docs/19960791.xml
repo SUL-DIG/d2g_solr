@@ -2,8 +2,8 @@
 <doc>
 <field name="id">19960791</field>
 <field name="genre">Operas</field>
-<field name="title">Élöképek</field>
-<field name="titleSort">Élöképek</field>
+<field name="title">Élőképek</field>
+<field name="titleSort">Élőképek</field>
 <field name="composer">László Sáry</field>
 <field name="composerSort">Sáry, László</field>
 <field name="year">1997</field>
@@ -12,6 +12,6 @@
 <field name="theater">Katona József Színház</field>
 <field name="city">Budapest</field>
 <field name="country">Hungary</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Élöképek+László+Sáry&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Élőképek+László+Sáry&amp;search_field=search</field>
 </doc>
 </add>

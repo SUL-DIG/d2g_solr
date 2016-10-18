@@ -2,16 +2,16 @@
 <doc>
 <field name="id">10116359</field>
 <field name="genre">Operas</field>
-<field name="title">Talmi hercegnó</field>
-<field name="titleSort">Talmi hercegnó</field>
+<field name="title">Talmi hercegnő</field>
+<field name="titleSort">Talmi hercegnő</field>
 <field name="composer">Josef Konti</field>
 <field name="composerSort">Konti, Josef</field>
 <field name="year">1898</field>
 <field name="date">1898</field>
 <field name="librettist">Emil Makai</field>
 <field name="librettistSort">Makai, Emil</field>
-<field name="librettist">Albert Kövessy</field>
-<field name="librettistSort">Kövessy, Albert</field>
+<field name="librettist">Albert Kővessy</field>
+<field name="librettistSort">Kővessy, Albert</field>
 <field name="theater">Népszínház</field>
 <field name="city">Budapest</field>
 

@@ -4,8 +4,8 @@
 <field name="genre">Operas</field>
 <field name="title">Bob herceg (Prince Bob)</field>
 <field name="titleSort">Bob herceg (Prince Bob)</field>
-<field name="composer">Jenö Huszka</field>
-<field name="composerSort">Huszka, Jenö</field>
+<field name="composer">Jenő Huszka</field>
+<field name="composerSort">Huszka, Jenő</field>
 <field name="year">1902</field>
 <field name="date">1902</field>
 <field name="librettist">Ferenc Martos</field>
@@ -17,6 +17,6 @@
 
 <field name="country">Hungary</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bob+herceg+Prince+Bob+Jenö+Huszka&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bob+herceg+Prince+Bob+Jenő+Huszka&amp;search_field=search</field>
 </doc>
 </add>
