@@ -6,6 +6,13 @@
 <field name="titleSort">fillette de Plouhinec</field>
 <field name="composer">Georges Ernest Street</field>
 <field name="composerSort">Street, Georges Ernest</field>
+
+<field name="librettist">Paul Meyan</field>
+<field name="librettistSort">Meyan, Paul</field>
+
+<field name="librettist">Charles Mey</field>
+<field name="librettistSort">Mey, Charles</field>
+
 <field name="year">1885</field>
 <field name="date">1885</field><field name="theater">Café-concert de la Scala</field>
 <field name="city">Paris</field>
