@@ -6,6 +6,10 @@
 <field name="titleSort">Lucille (Antonio)</field>
 <field name="composer">Silas Gamaliel Pratt</field>
 <field name="composerSort">Pratt, Silas Gamaliel</field>
+
+<field name="librettist">Silas Gamaliel Pratt</field>
+<field name="librettistSort">Pratt, Silas Gamaliel</field>
+
 <field name="year">1887</field>
 <field name="date">1887</field><field name="theater">Columbia Theater</field>
 <field name="city">Chicago</field>

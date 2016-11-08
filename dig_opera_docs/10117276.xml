@@ -6,6 +6,10 @@
 <field name="titleSort">père des amours</field>
 <field name="composer">Eugène Lapierre</field>
 <field name="composerSort">Lapierre, Eugène</field>
+
+<field name="librettist">Eugène Lapierre</field>
+<field name="librettistSort">Lapierre, Eugène</field>
+
 <field name="year">1942</field>
 <field name="date">1942</field><field name="theater">Monument National</field>
 <field name="city">Montreal</field>

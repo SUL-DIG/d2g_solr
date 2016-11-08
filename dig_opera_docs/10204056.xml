@@ -10,7 +10,9 @@
 		<field name="composer">Antonio Maria Fornasini</field>
 		<field name="composerSort">Fornasini, Antonio Maria</field>
 		
-		
+		<field name="librettist">Giuseppe Carlo Maggi</field>
+    <field name="librettistSort">Maggi, Giuseppe Carlo </field>
+
 		
 		<field name="city">Bologna</field>
 		<field name="region">Emilia-Romagna</field>

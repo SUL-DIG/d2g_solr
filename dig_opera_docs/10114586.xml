@@ -6,6 +6,11 @@
 <field name="titleSort">famille du perruquier</field>
 <field name="composer">Adrien Honhon</field>
 <field name="composerSort">Honhon, Adrien</field>
+
+<field name="librettist">__ Levesque</field>
+<field name="librettistSort">Levesque, __</field>
+
+
 <field name="year">1878</field>
 <field name="date">1878</field>
 <field name="city">Tongeren</field>

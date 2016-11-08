@@ -6,6 +6,10 @@
 <field name="titleSort">ferme et le château</field>
 <field name="composer">Henri Herdliska</field>
 <field name="composerSort">Herdliska, Henri</field>
+
+<field name="librettist">[Charles-Augustin Bassompierre] Sewrin</field>
+<field name="librettistSort">Sewrin, [Charles-Augustin Bassompierre] </field>
+
 <field name="year">1821</field>
 <field name="date">1821</field><field name="theater">Grand-Théâtre</field>
 <field name="city">Bordeaux</field>

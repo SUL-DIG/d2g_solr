@@ -6,6 +6,13 @@
 <field name="titleSort">Atsumori at Ikuta</field>
 <field name="composer">William G. Ludtke</field>
 <field name="composerSort">Ludtke, William G.</field>
+
+<field name="librettist">Arthur Waley</field>
+<field name="librettistSort">Waley, Arthur</field>
+
+<field name="librettist">Motoyasu Zembo</field>
+<field name="librettistSort">Zembo, Motoyasu</field>
+
 <field name="year">1977</field>
 <field name="date">1977</field><field name="theater">Repertory Opera Theater</field>
 <field name="city">Oak Park</field>

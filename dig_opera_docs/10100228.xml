@@ -6,6 +6,10 @@
 <field name="titleSort">vendetta</field>
 <field name="composer">Angelo Agostini</field>
 <field name="composerSort">Agostini, Angelo</field>
+
+<field name="librettist">Francesco Maria Piave</field>
+<field name="librettistSort">Piave, Francesco Maria </field>
+
 <field name="year">1864</field>
 <field name="date">1864</field><field name="theater">Teatro Cómico</field>
 <field name="city">Valencia</field>

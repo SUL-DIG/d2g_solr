@@ -6,6 +6,10 @@
 <field name="titleSort">Marco Curzio</field>
 <field name="composer">Antonio Puccini</field>
 <field name="composerSort">Puccini, Antonio</field>
+
+<field name="librettist">Giovanni Crisostomo Martelli</field>
+<field name="librettistSort">Martelli, Giovanni Crisostomo </field>
+
 <field name="year">1791</field>
 <field name="date">1791</field><field name="theater">Tasche</field>
 <field name="city">Lucca</field>

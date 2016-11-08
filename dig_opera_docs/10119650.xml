@@ -6,6 +6,10 @@
 <field name="titleSort">Kingdom Come</field>
 <field name="composer">Wilton Mason</field>
 <field name="composerSort">Mason, Wilton</field>
+
+<field name="librettist">Wilton Mason</field>
+<field name="librettistSort">Mason, Wilton</field>
+
 <field name="year">1953</field>
 <field name="date">1953</field><field name="theater">Appalachian State University</field>
 <field name="city">Boone</field>

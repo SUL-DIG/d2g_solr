@@ -10,7 +10,9 @@
 		<field name="composer">Antonio Foggia</field>
 		<field name="composerSort">Foggia, Antonio</field>
 		
-		
+		<field name="librettist">Antonio Politauro</field>
+    <field name="librettistSort">Politauro, Antonio</field>
+
 		
 		<field name="city">Rome</field>
 		<field name="region">Lazio</field>

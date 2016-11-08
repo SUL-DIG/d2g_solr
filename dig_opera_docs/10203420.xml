@@ -10,7 +10,9 @@
 		<field name="composer">Benedikt Kraus</field>
 		<field name="composerSort">Kraus, Benedikt</field>
 		
-		
+		<field name="librettist">Johann Christoph Rost</field>
+    <field name="librettistSort">Rost, Johann Christoph</field>
+
 		
 		
 		

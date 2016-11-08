@@ -6,6 +6,10 @@
 <field name="titleSort">disertore, ossia L'eroismo dell'amor filiale</field>
 <field name="composer">Antonio Gandini</field>
 <field name="composerSort">Gandini, Antonio</field>
+
+<field name="librettist">Pietro Cimbardi</field>
+<field name="librettistSort">Cimbardi, Pietro</field>
+
 <field name="year">1826</field>
 <field name="date">1826</field><field name="theater">Teatro di Corte</field>
 <field name="city">Modena</field>

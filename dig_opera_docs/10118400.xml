@@ -6,6 +6,11 @@
 <field name="titleSort">Revival</field>
 <field name="composer">Clarence Loomis</field>
 <field name="composerSort">Loomis, Clarence</field>
+
+<field name="librettist">Louise Frances Terret</field>
+<field name="librettistSort">Terret, Louise Frances</field>
+
+
 <field name="year">1942</field>
 <field name="date">1942</field><field name="theater">KWFB Radio</field>
 <field name="city">Los Angeles</field>

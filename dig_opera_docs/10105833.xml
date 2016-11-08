@@ -6,6 +6,10 @@
 <field name="titleSort">cinquantaine</field>
 <field name="composer">Hedwige Chrétien-Genaro</field>
 <field name="composerSort">Chrétien-Genaro, Hedwige</field>
+
+<field name="librettist">[Mme. Édouard Petit] Alix Aylicson</field>
+<field name="librettistSort">Aylicson, Alix [Mme. Édouard Petit]</field>
+
 <field name="year">1911</field>
 <field name="date">1911</field>
 <field name="city">Sermaize-les-Bains</field>

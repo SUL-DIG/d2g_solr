@@ -6,6 +6,11 @@
 <field name="titleSort">père Lajoie</field>
 <field name="composer">Jules Conrardy</field>
 <field name="composerSort">Conrardy, Jules</field>
+
+<field name="librettist">Joseph Demoulin</field>
+<field name="librettistSort">Demoulin, Joseph</field>
+
+
 <field name="year">1858</field>
 <field name="date">1858</field><field name="theater">Théâtre-Royal</field>
 <field name="city">Liège</field>

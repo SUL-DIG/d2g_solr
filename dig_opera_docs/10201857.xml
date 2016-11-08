@@ -10,7 +10,9 @@
 		<field name="composer">Herbert Stuppner</field>
 		<field name="composerSort">Stuppner, Herbert</field>
 		
-		
+		<field name="librettist">Martin Luther</field>
+    <field name="librettistSort">Luther, Martin</field>
+
 		
 		<field name="city">Bressanone</field>
 		<field name="region">Trentino</field>

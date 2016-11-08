@@ -6,6 +6,10 @@
 <field name="titleSort">cometa</field>
 <field name="composer">Pietro Morandi</field>
 <field name="composerSort">Morandi, Pietro</field>
+
+<field name="librettist">Francesco Latoni</field>
+<field name="librettistSort">Latoni, Francesco</field>
+
 <field name="year">1775</field>
 <field name="date">1775</field>
 <field name="city">Fano</field>

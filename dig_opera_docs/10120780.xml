@@ -6,6 +6,11 @@
 <field name="titleSort">occasie maakt den dief</field>
 <field name="composer">Karel Miry</field>
 <field name="composerSort">Miry, Karel</field>
+
+<field name="librettist">Napoléon Destamberg</field>
+<field name="librettistSort">Destamberg, Napoléon</field>
+
+
 <field name="year">1866</field>
 <field name="date">1866</field><field name="theater">Minard's Schouwburg</field>
 <field name="city">Ghent</field>

@@ -6,6 +6,11 @@
 <field name="titleSort">Corsica</field>
 <field name="composer">Irene Marius Berge</field>
 <field name="composerSort">Berge, Irene Marius</field>
+
+<field name="librettist">Frederick Franklin Schrader</field>
+<field name="librettistSort">Schrader, Frederick Franklin</field>
+
+
 <field name="year">1910</field>
 <field name="date">1910</field><field name="theater">Opera House</field>
 <field name="city">Kingston</field>

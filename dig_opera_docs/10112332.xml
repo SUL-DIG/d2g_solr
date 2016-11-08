@@ -11,6 +11,9 @@
 <field name="librettist">Adalbert von Goldschmidt</field>
 <field name="librettistSort">Goldschmidt, Adalbert von</field>
 
+<field name="librettist">Catulle Mendès</field>
+<field name="librettistSort">Mendès, Catulle</field>
+
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>
 <field name="country">Germany</field>

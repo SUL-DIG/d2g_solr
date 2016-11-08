@@ -6,6 +6,10 @@
 <field name="titleSort">illustre villanella</field>
 <field name="composer">Giovanni Battista Lampugnani</field>
 <field name="composerSort">Lampugnani, Giovanni Battista</field>
+
+<field name="librettist">Giuseppe Maria d'Orengo</field>
+<field name="librettistSort">Orengo, Giuseppe Maria d'</field>
+
 <field name="year">1769</field>
 <field name="date">1769</field><field name="theater">Teatro Regio</field>
 <field name="city">Turin</field>

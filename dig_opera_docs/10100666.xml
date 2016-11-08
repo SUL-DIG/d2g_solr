@@ -6,6 +6,10 @@
 <field name="titleSort">Queen Christina</field>
 <field name="composer">Beth Anderson</field>
 <field name="composerSort">Anderson, Beth</field>
+
+<field name="librettist">Beth Anderson</field>
+<field name="librettistSort">Anderson, Beth</field>
+
 <field name="year">1973</field>
 <field name="date">1973</field><field name="theater">Mills College</field>
 <field name="city">Oakland</field>

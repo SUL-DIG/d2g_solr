@@ -6,6 +6,10 @@
 <field name="titleSort">Viva Revivat</field>
 <field name="composer">Amy D. Rubin</field>
 <field name="composerSort">Rubin, Amy D.</field>
+
+<field name="librettist">Eve Merriam</field>
+<field name="librettistSort">Merriam, Eve</field>
+
 <field name="year">1977</field>
 <field name="date">1977</field><field name="theater">Lenox Arts Center</field>
 <field name="city">Stockbridge</field>

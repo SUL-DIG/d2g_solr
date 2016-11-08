@@ -6,6 +6,11 @@
 <field name="titleSort">Seven Times One</field>
 <field name="composer">Charles S. Clark</field>
 <field name="composerSort">Clark, Charles S.</field>
+
+<field name="librettist">Francis P. Hamlet</field>
+<field name="librettistSort">Hamlet, Francis P.</field>
+
+
 <field name="year">1886</field>
 <field name="date">1886</field>
 <field name="city">Hempstead</field>

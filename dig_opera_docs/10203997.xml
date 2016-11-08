@@ -10,7 +10,9 @@
 		<field name="composer">Clemente Monari</field>
 		<field name="composerSort">Monari, Clemente</field>
 		
-		
+		<field name="librettist">Romano Merighi</field>
+    <field name="librettistSort">Merighi, Romano</field>
+
 		
 		<field name="city">Forli</field>
 		<field name="region">Emilia-Romagna</field>

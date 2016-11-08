@@ -6,6 +6,10 @@
 <field name="titleSort">Conspiracy of Pontiac</field>
 <field name="composer">Carl Mayer</field>
 <field name="composerSort">Mayer, Carl</field>
+
+<field name="librettist">Francis Parkman</field>
+<field name="librettistSort">Parkman, Francis</field>
+
 <field name="year">1887</field>
 <field name="date">1887</field><field name="theater">Bush Auditorium</field>
 <field name="city">Detroit</field>

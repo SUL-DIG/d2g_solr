@@ -10,7 +10,9 @@
 		<field name="composer">Ferdinando Ceccherini</field>
 		<field name="composerSort">Ceccherini, Ferdinando</field>
 		
-		
+		<field name="librettist">Geremia Barsottini</field>
+    <field name="librettistSort">Barsottini, Geremia</field>
+
 		
 		<field name="city">Florence</field>
 		<field name="region">Toscana</field>

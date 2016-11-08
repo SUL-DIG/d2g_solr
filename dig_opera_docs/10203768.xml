@@ -10,7 +10,9 @@
 		<field name="composer">John Knowles Paine</field>
 		<field name="composerSort">Paine, John Knowles</field>
 		
-		
+		<field name="librettist">John Knowles Paine</field>
+    <field name="librettistSort">Paine, John Knowles</field>
+
 		
 		<field name="city">Portland</field>
 		<field name="region">Maine</field>

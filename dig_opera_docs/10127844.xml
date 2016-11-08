@@ -6,6 +6,11 @@
 <field name="titleSort">Flavia</field>
 <field name="composer">Adolfo Sauvinet</field>
 <field name="composerSort">Sauvinet, Adolfo</field>
+
+<field name="librettist">Rafael Ferreira</field>
+<field name="librettistSort">Ferreira, Rafael</field>
+
+
 <field name="year">1889</field>
 <field name="date">1889</field><field name="theater">Teatro de Dona Maria</field>
 <field name="city">Lisbon</field>

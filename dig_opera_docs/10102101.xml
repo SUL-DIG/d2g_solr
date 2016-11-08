@@ -6,6 +6,11 @@
 <field name="titleSort">Elzire, ou Les Arabes</field>
 <field name="composer">Giovanni Bazzoni</field>
 <field name="composerSort">Bazzoni, Giovanni</field>
+
+<field name="librettist">__ Baume-Tiste</field>
+<field name="librettistSort">Baume-Tiste, __</field>
+
+
 <field name="year">1843</field>
 <field name="date">1843</field><field name="theater">Théâtre du Capitole</field>
 <field name="city">Toulouse</field>

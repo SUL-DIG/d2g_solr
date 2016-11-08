@@ -6,6 +6,11 @@
 <field name="titleSort">If This Be Madness</field>
 <field name="composer">John Gilbert</field>
 <field name="composerSort">Gilbert, John</field>
+
+<field name="librettist">Lawrence Wyatt</field>
+<field name="librettistSort">Wyatt, Lawrence</field>
+
+
 <field name="year">1964</field>
 <field name="date">1964</field><field name="theater">Texas Tech</field>
 <field name="city">Lubbock</field>

@@ -6,6 +6,10 @@
 <field name="titleSort">Manhattan Mother Goose</field>
 <field name="composer">Lou Rodgers</field>
 <field name="composerSort">Rodgers, Lou</field>
+
+<field name="librettist">Lou Rodgers</field>
+<field name="librettistSort">Rodgers, Lou</field>
+
 <field name="year">1981</field>
 <field name="date">1981</field><field name="theater">Golden Fleece Ltd.</field>
 <field name="city">New York</field>

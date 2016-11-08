@@ -6,6 +6,10 @@
 <field name="titleSort">Alt'la, ossia Il posto d'onore</field>
 <field name="composer">Giuseppe Bouglia</field>
 <field name="composerSort">Bouglia, Giuseppe</field>
+
+<field name="librettist">Giuseppe Bouglia</field>
+<field name="librettistSort">Bouglia, Giuseppe</field>
+
 <field name="year">1866</field>
 <field name="date">1866</field><field name="theater">Teatro Nota</field>
 <field name="city">Turin</field>

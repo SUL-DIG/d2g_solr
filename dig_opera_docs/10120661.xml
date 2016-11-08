@@ -6,6 +6,10 @@
 <field name="titleSort">triunfo de Arlequin</field>
 <field name="composer">Rafael Millán</field>
 <field name="composerSort">Millán, Rafael</field>
+
+<field name="librettist">Antonio González Rendón</field>
+<field name="librettistSort">González Rendón, Antonio</field>
+
 <field name="year">1918</field>
 <field name="date">1918</field><field name="theater">Teatro Circo de Price</field>
 <field name="city">Madrid</field>

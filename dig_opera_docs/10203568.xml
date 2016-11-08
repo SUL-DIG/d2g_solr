@@ -10,7 +10,9 @@
 		<field name="composer">Pietro Magri</field>
 		<field name="composerSort">Magri, Pietro</field>
 		
-		
+		<field name="librettist">Daniele Arnoldi</field>
+    <field name="librettistSort">Arnoldi, Daniele</field>
+
 		
 		<field name="city">Oropa</field>
 		<field name="region">Piemonte</field>

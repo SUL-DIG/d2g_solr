@@ -6,6 +6,10 @@
 <field name="titleSort">Sunday Eyes</field>
 <field name="composer">Ken Medema</field>
 <field name="composerSort">Medema, Ken</field>
+
+<field name="librettist">Ken Medema</field>
+<field name="librettistSort">Medema, Ken</field>
+
 <field name="year">1983</field>
 <field name="date">1983</field><field name="theater">Grand Canyon College</field>
 <field name="city">Phoenix</field>

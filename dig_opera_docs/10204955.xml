@@ -10,7 +10,9 @@
 		<field name="composer">Maurizio Cazzati</field>
 		<field name="composerSort">Cazzati, Maurizio</field>
 		
-		
+		<field name="librettist">Giovanni Francesco Savaro</field>
+    <field name="librettistSort">Savaro, Giovanni Francesco </field>
+
 		
 		<field name="city">Bologna</field>
 		<field name="region">Emilia-Romagna</field>

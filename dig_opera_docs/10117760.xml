@@ -6,6 +6,11 @@
 <field name="titleSort">Everyman</field>
 <field name="composer">Liza Lehmann</field>
 <field name="composerSort">Lehmann, Liza</field>
+
+<field name="librettist">Liza Lehmann</field>
+<field name="librettistSort">Lehmann, Liza</field>
+
+
 <field name="year">1915</field>
 <field name="date">1915</field><field name="theater">Shaftesbury Theatre</field>
 <field name="city">London</field>

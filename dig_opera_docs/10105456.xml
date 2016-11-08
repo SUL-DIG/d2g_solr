@@ -6,6 +6,11 @@
 <field name="titleSort">Dix contre un</field>
 <field name="composer">Henri Cellot</field>
 <field name="composerSort">Cellot, Henri</field>
+
+<field name="librettist">[Jean-Hyacinthe-Adonis Galoppe] Galoppe d'Onquaire</field>
+<field name="librettistSort">Galoppe d'Onquaire, [Jean-Hyacinthe-Adonis Galoppe]</field>
+
+
 <field name="year">1865</field>
 <field name="date">1865</field><field name="theater">Théâtre du Palais-Royal</field>
 <field name="city">Paris</field>

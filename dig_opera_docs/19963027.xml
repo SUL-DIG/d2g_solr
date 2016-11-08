@@ -6,6 +6,10 @@
 <field name="titleSort">Vuur</field>
 <field name="composer">Michel van der Aa</field>
 <field name="composerSort">van der Aa, Michel</field>
+
+<field name="librettist">Roel Adam</field>
+<field name="librettistSort">Adam, Roel</field>
+
 <field name="year">2001</field>
 <field name="date">June 2, 2001</field>
 <field name="theater">Huis aan de Amstel Theater</field>

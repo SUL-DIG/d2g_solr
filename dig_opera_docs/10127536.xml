@@ -10,6 +10,10 @@
 <field name="date">1849</field>
 <field name="librettist">[Jean Nicolas Gustave van Nieuvenhuysen] Gustave Vaëz</field>
 <field name="librettistSort">Vaëz, Gustave [Jean Nicolas Gustave van Nieuvenhuysen]</field>
+
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+
 <field name="theater">Théâtre-Royal de la Monnaie</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>

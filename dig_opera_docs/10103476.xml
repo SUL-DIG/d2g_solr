@@ -6,6 +6,10 @@
 <field name="titleSort">stella delle Alpi</field>
 <field name="composer">Giovanni Bolzoni</field>
 <field name="composerSort">Bolzoni, Giovanni</field>
+
+<field name="librettist">Giacomo Schianelli</field>
+<field name="librettistSort">Schianelli, Giacomo</field>
+
 <field name="year">1871</field>
 <field name="date">1871</field><field name="theater">Teatro Chiabrera</field>
 <field name="city">Savona</field>

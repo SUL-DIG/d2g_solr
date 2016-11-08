@@ -6,6 +6,10 @@
 <field name="titleSort">conquista del vello d'oro</field>
 <field name="composer">Giuseppe Sordella</field>
 <field name="composerSort">Sordella, Giuseppe</field>
+
+<field name="librettist">Gian Domenico Boggio</field>
+<field name="librettistSort">Boggio, Gian Domenico </field>
+
 <field name="year">1745</field>
 <field name="date">1745</field><field name="theater">Teatro Regio</field>
 <field name="city">Turin</field>

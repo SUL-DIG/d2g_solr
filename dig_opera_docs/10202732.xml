@@ -10,7 +10,9 @@
 		<field name="composer">William Creser</field>
 		<field name="composerSort">Creser, William</field>
 		
-		
+		<field name="librettist">John Tinkler</field>
+    <field name="librettistSort">Tinkler, John</field>
+
 		
 		<field name="city">Oxford</field>
 		<field name="region">Oxfordshire</field>

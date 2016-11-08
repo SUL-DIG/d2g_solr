@@ -6,6 +6,10 @@
 <field name="titleSort">Julio César</field>
 <field name="composer">José García-Robles</field>
 <field name="composerSort">García-Robles, José</field>
+
+<field name="librettist">Nonito Guille</field>
+<field name="librettistSort">Guille, Nonito</field>
+
 <field name="year">1880</field>
 <field name="city">Barcelona</field>
 <field name="region">Catalunya</field>

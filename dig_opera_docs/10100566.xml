@@ -6,8 +6,13 @@
 <field name="titleSort">Calvario</field>
 <field name="composer">Addison Alspach</field>
 <field name="composerSort">Alspach, Addison</field>
+
+<field name="librettist">Marcus Bach</field>
+<field name="librettistSort">Bach, Marcus</field>
+
+
 <field name="year">1958</field>
-<field name="date">1958</field><field name="theater">University of Minnesota</field>
+<field name="date">May 6, 1958</field><field name="theater">University of Minnesota</field>
 <field name="city">Duluth</field>
 <field name="region">Minnesota</field>
 <field name="country">United States</field>

@@ -6,6 +6,11 @@
 <field name="titleSort">Aminta the Coquette</field>
 <field name="composer">William Howard Glover</field>
 <field name="composerSort">Glover, William Howard</field>
+
+<field name="librettist">John Oxenford</field>
+<field name="librettistSort">Oxenford, John</field>
+
+
 <field name="year">1852</field>
 <field name="date">1852</field><field name="theater">Her Majesty's Theatre, Haymarket</field>
 <field name="city">London</field>

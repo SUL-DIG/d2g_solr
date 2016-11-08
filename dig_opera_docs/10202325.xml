@@ -10,6 +10,9 @@
 		<field name="composer">Ludwig Paupie</field>
 		<field name="composerSort">Paupie, Ludwig</field>
 		
+		<field name="librettist">J. Aldermann</field>
+    <field name="librettistSort">Aldermann, J.</field>
+
 		
 		<field name="theater">Stifttheater</field>
 		<field name="city">Kremsmünster</field>

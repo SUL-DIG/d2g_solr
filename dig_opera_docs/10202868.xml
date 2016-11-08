@@ -10,7 +10,9 @@
 		<field name="composer">Herman David Koppel</field>
 		<field name="composerSort">Koppel, Herman David</field>
 		
-		
+		<field name="librettist">Herman David Koppel</field>
+    <field name="librettistSort">Koppel, Herman David</field>
+
 		<field name="theater">Radiohusets Koncertsal</field>
 		<field name="city">Frederiksberg</field>
 		<field name="region">Hovedstaden</field>

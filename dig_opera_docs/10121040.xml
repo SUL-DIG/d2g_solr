@@ -6,6 +6,10 @@
 <field name="titleSort">contadina accorta</field>
 <field name="composer">Gaetano Monti</field>
 <field name="composerSort">Monti, Gaetano</field>
+
+<field name="librettist">Pietro Chiari</field>
+<field name="librettistSort">Chiari, Pietro</field>
+
 <field name="year">1781</field>
 <field name="date">1781</field><field name="theater">Teatro Capranica</field>
 <field name="city">Rome</field>

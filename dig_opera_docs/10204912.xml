@@ -10,6 +10,9 @@
 		<field name="composer">Joachim Raff</field>
 		<field name="composerSort">Raff, Joachim</field>
 		
+		<field name="librettist">Joachim Raff</field>
+    <field name="librettistSort">Raff, Joachim</field>
+
 		
 		<field name="theater">Leeds Musical Festival</field>
 		<field name="city">Leeds</field>

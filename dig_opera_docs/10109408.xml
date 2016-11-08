@@ -6,6 +6,11 @@
 <field name="titleSort">Velléda</field>
 <field name="composer">Maurice Favergeat</field>
 <field name="composerSort">Favergeat, Maurice</field>
+
+<field name="librettist">Maurice Magre</field>
+<field name="librettistSort">Magre, Maurice</field>
+
+
 <field name="year">1913</field>
 <field name="date">1913</field><field name="theater">Palais d'Hiver</field>
 <field name="city">Pau</field>

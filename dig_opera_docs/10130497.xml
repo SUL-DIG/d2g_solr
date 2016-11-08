@@ -6,6 +6,10 @@
 <field name="titleSort">principessa di Navarra</field>
 <field name="composer">Giovanni Tadolini</field>
 <field name="composerSort">Tadolini, Giovanni</field>
+
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+
 <field name="year">1816</field>
 <field name="date">1816</field>
 <field name="city">Bologna</field>

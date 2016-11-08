@@ -6,6 +6,10 @@
 <field name="titleSort">due ciarlatani in Spagna</field>
 <field name="composer">Ottavio Frangini</field>
 <field name="composerSort">Frangini, Ottavio</field>
+
+<field name="librettist">Ottavio Frangini</field>
+<field name="librettistSort">Frangini, Ottavio</field>
+
 <field name="year">1878</field>
 <field name="date">1878</field><field name="theater">Teatro Rossini</field>
 <field name="city">Florence</field>

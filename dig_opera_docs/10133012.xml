@@ -6,6 +6,10 @@
 <field name="titleSort">Adelaide</field>
 <field name="composer">Richard Winslow</field>
 <field name="composerSort">Winslow, Richard</field>
+
+<field name="librettist">Ralph D. Pendleton</field>
+<field name="librettistSort">Pendleton, Ralph D.</field>
+
 <field name="year">1957</field>
 <field name="date">1957</field><field name="theater">Wesleyan University</field>
 <field name="city">Middlesex</field>

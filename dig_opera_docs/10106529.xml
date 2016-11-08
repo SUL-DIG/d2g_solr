@@ -6,6 +6,11 @@
 <field name="titleSort">First Attempt, or Whim of the Moment</field>
 <field name="composer">Thomas Simpson Cooke</field>
 <field name="composerSort">Cooke, Thomas Simpson</field>
+
+<field name="librettist">Lady Sydney Morgan</field>
+<field name="librettistSort">Morgan, Lady Sydney</field>
+
+
 <field name="year">1807</field>
 <field name="date">1807</field><field name="theater">Theatre Royal, Crow Street</field>
 <field name="city">Dublin</field>

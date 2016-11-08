@@ -6,6 +6,10 @@
 <field name="titleSort">glorias del pueblo</field>
 <field name="composer">Rafael Millán</field>
 <field name="composerSort">Millán, Rafael</field>
+
+<field name="librettist">F. Berzama</field>
+<field name="librettistSort">Berzama, F.</field>
+
 <field name="year">1921</field>
 <field name="date">1921</field><field name="theater">Teatro de la Zarzuela</field>
 <field name="city">Madrid</field>

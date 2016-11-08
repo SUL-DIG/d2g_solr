@@ -11,6 +11,9 @@
 <field name="librettist">Anton von Kontski</field>
 <field name="librettistSort">Kontski, Anton von</field>
 
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von </field>
+
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

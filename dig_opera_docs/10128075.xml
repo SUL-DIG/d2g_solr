@@ -6,6 +6,10 @@
 <field name="titleSort">serva scaltra</field>
 <field name="composer">Giuseppe Scarlatti</field>
 <field name="composerSort">Scarlatti, Giuseppe</field>
+
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+
 <field name="year">1759</field>
 <field name="date">1759</field><field name="theater">Teatro Giustiniani in San Moisè</field>
 <field name="city">Venice</field>

@@ -10,7 +10,9 @@
 		<field name="composer">Giuseppe Valentini</field>
 		<field name="composerSort">Valentini, Giuseppe</field>
 		
-		
+		<field name="librettist">Filippo Van Stryp</field>
+    <field name="librettistSort">Van Stryp, Filippo</field>
+
 		
 		<field name="city">Rome</field>
 		<field name="region">Lazio</field>

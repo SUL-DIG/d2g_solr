@@ -6,6 +6,10 @@
 <field name="titleSort">burla per correzione</field>
 <field name="composer">Francesco Chiaromonte</field>
 <field name="composerSort">Chiaromonte, Francesco</field>
+
+<field name="librettist">Francesco Guidi</field>
+<field name="librettistSort">Guidi, Francesco</field>
+
 <field name="year">1855</field>
 <field name="date">1855</field><field name="theater">Teatro Paganini</field>
 <field name="city">Genoa</field>

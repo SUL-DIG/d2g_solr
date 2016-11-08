@@ -6,6 +6,10 @@
 <field name="titleSort">Armor of Life</field>
 <field name="composer">Kenneth Newbern</field>
 <field name="composerSort">Newbern, Kenneth</field>
+
+<field name="librettist">Kenneth Newbern</field>
+<field name="librettistSort">Newbern, Kenneth</field>
+
 <field name="year">1957</field>
 <field name="date">1957</field><field name="theater">Carl Fischer Hall</field>
 <field name="city">New York</field>

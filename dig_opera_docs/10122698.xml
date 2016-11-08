@@ -6,6 +6,10 @@
 <field name="titleSort">Jean Second, ou Charles V dans les murs de Gand</field>
 <field name="composer">Charles Ots</field>
 <field name="composerSort">Ots, Charles</field>
+
+<field name="librettist">Adolphe Quetelet</field>
+<field name="librettistSort">Quetelet, Adolphe</field>
+
 <field name="year">1816</field>
 <field name="date">1816</field><field name="theater">Théâtre Saint-Sebastian</field>
 <field name="city">Ghent</field>

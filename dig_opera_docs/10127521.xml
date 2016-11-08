@@ -6,6 +6,10 @@
 <field name="titleSort">Memet</field>
 <field name="composer">Giovanni Battista Sammartini</field>
 <field name="composerSort">Sammartini, Giovanni Battista</field>
+
+<field name="librettist">Girolamo Frigimelica Roberti</field>
+<field name="librettistSort">Frigimelica Roberti, Girolamo</field>
+
 <field name="year">1732</field>
 <field name="date">1732</field>
 <field name="city">Lodi</field>

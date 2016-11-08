@@ -6,6 +6,10 @@
 <field name="titleSort">Alone I Stand</field>
 <field name="composer">Rodolpho Martinelli</field>
 <field name="composerSort">Martinelli, Rodolpho</field>
+
+<field name="librettist">Rodolpho Martinelli</field>
+<field name="librettistSort">Martinelli, Rodolpho</field>
+
 <field name="year">1951</field>
 <field name="date">1951</field><field name="theater">Brooklyn Academy of Music</field>
 <field name="city">New York</field>

@@ -10,6 +10,10 @@
 <field name="date">1897</field>
 <field name="librettist">Fanny Gröger</field>
 <field name="librettistSort">Gröger, Fanny</field>
+
+<field name="librettist">Wilhelm Busch</field>
+<field name="librettistSort">Busch, Wilhelm</field>
+
 <field name="theater">Neues Stadt-Theater am Dammtor</field>
 <field name="city">Hamburg</field>
 <field name="region">Hamburg</field>

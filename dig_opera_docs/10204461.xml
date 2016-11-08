@@ -10,7 +10,9 @@
 		<field name="composer">Giacomo Tritto</field>
 		<field name="composerSort">Tritto, Giacomo</field>
 		
-		
+		<field name="librettist">Biagio La Manna</field>
+    <field name="librettistSort">La Manna, Biagio</field>
+
 		<field name="theater">Palazzo Reale</field>
 		<field name="city">Naples</field>
 		<field name="region">Campania</field>

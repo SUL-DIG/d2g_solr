@@ -10,7 +10,9 @@
 		<field name="composer">Tommaso Bernardo Gaffi</field>
 		<field name="composerSort">Gaffi, Tommaso Bernardo</field>
 		
-		
+		<field name="librettist">Domenico Pingue</field>
+    <field name="librettistSort">Pingue, Domenico</field>
+
 		
 		<field name="city">Rome</field>
 		<field name="region">Lazio</field>

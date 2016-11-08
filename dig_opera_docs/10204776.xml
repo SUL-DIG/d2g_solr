@@ -10,7 +10,9 @@
 		<field name="composer">Nicola Porpora</field>
 		<field name="composerSort">Porpora, Nicola</field>
 		
-		
+		<field name="librettist">Giovanni Giuseppe Giron</field>
+    <field name="librettistSort">Giron, Giovanni Giuseppe </field>
+
 		
 		<field name="city">Rome</field>
 		<field name="region">Lazio</field>

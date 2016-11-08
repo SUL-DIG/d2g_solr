@@ -10,7 +10,9 @@
 		<field name="composer">Gennaro Manna</field>
 		<field name="composerSort">Manna, Gennaro</field>
 		
-		
+		<field name="librettist">Giovanni Battista Basso-Bassi</field>
+    <field name="librettistSort">Basso-Bassi, Giovanni Battista </field>
+
 		
 		<field name="city">Montereale</field>
 		<field name="region">Abruzzi</field>

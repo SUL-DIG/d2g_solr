@@ -6,6 +6,10 @@
 <field name="titleSort">vagabundo</field>
 <field name="composer">Henrique Alves de Mesquita</field>
 <field name="composerSort">Mesquita, Henrique Alves de</field>
+
+<field name="librettist">Luis Vicente di Simoni</field>
+<field name="librettistSort">Simoni, Luis Vicente di </field>
+
 <field name="year">1863</field>
 <field name="date">1863</field><field name="theater">Teatro Lírico Fluminense</field>
 <field name="city">Rio de Janeiro</field>

@@ -10,9 +10,11 @@
 		<field name="composer">Johann Gustav Eduard Stehle</field>
 		<field name="composerSort">Stehle, Johann Gustav Eduard</field>
 		
+		<field name="librettist">Oscar von Lochner von Hüttenbach</field>
+		<field name="librettistSort">Lochner von Hüttenbach, Oscar von</field>
 		
-		
-		
+		<field name="">Johann Gustav Eduard Stehle</field>
+		<field name="composerSort">Stehle, Johann Gustav Eduard</field>
 		
 		
 		<field name="subject">David and Absalom</field>

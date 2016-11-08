@@ -10,7 +10,9 @@
 		<field name="composer">August Mühling</field>
 		<field name="composerSort">Mühling, August</field>
 		
-		
+		<field name="librettist">Friedrich Gottlieb Klopstock</field>
+    <field name="librettistSort">Klopstock, Friedrich Gottlieb</field>
+
 		
 		<field name="city">Magdeburg</field>
 		<field name="region">Sachsen-Anhalt</field>

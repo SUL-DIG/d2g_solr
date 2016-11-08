@@ -10,7 +10,9 @@
 		<field name="composer">Antonio José Cappa</field>
 		<field name="composerSort">Cappa, Antonio José</field>
 		
-		
+		<field name="librettist">Cesare Della Valle</field>
+    <field name="librettistSort">Della Valle, Cesare</field>
+
 		
 		<field name="city">Naples</field>
 		<field name="region">Campania</field>

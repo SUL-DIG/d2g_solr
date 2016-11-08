@@ -6,6 +6,11 @@
 <field name="titleSort">dots</field>
 <field name="composer">Charles-Louis Hanssens</field>
 <field name="composerSort">Hanssens, Charles-Louis</field>
+
+<field name="librettist">Jean-Benjamin Roelandts</field>
+<field name="librettistSort">Roelandts, Jean-Benjamin</field>
+
+
 <field name="year">1804</field>
 <field name="date">1804</field><field name="theater">Théâtre Saint-Sebastian</field>
 <field name="city">Ghent</field>

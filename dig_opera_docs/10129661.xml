@@ -6,6 +6,10 @@
 <field name="titleSort">alchimista per amore</field>
 <field name="composer">Carlo Spontoni</field>
 <field name="composerSort">Spontoni, Carlo</field>
+
+<field name="librettist">Carlo Emanuele Beccadelli</field>
+<field name="librettistSort">Beccadelli, Carlo Emanuele </field>
+
 <field name="year">1785</field>
 <field name="date">1785</field>
 <field name="city">Bologna</field>

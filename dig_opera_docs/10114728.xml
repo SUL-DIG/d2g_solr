@@ -6,6 +6,10 @@
 <field name="titleSort">grignotteuses</field>
 <field name="composer">Charles Hubans</field>
 <field name="composerSort">Hubans, Charles</field>
+
+<field name="librettist">Paul Avenel</field>
+<field name="librettistSort">Avenel, Paul</field>
+
 <field name="year">1857</field>
 <field name="date">1857</field><field name="theater">Théâtre-Royal</field>
 <field name="city">Liège</field>

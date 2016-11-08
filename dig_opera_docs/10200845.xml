@@ -10,7 +10,9 @@
 		<field name="composer">Giacomo Rampini</field>
 		<field name="composerSort">Rampini, Giacomo</field>
 		
-		
+		<field name="librettist">Virgilio Mortari</field>
+    <field name="librettistSort">Mortari, Virgilio</field>
+
 		
 		<field name="city">Padua</field>
 		<field name="region">Veneto</field>

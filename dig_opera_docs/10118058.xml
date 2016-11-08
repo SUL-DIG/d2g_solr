@@ -6,6 +6,10 @@
 <field name="titleSort">Peter Rank och hans fästmö</field>
 <field name="composer">Carl Johan Lewerth</field>
 <field name="composerSort">Lewerth, Carl Johan</field>
+
+<field name="librettist">Olof Hermelin</field>
+<field name="librettistSort">Hermelin, Olof</field>
+
 <field name="year">1870</field>
 <field name="date">1870</field>
 <field name="city">Örebro</field>

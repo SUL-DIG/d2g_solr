@@ -6,6 +6,10 @@
 <field name="titleSort">mercato di regina</field>
 <field name="composer">Nicolò Chiodi</field>
 <field name="composerSort">Chiodi, Nicolò</field>
+
+<field name="librettist">Nicolò Chiodi</field>
+<field name="librettistSort">Chiodi, Nicolò</field>
+
 <field name="year">1905</field>
 <field name="date">1905</field>
 <field name="city">Nizza Monferrato</field>

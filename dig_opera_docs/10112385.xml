@@ -6,6 +6,10 @@
 <field name="titleSort">Fausto</field>
 <field name="composer">Luigi Gordigiani</field>
 <field name="composerSort">Gordigiani, Luigi</field>
+
+<field name="librettist">Giuseppe Poniatowski</field>
+<field name="librettistSort">Poniatowski, Giuseppe</field>
+
 <field name="year">1836</field>
 <field name="date">1836</field><field name="theater">Teatro di via della Pergola</field>
 <field name="city">Florence</field>

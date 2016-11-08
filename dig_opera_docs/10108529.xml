@@ -6,6 +6,10 @@
 <field name="titleSort">médecin et l'apothicaire</field>
 <field name="composer">Charles-François-Honoré Duquesnoy</field>
 <field name="composerSort">Duquesnoy, Charles-François-Honoré</field>
+
+<field name="librettist">[Alexandre-Louis-Bertrand Robineau] Beaunoir</field>
+<field name="librettistSort">Beaunoir, [Alexandre-Louis-Bertrand Robineau]</field>
+
 <field name="year">1794</field>
 <field name="date">1794</field>
 <field name="city">Brussels</field>

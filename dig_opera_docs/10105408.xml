@@ -6,6 +6,10 @@
 <field name="titleSort">gare de' fiumi</field>
 <field name="composer">Maurizio Cazzati</field>
 <field name="composerSort">Cazzati, Maurizio</field>
+
+<field name="librettist">Giovanni Battista Pellicani</field>
+<field name="librettistSort">Pellicani, Giovanni Battista </field>
+
 <field name="year">1658</field>
 <field name="date">1658</field>
 <field name="city">Bologna</field>

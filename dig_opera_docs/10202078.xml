@@ -10,7 +10,9 @@
 		<field name="composer">Willard Patten</field>
 		<field name="composerSort">Patten, Willard</field>
 		
-		
+		<field name="librettist">Willard Patton</field>
+    <field name="librettistSort">Patton, Willard</field>
+
 		<field name="theater">Musical Congress Day, Auditorium</field>
 		<field name="city">Omaha</field>
 		<field name="region">Nebraska</field>

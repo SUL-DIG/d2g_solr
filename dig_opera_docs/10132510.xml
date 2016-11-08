@@ -6,6 +6,11 @@
 <field name="titleSort">amant pour rire</field>
 <field name="composer">François Anthoine Alphonse Wanson</field>
 <field name="composerSort">Wanson, François Anthoine Alphonse</field>
+
+<field name="librettist">F. Micha</field>
+<field name="librettistSort">Micha, F.</field>
+
+
 <field name="year">1835</field>
 <field name="date">1835</field><field name="theater">Théâtre-Royal</field>
 <field name="city">Liège</field>

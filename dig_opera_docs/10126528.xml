@@ -6,6 +6,10 @@
 <field name="titleSort">Carlo Magno</field>
 <field name="composer">Pietro Romani</field>
 <field name="composerSort">Romani, Pietro</field>
+
+<field name="librettist">Antonio Peracchi</field>
+<field name="librettistSort">Peracchi, Antonio</field>
+
 <field name="year">1823</field>
 <field name="date">1823</field>
 <field name="city">Florence</field>

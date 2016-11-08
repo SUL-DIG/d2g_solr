@@ -6,6 +6,11 @@
 <field name="titleSort">mort de Diane</field>
 <field name="composer">Auguste Emmanuel Vaucorbeil</field>
 <field name="composerSort">Vaucorbeil, Auguste Emmanuel</field>
+
+<field name="librettist">Henri de Lacretelle</field>
+<field name="librettistSort">Lacretelle, Henri de</field>
+
+
 <field name="year">1870</field>
 <field name="date">1870</field><field name="theater">Conservatoire Nationale</field>
 <field name="city">Paris</field>

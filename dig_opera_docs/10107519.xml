@@ -6,6 +6,10 @@
 <field name="titleSort">Marie de Brabant</field>
 <field name="composer">Jules Denefve</field>
 <field name="composerSort">Denefve, Jules</field>
+
+<field name="librettist">Adolphe Mathieu</field>
+<field name="librettistSort">Mathieu, Adolphe</field>
+
 <field name="year">1850</field>
 <field name="date">1850</field>
 <field name="city">Mons</field>

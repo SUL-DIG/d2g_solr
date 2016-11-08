@@ -6,11 +6,13 @@
 		<field name="year">1816</field>
 		
 		
-		<field name="date">1816</field>
+		<field name="date">June 23, 1816</field>
 		<field name="composer">Franz Bühler</field>
 		<field name="composerSort">Bühler, Franz</field>
 		
-		
+		<field name="librettist">Joseph Sebastian von Rittershausen</field>
+		<field name="librettistSort">Rittershausen, Joseph Sebastian von</field>
+
 		
 		<field name="city">Burgau</field>
 		<field name="region">Bayern</field>

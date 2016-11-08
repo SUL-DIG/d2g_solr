@@ -6,6 +6,10 @@
 <field name="titleSort">Sons of Aaron</field>
 <field name="composer">Siegfried Landau</field>
 <field name="composerSort">Landau, Siegfried</field>
+
+<field name="librettist">Raymond Smolover</field>
+<field name="librettistSort">Smolover, Raymond</field>
+
 <field name="year">1959</field>
 <field name="date">1959</field><field name="theater">Scarsdale Junior High School</field>
 <field name="city">Scarsdale</field>

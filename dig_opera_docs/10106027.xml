@@ -6,6 +6,10 @@
 <field name="titleSort">cabaret du Sabot d'or</field>
 <field name="composer">[Édouard Nicolaïe] Clairville (fils)</field>
 <field name="composerSort">Clairville (fils), [Édouard Nicolaïe]</field>
+
+<field name="librettist">P. Caliste</field>
+<field name="librettistSort">Caliste, P.</field>
+
 <field name="year">1878</field>
 <field name="date">1878</field><field name="theater">Théâtre des Fantaisies-Parisiennes</field>
 <field name="city">Paris</field>

@@ -10,7 +10,9 @@
 		<field name="composer">Giuseppe Radicchi</field>
 		<field name="composerSort">Radicchi, Giuseppe</field>
 		
-		
+		<field name="librettist">Gioacchino Pizzi</field>
+    <field name="librettistSort">Pizzi, Gioacchino</field>
+
 		
 		<field name="city">Fossombrone</field>
 		<field name="region">Marche</field>

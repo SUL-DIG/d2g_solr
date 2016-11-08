@@ -10,7 +10,9 @@
 		<field name="composer">Giovanni Cavi</field>
 		<field name="composerSort">Cavi, Giovanni</field>
 		
-		
+		<field name="librettist">Giovanni Gerardo de' Rossi</field>
+    <field name="librettistSort">Rossi, Giovanni Gerardo de'</field>
+
 		
 		<field name="city">Lisbon</field>
 		<field name="region">Lisboa</field>

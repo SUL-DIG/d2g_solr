@@ -10,6 +10,10 @@
 <field name="date">1970</field>
 <field name="librettist">Henry Chester Tracy</field>
 <field name="librettistSort">Tracy, Henry Chester</field>
+
+<field name="librettist">Helen Hunt Jackson</field>
+<field name="librettistSort">Jackson, Helen Hunt </field>
+
 <field name="theater">Brigham Young University</field>
 <field name="city">Provo</field>
 <field name="region">Utah</field>

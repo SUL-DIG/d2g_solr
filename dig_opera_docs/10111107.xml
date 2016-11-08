@@ -6,6 +6,10 @@
 <field name="titleSort">If Men Played Cards As Women Do</field>
 <field name="composer">Charles Garland</field>
 <field name="composerSort">Garland, Charles</field>
+
+<field name="librettist">George Simon Kaufman</field>
+<field name="librettistSort">Kaufman, George Simon </field>
+
 <field name="year">1952</field>
 <field name="date">1952</field><field name="theater">American Conservatory of Music</field>
 <field name="city">Chicago</field>

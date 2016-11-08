@@ -6,6 +6,10 @@
 <field name="titleSort">Rubber</field>
 <field name="composer">Felix Körling</field>
 <field name="composerSort">Körling, Felix</field>
+
+<field name="librettist">Carl Barcklind</field>
+<field name="librettistSort">Barcklind, Carl</field>
+
 <field name="year">1917</field>
 <field name="date">1917</field><field name="theater">Oscarteatern</field>
 <field name="city">Stockholm</field>

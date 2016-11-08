@@ -6,6 +6,10 @@
 <field name="titleSort">Giorgio di Bary</field>
 <field name="composer">Vincenzo Petrali</field>
 <field name="composerSort">Petrali, Vincenzo</field>
+
+<field name="librettist">Giovanni Battista Cremonesi</field>
+<field name="librettistSort">Cremonesi, Giovanni Battista</field>
+
 <field name="year">1854</field>
 <field name="date">1854</field><field name="theater">Teatro Sociale</field>
 <field name="city">Bergamo</field>

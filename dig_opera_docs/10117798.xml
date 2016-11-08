@@ -6,6 +6,11 @@
 <field name="titleSort">cabaret de Lustucru</field>
 <field name="composer">Charles Lemanissier</field>
 <field name="composerSort">Lemanissier, Charles</field>
+
+<field name="librettist">Étienne Arago</field>
+<field name="librettistSort">Arago, Étienne</field>
+
+
 <field name="year">1861</field>
 <field name="date">1861</field><field name="theater">Théâtre Municipal</field>
 <field name="city">La Rochelle</field>

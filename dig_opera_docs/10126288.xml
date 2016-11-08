@@ -6,6 +6,10 @@
 <field name="titleSort">Euristeo</field>
 <field name="composer">Giovanni Alberto Ristori</field>
 <field name="composerSort">Ristori, Giovanni Alberto</field>
+
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+
 <field name="year">1714</field>
 <field name="date">1714</field>
 <field name="city">Venice</field>

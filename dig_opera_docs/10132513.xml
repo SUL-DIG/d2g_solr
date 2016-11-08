@@ -6,6 +6,11 @@
 <field name="titleSort">Raes а la barbe</field>
 <field name="composer">François Anthoine Alphonse Wanson</field>
 <field name="composerSort">Wanson, François Anthoine Alphonse</field>
+
+<field name="librettist">Frédéric Thys</field>
+<field name="librettistSort">Thys, Frédéric</field>
+
+
 <field name="year">1845</field>
 <field name="date">1845</field><field name="theater">Théâtre-Royal</field>
 <field name="city">Liège</field>

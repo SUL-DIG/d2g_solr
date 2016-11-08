@@ -6,6 +6,10 @@
 <field name="titleSort">Don Japhet</field>
 <field name="composer">Hilarión Cellarier</field>
 <field name="composerSort">Cellarier, Hilarión</field>
+
+<field name="librettist">Paul Scarron</field>
+<field name="librettistSort">Scarron, Paul</field>
+
 <field name="year">1836</field>
 <field name="date">1836</field><field name="theater">Conservatorio</field>
 <field name="city">Viareggio</field>

@@ -6,6 +6,10 @@
 <field name="titleSort">Alma latina</field>
 <field name="composer">Giuseppe Miceli</field>
 <field name="composerSort">Miceli, Giuseppe</field>
+
+<field name="librettist">Giuseppe Miceli</field>
+<field name="librettistSort">Miceli, Giuseppe</field>
+
 <field name="year">1922</field>
 <field name="date">1922</field><field name="theater">Philharmonic Auditorium</field>
 <field name="city">Los Angeles</field>

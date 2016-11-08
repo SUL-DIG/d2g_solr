@@ -6,6 +6,10 @@
 <field name="titleSort">dottor Gasparo</field>
 <field name="composer">Giulio Smareglia</field>
 <field name="composerSort">Smareglia, Giulio</field>
+
+<field name="librettist">Carlo Siabik</field>
+<field name="librettistSort">Siabik, Carlo</field>
+
 <field name="year">1905</field>
 <field name="date">1905</field><field name="theater">Politeama Ciscutti</field>
 <field name="city">Pula</field>

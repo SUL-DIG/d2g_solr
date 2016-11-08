@@ -6,6 +6,10 @@
 <field name="titleSort">Mitridate a Sinope</field>
 <field name="composer">Giuseppe Sarti</field>
 <field name="composerSort">Sarti, Giuseppe</field>
+
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+
 <field name="year">1779</field>
 <field name="date">1779</field><field name="theater">Regio Teatro degl'Intrepidi della Palla a Corda</field>
 <field name="city">Florence</field>

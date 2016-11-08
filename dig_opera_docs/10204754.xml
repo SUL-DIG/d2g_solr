@@ -10,7 +10,9 @@
 		<field name="composer">Domenico Filippo Bottari</field>
 		<field name="composerSort">Bottari, Domenico Filippo</field>
 		
-		
+		<field name="librettist">Paolo Gini</field>
+    <field name="librettistSort">Gini, Paolo</field>
+
 		
 		<field name="city">Rome</field>
 		<field name="region">Lazio</field>

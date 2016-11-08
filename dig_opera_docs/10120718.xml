@@ -6,8 +6,13 @@
 <field name="titleSort">Agoranto re della Nubia</field>
 <field name="composer">Miguel Minises</field>
 <field name="composerSort">Minises, Miguel</field>
+
+<field name="librettist">Giuseppe Sapio</field>
+<field name="librettistSort">Sapio, Giuseppe</field>
+
+
 <field name="year">1865</field>
-<field name="date">1865</field><field name="theater">Teatro Principal</field>
+<field name="date">July 6, 1865</field><field name="theater">Teatro Principal</field>
 <field name="city">Mexico City</field>
 
 <field name="country">Mexico</field>

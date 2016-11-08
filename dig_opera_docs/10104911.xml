@@ -6,6 +6,10 @@
 <field name="titleSort">Giovanna di Castiglia</field>
 <field name="composer">Antonio José Cappa</field>
 <field name="composerSort">Cappa, Antonio José</field>
+
+<field name="librettist">Antonio de Gironella</field>
+<field name="librettistSort">Gironella, Antonio de</field>
+
 <field name="year">1848</field>
 <field name="date">1848</field><field name="theater">Gran Teatre del Liceu</field>
 <field name="city">Barcelona</field>

@@ -10,7 +10,9 @@
 		<field name="composer">Giovanni Cesare Pascucci</field>
 		<field name="composerSort">Pascucci, Giovanni Cesare</field>
 		
-		
+		<field name="librettist">Agostino Bartolini</field>
+    <field name="librettistSort">Bartolini, Agostino</field>
+
 		
 		<field name="city">Rome</field>
 		<field name="region">Lazio</field>

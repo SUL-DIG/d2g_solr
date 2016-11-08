@@ -6,6 +6,10 @@
 <field name="titleSort">tesoro</field>
 <field name="composer">Giuseppe Maria Sborgi</field>
 <field name="composerSort">Sborgi, Giuseppe Maria</field>
+
+<field name="librettist">Francesco Guidi</field>
+<field name="librettistSort">Guidi, Francesco</field>
+
 <field name="year">1873</field>
 <field name="date">1873</field><field name="theater">Teatro Rossini</field>
 <field name="city">Florence</field>

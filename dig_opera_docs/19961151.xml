@@ -6,6 +6,13 @@
 <field name="titleSort">Duce</field>
 <field name="composer">Federico García Vigíl</field>
 <field name="composerSort">Vigíl, Federico García</field>
+
+<field name="librettist">Carlos Maggi</field>
+<field name="librettistSort">Maggi, Carlos</field>
+
+<field name="librettist">Mauricio Rosencof</field>
+<field name="librettistSort">Rosencof, Mauricio</field>
+
 <field name="year">2013</field>
 <field name="date">December 17, 2013</field>
 <field name="theater">Teatro Solis</field>

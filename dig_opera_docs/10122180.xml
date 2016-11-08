@@ -6,6 +6,10 @@
 <field name="titleSort">Hebje d'r last van?</field>
 <field name="composer">Louis Noiret</field>
 <field name="composerSort">Noiret, Louis</field>
+
+<field name="librettist">[Cornelis Johannes Theodorus van Delden] Ferry</field>
+<field name="librettistSort">Ferry, [Cornelis Johannes Theodorus van Delden]</field>
+
 <field name="year">1920</field>
 <field name="date">1920</field><field name="theater">Stadsschouwburg</field>
 <field name="city">Amsterdam</field>

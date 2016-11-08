@@ -6,6 +6,11 @@
 <field name="titleSort">Goldiggers, or Matrimony Mania</field>
 <field name="composer">Walter Wadham Peters</field>
 <field name="composerSort">Peters, Walter Wadham</field>
+
+<field name="librettist">Walter Wadham Peters</field>
+<field name="librettistSort">Peters, Walter Wadham</field>
+
+
 <field name="year">1902</field>
 <field name="date">1902</field><field name="theater">Duchess Theatre</field>
 <field name="city">Balham</field>

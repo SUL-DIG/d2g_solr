@@ -10,6 +10,10 @@
 <field name="date">1900</field>
 <field name="librettist">Eugenio de Lupis</field>
 <field name="librettistSort">Lupis, Eugenio de</field>
+
+<field name="librettist">Vittorio Cuttin</field>
+<field name="librettistSort">Cuttin, Vittorio</field>
+
 <field name="theater">Politeama Ciscutti</field>
 <field name="city">Pula</field>
 <field name="region">Istria</field>

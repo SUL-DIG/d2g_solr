@@ -6,6 +6,10 @@
 <field name="titleSort">Vologeso, re de' Patri</field>
 <field name="composer">Leonardo Leo</field>
 <field name="composerSort">Leo, Leonardo</field>
+
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+
 <field name="year">1744</field>
 <field name="date">1744</field><field name="theater">Teatro Regio</field>
 <field name="city">Turin</field>

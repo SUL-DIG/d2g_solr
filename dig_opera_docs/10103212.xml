@@ -6,6 +6,11 @@
 <field name="titleSort">Moses on Mount Sinai</field>
 <field name="composer">Josef Blatt</field>
 <field name="composerSort">Blatt, Josef</field>
+
+<field name="librettist">Josef Blatt</field>
+<field name="librettistSort">Blatt, Josef</field>
+
+
 <field name="year">1964</field>
 <field name="date">1964</field><field name="theater">University of Michigan</field>
 <field name="city">Ann Arbor</field>

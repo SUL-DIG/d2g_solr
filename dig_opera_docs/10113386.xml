@@ -6,6 +6,13 @@
 <field name="titleSort">inconsolable</field>
 <field name="composer">Fromental Halévy</field>
 <field name="composerSort">Halévy, Fromental</field>
+
+<field name="librettist">Henri de Saint-Georges</field>
+<field name="librettistSort">Saint-Georges, Henri de </field>
+
+<field name="librettist">[Adolphe de Ribbing] Adolphe de Leuven</field>
+<field name="librettistSort">Leuven, Adolphe de [Adolphe de Ribbing]</field>
+
 <field name="year">1855</field>
 <field name="date">1855</field><field name="theater">Théâtre-Lyrique</field>
 <field name="city">Paris</field>

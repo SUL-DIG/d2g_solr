@@ -10,7 +10,9 @@
 		<field name="composer">Giuseppe Matteo Alberti</field>
 		<field name="composerSort">Alberti, Giuseppe Matteo</field>
 		
-		
+		<field name="librettist">Antonio Zaniboni</field>
+    <field name="librettistSort">Zaniboni, Antonio</field>
+
 		
 		<field name="city">Bologna</field>
 		<field name="region">Emilia-Romagna</field>

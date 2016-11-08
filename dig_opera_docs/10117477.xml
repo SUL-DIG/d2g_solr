@@ -6,6 +6,11 @@
 <field name="titleSort">Job</field>
 <field name="composer">Cora Burt Lauridsen</field>
 <field name="composerSort">Lauridsen, Cora Burt</field>
+
+<field name="librettist">Cora Burt Lauridsen</field>
+<field name="librettistSort">Lauridsen, Cora Burt</field>
+
+
 <field name="year">1965</field>
 <field name="date">1965</field><field name="theater">Occidental College</field>
 <field name="city">Los Angeles</field>

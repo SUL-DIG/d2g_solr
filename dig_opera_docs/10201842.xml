@@ -10,7 +10,9 @@
 		<field name="composer">George Frederick Perry</field>
 		<field name="composerSort">Perry, George Frederick</field>
 		
-		
+		<field name="librettist">W. M. Cowell</field>
+    <field name="librettistSort">Cowell, W. M.</field>
+
 		
 		<field name="city">Norwich</field>
 		<field name="region">Norfolk</field>

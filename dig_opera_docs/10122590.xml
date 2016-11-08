@@ -6,6 +6,10 @@
 <field name="titleSort">pupilla scozzese</field>
 <field name="composer">Ferdinando Orlandi</field>
 <field name="composerSort">Orlandi, Ferdinando</field>
+
+<field name="librettist">Lorenzo Da Ponte</field>
+<field name="librettistSort">Da Ponte, Lorenzo</field>
+
 <field name="year">1801</field>
 <field name="date">1801</field><field name="theater">Teatro Ducale</field>
 <field name="city">Parma</field>

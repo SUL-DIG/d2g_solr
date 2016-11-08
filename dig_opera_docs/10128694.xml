@@ -6,6 +6,10 @@
 <field name="titleSort">sarto ed i tabarri</field>
 <field name="composer">Maurizio Sciorati</field>
 <field name="composerSort">Sciorati, Maurizio</field>
+
+<field name="librettist">Andrea Passaro</field>
+<field name="librettistSort">Passaro, Andrea</field>
+
 <field name="year">1835</field>
 <field name="date">1835</field><field name="theater">Teatro Carlo Felice</field>
 <field name="city">Genoa</field>

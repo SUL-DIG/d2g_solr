@@ -6,6 +6,10 @@
 <field name="titleSort">sardana del promesos</field>
 <field name="composer">Adrián Esquerrá</field>
 <field name="composerSort">Esquerrá, Adrián</field>
+
+<field name="librettist">Josep Morató</field>
+<field name="librettistSort">Morató, Josep</field>
+
 <field name="year">1906</field>
 <field name="date">1906</field>
 <field name="city">Barcelona</field>

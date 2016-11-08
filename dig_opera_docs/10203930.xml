@@ -10,7 +10,9 @@
 		<field name="composer">Nicolò Stamegna</field>
 		<field name="composerSort">Stamegna, Nicolò</field>
 		
-		
+		<field name="librettist">Sebastiano Lazarini</field>
+    <field name="librettistSort">Lazarini, Sebastiano</field>
+
 		
 		<field name="city">Rome</field>
 		<field name="region">Lazio</field>

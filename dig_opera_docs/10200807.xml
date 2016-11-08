@@ -5,11 +5,14 @@
 		<field name="titleSort">David</field>
 		<field name="year">1854</field>
 		<field name="month">June</field>
-		<field name="day">30</field>
-		<field name="date">June 30, 1854</field>
+		<field name="day">20</field>
+		<field name="date">June 20, 1854</field>
 		<field name="composer">John Henry Griesbach</field>
 		<field name="composerSort">Griesbach, John Henry</field>
 		
+		<field name="librettist">William Ball</field>
+    <field name="librettistSort">Ball, William</field>
+
 		
 		<field name="theater">Sacred Harmonic Society, Exeter Hall</field>
 		<field name="city">London</field>

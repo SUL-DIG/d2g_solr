@@ -6,6 +6,11 @@
 <field name="titleSort">Luna</field>
 <field name="composer">Luis Jaime Cortez</field>
 <field name="composerSort">Cortez, Luis Jaime</field>
+
+<field name="librettist">Antonio Zúñiga</field>
+<field name="librettistSort">Antonio Zúñiga</field>
+
+
 <field name="year">2003</field>
 <field name="theater">Teatro Juárez</field>
 <field name="city">Guanajuato</field>

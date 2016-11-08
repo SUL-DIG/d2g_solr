@@ -6,6 +6,10 @@
 <field name="titleSort">Van Alle Tijden</field>
 <field name="composer">Boudewijn Buckinx</field>
 <field name="composerSort">Buckinx, Boudewijn</field>
+
+<field name="librettist">Jo Willems</field>
+<field name="librettistSort">Willems, Jo</field>
+
 <field name="year">1998</field>
 <field name="date">May 22, 1998</field>
 <field name="theater">Stichting Aa</field>

@@ -6,6 +6,10 @@
 <field name="titleSort">Adam and Eve</field>
 <field name="composer">Lou Crane</field>
 <field name="composerSort">Crane, Lou</field>
+
+<field name="librettist">Seymour Reiter</field>
+<field name="librettistSort">Reiter, Seymour</field>
+
 <field name="year">1984</field>
 <field name="date">1984</field><field name="theater">Golden Fleece Ltd.</field>
 <field name="city">New York</field>

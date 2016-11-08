@@ -6,6 +6,10 @@
 <field name="titleSort">Mercedes</field>
 <field name="composer">Agostino Pepoli</field>
 <field name="composerSort">Pepoli, Agostino</field>
+
+<field name="librettist">Agostino Pepoli</field>
+<field name="librettistSort">Pepoli, Agostino</field>
+
 <field name="year">1909</field>
 <field name="date">1909</field><field name="theater">Teatro Garibaldi</field>
 <field name="city">Trapani</field>
