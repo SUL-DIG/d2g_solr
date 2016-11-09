@@ -6,6 +6,13 @@
 <field name="titleSort">Gilgamesh</field>
 <field name="composer">Stephen Dickman</field>
 <field name="composerSort">Dickman, Stephen</field>
+
+<field name="librettist">Maureen Gallery Kovacs</field>
+<field name="librettistSort">Kovacs, Maureen Gallery </field>
+
+<field name="librettist">Stephen Dickman</field>
+<field name="librettistSort">Dickman, Stephen</field>
+
 <field name="year">2002</field>
 <field name="date">June 20, 2002</field>
 <field name="theater">La MaMa Theater</field>

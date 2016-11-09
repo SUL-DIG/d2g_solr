@@ -4,9 +4,12 @@
 		<field name="title">Judith</field>
 		<field name="titleSort">Judith</field>
 		<field name="year">1858</field>
-		
-		
-		<field name="date">1858</field>
+    <field name="date">April 7, 1858</field>
+    <field name="theater">Assembly Rooms</field>
+    <field name="city">Cheltenham</field>
+    <field name="region">Gloucestershire</field>
+    <field name="country">United Kingdom</field>
+
 		<field name="composer">B. Joesbury</field>
 		<field name="composerSort">Joesbury, B.</field>
 		

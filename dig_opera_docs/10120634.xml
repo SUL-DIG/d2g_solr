@@ -11,6 +11,9 @@
 <field name="librettist">Luigi Capuana</field>
 <field name="librettistSort">Capuana, Luigi</field>
 
+<field name="librettist">Dino Milella</field>
+<field name="librettistSort">Milella, Dino</field>
+
 <field name="city">Taranto</field>
 <field name="region">Puglia</field>
 <field name="country">Italy</field>

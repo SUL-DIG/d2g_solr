@@ -3,10 +3,13 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Hiob</field>
 		<field name="titleSort">Hiob</field>
-		<field name="year">1929</field>
-		
-		
-		<field name="date">1929</field>
+		<field name="year">1997</field>
+    <field name="date">August 16, 1997</field>
+    <field name="theater">Estonia Kontserdisaalis</field>
+    <field name="city">Tallin</field>
+    <field name="region">Harju</field>
+    <field name="country">Estonia</field>
+
 		<field name="composer">Artur Kapp</field>
 		<field name="composerSort">Kapp, Artur</field>
 		<field name="librettist">Julius Kaljuvee</field>

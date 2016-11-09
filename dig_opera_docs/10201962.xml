@@ -4,9 +4,12 @@
 		<field name="title">In festivitate Sanctae Trinitatis</field>
 		<field name="titleSort">In festivitate Sanctae Trinitatis</field>
 		<field name="year">1958</field>
-		
-		
-		<field name="date">1958</field>
+    <field name="date">August 30, 1958</field>
+    <field name="theater">Cittadella Ospitalità</field>
+    <field name="city">Assisi</field>
+    <field name="region">Umbria</field>
+    <field name="country">Italy</field>
+
 		<field name="composer">Adriano Lualdi</field>
 		<field name="composerSort">Lualdi, Adriano</field>
 		<field name="librettist">Marco Farina</field>

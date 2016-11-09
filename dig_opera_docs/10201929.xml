@@ -3,10 +3,14 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Icarus</field>
 		<field name="titleSort">Icarus</field>
-		<field name="year">1962</field>
+		<field name="year">1964</field>
+		<field name="theater">NRU Radio (Netherlands Radio Union)</field>
+    <field name="city">Amsterdam</field>
+    <field name="region">Noord Holland</field>
+    <field name="country">Netherlands</field>
+
 		
-		
-		<field name="date">1962</field>
+		<field name="date">May 13, 1964</field>
 		<field name="composer">Lex van Delden</field>
 		<field name="composerSort">Delden, Lex van</field>
 		

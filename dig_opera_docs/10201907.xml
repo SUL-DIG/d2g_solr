@@ -4,9 +4,12 @@
 		<field name="title">Hüllen des Abgrunds</field>
 		<field name="titleSort">Hüllen des Abgrunds</field>
 		<field name="year">1987</field>
-		
-		
-		<field name="date">1987</field>
+    <field name="date">1987</field>
+    <field name="theater">Gymnasium Neufeld</field>
+    <field name="city">Bern</field>
+    <field name="region">Bern</field>
+    <field name="country">Switzerland</field>
+
 		<field name="composer">Daniel Glaus</field>
 		<field name="composerSort">Glaus, Daniel</field>
 		

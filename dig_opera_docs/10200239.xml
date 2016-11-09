@@ -4,9 +4,12 @@
 		<field name="title">The Ascension of Martin Luther King</field>
 		<field name="titleSort">Ascension of Martin Luther King</field>
 		<field name="year">1990</field>
-		
-		
-		<field name="date">1990</field>
+    <field name="date">November 3, 1990</field>
+    <field name="theater">Domkirke</field>
+    <field name="city">Stavanger</field>
+    <field name="region">Rogaland</field>
+    <field name="country">Norway</field>
+
 		<field name="composer">Nils Henrik Asheim</field>
 		<field name="composerSort">Asheim, Nils Henrik</field>
 		<field name="librettist">A. Hague</field>

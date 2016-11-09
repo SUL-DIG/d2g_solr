@@ -10,7 +10,11 @@
 		<field name="composer">Giselher Klebe</field>
 		<field name="composerSort">Klebe, Giselher</field>
 		
-		
+		<field name="librettist">Peter Härtling</field>
+    <field name="librettistSort">Härtling, Peter</field>
+
+    <field name="librettist">Walter Jens</field>
+    <field name="librettistSort">Jens, Walter</field>
 		
 		
 		

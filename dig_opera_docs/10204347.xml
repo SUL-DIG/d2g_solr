@@ -3,10 +3,13 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">A Song in Stone</field>
 		<field name="titleSort">Song in Stone</field>
-		<field name="year">1978</field>
-		
-		
-		<field name="date">1978</field>
+		<field name="year">1979</field>
+    <field name="date">April 14, 1979</field>
+    <field name="theater">Ateneul Român</field>
+    <field name="city"> Bucharest</field>
+
+    <field name="country">Romania</field>
+
 		<field name="composer">Liviu Comes</field>
 		<field name="composerSort">Comes, Liviu</field>
 		<field name="librettist">Ion Brad</field>

@@ -6,6 +6,13 @@
 <field name="titleSort">garde de nuit</field>
 <field name="composer">François Anthoine Alphonse Wanson</field>
 <field name="composerSort">Wanson, François Anthoine Alphonse</field>
+
+<field name="librettist">[Anne-Honoré-Joseph Duveyrier] Mélesville</field>
+<field name="librettistSort">Mélesville, [Anne-Honoré-Joseph Duveyrier]</field>
+
+<field name="librettist">Pierre-Frédéric-Adolphe Carmouche</field>
+<field name="librettistSort">Carmouche, Pierre-Frédéric-Adolphe</field>
+
 <field name="year">1836</field>
 <field name="date">1836</field><field name="theater">Théâtre-Royal</field>
 <field name="city">Liège</field>

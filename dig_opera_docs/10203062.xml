@@ -5,11 +5,11 @@
 		<field name="titleSort">Opus sine nomine</field>
 		<field name="year">1990</field>
 		<field name="month">May</field>
-		<field name="day">8</field>
-		<field name="date">May 8, 1990</field>
+		<field name="day">10</field>
+		<field name="date">May 10, 1990</field>
 		<field name="composer">Ernst Krenek</field>
 		<field name="composerSort">Krenek, Ernst</field>
-		
+		<field name="theater">World Peace Choral Festival</field>
 		
 		
 		<field name="city">Vienna</field>

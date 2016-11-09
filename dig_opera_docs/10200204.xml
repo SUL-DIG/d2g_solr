@@ -4,9 +4,9 @@
 		<field name="title">The Apocalypse</field>
 		<field name="titleSort">Apocalypse</field>
 		<field name="year">1954</field>
+		<field name="theater">Town Hall</field>
 		
-		
-		<field name="date">1954</field>
+		<field name="date">November 22, 1954</field>
 		<field name="composer">Eugene Goossens</field>
 		<field name="composerSort">Goossens, Eugene</field>
 		<field name="librettist">Eugene Goosens</field>
@@ -14,8 +14,8 @@
 		<field name="librettist">Frank Moore</field>
 		<field name="librettistSort">Moore, Frank</field>
 		
-		<field name="city">Melbourne</field>
-		<field name="region">Victoria</field>
+		<field name="city">Sydney</field>
+		<field name="region">New South Wales</field>
 		<field name="country">Australia</field>
 		<field name="subject">The Apocalypse</field>
 		

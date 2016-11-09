@@ -6,6 +6,13 @@
 <field name="titleSort">Game Opera</field>
 <field name="composer">Loran Francis Carrier</field>
 <field name="composerSort">Carrier, Loran Francis</field>
+
+<field name="librettist">Robert Stackhouse</field>
+<field name="librettistSort">Stackhouse, Robert</field>
+
+<field name="librettist">Dolores Stackhouse</field>
+<field name="librettistSort">Stackhouse, Dolores</field>
+
 <field name="year">1969</field>
 <field name="date">1969</field><field name="theater">Smithsonian Institute</field>
 <field name="city">Washington</field>

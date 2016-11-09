@@ -4,7 +4,11 @@
 		<field name="title">Provokationen</field>
 		<field name="titleSort">Provokationen</field>
 		<field name="year">1971</field>
-		
+
+    <field name="city">Wiener Neustadt</field>
+    <field name="region">Niederösterreich</field>
+    <field name="country">Austria</field>
+
 		
 		<field name="date">1971</field>
 		<field name="composer">Heinrich Gattermayer</field>

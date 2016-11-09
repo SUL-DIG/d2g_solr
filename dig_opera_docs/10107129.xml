@@ -6,6 +6,13 @@
 <field name="titleSort">Ah! le divorce</field>
 <field name="composer">Joseph Darcier</field>
 <field name="composerSort">Darcier, Joseph</field>
+
+<field name="librettist">Victor Couailhac</field>
+<field name="librettistSort">Couailhac, Victor</field>
+
+<field name="librettist">Paul Renard</field>
+<field name="librettistSort">Renard, Paul</field>
+
 <field name="year">1874</field>
 <field name="date">1874</field><field name="theater">Café-concert de l'Eldorado</field>
 <field name="city">Paris</field>

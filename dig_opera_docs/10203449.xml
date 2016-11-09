@@ -4,9 +4,12 @@
 		<field name="title">Posaune Oratorio</field>
 		<field name="titleSort">Posaune Oratorio</field>
 		<field name="year">1992</field>
-		
-		
-		<field name="date">1992</field>
+    <field name="date">1992</field>
+    <field name="theater">First Presbyterian Church</field>
+    <field name="city">Regina</field>
+    <field name="region">Saskatchewan</field>
+    <field name="country">Canada</field>
+
 		<field name="composer">Elizabeth Raum</field>
 		<field name="composerSort">Raum, Elizabeth</field>
 		

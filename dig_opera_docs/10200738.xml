@@ -4,9 +4,12 @@
 		<field name="title">Cris du monde</field>
 		<field name="titleSort">Cris du monde</field>
 		<field name="year">1931</field>
-		
-		
-		<field name="date">1931</field>
+    <field name="date">May 30, 1931</field>
+    <field name="theater">Théâtre du Jorat</field>
+    <field name="city">Mézières</field>
+    <field name="region">Vaud</field>
+    <field name="country">Switzerland</field>
+
 		<field name="composer">Arthur Honegger</field>
 		<field name="composerSort">Honegger, Arthur</field>
 		<field name="librettist">René Bizet</field>

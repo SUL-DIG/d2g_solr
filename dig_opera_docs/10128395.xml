@@ -6,6 +6,13 @@
 <field name="titleSort">Dollmaker</field>
 <field name="composer">Carol Schoenhard</field>
 <field name="composerSort">Schoenhard, Carol</field>
+
+<field name="librettist">Carol Schoenhard</field>
+<field name="librettistSort">Schoenhard, Carol</field>
+
+<field name="librettist">Harriette Simpson Arnow</field>
+<field name="librettistSort">Arnow, Harriette Simpson</field>
+
 <field name="year">1976</field>
 <field name="date">1976</field><field name="theater">Westminster College</field>
 <field name="city">New Wilmington</field>

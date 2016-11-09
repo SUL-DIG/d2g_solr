@@ -3,10 +3,13 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Die Turmbau zu Babel</field>
 		<field name="titleSort">Turmbau zu Babel</field>
-		<field name="year">1960</field>
-		
-		
-		<field name="date">1960</field>
+		<field name="year">1971</field>
+    <field name="date">April 16, 1971</field>
+   
+    <field name="city">Vienna</field>
+    
+    <field name="country">Austria</field>
+
 		<field name="composer">Heinrich Gattermayer</field>
 		<field name="composerSort">Gattermayer, Heinrich</field>
 		

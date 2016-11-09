@@ -6,6 +6,13 @@
 <field name="titleSort">Hat Man</field>
 <field name="composer">Roland Trogan</field>
 <field name="composerSort">Trogan, Roland</field>
+
+<field name="librettist">Roland Trogan</field>
+<field name="librettistSort">Trogan, Roland</field>
+
+<field name="librettist">Larry Pike</field>
+<field name="librettistSort">Pike, Larry</field>
+
 <field name="year">1953</field>
 <field name="date">1953</field><field name="theater">National Music Camp</field>
 <field name="city">Interlochen</field>

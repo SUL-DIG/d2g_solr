@@ -4,9 +4,12 @@
 		<field name="title">Easter Morn</field>
 		<field name="titleSort">Easter Morn</field>
 		<field name="year">1892</field>
-		
-		
-		<field name="date">1892</field>
+    <field name="date">1892</field>
+    <field name="theater">Highbury Athenaeum</field>
+    <field name="city">Islington</field>
+    <field name="region">Greater London</field>
+    <field name="country">United Kingdom</field>
+
 		<field name="composer">Arundel Orchard</field>
 		<field name="composerSort">Orchard, Arundel</field>
 		<field name="librettist">Charles Karlyle</field>

@@ -3,10 +3,13 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Ezkerah (I Remember)</field>
 		<field name="titleSort">Ezkerah (I Remember)</field>
-		<field name="year">1952</field>
-		
-		
-		<field name="date">1952</field>
+		<field name="year">1949</field>
+    <field name="date">1949</field>
+    <field name="theater">Town Hall</field>
+    <field name="city">New York</field>
+    <field name="region">New York</field>
+    <field name="country">United States</field>
+
 		<field name="composer">Mordecai Sandberg</field>
 		<field name="composerSort">Sandberg, Mordecai</field>
 		

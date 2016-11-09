@@ -6,6 +6,13 @@
 <field name="titleSort">Sol de noche</field>
 <field name="composer">Rafael Millán</field>
 <field name="composerSort">Millán, Rafael</field>
+
+<field name="librettist">Manuel González de Lara</field>
+<field name="librettistSort">González de Lara, Manuel</field>
+
+<field name="librettist">José Andrés de Prada Delgado</field>
+<field name="librettistSort">Prada Delgado, José Andrés de </field>
+
 <field name="year">1921</field>
 <field name="date">1921</field><field name="theater">Teatro de la Zarzuela</field>
 <field name="city">Madrid</field>

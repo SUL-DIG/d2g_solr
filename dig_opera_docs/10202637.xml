@@ -4,9 +4,9 @@
 		<field name="title">Martirio de' gloriosi Santi Giuliano e Celso</field>
 		<field name="titleSort">Martirio de' gloriosi Santi Giuliano e Celso</field>
 		<field name="year">1764</field>
+		<field name="theater">Congregazione di S. Cecilia</field>
 		
-		
-		<field name="date">1764</field>
+		<field name="date">November 2, 1764</field>
 		<field name="composer">Muzio Clementi</field>
 		<field name="composerSort">Clementi, Muzio</field>
 		<field name="librettist">A. Galli</field>

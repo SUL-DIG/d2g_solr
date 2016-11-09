@@ -3,7 +3,13 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Tikun hatsot</field>
 		<field name="titleSort">Tikun hatsot</field>
-		
+		<field name="year">1968</field>
+    <field name="date">1968</field>
+
+    <field name="city">Tel Aviv</field>
+
+    <field name="country">Israel</field>
+
 		
 		
 		

@@ -10,7 +10,11 @@
 		<field name="composer">Gilles Henry</field>
 		<field name="composerSort">Henry, Gilles</field>
 		
-		
+		<field name="librettist">Gilles Henry</field>
+    <field name="librettistSort">Henry, Gilles</field>
+
+    <field name="librettist">Gaby Sarazin-Heidet</field>
+    <field name="librettistSort">Sarazin-Heidet, Gaby</field>
 		
 		
 		

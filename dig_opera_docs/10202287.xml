@@ -4,9 +4,12 @@
 		<field name="title">Joshua</field>
 		<field name="titleSort">Joshua</field>
 		<field name="year">1959</field>
-		
-		
-		<field name="date">1959</field>
+    <field name="date">May 23, 1959</field>
+    <field name="theater">Temple Emanu-El</field>
+    <field name="city">Dallas</field>
+    <field name="region">Texas</field>
+    <field name="country">United States</field>
+
 		<field name="composer">Franz Waxman</field>
 		<field name="composerSort">Waxman, Franz</field>
 		<field name="librettist">James Forsyth</field>
