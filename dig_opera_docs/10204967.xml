@@ -3,10 +3,13 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Zion</field>
 		<field name="titleSort">Zion</field>
-		<field name="year">1889</field>
-		
-		
+		<field name="theater">Sheldonian Theatre</field>
+		<field name="city">Oxford</field>
+		<field name="region">Oxfordshire</field>
+		<field name="country">United Kingdom</field>
 		<field name="date">1889</field>
+		<field name="year">1889</field>
+
 		<field name="composer">John Grieg</field>
 		<field name="composerSort">Grieg, John</field>
 		

@@ -3,10 +3,13 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">A Mass for Cain</field>
 		<field name="titleSort">Mass for Cain</field>
+		<field name="theater">Riverside Church</field>
+		<field name="city">New York</field>
+		<field name="region">New York</field>
+		<field name="country">United States</field>
+		<field name="date">December 24, 1983</field>
 		<field name="year">1983</field>
-		
-		
-		<field name="date">1983</field>
+
 		<field name="composer">Ezra Laderman</field>
 		<field name="composerSort">Laderman, Ezra</field>
 		<field name="librettist">Joseph Darion</field>

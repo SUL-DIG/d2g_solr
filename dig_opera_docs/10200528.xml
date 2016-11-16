@@ -3,7 +3,15 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Les captifs d'Israel</field>
 		<field name="titleSort">captifs d'Israel</field>
-		
+		<field name="librettist">B. Delavault</field>
+    <field name="librettistSort">Delavault, B.</field>
+    <field name="theater">Association musicale de l'Ouest</field>
+		<field name="city">Niort</field>
+		<field name="region">Deux-Sèvres</field>
+		<field name="country">France</field>
+		<field name="date">1847</field>
+		<field name="year">1847</field>
+
 		
 		
 		

@@ -11,8 +11,8 @@
 <field name="librettist">Alexander Schmidt</field>
 <field name="librettistSort">Schmidt, Alexander</field>
 
-<field name="city">Timisoara</field>
-<field name="region">Timis</field>
+<field name="city">Timişoara</field>
+<field name="region">Timiş</field>
 <field name="country">Romania</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Alpenhütte+Franz+Limner&amp;search_field=search</field>

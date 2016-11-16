@@ -6,8 +6,9 @@
 <field name="titleSort">My Son the Doctor</field>
 <field name="composer">Glen Mead</field>
 <field name="composerSort">Mead, Glen</field>
-<field name="year">1980</field>
-<field name="date">1980</field><field name="theater">Roosevelt University</field>
+<field name="year">1981</field>
+<field name="date">1981</field>
+<field name="theater">Roosevelt University</field>
 <field name="city">Chicago</field>
 <field name="region">Illinois</field>
 <field name="country">United States</field>

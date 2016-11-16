@@ -3,10 +3,11 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Caïn</field>
 		<field name="titleSort">Caïn</field>
+		<field name="theater">Monument National</field>
+
+		<field name="date">November 12, 1905</field>
 		<field name="year">1905</field>
-		
-		
-		<field name="date">1905</field>
+
 		<field name="composer">Alexis Contant</field>
 		<field name="composerSort">Contant, Alexis</field>
 		<field name="librettist">Brother Symphorien-Louis</field>

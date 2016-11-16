@@ -3,10 +3,12 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">The Congo</field>
 		<field name="titleSort">Congo</field>
+		<field name="city">Akron</field>
+		<field name="region">Ohio</field>
+		<field name="country">United States</field>
+		<field name="date">October 30, 1942</field>
 		<field name="year">1942</field>
-		
-		
-		<field name="date">1942</field>
+
 		<field name="composer">Louis Cheslock</field>
 		<field name="composerSort">Cheslock, Louis</field>
 		<field name="librettist">Vachel Lindsay</field>

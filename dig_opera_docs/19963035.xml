@@ -10,8 +10,8 @@
 <field name="librettist">Rei Nakanishi</field>
 <field name="librettistSort">Nakanishi, Rei</field>
 <field name="theater">Okayama Symphony Hall</field>
-<field name="city">Okayama Symphony Hall</field>
-<field name="region">Okayama Symphony Hall</field>
+<field name="city">Okayama</field>
+<field name="region">Okayama</field>
 <field name="country">Japan</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wakahime+Minoru+Miki&amp;search_field=search</field>
 </doc>

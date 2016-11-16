@@ -3,10 +3,13 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Gideon</field>
 		<field name="titleSort">Gideon</field>
-		<field name="year">1962</field>
-		
-		
-		<field name="date">1962</field>
+		<field name="theater">Armon Theater</field>
+		<field name="city">Haifa</field>
+
+		<field name="country">Israel</field>
+		<field name="date">June 6, 1961</field>
+		<field name="year">1961</field>
+
 		<field name="composer">Marc Lavry</field>
 		<field name="composerSort">Lavry, Marc</field>
 		<field name="librettist">Hayyim Hefer</field>

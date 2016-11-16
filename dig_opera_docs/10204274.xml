@@ -3,10 +3,15 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Severin</field>
 		<field name="titleSort">Severin</field>
-		<field name="year">1980</field>
-		
-		
-		<field name="date">1980</field>
+		<field name="librettist">Eduard Heinisch</field>
+    <field name="librettistSort">Heinisch, Eduard</field>
+    <field name="theater">Brucknerhaus</field>
+		<field name="city">Linz</field>
+
+		<field name="country">Austria</field>
+		<field name="date">1982</field>
+		<field name="year">1982</field>
+
 		<field name="composer">Augustinus Franz Kropfreiter</field>
 		<field name="composerSort">Kropfreiter, Augustinus Franz</field>
 		

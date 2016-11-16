@@ -11,8 +11,8 @@
 <field name="librettist">Teodor Bratu</field>
 <field name="librettistSort">Bratu, Teodor</field>
 <field name="theater">Muzical Teatrul</field>
-<field name="city">Brasov</field>
-<field name="region">Brasov</field>
+<field name="city">Braşov</field>
+<field name="region">Braşov</field>
 <field name="country">Romania</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vremuri+de+vitejie+Times+of+Bravery+Teodor+Bratu&amp;search_field=search</field>

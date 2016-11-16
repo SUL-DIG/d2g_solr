@@ -3,10 +3,13 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Samson</field>
 		<field name="titleSort">Samson</field>
-		<field name="year">1837</field>
-		
-		
+
+		<field name="city">Berlin</field>
+		<field name="region">Berlin</field>
+		<field name="country">Germany</field>
 		<field name="date">1837</field>
+		<field name="year">1837</field>
+
 		<field name="composer">Carl Lauch</field>
 		<field name="composerSort">Lauch, Carl</field>
 		

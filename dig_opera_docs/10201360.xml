@@ -3,10 +3,13 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">For the Time Being</field>
 		<field name="titleSort">For the Time Being</field>
+		<field name="theater">Carnegie Hall</field>
+		<field name="city">New York</field>
+		<field name="region">New York</field>
+		<field name="country">United States</field>
+		<field name="date">December 7, 1959</field>
 		<field name="year">1959</field>
-		
-		
-		<field name="date">1959</field>
+
 		<field name="composer">Martin David Levy</field>
 		<field name="composerSort">Levy, Martin David</field>
 		<field name="librettist">Wystan Hugh Auden</field>

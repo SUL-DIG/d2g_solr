@@ -10,9 +10,9 @@
 <field name="date">1986</field>
 <field name="librettist">Aurel Stroe</field>
 <field name="librettistSort">Stroe, Aurel</field>
-<field name="theater">Radio Timisoara</field>
-<field name="city">Timisoara</field>
-<field name="region">Timis</field>
+<field name="theater">Radio Timişoara</field>
+<field name="city">Timişoara</field>
+<field name="region">Timiş</field>
 <field name="country">Romania</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eumenides+Aurel+Stroe&amp;search_field=search</field>

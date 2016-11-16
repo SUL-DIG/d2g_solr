@@ -13,8 +13,8 @@
 <field name="librettist">[Mihai Eminovici] Mihai Eminescu</field>
 <field name="librettistSort">Eminescu, Mihai [Mihai Eminovici]</field>
 <field name="theater">Opera de Stat</field>
-<field name="city">Iasi</field>
-<field name="region">Iasi</field>
+<field name="city">Iaşi</field>
+<field name="region">Iaşi</field>
 <field name="country">Romania</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arald+Nicolae+Bretan&amp;search_field=search</field>

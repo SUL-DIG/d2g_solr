@@ -3,10 +3,11 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Les deux âmes</field>
 		<field name="titleSort">deux âmes</field>
+		<field name="theater">Princess Theatre</field>
+		
+		<field name="date">November 16, 1913</field>
 		<field name="year">1913</field>
-		
-		
-		<field name="date">1913</field>
+
 		<field name="composer">Alexis Contant</field>
 		<field name="composerSort">Contant, Alexis</field>
 		<field name="librettist">Henri Roullaud</field>

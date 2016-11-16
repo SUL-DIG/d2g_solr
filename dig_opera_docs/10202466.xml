@@ -4,7 +4,7 @@
 		<field name="title">La légende de Haïsha</field>
 		<field name="titleSort">légende de Haïsha</field>
 		<field name="year">1989</field>
-		
+		<field name="theater">Radio France</field>
 		
 		<field name="date">1989</field>
 		<field name="composer">Michel Tabachnik</field>

@@ -3,10 +3,14 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">The Water and the Fire</field>
 		<field name="titleSort">Water and the Fire</field>
-		<field name="year">1963</field>
 		
+		<field name="theater">Three Choirs Festival</field>
+		<field name="city">Hereford</field>
+
+		<field name="country">United Kingdom</field>
+		<field name="date">September 8, 1964</field>
+		<field name="year">1964</field>
 		
-		<field name="date">1963</field>
 		<field name="composer">Anthony Milner</field>
 		<field name="composerSort">Milner, Anthony</field>
 		<field name="librettist">Saint John of the Cross</field>

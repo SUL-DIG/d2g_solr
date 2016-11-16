@@ -4,7 +4,11 @@
 		<field name="title">Koning Swentibold</field>
 		<field name="titleSort">Koning Swentibold</field>
 		<field name="year">1948</field>
+		<field name="theater">Katholieke Radio Omroep (KRO)</field>
+		<field name="city">Maastricht</field>
+		<field name="country">Netherlands</field>
 		
+
 		
 		<field name="date">1948</field>
 		<field name="composer">Herman Strategier</field>

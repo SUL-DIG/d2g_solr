@@ -6,8 +6,10 @@
 <field name="titleSort">intriga amorosa</field>
 <field name="composer">Damião Barbosa de Araújo</field>
 <field name="composerSort">Araújo, Damião Barbosa de</field>
+<field name="date">1810</field>
+<field name="year">1810</field>
 
-<field name="date">theaterTeatro do Guadelupe</field>
+<field name="theater">Teatro do Guadelupe</field>
 <field name="city">Salvador</field>
 <field name="region">Bahia</field>
 <field name="country">Brazil</field>

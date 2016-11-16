@@ -7,10 +7,13 @@
 <field name="composer">Edwin S. Lindsey</field>
 <field name="composerSort">Lindsey, Edwin S.</field>
 <field name="year">1936</field>
-<field name="date">1936</field><field name="theater">University of Chattanooga</field>
+<field name="date">April 21, 1936</field>
+<field name="theater">University of Chattanooga</field>
 <field name="city">Chattanooga</field>
 <field name="region">Tennessee</field>
 <field name="country">United States</field>
+<field name="librettist">Edwin S. Lindsey</field>
+<field name="librettistSort">Lindsey,  Edwin S.</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elizabeth+and+Leicester+Edwin+S.+Lindsey&amp;search_field=search</field>
 </doc>

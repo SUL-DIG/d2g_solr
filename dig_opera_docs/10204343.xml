@@ -3,10 +3,15 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Solomon's Temple</field>
 		<field name="titleSort">Solomon's Temple</field>
-		<field name="year">1871</field>
-		
-		
+		<field name="librettist">Thomas Dorn</field>
+    <field name="librettistSort">Dorn, Thomas</field>
+
+		<field name="city">St. Helier</field>
+
+		<field name="country">Jersey</field>
 		<field name="date">1871</field>
+		<field name="year">1871</field>
+
 		<field name="composer">H. F. Standhaft</field>
 		<field name="composerSort">Standhaft, H. F.</field>
 		

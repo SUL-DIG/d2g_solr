@@ -3,10 +3,13 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Continuing Cities</field>
 		<field name="titleSort">Continuing Cities</field>
-		<field name="year">1989</field>
-		
-		
+		<field name="theater">Colston Hall</field>
+		<field name="city">Bristol</field>
+		<field name="region">Bristol</field>
+		<field name="country">United Kingdom</field>
 		<field name="date">1989</field>
+		<field name="year">1989</field>
+
 		<field name="composer">Raymond Warren</field>
 		<field name="composerSort">Warren, Raymond</field>
 		
