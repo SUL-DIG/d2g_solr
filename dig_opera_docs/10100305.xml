@@ -9,7 +9,7 @@
 <field name="year">1865</field>
 <field name="date">1865</field><field name="theater">Théâtre Municipal</field>
 <field name="city">Bagnères-de-Bigorre</field>
-<field name="region">Hautes-Pyrénees</field>
+<field name="region">Hautes-Pyrénées</field>
 <field name="country">France</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jean+le+fol+Émile+Albert&amp;search_field=search</field>

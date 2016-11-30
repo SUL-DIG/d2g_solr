@@ -11,7 +11,7 @@
 <field name="librettist">Robert MacLennan</field>
 <field name="librettistSort">MacLennan, Robert</field>
 <field name="theater">Theatre Royal</field>
-<field name="city">Glascow</field>
+<field name="city">Glasgow</field>
 <field name="region">Scotland</field>
 <field name="country">United Kingdom</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Friend+of+the+People+David+Horne&amp;search_field=search</field>
