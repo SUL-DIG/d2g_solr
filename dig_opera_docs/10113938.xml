@@ -13,8 +13,8 @@
 <field name="librettist">Louis Anseaume</field>
 <field name="librettistSort">Anseaume, Louis</field>
 <field name="theater">Theater in der Taschengasse</field>
-<field name="city">Wroclaw</field>
-<field name="region">Dolnoslaskie</field>
+<field name="city">Wrocław</field>
+<field name="region">Dolnośląskie</field>
 <field name="country">Poland</field>
 <field name="subgenre">Singspiel</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Milchmädchen+und+die+beiden+Jäger+Caspar+Hellmich&amp;search_field=search</field>

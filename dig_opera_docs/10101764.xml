@@ -14,7 +14,7 @@
 <field name="librettistSort">Schreckenbach, Paul</field>
 
 <field name="city">Ostrava</field>
-<field name="region">Severomoravsky Kraj</field>
+<field name="region">Moravskoslezský</field>
 <field name="country">Czech Republic</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+König+von+Rothenburg+Wilhelm+Bantelmann&amp;search_field=search</field>

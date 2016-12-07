@@ -14,7 +14,7 @@
 		
 		
 		<field name="city">Cracow</field>
-		<field name="region">Malopolskie</field>
+		<field name="region">Małopolskie</field>
 		<field name="country">Poland</field>
 		<field name="subject">The Last Judgment</field>
 		

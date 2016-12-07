@@ -12,7 +12,7 @@
 <field name="librettistSort">Leschetizky, Alex</field>
 <field name="theater">Stadttheater</field>
 <field name="city">Bielsko-Biała</field>
-<field name="region">Slaskie</field>
+<field name="region">Śląskie</field>
 <field name="country">Poland</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Rauschen+vom+See+Alex+Leschetizky&amp;search_field=search</field>

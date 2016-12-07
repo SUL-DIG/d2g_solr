@@ -13,7 +13,7 @@
 		
 		
 		<field name="city">Olomouc</field>
-		<field name="region">Severomoravsky Kraj</field>
+		<field name="region">Olomoucký</field>
 		<field name="country">Czech Republic</field>
 		<field name="subject">The Redemption</field>
 		

@@ -9,7 +9,7 @@
 
 <field name="date">theaterJesuit College</field>
 <field name="city">Opava</field>
-<field name="region">Severomoravsky Kraj</field>
+<field name="region">Moravskoslezský</field>
 <field name="country">Czech Republic</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dafne+vendicata+Joseph+Friebert&amp;search_field=search</field>

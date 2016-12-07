@@ -14,7 +14,7 @@
 <field name="librettistSort">Almar, Victor</field>
 <field name="theater">Vereinigte Deutsche Theater</field>
 <field name="city">Brno</field>
-<field name="region">Jihomoravsky Kraj</field>
+<field name="region">Jihomoravský</field>
 <field name="country">Czech Republic</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Nachtigall+Leo+Kraus&amp;search_field=search</field>

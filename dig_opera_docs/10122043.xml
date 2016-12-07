@@ -11,8 +11,8 @@
 <field name="librettist">Paula Heimann</field>
 <field name="librettistSort">Heimann, Paula</field>
 <field name="theater">Lobe-Theater</field>
-<field name="city">Wroclaw</field>
-<field name="region">Dolnoslaskie</field>
+<field name="city">Wrocław</field>
+<field name="region">Dolnośląskie</field>
 <field name="country">Poland</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pipifax's+Weltenreise+Edmund+Nick&amp;search_field=search</field>

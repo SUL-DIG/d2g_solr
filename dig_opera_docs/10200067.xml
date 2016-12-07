@@ -13,7 +13,7 @@
 		
 		
 		<field name="city">Brno</field>
-		<field name="region">Jihomoravsky Kraj</field>
+		<field name="region">Jihomoravský</field>
 		<field name="country">Czech Republic</field>
 		<field name="subject">Abraham and Isaac</field>
 		
