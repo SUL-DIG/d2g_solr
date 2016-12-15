@@ -14,7 +14,7 @@
 <field name="librettistSort">Metastasio, Pietro</field>
 <field name="theater">Nostitzsches Nationaltheater</field>
 <field name="city">Prague</field>
-
+<field name="region">Hlaví město</field>
 <field name="country">Czech Republic</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+clemenza+di+Tito+Wolfgang+Amadeus+Mozart&amp;search_field=search</field>

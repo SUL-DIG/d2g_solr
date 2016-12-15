@@ -13,7 +13,7 @@
 		
 		<field name="theater">Premonstratensian Abbey of Strahov</field>
 		<field name="city">Prague</field>
-		
+		<field name="region">Hlaví město</field>
 		<field name="country">Czech Republic</field>
 		<field name="subject">Christ</field>
 		

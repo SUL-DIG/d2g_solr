@@ -13,7 +13,7 @@
 		
 		
 		<field name="city">Prague</field>
-		
+		<field name="region">Hlaví město</field>
 		<field name="country">Czech Republic</field>
 		<field name="subject">Saint Wenceslas</field>
 		<field name="feastMonth">September</field>

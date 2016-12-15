@@ -12,7 +12,7 @@
 <field name="librettistSort">Gábler, Vilém</field>
 <field name="theater">Novomestské Divadlo</field>
 <field name="city">Prague</field>
-
+<field name="region">Hlaví město</field>
 <field name="country">Czech Republic</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lesní+kaple+The+Chapel+in+the+Woods+Josef+Leopold+Zvonar&amp;search_field=search</field>

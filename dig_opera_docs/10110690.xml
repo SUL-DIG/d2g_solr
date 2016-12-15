@@ -12,7 +12,7 @@
 <field name="librettistSort">Pariati, Pietro</field>
 <field name="theater">Hradcin</field>
 <field name="city">Prague</field>
-
+<field name="region">Hlaví město</field>
 <field name="country">Czech Republic</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Costanza+e+Fortezza+Johann+Joseph+Fux&amp;search_field=search</field>

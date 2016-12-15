@@ -14,6 +14,7 @@
 <field name="librettistSort">Nekvasil, Jiří</field>
 <field name="theater">Divadlo Kolowrat</field>
 <field name="city">Prague</field>
+<field name="region">Hlaví město</field>
 <field name="country">Czech Republic</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zitra+se+bude…+(Tomorrow+there+will+be…)+Aleš+Březina&amp;search_field=search</field>
 </doc>

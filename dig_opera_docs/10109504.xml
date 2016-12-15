@@ -12,7 +12,7 @@
 <field name="librettistSort">Schaumann, Franz</field>
 <field name="theater">Neues Deutsches Theater</field>
 <field name="city">Prague</field>
-
+<field name="region">Hlaví město</field>
 <field name="country">Czech Republic</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Turm+mit+sieben+Pforten+Arthur+Felkl&amp;search_field=search</field>

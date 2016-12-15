@@ -13,7 +13,7 @@
 		
 		<field name="theater">Congregation of the Fathers of the Holy Cross</field>
 		<field name="city">Prague</field>
-		
+		<field name="region">Hlaví město</field>
 		<field name="country">Czech Republic</field>
 		<field name="subject">Sisara and Jael</field>
 		

@@ -12,7 +12,7 @@
 <field name="librettistSort">Klicpera, Václav Kliment</field>
 <field name="theater">Stavovské Divadlo</field>
 <field name="city">Prague</field>
-
+<field name="region">Hlaví město</field>
 <field name="country">Czech Republic</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zizkuv+dub+Zizka's+Oak+Georg+Mazaurek&amp;search_field=search</field>

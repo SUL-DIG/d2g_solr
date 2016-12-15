@@ -12,7 +12,7 @@
 <field name="librettistSort">Sabina, Karel</field>
 <field name="theater">Prozatímní Divadlo</field>
 <field name="city">Prague</field>
-
+<field name="region">Hlaví město</field>
 <field name="country">Czech Republic</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=V+studni+In+the+Well+Vilém+Blodek&amp;search_field=search</field>

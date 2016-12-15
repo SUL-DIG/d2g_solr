@@ -14,7 +14,7 @@
 <field name="librettistSort">Winter, Zikmund</field>
 
 <field name="city">Prague</field>
-
+<field name="region">Hlaví město</field>
 <field name="country">Czech Republic</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mistr+Jíra+Jaroslav+Vogel&amp;search_field=search</field>
