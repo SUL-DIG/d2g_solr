@@ -74,32 +74,5 @@ ID # - Date Used - Opera Title
 20100069 - 2016-08-10 - The Long Walk
 20100070 - 2016-08-10 - UnShakeable
 20100071 - 2016-08-10 - Via Lactea
-20100072 - 2016-12-2  - The Divorce
-20100073 - 2016-12-2  - Ours
-20100074 - 2016-12-2  - Better Gods
-20100075 - 2016-12-2  - Book Collector
-20100076 - 2016-12-2  - Breaking the Waves
-20100077 - 2016-12-2  - Cask of Amontillado
-20100078 - 2016-12-2  - Dream of the Red Chamber
-20100079 - 2016-12-2  - Guadalupe: The Opera
-20100080 - 2016-12-2  - Hadestown
-20100081 - 2016-12-2  - Happy Birthday, Wanda June
-20100082 - 2016-12-2  - Proving Up
-20100083 - 2016-12-2  - It's a Wonderful Life
-20100084 - 2016-12-2  - Long Story Short
-20100085 - 2016-12-2  - My Dearest Friend
-20100086 - 2016-12-2  - My Lai
-20100087 - 2016-12-5  - The Whole Truth
-20100088 - 2016-12-5  - Sister Carrie
-20100089 - 2016-12-5  - State of the Union
-20100090 - 2016-12-5  - South Pole
-20100091 - 2016-12-5  - A Roadkill Opera
-20100092 - 2016-12-12 - How to Survive a 100-Hour Workweek
-20100093 - 2016-12-12 - Experiments in Opera II
-20100094 - 2016-12-12 - Knot an Opera!
-20100095 - 2016-12-12 - Alice’s Adventures Under Ground
-20100096 - 2016-12-12 - Lost Connection (The Tinder Opera)
-20100097 - 2016-12-12 - Gilgamesh
-20100098 - 2016-12-12 - Jane Eyre
 
 
