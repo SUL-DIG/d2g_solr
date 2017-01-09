@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100086</field>
+        <field name="genre">Operas</field>
+     
+        <field name="title">My Lai</field>
+        
+        <!-- The composer's name should be put in Natural Order: First Middle Last -->
+        <field name="composer">Jonathan Berger</field>
+        <!-- The composer's name should be put in Indirect Order: Last, First Middle, etc. -->
+        <field name="composerSort">Berger, Jonathan</field>
+        <!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        <field name="librettist">Harriet Scott Chessman</field>
+        <!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
+        <field name="librettistSort">Chessman, Harriet Scott</field>
+        <field name="year">2015</field>
+        <!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
+        <field name="date">October 10, 2015</field>
+        <field name="theater">Bing Concert Hall</field>
+        <field name="city">Stanford</field>
+        <!-- We use the region field for states or regions. -->
+        <field name="region">California</field>
+        <field name="country">United States</field>
+        <!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jonathan+berger+my+lai&amp;search_field=search</field>
+   
+    </doc>
+</add>
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->
