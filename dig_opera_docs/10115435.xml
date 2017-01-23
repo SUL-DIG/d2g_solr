@@ -14,7 +14,7 @@
 <field name="librettistSort">Sienkiewicz, Henryk</field>
 <field name="theater">Teatr Wielki</field>
 <field name="city">Warsaw</field>
-
+<field name="region">Mazowieckie</field>
 <field name="country">Poland</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Grajek+The+Folk+Musician+Tadeusz+Joteyko&amp;search_field=search</field>

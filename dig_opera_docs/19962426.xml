@@ -12,6 +12,7 @@
 <field name="librettistSort">Haverkamp, Friso</field>
 <field name="theater">Teatr Wielki</field>
 <field name="city">Warsaw</field>
+<field name="region">Mazowieckie</field>
 <field name="country">Poland</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tattooed+Tongues+Martijn+Padding&amp;search_field=search</field>
 </doc>

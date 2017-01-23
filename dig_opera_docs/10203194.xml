@@ -13,7 +13,7 @@
 		
 		
 		<field name="city">Warsaw</field>
-		
+		<field name="region">Mazowieckie</field>
 		<field name="country">Poland</field>
 		<field name="subject">The Passion</field>
 		

@@ -14,7 +14,7 @@
 		
 		<field name="theater">Colston Hall</field>
 		<field name="city">Bristol</field>
-		<field name="region">Avon</field>
+		<field name="region">Bristol</field>
 		<field name="country">United Kingdom</field>
 		<field name="subject">Saint John the Baptist</field>
 		<field name="feastMonth">June</field>

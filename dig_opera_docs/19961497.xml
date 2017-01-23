@@ -9,6 +9,7 @@
 <field name="year">1885</field>
 <field name="librettist">__ Duval</field>
 <field name="librettistSort">Duval, __</field>
+<field name="theater">Théâtre Municipal</field>
 <field name="city">Algiers</field>
 <field name="country">Algeria</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=talisman+Hippolyte+Lazerges&amp;search_field=search</field>

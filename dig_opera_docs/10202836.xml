@@ -6,10 +6,10 @@
 		<field name="year">1730</field>
 		<field name="month">April</field>
 		
-		<field name="date">April 1730</field>
+		<field name="date">April 4, 1730</field>
 		<field name="composer">Jean Joseph Fiocco</field>
 		<field name="composerSort">Fiocco, Jean Joseph</field>
-		
+		<field name="theater">Chapelle Royale de la Cour</field>
 		
 		
 		<field name="city">Brussels</field>

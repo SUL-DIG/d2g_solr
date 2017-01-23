@@ -7,12 +7,12 @@
 <field name="composer">Paul Kurzbach</field>
 <field name="composerSort">Kurzbach, Paul</field>
 <field name="year">1958</field>
-<field name="date">1958</field>
+<field name="date">December 7, 1958</field>
 <field name="librettist">Paul Kurzbach</field>
 <field name="librettistSort">Kurzbach, Paul</field>
 <field name="librettist">Johannes Pfanner</field>
 <field name="librettistSort">Pfanner, Johannes</field>
-
+<field name="theater">Gerhart-Hauptmann-Theater</field>
 <field name="city">Görlitz</field>
 <field name="region">Sachsen</field>
 <field name="country">Germany</field>

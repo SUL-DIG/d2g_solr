@@ -10,7 +10,7 @@
 <field name="date">1872</field>
 <field name="librettist">Charles Ruth</field>
 <field name="librettistSort">Ruth, Charles</field>
-
+<field name="theater">Théâtre-Royal de la Monnaie</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>
 <field name="country">Belgium</field>

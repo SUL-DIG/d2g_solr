@@ -10,7 +10,7 @@
 <field name="date">1912</field>
 <field name="librettist">Hubert E. Rooney</field>
 <field name="librettistSort">Rooney, Hubert E.</field>
-
+<field name="theater">Gaiety Theatre</field>
 <field name="city">Dublin</field>
 <field name="region">Leinster</field>
 <field name="country">Ireland</field>

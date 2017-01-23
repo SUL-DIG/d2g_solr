@@ -10,7 +10,7 @@
 <field name="date">1892</field>
 <field name="librettist">Albert Normand</field>
 <field name="librettistSort">Normand, Albert</field>
-
+<field name="theater">Théâtre de l'Alcazar</field>
 <field name="city">Marseille</field>
 <field name="region">Bouches-du-Rhône</field>
 <field name="country">France</field>

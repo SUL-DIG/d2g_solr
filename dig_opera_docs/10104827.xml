@@ -7,7 +7,8 @@
 <field name="composer">José Cândido</field>
 <field name="composerSort">Cândido, José</field>
 <field name="year">1880</field>
-<field name="date">1880</field>
+<field name="date">February 3, 1880</field>
+<field name="theater">Teatro da Trindade</field>
 <field name="city">Lisbon</field>
 <field name="region">Lisboa</field>
 <field name="country">Portugal</field>

@@ -7,12 +7,12 @@
 <field name="composer">Hans-Klaus Langer</field>
 <field name="composerSort">Langer, Hans-Klaus</field>
 <field name="year">1964</field>
-<field name="date">1964</field>
+<field name="date">September 12, 1964</field>
 <field name="librettist">Bruno Sonnabend</field>
 <field name="librettistSort">Sonnabend, Bruno</field>
 <field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
 <field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
-
+<field name="theater">Berliner Festwochen</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>
 <field name="country">Germany</field>

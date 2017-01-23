@@ -7,10 +7,10 @@
 <field name="composer">Charles-François-Honoré Duquesnoy</field>
 <field name="composerSort">Duquesnoy, Charles-François-Honoré</field>
 <field name="year">1787</field>
-<field name="date">1787</field>
+<field name="date">January 29, 1787</field>
 <field name="librettist">__ d'Aumale de Corsenville</field>
 <field name="librettistSort">Aumale de Corsenville, __ d'</field>
-
+<field name="theater">Théâtre-Royal de la Monnaie</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>
 <field name="country">Belgium</field>

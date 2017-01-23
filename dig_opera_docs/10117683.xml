@@ -7,10 +7,10 @@
 <field name="composer">Maurice Lefèvre</field>
 <field name="composerSort">Lefèvre, Maurice</field>
 <field name="year">1888</field>
-<field name="date">1888</field>
+<field name="date">March 6, 1888</field>
 <field name="librettist">Marc-Antoine Madeleine Désaugiers</field>
 <field name="librettistSort">Désaugiers, Marc-Antoine Madeleine</field>
-
+<field name="theater">Théâtre-Royal de la Monnaie</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>
 <field name="country">Belgium</field>

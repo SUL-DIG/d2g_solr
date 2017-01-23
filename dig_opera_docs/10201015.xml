@@ -11,7 +11,7 @@
 		<field name="composerSort">Martin, Frank</field>
 		<field name="librettist">Pierre Martin</field>
 		<field name="librettistSort">Martin, Pierre</field>
-		
+		<field name="theater">Tonkünstlerfest</field>
 		
 		<field name="city">Lausanne</field>
 		<field name="region">Vaud</field>

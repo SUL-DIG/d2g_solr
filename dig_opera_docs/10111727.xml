@@ -7,10 +7,10 @@
 <field name="composer">Giovanni Giannetti</field>
 <field name="composerSort">Giannetti, Giovanni</field>
 <field name="year">1904</field>
-<field name="date">1904</field>
+<field name="date">December 16, 1904</field>
 <field name="librettist">Giovanni Bovio</field>
 <field name="librettistSort">Bovio, Giovanni</field>
-
+<field name="theater">Teatro Lyrico</field>
 <field name="city">Rio de Janeiro</field>
 <field name="region">Rio de Janeiro</field>
 <field name="country">Brazil</field>

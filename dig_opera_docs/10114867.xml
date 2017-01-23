@@ -7,12 +7,12 @@
 <field name="composer">William Marshall Hutchinson</field>
 <field name="composerSort">Hutchinson, William Marshall</field>
 <field name="year">1886</field>
-<field name="date">1886</field>
+<field name="date">August 30, 1886</field>
 <field name="librettist">Henry Brougham Farnie</field>
 <field name="librettistSort">Farnie, Henry Brougham</field>
 <field name="librettist">Alfred Murray</field>
 <field name="librettistSort">Murray, Alfred</field>
-
+<field name="theater">Theatre Royal</field>
 <field name="city">Edinburgh</field>
 <field name="region">Scotland</field>
 <field name="country">United Kingdom</field>

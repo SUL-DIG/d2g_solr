@@ -4,12 +4,12 @@
 		<field name="title">La tempesta de' dolori</field>
 		<field name="titleSort">tempesta de' dolori</field>
 		<field name="year">1728</field>
-		<field name="month">March</field>
-		<field name="day">6</field>
-		<field name="date">March 6, 1728</field>
+		<field name="month">December</field>
+		<field name="day">24</field>
+		<field name="date">December 24, 1728</field>
 		<field name="composer">Jean Joseph Fiocco</field>
 		<field name="composerSort">Fiocco, Jean Joseph</field>
-		
+		<field name="theater">Chapelle Royale de la Cour</field>
 		
 		
 		<field name="city">Brussels</field>

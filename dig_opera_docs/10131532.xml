@@ -7,10 +7,10 @@
 <field name="composer">John Urich</field>
 <field name="composerSort">Urich, John</field>
 <field name="year">1879</field>
-<field name="date">1879</field>
+<field name="date">February 10, 1879</field>
 <field name="librettist">Armand Silvestre</field>
 <field name="librettistSort">Silvestre, Armand</field>
-
+<field name="theater">Théâtre-Royal de la Monnaie</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>
 <field name="country">Belgium</field>

@@ -14,7 +14,7 @@
 <field name="librettistSort">Saint-Exupéry, Antoine de</field>
 <field name="theater">Teatr Wielki</field>
 <field name="city">Warsaw</field>
-
+<field name="region">Mazowieckie</field>
 <field name="country">Poland</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maly+ksiaze+The+Little+Prince+Zbigniew+Bargielski&amp;search_field=search</field>

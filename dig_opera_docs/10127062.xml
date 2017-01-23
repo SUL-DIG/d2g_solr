@@ -10,7 +10,7 @@
 <field name="date">1967</field>
 <field name="librettist">Alice Albright Hoge</field>
 <field name="librettistSort">Hoge, Alice Albright</field>
-
+<field name="theater">Body Politic Theater</field>
 <field name="city">Chicago</field>
 <field name="region">Illinois</field>
 <field name="country">United States</field>

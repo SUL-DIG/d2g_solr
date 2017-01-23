@@ -7,10 +7,10 @@
 <field name="composer">Georg Friedrich Haas</field>
 <field name="composerSort">Haas, Georg Friedrich</field>
 <field name="year">1981</field>
-<field name="date">1981</field>
+<field name="date">November 1, 1981</field>
 <field name="librettist">Georg Friedrich Haas</field>
 <field name="librettistSort">Haas, Georg Friedrich</field>
-
+<field name="theater">Oper Graz</field>
 <field name="city">Graz</field>
 <field name="region">Steiermark</field>
 <field name="country">Austria</field>

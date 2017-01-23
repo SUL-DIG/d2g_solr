@@ -14,6 +14,7 @@
 <field name="librettistSort">Zapolska, Gabriela</field>
 <field name="theater">Warszawska Opera Kameralna</field>
 <field name="city">Warsaw</field>
+<field name="region">Mazowieckie</field>
 <field name="country">Poland</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Young+Wife+Katarzyna+Brochocka&amp;search_field=search</field>
 </doc>

@@ -14,7 +14,7 @@
 		
 		
 		<field name="city">Halle</field>
-		<field name="region">Sachsen</field>
+		<field name="region">Sachsen-Anhalt</field>
 		<field name="country">Germany</field>
 		<field name="subject">Saint Boniface</field>
 		<field name="feastMonth">June</field>

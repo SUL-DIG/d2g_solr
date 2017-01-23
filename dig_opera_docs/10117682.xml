@@ -7,10 +7,10 @@
 <field name="composer">Maurice Lefèvre</field>
 <field name="composerSort">Lefèvre, Maurice</field>
 <field name="year">1887</field>
-<field name="date">1887</field>
+<field name="date">October 9, 1887</field>
 <field name="librettist">Maurice Lefèvre</field>
 <field name="librettistSort">Lefèvre, Maurice</field>
-
+<field name="theater">Vlaamschen Schouwburg</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>
 <field name="country">Belgium</field>

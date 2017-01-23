@@ -10,7 +10,7 @@
 <field name="date">1850</field>
 <field name="librettist">José Romano</field>
 <field name="librettistSort">Romano, José</field>
-
+<field name="theater">Teatro do Ginásio</field>
 <field name="city">Lisbon</field>
 <field name="region">Lisboa</field>
 <field name="country">Portugal</field>

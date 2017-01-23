@@ -10,7 +10,7 @@
 <field name="date">1971</field>
 <field name="librettist">Jon Swan</field>
 <field name="librettistSort">Swan, Jon</field>
-
+<field name="theater">Body Politic Theater</field>
 <field name="city">Chicago</field>
 <field name="region">Illinois</field>
 <field name="country">United States</field>

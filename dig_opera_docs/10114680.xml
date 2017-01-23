@@ -7,12 +7,12 @@
 <field name="composer">Karl Hoschna</field>
 <field name="composerSort">Hoschna, Karl</field>
 <field name="year">1911</field>
-<field name="date">1911</field>
+<field name="date">February 18, 1911</field>
 <field name="librettist">William Carey Duncan</field>
 <field name="librettistSort">Duncan, William Carey</field>
 <field name="librettist">Frank Smithson</field>
 <field name="librettistSort">Smithson, Frank</field>
-
+<field name="theater">Colonial Theater</field>
 <field name="city">Chicago</field>
 <field name="region">Illinois</field>
 <field name="country">United States</field>

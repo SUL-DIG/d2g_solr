@@ -10,7 +10,7 @@
 <field name="date">1857</field>
 <field name="librettist">Element Michaels</field>
 <field name="librettistSort">Michaels, Element</field>
-
+<field name="theater">Théâtre-Royal de la Monnaie</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>
 <field name="country">Belgium</field>

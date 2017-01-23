@@ -10,7 +10,7 @@
 <field name="date">1891</field>
 <field name="librettist">Ernest Laroche</field>
 <field name="librettistSort">Laroche, Ernest</field>
-
+<field name="theater">Grand-Théâtre</field>
 <field name="city">Bordeaux</field>
 <field name="region">Gironde</field>
 <field name="country">France</field>
