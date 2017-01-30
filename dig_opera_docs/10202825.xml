@@ -6,12 +6,12 @@
 		<field name="year">1761</field>
 		
 		
-		<field name="date">1761</field>
+		<field name="date">September 21, 1761</field>
 		<field name="composer">Francesco Zannetti</field>
 		<field name="composerSort">Zannetti, Francesco</field>
 		<field name="librettist">Mattia Damiani</field>
 		<field name="librettistSort">Damiani, Mattia</field>
-		
+		<field name="theater">Cattedrale di Santa Maria Assunta</field>
 		
 		<field name="city">Volterra</field>
 		<field name="region">Toscana</field>

@@ -6,14 +6,14 @@
 		<field name="year">1703</field>
 		
 		
-		<field name="date">1703</field>
+		<field name="date">December 24, 1703</field>
 		<field name="composer">Domenico Filippo Bottari</field>
 		<field name="composerSort">Bottari, Domenico Filippo</field>
 		
 		<field name="librettist">Paolo Gini</field>
     <field name="librettistSort">Gini, Paolo</field>
 
-		
+		<field name="theater">Palazzo Apostolico</field>
 		<field name="city">Rome</field>
 		<field name="region">Lazio</field>
 		<field name="country">Italy</field>

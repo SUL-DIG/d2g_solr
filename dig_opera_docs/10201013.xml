@@ -11,7 +11,7 @@
 		<field name="composerSort">Pacini, Giovanni</field>
 		<field name="librettist">Stefano Fioretti</field>
 		<field name="librettistSort">Fioretti, Stefano</field>
-		
+		<field name="theater">Palazzo Vecchio</field>
 		
 		<field name="city">Florence</field>
 		<field name="region">Toscana</field>

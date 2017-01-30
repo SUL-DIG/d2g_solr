@@ -5,15 +5,15 @@
 		<field name="titleSort">Santa Cecilia</field>
 		
 		
-		
-		
+		<field name="year">1678</field>
+		<field name="date">1678</field>
 		<field name="composer">Giovanni Bernardino Serafini</field>
 		<field name="composerSort">Serafini, Giovanni Bernardino</field>
 		
 		<field name="librettist">Giovanni Bernardino Serafini</field>
     <field name="librettistSort">Serafini, Giovanni Bernardino</field>
 
-		
+		<field name="theater">Accademici Unisoni </field>
 		<field name="city">Perugia</field>
 		<field name="region">Umbria</field>
 		<field name="country">Italy</field>

@@ -13,7 +13,7 @@
 		<field name="librettist">Filippo Van Stryp</field>
     <field name="librettistSort">Van Stryp, Filippo</field>
 
-		
+		<field name="theater">Oratorio della santa de' RR. Padri Carmelitani Scalzi della Madonna della Scala</field>
 		<field name="city">Rome</field>
 		<field name="region">Lazio</field>
 		<field name="country">Italy</field>

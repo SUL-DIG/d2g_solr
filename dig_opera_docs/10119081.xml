@@ -10,7 +10,7 @@
 <field name="date">1883</field>
 <field name="librettist">Achille Eyraud</field>
 <field name="librettistSort">Eyraud, Achille</field>
-
+<field name="theater">Théâtre Municipal</field>
 <field name="city">Caen</field>
 <field name="region">Calvados</field>
 <field name="country">France</field>

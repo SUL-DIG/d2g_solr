@@ -12,7 +12,7 @@
 		
 		<field name="librettist">Virgilio Mortari</field>
     <field name="librettistSort">Mortari, Virgilio</field>
-
+    <field name="theater">Monastero di San Stefano</field>
 		
 		<field name="city">Padua</field>
 		<field name="region">Veneto</field>

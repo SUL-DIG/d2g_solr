@@ -6,12 +6,12 @@
 		<field name="year">1694</field>
 		
 		
-		<field name="date">1694</field>
+		<field name="date">January 20, 1694</field>
 		<field name="composer">Giuseppe Maria Orlandini</field>
 		<field name="composerSort">Orlandini, Giuseppe Maria</field>
 		<field name="librettist">Alessandro Ghivizzani</field>
 		<field name="librettistSort">Ghivizzani, Alessandro</field>
-		
+		<field name="theater">Compagnia di San Sebastiano</field>
 		
 		<field name="city">Florence</field>
 		<field name="region">Toscana</field>

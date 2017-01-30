@@ -4,13 +4,13 @@
 		<field name="title">Il trionfo della religione</field>
 		<field name="titleSort">trionfo della religione</field>
 		<field name="year">1841</field>
-		<field name="month">October</field>
-		<field name="day">2</field>
-		<field name="date">October 2, 1841</field>
+		<field name="month">May</field>
+		<field name="day">12</field>
+		<field name="date">May 12, 1841</field>
 		<field name="composer">Giuseppe Liberali</field>
 		<field name="composerSort">Liberali, Giuseppe</field>
 		
-		
+		<field name="theater">Festività di San Giustino</field>
 		
 		<field name="city">Chieti</field>
 		<field name="region">Abruzzi</field>

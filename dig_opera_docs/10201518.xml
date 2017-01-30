@@ -13,7 +13,7 @@
 		<field name="librettist">Giacomo Antonio Bergamori</field>
     <field name="librettistSort">Bergamori, Giacomo Antonio </field>
 
-		
+		<field name="theater">Chiesa della Compagnia de' Poveri della Regina de' Cieli</field>
 		<field name="city">Bologna</field>
 		<field name="region">Emilia-Romagna</field>
 		<field name="country">Italy</field>

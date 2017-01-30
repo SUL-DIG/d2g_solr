@@ -3,14 +3,14 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Ezecchia</field>
 		<field name="titleSort">Ezecchia</field>
-		
-		
+		<field name="year">1871</field>
+		<field name="date">February 19, 1871</field>
 		
 		
 		<field name="composer">Ermanno Picchi</field>
 		<field name="composerSort">Picchi, Ermanno</field>
 		
-		
+		<field name="theater">Chiesa di San Giovanni Evangelista</field>
 		
 		<field name="city">Florence</field>
 		<field name="region">Toscana</field>

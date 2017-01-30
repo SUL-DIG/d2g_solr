@@ -6,12 +6,12 @@
 		<field name="year">1813</field>
 		<field name="month">August</field>
 		<field name="day">18</field>
-		<field name="date">August 18, 1813</field>
+		<field name="date">August 19, 1813</field>
 		<field name="composer">Giacinto Castorina</field>
 		<field name="composerSort">Castorina, Giacinto</field>
 		<field name="librettist">Giovanni Sardo</field>
 		<field name="librettistSort">Sardo, Giovanni</field>
-		
+		<field name="theater">Piazza degli Studi</field>
 		
 		<field name="city">Catania</field>
 		<field name="region">Sicilia</field>

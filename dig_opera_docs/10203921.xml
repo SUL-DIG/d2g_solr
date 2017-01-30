@@ -12,7 +12,7 @@
 		<field name="librettist">Mauro Ricci</field>
 		<field name="librettistSort">Ricci, Mauro</field>
 		
-		
+		<field name="theater">Chiesa di San Giovanni Evangelista</field>
 		<field name="city">Florence</field>
 		<field name="region">Toscana</field>
 		<field name="country">Italy</field>

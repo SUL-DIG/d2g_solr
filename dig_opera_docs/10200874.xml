@@ -6,12 +6,12 @@
 		<field name="year">1769</field>
 		
 		
-		<field name="date">1769</field>
+		<field name="date">November 22, 1769</field>
 		<field name="composer">Francesco Zannetti</field>
 		<field name="composerSort">Zannetti, Francesco</field>
 		<field name="librettist">Giuliano Genghini</field>
 		<field name="librettistSort">Genghini, Giuliano</field>
-		
+		<field name="theater">Teatro del Nobile Collegio della Sapienza Vecchia</field>
 		
 		<field name="city">Perugia</field>
 		<field name="region">Umbria</field>

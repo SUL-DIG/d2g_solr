@@ -10,7 +10,7 @@
 <field name="date">1836</field>
 <field name="librettist">Charles René</field>
 <field name="librettistSort">René, Charles</field>
-
+<field name="theater">Salle de la Comédie</field>
 <field name="city">Caen</field>
 <field name="region">Calvados</field>
 <field name="country">France</field>

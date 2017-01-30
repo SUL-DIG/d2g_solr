@@ -11,7 +11,7 @@
 <field name="city">Caen</field>
 <field name="region">Calvados</field>
 <field name="country">France</field>
-
+<field name="theater">Théâtre Municipal</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+protegé+des+fleurs+Achille+Eyraud&amp;search_field=search</field>
 </doc>
 </add>

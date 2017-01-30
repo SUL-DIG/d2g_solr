@@ -5,12 +5,12 @@
 		<field name="titleSort">purificazione di Maria Vergine</field>
 		<field name="year">1715</field>
 		<field name="month">March</field>
-		<field name="day">28</field>
-		<field name="date">March 28, 1715</field>
+		<field name="day">18</field>
+		<field name="date">March 18, 1715</field>
 		<field name="composer">Giacomo Cesare Predieri</field>
 		<field name="composerSort">Predieri, Giacomo Cesare</field>
 		
-		
+		<field name="theater">Arciconfraternita di Santa Maria della Vita</field>
 		
 		<field name="city">Bologna</field>
 		<field name="region">Emilia-Romagna</field>

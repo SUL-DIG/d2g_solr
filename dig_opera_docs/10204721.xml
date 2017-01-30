@@ -6,11 +6,11 @@
 		<field name="year">1826</field>
 		
 		
-		<field name="date">1826</field>
+		<field name="date">May 11, 1826</field>
 		<field name="composer">Giuseppe Liberali</field>
 		<field name="composerSort">Liberali, Giuseppe</field>
 		
-		
+		<field name="theater">Festività di San Giustino</field>
 		
 		<field name="city">Chieti</field>
 		<field name="region">Abruzzi</field>

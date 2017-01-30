@@ -6,13 +6,13 @@
 		<field name="year">1720</field>
 		
 		
-		<field name="date">1720</field>
+		<field name="date">March 25, 1720</field>
 		<field name="composer">Giuseppe Matteo Alberti</field>
 		<field name="composerSort">Alberti, Giuseppe Matteo</field>
 		
 		<field name="librettist">Antonio Zaniboni</field>
     <field name="librettistSort">Zaniboni, Antonio</field>
-
+    <field name="theater">Oratorio Filippino della Madonna di Galliera</field>
 		
 		<field name="city">Bologna</field>
 		<field name="region">Emilia-Romagna</field>

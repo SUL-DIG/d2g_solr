@@ -12,7 +12,7 @@
 		<field name="librettist">Cosimo Bani</field>
 		<field name="librettistSort">Bani, Cosimo</field>
 		
-		
+		<field name="theater">Compagnia dell'Arcangelo Raffaello detta La Scala</field>
 		<field name="city">Florence</field>
 		<field name="region">Toscana</field>
 		<field name="country">Italy</field>

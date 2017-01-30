@@ -11,7 +11,7 @@
 		<field name="composerSort">Foggia, Antonio</field>
 		<field name="librettist">Pietro Giubilei</field>
 		<field name="librettistSort">Giubilei, Pietro</field>
-		
+		<field name="theater">Palazzo Apostolico</field>
 		
 		<field name="city">Rome</field>
 		<field name="region">Lazio</field>
