@@ -10,7 +10,7 @@
 <field name="date">1864</field>
 <field name="librettist">Michel Carré</field>
 <field name="librettistSort">Carré, Michel</field>
-
+<field name="theater">Theater der Stadt</field>
 <field name="city">Baden-Baden</field>
 <field name="region">Baden-Württemberg</field>
 <field name="country">Germany</field>

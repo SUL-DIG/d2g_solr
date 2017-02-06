@@ -10,7 +10,7 @@
 <field name="date">1678</field>
 <field name="librettist">Camillo Badovero</field>
 <field name="librettistSort">Badovero, Camillo</field>
-
+<field name="theater">Teatro Vendramin di San Salvatore</field>
 <field name="city">Venice</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>

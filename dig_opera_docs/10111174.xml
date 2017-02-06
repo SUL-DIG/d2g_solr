@@ -10,7 +10,7 @@
 <field name="date">1686</field>
 <field name="librettist">Giovanni Battista Bottalino</field>
 <field name="librettistSort">Bottalino, Giovanni Battista</field>
-
+<field name="theater">Teatro di San Sebastiano</field>
 <field name="city">Livorno</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>

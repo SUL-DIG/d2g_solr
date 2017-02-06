@@ -10,7 +10,7 @@
 <field name="date">1857</field>
 <field name="librettist">Léon Battu</field>
 <field name="librettistSort">Battu, Léon</field>
-
+<field name="theater">Konversationshaus</field>
 <field name="city">Baden-Baden</field>
 <field name="region">Baden-Württemberg</field>
 <field name="country">Germany</field>

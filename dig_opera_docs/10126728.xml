@@ -10,7 +10,7 @@
 <field name="date">1895</field>
 <field name="librettist">Flaminio Furno</field>
 <field name="librettistSort">Furno, Flaminio</field>
-
+<field name="theater">Teatro Civico</field>
 <field name="city">Vercelli</field>
 <field name="region">Piemonte</field>
 <field name="country">Italy</field>

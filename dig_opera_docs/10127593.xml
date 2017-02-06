@@ -10,7 +10,7 @@
 <field name="date">1845</field>
 <field name="librettist">Pietro Rotondi</field>
 <field name="librettistSort">Rotondi, Pietro</field>
-
+<field name="theater">Teatro Sociale</field>
 <field name="city">Varese</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>

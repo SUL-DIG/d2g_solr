@@ -10,7 +10,7 @@
 <field name="date">1880</field>
 <field name="librettist">Ampelio Salina</field>
 <field name="librettistSort">Salina, Ampelio</field>
-
+<field name="theater">Teatro Ristori</field>
 <field name="city">Verona</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>

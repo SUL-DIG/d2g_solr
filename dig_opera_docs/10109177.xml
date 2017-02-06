@@ -10,7 +10,7 @@
 <field name="date">1797</field>
 <field name="librettist">Antonio Piazza</field>
 <field name="librettistSort">Piazza, Antonio</field>
-
+<field name="theater">Teatro dell'Illustrissima Società</field>
 <field name="city">Casale Monferrato</field>
 <field name="region">Piemonte</field>
 <field name="country">Italy</field>

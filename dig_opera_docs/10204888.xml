@@ -12,7 +12,7 @@
 		<field name="librettist">Francesco Gonella</field>
 		<field name="librettistSort">Gonella, Francesco</field>
 		
-		
+		<field name="theater">Teatro del Pavone</field>
 		<field name="city">Perugia</field>
 		<field name="region">Umbria</field>
 		<field name="country">Italy</field>

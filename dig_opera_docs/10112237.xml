@@ -10,7 +10,7 @@
 <field name="date">1845</field>
 <field name="librettist">B. Merli</field>
 <field name="librettistSort">Merli, B.</field>
-
+<field name="theater">Teatro Sociale</field>
 <field name="city">Novara</field>
 <field name="region">Piemonte</field>
 <field name="country">Italy</field>

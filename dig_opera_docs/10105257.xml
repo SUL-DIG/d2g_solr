@@ -7,12 +7,12 @@
 <field name="composer">Giulio Castagnoli</field>
 <field name="composerSort">Castagnoli, Giulio</field>
 <field name="year">1984</field>
-<field name="date">1984</field>
+<field name="date">May 3, 1984</field>
 <field name="librettist">Sergio Liberovici</field>
 <field name="librettistSort">Liberovici, Sergio</field>
 <field name="librettist">William Shakespeare</field>
 <field name="librettistSort">Shakespeare, William</field>
-
+<field name="theater">Salone Ippolito Nievo</field>
 <field name="city">Turin</field>
 <field name="region">Piemonte</field>
 <field name="country">Italy</field>

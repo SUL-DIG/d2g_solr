@@ -10,7 +10,7 @@
 <field name="date">1794</field>
 <field name="librettist">Marcello Bernardini</field>
 <field name="librettistSort">Bernardini, Marcello</field>
-
+<field name="theater">Teatro Comunale</field>
 <field name="city">Trieste</field>
 <field name="region">Friuli-Venezia Giulia</field>
 <field name="country">Italy</field>

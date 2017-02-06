@@ -10,7 +10,7 @@
 <field name="date">1898</field>
 <field name="librettist">Alfonso Lazzari</field>
 <field name="librettistSort">Lazzari, Alfonso</field>
-
+<field name="theater">Teatro Sociale</field>
 <field name="city">Trento</field>
 <field name="region">Trentino-Alto Adige</field>
 <field name="country">Italy</field>

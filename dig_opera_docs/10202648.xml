@@ -11,7 +11,7 @@
 		<field name="composerSort">Fini, Michele</field>
 		<field name="librettist">Damiano Marchi</field>
 		<field name="librettistSort">Marchi, Damiano</field>
-		
+		<field name="theater">Chiesa Primaziale</field>
 		
 		<field name="city">Pisa</field>
 		<field name="region">Toscana</field>

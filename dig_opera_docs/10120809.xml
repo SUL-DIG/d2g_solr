@@ -10,7 +10,7 @@
 <field name="date">1855</field>
 <field name="librettist">Giovanni Battista Canovai</field>
 <field name="librettistSort">Canovai, Giovanni Battista</field>
-
+<field name="theater">Teatro Ventidio Basso</field>
 <field name="city">Ascoli Piceno</field>
 <field name="region">Marche</field>
 <field name="country">Italy</field>

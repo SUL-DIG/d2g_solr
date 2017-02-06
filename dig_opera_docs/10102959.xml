@@ -10,7 +10,7 @@
 <field name="date">1841</field>
 <field name="librettist">Carlo Casanova</field>
 <field name="librettistSort">Casanova, Carlo</field>
-
+<field name="theater">Teatro Comunale</field>
 <field name="city">San Pier d'Arena</field>
 <field name="region">Liguria</field>
 <field name="country">Italy</field>

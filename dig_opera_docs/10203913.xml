@@ -12,7 +12,7 @@
 		<field name="librettist">Pierre Corneille</field>
 		<field name="librettistSort">Corneille, Pierre</field>
 		
-		
+		<field name="theater">Arciconfraternita di Santa Maria della Vita</field>
 		<field name="city">Bologna</field>
 		<field name="region">Emilia-Romagna</field>
 		<field name="country">Italy</field>

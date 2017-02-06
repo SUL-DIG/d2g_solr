@@ -12,7 +12,7 @@
 		<field name="librettist">Pietro Metastasio</field>
 		<field name="librettistSort">Metastasio, Pietro</field>
 		
-		
+		<field name="theater">Oratorio Filippino di Santa Maria della Fava</field>
 		<field name="city">Venice</field>
 		<field name="region">Veneto</field>
 		<field name="country">Italy</field>

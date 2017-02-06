@@ -13,7 +13,7 @@
 		<field name="librettist">Domenico Pingue</field>
     <field name="librettistSort">Pingue, Domenico</field>
 
-		
+		<field name="theater">Seminario Romano</field>
 		<field name="city">Rome</field>
 		<field name="region">Lazio</field>
 		<field name="country">Italy</field>

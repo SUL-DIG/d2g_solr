@@ -10,7 +10,7 @@
 <field name="date">1742</field>
 <field name="librettist">Pietro Metastasio</field>
 <field name="librettistSort">Metastasio, Pietro</field>
-
+<field name="theater">Teatro Grimani a San Giovanni Grisostomo</field>
 <field name="city">Venice</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>

@@ -10,7 +10,7 @@
 <field name="date">1874</field>
 <field name="librettist">Luigi Silva</field>
 <field name="librettistSort">Silva, Luigi</field>
-
+<field name="theater">Teatro Comunale</field>
 <field name="city">Carpi</field>
 <field name="region">Emilia-Romagna</field>
 <field name="country">Italy</field>

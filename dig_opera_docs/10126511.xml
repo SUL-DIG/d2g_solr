@@ -10,7 +10,7 @@
 <field name="date">1932</field>
 <field name="librettist">Roger Allard</field>
 <field name="librettistSort">Allard, Roger</field>
-
+<field name="theater">Orchestre Symphonique de Paris</field>
 <field name="city">Paris</field>
 
 <field name="country">France</field>

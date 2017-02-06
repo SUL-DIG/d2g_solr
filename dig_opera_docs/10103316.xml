@@ -10,7 +10,7 @@
 <field name="date">1852</field>
 <field name="librettist">Rinaldo Dall'Argine</field>
 <field name="librettistSort">Dall'Argine, Rinaldo</field>
-
+<field name="theater">Teatro Sociale</field>
 <field name="city">Pinerolo</field>
 <field name="region">Piemonte</field>
 <field name="country">Italy</field>

@@ -11,7 +11,7 @@
 <field name="city">Pavia</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>
-
+<field name="theater">Teatro dei signori Condomini</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+finto+sordo+Antonio+Bertuzzi&amp;search_field=search</field>
 </doc>
 </add>

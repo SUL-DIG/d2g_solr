@@ -10,7 +10,7 @@
 <field name="date">1863</field>
 <field name="librettist">Apostolo Zeno</field>
 <field name="librettistSort">Zeno, Apostolo</field>
-
+<field name="theater">Teatro dei Signori Corradi e Gatti</field>
 <field name="city">Teramo</field>
 <field name="region">Abruzzi</field>
 <field name="country">Italy</field>

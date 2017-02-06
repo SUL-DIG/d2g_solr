@@ -10,7 +10,7 @@
 <field name="date">1890</field>
 <field name="librettist">Paolo d'Elsa</field>
 <field name="librettistSort">d'Elsa, Paolo</field>
-
+<field name="theater">Teatro Sociale</field>
 <field name="city">Alba</field>
 <field name="region">Piemonte</field>
 <field name="country">Italy</field>

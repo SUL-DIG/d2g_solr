@@ -10,7 +10,7 @@
 <field name="date">1866</field>
 <field name="librettist">Carlotta Ferrari</field>
 <field name="librettistSort">Ferrari, Carlotta</field>
-
+<field name="theater">Teatro Sociale</field>
 <field name="city">Lodi</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>

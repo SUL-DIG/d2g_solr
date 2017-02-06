@@ -10,7 +10,7 @@
 <field name="date">1899</field>
 <field name="librettist">Edmondo De Amicis</field>
 <field name="librettistSort">De Amicis, Edmondo</field>
-
+<field name="theater">Politeama Mabellini</field>
 <field name="city">Pistoia</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>

@@ -10,7 +10,7 @@
 <field name="date">1757</field>
 <field name="librettist">Pietro Metastasio</field>
 <field name="librettistSort">Metastasio, Pietro</field>
-
+<field name="theater">Teatro La Fenice</field>
 <field name="city">Camerino</field>
 <field name="region">Marche</field>
 <field name="country">Italy</field>

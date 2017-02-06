@@ -10,7 +10,7 @@
 <field name="date">1955</field>
 <field name="librettist">Charles Péguy</field>
 <field name="librettistSort">Péguy, Charles</field>
-
+<field name="theater">Comédie-Française</field>
 <field name="city">Paris</field>
 
 <field name="country">France</field>

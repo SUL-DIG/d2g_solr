@@ -10,7 +10,7 @@
 <field name="date">1895</field>
 <field name="librettist">Raffaele Garzia</field>
 <field name="librettistSort">Garzia, Raffaele</field>
-
+<field name="theater">Teatro Civico</field>
 <field name="city">Cagliari</field>
 <field name="region">Sardegna</field>
 <field name="country">Italy</field>

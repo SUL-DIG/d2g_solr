@@ -12,7 +12,7 @@
 		<field name="librettist">Giuseppe Negri</field>
 		<field name="librettistSort">Negri, Giuseppe</field>
 		
-		
+		<field name="theater">Seminario Romano</field>
 		<field name="city">Rome</field>
 		<field name="region">Lazio</field>
 		<field name="country">Italy</field>
