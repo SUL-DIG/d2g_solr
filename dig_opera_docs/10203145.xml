@@ -3,14 +3,14 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Ortus in praedio Gethsemani</field>
 		<field name="titleSort">Ortus in praedio Gethsemani</field>
-		<field name="year">1746</field>
+		<field name="year">1766</field>
 		
 		
-		<field name="date">1746</field>
+		<field name="date">1766</field>
 		<field name="composer">Ferdinando Bertoni</field>
 		<field name="composerSort">Bertoni, Ferdinando</field>
 		
-		
+		<field name="theater">Ospedale dei Mendicanti</field>
 		
 		<field name="city">Venice</field>
 		<field name="region">Veneto</field>

@@ -3,14 +3,19 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">La nuit obscure de Saint Jean de la Croix</field>
 		<field name="titleSort">nuit obscure de Saint Jean de la Croix</field>
-		<field name="year">1950</field>
+		<field name="year">1951</field>
 		
 		
-		<field name="date">1950</field>
+		<field name="date">1951</field>
 		<field name="composer">Henri Tomasi</field>
 		<field name="composerSort">Tomasi, Henri</field>
 		
-		
+		<field name="theater">Radio Monte-Carlo</field>
+    <field name="city">Monte-Carlo</field>
+
+    <field name="country">Monaco</field>
+
+
 		
 		
 		

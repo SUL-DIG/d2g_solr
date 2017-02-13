@@ -11,7 +11,7 @@
 <field name="city">Palermo</field>
 <field name="region">Sicilia</field>
 <field name="country">Italy</field>
-
+<field name="theater">Real Conservatorio</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+falce+Giuseppe+Nicolao&amp;search_field=search</field>
 </doc>
 </add>

@@ -3,17 +3,17 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">La Betulia liberata</field>
 		<field name="titleSort">Betulia liberata</field>
-		<field name="year">1781</field>
+		<field name="year">1780</field>
 		
 		
-		<field name="date">1781</field>
+		<field name="date">1780</field>
 		<field name="composer">Felice Alessandri</field>
 		<field name="composerSort">Alessandri, Felice</field>
 		<field name="librettist">Pietro Metastasio</field>
 		<field name="librettistSort">Metastasio, Pietro</field>
+		<field name="theater">Ospedale dei Mendicanti</field>
 		
-		
-		<field name="city">Padua</field>
+		<field name="city">Venice</field>
 		<field name="region">Veneto</field>
 		<field name="country">Italy</field>
 		<field name="subject">Judith and Holofernes</field>

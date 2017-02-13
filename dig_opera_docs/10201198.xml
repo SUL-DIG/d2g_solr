@@ -12,8 +12,10 @@
 		<field name="librettist">[Giulio Cesare Cordara] Panemo Cisseo</field>
 		<field name="librettistSort">Cisseo, Panemo [Giulio Cesare Cordara]</field>
 		
+		<field name="theater">Triduo di San Vincenzo Ferrerio</field>
+
 		
-		<field name="city">Fermo</field>
+		<field name="city">Amandola</field>
 		<field name="region">Marche</field>
 		<field name="country">Italy</field>
 		<field name="subject">Esther</field>

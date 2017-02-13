@@ -3,18 +3,19 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Sant' Antonio da Padova</field>
 		<field name="titleSort">Sant' Antonio da Padova</field>
-		<field name="year">1755</field>
+		<field name="year">1753</field>
 		
 		
-		<field name="date">1755</field>
+		<field name="date">1753</field>
 		<field name="composer">Francesco Pasquale Durante</field>
 		<field name="composerSort">Durante, Francesco Pasquale</field>
 		<field name="librettist">Gregorio Giacomo Terribilini</field>
 		<field name="librettistSort">Terribilini, Gregorio Giaco</field>
 		
+		<field name="theater">Oratorio Filippino di Santa Maria della Fava</field>
 		
-		<field name="city">Bologna</field>
-		<field name="region">Emilia-Romagna</field>
+		<field name="city">Venice</field>
+		<field name="region">Venezia</field>
 		<field name="country">Italy</field>
 		<field name="subject">Saint Antony of Padua</field>
 		<field name="feastMonth">June</field>

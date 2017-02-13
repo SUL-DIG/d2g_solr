@@ -3,16 +3,16 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Le chant des yeux</field>
 		<field name="titleSort">chant des yeux</field>
-		<field name="year">1987</field>
+		<field name="year">1997</field>
 		<field name="month">December</field>
-		
-		<field name="date">December 1987</field>
+		<field name="day">13</field>
+		<field name="date">December 13, 1997</field>
 		<field name="composer">Antoine Tisné</field>
 		<field name="composerSort">Tisné, Antoine</field>
 		<field name="librettist">David Niemann</field>
 		<field name="librettistSort">Niemann, David</field>
 		
-		<field name="theater">Orchestre Philharmonique de Radio France</field>
+		<field name="theater">Radio France</field>
 		<field name="city">Paris</field>
 		
 		<field name="country">France</field>

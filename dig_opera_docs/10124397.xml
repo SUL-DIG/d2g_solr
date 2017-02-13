@@ -6,11 +6,11 @@
 <field name="titleSort">Celeste</field>
 <field name="composer">Francesco Pisano</field>
 <field name="composerSort">Pisano, Francesco</field>
-<field name="year">1901</field>
-<field name="date">1901</field>
+<field name="year">1906</field>
+<field name="date">November 11, 1906</field>
 <field name="librettist">Agostino Bachi</field>
 <field name="librettistSort">Bachi, Agostino</field>
-
+<field name="theater">Teatro Verdi</field>
 <field name="city">San Miniato</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>

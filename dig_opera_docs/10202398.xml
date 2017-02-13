@@ -3,15 +3,20 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Kong Olav</field>
 		<field name="titleSort">Kong Olav</field>
-		<field name="year">1930</field>
+		<field name="year">1933</field>
 		
 		
-		<field name="date">1930</field>
+		<field name="date">March 30, 1933</field>
 		<field name="composer">Arne Eggen</field>
 		<field name="composerSort">Eggen, Arne</field>
+		<field name="librettist">Olav Gullvåg</field>
+		<field name="librettistSort">Gullvåg, Olav</field>
 		
-		
-		
+		<field name="theater">Domkirke</field>
+    <field name="city">Oslo</field>
+    <field name="region">Oslo</field>
+    <field name="country">Norway</field>
+
 		
 		
 		

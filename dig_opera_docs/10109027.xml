@@ -7,10 +7,10 @@
 <field name="composer">Óscar Esplá</field>
 <field name="composerSort">Esplá, Óscar</field>
 <field name="year">1974</field>
-<field name="date">1974</field>
+<field name="date">May 29, 1974</field>
 <field name="librettist">Claudio de la Torre</field>
 <field name="librettistSort">Torre, Claudio de la</field>
-
+<field name="theater">Teatro de la Zarzuela</field>
 <field name="city">Madrid</field>
 <field name="region">Madrid</field>
 <field name="country">Spain</field>

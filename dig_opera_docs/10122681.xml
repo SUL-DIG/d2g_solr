@@ -7,10 +7,10 @@
 <field name="composer">Jens-Peter Ostendorf</field>
 <field name="composerSort">Ostendorf, Jens-Peter</field>
 <field name="year">1977</field>
-<field name="date">1977</field>
-<field name="librettist">Jens-Peter Ostendorf</field>
-<field name="librettistSort">Ostendorf, Jens-Peter</field>
-
+<field name="date">March 27, 1977</field>
+<field name="librettist">Hansjörg Martin</field>
+<field name="librettistSort">Martin, Hansjörg</field>
+<field name="theater">Opera Stabile, Hamburgisches Staatsoper </field>
 <field name="city">Hamburg</field>
 <field name="region">Hamburg</field>
 <field name="country">Germany</field>

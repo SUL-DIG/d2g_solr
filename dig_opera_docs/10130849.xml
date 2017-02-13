@@ -6,11 +6,11 @@
 <field name="titleSort">Giovanni Huss</field>
 <field name="composer">Angelo Tessaro</field>
 <field name="composerSort">Tessaro, Angelo</field>
-<field name="year">1901</field>
-<field name="date">1901</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
 <field name="librettist">Angelo Zanardini</field>
 <field name="librettistSort">Zanardini, Angelo</field>
-
+<field name="theater">Teatro Sociale</field>
 <field name="city">Treviso</field>
 <field name="region">Veneto</field>
 <field name="country">Italy</field>

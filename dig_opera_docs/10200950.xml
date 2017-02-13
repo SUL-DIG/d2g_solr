@@ -12,10 +12,13 @@
 		<field name="librettist">Louis Gallet</field>
 		<field name="librettistSort">Gallet, Louis</field>
 		
+		<field name="theater">Théâtre du Châtelet</field>
+
+
 		
-		<field name="city">Cologne</field>
+		<field name="city">Paris</field>
 		<field name="region">Nordrhein-Westfallen</field>
-		<field name="country">Germany</field>
+		<field name="country">France</field>
 		<field name="subject">Noah</field>
 		
 		

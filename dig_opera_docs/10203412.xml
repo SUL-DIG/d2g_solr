@@ -11,7 +11,7 @@
 		<field name="composerSort">Martin, Frank</field>
 		<field name="librettist">Arnoul Gréban</field>
 		<field name="librettistSort">Gréban, Arnoul</field>
-		
+		<field name="theater">Auditorium della RAI</field>
 		
 		<field name="city">Rome</field>
 		<field name="region">Lazio</field>

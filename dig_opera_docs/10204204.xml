@@ -3,13 +3,19 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">The Scroll of Fire</field>
 		<field name="titleSort">Scroll of Fire</field>
-		<field name="year">1964</field>
+		<field name="year">1966</field>
 		
 		
-		<field name="date">1964</field>
+		<field name="date">1966</field>
 		<field name="composer">Artur Gelbrun</field>
 		<field name="composerSort">Gelbrun, Artur</field>
-		
+		<field name="theater">Israel Radio (Kol Yisrael)</field>
+    <field name="city">Tel Aviv</field>
+
+    <field name="country">Israel</field>
+    <field name="librettist">Hayim Nahman Bialik</field>
+    <field name="librettistSort">Bialik, Hayim Nahman</field>
+
 		
 		
 		

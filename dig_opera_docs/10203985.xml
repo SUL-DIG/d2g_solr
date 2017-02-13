@@ -11,8 +11,8 @@
 		<field name="composerSort">Giacomantonio, Giuseppe</field>
 		<field name="librettist">Giuseppe Magio</field>
 		<field name="librettistSort">Magio, Giuseppe</field>
-		
-		
+		<field name="year">1947</field>
+		<field name="date">1947</field>
 		<field name="city">Cosenza</field>
 		<field name="region">Calabria</field>
 		<field name="country">Italy</field>

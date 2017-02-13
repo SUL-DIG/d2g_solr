@@ -6,15 +6,15 @@
 		<field name="year">1673</field>
 		
 		
-		<field name="date">1673</field>
+		<field name="date">August 24, 1673</field>
 		<field name="composer">Domenico Evangelisti</field>
 		<field name="composerSort">Evangelisti, Domenico</field>
 		<field name="librettist">Francesco Ignazio Lazzari</field>
 		<field name="librettistSort">Lazzari, Francesco Ignazio</field>
 		
 		
-		<field name="city">Rome</field>
-		<field name="region">Lazio</field>
+		<field name="city">Città di Castello</field>
+		<field name="region">Umbria</field>
 		<field name="country">Italy</field>
 		<field name="subject">Belshazzar's Feast</field>
 		
