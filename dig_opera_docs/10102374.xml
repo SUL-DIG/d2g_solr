@@ -11,6 +11,13 @@
 <field name="city">Lisbon</field>
 <field name="region">Lisboa</field>
 <field name="country">Portugal</field>
+
+<field name="theater">Teatro da Trindade</field>
+<field name="librettist">Pedro Bandeira</field>
+<field name="librettistSort">Bandeira, Pedro</field>
+<field name="librettist">Augusto Veras</field>
+<field name="librettistSort">Veras, Augusto</field>
+
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+lenda+do+folle+Manuel+Benjamin&amp;search_field=search</field>
 </doc>

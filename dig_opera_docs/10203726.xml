@@ -3,17 +3,20 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Il sacrifizio d'Abramo</field>
 		<field name="titleSort">sacrifizio d'Abramo</field>
-		<field name="year">1736</field>
+		<field name="year">1708</field>
 		
 		
-		<field name="date">1736</field>
+		<field name="date">1708</field>
 		<field name="composer">Antonio Bencini</field>
 		<field name="composerSort">Bencini, Antonio</field>
 		
+		<field name="theater">Palazzo della Cancelleria</field>
+    <field name="librettist">Giacomo Buonaccorsi</field>
+    <field name="librettistSort">Buonaccorsi, Giacomo</field>
+
 		
-		
-		<field name="city">Bologna</field>
-		<field name="region">Emilia-Romagna</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
 		<field name="country">Italy</field>
 		<field name="subject">Abraham and Isaac</field>
 		

@@ -6,12 +6,14 @@
 <field name="titleSort">Corte di Monaco</field>
 <field name="composer">Domingos José Ferreira</field>
 <field name="composerSort">Ferreira, Domingos José</field>
-<field name="year">1880</field>
-<field name="date">1880</field><field name="theater">Teatro Guzmano</field>
+<field name="year">1862</field>
+<field name="date">October 6, 1862</field><field name="theater">Teatro Guzmano</field>
 <field name="city">Rio de Janeiro</field>
 <field name="region">Rio de Janeiro</field>
 <field name="country">Brazil</field>
-
+<field name="theater">Teatro Provisório</field>
+<field name="librettist">Francisco Gonçalves Braga</field>
+<field name="librettistSort">Braga, Francisco Gonçalves</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Corte+di+Monaco+Domingos+José+Ferreira&amp;search_field=search</field>
 </doc>
 </add>

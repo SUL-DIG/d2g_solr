@@ -6,11 +6,15 @@
 		<field name="year">1952</field>
 		
 		
-		<field name="date">1952</field>
+		<field name="date">October 12, 1952</field>
 		<field name="composer">Wolfgang Fortner</field>
 		<field name="composerSort">Fortner, Wolfgang</field>
 		
-		
+		<field name="theater">Musiktage</field>
+    <field name="city">Donaueschingen</field>
+    <field name="region">Baden-Württemberg</field>
+    <field name="country">Germany</field>
+
 		
 		
 		

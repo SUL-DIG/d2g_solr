@@ -4,14 +4,17 @@
 <field name="genre">Operas</field>
 <field name="title">À Cronstadt</field>
 <field name="titleSort">À Cronstadt</field>
-<field name="composer">__ Serigne</field>
-<field name="composerSort">Serigne, __</field>
+<field name="composer">André Magnier</field>
+<field name="composerSort">Magnier, André</field>
 <field name="year">1891</field>
 <field name="date">1891</field>
 <field name="librettist">Maurice Magnier</field>
 <field name="librettistSort">Magnier, Maurice</field>
 <field name="librettist">__ Blédort</field>
 <field name="librettistSort">Blédort, __</field>
+<field name="librettist">__ Serigne</field>
+<field name="librettistSort">Serigne, __ </field>
+
 <field name="theater">Café-concert de Bataclan</field>
 <field name="city">Paris</field>
 

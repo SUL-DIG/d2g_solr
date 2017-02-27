@@ -4,10 +4,10 @@
 <field name="genre">Operas</field>
 <field name="title">I due Metastasiani</field>
 <field name="titleSort">due Metastasiani</field>
-<field name="composer">Gaetano Antolisei</field>
-<field name="composerSort">Antolisei, Gaetano</field>
-<field name="year">1875</field>
-<field name="date">1875</field>
+<field name="composer">Luigi Antolisei</field>
+<field name="composerSort">Antolisei, Luigi</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
 <field name="librettist">B. Pejirolet</field>
 <field name="librettistSort">Pejirolet, B.</field>
 <field name="theater">Teatro dei signori Condomini</field>
