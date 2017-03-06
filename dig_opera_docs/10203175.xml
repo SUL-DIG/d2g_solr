@@ -7,8 +7,8 @@
 		
 		
 		<field name="date">1868</field>
-		<field name="composer">Walter Leigh</field>
-		<field name="composerSort">Leigh, Walter</field>
+		<field name="composer">Walter Leigh (1)</field>
+		<field name="composerSort">Leigh, Walter (1)</field>
 		<field name="librettist">John Milton</field>
 		<field name="librettistSort">Milton, John</field>
 		

@@ -12,7 +12,7 @@
 		<field name="librettist">Joseph Bennett</field>
 		<field name="librettistSort">Bennett, Joseph</field>
 		
-		
+		<field name="theater">Royal Albert Hall</field>
 		<field name="city">London</field>
 		<field name="region">Greater London</field>
 		<field name="country">United Kingdom</field>

@@ -7,10 +7,10 @@
 <field name="composer">Walter Austin</field>
 <field name="composerSort">Austin, Walter</field>
 <field name="year">1880</field>
-<field name="date">1880</field>
+<field name="date">May 5, 1880</field>
 <field name="librettist">[George Rose] Arthur Sketchley</field>
 <field name="librettistSort">Sketchley, Arthur [George Rose]</field>
-
+<field name="theater">St. George's Hall</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

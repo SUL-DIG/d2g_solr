@@ -16,7 +16,7 @@
 		<field name="city">Norwich</field>
 		<field name="region">Norfolk</field>
 		<field name="country">United Kingdom</field>
-		
+		<field name="theater">Norwich Festival</field>
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jerusalem+Henry+Hugo+Pierson&amp;search_field=search</field>

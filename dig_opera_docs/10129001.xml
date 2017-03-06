@@ -14,7 +14,7 @@
 <field name="city">La Paz</field>
 
 <field name="country">Bolivia</field>
-
+<field name="theater">Juegos Deportivos Bolivarianos</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ollanta,+el+Jefe+Kolla+John+Laurence+Seymour&amp;search_field=search</field>
 </doc>
 </add>

@@ -6,14 +6,14 @@
 		<field name="year">1750</field>
 		
 		
-		<field name="date">1750</field>
+		<field name="date">May 24, 1750</field>
 		<field name="composer">Francesco Lombardi</field>
 		<field name="composerSort">Lombardi, Francesco</field>
 		<field name="librettist">Giovanni Pannelli</field>
 		<field name="librettistSort">Pannelli, Giovanni</field>
 		
-		
-		<field name="city">Macerata</field>
+		<field name="theater">Festa di Santa Eurosia, Sala Priorale</field>
+		<field name="city">Montegiorgio</field>
 		<field name="region">Marche</field>
 		<field name="country">Italy</field>
 		<field name="subject">Saint Eurosia</field>

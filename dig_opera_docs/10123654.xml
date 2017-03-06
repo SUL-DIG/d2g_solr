@@ -6,11 +6,14 @@
 <field name="titleSort">Miracle of the Nativity</field>
 <field name="composer">Edmund Pendleton</field>
 <field name="composerSort">Pendleton, Edmund</field>
-<field name="year">1981</field>
-<field name="date">1981</field><field name="theater">Centenary College</field>
-<field name="city">Shreveport</field>
-<field name="region">Louisiana</field>
-<field name="country">United States</field>
+<field name="year">1974</field>
+<field name="date">December 15, 1974</field><field name="theater">Centenary College</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="librettist">Edmund Pendleton</field>
+<field name="librettistSort">Pendleton, Edmund</field>
+<field name="theater">Église américaine de Paris</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Miracle+of+the+Nativity+Edmund+Pendleton&amp;search_field=search</field>
 </doc>

@@ -6,7 +6,7 @@
 		<field name="year">1864</field>
 		
 		
-		<field name="date">1864</field>
+		<field name="date">December 19, 1864</field>
 		<field name="composer">George William Torrance</field>
 		<field name="composerSort">Torrance, George William</field>
 		<field name="librettist">Oliver Goldsmith</field>
@@ -17,7 +17,7 @@
 		<field name="region">Leinster</field>
 		<field name="country">Ireland</field>
 		<field name="subject">The Babylonian Captivity</field>
-		
+		<field name="theater">Antient Concert Rooms</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Captivity+George+William+Torrance&amp;search_field=search</field>
 	</doc></add>

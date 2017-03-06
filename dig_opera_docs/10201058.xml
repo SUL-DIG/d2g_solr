@@ -15,7 +15,7 @@
 		<field name="city">Barcelona</field>
 		<field name="region">Catalunya</field>
 		<field name="country">Spain</field>
-		
+		<field name="theater">Real Congregación del Oratorio de San Felipe Neri</field>
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+dulzura+de+la+virtud+Francisco+Javier+Andrevi&amp;search_field=search</field>

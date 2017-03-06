@@ -17,7 +17,7 @@
 		<field name="region">Greater London</field>
 		<field name="country">United Kingdom</field>
 		<field name="subject">The Destruction of Pharaoh's Army</field>
-		
+		<field name="theater">Theatre Royal, Drury Lane</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Fall+of+Egypt+John+Stanley&amp;search_field=search</field>
 	</doc></add>

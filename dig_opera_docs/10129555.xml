@@ -16,7 +16,7 @@
 <field name="city">Jersey City</field>
 <field name="region">New Jersey</field>
 <field name="country">United States</field>
-
+<field name="theater">Salsbury's Troubadours</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Smugglers+John+Philip+Sousa&amp;search_field=search</field>
 </doc>
 </add>

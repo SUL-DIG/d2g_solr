@@ -14,7 +14,7 @@
 <field name="city">Pueblo</field>
 <field name="region">Colorado</field>
 <field name="country">United States</field>
-
+<field name="theater">Pueblo Symphony Orchestra</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Minnequa+Gerhard+Track&amp;search_field=search</field>
 </doc>
 </add>

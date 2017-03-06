@@ -12,11 +12,11 @@
 		
 		
 		
-		<field name="city">London</field>
-		<field name="region">Greater London</field>
+		<field name="city">Manchester</field>
+		<field name="region">Greater Manchester</field>
 		<field name="country">United Kingdom</field>
 		<field name="subject">Immanuel</field>
-		
+		<field name="theater">Free Trade Hall</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Emmanuel+William+Howard+Glover&amp;search_field=search</field>
 	</doc></add>

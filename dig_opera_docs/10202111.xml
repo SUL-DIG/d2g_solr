@@ -18,6 +18,6 @@
 		<field name="country">United Kingdom</field>
 		<field name="subject">Jacob</field>
 		
-		
+		<field name="theater">Glasgow Festival</field>
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jacob+Henry+Thomas+Smart&amp;search_field=search</field>
 	</doc></add>

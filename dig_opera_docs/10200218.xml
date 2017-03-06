@@ -6,12 +6,12 @@
 		<field name="year">1758</field>
 		
 		
-		<field name="date">1758</field>
+		<field name="date">March 27, 1758</field>
 		<field name="composer">Josep Durán</field>
 		<field name="composerSort">Durán, Josep</field>
 		
 		
-		
+		<field name="theater">Real Capilla de Nuestra Señora del Palau</field>
 		<field name="city">Barcelona</field>
 		<field name="region">Catalunya</field>
 		<field name="country">Spain</field>

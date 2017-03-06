@@ -3,15 +3,15 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Santo Tomás de Aquino</field>
 		<field name="titleSort">Santo Tomás de Aquino</field>
-		<field name="year">1766</field>
+		<field name="year">1763</field>
 		
 		
-		<field name="date">1766</field>
+		<field name="date">May 8, 1763</field>
 		<field name="composer">Pedro Antonío Monlleó</field>
 		<field name="composerSort">Monlleó, Pedro Antonío</field>
 		
 		
-		
+		<field name="theater">Iglesia de Santa María del Mar</field>
 		<field name="city">Barcelona</field>
 		<field name="region">Catalunya</field>
 		<field name="country">Spain</field>

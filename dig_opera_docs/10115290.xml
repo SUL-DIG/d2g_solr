@@ -7,7 +7,8 @@
 <field name="composer">Dean Johnson</field>
 <field name="composerSort">Johnson, Dean</field>
 <field name="year">1982</field>
-<field name="date">1982</field><field name="theater">Brooklyn College Opera Theater</field>
+<field name="date">1982</field>
+<field name="theater">Brooklyn College</field>
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>

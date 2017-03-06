@@ -17,7 +17,7 @@
 		<field name="region">Greater London</field>
 		<field name="country">United Kingdom</field>
 		<field name="subject">Ahab</field>
-		
+		<field name="theater">National Choral Society, Exeter Hall</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ahab+George+Benjamin+Arnold&amp;search_field=search</field>
 	</doc></add>

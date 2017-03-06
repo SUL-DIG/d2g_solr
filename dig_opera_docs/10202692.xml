@@ -16,7 +16,7 @@
 		<field name="city">Manchester</field>
 		<field name="region">Greater Manchester</field>
 		<field name="country">United Kingdom</field>
-		
+		<field name="theater">Collegiate Church</field>
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Martyr+of+Antioch+Richard+Cudmore&amp;search_field=search</field>

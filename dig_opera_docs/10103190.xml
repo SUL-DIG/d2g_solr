@@ -11,10 +11,10 @@
 <field name="librettist">Irving Leitner</field>
 <field name="librettistSort">Leitner, Irving</field>
 
-<field name="city">Patterson</field>
+<field name="city">Paterson</field>
 <field name="region">New Jersey</field>
 <field name="country">United States</field>
-
+<field name="theater">Paterson State College</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Excitement+at+the+Circus+Allan+Blank&amp;search_field=search</field>
 </doc>
 </add>

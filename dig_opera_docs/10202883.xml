@@ -16,7 +16,7 @@
 		<field name="region">Oxfordshire</field>
 		<field name="country">United Kingdom</field>
 		<field name="subject">Abraham and Isaac</field>
-		
+		<field name="theater">Oxford University</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mount+Moriah+(The+Trial+of+Abraham's+Faith)+Frederick+Bridge&amp;search_field=search</field>
 	</doc></add>

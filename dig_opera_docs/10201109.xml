@@ -12,7 +12,7 @@
 		<field name="librettist">Thomas Skelton Dupuis</field>
 		<field name="librettistSort">Dupuis, Thomas Skelton</field>
 		
-		
+		<field name="theater">Freemasons' Hall</field>
 		<field name="city">London</field>
 		<field name="region">Greater London</field>
 		<field name="country">United Kingdom</field>

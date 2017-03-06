@@ -11,6 +11,9 @@
 <field name="city">Jesi</field>
 <field name="region">Marche</field>
 <field name="country">Italy</field>
+<field name="librettist">Emerildo Eginense</field>
+<field name="librettistSort">Eginense, Emerildo</field>
+<field name="theater">Teatro Pubblico</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Tobia+Pietro+Morandi&amp;search_field=search</field>
 </doc>

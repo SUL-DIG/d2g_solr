@@ -3,16 +3,16 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Atalia</field>
 		<field name="titleSort">Atalia</field>
-		<field name="year">1854</field>
-		<field name="month">May</field>
-		<field name="day">12</field>
-		<field name="date">May 12, 1854</field>
+		<field name="year">1855</field>
+		<field name="month">October</field>
+		<field name="day">6</field>
+		<field name="date">October 6, 1855</field>
 		<field name="composer">Giuseppe Liberali</field>
 		<field name="composerSort">Liberali, Giuseppe</field>
 		<field name="librettist">Gian Vincenzo Pellicciotti</field>
 		<field name="librettistSort">Pellicciotti, Gian Vincenzo</field>
 		
-		
+		<field name="theater">Festività di Maria Sanctissima del Rosario</field>
 		<field name="city">Chieti</field>
 		<field name="region">Abruzzi</field>
 		<field name="country">Italy</field>

@@ -11,6 +11,9 @@
 <field name="city">Filottrano</field>
 <field name="region">Marche</field>
 <field name="country">Italy</field>
+<field name="librettist">Massimo Moreschini</field>
+<field name="librettistSort">Moreschini, Massimo</field>
+<field name="theater">Sala Conte Paolo Gentiloni</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+premio+Pietro+Morandi&amp;search_field=search</field>
 </doc>

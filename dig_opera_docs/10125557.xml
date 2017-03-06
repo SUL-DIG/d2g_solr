@@ -10,7 +10,7 @@
 <field name="date">1864</field>
 <field name="librettist">John Pratt Wooler</field>
 <field name="librettistSort">Wooler, John Pratt</field>
-
+<field name="theater">Theatre Royal</field>
 <field name="city">Leeds</field>
 <field name="region">West Yorkshire</field>
 <field name="country">United Kingdom</field>

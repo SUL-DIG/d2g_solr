@@ -7,11 +7,14 @@
 <field name="composer">Alfred Ferdinand Christensen</field>
 <field name="composerSort">Christensen, Alfred Ferdinand</field>
 <field name="year">1889</field>
-<field name="date">1889</field>
-<field name="city">London</field>
-<field name="region">Greater London</field>
+<field name="date">October 28, 1889</field>
+<field name="city">Peterborough</field>
+<field name="region">Cambridgeshire</field>
 <field name="country">United Kingdom</field>
+<field name="librettist">Wilton Jones</field>
+<field name="librettistSort">Jones, Wilton</field>
 
+<field name="theater">Theatre Royal</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Belphegor+Alfred+Ferdinand+Christensen&amp;search_field=search</field>
 </doc>
 </add>

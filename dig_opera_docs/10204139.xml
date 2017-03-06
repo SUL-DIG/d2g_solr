@@ -5,14 +5,16 @@
 		<field name="titleSort">Santo Ermenegildo</field>
 		
 		
-		
+		<field name="year">1689</field>
+    <field name="date">1689</field>
+
 		
 		<field name="composer">Giuseppe Fabbrini</field>
 		<field name="composerSort">Fabbrini, Giuseppe</field>
 		<field name="librettist">Alessandro Fanucci</field>
 		<field name="librettistSort">Fanucci, Alessandro</field>
 		
-		
+		<field name="theater">Collegio Tolomei</field>
 		<field name="city">Siena</field>
 		<field name="region">Toscana</field>
 		<field name="country">Italy</field>

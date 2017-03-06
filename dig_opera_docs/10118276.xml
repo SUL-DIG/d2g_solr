@@ -14,7 +14,7 @@
 <field name="city">Penzance</field>
 <field name="region">Cornwall</field>
 <field name="country">United Kingdom</field>
-
+<field name="theater">Pavillion</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Iernin+George+Lloyd&amp;search_field=search</field>
 </doc>
 </add>

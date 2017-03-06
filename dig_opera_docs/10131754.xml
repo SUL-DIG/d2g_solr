@@ -7,9 +7,12 @@
 <field name="composer">Pierre-Joseph-Alphonse Varney</field>
 <field name="composerSort">Varney, Pierre-Joseph-Alphonse</field>
 <field name="year">1862</field>
-<field name="date">1862</field>
-<field name="librettist">Paul Dorcy</field>
-<field name="librettistSort">Dorcy, Paul</field>
+<field name="date">January 29, 1862</field>
+<field name="librettist">Hector Crémieux</field>
+<field name="librettistSort">Crémieux, Hector</field>
+<field name="librettist">Ludovic Halévy</field>
+<field name="librettistSort">Halévy, Ludovic</field>
+
 <field name="theater">Théâtre des Bouffes-Parisiens</field>
 <field name="city">Paris</field>
 

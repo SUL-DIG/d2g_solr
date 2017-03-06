@@ -16,7 +16,7 @@
 		<field name="region">Northumberland</field>
 		<field name="country">United Kingdom</field>
 		<field name="subject">Hezekiah</field>
-		
+		<field name="theater">Town Hall</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hezekiah+Philip+Armes&amp;search_field=search</field>
 	</doc></add>

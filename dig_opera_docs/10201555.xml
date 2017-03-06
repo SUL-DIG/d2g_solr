@@ -16,7 +16,7 @@
 		<field name="region">Oxfordshire</field>
 		<field name="country">United Kingdom</field>
 		<field name="subject">Gideon</field>
-		
+		<field name="theater">Sheldonian Theatre</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gideon+John+Stainer&amp;search_field=search</field>
 	</doc></add>

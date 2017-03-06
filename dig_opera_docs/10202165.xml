@@ -16,7 +16,7 @@
 		<field name="city">Manchester</field>
 		<field name="region">Greater Manchester</field>
 		<field name="country">United Kingdom</field>
-		
+		<field name="theater">Mechanics' Institute</field>
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jerusalem+William+Howard+Glover&amp;search_field=search</field>
