@@ -7,7 +7,8 @@
 <field name="composer">Andrea Luigi Degola</field>
 <field name="composerSort">Degola, Andrea Luigi</field>
 <field name="year">1799</field>
-<field name="date">1799</field><field name="theater">Teatro dagli Armeni</field>
+<field name="date">1799</field>
+<field name="theater">Teatro degli Armeni</field>
 <field name="city">Livorno</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>

@@ -7,11 +7,12 @@
 <field name="composer">Giuseppe Giordani</field>
 <field name="composerSort">Giordani, Giuseppe</field>
 <field name="year">1783</field>
-<field name="date">1783</field><field name="theater">Teatro Avvalorati</field>
+<field name="date">1783</field>
+<field name="theater">Teatro Avvalorati</field>
 <field name="city">Livorno</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>
-<field name="theater">Teatro dagli Armeni</field>
+<field name="theater">Teatro degli Armeni</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pizzarro+nell'Indie+Giuseppe+Giordani&amp;search_field=search</field>
 </doc>
 </add>

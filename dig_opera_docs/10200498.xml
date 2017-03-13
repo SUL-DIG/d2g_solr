@@ -12,7 +12,7 @@
 		<field name="librettist">Giuseppe Filippo Apolloni</field>
 		<field name="librettistSort">Apolloni, Giuseppe Filippo</field>
 		
-		<field name="theater">Cappella di Principe Borghese</field>
+		<field name="theater">Cappella di principe Borghese</field>
 		<field name="city">Rome</field>
 		<field name="region">Lazio</field>
 		<field name="country">Italy</field>

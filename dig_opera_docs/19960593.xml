@@ -12,7 +12,7 @@
 <field name="librettistSort">Koeken, Waut</field>
 <field name="librettist">Peter Weiss</field>
 <field name="librettistSort">Weiss, Peter</field>
-<field name="theater">Grand Théâtre</field>
+<field name="theater">Grand-Théâtre</field>
 <field name="city">Luxembourg</field>
 <field name="country">Luxembourg</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Turm+Claude+Lenners&amp;search_field=search</field>

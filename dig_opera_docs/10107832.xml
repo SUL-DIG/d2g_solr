@@ -7,7 +7,8 @@
 <field name="composer">Carl Ditters von Dittersdorf</field>
 <field name="composerSort">Dittersdorf, Carl Ditters von</field>
 <field name="year">1772</field>
-<field name="date">1772</field><field name="theater">Jánsky Vrch</field>
+<field name="date">1772</field>
+<field name="theater">Jánský Vrch</field>
 <field name="city">Javorník</field>
 <field name="region">Olomoucký</field>
 <field name="country">Czech Republic</field>

@@ -7,7 +7,8 @@
 <field name="composer">Karel Kupka</field>
 <field name="composerSort">Kupka, Karel</field>
 <field name="year">1956</field>
-<field name="date">1956</field><field name="theater">Czech Television (Ceska Televize)</field>
+<field name="date">1956</field>
+<field name="theater">Czech Television (Česka Televize)</field>
 <field name="city">Prague</field>
 <field name="region">Hlaví město</field>
 <field name="country">Czech Republic</field>
