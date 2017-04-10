@@ -8,7 +8,8 @@
 <field name="composer">Mark De Palma</field>
 <field name="composerSort">De Palma, Mark</field>
 <field name="year">1983</field>
-<field name="date">1983</field><field name="theater">Brooklyn College Opera Theater</field>
+<field name="date">1983</field>
+<field name="theater">Brooklyn College</field>
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
