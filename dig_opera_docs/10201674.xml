@@ -4,16 +4,12 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Il giudizio di Salomone</field>
 		<field name="titleSort">giudizio di Salomone</field>
-		<field name="year">1701</field>
-		
-		
-		<field name="date">1701</field>
+		<field name="year">1698</field>	
+		<field name="date">1698</field>
 		<field name="composer">Marc'Antonio Ziani</field>
 		<field name="composerSort">Ziani, Marc'Antonio</field>
 		<field name="librettist">Rinaldo Cialli</field>
-		<field name="librettistSort">Cialli, Rinaldo</field>
-		
-		
+		<field name="librettistSort">Cialli, Rinaldo</field>	
 		<field name="city">Venice</field>
 		<field name="region">Veneto</field>
 		<field name="country">Italy</field>

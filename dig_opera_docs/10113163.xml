@@ -9,6 +9,10 @@
 <field name="composerSort">Gutiérrez Sáenz, Benjamín</field>
 <field name="year">1982</field>
 <field name="date">1982</field>
+<field name="librettist">Ricardo Ulloa Berrenechea</field>
+<field name="librettistSort">Ulloa Berrenechea, Ricardo</field>
+<field name="librettist">Junji Kinoshita</field>
+<field name="librettistSort">Kinoshita, Junji</field>
 <field name="city">San Jose</field>
 
 <field name="country">Costa Rica</field>
