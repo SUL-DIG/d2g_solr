@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">20100108</field>
+<field name="genre">Opera</field>
+<field name="title">Le Maréchal Fabert</field>
+<field name="titleSort">Maréchal Fabert</field>
+<field name="composer">Prosper de Ginestet</field>
+<field name="composerSort">Ginestet, Prosper de </field>
+<field name='librettist'>Émilien de Ginestet</field>
+<field name='librettistSort'>Ginestet, Émilien de </field>
+<field name="year">1823</field>
+<field name="date">August 2, 1823</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=?&amp;q=Le+Maréchal+Fabert+Prosper+de+Ginestet&amp;search_field=search</field>
+</doc>
+</add>

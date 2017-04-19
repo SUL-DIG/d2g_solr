@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">20100103</field>
+<field name="genre">Opera</field>
+<field name="title">Tamara</field>
+<field name="titleSort">Tamara</field>
+<field name="composer">Boris Aleksandrovich Fitinhoff-Scheel</field>
+<field name="composerSort">Fitinhoff-Scheel, Boris Aleksandrovich</field>
+<field name='librettist'>Mikhail Yurevich Lermontov</field>
+<field name='librettistSort'>Lermontov, Mikhail Yurevich </field>
+<field name="year">1886</field>
+<field name="date">May 2, 1886</field>
+<field name="theater">Mariinsky Teatr</field>
+<field name="city">St. Petersburg</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=?&amp;q=Tamara+Boris+Aleksandrovich+Fitinhoff-Scheel&amp;search_field=search</field>
+</doc>
+</add>

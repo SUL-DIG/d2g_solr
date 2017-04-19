@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">20100104</field>
+<field name="genre">Opera</field>
+<field name="title">Don Juan de Tenorio</field>
+<field name="titleSort">Don Juan de Tenorio</field>
+<field name="composer">Boris Aleksandrovich Fitinhoff-Scheel</field>
+<field name="composerSort">Fitinhoff-Scheel, Boris Aleksandrovich</field>
+<field name='librettist'>Aleksey Konstantinovich Tolstoy</field>
+<field name='librettistSort'>Tolstoy, Aleksey Konstantinovich </field>
+<field name="year">1888</field>
+<field name="date">November 2, 1888</field>
+<field name="theater">Mariinsky Teatr</field>
+<field name="city">St. Petersburg</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=?&amp;q=Don+Juan+de+Tenorio+Boris+Aleksandrovich+Fitinhoff-Scheel&amp;search_field=search</field>
+</doc>
+</add>

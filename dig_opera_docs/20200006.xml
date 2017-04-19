@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">20200006</field>
+<field name="genre">Oratorio</field>
+<field name="title">Santa Teodora vergine, e martire</field>
+<field name="titleSort">Santa Teodora vergine, e martire</field>
+<field name="composer">Clemente Monari</field>
+<field name="composerSort">Monari, Clemente</field>
+<field name='librettist'>Giacomo Mazzoni</field>
+<field name='librettistSort'>Mazzoni, Giacomo</field>
+<field name="year">1729</field>
+<field name="date">February 4, 1729</field>
+<field name="theater">Palazzo Pubblico</field>
+<field name="city">Forli</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=?&amp;q=Santa+Teodora+vergine,+e+martire+Clemente+Monari&amp;search_field=search</field>
+</doc>
+</add>

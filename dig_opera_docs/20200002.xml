@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">20200002</field>
+<field name="genre">Oratorio</field>
+<field name="title">Patmos</field>
+<field name="titleSort">Patmos</field>
+<field name="composer">Glenn Meade</field>
+<field name="composerSort">Meade, Glenn</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="theater">Malcolm X College</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=?&amp;q=Patmos+Glenn+Meade&amp;search_field=search</field>
+</doc>
+</add>

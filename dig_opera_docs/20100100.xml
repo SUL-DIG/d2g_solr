@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">20100100</field>
+<field name="genre">Opera</field>
+<field name="title">Viola Pisani</field>
+<field name="titleSort">Viola Pisani</field>
+<field name="composer">Edoardo Perelli</field>
+<field name="composerSort">Perelli, Edoardo</field>
+<field name='librettist'>Edward Bulwer-Lytton</field>
+<field name='librettistSort'>Bulwer-Lytton, Edward</field>
+<field name="year">1873</field>
+<field name="date">1873</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=?&amp;q=Viola+Pisani+Edoardo+Perelli&amp;search_field=search</field>
+</doc>
+</add>

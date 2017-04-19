@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">20100110</field>
+<field name="genre">Opera</field>
+<field name="title">Ghouls</field>
+<field name="titleSort">Ghouls</field>
+<field name="composer">Glenn Meade</field>
+<field name="composerSort">Meade, Glenn</field>
+<field name='librettist'>Glenn Meade</field>
+<field name='librettistSort'>Meade, Glenn</field>
+<field name="year">1988</field>
+<field name="date">October 29, 1988</field>
+<field name="theater">Circle Theatre</field>
+<field name="city">Forest Park</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=?&amp;q=Ghouls+Glenn+Meade&amp;search_field=search</field>
+</doc>
+</add>

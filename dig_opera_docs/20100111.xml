@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">20100111</field>
+<field name="genre">Opera</field>
+<field name="title">Cusanus: Fragmente der Unendlichkeit</field>
+<field name="titleSort">Cusanus: Fragmente der Unendlichkeit</field>
+<field name="composer">Boudewijn Buckinx</field>
+<field name="composerSort">Buckinx, Boudewijn</field>
+<field name='librettist'>Inigo Bocken</field>
+<field name='librettistSort'>Bocken, Inigo</field>
+<field name="year">2007</field>
+<field name="date">November 24, 2007</field>
+<field name="theater">Theater der Stadt</field>
+<field name="city">Trier</field>
+<field name="region">Rheinland-Pfalz</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=?&amp;q=Cusanus:+Fragmente+der+Unendlichkeit+Boudewijn+Buckinx&amp;search_field=search</field>
+</doc>
+</add>

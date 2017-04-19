@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">20200004</field>
+<field name="genre">Oratorio</field>
+<field name="title">Oratorio sacro con Christo de la serafica madre Santa Teresa</field>
+<field name="titleSort">Oratorio sacro con Christo de la serafica madre Santa Teresa</field>
+<field name="composer">Bernat Tria</field>
+<field name="composerSort">Tria, Bernat</field>
+<field name="year">1743</field>
+<field name="date">October 23, 1743</field>
+<field name="theater">Real Capilla de Nuestra Señora del Palau</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=?&amp;q=Oratorio+sacro+con+Christo+de+la+serafica+madre+Santa+Teresa+Bernat+Tria&amp;search_field=search</field>
+</doc>
+</add>
