@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">20100114</field>
+<field name="genre">Opera</field>
+<field name="title">Chrémyle, ou Le carnival d'Athènes</field>
+<field name="titleSort">Chrémyle, ou Le carnival d'Athènes</field>
+<field name="composer">Alfred Josset</field>
+<field name="composerSort">Josset, Alfred</field>
+<field name='librettist'>A. Darde</field>
+<field name='librettistSort'>Darde, A.</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Le Havre</field>
+<field name="region">Seine-Maritime</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=?&amp;q=Chrémyle,+ou+Le+carnival+d'Athènes+Alfred+Josset&amp;search_field=search</field>
+</doc>
+</add>
