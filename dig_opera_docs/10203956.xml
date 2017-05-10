@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203956</field>
 		<field name="genre">Oratorios</field>
-		<field name="title">Sansao</field>
-		<field name="titleSort">Sansao</field>
+		<field name="title">Samsão, ou a destruição dos philisteus</field>
+		<field name="titleSort">Samsão, ou a destruição dos philisteus</field>
 		<field name="year">1876</field>
 		<field name="month">August</field>
 		<field name="day">12</field>
@@ -19,5 +19,5 @@
 		<field name="subject">Samson</field>
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sansao+Francisco+Alves+Rente&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Samsão,+ou+a+destruição+dos+philisteus+Francisco+Alves+Rente&amp;search_field=search</field>
 	</doc></add>

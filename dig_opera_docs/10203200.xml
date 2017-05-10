@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203200</field>
 		<field name="genre">Oratorios</field>
-		<field name="title">Passion</field>
-		<field name="titleSort">Passion</field>
+		<field name="title">Passió Magyar nyelven</field>
+		<field name="titleSort">Passió Magyar nyelven</field>
 		<field name="year">1997</field>
 		
 		
@@ -15,8 +15,8 @@
 		
 		
 		
-		<field name="subject">The Passion</field>
+		<field name="subject">The Passió Magyar nyelven</field>
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Passion+Győrgy+Orbán&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Passió+Magyar+nyelven+Győrgy+Orbán&amp;search_field=search</field>
 	</doc></add>

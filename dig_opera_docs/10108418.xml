@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10108418</field>
 <field name="genre">Operas</field>
-<field name="title">Prometheus</field>
-<field name="titleSort">Prometheus</field>
+<field name="title">Prometheu</field>
+<field name="titleSort">Prometheu</field>
 <field name="composer">Gheorghe Dumitrescu</field>
 <field name="composerSort">Dumitrescu, Gheorghe</field>
 <field name="year">1987</field>
@@ -15,6 +15,6 @@
 
 <field name="country">Romania</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prometheus+Gheorghe+Dumitrescu&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prometheu+Gheorghe+Dumitrescu&amp;search_field=search</field>
 </doc>
 </add>

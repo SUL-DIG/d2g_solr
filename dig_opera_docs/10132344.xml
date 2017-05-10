@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10132344</field>
 <field name="genre">Operas</field>
-<field name="title">Ninon, Nanon si Maintenon</field>
-<field name="titleSort">Ninon, Nanon si Maintenon</field>
+<field name="title">Ninon, Nanon şi Maintenon</field>
+<field name="titleSort">Ninon, Nanon şi Maintenon</field>
 <field name="composer">Ion Andrei Wachmann</field>
 <field name="composerSort">Wachmann, Ion Andrei</field>
 <field name="year">1854</field>
@@ -17,6 +17,6 @@
 
 <field name="country">Romania</field>
 <field name="subgenre">Vaudeville</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ninon,+Nanon+si+Maintenon+Ion+Andrei+Wachmann&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ninon,+Nanon+şi+Maintenon+Ion+Andrei+Wachmann&amp;search_field=search</field>
 </doc>
 </add>

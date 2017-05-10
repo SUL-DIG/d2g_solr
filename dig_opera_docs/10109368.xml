@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10109368</field>
 <field name="genre">Operas</field>
-<field name="title">A Bajadér</field>
-<field name="titleSort">Bajadér</field>
+<field name="title">A bajadér</field>
+<field name="titleSort">bajadér</field>
 <field name="composer">Ődőn Farkas</field>
 <field name="composerSort">Farkas, Ődőn</field>
 <field name="year">1876</field>
@@ -17,6 +17,6 @@
 
 <field name="country">Hungary</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Bajadér+Ődőn+Farkas&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=bajadér+Ődőn+Farkas&amp;search_field=search</field>
 </doc>
 </add>

@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10106329</field>
 <field name="genre">Operas</field>
-<field name="title">L'Amiral Kercornu-Kornar</field>
-<field name="titleSort">Amiral Kercornu-Kornar</field>
+<field name="title">Amiral Kercornukornar</field>
+<field name="titleSort">Amiral Kercornukornar</field>
 <field name="composer">Lucien Collin</field>
 <field name="composerSort">Collin, Lucien</field>
 <field name="year">1890</field>
@@ -12,6 +12,6 @@
 
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Amiral+Kercornu-Kornar+Lucien+Collin&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amiral+Kercornukornar+Lucien+Collin&amp;search_field=search</field>
 </doc>
 </add>

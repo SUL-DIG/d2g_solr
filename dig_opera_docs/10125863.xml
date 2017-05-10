@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10125863</field>
 <field name="genre">Operas</field>
-<field name="title">Os dragoes d'Ebrei</field>
-<field name="titleSort">dragoes d'Ebrei</field>
+<field name="title">Os dragões d'el-rei</field>
+<field name="titleSort">dragões d'el-rei</field>
 <field name="composer">Francisco Alves Rente</field>
 <field name="composerSort">Rente, Francisco Alves</field>
 <field name="year">1881</field>
@@ -12,6 +12,6 @@
 <field name="region">Lisboa</field>
 <field name="country">Portugal</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Os+dragoes+d'Ebrei+Francisco+Alves+Rente&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=dragões+d'el-rei+Francisco+Alves+Rente&amp;search_field=search</field>
 </doc>
 </add>

@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10108411</field>
 <field name="genre">Operas</field>
-<field name="title">Ioan Vodă cel Cumplit</field>
-<field name="titleSort">Ioan Vodă cel Cumplit</field>
+<field name="title">Ion Vodă cel Cumplit</field>
+<field name="titleSort">Ion Vodă cel Cumplit</field>
 <field name="composer">Gheorghe Dumitrescu</field>
 <field name="composerSort">Dumitrescu, Gheorghe</field>
 <field name="year">1956</field>
@@ -17,6 +17,6 @@
 
 <field name="country">Romania</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ion+Voda+cel+Cumplit+Gheorghe+Dumitrescu&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ion+Vodă+cel+Cumplit+Gheorghe+Dumitrescu&amp;search_field=search</field>
 </doc>
 </add>

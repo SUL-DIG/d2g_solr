@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10204950</field>
 		<field name="genre">Oratorios</field>
-		<field name="title">Zburatorul de larg (Wide Sea Flier)</field>
-		<field name="titleSort">Zburatorul de larg (Wide Sea Flier)</field>
+		<field name="title">Zburătorul de larg (Wide Sea Flier)</field>
+		<field name="titleSort">Zburătorul de larg (Wide Sea Flier)</field>
 		<field name="year">1968</field>
 		
 		
@@ -18,5 +18,5 @@
 		
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zburatorul+de+larg+(Wide+Sea+Flier)+Gheorghe+Dumitrescu&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zburătorul+de+larg+(Wide+Sea+Flier)+Gheorghe+Dumitrescu&amp;search_field=search</field>
 	</doc></add>

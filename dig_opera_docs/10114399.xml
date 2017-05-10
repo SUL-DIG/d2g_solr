@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10114399</field>
 <field name="genre">Operas</field>
-<field name="title">Kejserens nye Klaeder</field>
-<field name="titleSort">Kejserens nye Klaeder</field>
+<field name="title">Kejserens nye Klæder</field>
+<field name="titleSort">Kejserens nye Klæder</field>
 <field name="composer">Finn Høffding</field>
 <field name="composerSort">Høffding, Finn</field>
 <field name="year">1928</field>
@@ -17,6 +17,6 @@
 <field name="region">Hovedstaden</field>
 <field name="country">Denmark</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kejserens+nye+Klaeder+Finn+Høffding&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kejserens+nye+Klæder+Finn+Høffding&amp;search_field=search</field>
 </doc>
 </add>

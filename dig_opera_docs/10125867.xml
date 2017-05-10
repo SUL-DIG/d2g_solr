@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10125867</field>
 <field name="genre">Operas</field>
-<field name="title">O Guizo</field>
-<field name="titleSort">Guizo</field>
+<field name="title">O guizo</field>
+<field name="titleSort">guizo</field>
 <field name="composer">Francisco Alves Rente</field>
 <field name="composerSort">Rente, Francisco Alves</field>
 <field name="year">1879</field>
@@ -15,6 +15,6 @@
 <field name="region">Lisboa</field>
 <field name="country">Portugal</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+Guizo+Francisco+Alves+Rente&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+guizo+Francisco+Alves+Rente&amp;search_field=search</field>
 </doc>
 </add>

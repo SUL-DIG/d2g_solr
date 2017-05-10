@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10123548</field>
 <field name="genre">Operas</field>
-<field name="title">Simple et Coquette</field>
-<field name="titleSort">Simple et Coquette</field>
+<field name="title">Simple et coquette</field>
+<field name="titleSort">Simple et coquette</field>
 <field name="composer">E. Françoise Péan de la Roche-Jagu</field>
 <field name="composerSort">Roche-Jagu, E. Françoise Péan de la</field>
 <field name="year">1856</field>
@@ -12,6 +12,6 @@
 
 <field name="country">France</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Simple+et+Coquette+E.+Françoise+Péan+de+la+Roche-Jagu&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Simple+et+coquette+E.+Françoise+Péan+de+la+Roche-Jagu&amp;search_field=search</field>
 </doc>
 </add>

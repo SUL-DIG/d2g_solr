@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10201776</field>
 		<field name="genre">Oratorios</field>
-		<field name="title">Grivita Noastra</field>
-		<field name="titleSort">Grivita Noastra</field>
+		<field name="title">Griviţa noastră</field>
+		<field name="titleSort">Griviţa noastră</field>
 		<field name="year">1963</field>
 		
 		
@@ -18,5 +18,5 @@
 		
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Grivita+Noastra+Gheorghe+Dumitrescu&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Griviţa+noastră+Gheorghe+Dumitrescu&amp;search_field=search</field>
 	</doc></add>
