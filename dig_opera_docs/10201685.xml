@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10201685</field>
 		<field name="genre">Oratorios</field>
-		<field name="title">Giuseppe in Galaad</field>
-		<field name="titleSort">Giuseppe in Galaad</field>
+		<field name="title">Giacobbe in Galaad</field>
+		<field name="titleSort">Giacobbe in Galaad</field>
 		<field name="year">1785</field>
 		
 		
@@ -18,5 +18,5 @@
 		<field name="subject">Joseph and his brothers</field>
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giuseppe+in+Galaad+Bonifazio+Asioli&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giacobbe+in+Galaad+Bonifazio+Asioli&amp;search_field=search</field>
 	</doc></add>

@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10115274</field>
 <field name="genre">Operas</field>
-<field name="title">Vecer tíkrálovy (Twelfth Night)</field>
-<field name="titleSort">Vecer tíkrálovy (Twelfth Night)</field>
+<field name="title">Večer tříkrálový (Twelfth Night)</field>
+<field name="titleSort">Večer tříkrálový (Twelfth Night)</field>
 <field name="composer">Ivan Jirko</field>
 <field name="composerSort">Jirko, Ivan</field>
 <field name="year">1967</field>
@@ -17,6 +17,6 @@
 <field name="region">Liberecký</field>
 <field name="country">Czech Republic</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vecer+tíkrálovy+Twelfth+Night+Ivan+Jirko&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Večer+tříkrálový+(Twelfth+Night)+Ivan+Jirko&amp;search_field=search</field>
 </doc>
 </add>

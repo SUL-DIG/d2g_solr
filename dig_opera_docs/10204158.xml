@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10204158</field>
 		<field name="genre">Oratorios</field>
-		<field name="title">El santo viejo Eleazar</field>
-		<field name="titleSort">santo viejo Eleazar</field>
+		<field name="title">El santo viejo Eleazaro</field>
+		<field name="titleSort">santo viejo Eleazaro</field>
 		
 		
 		
@@ -19,5 +19,5 @@
 		<field name="country">Spain</field>
 		<field name="subject">Eleazar</field>
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+santo+viejo+Eleazar+Magin+Riera&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=santo+viejo+Eleazaro+Magin+Riera&amp;search_field=search</field>
 	</doc></add>

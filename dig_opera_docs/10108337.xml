@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10108337</field>
 <field name="genre">Operas</field>
-<field name="title">O. S.</field>
-<field name="titleSort">O. S.</field>
+<field name="title">O 8</field>
+<field name="titleSort">8</field>
 <field name="composer">Filippe Duarte</field>
 <field name="composerSort">Duarte, Filippe</field>
 <field name="year">1896</field>
@@ -15,6 +15,6 @@
 <field name="region">Lisboa</field>
 <field name="country">Portugal</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O.+S.+Filippe+Duarte&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=8+Filippe+Duarte&amp;search_field=search</field>
 </doc>
 </add>

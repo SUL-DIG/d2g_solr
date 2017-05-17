@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10120745</field>
 <field name="genre">Operas</field>
-<field name="title">Atar, o sia Il serraglio d'Ormus</field>
-<field name="titleSort">Atar, o sia Il serraglio d'Ormus</field>
+<field name="title">Atar, ou o serralho d'Ormus</field>
+<field name="titleSort">Atar, ou o serralho d'Ormus</field>
 <field name="composer">António Luis Miró</field>
 <field name="composerSort">Miró, António Luis</field>
 <field name="year">1836</field>
@@ -15,6 +15,6 @@
 <field name="region">Lisboa</field>
 <field name="country">Portugal</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Atar,+o+sia+Il+serraglio+d'Ormus+António+Luis+Miró&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Atar,+ou+o+serralho+d'Ormus+António+Luis+Miró&amp;search_field=search</field>
 </doc>
 </add>

@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10102507</field>
 <field name="genre">Operas</field>
-<field name="title">La deroute de Culloden</field>
-<field name="titleSort">deroute de Culloden</field>
+<field name="title">Le lutin de Culloden</field>
+<field name="titleSort">lutin de Culloden</field>
 <field name="composer">Anton Berlijn</field>
 <field name="composerSort">Berlijn, Anton</field>
 <field name="year">1845</field>
@@ -15,6 +15,6 @@
 <field name="region">Noord Holland</field>
 <field name="country">Netherlands</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+deroute+de+Culloden+Anton+Berlijn&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=lutin+de+Culloden+Anton+Berlijn&amp;search_field=search</field>
 </doc>
 </add>

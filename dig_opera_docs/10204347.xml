@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10204347</field>
 		<field name="genre">Oratorios</field>
-		<field name="title">A Song in Stone</field>
-		<field name="titleSort">Song in Stone</field>
+		<field name="title">Cântec in piatră (A Song in Stone)</field>
+		<field name="titleSort">Cântec in piatră (A Song in Stone)</field>
 		<field name="year">1979</field>
     <field name="date">April 14, 1979</field>
     <field name="theater">Ateneul Român</field>
@@ -22,5 +22,5 @@
 		
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Song+in+Stone+Liviu+Comes&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cântec+in+piatră+A+Song+in+Stone)+Liviu+Comes&amp;search_field=search</field>
 	</doc></add>

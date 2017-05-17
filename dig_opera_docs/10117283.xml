@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10117283</field>
 <field name="genre">Operas</field>
-<field name="title">Zaragozza</field>
-<field name="titleSort">Zaragozza</field>
+<field name="title">Zaragoza</field>
+<field name="titleSort">Zaragoza</field>
 <field name="composer">Arturo Lapuerta</field>
 <field name="composerSort">Lapuerta, Arturo</field>
 <field name="year">1908</field>
@@ -15,6 +15,6 @@
 <field name="region">Aragon</field>
 <field name="country">Spain</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zaragozza+Arturo+Lapuerta&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zaragoza+Arturo+Lapuerta&amp;search_field=search</field>
 </doc>
 </add>

@@ -3,8 +3,8 @@
 <field name="id">19960373</field>
 <field name="genre">Operas</field>
 <field name="subgenre">Operetta</field>
-<field name="title">Bulgarians of Yore</field>
-<field name="titleSort">Bulgarians of Yore</field>
+<field name="title">Balgari ot staro vreme (Bulgarians of Yore)</field>
+<field name="titleSort">Balgari ot staro vreme (Bulgarians of Yore)</field>
 <field name="composer">Asen Karastoyanov</field>
 <field name="composerSort">Karastoyanov, Asen</field>
 <field name="year">1959</field>
@@ -15,6 +15,6 @@
 <field name="theater">Darzhaven Musikalen Teater</field>
 <field name="city">Sofia</field>
 <field name="country">Bulgaria</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bulgarians+of+Yore+Asen+Karastoyanov&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Balgari+ot+staro+vreme+(Bulgarians+of+Yore)+Asen+Karastoyanov&amp;search_field=search</field>
 </doc>
 </add>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10200218</field>
 		<field name="genre">Oratorios</field>
-		<field name="title">Arca de Dion</field>
-		<field name="titleSort">Arca de Dion</field>
+		<field name="title">Arca de Dios trasladada al gran templo de Sion</field>
+		<field name="titleSort">Arca de Dios trasladada al gran templo de Sion</field>
 		<field name="year">1758</field>
 		
 		
@@ -18,5 +18,5 @@
 		<field name="subject">The Ark of the Covenant</field>
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arca+de+Dion+Josep+Durán&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arca+de+Dios+trasladada+al+gran+templo+de+Sion+Josep+Durán&amp;search_field=search</field>
 	</doc></add>

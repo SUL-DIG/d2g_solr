@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10112343</field>
 <field name="genre">Operas</field>
-<field name="title">Donna Constanza</field>
-<field name="titleSort">Donna Constanza</field>
+<field name="title">Doña Constanza</field>
+<field name="titleSort">Doña Constanza</field>
 <field name="composer">Adolph Gollmick</field>
 <field name="composerSort">Gollmick, Adolph</field>
 <field name="year">1875</field>
@@ -17,6 +17,6 @@
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
 <field name="theater">Criterion Theatre</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Donna+Constanza+Adolph+Gollmick&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Doña+Constanza+Adolph+Gollmick&amp;search_field=search</field>
 </doc>
 </add>

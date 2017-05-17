@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10114629</field>
 <field name="genre">Operas</field>
-<field name="title">Na vecer Bilé soboty</field>
-<field name="titleSort">Na vecer Bilé soboty</field>
+<field name="title">Na vecer Bilá soboty</field>
+<field name="titleSort">Na vecer Bilá soboty</field>
 <field name="composer">Anton Adalbert Horák</field>
 <field name="composerSort">Horák, Anton Adalbert</field>
 <field name="year">1898</field>
@@ -15,6 +15,6 @@
 <field name="region">Hlaví město</field>
 <field name="country">Czech Republic</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Na+vecer+Bilé+soboty+Anton+Adalbert+Horák&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Na+vecer+Bilá+soboty+Anton+Adalbert+Horák&amp;search_field=search</field>
 </doc>
 </add>

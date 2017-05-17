@@ -2,8 +2,8 @@
 <doc>
 <field name="id">19962051</field>
 <field name="genre">Operas</field>
-<field name="title">Prinsessen I det fjaerne</field>
-<field name="titleSort">Prinsessen I det fjaerne</field>
+<field name="title">Prinsessen I det fjærne</field>
+<field name="titleSort">Prinsessen I det fjærne</field>
 <field name="composer">Svend Erik Tarp</field>
 <field name="composerSort">Tarp, Svend Erik</field>
 <field name="year">1952</field>
@@ -16,6 +16,6 @@
 <field name="city">Copenhagen</field>
 <field name="region">Hovedstaden</field>
 <field name="country">Denmark</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prinsessen+I+det+fjaerne+Svend+Erik+Tarp&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prinsessen+I+det+fjærne+Svend+Erik+Tarp&amp;search_field=search</field>
 </doc>
 </add>

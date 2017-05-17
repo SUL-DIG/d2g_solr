@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10104827</field>
 <field name="genre">Operas</field>
-<field name="title">O botas</field>
-<field name="titleSort">botas</field>
+<field name="title">O botão</field>
+<field name="titleSort">botão</field>
 <field name="composer">José Cândido</field>
 <field name="composerSort">Cândido, José</field>
 <field name="year">1880</field>
@@ -13,6 +13,6 @@
 <field name="region">Lisboa</field>
 <field name="country">Portugal</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+botas+José+Cândido&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=botão+José+Cândido&amp;search_field=search</field>
 </doc>
 </add>

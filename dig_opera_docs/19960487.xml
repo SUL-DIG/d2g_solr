@@ -2,8 +2,8 @@
 <doc>
 <field name="id">19960487</field>
 <field name="genre">Operas</field>
-<field name="title">Daneae eller det aerige svin (Treasure Trove or The Miserly Pig)</field>
-<field name="titleSort">Daneae eller det aerige svin (Treasure Trove or The Miserly Pig)</field>
+<field name="title">Daneæ eller det ærige svin (Treasure Trove or The Miserly Pig)</field>
+<field name="titleSort">Daneæ eller det ærige svin (Treasure Trove or The Miserly Pig)</field>
 <field name="composer">Yngve Jan Trede</field>
 <field name="composerSort">Trede, Yngve Jan</field>
 <field name="year">1980</field>
@@ -16,6 +16,6 @@
 <field name="city">Copenhagen</field>
 <field name="region">Hovedstaden</field>
 <field name="country">Denmark</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daneae+eller+det+aerige+svin+(Treasure+Trove+or+The+Miserly+Pig)+Yngve+Jan+Trede&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daneæ+eller+det+ærige+svin+(Treasure+Trove+or+The+Miserly+Pig)+Yngve+Jan+Trede&amp;search_field=search</field>
 </doc>
 </add>

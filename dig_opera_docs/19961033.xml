@@ -2,8 +2,8 @@
 <doc>
 <field name="id">19961033</field>
 <field name="genre">Operas</field>
-<field name="title">Halløj i firmaet</field>
-<field name="titleSort">Halløj i firmaet</field>
+<field name="title">Halløj i firmæt</field>
+<field name="titleSort">Halløj i firmæt</field>
 <field name="composer">Peter Bruun</field>
 <field name="composerSort">Bruun, Peter</field>
 <field name="year">2012</field>
@@ -14,6 +14,6 @@
 <field name="city">Esberg</field>
 <field name="region">Syddanmark</field>
 <field name="country">Denmark</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Halløj+i+firmaet+Peter+Bruun&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Halløj+i+firmæt+Peter+Bruun&amp;search_field=search</field>
 </doc>
 </add>

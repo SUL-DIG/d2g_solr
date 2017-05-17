@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10201365</field>
 		<field name="genre">Oratorios</field>
-		<field name="title">Försök af en pastoral pе Wеr Herres ock Frеlsares Jesu Christi nеdericka födelse</field>
-		<field name="titleSort">Försök af en pastoral pе Wеr Herres ock Frеlsares Jesu Christi nеdericka födelse</field>
+		<field name="title">Försök af en pastoral på Wår Herres ock Frålsares Jesu Christi nådericka födelse</field>
+		<field name="titleSort">Försök af en pastoral på Wår Herres ock Frålsares Jesu Christi nådericka födelse</field>
 		<field name="year">1751</field>
 		
 		
@@ -19,5 +19,5 @@
 		<field name="subject">Christ</field>
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Försök+af+en+pastoral+pе+Wеr+Herres+ock+Frеlsares+Jesu+Christi+nеdericka+födelse+Arvid+Niclas+von+Höpken&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Försök+af+en+pastoral+på+Wår+Herres+ock+Frålsares+Jesu+Christi+nådericka+födelse+Arvid+Niclas+von+Höpken&amp;search_field=search</field>
 	</doc></add>

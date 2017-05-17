@@ -2,8 +2,8 @@
 <doc>
 <field name="id">19960688</field>
 <field name="genre">Operas</field>
-<field name="title">Domnisoara Cristina (Miss Cristina)</field>
-<field name="titleSort">Domnisoara Cristina (Miss Cristina)</field>
+<field name="title">Domnişoara Cristina (Miss Cristina)</field>
+<field name="titleSort">Domnişoara Cristina (Miss Cristina)</field>
 <field name="composer">Şerban Nichifor</field>
 <field name="composerSort">Nichifor, Şerban</field>
 <field name="year">1994</field>
@@ -16,6 +16,6 @@
 <field name="city">Timişoara</field>
 <field name="region">Timiş</field>
 <field name="country">Romania</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Domnisoara+Cristina+(Miss+Cristina)+Şerban+Nichifor&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Domnişoara+Cristina+(Miss+Cristina)+Şerban+Nichifor&amp;search_field=search</field>
 </doc>
 </add>

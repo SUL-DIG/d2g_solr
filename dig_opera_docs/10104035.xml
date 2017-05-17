@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10104035</field>
 <field name="genre">Operas</field>
-<field name="title">Stejarul din Borzesti (Oak Tree from Borzesti)</field>
-<field name="titleSort">Stejarul din Borzesti (Oak Tree from Borzesti)</field>
+<field name="title">Stejarul din Borzeşti (Oak Tree from Borzeşti)</field>
+<field name="titleSort">Stejarul din Borzeşti (Oak Tree from Borzeşti)</field>
 <field name="composer">Teodor Bratu</field>
 <field name="composerSort">Bratu, Teodor</field>
 <field name="year">1969</field>
@@ -15,6 +15,6 @@
 <field name="region">Iaşi</field>
 <field name="country">Romania</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stejarul+din+Borzesti+Oak+Tree+from+Borzesti+Teodor+Bratu&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stejarul+din+Borzeşti+(Oak+Tree+from+Borzeşti)+Teodor+Bratu&amp;search_field=search</field>
 </doc>
 </add>
