@@ -2,14 +2,14 @@
 <doc>
 <field name="id">19962976</field>
 <field name="genre">Operas</field>
-<field name="title">Vanadzins (The Little Hawk)</field>
-<field name="titleSort">Vanadzins (The Little Hawk)</field>
+<field name="title">Vanadziņš (The Little Hawk)</field>
+<field name="titleSort">Vanadziņš (The Little Hawk)</field>
 <field name="composer">Olgerts Gravitis</field>
 <field name="composerSort">Gravitis, Olgerts</field>
 <field name="year">1959</field>
 <field name="theater">Latvian Television (Latvijas Televizija)</field>
 <field name="city">Riga</field>
 <field name="country">Latvia</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vanadzins+(The+Little+Hawk)+Olgerts+Gravitis&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vanadziņš+The+Little+Hawk+Olgerts+Gravitis&amp;search_field=search</field>
 </doc>
 </add>

@@ -12,6 +12,6 @@
 <field name="region">Loiret</field>
 <field name="country">France</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=chevau-légers+__+Delacroix&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+chevau-légers+__+Delacroix&amp;search_field=search</field>
 </doc>
 </add>

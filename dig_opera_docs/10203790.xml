@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203790</field>
 		<field name="genre">Oratorios</field>
-		<field name="title">Salomone esaltata al trono</field>
-		<field name="titleSort">Salomone esaltata al trono</field>
+		<field name="title">Salomone esaltato al trono</field>
+		<field name="titleSort">Salomone esaltato al trono</field>
 		<field name="year">1775</field>
 		
 		
@@ -18,5 +18,5 @@
 		<field name="subject">Solomon annointed by Zadok</field>
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Salomone+esaltata+al+trono+Francesco+Zannetti&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Salomone+esaltato+al+trono+Francesco+Zannetti&amp;search_field=search</field>
 	</doc></add>

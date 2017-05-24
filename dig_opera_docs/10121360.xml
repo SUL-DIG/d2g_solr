@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10121360</field>
 <field name="genre">Operas</field>
-<field name="title">La vipera ha beccato i ciarlatani</field>
-<field name="titleSort">vipera ha beccato i ciarlatani</field>
+<field name="title">Le vipere han beccato i ciarlatani</field>
+<field name="titleSort">vipere han beccato i ciarlatani</field>
 <field name="composer">Giuseppe Mosca</field>
 <field name="composerSort">Mosca, Giuseppe</field>
 <field name="year">1801</field>
@@ -12,6 +12,6 @@
 <field name="region">Piemonte</field>
 <field name="country">Italy</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vipera+ha+beccato+i+ciarlatani+Giuseppe+Mosca&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+vipere+han+beccato+i+ciarlatani+Giuseppe+Mosca&amp;search_field=search</field>
 </doc>
 </add>

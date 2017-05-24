@@ -16,6 +16,6 @@
 <field name="region">Catalunya</field>
 <field name="country">Spain</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=sardana+deis+promesos+Adrián+Esquerrá&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+sardana+deis+promesos+Adrián+Esquerrá&amp;search_field=search</field>
 </doc>
 </add>

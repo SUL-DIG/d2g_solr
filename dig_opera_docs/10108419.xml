@@ -17,6 +17,6 @@
 
 <field name="country">Romania</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Răscoala+(The+Uprising)+Gheorghe+Dumitrescu&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Răscoala+The+Uprising+Gheorghe+Dumitrescu&amp;search_field=search</field>
 </doc>
 </add>

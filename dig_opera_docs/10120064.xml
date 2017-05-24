@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10120064</field>
 <field name="genre">Operas</field>
-<field name="title">My Son the Doctor</field>
-<field name="titleSort">My Son the Doctor</field>
+<field name="title">My Son, the Doctor</field>
+<field name="titleSort">My Son, the Doctor</field>
 <field name="composer">Glen Mead</field>
 <field name="composerSort">Mead, Glen</field>
 <field name="year">1981</field>
@@ -13,6 +13,6 @@
 <field name="region">Illinois</field>
 <field name="country">United States</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=My+Son+the+Doctor+Glen+Mead&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=My+Son,+the+Doctor+Glen+Mead&amp;search_field=search</field>
 </doc>
 </add>

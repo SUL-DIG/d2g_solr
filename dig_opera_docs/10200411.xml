@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10200411</field>
 		<field name="genre">Oratorios</field>
-		<field name="title">La Betulia liberata</field>
-		<field name="titleSort">Betulia liberata</field>
+		<field name="title">Bethulia liberata</field>
+		<field name="titleSort">Bethulia liberata</field>
 		<field name="year">1780</field>
 		
 		
@@ -19,5 +19,5 @@
 		<field name="subject">Judith and Holofernes</field>
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Betulia+liberata+Felice+Alessandri&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bethulia+liberata+Felice+Alessandri&amp;search_field=search</field>
 	</doc></add>

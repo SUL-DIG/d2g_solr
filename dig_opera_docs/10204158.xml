@@ -19,5 +19,5 @@
 		<field name="country">Spain</field>
 		<field name="subject">Eleazar</field>
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=santo+viejo+Eleazaro+Magin+Riera&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+santo+viejo+Eleazaro+Magin+Riera&amp;search_field=search</field>
 	</doc></add>

@@ -17,6 +17,6 @@
 <field name="region">Hlaví město</field>
 <field name="country">Czech Republic</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zázračné+Divadlo+(The+Miracle-Theater)+Jan+Frank+Fischer&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zázračné+Divadlo+The+Miracle-Theater+Jan+Frank+Fischer&amp;search_field=search</field>
 </doc>
 </add>

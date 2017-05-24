@@ -16,6 +16,6 @@
 <field name="city">Copenhagen</field>
 <field name="region">Hovedstaden</field>
 <field name="country">Denmark</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daneæ+eller+det+ærige+svin+(Treasure+Trove+or+The+Miserly+Pig)+Yngve+Jan+Trede&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daneæ+eller+det+ærige+svin+Treasure+Trove+or+The+Miserly+Pig+Yngve+Jan+Trede&amp;search_field=search</field>
 </doc>
 </add>

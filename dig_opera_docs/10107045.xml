@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10107045</field>
 <field name="genre">Operas</field>
-<field name="title">Il caporale Susine</field>
-<field name="titleSort">caporale Susine</field>
+<field name="title">Caporale susine</field>
+<field name="titleSort">Caporale susine</field>
 <field name="composer">Luigi Dall'Argine</field>
 <field name="composerSort">Dall'Argine, Luigi</field>
 <field name="year">1907</field>
@@ -12,6 +12,6 @@
 <field name="region">Piemonte</field>
 <field name="country">Italy</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+caporale+Susine+Luigi+Dall'Argine&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Caporale+susine+Luigi+Dall'Argine&amp;search_field=search</field>
 </doc>
 </add>

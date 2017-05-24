@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10200371</field>
 		<field name="genre">Oratorios</field>
-		<field name="title">Begorre alla Fede</field>
-		<field name="titleSort">Begorre alla Fede</field>
+		<field name="title">Begor re alla fede</field>
+		<field name="titleSort">Begor re alla fede</field>
 		<field name="year">1681</field>
 		
 		
@@ -18,5 +18,5 @@
 		
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Begorre+alla+Fede+Bonaventura+Aliotti&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Begor+re+alla+fede+Bonaventura+Aliotti&amp;search_field=search</field>
 	</doc></add>

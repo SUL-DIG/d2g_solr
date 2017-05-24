@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10102702</field>
 <field name="genre">Operas</field>
-<field name="title">Il contrabbandiere</field>
-<field name="titleSort">contrabbandiere</field>
+<field name="title">Il contrabandiere</field>
+<field name="titleSort">contrabandiere</field>
 <field name="composer">Ernesto Bertini</field>
 <field name="composerSort">Bertini, Ernesto</field>
 <field name="year">1875</field>
@@ -12,6 +12,6 @@
 <field name="region">Marche</field>
 <field name="country">Italy</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+contrabbandiere+Ernesto+Bertini&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+contrabandiere+Ernesto+Bertini&amp;search_field=search</field>
 </doc>
 </add>

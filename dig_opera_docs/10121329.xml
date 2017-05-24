@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10121329</field>
 <field name="genre">Operas</field>
-<field name="title">Chi vuol troppo vedere diventa cieco</field>
-<field name="titleSort">Chi vuol troppo vedere diventa cieco</field>
+<field name="title">Chi vuol troppo veder diventa cieco</field>
+<field name="titleSort">Chi vuol troppo veder diventa cieco</field>
 <field name="composer">Giuseppe Mosca</field>
 <field name="composerSort">Mosca, Giuseppe</field>
 <field name="year">1803</field>
@@ -12,6 +12,6 @@
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chi+vuol+troppo+vedere+diventa+cieco+Giuseppe+Mosca&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chi+vuol+troppo+veder+diventa+cieco+Giuseppe+Mosca&amp;search_field=search</field>
 </doc>
 </add>

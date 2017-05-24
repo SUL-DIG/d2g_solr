@@ -15,6 +15,6 @@
 
 <field name="country">Romania</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dragoste+şi+jertfa+(Love+and+Sacrifice)+Cornel+Trailesco&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dragoste+şi+jertfa+Love+and+Sacrifice+Cornel+Trailesco&amp;search_field=search</field>
 </doc>
 </add>

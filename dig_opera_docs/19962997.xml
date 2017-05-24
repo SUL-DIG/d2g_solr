@@ -2,8 +2,8 @@
 <doc>
 <field name="id">19962997</field>
 <field name="genre">Operas</field>
-<field name="title">Vilkaču mantiniece (The Heiress of Vilkaci)</field>
-<field name="titleSort">Vilkaču mantiniece (The Heiress of Vilkaci)</field>
+<field name="title">Vilkaču mantiniece (The Heiress of Vilkači)</field>
+<field name="titleSort">Vilkaču mantiniece (The Heiress of Vilkači)</field>
 <field name="composer">Bruno Skulte</field>
 <field name="composerSort">Skulte, Bruno</field>
 <field name="year">2011</field>
@@ -13,6 +13,6 @@
 <field name="theater">Latviyskiy Teatr Operï i Baleta</field>
 <field name="city">Riga</field>
 <field name="country">Latvia</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vilkaču+mantiniece+(The+Heiress+of+Vilkaci)+Bruno+Skulte&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vilkaču+mantiniece+The+Heiress+of+Vilkači+Bruno+Skulte&amp;search_field=search</field>
 </doc>
 </add>

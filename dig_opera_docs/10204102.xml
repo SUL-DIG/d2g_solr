@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10204102</field>
 		<field name="genre">Oratorios</field>
-		<field name="title">La Santissima Vergine</field>
-		<field name="titleSort">Santissima Vergine</field>
+		<field name="title">La Santissima Vergine annunziata</field>
+		<field name="titleSort">Santissima Vergine annunziata</field>
 		<field name="year">1739</field>
 		
 		
@@ -18,5 +18,5 @@
 		<field name="subject">The Virgin Mary</field>
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Santissima+Vergine+Giuseppe+Scarlatti&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Santissima+Vergine+annunziata+Giuseppe+Scarlatti&amp;search_field=search</field>
 	</doc></add>

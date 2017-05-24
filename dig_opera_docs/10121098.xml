@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10121098</field>
 <field name="genre">Operas</field>
-<field name="title">Pan Profesor v pekle (Mr. Professor in Hell)</field>
-<field name="titleSort">Pan Profesor v pekle (Mr. Professor in Hell)</field>
+<field name="title">Pan profesor v pekle (Mr. Professor in Hell)</field>
+<field name="titleSort">Pan profesor v pekle (Mr. Professor in Hell)</field>
 <field name="composer">Karel Moor</field>
 <field name="composerSort">Moor, Karel</field>
 <field name="year">1908</field>
@@ -17,6 +17,6 @@
 <field name="region">Jihomoravský</field>
 <field name="country">Czech Republic</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pan+Profesor+v+pekle+Mr.+Professor+in+Hell+Karel+Moor&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pan+profesor+v+pekle+Mr.+Professor+in+Hell+Karel+Moor&amp;search_field=search</field>
 </doc>
 </add>

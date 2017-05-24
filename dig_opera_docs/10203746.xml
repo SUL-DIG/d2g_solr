@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203746</field>
 		<field name="genre">Oratorios</field>
-		<field name="title">Le sagre contesse dell'amore e dell'umiltа per il cuore di San Filippo Neri</field>
-		<field name="titleSort">sagre contesse dell'amore e dell'umiltа per il cuore di San Filippo Neri</field>
+		<field name="title">Le sagre contese dell'amore e dell'umiltà per il cuore di San Filippo Neri</field>
+		<field name="titleSort">sagre contese dell'amore e dell'umiltà per il cuore di San Filippo Neri</field>
 		<field name="year">1721</field>
 		
 		
@@ -19,5 +19,5 @@
 		<field name="feastMonth">May</field>
 		<field name="feastDay">26</field>
 		<field name="feastDate">May 26</field>
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+sagre+contesse+dell'amore+e+dell'umiltа+per+il+cuore+di+San+Filippo+Neri+Pietro+Baldassari&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+sagre+contese+dell'amore+e+dell'umiltà+per+il+cuore+di+San+Filippo+Neri+Pietro+Baldassari&amp;search_field=search</field>
 	</doc></add>

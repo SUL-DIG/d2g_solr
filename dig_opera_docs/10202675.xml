@@ -19,5 +19,5 @@
 		<field name="feastMonth">October</field>
 		<field name="feastDay">19</field>
 		<field name="feastDate">October 19</field>
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=martirio+di+San+Lanno+Annibale+Pio+Fabri&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+martirio+di+San+Lanno+Annibale+Pio+Fabri&amp;search_field=search</field>
 	</doc></add>

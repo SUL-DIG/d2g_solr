@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10106447</field>
 <field name="genre">Operas</field>
-<field name="title">Onoré</field>
-<field name="titleSort">Onoré</field>
+<field name="title">Onore!</field>
+<field name="titleSort">Onore!</field>
 <field name="composer">Arturo Consiglio</field>
 <field name="composerSort">Consiglio, Arturo</field>
 <field name="year">1895</field>
@@ -15,6 +15,6 @@
 <field name="region">Campania</field>
 <field name="country">Italy</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Onoré+Arturo+Consiglio&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Onore!+Arturo+Consiglio&amp;search_field=search</field>
 </doc>
 </add>

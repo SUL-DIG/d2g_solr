@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10204076</field>
 		<field name="genre">Oratorios</field>
-		<field name="title">Santa Serafia (I due gigli porporati nel martirio di Santa Serafia e Santa Sabina)</field>
-		<field name="titleSort">Santa Serafia (I due gigli porporati nel martirio di Santa Serafia e Santa Sabina)</field>
+		<field name="title">I due gigli porporati nel martirio di Santa Serafia e Santa Sabina</field>
+		<field name="titleSort"I due gigli porporati nel martirio di Santa Serafia e Santa Sabina</field>
 		<field name="year">1679</field>
 		<field name="month">February</field>
 		<field name="day">23</field>
@@ -20,5 +20,5 @@
 		<field name="feastMonth">July</field>
 		<field name="feastDay">29</field>
 		<field name="feastDate">July 29</field>
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santa+Serafia+(I+due+gigli+porporati+nel+martirio+di+Santa+Serafia+e+Santa+Sabina)+Giacomo+Antonio+Perti&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+due+gigli+porporati+nel+martirio+di+Santa+Serafia+e+Santa+Sabina+Giacomo+Antonio+Perti&amp;search_field=search</field>
 	</doc></add>

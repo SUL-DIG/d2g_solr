@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10200718</field>
 		<field name="genre">Oratorios</field>
-		<field name="title">Il convito di Baldassare</field>
-		<field name="titleSort">convito di Baldassare</field>
+		<field name="title">Il convitto di Baldassare</field>
+		<field name="titleSort">convitto di Baldassare</field>
 		<field name="year">1747</field>
 		
 		
@@ -18,5 +18,5 @@
 		<field name="subject">Belshazzar's Feast</field>
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+convito+di+Baldassare+Giovanni+Francesco+Madrisio&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+convitto+di+Baldassare+Giovanni+Francesco+Madrisio&amp;search_field=search</field>
 	</doc></add>

@@ -17,6 +17,6 @@
 
 <field name="country">Peru</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=fronda,+o+Il+castello+di+San+Germano+Carlo+Enrico+Pasta&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fronda,+o+Il+castello+di+San+Germano+Carlo+Enrico+Pasta&amp;search_field=search</field>
 </doc>
 </add>
