@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10123785</field>
 <field name="genre">Operas</field>
-<field name="title">Les revoltés de Lilline</field>
-<field name="titleSort">revoltés de Lilline</field>
+<field name="title">Les revoltés de Liline</field>
+<field name="titleSort">revoltés de Liline</field>
 <field name="composer">Amélie Péronnet</field>
 <field name="composerSort">Péronnet, Amélie</field>
 <field name="year">1884</field>
@@ -12,6 +12,6 @@
 
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+revoltés+de+Lilline+Amélie+Péronnet&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+revoltés+de+Liline+Amélie+Péronnet&amp;search_field=search</field>
 </doc>
 </add>

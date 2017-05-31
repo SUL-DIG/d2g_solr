@@ -9,8 +9,8 @@
 		<field name="date">1824</field>
 		<field name="composer">Pietro Generali</field>
 		<field name="composerSort">Generali, Pietro</field>
-		<field name="librettist">Antonio Alcozer</field>
-		<field name="librettistSort">Alcozer, Antonio</field>
+		<field name="librettist">Antonino Alcozer</field>
+		<field name="librettistSort">Alcozer, Antonino</field>
 		<field name="theater">Real Teatro Carolino</field>
 		
 		<field name="city">Palermo</field>

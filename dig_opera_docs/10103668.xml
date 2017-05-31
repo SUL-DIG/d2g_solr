@@ -4,8 +4,8 @@
 <field name="genre">Operas</field>
 <field name="title">Les colles de la femme</field>
 <field name="titleSort">colles de la femme</field>
-<field name="composer">Charles Borel-Clerc</field>
-<field name="composerSort">Borel-Clerc, Charles</field>
+<field name="composer">[Charles Clerc] Borel-Clerc</field>
+<field name="composerSort">Borel-Clerc, [Charles Clerc]</field>
 <field name="year">1907</field>
 <field name="date">1907</field>
 <field name="librettist">Eugène Joullot</field>
@@ -15,6 +15,6 @@
 
 <field name="country">France</field>
 <field name="subgenre">Vaudeville</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+colles+de+la+femme+Charles+Borel-Clerc&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+colles+de+la+femme+Charles+Clerc+Borel-Clerc&amp;search_field=search</field>
 </doc>
 </add>

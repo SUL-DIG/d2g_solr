@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10117408</field>
 <field name="genre">Operas</field>
-<field name="title">Monsieur l'Amour</field>
-<field name="titleSort">Monsieur l'Amour</field>
+<field name="title">Monsieur l'amour</field>
+<field name="titleSort">Monsieur l'amour</field>
 <field name="composer">Marcel Lattès</field>
 <field name="composerSort">Lattès, Marcel</field>
 <field name="year">1922</field>
@@ -17,6 +17,6 @@
 
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Monsieur+l'Amour+Marcel+Lattès&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Monsieur+l'amour+Marcel+Lattès&amp;search_field=search</field>
 </doc>
 </add>

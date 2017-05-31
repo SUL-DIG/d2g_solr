@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10129222</field>
 <field name="genre">Operas</field>
-<field name="title">Le ménage Pavernoy</field>
-<field name="titleSort">ménage Pavernoy</field>
+<field name="title">Le ménage Pavernay</field>
+<field name="titleSort">ménage Pavernay</field>
 <field name="composer">Charles de Sivry</field>
 <field name="composerSort">Sivry, Charles de</field>
 <field name="year">1875</field>
@@ -15,6 +15,6 @@
 
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+ménage+Pavernoy+Charles+de+Sivry&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+ménage+Pavernay+Charles+de+Sivry&amp;search_field=search</field>
 </doc>
 </add>

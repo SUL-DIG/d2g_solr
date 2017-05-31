@@ -7,10 +7,10 @@
 		
 		
 		<field name="date">1843</field>
-		<field name="composer">Anton Berlijn</field>
-		<field name="composerSort">Berlijn, Anton</field>
-		<field name="librettist">Anton Berlijn</field>
-		<field name="librettistSort">Berlijn, Anton</field>
+		<field name="composer">[Aron Wolf] Anton Berlijn</field>
+		<field name="composerSort">Berlijn, [Aron Wolf] Anton</field>
+		<field name="librettist">[Aron Wolf] Anton Berlijn</field>
+		<field name="librettistSort">Berlijn, [Aron Wolf] Anton</field>
 		
 		
 		<field name="city">Amsterdam</field>
@@ -19,5 +19,5 @@
 		<field name="subject">Moses shows the Promised Land</field>
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Moses+auf+Nebo+Anton+Berlijn&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Moses+auf+Nebo+Aron+Wolf+Anton+Berlijn&amp;search_field=search</field>
 	</doc></add>

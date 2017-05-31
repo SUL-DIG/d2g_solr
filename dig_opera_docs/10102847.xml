@@ -4,17 +4,17 @@
 <field name="genre">Operas</field>
 <field name="title">Mastino della Scala</field>
 <field name="titleSort">Mastino della Scala</field>
-<field name="composer">Gerolamo Alessandro Biaggi</field>
-<field name="composerSort">Biaggi, Gerolamo Alessandro</field>
+<field name="composer">Alessandro Biaggi</field>
+<field name="composerSort">Biaggi, Alessandro</field>
 <field name="year">1842</field>
 <field name="date">1842</field>
-<field name="librettist">Gerolamo Alessandro Biaggi</field>
-<field name="librettistSort">Biaggi, Gerolamo Alessandro</field>
+<field name="librettist">Alessandro Biaggi</field>
+<field name="librettistSort">Biaggi, Alessandro</field>
 <field name="theater">Teatro della Munizione</field>
 <field name="city">Messina</field>
 <field name="region">Sicilia</field>
 <field name="country">Italy</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mastino+della+Scala+Gerolamo+Alessandro+Biaggi&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mastino+della+Scala+Alessandro+Biaggi&amp;search_field=search</field>
 </doc>
 </add>

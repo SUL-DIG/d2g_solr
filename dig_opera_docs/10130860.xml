@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10130860</field>
 <field name="genre">Operas</field>
-<field name="title">Zermes und Mirabelle</field>
-<field name="titleSort">Zermes und Mirabelle</field>
+<field name="title">Zermes und Mirabella</field>
+<field name="titleSort">Zermes und Mirabella</field>
 <field name="composer">Anton Teyber</field>
 <field name="composerSort">Teyber, Anton</field>
 <field name="year">1779</field>
@@ -12,6 +12,6 @@
 
 <field name="country">Austria</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zermes+und+Mirabelle+Anton+Teyber&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zermes+und+Mirabella+Anton+Teyber&amp;search_field=search</field>
 </doc>
 </add>

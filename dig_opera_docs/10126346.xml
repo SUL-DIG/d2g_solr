@@ -10,8 +10,8 @@
 <field name="date">1876</field>
 <field name="librettist">Denis Robert</field>
 <field name="librettistSort">Robert, Denis</field>
-<field name="librettist">Jacques-Henri Bernardin de Saint-Pierre</field>
-<field name="librettistSort">Bernardin de Saint-Pierre, Jacques-Henri</field>
+<field name="librettist">Henri Bernardin de Saint-Pierre</field>
+<field name="librettistSort">Bernardin de Saint-Pierre, Henri</field>
 <field name="theater">Théâtre Municipal</field>
 <field name="city">Port Louis</field>
 

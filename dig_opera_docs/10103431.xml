@@ -10,8 +10,8 @@
 <field name="date">1888</field>
 <field name="librettist">[Georges Lanos] Marc Sonal</field>
 <field name="librettistSort">Sonal, Marc [Georges Lanos]</field>
-<field name="librettist">__ Bitoire</field>
-<field name="librettistSort">Bitoire, __</field>
+<field name="librettist">[Charles Baret] Bitoire</field>
+<field name="librettistSort">Bitoire, [Charles Baret]</field>
 
 <field name="city">Paris</field>
 

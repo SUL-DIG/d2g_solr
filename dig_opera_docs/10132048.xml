@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10132048</field>
 <field name="genre">Operas</field>
-<field name="title">Les deux séclèrats</field>
-<field name="titleSort">deux séclèrats</field>
+<field name="title">Les deux scélérats</field>
+<field name="titleSort">deux scélérats</field>
 <field name="composer">Aldé de Villebichot</field>
 <field name="composerSort">Villebichot, Aldé de</field>
 <field name="year">1873</field>
@@ -12,6 +12,6 @@
 
 <field name="country">France</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+deux+séclèrats+Aldé+de+Villebichot&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+deux+scélérats+Aldé+de+Villebichot&amp;search_field=search</field>
 </doc>
 </add>

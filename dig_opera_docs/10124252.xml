@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10124252</field>
 <field name="genre">Operas</field>
-<field name="title">Dans les Gardes françaises</field>
-<field name="titleSort">Dans les Gardes françaises</field>
+<field name="title">Dans les gardes françaises</field>
+<field name="titleSort">Dans les gardes françaises</field>
 <field name="composer">Émile Pichoz</field>
 <field name="composerSort">Pichoz, Émile</field>
 <field name="year">1868</field>
@@ -12,6 +12,6 @@
 <field name="region">Rhône du Lyonnais</field>
 <field name="country">France</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dans+les+Gardes+françaises+Émile+Pichoz&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dans+les+gardes+françaises+Émile+Pichoz&amp;search_field=search</field>
 </doc>
 </add>

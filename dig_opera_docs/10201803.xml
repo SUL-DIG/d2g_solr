@@ -7,8 +7,8 @@
 		
 		
 		<field name="date">1928</field>
-		<field name="composer">Walter Böhme</field>
-		<field name="composerSort">Böhme, Walter</field>
+		<field name="composer">Walther Böhme</field>
+		<field name="composerSort">Böhme, Walther</field>
 		
 		
 		
@@ -18,5 +18,5 @@
 		<field name="subject">Christ the Redeemer</field>
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Heiland+Walter+Böhme&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Heiland+Walther+Böhme&amp;search_field=search</field>
 	</doc></add>

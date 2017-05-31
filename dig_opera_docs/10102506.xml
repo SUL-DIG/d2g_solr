@@ -4,8 +4,8 @@
 <field name="genre">Operas</field>
 <field name="title">Die Bergknappen</field>
 <field name="titleSort">Bergknappen</field>
-<field name="composer">Anton Berlijn</field>
-<field name="composerSort">Berlijn, Anton</field>
+<field name="composer">[Aron Wolf] Anton Berlijn</field>
+<field name="composerSort">Berlijn, Anton [Aron Wolf]</field>
 <field name="year">1841</field>
 <field name="date">1841</field>
 <field name="librettist">Jakob van Lennep</field>
@@ -17,6 +17,6 @@
 <field name="region">Noord Holland</field>
 <field name="country">Netherlands</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Bergknappen+Anton+Berlijn&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Bergknappen+Aron+Wolf+Anton+Berlijn&amp;search_field=search</field>
 </doc>
 </add>

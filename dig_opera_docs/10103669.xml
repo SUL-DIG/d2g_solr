@@ -4,8 +4,8 @@
 <field name="genre">Operas</field>
 <field name="title">Lou vergié d'oulivié</field>
 <field name="titleSort">Lou vergié d'oulivié</field>
-<field name="composer">Charles Borel-Clerc</field>
-<field name="composerSort">Borel-Clerc, Charles</field>
+<field name="composer">[Charles Clerc] Borel-Clerc</field>
+<field name="composerSort">Borel-Clerc, [Charles Clerc]</field>
 <field name="year">1896</field>
 <field name="date">1896</field>
 <field name="librettist">Marius Bourrelly</field>
@@ -15,6 +15,6 @@
 <field name="region">Bouches-du-Rhône</field>
 <field name="country">France</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lou+vergié+d'oulivié+Charles+Borel-Clerc&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lou+vergié+d'oulivié+Charles+Clerc+Borel-Clerc&amp;search_field=search</field>
 </doc>
 </add>
