@@ -10,7 +10,11 @@
 <field name="date">1917</field>
 <field name="librettist">Gabriele d'Annunzio</field>
 <field name="librettistSort">d'Annunzio, Gabriele</field>
+<field name="theater">Teatro Costanzi</field>
 
+<field name="city">Rome</field>
+<field name="country">Italy</field>
+<field name="year">1904</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+figlia+di+Jorio+Gregorio+Baudot-Puente&amp;search_field=search</field>
 </doc>

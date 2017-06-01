@@ -7,6 +7,9 @@
 <field name="titleSort">joujoux</field>
 <field name="composer">Jean-Jacques Debillemont</field>
 <field name="composerSort">Debillemont, Jean-Jacques</field>
+<field name="librettist">Louis Noirot</field>
+<field name="librettistSort">Noirot, Louis</field>
+
 <field name="year">1853</field>
 <field name="date">1853</field><field name="theater">Grand-Théâtre</field>
 <field name="city">Dijon</field>

@@ -15,7 +15,11 @@
 		<field name="librettist">Aeschylus</field>
 		<field name="librettistSort">Aeschylus</field>
 		
-		
+		<field name="theater">Orchestre National de Radiodiffusion Française</field>
+		<field name="city">Paris</field>
+		<field name="country">France</field>
+		<field name="year">1961</field>
+		<field name="date">October 31, 1961</field>
 		
 		
 		<field name="subject">The Battle of Salamis</field>

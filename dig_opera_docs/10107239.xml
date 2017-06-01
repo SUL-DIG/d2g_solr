@@ -7,6 +7,9 @@
 <field name="titleSort">Nabuco</field>
 <field name="composer">Jean-Jacques Debillemont</field>
 <field name="composerSort">Debillemont, Jean-Jacques</field>
+
+<field name="librettist">Eugène Leterrier</field>
+<field name="librettistSort">Leterrier, Eugène</field>
 <field name="year">1871</field>
 <field name="date">1871</field><field name="theater">Théâtre Déjazet</field>
 <field name="city">Paris</field>

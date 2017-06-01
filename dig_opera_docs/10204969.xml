@@ -10,10 +10,11 @@
 		
 		<field name="composer">Alois Hnilička</field>
 		<field name="composerSort">Hnilička, Alois</field>
+		<field name="librettist">Karel Jaromír Erben</field>
+		<field name="librettistSort">Erben, Karel Jaromír</field>
 		
 		
-		
-		<field name="city">Usti nad Orlici</field>
+		<field name="city">Ústí nad Orlicí</field>
 		<field name="region">Vychodocesky Kraj</field>
 		<field name="country">Czech Republic</field>
 		<field name="subject">The Expulsion from the Garden of Eden</field>

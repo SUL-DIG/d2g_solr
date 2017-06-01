@@ -11,8 +11,10 @@
 <field name="date">1905</field>
 <field name="librettist">T. Lövenberg</field>
 <field name="librettistSort">Lövenberg, T.</field>
+<field name="librettist">Hermann Mesmer</field>
+<field name="librettistSort">Mesmer, Hermann</field>
 <field name="theater">Residenztheater</field>
-<field name="city">Kolobrzeg</field>
+<field name="city">Kołobrzeg</field>
 <field name="region">Zachodniopomorskie</field>
 <field name="country">Poland</field>
 <field name="subgenre">Operetta</field>

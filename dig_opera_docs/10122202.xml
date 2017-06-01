@@ -7,6 +7,10 @@
 <field name="titleSort">anel de Prata</field>
 <field name="composer">Francisco da Sá Noronha</field>
 <field name="composerSort">Noronha, Francisco da Sá</field>
+
+<field name="librettist">Artur Azevedo</field>
+<field name="librettistSort">Azevedo, Artur</field>
+
 <field name="year">1875</field>
 <field name="date">1875</field><field name="theater">Teatro Baquet</field>
 <field name="city">Oporto</field>

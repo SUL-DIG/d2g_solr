@@ -7,6 +7,8 @@
 <field name="titleSort">Marcellina</field>
 <field name="composer">Alberto Favara</field>
 <field name="composerSort">Favara, Alberto</field>
+<field name="librettist">Leopoldo Marenco</field>
+<field name="librettistSort">Marenco, Leopoldo</field>
 <field name="year">1884</field>
 <field name="date">1884</field><field name="theater">Teatro Dal Verme</field>
 <field name="city">Milan</field>

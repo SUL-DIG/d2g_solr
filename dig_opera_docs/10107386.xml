@@ -7,6 +7,10 @@
 <field name="titleSort">Prince Marcocana</field>
 <field name="composer">[Isidore Cohen] Isidore De Lara</field>
 <field name="composerSort">De Lara, Isidore [Isidore Cohen]</field>
+
+<field name="librettist">Louis Payen</field>
+<field name="librettistSort">Payen, Louis</field>
+
 <field name="year">1927</field>
 <field name="date">1927</field><field name="theater">Théâtre du Casino Grand Cercle</field>
 <field name="city">Aix-les-Bains</field>

@@ -7,14 +7,7 @@
 <field name="composer">Alfredo Antonio Jannotta</field>
 <field name="composerSort">Jannotta, Alfredo Antonio</field>
 
-<!--Old Information-->
-<field name="year">1887</field>
-<field name="date">1887</field>
-<field name="city">São Paulo</field>
-<field name="region">São Paulo</field>
-<field name="country">Brazil</field>
 
-<!--New information-->
 <field name="city">Cincinnati</field>
 <field name="region">Ohio</field>
 <field name="country">United States</field>

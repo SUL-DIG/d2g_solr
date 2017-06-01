@@ -4,22 +4,6 @@
 		<field name="title">La lampe d'argile</field>
 		<field name="titleSort">lampe d'argile</field>
 		
-<!--Old Information-->
-		<field name="year">1951</field>
-		<field name="month">April</field>
-		<field name="day">11</field>
-		<field name="date">April 11, 1951</field>
-		<field name="composer">André-François Marescotti</field>
-		<field name="composerSort">Marescotti, André-François</field>
-		
-		
-		<field name="theater">Orchestre Radio-Symphonique</field>
-		<field name="city">Strasbourg</field>
-		<field name="region">Bas-Rhin</field>
-		<field name="country">France</field>
-		<field name="subject">Parable of the Wise and Foolish Virgins</field>
-		
-<!--New Information-->
 		<field name="librettist">René Morax</field>
     <field name="librettistSort">Morax, René</field>
     <field name="theater">Théâtre du Jorat</field>

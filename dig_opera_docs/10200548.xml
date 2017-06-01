@@ -15,7 +15,13 @@
 		<field name="librettist">Primo Levi</field>
 		<field name="librettistSort">Levi, Primo</field>
 		
-		
+		<field name="theater">Cathedral of St. John the Divine</field>
+		<field name="city">New York</field>
+		<field name="region">New York</field>
+        <field name="country">United States</field>
+         <field name="year">1996</field>
+          <field name="date">November 16, 1996</field>
+         
 		
 		
 		
