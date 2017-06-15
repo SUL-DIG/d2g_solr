@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100120</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">María de Buenos Aires</field>
+        
+		<field name="titleSort">María de Buenos Aires</field>
+
+        
+		<field name="composer">Astor Piazzolla</field>
+              
+		<field name="composerSort">Piazzolla, Astor</field>
+
+
+        
+		<field name="librettist">Horacio Ferrer</field>
+        
+		<field name="librettistSort">Ferrer, Horacio</field>
+
+ 
+
+		<field name="year">1968</field>
+        
+		<field name="date">May 8, 1968</field>
+        
+		<field name="theater">Sala Planeta</field>
+        
+		<field name="city">Buenos Aires</field>
+              
+		<field name="region">Buenos Aires</field>
+        
+		<field name="country">Argentina</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=María+de+Buenos+Aires+Astor+Piazzolla&amp;search_field=search</field>
+          
+	</doc>
+
+</add>
+

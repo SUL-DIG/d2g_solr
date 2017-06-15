@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100154</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Das Theater der Wiederholungen</field>
+        
+		<field name="titleSort">Theater der Wiederholungen, Das</field>
+              
+		<field name="composer">Bernhard Lang</field>
+              
+		<field name="composerSort">Lang, Bernhard</field>
+
+
+        
+		<field name="librettist">Donatien Alphonse François, Marquis de Sade</field>
+        
+		<field name="librettistSort">Sade, Donatien Alphonse François, Marquis de </field>
+
+ 
+
+		<field name="librettist">Joris-Karl Huysmans</field>
+        
+		<field name="librettistSort">Huysmans, Joris-Karl</field>
+
+
+
+
+		<field name="librettist">Jakob Böhme</field>
+        
+		<field name="librettistSort">Böhme, Jakob</field>
+
+		<field name="librettist">Jakob Böhme</field>
+        
+		<field name="librettistSort">Böhme, Jakob</field>
+
+		<field name="librettist">William Seward Burroughs</field>
+        
+		<field name="librettistSort">Burroughs, William Seward </field>
+   
+		<field name="year">2003</field>
+        
+		<field name="date">October 4, 2003</field>
+        
+		<field name="theater">Helmut-List-Halle</field>
+        
+		<field name="city">Graz</field>
+               
+		<field name="region">Steiermark</field>
+        
+		<field name="country">Austria</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Theater+der+Wiederholungen+Bernhard+Lang&amp;search_field=search</field>
+        
+	</doc>
+
+</add>
+
+
+

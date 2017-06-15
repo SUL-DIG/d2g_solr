@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100116</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Le malentendu</field>
+        
+		<field name="titleSort">malentendu, Le</field>
+              
+		<field name="composer">Fabián Panisello</field>
+        
+        
+		<field name="composerSort">Panisello, Fabián</field>
+
+
+        
+		<field name="librettist">Juan Lucas</field>
+        
+		<field name="librettistSort">Lucas, Juan</field>
+
+ 
+  
+		<field name="librettist">Albert Camus</field>
+        
+		<field name="librettistSort">Camus, Albert</field>
+
+
+
+   
+		<field name="year">2016</field>
+        
+		<field name="date">April 7, 2016</field>
+        
+		<field name="theater">Teatro Colón</field>
+        
+		<field name="city">Buenos Aires</field>
+                
+		<field name="region">Buenos Aires</field>
+        
+		<field name="country">Argentina</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+malentendu+Fabián+Panisello&amp;search_field=search</field>
+        
+	</doc>
+
+</add>
+

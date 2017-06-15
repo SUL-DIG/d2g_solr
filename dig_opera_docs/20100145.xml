@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100145</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Wahnfried</field>
+        
+		<field name="titleSort">Wahnfried</field>
+        
+		<field name="composer">Avner Dorman</field>
+        
+        
+		<field name="composerSort">Dorman, Avner</field>
+
+
+        
+		<field name="librettist">Lutz Hübner</field>
+        
+		<field name="librettistSort">Hübner, Lutz</field>
+
+ 
+       
+		<field name="librettist">Sarah Nemitz</field>
+        
+		<field name="librettistSort">Nemitz, Sarah</field>
+
+
+
+   
+		<field name="year">2017</field>
+        
+		<field name="date">January 28, 2017</field>
+        
+		<field name="theater">Badisches Staatstheater</field>
+        
+		<field name="city">Karlsruhe</field>
+         
+		<field name="region">Baden-Württemberg</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wahnfried+Avner+Dorman&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+
+
+

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100133</field>
+        
+		<field name="genre">Opera</field>
+              
+		<field name="title">Speed Dating Tonight!</field>
+        
+		<field name="titleSort">Speed Dating Tonight!</field>
+              
+		<field name="composer">Michael Ching</field>
+         
+		<field name="composerSort">Ching, Michael</field>
+
+
+       
+		<field name="librettist">Michael Ching</field>
+        
+		<field name="librettistSort">Ching, Michael</field>
+
+ 
+   
+		<field name="year">2013</field>
+        
+		<field name="date">July 25, 2013</field>
+        
+		<field name="theater">Brevard Music Center</field>
+        
+		<field name="city">Brevard</field>
+        
+		<field name="region">North Carolina</field>
+        
+		<field name="country">United States</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Speed+Dating+Tonight!+Michael+Ching&amp;search_field=search</field>
+         
+	</doc>
+
+</add>
+

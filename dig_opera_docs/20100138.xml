@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100138</field>
+        
+		<field name="genre">Opera</field>
+             
+		<field name="title">Snödrottningen (Snow Queen)</field>
+        
+		<field name="titleSort">Snödrottningen (Snow Queen)</field>
+        
+		<field name="composer">Benjamin Staern</field>
+          
+		<field name="composerSort">Staern, Benjamin</field>
+
+
+        
+		<field name="librettist">Anelia Kadieva Jonsson</field>
+        
+		<field name="librettistSort">Jonsson, Anelia Kadieva</field>
+
+ 
+       
+		<field name="librettist">Hans Christian Andersen</field>
+        
+		<field name="librettistSort">Andersen, Hans Christian</field>
+
+
+
+   
+		<field name="year">2016</field>
+        
+		<field name="date">December 17, 2016</field>
+        
+		<field name="theater">Malmö Opera och Musikteater</field>
+        
+		<field name="city">Malmö</field>
+               
+		<field name="region">Skåne</field>
+        
+		<field name="country">Sweden</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Snödrottningen+Snow+Queen+Benjamin+Staern&amp;search_field=search</field>
+        
+	</doc>
+
+</add>
+
+
+

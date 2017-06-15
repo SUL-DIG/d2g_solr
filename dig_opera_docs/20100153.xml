@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100153</field>
+        
+		<field name="genre">Opera</field>
+        
+		<field name="title">Crash</field>
+        
+		<field name="titleSort">Crash</field>
+            
+		<field name="composer">Robert Ashley</field>
+              
+		<field name="composerSort">Ashley, Robert</field>
+
+
+        
+		<field name="librettist">Robert Ashley</field>
+        
+		<field name="librettistSort">Ashley, Robert</field>
+
+ 
+   
+		<field name="year">2014</field>
+                
+		<field name="date">April 10, 2014</field>
+        
+		<field name="theater">Whitney Museum</field>
+        
+		<field name="city">New York</field>
+            
+		<field name="region">New York</field>
+        
+		<field name="country">United States</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Crash+Robert+Ashley&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+

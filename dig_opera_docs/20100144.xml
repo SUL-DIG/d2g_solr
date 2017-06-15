@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100144</field>
+        
+		<field name="genre">Opera</field>
+              
+		<field name="title">W - The Truth Beyond</field>
+        
+		<field name="titleSort">W - The Truth Beyond</field>
+            
+		<field name="composer">Fredrik Sixten</field>
+         
+		<field name="composerSort">Sixten, Fredrik</field>
+
+
+        
+		<field name="librettist">Klas Abrahamsson</field>
+        
+		<field name="librettistSort">Abrahamsson, Klas</field>
+
+ 
+
+		<field name="librettist">Henning Mankell</field>
+       
+		<field name="librettistSort">Mankell, Henning</field>
+
+
+
+   
+		<field name="year">2016</field>
+        
+		<field name="date">July 15, 2016</field>
+        
+		<field name="theater">Universität Tübingen</field>
+        
+		<field name="city">Baden-Württemberg</field>
+            
+		<field name="region">Germany</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=W+The+Truth+Beyond+Fredrik+Sixten&amp;search_field=search</field>
+        
+	</doc>
+
+</add>
+
+
+

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100128</field>
+        
+		<field name="genre">Opera</field>
+                
+		<field name="title">Riders of the Purple Sage</field>
+        
+		<field name="titleSort">Riders of the Purple Sage</field>
+              
+		<field name="composer">Craig Bohmler</field>
+              
+		<field name="composerSort">Bohmler, Craig</field>
+
+
+        
+		<field name="librettist">Steven Mark Kohn</field>
+        
+		<field name="librettistSort">Kohn, Steven Mark</field>
+
+ 
+     
+		<field name="librettist">Zane Grey</field>
+        
+		<field name="librettistSort">Grey, Zane</field>
+
+
+
+   
+		<field name="year">2017</field>
+        
+		<field name="date">February 5, 2017</field>
+        
+		<field name="theater">Tucson Music Hall</field>
+        
+		<field name="city">Tucson</field>
+            
+		<field name="region">Arizona</field>
+        
+		<field name="country">United States</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Riders+of+the+Purple+Sage+Craig+Bohmler&amp;search_field=search</field>
+          
+	</doc>
+
+</add>
+
+
+

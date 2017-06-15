@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100124</field>
+        
+		<field name="genre">Opera</field>
+             
+		<field name="title">Notte per me luminosa</field>
+        
+		<field name="titleSort">Notte per me luminosa</field>
+               
+		<field name="composer">Marco Betta</field>
+        
+		<field name="composerSort">Betta, Marco</field>
+
+
+        
+		<field name="librettist">Dario Oliveri</field>
+        
+		<field name="librettistSort">Oliveri, Dario</field>
+
+ 
+   
+		<field name="librettist">Ludovico Ariosto</field>
+        
+		<field name="librettistSort">Ariosto, Ludovico</field>
+
+
+
+
+		<field name="librettist">Desiderius Erasmus</field>
+        
+		<field name="librettistSort">Erasmus, Desiderius</field>
+
+
+
+
+		<field name="librettist">Jorge Luis Borges</field>
+        
+		<field name="librettistSort">Borges, Jorge Luis</field>
+
+
+
+   
+		<field name="year">2016</field>
+        
+		<field name="date">December 2, 2016</field>
+        
+		<field name="theater">Teatro Comunale Luciano Pavarotti</field>
+        
+		<field name="city">Modena</field>
+        
+		<field name="region">Emilia-Romagna</field>
+        
+		<field name="country">Italy</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Notte+per+me+luminosa+Marco+Betta&amp;search_field=search</field>
+          
+	</doc>
+
+</add>
+
+
+

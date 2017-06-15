@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100143</field>
+        
+		<field name="genre">Opera</field>
+                
+		<field name="title">Tsarina</field>
+        
+		<field name="titleSort">Tsarina</field>
+              
+		<field name="composer">David Tukhmanov</field>
+               
+		<field name="composerSort">Tukhmanov, David</field>
+
+
+        
+		
+		<field name="librettist">Yuri Riashentsev</field>
+        
+		<field name="librettistSort">Riashentsev, Yuri</field>
+
+ 
+      
+		<field name="librettist">Galina Polidi</field>
+        
+		<field name="librettistSort">Polidi, Galina</field>
+
+
+
+   
+		<field name="year">2009</field>
+        
+		<field name="date">July 22, 2009</field>
+        
+		<field name="theater">Alexandrinsky Teatr</field>
+        
+		<field name="city">St. Petersburg</field>
+        
+        
+		<field name="country">Russia</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tsarina+David+Tukhmanov&amp;search_field=search</field>
+         
+	</doc>
+
+</add>
+

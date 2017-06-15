@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100122</field>
+        
+		<field name="genre">Opera</field>
+        
+        
+		<field name="title">Naga</field>
+        
+		<field name="titleSort">Naga</field>
+              
+		<field name="composer">Scott Wheeler</field>
+                
+		<field name="composerSort">Wheeler, Scott</field>
+
+
+        
+		<field name="librettist">Cerise Lim Jacobs</field>
+        
+		<field name="librettistSort">Jacobs, Cerise Lim</field>
+
+ 
+   
+		<field name="year">2016</field>
+        
+		<field name="date">September 10, 2016</field>
+        
+		<field name="theater">Cutler Majestic Theater</field>
+        
+		<field name="city">Boston</field>
+                
+		<field name="region">Massachusetts</field>
+        
+		<field name="country">United States</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Naga+Scott+Wheeler&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+

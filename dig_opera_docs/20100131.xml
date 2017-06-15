@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100131</field>
+        
+		<field name="genre">Opera</field>
+             
+		<field name="title">Soldier Songs</field>
+        
+		<field name="titleSort">Soldier Songs</field>
+               
+		<field name="composer">David T. Little</field>
+            
+		<field name="composerSort">Little, David T.</field>
+
+
+        
+		<field name="librettist">David T. Little</field>
+               
+		<field name="librettistSort">Little, David T.</field>
+
+ 
+   
+		<field name="year">2006</field>
+        
+		<field name="date">July 28, 2006</field>
+        
+		<field name="theater">City Theatre</field>
+        
+		<field name="city">Pittsburgh</field>
+               
+		<field name="region">Pennsylvania</field>
+        
+		<field name="country">United States</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Soldier+Songs+David+T.+Little&amp;search_field=search</field>
+        
+	</doc>
+
+</add>
+

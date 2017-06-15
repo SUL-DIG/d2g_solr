@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100130</field>
+        
+		<field name="genre">Opera</field>
+            
+		<field name="title">Shanghai</field>
+        
+		<field name="titleSort">Shanghai</field>
+             
+		<field name="composer">Line Tjørnhøj</field>
+              
+		<field name="composerSort">Tjørnhøj, Line</field>
+
+
+        
+		<field name="librettist">Erik Fägerborn</field>
+        
+		<field name="librettistSort">Fägerborn, Erik</field>
+
+ 
+   
+		<field name="year">2017</field>
+        
+		<field name="date">April 7, 2017</field>
+        
+		<field name="theater">GöteborgsOperan</field>
+        
+		<field name="city">Göteborg</field>
+              
+		<field name="region">Göteborg och Bohus</field>
+        
+		<field name="country">Sweden</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Shanghai+Line+Tjørnhøj&amp;search_field=search</field>
+        
+
+    
+	</doc>
+
+</add>
+

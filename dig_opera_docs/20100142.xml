@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100142</field>
+        
+		<field name="genre">Opera</field>
+             
+		<field name="title">Trompe-la-Mort</field>
+        
+		<field name="titleSort">Trompe-la-Mort</field>
+          
+		<field name="composer">Luca Francesconi</field>
+              
+		<field name="composerSort">Francesconi, Luca</field>
+
+
+        
+		<field name="librettist">Luca Francesconi</field>
+        
+		<field name="librettistSort">Francesconi, Luca</field>
+
+ 
+    
+		<field name="librettist">Honoré de Balzac</field>
+        
+		<field name="librettistSort">Balzac, Honoré de</field>
+
+
+
+   
+		<field name="year">2017</field>
+        
+		<field name="date">March 16, 2017</field>
+        
+		<field name="theater">Opéra</field>
+        
+		<field name="city"></field>
+        
+		<!-- We use the region field for states or regions. -->
+        
+		<field name="region">Paris</field>
+        
+		<field name="country">France</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Trompe-la-Mort+Luca+Francesconi&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+
+
+

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100135</field>
+        
+		<field name="genre">Opera</field>
+              
+		<field name="title">The Bone Feeder</field>
+        
+		<field name="titleSort">Bone Feeder, The</field>
+              
+		<field name="composer">Gareth Farr</field>
+             
+		<field name="composerSort">Farr, Gareth</field>
+
+
+
+		<field name="librettist">Renee Liang</field>
+        
+		<field name="librettistSort">Liang, Renee</field>
+
+ 
+   
+		<field name="year">2017</field>
+        
+		<field name="date">March 23, 2017</field>
+        
+		<field name="theater">ASB Waterfront Theatre</field>
+        
+		<field name="city">Auckland</field>
+              
+		<field name="country">New Zealand</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Bone+Feeder+Gareth+Farr&amp;search_field=search</field>
+          
+	</doc>
+
+</add>
+
+
+

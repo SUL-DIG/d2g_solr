@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100149</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Le Premier Cercle</field>
+        
+		<field name="titleSort">Premier Cercle, Le</field>
+        
+		<field name="composer">Gilbert Amy</field>
+              
+		<field name="composerSort">Amy, Gilbert</field>
+
+
+        
+		<field name="librettist">Gilbert Amy</field>
+        
+		<field name="librettistSort">Amy, Gilbert</field>
+
+ 
+
+		<field name="librettist">Aleksandr Solzhenitsyn</field>
+        
+		<field name="librettistSort">Solzhenitsyn, Aleksandr</field>
+
+
+
+   
+		<field name="year">1999</field>
+        
+		<field name="date">October 13, 1999</field>
+        
+		<field name="theater">Opéra</field>
+        
+		<field name="city">Lyon</field>
+        
+		<field name="region">Rhône du Lyonnais</field>
+        
+		<field name="country">France</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+Premier+Cercle+Gilbert+Amy&amp;search_field=search</field>
+        
+	</doc>
+
+</add>
+
+
+

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100148</field>
+        
+		<field name="genre">Opera</field>
+        
+        
+		<field name="title">The Wall of Cloud</field>
+        
+		<field name="titleSort">Wall of Cloud, The</field>
+             
+		<field name="composer">Raymond Deane</field>
+             
+		<field name="composerSort">Deane, Raymond</field>
+
+
+        
+		<field name="librettist">Raymond</field>
+        
+		<field name="librettistSort">Deane</field>
+
+ 
+   
+		<field name="year">1999</field>
+        
+		<field name="date">October 13, 1999</field>
+        
+		<field name="theater">Backstage Theatre</field>
+        
+		<field name="city">Longford</field>
+              
+		<field name="region">Leinster</field>
+        
+		<field name="country">Ireland</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Wall+of+Cloud+Raymond+Deane&amp;search_field=search</field>
+        
+
+
+	</doc>
+
+</add>
+

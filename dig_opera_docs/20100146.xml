@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100146</field>
+        
+		<field name="genre">Opera</field>
+        
+        
+		<field name="title">What Gets Kept</field>
+        
+		<field name="titleSort">What Gets Kept</field>
+            
+		<field name="composer">Frances Pollock</field>
+           
+		<field name="composerSort">Pollock, Frances</field>
+
+
+        
+		<field name="librettist">Vanessa Moody</field>
+        
+		<field name="librettistSort">Moody, Vanessa</field>
+
+ 
+   
+		<field name="year">2017</field>
+        
+		<field name="date">January 14, 2017</field>
+        
+		<field name="theater">Kennedy Center</field>
+        
+		<field name="city">Washington</field>
+           
+		<field name="region">District of Columbia</field>
+        
+		<field name="country">United States</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=What+Gets+Kept+Frances+Pollock&amp;search_field=search</field>
+        
+	</doc>
+
+</add>
+
+

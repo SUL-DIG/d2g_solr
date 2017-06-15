@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100137</field>
+        
+		<field name="genre">Opera</field>
+        
+        
+		<field name="title">The New Prince</field>
+        
+		<field name="titleSort">New Prince, The</field>
+               
+		<field name="composer">Mohammed Fairouz</field>
+                
+		<field name="composerSort">Fairouz, Mohammed</field>
+
+
+              
+		<field name="librettist">David Ignatius</field>
+        
+		<field name="librettistSort">Ignatius, David</field>
+
+ 
+      
+		<field name="librettist">Niccolò Machiavelli</field>
+        
+		<field name="librettistSort">Machiavelli, Niccolò</field>
+
+
+
+   
+		<field name="year">2017</field>
+        
+		<field name="date">March 24, 2017</field>
+        
+		<field name="theater">Stadsschouwburg</field>
+        
+		<field name="city">Amsterdam</field>
+               
+		<field name="region">Noord Holland</field>
+        
+		<field name="country">Netherlands</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+New+Prince+Mohammed+Fairouz&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+
+

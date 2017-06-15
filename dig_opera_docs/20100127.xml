@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100127</field>
+        
+		<field name="genre">Opera</field>
+                
+		<field name="title">Private View</field>
+        
+		<field name="titleSort">Private View</field>
+              
+		<field name="composer">Annelies Van Parys</field>
+                
+		<field name="composerSort">Parys, Annelies Van</field>
+
+
+        
+		<field name="librettist">Jen Hadfield</field>
+        
+		<field name="librettistSort">Hadfield, Jen</field>
+
+ 
+    
+		<field name="librettist">Alfred Hitchcock</field>
+        
+		<field name="librettistSort">Hitchcock, Alfred</field>
+
+
+
+   
+		<field name="year">2015</field>
+        
+		<field name="date">May 13, 2015</field>
+        
+		<field name="theater">Koninklijke Vlaamse Opera</field>
+        
+		<field name="city">Antwerp</field>
+   
+		<field name="region">Antwerpen</field>
+        
+		<field name="country">Belgium</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Private+View+Annelies+Van+Parys&amp;search_field=search</field>
+          
+	</doc>
+
+</add>
+
+
+

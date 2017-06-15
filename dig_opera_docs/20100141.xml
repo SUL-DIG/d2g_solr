@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100141</field>
+        
+		<field name="genre">Opera</field>
+             
+		<field name="title">Three Way</field>
+        
+		<field name="titleSort">Three Way</field>
+                
+		<field name="composer">Robert Paterson</field>
+          
+		<field name="composerSort">Paterson, Robert</field>
+
+
+        
+		<field name="librettist">David Cote</field>
+        
+		<field name="librettistSort">Cote, David</field>
+
+ 
+
+		<field name="year">2017</field>
+        
+		<field name="date">January 27, 2017</field>
+        
+		<field name="theater">James K. Polk Theater</field>
+        
+		<field name="city">Nashville</field>
+            
+		<field name="region">Tennessee</field>
+        
+		<field name="country">United States</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Three+Way+Robert+Paterson&amp;search_field=search</field>
+          
+	</doc>
+
+</add>
+

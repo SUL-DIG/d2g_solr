@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100118</field>
+        
+		<field name="genre">Opera</field>
+           
+		<field name="title">Loose, Wet, Perforated</field>
+        
+		<field name="titleSort">Loose, Wet, Perforated</field>
+             
+		<field name="composer">Nicholas P. Vines</field>
+              
+		<field name="composerSort">Vines, Nicholas P.</field>
+
+
+        
+		<field name="librettist">Nicholas P. Vines</field>
+        
+		<field name="librettistSort">Vines, Nicholas P.</field>
+
+ 
+   
+		<field name="year">2011</field>
+        
+		<field name="date">September 16, 2011</field>
+        
+		<field name="theater">Boston Conservatory</field>
+        
+		<field name="city">Boston</field>
+           
+		<field name="region">Massachusetts</field>
+        
+		<field name="country">United States</field>
+       
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Loose,+Wet,+Perforated+Nicholas+P.+Vines&amp;search_field=search</field>
+    
+	</doc>
+
+</add>
+

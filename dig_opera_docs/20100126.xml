@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100126</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Opposite the Catafalque</field>
+        
+		<field name="titleSort">Opposite the Catafalque</field>
+              
+		<field name="composer">Gábor Péter Mezei</field>
+             
+		<field name="composerSort">Mezei, Gábor Péter</field>
+
+
+        
+		<field name="librettist">Ferenc Anger</field>
+        
+		<field name="librettistSort">Anger, Ferenc</field>
+
+ 
+   
+		<field name="year">2017</field>
+        
+		<field name="date">March 3, 2017</field>
+        
+		<field name="theater">Magyar Állami Operaház</field>
+        
+		<field name="city">Budapest</field>
+        
+		<field name="country">Hungary</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Opposite+the+Catafalque+Gábor+Péter+Mezei&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+
+
