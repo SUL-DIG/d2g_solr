@@ -5,12 +5,12 @@
 <field name="genre">Operas</field>
 <field name="title">Bindra the Minstrel</field>
 <field name="titleSort">Bindra the Minstrel</field>
-<field name="composer">[Mary Frances Bumpers] Frances Allitsen</field>
-<field name="composerSort">Allitsen, Frances [Mary Frances Bumpers]</field>
+<field name="composer">[Mary Frances Bumpus] Frances Allitsen</field>
+<field name="composerSort">Allitsen, Frances [Mary Frances Bumpus]</field>
 <field name="year">1912</field>
 <field name="date">1912</field>
-<field name="librettist">[Mary Frances Bumpers] Frances Allitsen</field>
-<field name="librettistSort">Allitsen, Frances [Mary Frances Bumpers]</field>
+<field name="librettist">[Mary Frances Bumpus] Frances Allitsen</field>
+<field name="librettistSort">Allitsen, Frances [Mary Frances Bumpus]</field>
 
 <field name="city">London</field>
 <field name="region">Greater London</field>
