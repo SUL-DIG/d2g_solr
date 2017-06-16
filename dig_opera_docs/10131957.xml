@@ -6,9 +6,13 @@
 <field name="titleSort">Carmela</field>
 <field name="composer">Aranjo Vianna</field>
 <field name="composerSort">Vianna, Aranjo</field>
-<field name="year">1904</field>
-<field name="date">1904</field>
-<field name="city">Rio Grande</field>
+
+<field name="librettist">Leopoldo Brigido</field>
+<field name="librettistSort">Brigido, Leopoldo</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="theater">Teatro de São Pedro</field>
+<field name="city">Porto Alegre</field>
 <field name="region">Rio Grande do Sul</field>
 <field name="country">Brazil</field>
 

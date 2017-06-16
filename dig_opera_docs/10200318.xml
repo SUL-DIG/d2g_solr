@@ -10,10 +10,10 @@
 		<field name="date">1757</field>
 		<field name="composer">Nicola Sabatino</field>
 		<field name="composerSort">Sabatino, Nicola</field>
-		<field name="librettist">Nicola Giuseppe Morbilli</field>
-		<field name="librettistSort">Morbilli, Nicola Giuseppe</field>
+		<field name="librettist">Girolamo Santangelo</field>
+		<field name="librettistSort">Santangelo, Girolamo</field>
 		
-		
+		<field name="theater">Congregazione dell'Oratorio di San Filippo Neri</field>
 		<field name="city">Palermo</field>
 		<field name="region">Sicilia</field>
 		<field name="country">Italy</field>

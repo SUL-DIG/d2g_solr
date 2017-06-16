@@ -11,8 +11,11 @@
 		<field name="composer">Carlos Gomes</field>
 		<field name="composerSort">Gomes, Carlos</field>
 		
-		
-		
+		<field name="librettist">[Anibal Falcão] Albino Falanca</field>
+		<field name="librettistSort">Falanca, Albino [Anibal Falcão]</field>
+		<field name="librettist">Angelo Zanardini</field>
+		<field name="librettistSort">Zanardini, Angelo</field>
+			<field name="theater">Teatro Lyricoo</field>
 		<field name="city">Rio de Janeiro</field>
 		<field name="region">Rio de Janeiro</field>
 		<field name="country">Brazil</field>

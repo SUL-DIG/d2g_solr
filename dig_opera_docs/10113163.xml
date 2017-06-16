@@ -8,13 +8,13 @@
 <field name="composer">Benjamín Gutiérrez Sáenz</field>
 <field name="composerSort">Gutiérrez Sáenz, Benjamín</field>
 <field name="year">1982</field>
-<field name="date">1982</field>
+<field name="date">August 12, 1982</field>
 <field name="librettist">Ricardo Ulloa Berrenechea</field>
 <field name="librettistSort">Ulloa Berrenechea, Ricardo</field>
 <field name="librettist">Junji Kinoshita</field>
 <field name="librettistSort">Kinoshita, Junji</field>
 <field name="city">San Jose</field>
-
+<field name="theater">Teatro Nacional</field>
 <field name="country">Costa Rica</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+pájaro+del+crepúsculo+Benjamín+Gutiérrez+Sáenz&amp;search_field=search</field>

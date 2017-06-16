@@ -7,10 +7,11 @@
 <field name="titleSort">Arlequin Cendrillon, ou Le chien merveilleux</field>
 <field name="composer">Jerôme Joseph Momigny</field>
 <field name="composerSort">Momigny, Jerôme Joseph</field>
-<field name="year">1810</field>
-<field name="date">1810</field>
+<field name="year">1811</field>
+<field name="date">January 6, 1811</field>
 <field name="librettist">Maurice Ourry</field>
 <field name="librettistSort">Ourry, Maurice</field>
+<field name="theater">Salle de Jeux-Gymniques</field>
 <field name="city">Paris</field>
 <field name="country">France</field>
 

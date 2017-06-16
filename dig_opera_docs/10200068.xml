@@ -10,8 +10,7 @@
 		<field name="date">1800</field>
 		<field name="composer">Luigi De Santis</field>
 		<field name="composerSort">De Santis, Luigi</field>
-		
-		
+			<field name="theater">Teatro Nuovo sopra Toledo</field>
 		
 		<field name="city">Naples</field>
 		<field name="region">Campania</field>

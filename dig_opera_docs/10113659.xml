@@ -13,9 +13,10 @@
 <field name="librettistSort">Staré, Emil</field>
 
 <field name="city">Smíchov</field>
+<field name="region">Hlaví město</field>
 
 <field name="country">Czech Republic</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Skveta+partie+__+Hasler&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Skveta+partie+Hasler&amp;search_field=search</field>
 </doc>
 </add>

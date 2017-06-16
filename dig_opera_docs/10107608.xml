@@ -11,7 +11,7 @@
 <field name="date">1989</field>
 <field name="librettist">Leo Geerts</field>
 <field name="librettistSort">Geerts, Leo</field>
-
+<field name="theater">Muziektheater Transparant</field>
 <field name="city">Ghent</field>
 <field name="region">Flaanderen</field>
 <field name="country">Belgium</field>

@@ -13,7 +13,7 @@
 <field name="librettistSort">Bach, Elysée</field>
 <field name="librettist">__ Corny</field>
 <field name="librettistSort">Corny, __</field>
-
+<field name="theater">Théâtre de l'Alcazar</field>
 <field name="city">Marseille</field>
 <field name="region">Bouches-du-Rhône</field>
 <field name="country">France</field>

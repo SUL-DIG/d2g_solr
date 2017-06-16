@@ -4,18 +4,17 @@
 		<field name="genre">Oratorios</field>
 		<field name="title">Isacco figura del Redentore</field>
 		<field name="titleSort">Isacco figura del Redentore</field>
-		<field name="year">1776</field>
-		<field name="month">March</field>
-		<field name="day">10</field>
-		<field name="date">March 10, 1776</field>
+		<field name="year">1773</field>
+<field name="date">1773</field>
+		
 		<field name="composer">Josef Mysliveček</field>
 		<field name="composerSort">Mysliveček, Josef</field>
 		<field name="librettist">Pietro Metastasio</field>
 		<field name="librettistSort">Metastasio, Pietro</field>
+		<field name="theater">Congregazions dell'Oratorio</field>
 		
-		
-		<field name="city">Florence</field>
-		<field name="region">Toscana</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
 		<field name="country">Italy</field>
 		<field name="subject">Abraham and Isaac</field>
 		
