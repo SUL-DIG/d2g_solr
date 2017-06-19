@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100655</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Un Troc</field>
 <field name="titleSort">Troc</field>
 <field name="composer">Joseph Ancessy</field>

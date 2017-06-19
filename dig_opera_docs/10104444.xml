@@ -2,9 +2,15 @@
 <add>
 <doc>
 <field name="id">10104444</field>
+<<<<<<< Updated upstream
 <field name="genre">Operas</field>
 <field name="title">Karolinka a lhár (Caroline and the Liar)</field>
 <field name="titleSort">Karolinka a lhár (Caroline and the Liar)</field>
+=======
+<field name="genre">Opera</field>
+<field name="title">Karolinka a Lhár (Caroline and the Liar)</field>
+<field name="titleSort">Karolinka a Lhár (Caroline and the Liar)</field>
+>>>>>>> Stashed changes
 <field name="composer">Jarmil Burghauser</field>
 <field name="composerSort">Burghauser, Jarmil</field>
 <field name="year">1955</field>

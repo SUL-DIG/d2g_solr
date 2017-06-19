@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10121410</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Les nymphes de Diane</field>
 <field name="titleSort">nymphes de Diane</field>
 <field name="composer">Jean-Baptiste Moulinghem</field>

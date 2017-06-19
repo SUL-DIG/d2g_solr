@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101681</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La sorciera di Benevento</field>
 <field name="titleSort">sorciera di Benevento</field>
 <field name="composer">Giuseppe Balducci</field>

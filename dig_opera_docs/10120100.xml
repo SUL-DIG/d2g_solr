@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10120100</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Ariodant</field>
 <field name="titleSort">Ariodant</field>
 <field name="composer">Étienne-Nicolas Méhul</field>

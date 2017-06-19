@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123269</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il giudizio d'Apollo</field>
 <field name="titleSort">giudizio d'Apollo</field>
 <field name="composer">Giuseppe Parisa</field>

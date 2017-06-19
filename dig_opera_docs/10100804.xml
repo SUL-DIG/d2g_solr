@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100804</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La cantatrice</field>
 <field name="titleSort">cantatrice</field>
 <field name="composer">Camillo Angelini</field>

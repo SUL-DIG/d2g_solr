@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10111810</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Die Dame mit dem Regenbogen</field>
 <field name="titleSort">Dame mit dem Regenbogen</field>
 <field name="composer">[Max Winterfeld] Jean Gilbert</field>

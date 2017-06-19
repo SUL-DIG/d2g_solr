@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100972</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il cacciatore delle Alpi</field>
 <field name="titleSort">cacciatore delle Alpi</field>
 <field name="composer">Nicola d'Arienzo</field>

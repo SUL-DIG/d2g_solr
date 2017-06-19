@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101921</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La farce de Maître Pathelin</field>
 <field name="titleSort">farce de Maître Pathelin</field>
 <field name="composer">Henry Barraud</field>

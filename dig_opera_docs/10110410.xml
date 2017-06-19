@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110410</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Semele</field>
 <field name="titleSort">Semele</field>
 <field name="composer">Johann Wolfgang Franck</field>

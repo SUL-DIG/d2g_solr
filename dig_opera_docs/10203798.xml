@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203798</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">La samaritaine</field>
 		<field name="titleSort">samaritaine</field>
 		<field name="year">1901</field>

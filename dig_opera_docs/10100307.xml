@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100307</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Die Abreise</field>
 <field name="titleSort">Abreise</field>
 <field name="composer">Eugen d'Albert</field>

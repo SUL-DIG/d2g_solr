@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132672</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Der Dreigroschenoper</field>
 <field name="titleSort">Dreigroschenoper</field>
 <field name="composer">Kurt Weill</field>

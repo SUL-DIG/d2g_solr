@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10111222</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Die heimliche Ehe (Das Löwe von Venedig)</field>
 <field name="titleSort">heimliche Ehe (Das Löwe von Venedig)</field>
 <field name="composer">[Heinrich Köselitz] Peter Gast</field>

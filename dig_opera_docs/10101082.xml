@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101082</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Moonflowers</field>
 <field name="titleSort">Moonflowers</field>
 <field name="composer">Richard Arnell</field>

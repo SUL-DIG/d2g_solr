@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111234</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">The Hollow</field>
 <field name="titleSort">Hollow</field>
 <field name="composer">Keith Gates</field>

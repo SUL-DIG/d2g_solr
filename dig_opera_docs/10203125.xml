@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203125</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Oratoriu de Crăciun</field>
 		<field name="titleSort">Oratoriu de Crăciun</field>
 		<field name="year">1979</field>

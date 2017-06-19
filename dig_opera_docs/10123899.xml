@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123899</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">L'épave</field>
 <field name="titleSort">épave</field>
 <field name="composer">Émile Pessard</field>

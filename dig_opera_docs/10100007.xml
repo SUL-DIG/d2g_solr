@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100007</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le danseur de corde</field>
 <field name="titleSort">danseur de corde</field>
 <field name="composer">Louis Abadie</field>

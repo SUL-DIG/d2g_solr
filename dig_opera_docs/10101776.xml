@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101776</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">The Toy Shop</field>
 <field name="titleSort">Toy Shop</field>
 <field name="composer">Seymour Barab</field>

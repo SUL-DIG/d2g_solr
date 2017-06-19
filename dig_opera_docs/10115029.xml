@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10115029</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Les rendez-vous bourgeois</field>
 <field name="titleSort">rendez-vous bourgeois</field>
 <field name="composer">Nicolas Isouard</field>

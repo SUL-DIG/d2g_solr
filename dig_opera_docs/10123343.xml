@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10123343</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">The Black Squire</field>
 <field name="titleSort">Black Squire</field>
 <field name="composer">[Joseph Williams] Florian Pascal</field>

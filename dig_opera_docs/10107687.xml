@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10107687</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La sentinelle</field>
 <field name="titleSort">sentinelle</field>
 <field name="composer">Guillaume De Windt</field>

@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100853</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Der Fürst und sein Volk</field>
 <field name="titleSort">Fürst und sein Volk</field>
 <field name="composer">Ferdinand d'Antoine</field>

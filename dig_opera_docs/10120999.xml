@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10120999</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Robinson</field>
 <field name="titleSort">Robinson</field>
 <field name="composer">Jean-Baptiste-Édouard Montaubry</field>

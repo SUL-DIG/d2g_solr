@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10123264</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La veillée</field>
 <field name="titleSort">veillée</field>
 <field name="composer">Claude Joseph Paris</field>

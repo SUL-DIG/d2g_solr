@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101334</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Li sapienti ridicoli</field>
 <field name="titleSort">sapienti ridicoli</field>
 <field name="composer">Gennaro Astarita</field>

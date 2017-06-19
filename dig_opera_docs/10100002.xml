@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100002</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">The Knickerbocker Girl</field>
 <field name="titleSort">Knickerbocker Girl</field>
 <field name="composer">Alfred E. Aarons</field>

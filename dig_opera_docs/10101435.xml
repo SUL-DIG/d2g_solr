@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101435</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Les pommes d'or</field>
 <field name="titleSort">pommes d'or</field>
 <field name="composer">Edmond Audran</field>

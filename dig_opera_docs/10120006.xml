@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10120006</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il principe corsaro</field>
 <field name="titleSort">principe corsaro</field>
 <field name="composer">Prospero Mazzi</field>

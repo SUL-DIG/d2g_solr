@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132322</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Un songe d'une nuit d'été</field>
 <field name="titleSort">songe d'une nuit d'été</field>
 <field name="composer">Victor Vreuls</field>

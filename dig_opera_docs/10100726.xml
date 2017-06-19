@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100726</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le tre fanatiche</field>
 <field name="titleSort">tre fanatiche</field>
 <field name="composer">Gaetano Andreozzi</field>

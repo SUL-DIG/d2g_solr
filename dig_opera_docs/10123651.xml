@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123651</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Die schwarze Maske</field>
 <field name="titleSort">schwarze Maske</field>
 <field name="composer">Krzysztof Penderecki</field>

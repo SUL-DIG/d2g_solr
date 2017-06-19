@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10115060</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le feu aux poudres</field>
 <field name="titleSort">feu aux poudres</field>
 <field name="composer">Georg Jacobi</field>

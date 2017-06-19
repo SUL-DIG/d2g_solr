@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10101694</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">The Enchantress</field>
 <field name="titleSort">Enchantress</field>
 <field name="composer">Michael William Balfe</field>

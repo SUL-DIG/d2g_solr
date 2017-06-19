@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101063</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Miss Lucy in Town</field>
 <field name="titleSort">Miss Lucy in Town</field>
 <field name="composer">Thomas Augustine Arne</field>

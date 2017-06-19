@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101522</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le damigelle di Saint Cyr</field>
 <field name="titleSort">damigelle di Saint Cyr</field>
 <field name="composer">Cesare Bacchini</field>

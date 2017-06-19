@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10101166</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Yolanda</field>
 <field name="titleSort">Yolanda</field>
 <field name="composer">Vicente Arregui Garay</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111102</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Maria Antonietta</field>
 <field name="titleSort">Maria Antonietta</field>
 <field name="composer">Terenzio Gargiulo</field>

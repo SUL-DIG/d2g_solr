@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10131500</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Der blaue Schmetterling</field>
 <field name="titleSort">blaue Schmetterling</field>
 <field name="composer">Maximilian Ulbrich</field>

@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10124485</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le roman</field>
 <field name="titleSort">roman</field>
 <field name="composer">Charles-Henri Plantade</field>

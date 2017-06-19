@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123940</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Les rosières du Faubourg Saint-Denis</field>
 <field name="titleSort">rosières du Faubourg Saint-Denis</field>
 <field name="composer">Albert Petit</field>

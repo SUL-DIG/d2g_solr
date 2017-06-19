@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10130810</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La botte secrète</field>
 <field name="titleSort">botte secrète</field>
 <field name="composer">Claude Terrasse</field>

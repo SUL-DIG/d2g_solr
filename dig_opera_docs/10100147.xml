@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100147</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le proscrit, ou Le tribunal invisible</field>
 <field name="titleSort">proscrit, ou tribunal invisible</field>
 <field name="composer">Adolphe Adam</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111078</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La fata capricciosa</field>
 <field name="titleSort">fata capricciosa</field>
 <field name="composer">Francesco Gardi</field>

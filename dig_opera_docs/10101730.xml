@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101730</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Yanko</field>
 <field name="titleSort">Yanko</field>
 <field name="composer">Primo Bandini</field>

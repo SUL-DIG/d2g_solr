@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101476</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">The Stepmother</field>
 <field name="titleSort">Stepmother</field>
 <field name="composer">Walter Austin</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123787</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le songe d'un soir d'été</field>
 <field name="titleSort">songe d'un soir d'été</field>
 <field name="composer">Amélie Péronnet</field>

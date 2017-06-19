@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10123842</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le fruit défendu</field>
 <field name="titleSort">fruit défendu</field>
 <field name="composer">Louis-Luc Loiseau de Persuis</field>

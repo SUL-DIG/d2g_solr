@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10123845</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La nuit espagnole</field>
 <field name="titleSort">nuit espagnole</field>
 <field name="composer">Louis-Luc Loiseau de Persuis</field>

@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100096</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La reine des fées</field>
 <field name="titleSort">reine des fées</field>
 <field name="composer">Paul d'Acosta</field>

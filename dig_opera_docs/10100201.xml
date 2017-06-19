@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100201</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Potemkin an der Donau</field>
 <field name="titleSort">Potemkin an der Donau</field>
 <field name="composer">Ugo Afferni</field>

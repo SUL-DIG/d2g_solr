@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100312</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Der Improvisator</field>
 <field name="titleSort">Improvisator</field>
 <field name="composer">Eugen d'Albert</field>

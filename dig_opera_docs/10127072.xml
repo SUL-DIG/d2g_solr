@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10127072</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Der blaue Montag</field>
 <field name="titleSort">blaue Montag</field>
 <field name="composer">Friedrich Wilhelm Rust</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110999</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il conte di Montreal</field>
 <field name="titleSort">conte di Montreal</field>
 <field name="composer">Riccardo Gandolfi</field>

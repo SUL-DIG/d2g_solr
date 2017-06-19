@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110201</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La lutte pour l'enfant</field>
 <field name="titleSort">lutte pour l'enfant</field>
 <field name="composer">Émile Fontenelle</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100190</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Der Spion</field>
 <field name="titleSort">Spion</field>
 <field name="composer">Karl Franz Adolfi</field>

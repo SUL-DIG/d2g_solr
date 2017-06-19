@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10132242</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le nid de cigognes</field>
 <field name="titleSort">nid de cigognes</field>
 <field name="composer">Adolphe Vogel</field>

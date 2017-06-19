@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123835</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Cola di Rienzi</field>
 <field name="titleSort">Cola di Rienzi</field>
 <field name="composer">Wenceslao Persichini</field>

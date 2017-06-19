@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10123218</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Amfitrion</field>
 <field name="titleSort">Amfitrion</field>
 <field name="composer">Boris Papandopulo</field>

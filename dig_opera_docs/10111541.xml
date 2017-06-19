@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10111541</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La battaglia di Lepanto</field>
 <field name="titleSort">battaglia di Lepanto</field>
 <field name="composer">Tomás Genovés y Lapetra</field>

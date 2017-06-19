@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10107777</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Orfeo</field>
 <field name="titleSort">Orfeo</field>
 <field name="composer">Giuseppe Di Dia</field>

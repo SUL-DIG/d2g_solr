@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101836</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le nez de carton</field>
 <field name="titleSort">nez de carton</field>
 <field name="composer">Frédéric-Étienne Barbier</field>

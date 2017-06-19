@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100274</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Les jeux floraux</field>
 <field name="titleSort">jeux floraux</field>
 <field name="composer">Léopold Aimon</field>

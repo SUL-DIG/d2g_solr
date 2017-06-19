@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100255</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La zingara</field>
 <field name="titleSort">zingara</field>
 <field name="composer">Corradino d'Aguillo</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100370</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il concilio de' pianeti</field>
 <field name="titleSort">concilio de' pianeti</field>
 <field name="composer">Tomaso Albinoni</field>

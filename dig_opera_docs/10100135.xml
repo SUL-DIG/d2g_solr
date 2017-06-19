@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100135</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Micheline, ou L'heure d'esprit</field>
 <field name="titleSort">Micheline, ou L'heure d'esprit</field>
 <field name="composer">Adolphe Adam</field>

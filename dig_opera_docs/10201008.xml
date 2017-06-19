@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10201008</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Il disinganno</field>
 		<field name="titleSort">disinganno</field>
 		<field name="year">1799</field>

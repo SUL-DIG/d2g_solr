@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10120115</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le jeune sage et le vieux fou</field>
 <field name="titleSort">jeune sage et le vieux fou</field>
 <field name="composer">Étienne-Nicolas Méhul</field>

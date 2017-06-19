@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10200331</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Balada steagului (Ballad to the Standard)</field>
 		<field name="titleSort">Balada steagului (Ballad to the Standard)</field>
 		<field name="year">1961</field>

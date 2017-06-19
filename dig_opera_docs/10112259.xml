@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10112259</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La chasse royale</field>
 <field name="titleSort">chasse royale</field>
 <field name="composer">Jules Godefroid</field>

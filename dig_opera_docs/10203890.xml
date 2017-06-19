@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203890</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">San Martiniano</field>
 		<field name="titleSort">San Martiniano</field>
 		<field name="year">1700</field>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203539</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">The Queen of Sheba</field>
 		<field name="titleSort">Queen of Sheba</field>
 		<field name="year">1900</field>

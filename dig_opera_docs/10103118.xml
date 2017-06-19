@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10103118</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La jolie fille de Perth</field>
 <field name="titleSort">jolie fille de Perth</field>
 <field name="composer">Georges Bizet</field>

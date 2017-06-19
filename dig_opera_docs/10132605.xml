@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10132605</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Les revenants bretons</field>
 <field name="titleSort">revenants bretons</field>
 <field name="composer">Jean-Baptiste Weckerlin</field>

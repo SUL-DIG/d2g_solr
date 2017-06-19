@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101220</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Der fromme Silvanus</field>
 <field name="titleSort">fromme Silvanus</field>
 <field name="composer">Leo Ascher</field>

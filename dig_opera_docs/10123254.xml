@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10123254</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Les deux portraits</field>
 <field name="titleSort">deux portraits</field>
 <field name="composer">Paolo Francesco Parenti</field>

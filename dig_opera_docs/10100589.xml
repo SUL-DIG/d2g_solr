@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100589</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">The European Story</field>
 <field name="titleSort">European Story</field>
 <field name="composer">Geoffrey Alvarez</field>

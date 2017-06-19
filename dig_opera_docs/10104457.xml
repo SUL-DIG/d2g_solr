@@ -2,9 +2,15 @@
 <add>
 <doc>
 <field name="id">10104457</field>
+<<<<<<< Updated upstream
 <field name="genre">Operas</field>
 <field name="title">Mastičkář (The Quack)</field>
 <field name="titleSort">Mastičkář (The Quack)</field>
+=======
+<field name="genre">Opera</field>
+<field name="title">Mastickár (The Quack)</field>
+<field name="titleSort">Mastickár (The Quack)</field>
+>>>>>>> Stashed changes
 <field name="composer">Emil František Burian</field>
 <field name="composerSort">Burian, Emil František</field>
 <field name="year">1928</field>

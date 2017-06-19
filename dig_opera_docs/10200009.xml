@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10200009</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">A la Virgen de los Dolores</field>
 		<field name="titleSort">la Virgen de los Dolores</field>
 		<field name="year">1787</field>

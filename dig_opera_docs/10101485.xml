@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101485</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La donna di spirito</field>
 <field name="titleSort">donna di spirito</field>
 <field name="composer">Giovanni Giacomo Avanzini</field>

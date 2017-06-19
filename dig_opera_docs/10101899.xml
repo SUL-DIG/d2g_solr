@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101899</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">The Deuce is in Her</field>
 <field name="titleSort">Deuce is in Her</field>
 <field name="composer">John Barnett</field>

@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10111023</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Les deux contrats de mariage</field>
 <field name="titleSort">deux contrats de mariage</field>
 <field name="composer">Manuel García</field>

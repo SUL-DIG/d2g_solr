@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10115024</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le magicien sans magie</field>
 <field name="titleSort">magicien sans magie</field>
 <field name="composer">Nicolas Isouard</field>

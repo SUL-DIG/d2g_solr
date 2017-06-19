@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10111231</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">L'opéra aux fenêtres</field>
 <field name="titleSort">opéra aux fenêtres</field>
 <field name="composer">Léon Gastinel</field>

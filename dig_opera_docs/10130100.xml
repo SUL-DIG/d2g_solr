@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10130100</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La ruina del mondo</field>
 <field name="titleSort">ruina del mondo</field>
 <field name="composer">Alessandro Stradella</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123540</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Das Irrlicht</field>
 <field name="titleSort">Irrlicht</field>
 <field name="composer">Robert Payr</field>

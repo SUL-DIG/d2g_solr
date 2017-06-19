@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111721</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La bufera</field>
 <field name="titleSort">bufera</field>
 <field name="composer">Gialdino Gialdini</field>

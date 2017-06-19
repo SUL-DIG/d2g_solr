@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10115004</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le billet de loterie</field>
 <field name="titleSort">billet de loterie</field>
 <field name="composer">Nicolas Isouard</field>

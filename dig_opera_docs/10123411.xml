@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123411</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">I tredici</field>
 <field name="titleSort">tredici</field>
 <field name="composer">Carlo Enrico Pasta</field>

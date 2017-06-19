@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10118005</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La mort d'Adam</field>
 <field name="titleSort">mort d'Adam</field>
 <field name="composer">Jean-François Le Sueur</field>

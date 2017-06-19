@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10102000</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il trionfo di Venere in Ida</field>
 <field name="titleSort">trionfo di Venere in Ida</field>
 <field name="composer">Giovanni Battista Bassani</field>

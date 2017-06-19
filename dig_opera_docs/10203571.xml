@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203571</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">La regina Ester</field>
 		<field name="titleSort">regina Ester</field>
 		<field name="year">1691</field>

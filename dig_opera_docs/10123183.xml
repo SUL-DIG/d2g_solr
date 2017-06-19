@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10123183</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Clara</field>
 <field name="titleSort">Clara</field>
 <field name="composer">Giovanni Panizza-Pugnalini</field>

@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10114111</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">L'illusion</field>
 <field name="titleSort">illusion</field>
 <field name="composer">Ferdinand Hérold</field>

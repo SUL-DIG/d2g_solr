@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100019</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Peter und Aennchen</field>
 <field name="titleSort">Peter und Aennchen</field>
 <field name="composer">Johann Christian Abeille</field>

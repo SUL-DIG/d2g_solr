@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101156</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">L'Indienne</field>
 <field name="titleSort">Indienne</field>
 <field name="composer">Joseph Arquier</field>

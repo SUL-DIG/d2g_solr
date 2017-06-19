@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123897</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La dame de trèfle</field>
 <field name="titleSort">dame de trèfle</field>
 <field name="composer">Émile Pessard</field>

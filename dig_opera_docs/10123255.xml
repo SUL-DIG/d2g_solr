@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10123255</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">L'homme et le malheur</field>
 <field name="titleSort">homme et le malheur</field>
 <field name="composer">Paolo Francesco Parenti</field>

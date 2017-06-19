@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100976</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La figlia del diavolo</field>
 <field name="titleSort">figlia del diavolo</field>
 <field name="composer">Nicola d'Arienzo</field>

@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100095</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Godefroi van Bouillon</field>
 <field name="titleSort">Godefroi van Bouillon</field>
 <field name="composer">Paul d'Acosta</field>

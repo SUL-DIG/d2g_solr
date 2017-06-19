@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111421</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">The Enraged Musician</field>
 <field name="titleSort">Enraged Musician</field>
 <field name="composer">Joseph Gehot</field>

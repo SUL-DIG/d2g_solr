@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10110205</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Hécuba</field>
 <field name="titleSort">Hécuba</field>
 <field name="composer">Granges de Fontenelle</field>

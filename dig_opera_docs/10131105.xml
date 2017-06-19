@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10131105</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La bretonne</field>
 <field name="titleSort">bretonne</field>
 <field name="composer">Raoul Torrent</field>

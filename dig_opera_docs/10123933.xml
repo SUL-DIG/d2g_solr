@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123933</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le avventure di Giovanni lo saputo</field>
 <field name="titleSort">avventure di Giovanni lo saputo</field>
 <field name="composer">Giovanni Petillo</field>

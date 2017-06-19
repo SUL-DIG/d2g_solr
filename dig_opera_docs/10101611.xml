@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101611</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il cavaliere nero</field>
 <field name="titleSort">cavaliere nero</field>
 <field name="composer">Luigi Badia</field>

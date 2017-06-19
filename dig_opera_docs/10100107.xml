@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100107</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Cagliostro</field>
 <field name="titleSort">Cagliostro</field>
 <field name="composer">Adolphe Adam</field>

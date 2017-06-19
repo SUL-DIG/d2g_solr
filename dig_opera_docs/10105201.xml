@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10105201</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le marquis de Carabas</field>
 <field name="titleSort">marquis de Carabas</field>
 <field name="composer">Robert Casa</field>

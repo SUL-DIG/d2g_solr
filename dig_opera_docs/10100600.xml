@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100600</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La favola della principessa</field>
 <field name="titleSort">favola della principessa</field>
 <field name="composer">Amadeo Amadei</field>

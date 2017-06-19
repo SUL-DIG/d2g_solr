@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123937</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La petite tonkinoise</field>
 <field name="titleSort">petite tonkinoise</field>
 <field name="composer">Albert Petit</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100285</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le mariage au lorgnon</field>
 <field name="titleSort">mariage au lorgnon</field>
 <field name="composer">Giulio Alary</field>

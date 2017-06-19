@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10111840</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Der verliebte Herzog</field>
 <field name="titleSort">verliebte Herzog</field>
 <field name="composer">[Max Winterfeld] Jean Gilbert</field>

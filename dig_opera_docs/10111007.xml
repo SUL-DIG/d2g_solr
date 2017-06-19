@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111007</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Tout Paris</field>
 <field name="titleSort">Tout Paris</field>
 <field name="composer">Louis Ganne</field>

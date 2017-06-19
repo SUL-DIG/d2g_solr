@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123990</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">I pazzi improvvisati</field>
 <field name="titleSort">pazzi improvvisati</field>
 <field name="composer">Brizio Petrucci</field>

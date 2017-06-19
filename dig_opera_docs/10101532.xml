@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10101532</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Przygoda króla Artura</field>
 <field name="titleSort">Przygoda króla Artura</field>
 <field name="composer">Grażyna Bacewicz</field>

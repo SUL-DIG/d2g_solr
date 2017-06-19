@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10121240</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le contrat d'amour</field>
 <field name="titleSort">contrat d'amour</field>
 <field name="composer">Henry Morisson</field>

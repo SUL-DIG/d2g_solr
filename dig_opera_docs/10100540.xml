@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100540</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Am grünen Nil</field>
 <field name="titleSort">Am grünen Nil</field>
 <field name="composer">Franz Allmeder</field>

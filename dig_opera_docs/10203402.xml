@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203402</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">La piaghe di Egitto</field>
 		<field name="titleSort">piaghe di Egitto</field>
 		<field name="year">1801</field>

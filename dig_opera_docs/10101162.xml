@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101162</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La suite du médecin Turc</field>
 <field name="titleSort">suite du médecin Turc</field>
 <field name="composer">Joseph Arquier</field>

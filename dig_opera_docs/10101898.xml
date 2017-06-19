@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101898</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">The Convent, or The Pet of the Petticoats</field>
 <field name="titleSort">Convent, or Pet of the Petticoats</field>
 <field name="composer">John Barnett</field>

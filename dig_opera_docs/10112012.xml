@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10112012</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La vestale</field>
 <field name="titleSort">vestale</field>
 <field name="composer">Giuseppe Giordani</field>

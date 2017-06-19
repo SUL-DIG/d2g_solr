@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10102514</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La damnation de Faust</field>
 <field name="titleSort">damnation de Faust</field>
 <field name="composer">Hector Berlioz</field>

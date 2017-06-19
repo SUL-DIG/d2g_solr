@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100825</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il mondo festeggiante</field>
 <field name="titleSort">mondo festeggiante</field>
 <field name="composer">Domenico Anglesi</field>

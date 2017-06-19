@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123124</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La fata del mare</field>
 <field name="titleSort">fata del mare</field>
 <field name="composer">Vittorio Palma</field>

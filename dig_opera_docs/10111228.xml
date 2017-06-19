@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10111228</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le (roi) Barde</field>
 <field name="titleSort">Barde</field>
 <field name="composer">Léon Gastinel</field>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10203120</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Oratorio sacro al nacimiento de Christo seсor nuestro</field>
 		<field name="titleSort">Oratorio sacro al nacimiento de Christo seсor nuestro</field>
 		<field name="year">1704</field>

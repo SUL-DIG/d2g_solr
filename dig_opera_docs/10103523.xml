@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10103523</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La leggenda di Natale</field>
 <field name="titleSort">leggenda di Natale</field>
 <field name="composer">Giuseppe Bonincelli</field>

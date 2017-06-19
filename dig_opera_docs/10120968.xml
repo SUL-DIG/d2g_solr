@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10120968</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le planteur</field>
 <field name="titleSort">planteur</field>
 <field name="composer">Hippolyte Monpou</field>

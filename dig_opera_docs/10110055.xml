@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10110055</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Das Orackel</field>
 <field name="titleSort">Orackel</field>
 <field name="composer">Friedrich Gottlob Fleischer</field>

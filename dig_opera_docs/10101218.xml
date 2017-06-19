@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101218</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Es gibt nur a Kaiserstadt</field>
 <field name="titleSort">Es gibt nur a Kaiserstadt</field>
 <field name="composer">Leo Ascher</field>

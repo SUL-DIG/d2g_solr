@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111894</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Les eaux de Merlin</field>
 <field name="titleSort">eaux de Merlin</field>
 <field name="composer">Jean-Claude Gillier</field>

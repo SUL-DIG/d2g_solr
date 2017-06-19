@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10102216</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Les petits savoyards</field>
 <field name="titleSort">petits savoyards</field>
 <field name="composer">Maurice Bellefleur</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10103102</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Der Bergsee</field>
 <field name="titleSort">Bergsee</field>
 <field name="composer">Julius Bittner</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100029</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le due zingare simili</field>
 <field name="titleSort">due zingare simili</field>
 <field name="composer">Girolamo Abos</field>

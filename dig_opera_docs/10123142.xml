@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123142</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Die Hirtenfeyer</field>
 <field name="titleSort">Hirtenfeyer</field>
 <field name="composer">Stefan Paluselli</field>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10202554</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">El Machabeo de la ley de gracia, San Serapio mártyr</field>
 		<field name="titleSort">Machabeo de la ley de gracia, San Serapio mártyr</field>
 		<field name="year">1731</field>

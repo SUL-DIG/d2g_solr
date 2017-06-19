@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10113400</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Les treize</field>
 <field name="titleSort">treize</field>
 <field name="composer">Fromental Halévy</field>

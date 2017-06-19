@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10201972</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">In nome del Padre</field>
 		<field name="titleSort">In nome del Padre</field>
 		<field name="year">2001</field>

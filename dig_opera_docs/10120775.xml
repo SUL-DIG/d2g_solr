@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10120775</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La lanterne magique</field>
 <field name="titleSort">lanterne magique</field>
 <field name="composer">Karel Miry</field>

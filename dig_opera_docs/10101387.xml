@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101387</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le premier jour de bonheur</field>
 <field name="titleSort">premier jour de bonheur</field>
 <field name="composer">Daniel-François-Esprit Auber</field>

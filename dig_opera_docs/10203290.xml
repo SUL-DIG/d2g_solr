@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10203290</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">La passione nell'orto</field>
 		<field name="titleSort">passione nell'orto</field>
 		<field name="year">1708</field>

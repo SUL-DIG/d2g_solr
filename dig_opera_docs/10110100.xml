@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10110100</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Peter und Kathinka (Pierre et Cathérine)</field>
 <field name="titleSort">Peter und Kathinka (Pierre et Cathérine)</field>
 <field name="composer">Friedrich Flotow</field>

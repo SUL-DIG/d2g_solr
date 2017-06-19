@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110152</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le gascon tel qu'il est</field>
 <field name="titleSort">gascon tel qu'il est</field>
 <field name="composer">Charles-Gabriel Foignet</field>

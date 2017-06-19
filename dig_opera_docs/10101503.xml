@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101503</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Lo scolaro alla moda</field>
 <field name="titleSort">scolaro alla moda</field>
 <field name="composer">Guiseppe d'Avossa</field>

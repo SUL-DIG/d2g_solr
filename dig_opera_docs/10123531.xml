@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123531</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">The Adventures of Friar Tuck</field>
 <field name="titleSort">Adventures of Friar Tuck</field>
 <field name="composer">Glenn Paxton</field>

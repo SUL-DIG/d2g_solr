@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10121995</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Der Herbststurm</field>
 <field name="titleSort">Herbststurm</field>
 <field name="composer">Franz Neumann</field>

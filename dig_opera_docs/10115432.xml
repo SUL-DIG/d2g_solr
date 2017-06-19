@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10115432</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le talisman</field>
 <field name="titleSort">talisman</field>
 <field name="composer">Jean-Marie Josse</field>

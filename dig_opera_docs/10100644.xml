@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100644</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La reine d'Ellore, ou Reine et bergère</field>
 <field name="titleSort">reine d'Ellore, ou Reine et bergère</field>
 <field name="composer">Charles Amouroux</field>

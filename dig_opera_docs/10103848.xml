@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10103848</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La cachette</field>
 <field name="titleSort">cachette</field>
 <field name="composer">Ernst-Henri-Alexandre Boulanger</field>

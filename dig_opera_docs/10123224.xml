@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10123224</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Barbacole, ou Le manuscript volé</field>
 <field name="titleSort">Barbacole, ou Le manuscript volé</field>
 <field name="composer">__ Papavoine</field>

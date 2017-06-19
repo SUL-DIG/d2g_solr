@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110148</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Les divertissements de la décade</field>
 <field name="titleSort">divertissements de la décade</field>
 <field name="composer">Charles-Gabriel Foignet</field>

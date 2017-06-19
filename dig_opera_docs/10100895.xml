@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100895</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il conte di Konismark</field>
 <field name="titleSort">conte di Konismark</field>
 <field name="composer">Giuseppe Apolloni</field>

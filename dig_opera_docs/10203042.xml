@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10203042</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Öfterer Anstoss</field>
 		<field name="titleSort">Öfterer Anstoss</field>
 		<field name="year">1730</field>

@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10125535</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Les paladins</field>
 <field name="titleSort">paladins</field>
 <field name="composer">Jean-Philippe Rameau</field>

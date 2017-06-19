@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10100001</field>
-		<field name="genre">Operas</field>
+		<field name="genre">Opera</field>
 		<field name="title">A China Doll</field>
 		<field name="titleSort">China Doll</field>
 		<field name="composer">Alfred E. Aarons</field>

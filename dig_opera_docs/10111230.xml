@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10111230</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le miroir</field>
 <field name="titleSort">miroir</field>
 <field name="composer">Léon Gastinel</field>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203235</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">La passione di Christo</field>
 		<field name="titleSort">passione di Christo</field>
 		<field name="year">1696</field>

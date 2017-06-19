@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101890</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">The Glory Coach</field>
 <field name="titleSort">Glory Coach</field>
 <field name="composer">Francis Barnard</field>

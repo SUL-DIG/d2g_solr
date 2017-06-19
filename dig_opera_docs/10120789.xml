@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10120789</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La demoiselle aux Camélias</field>
 <field name="titleSort">demoiselle aux Camélias</field>
 <field name="composer">Edmond Jean Louis Missa</field>

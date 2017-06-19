@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10112257</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La fille de Saül</field>
 <field name="titleSort">fille de Saül</field>
 <field name="composer">Félix Godefroid</field>

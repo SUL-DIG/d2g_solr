@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10122700</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La ruse villageoise</field>
 <field name="titleSort">ruse villageoise</field>
 <field name="composer">Charles Ots</field>

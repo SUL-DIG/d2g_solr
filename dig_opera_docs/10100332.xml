@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100332</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Gli amanti raminghi</field>
 <field name="titleSort">amanti raminghi</field>
 <field name="composer">Alessandro Albertazzi</field>

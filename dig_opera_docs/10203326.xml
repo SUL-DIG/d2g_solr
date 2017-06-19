@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10203326</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Pe urmele lui Horea (On the Trail of Horia)</field>
 		<field name="titleSort">Pe urmele lui Horea (On the Trail of Horia)</field>
 		<field name="year">1978</field>

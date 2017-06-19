@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203300</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">I pastori al presente</field>
 		<field name="titleSort">pastori al presente</field>
 		<field name="year">1721</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132324</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le double voile</field>
 <field name="titleSort">double voile</field>
 <field name="composer">Louis Vuillemin</field>

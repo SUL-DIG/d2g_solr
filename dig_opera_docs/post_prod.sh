@@ -15,7 +15,7 @@
 # limitations under the License.
 
 FILES=$*
-URL=http://sul-solr.stanford.edu/solr/dig_opera_prod/update
+URL=https://sul-solr.stanford.edu/solr/dig_opera_prod/update
 
 for f in $FILES; do
   echo Posting file $f to $URL

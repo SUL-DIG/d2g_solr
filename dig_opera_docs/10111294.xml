@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10111294</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le diable couleur de rose</field>
 <field name="titleSort">diable couleur de rose</field>
 <field name="composer">Pierre Gaveaux</field>

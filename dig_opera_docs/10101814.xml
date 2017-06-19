@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101814</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le Docteur Tam-Tam</field>
 <field name="titleSort">Docteur Tam-Tam</field>
 <field name="composer">Frédéric-Étienne Barbier</field>

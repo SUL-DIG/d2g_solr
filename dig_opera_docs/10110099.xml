@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10110099</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">L'ombre</field>
 <field name="titleSort">ombre</field>
 <field name="composer">Friedrich Flotow</field>

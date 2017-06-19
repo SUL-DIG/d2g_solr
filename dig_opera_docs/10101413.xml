@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101413</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La fiançée des Verts-Poteaux</field>
 <field name="titleSort">fiançée des Verts-Poteaux</field>
 <field name="composer">Edmond Audran</field>

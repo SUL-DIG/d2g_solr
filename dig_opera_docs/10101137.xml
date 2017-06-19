@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101137</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Der Invalide</field>
 <field name="titleSort">Invalide</field>
 <field name="composer">Youry von Arnold</field>

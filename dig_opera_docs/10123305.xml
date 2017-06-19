@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123305</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Once Upon a Time</field>
 <field name="titleSort">Once Upon a Time</field>
 <field name="composer">Ian Parrott</field>

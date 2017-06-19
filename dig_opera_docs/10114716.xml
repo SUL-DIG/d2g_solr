@@ -2,9 +2,15 @@
 <add>
 <doc>
 <field name="id">10114716</field>
+<<<<<<< Updated upstream
 <field name="genre">Operas</field>
 <field name="title">Ječmínek (John Barleycorn)</field>
 <field name="titleSort">Ječmínek (John Barleycorn)</field>
+=======
+<field name="genre">Opera</field>
+<field name="title">Jecmínek (Barleycorn)</field>
+<field name="titleSort">Jecmínek (Barleycorn)</field>
+>>>>>>> Stashed changes
 <field name="composer">Cyril Metoděj Hrazdira</field>
 <field name="composerSort">Hrazdira, Cyril Metoděj</field>
 <field name="year">1902</field>

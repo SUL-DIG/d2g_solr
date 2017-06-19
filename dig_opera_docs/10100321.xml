@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100321</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Scirocco</field>
 <field name="titleSort">Scirocco</field>
 <field name="composer">Eugen d'Albert</field>

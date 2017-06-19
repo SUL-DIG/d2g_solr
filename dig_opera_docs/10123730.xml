@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10123730</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Luz oscura llama</field>
 <field name="titleSort">Luz oscura llama</field>
 <field name="composer">Eduardo Pérez Maseda</field>

@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10101752</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">A góliakiraly</field>
 <field name="titleSort">góliakiraly</field>
 <field name="composer">Győrgy Bánffy</field>

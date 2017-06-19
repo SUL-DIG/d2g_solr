@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101181</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le chapeau а musique</field>
 <field name="titleSort">chapeau а musique</field>
 <field name="composer">[Louise Marie Simon] Claude Arrieu</field>

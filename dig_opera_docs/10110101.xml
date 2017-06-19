@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110101</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Pianella</field>
 <field name="titleSort">Pianella</field>
 <field name="composer">Friedrich Flotow</field>

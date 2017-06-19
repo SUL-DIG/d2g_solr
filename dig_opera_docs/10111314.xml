@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111314</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La rose blanche et la rose rouge</field>
 <field name="titleSort">rose blanche et la rose rouge</field>
 <field name="composer">Pierre Gaveaux</field>

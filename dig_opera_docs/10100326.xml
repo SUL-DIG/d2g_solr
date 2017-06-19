@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100326</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Die verschenkte Frau</field>
 <field name="titleSort">verschenkte Frau</field>
 <field name="composer">Eugen d'Albert</field>

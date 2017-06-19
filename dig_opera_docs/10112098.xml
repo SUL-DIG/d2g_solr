@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10112098</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">L'homme а la minute</field>
 <field name="titleSort">homme а la minute</field>
 <field name="composer">Antoine Glachant</field>

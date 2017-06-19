@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10118004</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La caverne</field>
 <field name="titleSort">caverne</field>
 <field name="composer">Jean-François Le Sueur</field>

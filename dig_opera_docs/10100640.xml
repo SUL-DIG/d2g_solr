@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100640</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">I commedianti fortunati</field>
 <field name="titleSort">commedianti fortunati</field>
 <field name="composer">Antonio Amicone</field>

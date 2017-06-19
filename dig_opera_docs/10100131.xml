@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100131</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La main de fer, ou Le mariage secret</field>
 <field name="titleSort">main de fer, ou Le mariage secret</field>
 <field name="composer">Adolphe Adam</field>

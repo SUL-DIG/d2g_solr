@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10101767</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Pim Pom</field>
 <field name="titleSort">Pim Pom</field>
 <field name="composer">Edward T. De Banzie</field>

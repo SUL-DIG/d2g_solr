@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100324</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Die toten Augen</field>
 <field name="titleSort">toten Augen</field>
 <field name="composer">Eugen d'Albert</field>

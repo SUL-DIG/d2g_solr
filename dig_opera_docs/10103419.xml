@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10103419</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La butte des moulins</field>
 <field name="titleSort">butte des moulins</field>
 <field name="composer">Louis Boieldieu</field>

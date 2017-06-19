@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101483</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">J'ai pris la Bastille</field>
 <field name="titleSort">J'ai pris la Bastille</field>
 <field name="composer">Ange-Marie Auzende</field>

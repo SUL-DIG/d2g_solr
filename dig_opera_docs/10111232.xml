@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10111232</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Titus et Bérénice</field>
 <field name="titleSort">Titus et Bérénice</field>
 <field name="composer">Léon Gastinel</field>

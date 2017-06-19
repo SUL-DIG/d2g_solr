@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10111325</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Die Tugendfreundin</field>
 <field name="titleSort">Tugendfreundin</field>
 <field name="composer">[Otto Junker] Otto Gaze</field>

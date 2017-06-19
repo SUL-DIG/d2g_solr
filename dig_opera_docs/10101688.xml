@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10101688</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">The Bohemian Girl</field>
 <field name="titleSort">Bohemian Girl</field>
 <field name="composer">Michael William Balfe</field>

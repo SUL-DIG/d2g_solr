@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100120</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Giralda, ou La nouvelle Psyché</field>
 <field name="titleSort">Giralda, ou La nouvelle Psyché</field>
 <field name="composer">Adolphe Adam</field>

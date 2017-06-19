@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101533</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">The Student from Salamanca</field>
 <field name="titleSort">Student from Salamanca</field>
 <field name="composer">Jan Bach</field>

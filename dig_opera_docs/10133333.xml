@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10133333</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Der Doppelgänger</field>
 <field name="titleSort">Doppelgänger</field>
 <field name="composer">Alfred Zamara</field>

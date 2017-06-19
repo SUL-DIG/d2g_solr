@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123201</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Souvenirs</field>
 <field name="titleSort">Souvenirs</field>
 <field name="composer">Raymond Pannell</field>

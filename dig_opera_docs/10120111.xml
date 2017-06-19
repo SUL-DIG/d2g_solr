@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10120111</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">L'heureux malgré lui</field>
 <field name="titleSort">heureux malgré lui</field>
 <field name="composer">Étienne-Nicolas Méhul</field>

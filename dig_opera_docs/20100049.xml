@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?><add>
     <doc>
         <field name="id">20100049</field>
-        <field name="genre">Operas</field>
+        <field name="genre">Opera</field>
       
         <field name="title">Les Feluettes (Lilies)</field>
         <!-- The titleSort field should be the Title beginning with whatever word should be used for alphabetical sorting (the elimination of title-beginning articles). -->

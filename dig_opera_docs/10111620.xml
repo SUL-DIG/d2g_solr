@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111620</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Das verzauberte Ich</field>
 <field name="titleSort">verzauberte Ich</field>
 <field name="composer">Ottmar Gerster</field>

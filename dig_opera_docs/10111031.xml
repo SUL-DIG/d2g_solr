@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10111031</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le grand lama, ou Sophones</field>
 <field name="titleSort">grand lama, ou Sophones</field>
 <field name="composer">Manuel García</field>

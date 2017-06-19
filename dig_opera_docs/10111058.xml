@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111058</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La finta schiava</field>
 <field name="titleSort">finta schiava</field>
 <field name="composer">Francisco Javier García Fajer</field>

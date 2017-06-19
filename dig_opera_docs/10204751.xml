@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10204751</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Vaskrsenje (Resurrection)</field>
 		<field name="titleSort">Vaskrsenje (Resurrection)</field>
 		<field name="year">1912</field>

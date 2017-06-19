@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10200111</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">An Advent Oratorio</field>
 		<field name="titleSort">Advent Oratorio</field>
 		<field name="year">1937</field>

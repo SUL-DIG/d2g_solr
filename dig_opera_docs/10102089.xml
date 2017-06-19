@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10102089</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le voyage en Chine</field>
 <field name="titleSort">voyage en Chine</field>
 <field name="composer">François Bazin</field>

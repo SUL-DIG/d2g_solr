@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10131072</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le triomphe de Jeanne</field>
 <field name="titleSort">triomphe de Jeanne</field>
 <field name="composer">Henri Tomasi</field>

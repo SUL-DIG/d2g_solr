@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123222</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Rona</field>
 <field name="titleSort">Rona</field>
 <field name="composer">Boris Papandopulo</field>

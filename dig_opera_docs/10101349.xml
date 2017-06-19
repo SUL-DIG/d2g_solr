@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101349</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">The Sea-Side Story</field>
 <field name="titleSort">Sea-Side Story</field>
 <field name="composer">Thomas Attwood</field>

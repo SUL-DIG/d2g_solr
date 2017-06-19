@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111975</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le violon du Stradivarius</field>
 <field name="titleSort">violon du Stradivarius</field>
 <field name="composer">Ferdinand Ginouvès</field>

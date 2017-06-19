@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111041</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">El poeta calculista</field>
 <field name="titleSort">poeta calculista</field>
 <field name="composer">Manuel García</field>

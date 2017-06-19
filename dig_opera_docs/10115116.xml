@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10115116</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le mariage de la veille</field>
 <field name="titleSort">mariage de la veille</field>
 <field name="composer">Louis-Emmanuel Jadin</field>

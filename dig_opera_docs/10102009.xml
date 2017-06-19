@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10102009</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">L'amour magicien</field>
 <field name="titleSort">amour magicien</field>
 <field name="composer">Paul Bastide</field>

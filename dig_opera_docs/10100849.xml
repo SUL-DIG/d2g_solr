@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100849</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le roman d'un jour</field>
 <field name="titleSort">roman d'un jour</field>
 <field name="composer">Eugène Anthiome</field>

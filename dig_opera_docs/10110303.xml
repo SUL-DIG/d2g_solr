@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10110303</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Jacubinette</field>
 <field name="titleSort">Jacubinette</field>
 <field name="composer">J. Fortuné</field>

@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10115012</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">I due avari</field>
 <field name="titleSort">due avari</field>
 <field name="composer">Nicolas Isouard</field>

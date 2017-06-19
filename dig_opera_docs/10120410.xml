@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10120410</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Béatrice</field>
 <field name="titleSort">Béatrice</field>
 <field name="composer">André Messager</field>

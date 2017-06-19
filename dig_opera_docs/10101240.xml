@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101240</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Um ein bisschen Liebe</field>
 <field name="titleSort">Um ein bisschen Liebe</field>
 <field name="composer">Leo Ascher</field>

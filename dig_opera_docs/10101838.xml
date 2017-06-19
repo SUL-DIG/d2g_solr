@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101838</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La nourrice d'Hercule</field>
 <field name="titleSort">nourrice d'Hercule</field>
 <field name="composer">Frédéric-Étienne Barbier</field>

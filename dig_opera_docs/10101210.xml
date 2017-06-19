@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101210</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La Barberina Hamburg</field>
 <field name="titleSort">Barberina Hamburg</field>
 <field name="composer">Leo Ascher</field>

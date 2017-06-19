@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10111055</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">El hijo del mar</field>
 <field name="titleSort">hijo del mar</field>
 <field name="composer">Juan García Catalá</field>

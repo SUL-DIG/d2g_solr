@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10102117</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Les noces d'Attila</field>
 <field name="titleSort">noces d'Attila</field>
 <field name="composer">Fernand de Beaufranchet</field>

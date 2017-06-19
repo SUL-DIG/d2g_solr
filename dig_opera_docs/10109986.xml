@@ -2,9 +2,15 @@
 <add>
 <doc>
 <field name="id">10109986</field>
+<<<<<<< Updated upstream
 <field name="genre">Operas</field>
 <field name="title">Ženichové (The Bridegrooms)</field>
 <field name="titleSort">Ženichové (The Bridegrooms)</field>
+=======
+<field name="genre">Opera</field>
+<field name="title">Zenichové (The Bridegrooms)</field>
+<field name="titleSort">Zenichové (The Bridegrooms)</field>
+>>>>>>> Stashed changes
 <field name="composer">Jan Frank Fischer</field>
 <field name="composerSort">Fischer, Jan Frank</field>
 <field name="year">1957</field>

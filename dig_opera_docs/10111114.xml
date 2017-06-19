@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111114</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Die verwunschene Prinzessin</field>
 <field name="titleSort">verwunschene Prinzessin</field>
 <field name="composer">Eduard Gärtner</field>

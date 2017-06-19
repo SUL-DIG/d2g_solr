@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101585</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Der Pulvermacher von Nürnberg</field>
 <field name="titleSort">Pulvermacher von Nürnberg</field>
 <field name="composer">Philipp Bade</field>

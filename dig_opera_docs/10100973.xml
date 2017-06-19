@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100973</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il cuoco e il segretario</field>
 <field name="titleSort">cuoco e il segretario</field>
 <field name="composer">Nicola d'Arienzo</field>

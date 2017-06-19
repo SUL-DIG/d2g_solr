@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10123253</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le cri de la patrie</field>
 <field name="titleSort">cri de la patrie</field>
 <field name="composer">Paolo Francesco Parenti</field>

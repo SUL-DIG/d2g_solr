@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10101165</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La sombra de Mariana</field>
 <field name="titleSort">sombra de Mariana</field>
 <field name="composer">Vicente Arregui Garay</field>

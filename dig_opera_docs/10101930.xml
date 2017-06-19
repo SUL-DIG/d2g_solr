@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101930</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Der adeliche Taglöhner</field>
 <field name="titleSort">adeliche Taglöhner</field>
 <field name="composer">Josef Bárta</field>

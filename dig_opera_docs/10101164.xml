@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10101164</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La maya</field>
 <field name="titleSort">maya</field>
 <field name="composer">Vicente Arregui Garay</field>

@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10101404</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Les amants querelleurs</field>
 <field name="titleSort">amants querelleurs</field>
 <field name="composer">Prudent-Louis Aubéry Du Boulley</field>

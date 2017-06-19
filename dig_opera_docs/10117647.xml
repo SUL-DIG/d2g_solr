@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10117647</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Un rencontre</field>
 <field name="titleSort">rencontre</field>
 <field name="composer">Charles Le Corbeiller</field>

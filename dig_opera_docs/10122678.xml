@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10122678</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le partisan</field>
 <field name="titleSort">partisan</field>
 <field name="composer">Ranulphe-Marie-Eustache d'Osmond</field>

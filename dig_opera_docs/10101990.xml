@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101990</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Lo stravagante e il dissipatore</field>
 <field name="titleSort">stravagante e il dissipatore</field>
 <field name="composer">Francesco Basili</field>

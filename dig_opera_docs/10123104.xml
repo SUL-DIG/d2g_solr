@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123104</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Vespasiano</field>
 <field name="titleSort">Vespasiano</field>
 <field name="composer">Carlo Pallavicino</field>

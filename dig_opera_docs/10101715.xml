@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10101715</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Dracoula</field>
 <field name="titleSort">Dracoula</field>
 <field name="composer">Claude Baliff</field>

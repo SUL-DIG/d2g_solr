@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203331</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Les pélérins d'Emmaus</field>
 		<field name="titleSort">pélérins d'Emmaus</field>
 		<field name="year">1903</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10120411</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le bourgeois de Calais</field>
 <field name="titleSort">bourgeois de Calais</field>
 <field name="composer">André Messager</field>

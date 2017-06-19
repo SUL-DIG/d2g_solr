@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123629</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le mariage а mazet</field>
 <field name="titleSort">mariage а mazet</field>
 <field name="composer">Alphonse Pellet</field>

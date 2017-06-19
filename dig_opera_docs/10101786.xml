@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101786</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Una bottega di caffè</field>
 <field name="titleSort">bottega di caffè</field>
 <field name="composer">Aniello Barbati</field>

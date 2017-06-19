@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101965</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La dot de Régine</field>
 <field name="titleSort">dot de Régine</field>
 <field name="composer">Louis Barwolf</field>

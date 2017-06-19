@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101645</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Aria da capo</field>
 <field name="titleSort">Aria da capo</field>
 <field name="composer">Robert Baksa</field>

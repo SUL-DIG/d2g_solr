@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101558</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Quand la cloche sonnera</field>
 <field name="titleSort">Quand la cloche sonnera</field>
 <field name="composer">Alfred Bachelet</field>

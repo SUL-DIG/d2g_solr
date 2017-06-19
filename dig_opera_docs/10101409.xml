@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101409</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le curé Vincent</field>
 <field name="titleSort">curé Vincent</field>
 <field name="composer">Edmond Audran</field>

@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10108090</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le double piège</field>
 <field name="titleSort">double piège</field>
 <field name="composer">Georges Douay</field>

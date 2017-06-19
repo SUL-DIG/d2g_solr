@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100182</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La gloria e il piacere</field>
 <field name="titleSort">gloria e il piacere</field>
 <field name="composer">Andrea Adolfati</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10116220</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La marche de Radetzky</field>
 <field name="titleSort">marche de Radetzky</field>
 <field name="composer">René Koering</field>

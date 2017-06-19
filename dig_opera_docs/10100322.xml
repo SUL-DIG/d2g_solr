@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100322</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Der Stier von Olivera</field>
 <field name="titleSort">Stier von Olivera</field>
 <field name="composer">Eugen d'Albert</field>

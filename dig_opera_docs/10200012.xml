@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10200012</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Abdul und Erinnieh, oder Die beiden Todten</field>
 		<field name="titleSort">Abdul und Erinnieh, oder Die beiden Todten</field>
 		<field name="year">1828</field>

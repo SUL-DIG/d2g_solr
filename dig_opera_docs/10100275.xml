@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100275</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Michel et Christine</field>
 <field name="titleSort">Michel et Christine</field>
 <field name="composer">Léopold Aimon</field>

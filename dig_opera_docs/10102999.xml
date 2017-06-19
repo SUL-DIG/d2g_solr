@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10102999</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La rose de Florence</field>
 <field name="titleSort">rose de Florence</field>
 <field name="composer">Emanuele Billetta</field>

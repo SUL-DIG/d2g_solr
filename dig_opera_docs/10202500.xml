@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10202500</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">La liberazione d'Israele</field>
 		<field name="titleSort">liberazione d'Israele</field>
 		<field name="year">1775</field>

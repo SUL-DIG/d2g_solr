@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100857</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Das tartarische Gesetz</field>
 <field name="titleSort">tartarische Gesetz</field>
 <field name="composer">Ferdinand d'Antoine</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101818</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Fermé le dimanche</field>
 <field name="titleSort">Fermé le dimanche</field>
 <field name="composer">Frédéric-Étienne Barbier</field>

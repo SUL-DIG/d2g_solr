@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10123846</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Phanor et Angéla</field>
 <field name="titleSort">Phanor et Angéla</field>
 <field name="composer">Louis-Luc Loiseau de Persuis</field>

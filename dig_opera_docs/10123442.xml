@@ -2,9 +2,15 @@
 <add>
 <doc>
 <field name="id">10123442</field>
+<<<<<<< Updated upstream
 <field name="genre">Operas</field>
 <field name="title">Žvanivý slimejš</field>
 <field name="titleSort">Žvanivý slimejš</field>
+=======
+<field name="genre">Opera</field>
+<field name="title">Zvanivy slimejs</field>
+<field name="titleSort">Zvanivy slimejs</field>
+>>>>>>> Stashed changes
 <field name="composer">Jiří Pauer</field>
 <field name="composerSort">Pauer, Jiří</field>
 <field name="year">1958</field>

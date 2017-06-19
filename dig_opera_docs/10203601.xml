@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203601</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">La résurrection de Lazare</field>
 		<field name="titleSort">résurrection de Lazare</field>
 		<field name="year">1879</field>

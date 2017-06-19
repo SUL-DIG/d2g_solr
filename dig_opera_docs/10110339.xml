@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10110339</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La fleur de lotus</field>
 <field name="titleSort">fleur de lotus</field>
 <field name="composer">Georges Fragerolle</field>

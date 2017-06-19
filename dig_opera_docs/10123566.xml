@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10123566</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">El ultimo Abencerraje</field>
 <field name="titleSort">ultimo Abencerraje</field>
 <field name="composer">Carlos Pedrell</field>

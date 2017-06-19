@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123743</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il Flaminio</field>
 <field name="titleSort">Flaminio</field>
 <field name="composer">Giovanni Battista Pergolesi</field>

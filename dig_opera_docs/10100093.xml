@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100093</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">L'avocate</field>
 <field name="titleSort">avocate</field>
 <field name="composer">Hippolyte Ackermans</field>

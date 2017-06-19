@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10132602</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le mariage en poste</field>
 <field name="titleSort">mariage en poste</field>
 <field name="composer">Jean-Baptiste Weckerlin</field>

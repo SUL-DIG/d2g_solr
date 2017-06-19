@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100800</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Giobbe</field>
 <field name="titleSort">Giobbe</field>
 <field name="composer">Nicola Angeletti</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123273</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il maestro di scuola</field>
 <field name="titleSort">maestro di scuola</field>
 <field name="composer">Federico Parisini</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111037</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La meunière</field>
 <field name="titleSort">meunière</field>
 <field name="composer">Manuel García</field>

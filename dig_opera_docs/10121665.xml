@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10121665</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">An Occurrence at Owl Creek Bridge</field>
 <field name="titleSort">Occurrence at Owl Creek Bridge</field>
 <field name="composer">Thea Musgrave</field>

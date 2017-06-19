@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100492</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le petit-maître en province</field>
 <field name="titleSort">petit-maître en province</field>
 <field name="composer">Charles-Guillaume Alexandre</field>

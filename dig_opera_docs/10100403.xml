@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100403</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il satrapone</field>
 <field name="titleSort">satrapone</field>
 <field name="composer">Tomaso Albinoni</field>

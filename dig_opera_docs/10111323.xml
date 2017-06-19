@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10111323</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Der Esel von Ninive</field>
 <field name="titleSort">Esel von Ninive</field>
 <field name="composer">[Otto Junker] Otto Gaze</field>

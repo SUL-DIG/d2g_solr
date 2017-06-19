@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110010</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Armindo</field>
 <field name="titleSort">Armindo</field>
 <field name="composer">Domenico Fischietti</field>

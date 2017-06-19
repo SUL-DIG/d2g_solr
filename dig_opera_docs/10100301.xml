@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100301</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Come fu?</field>
 <field name="titleSort">Come fu?</field>
 <field name="composer">Guazzo Albergoni</field>

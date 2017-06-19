@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123012</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Giunone Lucina</field>
 <field name="titleSort">Giunone Lucina</field>
 <field name="composer">Giovanni Paisiello</field>

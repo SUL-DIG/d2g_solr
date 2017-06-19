@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100620</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il marchesino</field>
 <field name="titleSort">marchesino</field>
 <field name="composer">[Amalie Prinzessin von Sachsen] A. Serena</field>

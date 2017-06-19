@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101223</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Das goldene Strumpfband</field>
 <field name="titleSort">goldene Strumpfband</field>
 <field name="composer">Leo Ascher</field>

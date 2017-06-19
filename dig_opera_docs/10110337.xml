@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10110337</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La Czarda</field>
 <field name="titleSort">Czarda</field>
 <field name="composer">Georges Fragerolle</field>

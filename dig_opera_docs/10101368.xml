@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10101368</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La fiançée du roi de Garbe</field>
 <field name="titleSort">fiançée du roi de Garbe</field>
 <field name="composer">Daniel-François-Esprit Auber</field>

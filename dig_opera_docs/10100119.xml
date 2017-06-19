@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100119</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La fidèle berger</field>
 <field name="titleSort">fidèle berger</field>
 <field name="composer">Adolphe Adam</field>

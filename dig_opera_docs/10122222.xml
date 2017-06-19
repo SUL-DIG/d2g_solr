@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10122222</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Se eu fosse rei</field>
 <field name="titleSort">Se eu fosse rei</field>
 <field name="composer">Francisco da Sá Noronha</field>

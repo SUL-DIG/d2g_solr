@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101873</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il genio del dolore</field>
 <field name="titleSort">genio del dolore</field>
 <field name="composer">Michele Barcone</field>

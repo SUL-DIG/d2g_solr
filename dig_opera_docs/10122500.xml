@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10122500</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La samaritaine</field>
 <field name="titleSort">samaritaine</field>
 <field name="composer">Max d'Ollone</field>

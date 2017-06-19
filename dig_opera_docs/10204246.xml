@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10204246</field>
+<<<<<<< Updated upstream
 		<field name="genre">Oratorios</field>
 		<field name="title">Les sept paroles de Notre-Seigneur-Jesus-Christ</field>
 		<field name="titleSort">sept paroles de Notre-Seigneur-Jesus-Christ</field>
+=======
+		<field name="genre">Oratorio</field>
+		<field name="title">Les sept paroles au croix</field>
+		<field name="titleSort">sept paroles au croix</field>
+>>>>>>> Stashed changes
 		
 		
 		

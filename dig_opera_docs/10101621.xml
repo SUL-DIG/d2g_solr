@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101621</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Salto mortale</field>
 <field name="titleSort">Salto mortale</field>
 <field name="composer">Henk Badings</field>

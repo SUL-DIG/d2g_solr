@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10120124</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le trésor supposé</field>
 <field name="titleSort">trésor supposé</field>
 <field name="composer">Étienne-Nicolas Méhul</field>

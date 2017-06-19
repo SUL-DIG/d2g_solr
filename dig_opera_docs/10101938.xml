@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101938</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Die sizilianische Vesper</field>
 <field name="titleSort">sizilianische Vesper</field>
 <field name="composer">Ludwig Barth</field>

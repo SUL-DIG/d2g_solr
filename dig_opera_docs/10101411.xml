@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101411</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La duchesse de Ferrare</field>
 <field name="titleSort">duchesse de Ferrare</field>
 <field name="composer">Edmond Audran</field>

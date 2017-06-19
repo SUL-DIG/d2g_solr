@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10204641</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Il trionfo della grazia</field>
 		<field name="titleSort">trionfo della grazia</field>
 		<field name="year">1705</field>

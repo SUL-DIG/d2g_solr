@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10112670</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La neuvaine de la chandeleur</field>
 <field name="titleSort">neuvaine de la chandeleur</field>
 <field name="composer">Guillaume Greive</field>

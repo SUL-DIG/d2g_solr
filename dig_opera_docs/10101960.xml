@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101960</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Deydda</field>
 <field name="titleSort">Deydda</field>
 <field name="composer">Adelelmo Bartolucci</field>

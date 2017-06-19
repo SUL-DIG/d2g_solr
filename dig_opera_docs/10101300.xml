@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101300</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Gli amanti perseguitati</field>
 <field name="titleSort">amanti perseguitati</field>
 <field name="composer">Gennaro Astarita</field>

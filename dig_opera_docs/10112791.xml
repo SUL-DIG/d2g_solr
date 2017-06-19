@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10112791</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le carillonneur de Bruges</field>
 <field name="titleSort">carillonneur de Bruges</field>
 <field name="composer">Albert Grisar</field>

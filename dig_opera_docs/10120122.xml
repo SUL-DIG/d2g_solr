@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10120122</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La prise du pont de Lodi</field>
 <field name="titleSort">prise du pont de Lodi</field>
 <field name="composer">Étienne-Nicolas Méhul</field>

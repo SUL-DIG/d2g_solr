@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123723</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il ritorno di Ulisse in Itaca</field>
 <field name="titleSort">ritorno di Ulisse in Itaca</field>
 <field name="composer">David Perez</field>

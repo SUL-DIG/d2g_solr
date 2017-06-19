@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100121</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le grand prix, ou Le voyage а frais communs</field>
 <field name="titleSort">grand prix, ou voyage а frais communs</field>
 <field name="composer">Adolphe Adam</field>

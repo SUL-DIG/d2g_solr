@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10201230</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">L'Eustacchio</field>
 		<field name="titleSort">Eustacchio</field>
 		<field name="year">1841</field>

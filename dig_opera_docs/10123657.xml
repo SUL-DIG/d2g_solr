@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123657</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">El gato montés</field>
 <field name="titleSort">gato montés</field>
 <field name="composer">Manuel Penella</field>

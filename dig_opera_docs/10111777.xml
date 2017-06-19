@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111777</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">The Great Bell of Burley</field>
 <field name="titleSort">Great Bell of Burley</field>
 <field name="composer">Cecil Armstrong Gibbs</field>

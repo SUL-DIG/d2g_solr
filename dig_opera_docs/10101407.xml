@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10101407</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La chercheuse d'esprit</field>
 <field name="titleSort">chercheuse d'esprit</field>
 <field name="composer">Edmond Audran</field>

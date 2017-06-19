@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10103430</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La cloche d'argent</field>
 <field name="titleSort">cloche d'argent</field>
 <field name="composer">Frédéric Boissière</field>

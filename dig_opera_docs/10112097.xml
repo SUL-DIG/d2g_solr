@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10112097</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Les deux dragons</field>
 <field name="titleSort">deux dragons</field>
 <field name="composer">Antoine Glachant</field>

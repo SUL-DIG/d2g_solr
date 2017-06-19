@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100192</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Die Verbrüderung</field>
 <field name="titleSort">Verbrüderung</field>
 <field name="composer">Karl Franz Adolfi</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123650</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Paradise Lost</field>
 <field name="titleSort">Paradise Lost</field>
 <field name="composer">Krzysztof Penderecki</field>

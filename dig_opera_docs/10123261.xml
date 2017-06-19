@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10123261</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le moulin d'amour</field>
 <field name="titleSort">moulin d'amour</field>
 <field name="composer">Charles Pariot</field>

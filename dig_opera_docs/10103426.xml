@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10103426</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Les voyages de l'Amour</field>
 <field name="titleSort">voyages de l'Amour</field>
 <field name="composer">Joseph Bodin de Boismortier</field>

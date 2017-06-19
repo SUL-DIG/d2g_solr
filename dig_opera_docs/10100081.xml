@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100081</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">El Sukia</field>
 <field name="titleSort">Sukia</field>
 <field name="composer">Jorge Luis Acevedo Vargas</field>

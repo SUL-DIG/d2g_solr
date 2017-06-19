@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123963</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La contessa d'Amalfi</field>
 <field name="titleSort">contessa d'Amalfi</field>
 <field name="composer">Errico Petrella</field>

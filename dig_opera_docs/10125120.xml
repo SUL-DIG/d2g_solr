@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10125120</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">L'illustre Gaspard</field>
 <field name="titleSort">illustre Gaspard</field>
 <field name="composer">Eugène-Prosper Prévost</field>

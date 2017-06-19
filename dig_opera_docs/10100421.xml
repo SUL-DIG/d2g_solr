@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100421</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Cordelia dei Neri</field>
 <field name="titleSort">Cordelia dei Neri</field>
 <field name="composer">Ferdinando Aldieri</field>

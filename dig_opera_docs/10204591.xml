@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10204591</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Los tres milagros de Santa Cecilia</field>
 		<field name="titleSort">tres milagros de Santa Cecilia</field>
 		<field name="year">1921</field>

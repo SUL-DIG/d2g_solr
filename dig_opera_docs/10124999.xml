@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10124999</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">L'ange de Rothesay</field>
 <field name="titleSort">ange de Rothesay</field>
 <field name="composer">Henri Hippolyte Potier</field>

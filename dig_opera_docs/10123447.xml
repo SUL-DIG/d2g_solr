@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123447</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La revanche de Don Juan</field>
 <field name="titleSort">revanche de Don Juan</field>
 <field name="composer">Gaston Paulin</field>

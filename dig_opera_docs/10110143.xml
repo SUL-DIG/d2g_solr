@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10110143</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">L'apothicaire</field>
 <field name="titleSort">apothicaire</field>
 <field name="composer">Charles-Gabriel Foignet</field>

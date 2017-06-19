@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101361</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le dieu et la bayadère</field>
 <field name="titleSort">dieu et la bayadère</field>
 <field name="composer">Daniel-François-Esprit Auber</field>

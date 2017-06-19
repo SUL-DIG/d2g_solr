@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101810</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le coq est mort!</field>
 <field name="titleSort">coq est mort!</field>
 <field name="composer">Frédéric-Étienne Barbier</field>

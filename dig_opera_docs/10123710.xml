@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123710</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">L'eroismo di Scipione</field>
 <field name="titleSort">eroismo di Scipione</field>
 <field name="composer">David Perez</field>

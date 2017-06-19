@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10102121</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">L'Amazone</field>
 <field name="titleSort">Amazone</field>
 <field name="composer">Amédée de Beauplan</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110003</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Aida di Scafatti</field>
 <field name="titleSort">Aida di Scafatti</field>
 <field name="composer">Matteo Luigi Fischetti</field>

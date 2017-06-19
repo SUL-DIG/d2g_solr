@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10103008</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La camera oscura</field>
 <field name="titleSort">camera oscura</field>
 <field name="composer">Vincenzo Billi</field>

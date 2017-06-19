@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10115120</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La religieuse danoise</field>
 <field name="titleSort">religieuse danoise</field>
 <field name="composer">Louis-Emmanuel Jadin</field>

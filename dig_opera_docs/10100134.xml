@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100134</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La marquise</field>
 <field name="titleSort">marquise</field>
 <field name="composer">Adolphe Adam</field>

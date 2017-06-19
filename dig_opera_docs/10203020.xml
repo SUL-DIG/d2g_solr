@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10203020</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Nyuk tsin (The Perfect Jade)</field>
 		<field name="titleSort">Nyuk tsin (The Perfect Jade)</field>
 		<field name="year">1961</field>

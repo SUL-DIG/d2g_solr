@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101216</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Bruder Leichtsinn</field>
 <field name="titleSort">Bruder Leichtsinn</field>
 <field name="composer">Leo Ascher</field>

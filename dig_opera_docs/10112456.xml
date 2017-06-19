@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10112456</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le médecin malgré lui</field>
 <field name="titleSort">médecin malgré lui</field>
 <field name="composer">Charles Gounod</field>

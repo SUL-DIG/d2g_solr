@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10113376</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">L'artisan</field>
 <field name="titleSort">artisan</field>
 <field name="composer">Fromental Halévy</field>

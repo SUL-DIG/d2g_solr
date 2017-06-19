@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132401</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Die Feen</field>
 <field name="titleSort">Feen</field>
 <field name="composer">Richard Wagner</field>

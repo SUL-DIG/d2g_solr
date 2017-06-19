@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10204529</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Der Tod des Herrn</field>
 		<field name="titleSort">Tod des Herrn</field>
 		<field name="year">1906</field>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203693</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">La sacra lancia</field>
 		<field name="titleSort">sacra lancia</field>
 		<field name="year">1680</field>

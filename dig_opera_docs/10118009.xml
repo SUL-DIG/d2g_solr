@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10118009</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La tarentule</field>
 <field name="titleSort">tarentule</field>
 <field name="composer">Hugo Létang</field>

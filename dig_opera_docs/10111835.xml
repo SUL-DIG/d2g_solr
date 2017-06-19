@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10111835</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Die schönste von allen</field>
 <field name="titleSort">schönste von allen</field>
 <field name="composer">[Max Winterfeld] Jean Gilbert</field>

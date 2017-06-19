@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10123070</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La mort de Don Juan</field>
 <field name="titleSort">mort de Don Juan</field>
 <field name="composer">Roman Palester</field>

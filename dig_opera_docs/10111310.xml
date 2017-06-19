@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111310</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le petit matelot, ou Le mariage impromptu</field>
 <field name="titleSort">petit matelot, ou mariage impromptu</field>
 <field name="composer">Pierre Gaveaux</field>

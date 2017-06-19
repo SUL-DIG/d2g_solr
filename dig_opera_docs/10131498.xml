@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10131498</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il masnadiere</field>
 <field name="titleSort">masnadiere</field>
 <field name="composer">David Uhrmacher</field>

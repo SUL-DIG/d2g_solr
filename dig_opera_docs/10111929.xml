@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111929</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La princesse de Chine</field>
 <field name="titleSort">princesse de Chine</field>
 <field name="composer">Jean-Claude Gillier</field>

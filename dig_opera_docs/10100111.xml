@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100111</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le clé</field>
 <field name="titleSort">clé</field>
 <field name="composer">Adolphe Adam</field>

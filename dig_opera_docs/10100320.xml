@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100320</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Die schwarze Orchidee</field>
 <field name="titleSort">schwarze Orchidee</field>
 <field name="composer">Eugen d'Albert</field>

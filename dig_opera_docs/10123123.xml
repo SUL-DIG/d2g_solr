@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123123</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La contessina Elsa</field>
 <field name="titleSort">contessina Elsa</field>
 <field name="composer">Vittorio Palma</field>

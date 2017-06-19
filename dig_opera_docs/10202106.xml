@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10202106</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">L'Italia difesa da Maria</field>
 		<field name="titleSort">Italia difesa da Maria</field>
 		<field name="year">1705</field>

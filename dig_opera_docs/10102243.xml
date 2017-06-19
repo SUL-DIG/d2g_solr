@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10102243</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La sonnambula</field>
 <field name="titleSort">sonnambula</field>
 <field name="composer">Vincenzo Bellini</field>

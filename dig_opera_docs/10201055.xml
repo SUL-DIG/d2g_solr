@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10201055</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Le due passioni, una di Cristo nel corpo, l'altra della vergine madre nell'anima</field>
 		<field name="titleSort">due passioni, una di Cristo nel corpo, l'altra della vergine madre nell'anima</field>
 		<field name="year">1705</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110150</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La femme qui sait se taire</field>
 <field name="titleSort">femme qui sait se taire</field>
 <field name="composer">Charles-Gabriel Foignet</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123432</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Pocahontas</field>
 <field name="titleSort">Pocahontas</field>
 <field name="composer">Willard Patton</field>

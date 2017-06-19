@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10105652</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La petite maison</field>
 <field name="titleSort">petite maison</field>
 <field name="composer">William Chaumet</field>

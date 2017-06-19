@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100646</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le sorcier d'Espelette</field>
 <field name="titleSort">sorcier d'Espelette</field>
 <field name="composer">Louis Amouroux</field>

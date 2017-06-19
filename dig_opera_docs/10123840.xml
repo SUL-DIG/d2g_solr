@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10123840</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Estelle</field>
 <field name="titleSort">Estelle</field>
 <field name="composer">Louis-Luc Loiseau de Persuis</field>

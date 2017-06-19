@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10123440</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le malade imaginaire</field>
 <field name="titleSort">malade imaginaire</field>
 <field name="composer">Jiří Pauer</field>

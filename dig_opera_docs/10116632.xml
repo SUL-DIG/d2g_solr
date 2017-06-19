@@ -2,9 +2,15 @@
 <add>
 <doc>
 <field name="id">10116632</field>
+<<<<<<< Updated upstream
 <field name="genre">Operas</field>
 <field name="title">Ogaři (Country Boys and Their Games)</field>
 <field name="titleSort">Ogaři (Country Boys and Their Games)</field>
+=======
+<field name="genre">Opera</field>
+<field name="title">Ogari (Country Boys and Their Games)</field>
+<field name="titleSort">Ogari (Country Boys and Their Games)</field>
+>>>>>>> Stashed changes
 <field name="composer">Jaroslav Křička</field>
 <field name="composerSort">Křička, Jaroslav</field>
 <field name="year">1919</field>

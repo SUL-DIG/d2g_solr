@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111280</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le marin de la garde</field>
 <field name="titleSort">marin de la garde</field>
 <field name="composer">Eugène Gautier</field>

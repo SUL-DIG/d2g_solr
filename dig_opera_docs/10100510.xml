@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100510</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il trionfo della continenza</field>
 <field name="titleSort">trionfo della continenza</field>
 <field name="composer">Paris Francesco Alghisi</field>

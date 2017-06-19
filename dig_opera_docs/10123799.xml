@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123799</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La Pension Michonnet</field>
 <field name="titleSort">Pension Michonnet</field>
 <field name="composer">François Perpignan</field>

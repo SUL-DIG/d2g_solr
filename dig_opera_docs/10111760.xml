@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111760</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il fortunato accidente</field>
 <field name="titleSort">fortunato accidente</field>
 <field name="composer">Cesare Giannoni</field>

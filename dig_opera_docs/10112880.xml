@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10112880</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Die Burg Falkenstein</field>
 <field name="titleSort">Burg Falkenstein</field>
 <field name="composer">Friedrich Wilhelm Grund</field>

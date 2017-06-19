@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101712</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La caduta de' Decemviri</field>
 <field name="titleSort">caduta de' Decemviri</field>
 <field name="composer">Francesco Ballarotti</field>

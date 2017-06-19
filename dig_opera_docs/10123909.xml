@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123909</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">The Parrot</field>
 <field name="titleSort">Parrot</field>
 <field name="composer">Darrell Peter</field>

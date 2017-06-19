@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10103172</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Les gondoliers</field>
 <field name="titleSort">gondoliers</field>
 <field name="composer">Felice Blangini</field>

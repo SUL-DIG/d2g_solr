@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101855</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Arabella</field>
 <field name="titleSort">Arabella</field>
 <field name="composer">Carlo Emanuele Barbieri</field>

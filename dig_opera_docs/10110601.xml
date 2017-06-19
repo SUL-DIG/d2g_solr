@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10110601</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Cydippe</field>
 <field name="titleSort">Cydippe</field>
 <field name="composer">__ Fromant</field>

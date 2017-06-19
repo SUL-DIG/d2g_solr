@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10111043</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le prince d'occasion</field>
 <field name="titleSort">prince d'occasion</field>
 <field name="composer">Manuel García</field>

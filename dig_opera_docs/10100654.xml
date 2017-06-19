@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100654</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Jean et Jeanne</field>
 <field name="titleSort">Jean et Jeanne</field>
 <field name="composer">Joseph Ancessy</field>

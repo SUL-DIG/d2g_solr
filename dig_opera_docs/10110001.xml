@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110001</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Das Stelldichein, oder Alle fürchten sich</field>
 <field name="titleSort">Stelldichein, oder Alle fürchten sich</field>
 <field name="composer">Wilhelm Fischer</field>

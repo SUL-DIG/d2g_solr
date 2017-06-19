@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101054</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">An Hospital for Fools</field>
 <field name="titleSort">Hospital for Fools</field>
 <field name="composer">Thomas Augustine Arne</field>

@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10111229</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le buisson vert</field>
 <field name="titleSort">buisson vert</field>
 <field name="composer">Léon Gastinel</field>

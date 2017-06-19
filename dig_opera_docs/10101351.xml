@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101351</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Gheysa</field>
 <field name="titleSort">Gheysa</field>
 <field name="composer">Paul Aube</field>

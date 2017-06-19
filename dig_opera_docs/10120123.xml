@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10120123</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Stratonice</field>
 <field name="titleSort">Stratonice</field>
 <field name="composer">Étienne-Nicolas Méhul</field>

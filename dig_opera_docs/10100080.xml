@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100080</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Serrabá</field>
 <field name="titleSort">Serrabá</field>
 <field name="composer">Jorge Luis Acevedo Vargas</field>

@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10110520</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">François Villon</field>
 <field name="titleSort">François Villon</field>
 <field name="composer">Tibor Frešo</field>

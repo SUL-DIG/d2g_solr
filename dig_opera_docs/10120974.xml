@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10120974</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le faucon</field>
 <field name="titleSort">faucon</field>
 <field name="composer">Pierre-Alexandre Monsigny</field>

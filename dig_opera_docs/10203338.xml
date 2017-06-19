@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203338</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">La penitente d'Egitto</field>
 		<field name="titleSort">penitente d'Egitto</field>
 		<field name="year">1659</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101425</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Les noces d'Olivette</field>
 <field name="titleSort">noces d'Olivette</field>
 <field name="composer">Edmond Audran</field>

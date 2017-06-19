@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10102122</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le mari au bal</field>
 <field name="titleSort">mari au bal</field>
 <field name="composer">Amédée de Beauplan</field>

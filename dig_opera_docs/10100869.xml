@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100869</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il pellegrino</field>
 <field name="titleSort">pellegrino</field>
 <field name="composer">Antonio d'Antoni</field>

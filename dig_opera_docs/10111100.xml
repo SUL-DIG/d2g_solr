@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111100</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">L'impostura scoperta</field>
 <field name="titleSort">impostura scoperta</field>
 <field name="composer">Angelo Gargiulo</field>

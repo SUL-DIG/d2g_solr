@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100018</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Der Hausmeister</field>
 <field name="titleSort">Hausmeister</field>
 <field name="composer">Johann Christian Abeille</field>

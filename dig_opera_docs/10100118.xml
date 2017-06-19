@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100118</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le farfadet</field>
 <field name="titleSort">farfadet</field>
 <field name="composer">Adolphe Adam</field>

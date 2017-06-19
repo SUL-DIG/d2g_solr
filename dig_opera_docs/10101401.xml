@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101401</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le régiment de la calotte</field>
 <field name="titleSort">régiment de la calotte</field>
 <field name="composer">Jacques Aubert</field>

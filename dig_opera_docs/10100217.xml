@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100217</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Una notte di carnevale</field>
 <field name="titleSort">notte di carnevale</field>
 <field name="composer">Salvatore Agnelli</field>

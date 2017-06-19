@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10103421</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La fille invisible</field>
 <field name="titleSort">fille invisible</field>
 <field name="composer">Louis Boieldieu</field>

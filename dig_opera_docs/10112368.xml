@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10112368</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le revenant</field>
 <field name="titleSort">revenant</field>
 <field name="composer">José Melchor Gomis y Colomer</field>

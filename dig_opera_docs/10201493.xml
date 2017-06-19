@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10201493</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Gerusalemme destrutta da Tito</field>
 		<field name="titleSort">Gerusalemme destrutta da Tito</field>
 		<field name="year">1691</field>

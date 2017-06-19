@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100218</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">L'omicida immaginario</field>
 <field name="titleSort">omicida immaginario</field>
 <field name="composer">Salvatore Agnelli</field>

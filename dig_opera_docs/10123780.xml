@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10123780</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Lebenslichter</field>
 <field name="titleSort">Lebenslichter</field>
 <field name="composer">Hans Pero</field>

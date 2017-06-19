@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100975</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La fiera</field>
 <field name="titleSort">fiera</field>
 <field name="composer">Nicola d'Arienzo</field>

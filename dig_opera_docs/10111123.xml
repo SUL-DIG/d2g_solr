@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111123</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La leggenda della sette torri</field>
 <field name="titleSort">leggenda della sette torri</field>
 <field name="composer">Alberto Gasco</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100565</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La muraille</field>
 <field name="titleSort">muraille</field>
 <field name="composer">Carlos Roque Alsina</field>

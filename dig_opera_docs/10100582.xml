@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100582</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">O pato ganso</field>
 <field name="titleSort">pato ganso</field>
 <field name="composer">Francisco Alvarenga</field>

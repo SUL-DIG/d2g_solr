@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111529</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La testa maravigliosa</field>
 <field name="titleSort">testa maravigliosa</field>
 <field name="composer">Pietro Generali</field>

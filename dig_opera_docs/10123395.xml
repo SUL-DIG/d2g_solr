@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123395</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">L'Arianna</field>
 <field name="titleSort">Arianna</field>
 <field name="composer">Bernardo Pasquini</field>

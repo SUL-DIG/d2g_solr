@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101865</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Der Ritter von der Stande</field>
 <field name="titleSort">Ritter von der Stande</field>
 <field name="composer">Carlo Emanuele Barbieri</field>

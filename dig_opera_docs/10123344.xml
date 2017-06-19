@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10123344</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Cymbia, or The Magic Thimble</field>
 <field name="titleSort">Cymbia, or The Magic Thimble</field>
 <field name="composer">[Joseph Williams] Florian Pascal</field>

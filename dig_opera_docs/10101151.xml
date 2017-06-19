@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10101151</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Daphnis et Hortense</field>
 <field name="titleSort">Daphnis et Hortense</field>
 <field name="composer">Joseph Arquier</field>

@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10110605</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La suite de vieux soldat</field>
 <field name="titleSort">suite de vieux soldat</field>
 <field name="composer">__ Fromant</field>

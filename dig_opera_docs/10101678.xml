@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101678</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il conte di Marsico</field>
 <field name="titleSort">conte di Marsico</field>
 <field name="composer">Giuseppe Balducci</field>

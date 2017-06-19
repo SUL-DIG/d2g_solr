@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101518</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Mirrors</field>
 <field name="titleSort">Mirrors</field>
 <field name="composer">Jeffrey Babock</field>

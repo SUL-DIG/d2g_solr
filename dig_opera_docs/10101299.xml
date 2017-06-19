@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10101299</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le cercle vicieux</field>
 <field name="titleSort">cercle vicieux</field>
 <field name="composer">Raoul d'Ast</field>

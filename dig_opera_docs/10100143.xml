@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100143</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Pierre et Catherine</field>
 <field name="titleSort">Pierre et Catherine</field>
 <field name="composer">Adolphe Adam</field>

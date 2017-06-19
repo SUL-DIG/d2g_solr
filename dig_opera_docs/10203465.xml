@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10203465</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Prazská legenda (The Legend of Prague)</field>
 		<field name="titleSort">Prazská legenda (The Legend of Prague)</field>
 		<field name="year">1995</field>

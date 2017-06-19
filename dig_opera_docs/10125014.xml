@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10125014</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La pastorale</field>
 <field name="titleSort">pastorale</field>
 <field name="composer">Léo Pouget</field>

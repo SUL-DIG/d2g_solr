@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10103119</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Les pêcheurs de perles</field>
 <field name="titleSort">pêcheurs de perles</field>
 <field name="composer">Georges Bizet</field>

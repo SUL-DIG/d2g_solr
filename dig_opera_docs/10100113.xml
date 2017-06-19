@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100113</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La dame jaune</field>
 <field name="titleSort">dame jaune</field>
 <field name="composer">Adolphe Adam</field>

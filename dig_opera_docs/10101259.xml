@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101259</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Dilorom</field>
 <field name="titleSort">Dilorom</field>
 <field name="composer">Mukhtar Ashrafi</field>

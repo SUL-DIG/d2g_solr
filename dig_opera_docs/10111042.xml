@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111042</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">El preso</field>
 <field name="titleSort">preso</field>
 <field name="composer">Manuel García</field>

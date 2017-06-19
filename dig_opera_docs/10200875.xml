@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10200875</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Davide in Terebinto, figura del Salvatore</field>
 		<field name="titleSort">Davide in Terebinto, figura del Salvatore</field>
 		<field name="year">1794</field>

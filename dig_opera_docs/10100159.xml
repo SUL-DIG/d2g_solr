@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100159</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Valentine, ou La chute des feuilles</field>
 <field name="titleSort">Valentine, ou La chute des feuilles</field>
 <field name="composer">Adolphe Adam</field>

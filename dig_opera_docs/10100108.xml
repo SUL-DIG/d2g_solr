@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100108</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le Caleb de Walter Scott</field>
 <field name="titleSort">Caleb de Walter Scott</field>
 <field name="composer">Adolphe Adam</field>

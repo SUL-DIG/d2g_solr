@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10130021</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Eine Sommernacht</field>
 <field name="titleSort">Sommernacht</field>
 <field name="composer">Robert Stolz</field>

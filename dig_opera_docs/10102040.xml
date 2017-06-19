@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10102040</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Ermelinda</field>
 <field name="titleSort">Ermelinda</field>
 <field name="composer">Vincenzo Battista</field>

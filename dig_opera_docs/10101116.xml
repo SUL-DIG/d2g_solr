@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101116</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">None so blind as those who won't see</field>
 <field name="titleSort">None so blind as those who won't see</field>
 <field name="composer">Samuel Arnold</field>

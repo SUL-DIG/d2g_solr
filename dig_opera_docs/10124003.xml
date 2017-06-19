@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10124003</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">The Sleep</field>
 <field name="titleSort">Sleep</field>
 <field name="composer">Jeremy Peyton Jones</field>

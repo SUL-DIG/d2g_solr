@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101826</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Un lendemain de noce</field>
 <field name="titleSort">lendemain de noce</field>
 <field name="composer">Frédéric-Étienne Barbier</field>

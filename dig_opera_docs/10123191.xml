@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10123191</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il paradiso terrestre</field>
 <field name="titleSort">paradiso terrestre</field>
 <field name="composer">Francesco Pannaria</field>

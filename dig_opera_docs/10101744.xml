@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101744</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le roi Frelon</field>
 <field name="titleSort">roi Frelon</field>
 <field name="composer">Antoine Banès</field>

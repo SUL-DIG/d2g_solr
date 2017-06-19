@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10132245</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le siège de Leyde</field>
 <field name="titleSort">siège de Leyde</field>
 <field name="composer">Adolphe Vogel</field>

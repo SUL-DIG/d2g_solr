@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10203795</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Salut au monde - neka bude sreca</field>
 		<field name="titleSort">Salut au monde - neka bude sreca</field>
 		<field name="year">1967</field>

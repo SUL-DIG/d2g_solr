@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10130251</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Les courses de Newmarket</field>
 <field name="titleSort">courses de Newmarket</field>
 <field name="composer">Joseph Strunz</field>

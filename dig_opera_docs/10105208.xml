@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10105208</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La chanson de Paris</field>
 <field name="titleSort">chanson de Paris</field>
 <field name="composer">Francis Casadesus</field>

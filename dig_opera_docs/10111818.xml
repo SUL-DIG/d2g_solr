@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10111818</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Der Geiger von Lugano</field>
 <field name="titleSort">Geiger von Lugano</field>
 <field name="composer">[Max Winterfeld] Jean Gilbert</field>

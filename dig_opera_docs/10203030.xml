@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203030</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Die obsiegende Liebe</field>
 		<field name="titleSort">obsiegende Liebe</field>
 		<field name="year">1724</field>

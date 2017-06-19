@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10201369</field>
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">La fortezza e la pietа, ossia Ferdinando ed Isabelia Regina di Castiglia con l'assedio di Granada</field>
 		<field name="titleSort">fortezza e la pietа, ossia Ferdinando ed Isabelia Regina di Castiglia con l'assedio di Granada</field>
 		<field name="year">1684</field>

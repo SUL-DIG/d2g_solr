@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10102102</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le quart d'heure de Rabelais</field>
 <field name="titleSort">quart d'heure de Rabelais</field>
 <field name="composer">Giovanni Bazzoni</field>

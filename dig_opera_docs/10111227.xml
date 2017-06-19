@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111227</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il sonetto di Dante</field>
 <field name="titleSort">sonetto di Dante</field>
 <field name="composer">Stanislao Gastaldon</field>

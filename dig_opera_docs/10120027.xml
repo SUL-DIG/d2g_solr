@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10120027</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il mercante fallito</field>
 <field name="titleSort">mercante fallito</field>
 <field name="composer">Antonio Maria Mazzoni</field>

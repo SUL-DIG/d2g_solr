@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100308</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Flauto solo</field>
 <field name="titleSort">Flauto solo</field>
 <field name="composer">Eugen d'Albert</field>

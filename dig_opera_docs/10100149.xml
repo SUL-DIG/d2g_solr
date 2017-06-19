@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100149</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">La reine d'un jour</field>
 <field name="titleSort">reine d'un jour</field>
 <field name="composer">Adolphe Adam</field>

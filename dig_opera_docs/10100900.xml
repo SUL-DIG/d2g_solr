@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100900</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Le metamorfosi odiamorose</field>
 <field name="titleSort">metamorfosi odiamorose</field>
 <field name="composer">Salvatore Apolloni</field>

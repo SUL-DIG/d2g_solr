@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10100848</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Un orage espagnol</field>
 <field name="titleSort">orage espagnol</field>
 <field name="composer">Eugène Anthiome</field>

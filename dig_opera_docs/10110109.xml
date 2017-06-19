@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10110109</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Zilda, ou La nuit des dupes</field>
 <field name="titleSort">Zilda, ou La nuit des dupes</field>
 <field name="composer">Friedrich Flotow</field>

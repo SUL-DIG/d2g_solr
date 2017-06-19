@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123792</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Il Sabba</field>
 <field name="titleSort">Sabba</field>
 <field name="composer">Emilio Perotti</field>

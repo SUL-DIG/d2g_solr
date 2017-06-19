@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100003</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">The Military Maid</field>
 <field name="titleSort">Military Maid</field>
 <field name="composer">Alfred E. Aarons</field>

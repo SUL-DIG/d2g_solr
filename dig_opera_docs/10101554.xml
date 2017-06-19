@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101554</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">The Lady of Longford</field>
 <field name="titleSort">Lady of Longford</field>
 <field name="composer">Leonhard Emil Bach</field>

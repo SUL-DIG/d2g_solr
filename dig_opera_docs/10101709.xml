@@ -2,7 +2,7 @@
 <add>
 <doc>
 <field name="id">10101709</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">The Sicilian Bride</field>
 <field name="titleSort">Sicilian Bride</field>
 <field name="composer">Michael William Balfe</field>

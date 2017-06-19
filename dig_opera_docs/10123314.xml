@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123314</field>
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Cap and Gown</field>
 <field name="titleSort">Cap and Gown</field>
 <field name="composer">Joseph Parry</field>
