@@ -13,12 +13,12 @@
         <!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
         <field name="librettist">David Bamberger</field>
         <!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
-        <field name="librettistSort”>Bamberger, David</field>
+        <field name="librettistSort">Bamberger, David</field>
 
  <!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
         <field name="librettist">Edgar Allen Poe</field>
         <!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
-        <field name="librettistSort”>Poe, Edgar Allen</field>
+        <field name="librettistSort">Poe, Edgar Allen</field>
 
 
         <field name="year">2016</field>

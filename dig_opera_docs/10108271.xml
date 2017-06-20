@@ -2,15 +2,9 @@
 <add>
 <doc>
 <field name="id">10108271</field>
-<<<<<<< Updated upstream
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Păcală</field>
 <field name="titleSort">Păcală</field>
-=======
-<field name="genre">Opera</field>
-<field name="title">Pacala</field>
-<field name="titleSort">Pacala</field>
->>>>>>> Stashed changes
 <field name="composer">Sabin Vasile Drăgoi</field>
 <field name="composerSort">Drăgoi, Sabin Vasile</field>
 <field name="year">1962</field>

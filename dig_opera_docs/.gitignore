@@ -15,4 +15,4 @@
 /tmp
 
 # Ignore .DS_Store (unneeded OSX file)
-.DS_Store
+/.DS_Store
