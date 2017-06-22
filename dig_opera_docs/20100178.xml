@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100178</field>
+        
+		<field name="genre">Opera</field>
+                
+		<field name="title">The Children of Rosenthal</field>
+        
+		<!-- The titleSort field should be the Title beginning with whatever word should be used for alphabetical sorting (the elimination of title-beginning articles). -->
+        
+		<field name="titleSort">Children of Rosenthal, The</field>
+        
+		<!-- The composer's name should be put in Natural Order: First Middle Last -->
+        
+		<field name="composer">Leonid Desyatnikov</field>
+        
+		<!-- The composer's name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="composerSort">Desyatnikov, Leonid</field>
+
+
+        
+		<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        
+		<field name="librettist">Vladimir Sorokin</field>
+        
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="librettistSort">Sorokin, Vladimir</field>
+
+ 
+   
+		<field name="year">2005</field>
+        
+		<!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
+        
+		<field name="date">March 23, 2005</field>
+        
+		<field name="theater">Bol'shoy Teatr</field>
+        
+		<field name="city">Moscow</field>
+        
+		<!-- We use the region field for states or regions. -->
+                
+		<field name="country">Russia</field>
+       
+		<!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
+        
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Children+of+Rosenthal+Leonid+Desyatnikov&amp;search_field=search</field>
+          
+	</doc>
+
+</add>
+
+

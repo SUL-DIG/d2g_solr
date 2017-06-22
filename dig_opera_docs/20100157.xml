@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100157</field>
+        
+		<field name="genre">Opera</field>
+            
+		<field name="title">The Embalmer (L'imbalsamatore)</field>
+        
+		<field name="titleSort">Embalmer (L'imbalsamatore), The</field>
+               
+		<field name="composer">Giorgio Battistelli</field>
+            
+		<field name="composerSort">Battistelli, Giorgio</field>
+
+
+        
+		<field name="librettist">Renzo Rosso</field>
+        
+		<field name="librettistSort">Rosso, Renzo</field>
+
+ 
+   
+		<field name="year">2002</field>
+        
+		<field name="date">July 10, 2002</field>
+        
+		<field name="theater">Almeida Theatre King's Cross</field>
+        
+		<field name="city">London</field>
+              
+		<field name="region">Greater London</field>
+        
+		<field name="country">United Kingdom</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Embalmer+L'imbalsamatore+Giorgio+Battistelli&amp;search_field=search</field>
+        
+	</doc>
+
+</add>
+

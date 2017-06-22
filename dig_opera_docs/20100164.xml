@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100164</field>
+        
+		<field name="genre">Opera</field>
+       
+        
+		<field name="title">The Minotaur</field>
+        
+		<field name="titleSort">Minotaur, The</field>
+               
+		<field name="composer">Harrison Birtwistle</field>
+              
+		<field name="composerSort">Birtwistle, Harrison</field>
+
+
+        
+		<field name="librettist">David Harsent</field>
+        
+		<field name="librettistSort">Harsent, David</field>
+
+ 
+
+		<field name="year">2008</field>
+        
+		<field name="date">April 15, 2008</field>
+        
+		<field name="theater">Royal Opera House, Covent Garden</field>
+        
+		<field name="city">London</field>
+        
+		<field name="region">Greater London</field>
+        
+		<field name="country">United Kingdom</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Minotaur+Harrison+Birtwistle&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+

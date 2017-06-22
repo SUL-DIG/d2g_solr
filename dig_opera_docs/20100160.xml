@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100160</field>
+        
+		<field name="genre">Opera</field>
+            
+		<field name="title">Prova d'orchestra</field>
+        
+		<field name="titleSort">Prova d'orchestra</field>
+          
+		<field name="composer">Giorgio Battistelli</field>
+         
+		<field name="composerSort">Giorgio Battistelli</field>
+
+
+        
+		<field name="librettist">Giorgio Battistelli</field>
+        
+		<field name="librettistSort">Giorgio Battistelli</field>
+
+ 
+
+		<field name="librettist">Federico Fellini</field>
+        
+		<field name="librettistSort">Federico Fellini</field>
+
+
+
+   
+		<field name="year">1995</field>
+        
+		<field name="date">November 24, 1995</field>
+        
+		<field name="theater">Théâtre Municipal</field>
+        
+		<field name="city">Strasbourg</field>
+               
+		<field name="region">Bas-Rhin</field>
+        
+		<field name="country">France</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prova+d'orchestra+Giorgio+Battistelli&amp;search_field=search</field>
+          
+	</doc>
+
+</add>
+

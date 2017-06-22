@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100223</field>
+        
+		<field name="genre">Opera</field>
+              
+		<field name="title">Drei Helden</field>
+        
+		<!-- The titleSort field should be the Title beginning with whatever word should be used for alphabetical sorting (the elimination of title-beginning articles). -->
+        
+		<field name="titleSort">Drei Helden</field>
+        
+		<!-- The composer's name should be put in Natural Order: First Middle Last -->
+        
+		<field name="composer">Jörn Arnecke</field>
+        
+		<!-- The composer's name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="composerSort">Arnecke, Jörn</field>
+
+
+        
+		<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        
+		<field name="librettist">Francis Hüsers</field>
+        
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="librettistSort">Hüsers, Francis</field>
+
+ 
+
+<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        
+		<field name="librettist">Homer</field>
+        
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="librettistSort">Homer</field>
+
+
+
+   
+<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        
+		<field name="librettist">Daniel Defoe</field>
+        
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="librettistSort">Defoe, Daniel</field>
+
+
+
+
+<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        
+		<field name="librettist">Miguel de Cervantes</field>
+        
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="librettistSort">Cervantes, Miguel de</field>
+
+
+
+
+		<field name="year">2004</field>
+        
+		<!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
+        
+		<field name="date">May 30, 2004</field>
+        
+		<field name="theater">Schlosstheater der Prinz Heinrich von Preussen</field>
+        
+		<field name="city">Rheinsberg</field>
+        
+		<!-- We use the region field for states or regions. -->
+        
+		<field name="region">Brandenburg</field>
+        
+		<field name="country">Germany</field>
+       
+		<!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
+        
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Drei+Helden+Jörn+Arnecke&amp;search_field=search</field>
+        
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

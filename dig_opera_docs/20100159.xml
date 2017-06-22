@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100159</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Die Entdeckung der Langsamkeit</field>
+        
+		<field name="titleSort">Entdeckung der Langsamkeit, Die</field>
+               
+		<field name="composer">Giorgio Battistelli</field>
+               
+		<field name="composerSort">Battistelli, Giorgio</field>
+
+
+        
+		<field name="librettist">Michael Klügl </field>
+        
+		<field name="librettistSort">Klügl, Michael</field>
+
+ 
+     
+		<field name="librettist">Sten Nadolny</field>
+        
+		<field name="librettistSort">Nadolny, Sten</field>
+
+
+
+   
+		<field name="year">1997</field>
+        
+		<field name="date">October 12, 1997</field>
+        
+		<field name="theater">Staatstheater</field>
+        
+		<field name="city">Bremen</field>
+             
+		<field name="region">Bremen</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Entdeckung+der+Langsamkeit+Giorgio+Battistelli&amp;search_field=search</field>
+          
+	</doc>
+
+</add>
+

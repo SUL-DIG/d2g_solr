@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100200</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Al gran sole carico d'amore</field>
+        
+		<!-- The titleSort field should be the Title beginning with whatever word should be used for alphabetical sorting (the elimination of title-beginning articles). -->
+        
+		<field name="titleSort">Al gran sole carico d'amore</field>
+        
+		<!-- The composer's name should be put in Natural Order: First Middle Last -->
+        
+		<field name="composer">Luigi Nono</field>
+        
+		<!-- The composer's name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="composerSort">Nono, Luigi</field>
+
+
+        
+		<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        
+		<field name="librettist">Luigi Nono</field>
+        
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="librettistSort">Nono, Luigi</field>
+
+ 
+
+<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        
+		<field name="librettist">Yuri Lyubimov</field>
+        
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="librettistSort">Lyubimov, Yuri</field>
+
+
+
+
+
+<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        
+		<field name="librettist">Bertolt Brecht</field>
+        
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="librettistSort">Brecht, Bertolt</field>
+
+
+
+
+
+<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        
+		<field name="librettist">Fidel Castro</field>
+        
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="librettistSort">Castro, Fidel</field>
+
+
+
+
+<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        
+		<field name="librettist">Che Guevara</field>
+        
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="librettistSort">Guevara, Che</field>
+
+
+
+
+
+<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        
+		<field name="librettist">Karl Marx</field>
+        
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="librettistSort">Marx, Karl</field>
+
+
+
+
+
+<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        
+		<field name="librettist">Vladimir Lenin</field>
+        
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="librettistSort">Lenin, Vladimir</field>
+
+
+
+   
+		<field name="year">1975</field>
+        
+		<!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
+        
+		<field name="date">April 4, 1975</field>
+        
+		<field name="theater">Teatro alla Scala</field>
+        
+		<field name="city">Milan</field>
+        
+		<!-- We use the region field for states or regions. -->
+        
+		<field name="region">Lombardia</field>
+        
+		<field name="country">Italy</field>
+       
+		<!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
+        
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Al+gran+sole+carico+d'amore+Luigi+Nono&amp;search_field=search</field>
+          
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->
