@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10128106</field>
 <field name="genre">Opera</field>
 <field name="title">Loving</field>
 <field name="titleSort">Loving</field>
-<field name="composer">Murray Schafer</field>
-<field name="composerSort">Schafer, Murray</field>
+<field name="composer">R. Murray Schafer</field>
+<field name="composerSort">Schafer, R. Murray</field>
 <field name="year">1966</field>
 <field name="date">1966</field>
-<field name="librettist">Murray Schafer</field>
-<field name="librettistSort">Schafer, Murray</field>
+<field name="librettist">R. Murray Schafer</field>
+<field name="librettistSort">Schafer, R. Murray</field>
 <field name="theater">CBC French Television (Canadian Broadcasting Corporation)</field>
 <field name="city">Montreal</field>
 <field name="region">Quebec</field>

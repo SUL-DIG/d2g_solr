@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961542</field>
 <field name="genre">Opera</field>
-<field name="title">Levsha (Lefty)</field>
-<field name="titleSort">Levsha (Lefty)</field>
+<field name="title">Levsha (The Left-Hander)</field>
+<field name="titleSort">Levsha (The Left-Hander)</field>
 <field name="composer">Rodion Konstantinovich Shchedrin</field>
 <field name="composerSort">Shchedrin, Rodion Konstantinovich</field>
 <field name="year">2013</field>

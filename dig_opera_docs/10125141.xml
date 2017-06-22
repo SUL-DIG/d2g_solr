@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10125141</field>
 <field name="genre">Opera</field>
-<field name="title">Povest' o nastoyashchem cheloveke</field>
-<field name="titleSort">Povest' o nastoyashchem cheloveke</field>
+<field name="title">Povest' o nastoyashchem cheloveke (The Story of a Real Man)</field>
+<field name="titleSort">Povest' o nastoyashchem cheloveke (The Story of a Real Man)</field>
 <field name="composer">Sergey Prokofiev</field>
 <field name="composerSort">Prokofiev, Sergey</field>
 <field name="year">1948</field>

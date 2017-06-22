@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10202133</field>
 		<field name="genre">Oratorio</field>
-		<field name="title">Jeanne d'Arc au bыcher</field>
-		<field name="titleSort">Jeanne d'Arc au bыcher</field>
+		<field name="title">Jeanne d'Arc au bûcher</field>
+		<field name="titleSort">Jeanne d'Arc au bûcher</field>
 		<field name="year">1938</field>
 		<field name="month">May</field>
 		<field name="day">12</field>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10129075</field>
 <field name="genre">Opera</field>
-<field name="title">Ledi Makbet Mtenskogo uyezda</field>
-<field name="titleSort">Ledi Makbet Mtenskogo uyezda</field>
+<field name="title">Ledi Makbet Mtenskogo uyezda (Lady Macbeth of the Mtsensk District)</field>
+<field name="titleSort">Ledi Makbet Mtenskogo uyezda (Lady Macbeth of the Mtsensk District)</field>
 <field name="composer">Dmitry Shostakovich</field>
 <field name="composerSort">Shostakovich, Dmitry</field>
 <field name="year">1934</field>

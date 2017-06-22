@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961047</field>
 <field name="genre">Opera</field>
@@ -10,8 +10,8 @@
 <field name="date">October 31, 2004</field>
 <field name="librettist">James Fenton</field>
 <field name="librettistSort">Fenton, James</field>
-<field name="librettist">Salmon Rushdie</field>
-<field name="librettistSort">Salmon, Rushdie</field>
+<field name="librettist">Salman Rushdie</field>
+<field name="librettistSort">Salman, Rushdie</field>
 <field name="theater">New York City Opera</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962162</field>
 <field name="genre">Opera</field>
-<field name="title">Risorgimento</field>
-<field name="titleSort">Risorgimento</field>
+<field name="title">Risorgimento!</field>
+<field name="titleSort">Risorgimento!</field>
 <field name="composer">Lorenzo Ferrero</field>
 <field name="composerSort">Ferrero, Lorenzo</field>
 <field name="year">2011</field>

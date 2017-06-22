@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10117280</field>
 <field name="genre">Opera</field>
@@ -10,6 +10,8 @@
 <field name="date">1986</field>
 <field name="librettist">Max Brod</field>
 <field name="librettistSort">Brod, Max</field>
+<field name="librettist">Franz Kafka</field>
+<field name="librettistSort">Kafka, Franz</field>
 <field name="theater">Théâtre-Royal de la Monnaie</field>
 <field name="city">Brussels</field>
 <field name="region">Brabant</field>
