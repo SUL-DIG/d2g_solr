@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10202741</field>
-<<<<<<< Updated upstream
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Mioriţa (The Ewe Lamb)</field>
 		<field name="titleSort">Mioriţa (The Ewe Lamb)</field>
-=======
-		<field name="genre">Oratorio</field>
-		<field name="title">Miorita (The Ewe Lamb)</field>
-		<field name="titleSort">Miorita (The Ewe Lamb)</field>
->>>>>>> Stashed changes
 		<field name="year">1958</field>
 		
 		

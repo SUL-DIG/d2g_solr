@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10204745</field>
-<<<<<<< Updated upstream
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Valmieras varoņi (Heroes of Valmiera)</field>
 		<field name="titleSort">Valmieras varoņi (Heroes of Valmiera)</field>
-=======
-		<field name="genre">Oratorio</field>
-		<field name="title">Valmieras varoni (Heroes of Valmiera)</field>
-		<field name="titleSort">Valmieras varoni (Heroes of Valmiera)</field>
->>>>>>> Stashed changes
 		<field name="year">1950</field>
 		
 		

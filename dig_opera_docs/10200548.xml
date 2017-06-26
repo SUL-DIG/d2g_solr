@@ -5,9 +5,6 @@
 		<field name="title">A Cartload of Shoes</field>
 		<field name="titleSort">Cartload of Shoes</field>
 		<field name="year">1996</field>
-		
-		
-		<field name="date">1996</field>
 		<field name="composer">Ronald Senator</field>
 		<field name="composerSort">Senator, Ronald</field>
 		<field name="librettist">Bertolt Brecht</field>

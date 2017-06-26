@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10202409</field>
-<<<<<<< Updated upstream
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Kráska a zvíře (Beauty and the Beast)</field>
 		<field name="titleSort">Kráska a zvíře (Beauty and the Beast)</field>
-=======
-		<field name="genre">Oratorio</field>
-		<field name="title">Kráska a zvire (Beauty and the Beast)</field>
-		<field name="titleSort">Kráska a zvire (Beauty and the Beast)</field>
->>>>>>> Stashed changes
 		<field name="year">1974</field>
 		
 		

@@ -1,29 +1,14 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10201285</field>
-<<<<<<< Updated upstream
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">La fée des eaux</field>
 		<field name="titleSort">fée des eaux</field>
-=======
-		<field name="genre">Oratorio</field>
-		<field name="title">La fée d'eau</field>
-		<field name="titleSort">fée d'eau</field>
->>>>>>> Stashed changes
-		
-		
-		
-		
 		<field name="composer">Léon Gastinel</field>
 		<field name="composerSort">Gastinel, Léon</field>
 		
 		
-		
 		<field name="year">1858</field>
-		
-		
-		
-		
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fée+d'eau+Léon+Gustave+Cyprien+Gastinel&amp;search_field=search</field>

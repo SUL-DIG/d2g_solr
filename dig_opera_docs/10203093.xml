@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10203093</field>
-<<<<<<< Updated upstream
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Oratorio Pan-lingüistico</field>
 		<field name="titleSort">Oratorio Pan-lingüistico</field>
-=======
-		<field name="genre">Oratorio</field>
-		<field name="title">Oratorio panlinguístico</field>
-		<field name="titleSort">Oratorio panlinguístico</field>
->>>>>>> Stashed changes
 		<field name="year">1970</field>
 		
 		

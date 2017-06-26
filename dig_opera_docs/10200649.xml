@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF8'?>
 <add><doc>
 		<field name="id">10200649</field>
-<<<<<<< Updated upstream
-		<field name="genre">Oratorios</field>
+		<field name="genre">Oratorio</field>
 		<field name="title">Cisařúv mim (The Emperor's Mime)</field>
 		<field name="titleSort">Cisařúv mim (The Emperor's Mime)</field>
-=======
-		<field name="genre">Oratorio</field>
-		<field name="title">Cisarúv mim (The Emperor's Mime)</field>
-		<field name="titleSort">Cisarúv mim (The Emperor's Mime)</field>
->>>>>>> Stashed changes
 		<field name="year">1994</field>
 		
 		
@@ -18,11 +12,6 @@
 		<field name="composerSort">Pololánik, Zdeněk</field>
 		<field name="librettist">Václav Renč</field>
 		<field name="librettistSort">Renč, Václav</field>
-		
-		
-		
-		
-		
 		
 		
 		

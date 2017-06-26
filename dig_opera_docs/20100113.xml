@@ -6,8 +6,8 @@
 <field name="titleSort">Hippolyte</field>
 <field name="composer">Léon Méneau</field>
 <field name="composerSort">Méneau, Léon</field>
-<field name='librettist'>Paul Gaudin</field>
-<field name='librettistSort'>Gaudin, Paul</field>
+<field name="librettist">Paul Gaudin</field>
+<field name="librettistSort">Gaudin, Paul</field>
 <field name="year">1863</field>
 <field name="date">1863</field>
 <field name="theater">Théâtre Municipal</field>
