@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10121430</field>
-<<<<<<< Updated upstream
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Così fan tutte, ossia La scuola degli amanti</field>
 <field name="titleSort">Così fan tutte, ossia La scuola degli amanti</field>
-=======
-<field name="genre">Opera</field>
-<field name="title">Cosм fan tutte, ossia La scuola degli amanti</field>
-<field name="titleSort">Cosм fan tutte, ossia La scuola degli amanti</field>
->>>>>>> Stashed changes
 <field name="composer">Wolfgang Amadeus Mozart</field>
 <field name="composerSort">Mozart, Wolfgang Amadeus</field>
 <field name="year">1790</field>

@@ -2,15 +2,9 @@
 <add>
 <doc>
 <field name="id">10125869</field>
-<<<<<<< Updated upstream
-<field name="genre">Operas</field>
+<field name="genre">Opera</field>
 <field name="title">Os mosqueteiros da rainha</field>
 <field name="titleSort">mosqueteiros da rainha</field>
-=======
-<field name="genre">Opera</field>
-<field name="title">Os mosqueteiros da reinha</field>
-<field name="titleSort">mosqueteiros da reinha</field>
->>>>>>> Stashed changes
 <field name="composer">Francisco Alves Rente</field>
 <field name="composerSort">Rente, Francisco Alves</field>
 <field name="year">1883</field>
