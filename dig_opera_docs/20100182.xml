@@ -42,11 +42,11 @@
 
  
       
-		<field name="librettist">Jacob & Wilhelm Grimm</field>
+		<field name="librettist">Jacob &amp; Wilhelm Grimm</field>
         
 		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->
         
-		<field name="librettistSort">Grimm, Jacob & Wilhelm</field>
+		<field name="librettistSort">Grimm, Jacob &amp; Wilhelm</field>
 
 
 

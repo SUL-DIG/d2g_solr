@@ -14,8 +14,7 @@
         <field name="librettist">Emily Anderson</field>
         <!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
         <field name="librettistSort">Anderson, Emily</field>
-        <field name="year">
-2013</field>
+        <field name="year">2013</field>
         <!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
         <field name="date">October 18, 2013</field>
         <field name="theater">Théâtre Adyar</field>
