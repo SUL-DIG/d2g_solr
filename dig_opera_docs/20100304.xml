@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100304</field>
+        
+		<field name="genre">Opera</field>
+                
+		<field name="title">La Paura</field>
+        
+		<!-- The titleSort field should be the Title beginning with whatever word should be used for alphabetical sorting (the elimination of title-beginning articles). -->
+        
+		<field name="titleSort">Paura, La</field>
+        
+		<!-- The composer's name should be put in Natural Order: First Middle Last -->
+        
+		<field name="composer">Orazio Sciortino</field>
+        
+		<!-- The composer's name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="composerSort">Sciortino, Orazio</field>
+
+
+        
+		<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        
+		<field name="librettist">Orazio Sciortino</field>
+        
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="librettistSort">Sciortino, Orazio</field>
+
+ 
+
+<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        
+		<field name="librettist">Alberto Mattioli</field>
+        
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="librettistSort">Mattioli, Alberto</field>
+
+
+
+
+<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        
+		<field name="librettist">Federico De Roberto</field>
+        
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="librettistSort">Roberto, Federico De</field>
+
+
+
+   
+		<field name="year">2015</field>
+        
+		<!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
+        
+		<field name="date">December 3, 2015</field>
+        
+		<field name="theater">Teatro Coccia</field>
+        
+		<field name="city">Novara</field>
+        
+		<!-- We use the region field for states or regions. -->
+        
+		<field name="region">Piemonte</field>
+        
+		<field name="country">Italy</field>
+       
+		<!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
+        
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Paura+Orazio+Sciortino&amp;search_field=search</field>
+          
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

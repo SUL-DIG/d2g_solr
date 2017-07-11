@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">201002343</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Die Versuchung des heiligen Antonius</field>
+        
+		<field name="titleSort">Versuchung des heiligen Antonius, Die</field>
+        
+		<!-- The composer's name should be put in Natural Order: First Middle Last -->
+        
+		<field name="composer">Ulrich Kreppein</field>
+        
+		<!-- The composer's name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="composerSort">Kreppein, Ulrich</field>
+
+
+        
+		<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        
+		<field name="librettist">Patrick Hahn</field>
+        
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="librettistSort">Hahn, Patrick</field>
+
+ 
+
+<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        
+		<field name="librettist">Martina Stütz</field>
+        
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="librettistSort">Stütz, Martina</field>
+
+
+
+
+<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        
+		<field name="librettist">Gustave Flaubert</field>
+        
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->
+        
+		<field name="librettistSort">Flaubert, Gustave</field>
+   
+		<field name="year">2012</field>
+        
+		<!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
+        
+		<field name="date">May 8, 2012</field>
+        
+		<field name="theater">Oldenburgisches Staatstheater</field>
+        
+		<field name="city">Oldenburg</field>
+        
+		<!-- We use the region field for states or regions. -->
+        
+		<field name="region">Niedersachsen</field>
+        
+		<field name="country">Germany</field>
+       
+		<!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
+        
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Versuchung+des+heiligen+Antonius+Ulrich+Kreppein&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->
