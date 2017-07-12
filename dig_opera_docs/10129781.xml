@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10129781</field>
 <field name="genre">Opera</field>
@@ -10,7 +10,7 @@
 <field name="date">1986</field>
 <field name="librettist">Peter Schütze</field>
 <field name="librettistSort">Schütze, Peter</field>
-<field name="theater">Lippesches Landestheater</field>
+<field name="theater">Lippisches Landestheater</field>
 <field name="city">Detmold</field>
 <field name="region">Nordrhein-Westfallen</field>
 <field name="country">Germany</field>

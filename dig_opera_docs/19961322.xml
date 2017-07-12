@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961322</field>
 <field name="genre">Opera</field>
-<field name="title">Kochankowie z klasztoru Valldemosa</field>
-<field name="titleSort">Kochankowie z klasztoru Valldemosa</field>
+<field name="title">Kochankowie z klasztoru Valldemosa (Lovers from the Valldemossa Monastery)</field>
+<field name="titleSort">Kochankowie z klasztoru Valldemosa (Lovers from the Valldemossa Monastery)</field>
 <field name="composer">Marta Ptaszyńska</field>
 <field name="composerSort">Ptaszyńska, Marta</field>
 <field name="year">2010</field>
@@ -16,6 +16,6 @@
 <field name="city">Łódź</field>
 <field name="region">Łódzkie</field>
 <field name="country">Poland</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kochankowie+z+klasztoru+Valldemosa+Marta+Ptaszyńska&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kochankowie+z+klasztoru+Valldemosa+Lovers+from+the+Valldemossa+MonasteryMarta+Ptaszyńska&amp;search_field=search</field>
 </doc>
 </add>

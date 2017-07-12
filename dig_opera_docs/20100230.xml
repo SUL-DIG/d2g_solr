@@ -34,11 +34,11 @@
 
 <!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
         
-		<field name="librettist">Diego Velasquez</field>
+		<field name="librettist">Diego Velázquez</field>
         
 		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->
         
-		<field name="librettistSort">Velasquez, Diego</field>
+		<field name="librettistSort">Velázquez, Diego</field>
 
 
 

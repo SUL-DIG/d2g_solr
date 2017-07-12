@@ -17,6 +17,6 @@
 <field name="region">Andalucia</field>
 <field name="country">Spain</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+retable+de+maese+Pedro+Manuel+de+Falla&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+retablo+de+maese+Pedro+Manuel+de+Falla&amp;search_field=search</field>
 </doc>
 </add>

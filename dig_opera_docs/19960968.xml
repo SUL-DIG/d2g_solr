@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960968</field>
 <field name="genre">Opera</field>
@@ -12,7 +12,7 @@
 <field name="librettistSort">Klimke, Christoph</field>
 <field name="librettist">Cornelia Funke</field>
 <field name="librettistSort">Funke, Cornelia</field>
-<field name="theater">Oldenburgische Staatstheater</field>
+<field name="theater">Oldenburgisches Staatstheater</field>
 <field name="city">Oldenburg</field>
 <field name="region">Niedersachsen</field>
 <field name="country">Germany</field>

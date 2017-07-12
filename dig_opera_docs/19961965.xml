@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961965</field>
 <field name="genre">Opera</field>
 <field name="title">Passazhirka (The Passenger)</field>
 <field name="titleSort">Passazhirka (The Passenger)</field>
-<field name="composer">Moisey Samuilovich Vaynberg</field>
-<field name="composerSort">Vaynberg, Moisey Samuilovich</field>
+<field name="composer">Mieczysław Weinberg</field>
+<field name="composerSort">Weinberg, Mieczysław</field>
 <field name="year">2006</field>
 <field name="date">December 25, 2006</field>
 <field name="librettist">Aleksandr Dmitryevich Medvedev</field>
@@ -15,6 +15,6 @@
 <field name="theater">International House of Music</field>
 <field name="city">Moscow</field>
 <field name="country">Russia</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Passazhirka+(The+Passenger)+Moisey+Samuilovich+Vaynberg&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Passazhirka+(The+Passenger)+Mieczysław+Weinberg&amp;search_field=search</field>
 </doc>
 </add>

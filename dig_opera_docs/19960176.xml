@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960176</field>
 <field name="genre">Opera</field>
@@ -10,7 +10,7 @@
 <field name="date">July 5, 2012</field>
 <field name="librettist">Alexander Müller-Elmau</field>
 <field name="librettistSort">Müller-Elmau, Alexander</field>
-<field name="theater">Oldenburgische Staatstheater</field>
+<field name="theater">Oldenburgisches Staatstheater</field>
 <field name="city">Oldenburg</field>
 <field name="region">Niedersachsen</field>
 <field name="country">Germany</field>

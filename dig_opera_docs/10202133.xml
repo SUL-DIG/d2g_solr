@@ -20,5 +20,5 @@
 		<field name="feastMonth">May</field>
 		<field name="feastDay">30</field>
 		<field name="feastDate">May 30</field>
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jeanne+d'Arc+au+bыcher+Arthur+Honegger&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jeanne+d'Arc+au+bûcher+Arthur+Honegger&amp;search_field=search</field>
 	</doc></add>

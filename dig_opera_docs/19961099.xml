@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961099</field>
 <field name="genre">Opera</field>
-<field name="title">Hohepa</field>
-<field name="titleSort">Hohepa</field>
+<field name="title">Hōhepa</field>
+<field name="titleSort">Hōhepa</field>
 <field name="composer">Jenny McLeod</field>
 <field name="composerSort">McLeod, Jenny</field>
 <field name="year">2012</field>

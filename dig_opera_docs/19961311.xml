@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961311</field>
 <field name="genre">Opera</field>
-<field name="title">KibergOdysseen</field>
-<field name="titleSort">KibergOdysseen</field>
+<field name="title">KibergOdysséen</field>
+<field name="titleSort">KibergOdysséen</field>
 <field name="composer">Trygve Brøske</field>
 <field name="composerSort">Brøske, Trygve</field>
 <field name="year">2014</field>
@@ -14,6 +14,6 @@
 <field name="city">Tromsø</field>
 <field name="region">Troms</field>
 <field name="country">Norway</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=KibergOdysseen+Trygve+Brøske&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=KibergOdysséen+Trygve+Brøske&amp;search_field=search</field>
 </doc>
 </add>

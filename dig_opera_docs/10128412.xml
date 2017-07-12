@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10128412</field>
 <field name="genre">Opera</field>
@@ -12,7 +12,7 @@
 <field name="librettistSort">Schönbach, Dieter</field>
 <field name="librettist">Hans Christian Andersen</field>
 <field name="librettistSort">Andersen, Hans Christian</field>
-<field name="theater">Lippesches Landestheater</field>
+<field name="theater">Lippisches Landestheater</field>
 <field name="city">Detmold</field>
 <field name="region">Nordrhein-Westfallen</field>
 <field name="country">Germany</field>

@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10129071</field>
 <field name="genre">Opera</field>
 <field name="title">Gesualdo</field>
 <field name="titleSort">Gesualdo</field>
-<field name="composer">Alfred Shnitke</field>
-<field name="composerSort">Shnitke, Alfred</field>
+<field name="composer">Alfred Schnittke</field>
+<field name="composerSort">Schnittke, Alfred</field>
 <field name="year">1995</field>
 <field name="date">1995</field>
 <field name="librettist">Richard Bletschacher</field>
@@ -15,6 +15,6 @@
 
 <field name="country">Austria</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gesualdo+Alfred+Shnitke&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gesualdo+Alfred+Schnittke&amp;search_field=search</field>
 </doc>
 </add>

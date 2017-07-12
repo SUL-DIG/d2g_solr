@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10125139</field>
 <field name="genre">Opera</field>
-<field name="title">Obrucheniye v monastïre (Betrothal in a Monastery )</field>
-<field name="titleSort">Obrucheniye v monastïre (Betrothal in a Monastery )</field>
+<field name="title">Obrucheniye v monastïre (Betrothal in a Monastery)</field>
+<field name="titleSort">Obrucheniye v monastïre (Betrothal in a Monastery)</field>
 <field name="composer">Sergey Prokofiev</field>
 <field name="composerSort">Prokofiev, Sergey</field>
 <field name="year">1946</field>
@@ -17,6 +17,6 @@
 
 <field name="country">Russia</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Obrucheniye+v+monastïre+Sergey+Prokofiev&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Obrucheniye+v+monastïre+Betrothal+in+a+Monastery+Sergey+Prokofiev&amp;search_field=search</field>
 </doc>
 </add>

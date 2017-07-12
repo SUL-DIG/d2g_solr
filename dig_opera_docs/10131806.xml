@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10131806</field>
 <field name="genre">Opera</field>
 <field name="title">Idiot</field>
 <field name="titleSort">Idiot</field>
-<field name="composer">Moisey Samuilovich Vaynberg</field>
-<field name="composerSort">Vaynberg, Moisey Samuilovich</field>
+<field name="composer">Mieczysław Weinberg</field>
+<field name="composerSort">Weinberg, Mieczysław</field>
 <field name="year">1991</field>
 <field name="date">1991</field>
 <field name="librettist">Aleksandr Dmitryevich Medvedev</field>
@@ -17,6 +17,6 @@
 
 <field name="country">Russia</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Idiot+Moisey+Samuilovich+Vaynberg&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Idiot+Mieczysław+Weinberg&amp;search_field=search</field>
 </doc>
 </add>
