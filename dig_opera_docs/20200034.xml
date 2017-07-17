@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200034</field>
+		
+		<field name="genre">Oratorio</field>
+		
+		<!-- This field is used for Oratorio subjects only. If unsure, look at current subjects already used in Opening Night! -->
+		
+		<field name="subject">Frederic Myers</field>
+		
+		<field name="title">The Immortal</field>
+		
+		<!-- The titleSort field should be the Title beginning with whatever word should be used for alphabetical sorting (the elimination of title-beginning articles). -->
+		
+		<field name="titleSort">Immortal, The</field>
+		
+		<field name="year">2015</field>
+		
+		<field name="month">July </field>
+		
+		<field name="day">4</field>
+		
+		<!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
+		
+		<field name="date">July 4, 2015</field>
+				
+		<!-- The composer's name should be put in Natural Order: First Middle Last. Notify Jacque if you ever have more than one composer. -->
+		
+		<field name="composer">Mark Simpson</field>
+		
+		<!-- The same composer's name should be put in Indirect Order: Last, First Middle, etc. Notify Jacque if you ever have more than one composer.-->
+		
+		<field name="composerSort">Simpson, Mark</field>
+		
+		<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+		
+		<field name="librettist">Melanie Challenger</field>
+		
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
+		
+		<field name="librettistSort">Challenger, Melanie</field>
+
+		<field name="librettist">Frederick Myers</field>
+		
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
+		
+		<field name="librettistSort">Myers, Frederick</field>
+	
+		<field name="librettist">Geraldine Cummins</field>
+		
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
+		
+		<field name="librettistSort">Cummins, Geraldine</field>
+	
+		<field name="theater">Bridgewater Hall</field>
+		
+		<field name="city">Manchester</field>
+		
+		<!-- We use the region field for states or regions. -->
+		
+		<field name="region">Greater Manchester</field>
+		
+		<field name="country">United Kingdom</field>
+	
+	<!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Immortal+Mark+Simpson&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

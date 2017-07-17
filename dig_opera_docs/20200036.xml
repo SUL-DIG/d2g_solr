@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200036</field>
+		
+		<field name="genre">Oratorio</field>
+		
+		<!-- This field is used for Oratorio subjects only. If unsure, look at current subjects already used in Opening Night! -->
+		
+		<field name="subject">The Passion</field>
+		
+		<field name="title">The Most Sacred Body of Jesus</field>
+		
+		<!-- The titleSort field should be the Title beginning with whatever word should be used for alphabetical sorting (the elimination of title-beginning articles). -->
+		
+		<field name="titleSort">Most Sacred Body of Jesus, The</field>
+		
+		<field name="year">2016</field>
+		
+		<field name="month">March</field>
+		
+		<field name="day">25</field>
+		
+		<!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
+		
+		<field name="date">March 25, 2016</field>
+				
+		<!-- The composer's name should be put in Natural Order: First Middle Last. Notify Jacque if you ever have more than one composer. -->
+		
+		<field name="composer">James Kallembach</field>
+		
+		<!-- The same composer's name should be put in Indirect Order: Last, First Middle, etc. Notify Jacque if you ever have more than one composer.-->
+		
+		<field name="composerSort">Kallembach, James</field>
+		
+		<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+		
+		<field name="librettist">John Milton</field>
+		
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
+		
+		<field name="librettistSort">Milton, John</field>
+		
+		<field name="theater">Boston University</field>
+		
+		<field name="city">Boston</field>
+		
+		<!-- We use the region field for states or regions. -->
+		
+		<field name="region">Massachusetts</field>
+		
+		<field name="country">United States</field>
+	
+	<!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Most+Sacred+Body+of+Jesus+James+Kallembach&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

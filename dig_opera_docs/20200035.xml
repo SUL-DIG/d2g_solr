@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200035</field>
+		
+		<field name="genre">Oratorio</field>
+		
+		<!-- This field is used for Oratorio subjects only. If unsure, look at current subjects already used in Opening Night! -->
+		
+		<field name="subject">Saint Polycarp</field>
+		
+		<field name="title">The Martyrdom of St. Polycarp</field>
+		
+		<!-- The titleSort field should be the Title beginning with whatever word should be used for alphabetical sorting (the elimination of title-beginning articles). -->
+		
+		<field name="titleSort">Martyrdom of St. Polycarp, The</field>
+		
+		<field name="year">2016</field>
+		
+		<field name="month">April</field>
+		
+		<field name="day">22</field>
+		
+		<!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
+		
+		<field name="date">April 22, 2016</field>
+		
+		<field name="feastMonth">February</field>
+		
+		<field name="feastDay">23</field>
+		
+		<field name="feastDate">February 23</field>
+		
+		<!-- The composer's name should be put in Natural Order: First Middle Last. Notify Jacque if you ever have more than one composer. -->
+		
+		<field name="composer">J.A.C. Redford</field>
+		
+		<!-- The same composer's name should be put in Indirect Order: Last, First Middle, etc. Notify Jacque if you ever have more than one composer.-->
+		
+		<field name="composerSort">Redford, J.A.C.</field>
+		
+		<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+		
+		<field name="librettist">Scott Cairns</field>
+		
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
+		
+		<field name="librettistSort">Cairns, Scott</field>
+		
+		<field name="theater">First Presbyterian Church</field>
+		
+		<field name="city">Columbia</field>
+		
+		<!-- We use the region field for states or regions. -->
+		
+		<field name="region">South Carolina</field>
+		
+		<field name="country">United States</field>
+	
+	<!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Martyrdom+of+St.+Polycarp+J.A.C.+Redford&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

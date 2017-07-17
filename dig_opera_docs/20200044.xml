@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200044</field>
+		
+		<field name="genre">Oratorio</field>
+		
+		<!-- This field is used for Oratorio subjects only. If unsure, look at current subjects already used in Opening Night! -->
+		
+		<field name="subject">World War II: The Holocaust</field>
+		
+		<field name="title">To Be Certain of the Dawn</field>
+		
+		<!-- The titleSort field should be the Title beginning with whatever word should be used for alphabetical sorting (the elimination of title-beginning articles). -->
+		
+		<field name="titleSort">To Be Certain of the Dawn</field>
+		
+		<field name="year">2005</field>
+		
+		<field name="month">November</field>
+		
+		<field name="day">17</field>
+		
+		<!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
+		
+		<field name="date">November 17,  2005</field>
+				
+		<!-- The composer's name should be put in Natural Order: First Middle Last. Notify Jacque if you ever have more than one composer. -->
+		
+		<field name="composer">Stephen Paulus</field>
+		
+		<!-- The same composer's name should be put in Indirect Order: Last, First Middle, etc. Notify Jacque if you ever have more than one composer.-->
+		
+		<field name="composerSort">Paulus, Stephen</field>
+		
+		<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+		
+		<field name="librettist">Michael Dennis Browne</field>
+		
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
+		
+		<field name="librettistSort">Browne, Michael Dennis</field>
+		
+		<field name="theater">The Basilica of Saint Mary</field>
+		
+		<field name="city">Minneapolis</field>
+		
+		<!-- We use the region field for states or regions. -->
+		
+		<field name="region">Minnesota</field>
+		
+		<field name="country">United States</field>
+	
+	<!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=To+Be+Certain+of+the+Dawn+Stephen+Paulus&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->
