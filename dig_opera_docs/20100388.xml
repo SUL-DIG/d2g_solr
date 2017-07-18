@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100388</field>
+        
+		<field name="genre">Operas</field>
+        
+		<field name="title">Another Brick in the Wall</field>
+
+        
+		<field name="titleSort">Another Brick in the Wall</field>
+       
+		<field name="composer">Julien Bilodeau</field>
+              
+		<field name="composerSort">Bilodeau, Julien</field>
+
+
+        
+		      
+		<field name="librettist">Roger Waters</field>
+        
+		<field name="librettistSort">Waters, Roger</field>
+
+
+   
+		<field name="year">2017</field>
+        
+		<field name="date">March 11, 2017</field>
+        
+		<field name="theater">Salle Wilfred-Pelletier</field>
+        
+		<field name="city">Montreal</field>
+
+        
+		<field name="region">Quebec</field>
+        
+		<field name="country">Canada</field>
+               
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=?&amp;q=Another+Brick+in+the+Wall+Julien+Bilodeau&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+

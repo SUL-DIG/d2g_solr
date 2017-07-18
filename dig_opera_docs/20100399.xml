@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100399</field>
+        
+		<field name="genre">Opera</field>
+             
+		<field name="title">L'ombre de Venceslao</field>
+        
+		<field name="titleSort">ombre de Venceslao, L'</field>
+               
+		<field name="composer">Martin Matalon</field>
+               
+		<field name="composerSort">Matalon, Martin</field>
+
+
+        
+		<field name="librettist">Jorge Lavelli</field>
+        
+		<field name="librettistSort">Lavelli, Jorge</field>
+
+ 
+      
+		<field name="librettist">[Raúl Damonte Botana] Copi</field>
+        
+		<field name="librettistSort">Copi, [Raúl Damonte Botana]</field>
+
+
+
+   
+		<field name="year">2016</field>
+        
+		<field name="date">October 12, 2016</field>
+        
+		<field name="theater">L'Opéra de Rennes</field>
+        
+		<field name="city">Rennes</field>
+        
+        
+		<field name="region">Ille-et-Vilaine</field>
+        
+		<field name="country">France</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'ombre+de+Venceslao+Martin+Matalon&amp;search_field=search</field>
+          
+	</doc>
+
+</add>
+

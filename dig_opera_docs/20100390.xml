@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100390</field>
+        
+		<field name="genre">Operas</field>
+       
+		<field name="title">Blue Viola</field>
+
+		<field name="titleSort">Blue Viola</field>
+             
+		<field name="composer">Peter Hilliard</field>
+               
+		<field name="composerSort">Hilliard, Peter</field>
+
+
+        
+		<field name="librettist">Matt Boresi</field>
+
+        
+		<field name="librettistSort">Boresi, Matt</field>
+
+ 
+   
+		<field name="year">2015</field>
+
+        
+		<field name="date">March 20, 2015</field>
+        
+		<field name="theater">Artisphere</field>
+        
+		<field name="city">Arlington</field>
+               
+		<field name="region">Virginia</field>
+        
+		<field name="country">United States</field>
+        
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=?&amp;q=Blue+Viola+Peter+Hilliard&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+

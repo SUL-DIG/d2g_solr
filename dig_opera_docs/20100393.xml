@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100393</field>
+        
+		<field name="genre">Operas</field>
+              
+		<field name="title">Gold!</field>
+        
+		<field name="titleSort">Gold!</field>
+              
+		<field name="composer">Leonard Evers</field>
+        
+		<field name="composerSort">Evers, Leonard</field>
+
+
+        
+		<field name="librettist">Flora Verbrugge</field>
+        
+		<field name="librettistSort">Verbrugge, Flora</field>
+
+ 
+   
+		<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+        
+		<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+
+
+
+   
+		<field name="year">2012</field>
+        
+		<field name="date">September 30, 2012</field>
+        
+		<field name="theater">Theater Sonnevanck</field>
+        
+		<field name="city">Enschede</field>
+        
+        
+		<field name="region">Overijssel</field>
+        
+		<field name="country">Netherlands</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gold!+Leonard+Evers&amp;search_field=search</field>
+         
+	</doc>
+
+</add>
+
