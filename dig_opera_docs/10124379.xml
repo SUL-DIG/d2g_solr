@@ -7,7 +7,8 @@
 <field name="composer">Giovanni Pipitone</field>
 <field name="composerSort">Pipitone, Giovanni</field>
 <field name="year">1875</field>
-<field name="date">1875</field><field name="theater">Conservatorio</field>
+<field name="date">1875</field>
+
 <field name="city">Palermo</field>
 <field name="region">Sicilia</field>
 <field name="country">Italy</field>

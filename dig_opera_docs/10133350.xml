@@ -7,7 +7,8 @@
 <field name="composer">Dionisio Zamparelli</field>
 <field name="composerSort">Zamparelli, Dionisio</field>
 <field name="year">1746</field>
-<field name="date">1746</field><field name="theater">Teatro Nuovo</field>
+<field name="date">1746</field>
+
 <field name="city">Livorno</field>
 <field name="region">Toscana</field>
 <field name="country">Italy</field>

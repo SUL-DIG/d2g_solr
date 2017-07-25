@@ -11,7 +11,8 @@
 <field name="librettistSort">Cremonesi, Giovanni Battista</field>
 
 <field name="year">1854</field>
-<field name="date">1854</field><field name="theater">Teatro Sociale</field>
+<field name="date">1854</field>
+
 <field name="city">Bergamo</field>
 <field name="region">Lombardia</field>
 <field name="country">Italy</field>

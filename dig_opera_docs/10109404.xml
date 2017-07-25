@@ -7,16 +7,6 @@
 <field name="composer">__ Favara</field>
 <field name="composerSort">Favara, __</field>
 
-<!--Old Information-->
-<field name="year">1904</field>
-<field name="date">1904</field>
-<field name="theater">Teatro Verdi</field>
-<field name="city">Florence</field>
-<field name="region">Toscana</field>
-<field name="country">Italy</field>
-<field name="subgenre">Operetta</field>
-
-<!--New Information-->
 <field name="librettist">Gabriele d'Annunzio</field>
 <field name="librettistSort">d'Annunzio, Gabriele</field>
 <field name="theater">Teatro Costanzi</field>
@@ -24,8 +14,6 @@
 <field name="region">Lazio</field>
 <field name="country">Italy</field>
 <field name="date">1904</field>
-<field name="year">1904</field>
-<!--End New Information-->
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+figlia+di+Jorio+__+Favara&amp;search_field=search</field>
 </doc>

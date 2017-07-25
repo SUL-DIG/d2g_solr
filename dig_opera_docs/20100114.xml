@@ -6,8 +6,8 @@
 <field name="titleSort">Chrémyle, ou Le carnival d'Athènes</field>
 <field name="composer">Alfred Josset</field>
 <field name="composerSort">Josset, Alfred</field>
-<field name='librettist'>A. Darde</field>
-<field name='librettistSort'>Darde, A.</field>
+<field name="librettist">A. Darde</field>
+<field name="librettistSort">Darde, A.</field>
 <field name="year">1885</field>
 <field name="date">1885</field>
 <field name="theater">Grand-Théâtre</field>
