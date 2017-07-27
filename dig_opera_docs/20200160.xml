@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200160</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="subject">Jeremiah</field>
+		
+		<field name="title">Lamentations of Jeremiah</field>
+		
+		<field name="titleSort">Lamentations of Jeremiah</field>
+		
+		<field name="year">1984</field>
+		
+		<field name="month">April</field>
+		
+		<field name="day">15</field>
+		
+		<field name="date">April 15, 1984</field>
+					
+		<field name="composer">Nicholas van Slyck</field>
+			
+		<field name="composerSort">Slyck, Nicholas van</field>
+			
+		<field name="city">Boston</field>
+			
+		<field name="region">Massachusetts</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lamentations+of+Jeremiah+Nicholas+van+Slyck&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

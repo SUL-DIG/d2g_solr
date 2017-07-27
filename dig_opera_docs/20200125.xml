@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200125</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="subject">Solomon</field>
+		
+		<field name="title">The Greatest Song: In Critique of Solomon</field>
+		
+		<field name="titleSort">Greatest Song: In Critique of Solomon, The</field>
+		
+		<field name="year">1964</field>
+		
+		<field name="month">April</field>
+		
+		<field name="day">1</field>
+		
+		<field name="date">April 1, 1964</field>
+			
+		<field name="composer">Ina Lohr</field>
+			
+		<field name="composerSort">Lohr, Ina</field>
+				
+		<field name="theater">Trinity Christian College</field>
+		
+		<field name="city">Palo Heights</field>
+			
+		<field name="region">Illinois</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Greatest+Song+In+Critique+of+Solomon&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

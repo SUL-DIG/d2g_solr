@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200137</field>
+		
+		<field name="genre">Oratorio</field>
+				
+		<field name="title">Audience Oratorio</field>
+		
+		<field name="titleSort">Audience Oratorio</field>
+		
+		<field name="year">1975</field>
+		
+		<field name="month">December</field>
+		
+		
+		<field name="date">December 1975</field>
+					
+		<field name="composer">Kirk Nurock</field>
+			
+		<field name="composerSort">Nurock, Kirk</field>
+				
+		<field name="theater">The Kitchen</field>
+		
+		<field name="city">New York</field>
+			
+		<field name="region">New York</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Audience+Oratorio+Kirk+Nurock&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

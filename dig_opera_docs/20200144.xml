@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200144</field>
+		
+		<field name="genre">Oratorio</field>
+				
+		<field name="title">The Descent into Hell</field>
+		
+		<field name="titleSort">Descent into Hell, The</field>
+		
+		<field name="year">1979</field>
+				
+		<field name="date">1979</field>
+				
+		<field name="composer">Daniel Pinkham</field>
+			
+		<field name="composerSort">Pinkham, Daniel</field>
+		
+		<field name="theater">West Virginia Wesleyan College</field>
+		
+		<field name="city">Buckhannon</field>
+			
+		<field name="region">West Virginia</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Descent+into+Hell+Daniel+Pinkham&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

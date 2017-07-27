@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200082</field>
+		
+		<field name="genre">Oratorio</field>
+					
+		<field name="title">Camp Meeting</field>
+		
+		<field name="titleSort">Camp Meeting</field>
+		
+		<field name="year">1977</field>
+		
+		<field name="month">August</field>
+		
+		<field name="day">5</field>
+		
+		<field name="date">August 5, 1977</field>
+			
+		<field name="composer">Al Carmines</field>
+			
+		<field name="composerSort">Carmines, Al</field>
+					
+		<field name="theater">Greenwich Mews Theatre</field>
+		
+		<field name="city">New York</field>
+			
+		<field name="region">New York</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Camp+Meeting+Al+Carmines&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

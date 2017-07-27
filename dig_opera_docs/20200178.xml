@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200178</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="subject">Abraham and Sarah</field>
+		
+		<field name="title">The Story of Abraham, Part I</field>
+		
+		<field name="titleSort">Story of Abraham, Part I, The</field>
+		
+		<field name="year">1972</field>
+		
+		<field name="month">May</field>
+		
+		<field name="day">4</field>
+		
+		<field name="date">May 4, 1972</field>
+				
+		<field name="composer">Richard Yardumian</field>
+			
+		<field name="composerSort">Yardumian, Richard</field>
+				
+		<field name="theater">Maryville College</field>
+		
+		<field name="city">Maryville</field>
+			
+		<field name="region">Tennessee </field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Story+of+Abraham+Part+I+Richard+Yardumian&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

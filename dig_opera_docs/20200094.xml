@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200094</field>
+		
+		<field name="genre">Oratorio</field>
+				
+		<field name="title">The Great Gift</field>
+		
+		<field name="titleSort">Great Gift, The</field>
+		
+		<field name="year">1958</field>
+		
+		<field name="month">May</field>
+		
+		<field name="day">1</field>
+		
+		<field name="date">May 1, 1958</field>
+					
+		<field name="composer">Merrill Ellis</field>
+			
+		<field name="composerSort">Ellis, Merrill</field>
+			
+		<field name="librettist">David Patrick</field>
+			
+		
+		<field name="librettistSort">Patick, David</field>
+		
+		<field name="theater">Kansas State College</field>
+		
+		<field name="city">Pittsburg</field>
+			
+		<field name="region">Kansas</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Great+Gift+merrill+Ellis&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

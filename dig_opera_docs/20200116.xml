@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200116</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="subject">John James Audubon</field>
+		
+		<field name="title">John James Audubon</field>
+		
+		<field name="titleSort">John James Audubon</field>
+		
+		<field name="year">1964</field>
+			
+		<field name="date">1964</field>
+				
+		<field name="composer">Eunice Lea Kettering</field>
+			
+		<field name="composerSort">Kettering, Eunice Lea</field>
+			
+		<field name="librettist">Melrose Pitman</field>
+			
+		
+		<field name="librettistSort">Pitman, Melrose</field>
+		
+		<field name="city">Dayton</field>
+			
+		<field name="region">Ohio</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=John+James+Audubon+Eunice+Lea+Kettering&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

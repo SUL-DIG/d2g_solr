@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200179</field>
+		
+		<field name="genre">Oratorio</field>
+				
+		<field name="title">Before the War: A Prayer for Peace</field>
+		
+		<field name="titleSort">Before the War: A Prayer for Peace</field>
+		
+		<field name="year">1982</field>
+		
+		<field name="month">November</field>
+		
+		<field name="day">23</field>
+		
+		<field name="date">November 23, 1982</field>
+					
+		<field name="composer">David A. Zabriskie</field>
+			
+		<field name="composerSort">Zabriskie, David A.</field>
+				
+		<field name="theater">Northwestern University</field>
+		
+		<field name="city">Evanston</field>
+			
+		<field name="region">Illinois</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Before+the+War+A+Prayer+for+Peace+David+A.+Zabriskie&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

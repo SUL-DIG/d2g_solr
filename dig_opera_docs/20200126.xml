@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200126</field>
+		
+		<field name="genre">Oratorio</field>
+				
+		<field name="title">The Iron Hand</field>
+		
+		<field name="titleSort">Iron Hand, The</field>
+		
+		<field name="year">1975</field>
+		
+		<field name="month">December</field>
+		
+		<field name="day">9</field>
+		
+		<field name="date">December 9, 1975</field>
+				
+		<field name="composer">Edwin London</field>
+			
+		<field name="composerSort">London, Edwin</field>
+			
+		<field name="librettist">Donald Justice</field>
+			
+		
+		<field name="librettistSort">Justice, Donald</field>
+	
+		<field name="librettist">Herman Melville</field>
+			
+		
+		<field name="librettistSort">Melville, Herman</field>
+		
+		<field name="theater">University of Illinois</field>
+		
+		<field name="city">Urbana</field>
+			
+		<field name="region">Illinois</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Iron+Hand+Edwin+London&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200171</field>
+		
+		<field name="genre">Oratorio</field>
+				
+		<field name="title">This is the American Earth</field>
+		
+		<field name="titleSort">This is the American Earth</field>
+		
+		<field name="year">1976</field>
+		
+		<field name="month">October</field>
+		
+		<field name="day">17</field>
+		
+		<field name="date">October 17, 1976</field>
+					
+		<field name="composer">Scott Wilkinson</field>
+			
+		<field name="composerSort">Wilkinson, Scott</field>
+			
+		<field name="librettist">Ansel Adams</field>
+			
+		
+		<field name="librettistSort">Adams, Ansel</field>
+	
+		<field name="librettist">Nancy Newhall</field>
+			
+		
+		<field name="librettistSort">Newhall, Nancy</field>
+		
+		<field name="theater">University of New Mexico</field>
+		
+		<field name="city">Albuquerque</field>
+			
+		<field name="region">New Mexico</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=This+is+thte+American+Earth+Scott+Wilkinson&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

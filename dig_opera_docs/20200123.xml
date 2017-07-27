@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200123</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="title">The Lord Reigneth</field>
+		
+		<field name="titleSort">Lord Reigneth, The</field>
+		
+		<field name="year">1962</field>
+		
+		<field name="month">February</field>
+			
+		<field name="date">February 1962</field>
+			
+		<field name="composer">Grace Leonard</field>
+			
+		<field name="composerSort">Leonard, Grace</field>
+			
+		<field name="theater">Community CHristian Chruch</field>
+		
+		<field name="city">Kansas City</field>
+			
+		<field name="region">Missouri</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Lord+Reigneth+Grace+Leonard&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

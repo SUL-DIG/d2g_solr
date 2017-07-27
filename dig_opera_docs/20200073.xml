@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200073</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="subject">The Passion</field>
+		
+		<field name="title">The Passion According to St. Matthew</field>
+		
+		<field name="titleSort">Passion According to St. Matthew, The</field>
+		
+		<field name="year">1962</field>
+		
+		<field name="month">April</field>
+		
+		<field name="day">28</field>
+		
+		<field name="date">April 28, 1962</field>
+					
+		<field name="composer">Howard Boatwright</field>
+			
+		<field name="composerSort">Boatwright, Howard</field>
+				
+		<field name="theater">St. Thomas Episcopal Church</field>
+		
+		<field name="city">New Haven</field>
+			
+		<field name="region">Connecticut</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Passion+According+to+St.+Matthew+Howard+Boatwright&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

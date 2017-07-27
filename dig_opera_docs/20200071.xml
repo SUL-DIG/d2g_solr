@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200071</field>
+		
+		<field name="genre">Oratorio</field>
+					
+		<field name="title">The Rock</field>
+		
+		<field name="titleSort">Rock, The</field>
+		
+		<field name="year">1958</field>
+		
+		<field name="month">March</field>
+		
+		<field name="day">16</field>
+		
+		<field name="date">March 16, 1958</field>
+					
+		<field name="composer">Samuel Thomas Beversdorf</field>
+			
+		<field name="composerSort">Beversdorf, Samuel Thomas</field>
+			
+		<field name="librettist">Thomas Stearns Eliot</field>
+			
+		
+		<field name="librettistSort">Eliot, Thomas Stearns</field>
+		
+		
+		<field name="city">Bloomington</field>
+			
+		<field name="region">Indiana</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Rock+Samuel+Thomas+Beversdorf&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

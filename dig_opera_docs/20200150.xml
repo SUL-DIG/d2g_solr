@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200150</field>
+		
+		<field name="genre">Oratorio</field>
+				
+		<field name="title">Midsummer Dream Night</field>
+		
+		<field name="titleSort">Midsummer Dream Night</field>
+		
+		<field name="year">1961</field>
+		
+		<field name="month">June</field>
+		
+		<field name="day">25</field>
+		
+		<field name="date">June 25, 1961</field>
+			
+		<field name="composer">Peter P. Sacco</field>
+			
+		<field name="composerSort">Sacco, Peter P.</field>
+			
+		<field name="librettist">George B. Harris</field>
+			
+		
+		<field name="librettistSort">Harris, George B.</field>
+				
+		<field name="city">San Francisco</field>
+			
+		<field name="region">California</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Midsummer+Dream+Night+Peter+P.+Sacco&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

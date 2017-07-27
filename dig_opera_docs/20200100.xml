@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200100</field>
+		
+		<field name="genre">Oratorio</field>
+				
+		<field name="title">Obbokiah</field>
+		
+		<field name="titleSort">Obookiah</field>
+		
+		<field name="year">1970</field>
+				
+		<field name="date">1970</field>
+					
+		<field name="composer">Robert Graham</field>
+			
+		<field name="composerSort">Graham, Robert</field>
+			
+		<field name="librettist">Jeana Graham</field>
+			
+		
+		<field name="librettistSort">Graham, Jeana</field>
+		
+		
+		<field name="city">Honolulu</field>
+			
+		<field name="region">Hawaii</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Obookiah+Robert+Graham&amp;search_field=search</field>
+   
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

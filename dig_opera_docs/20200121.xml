@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200121</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="subject">Pentecost</field>
+		
+		<field name="title">Spiritus intelligentiae, Sanctus</field>
+		
+		<field name="titleSort">Spiritus intelligentiae, Sanctus</field>
+		
+		<field name="year">1956</field>
+		
+		<field name="month">May</field>
+		
+		<field name="day">30</field>
+		
+		<field name="date">May 30, 1956</field>
+				
+		<field name="composer">Ernst Krenek</field>
+			
+		<field name="composerSort">Krenek, Ernst</field>
+			
+		<field name="librettist">Søren Kierkegaard</field>
+			
+		
+		<field name="librettistSort">Kierkegaard, Søren</field>
+		
+		<field name="theater">WDR Radio (Westdeutscher Rundfunk)</field>
+		
+		<field name="city">Cologne</field>
+			
+		<field name="region">Nordrhein-Westfallen</field>
+		
+		<field name="country">Germany</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Spiritus+intelligentiae,+Sanctus+Ernst+Krenek&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

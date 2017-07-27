@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200142</field>
+		
+		<field name="genre">Oratorio</field>
+				
+		<field name="title">The Return of Odysseus</field>
+		
+		<field name="titleSort">Return of Odysseus, The</field>
+		
+		<field name="year">1957</field>
+		
+		<field name="month">March</field>
+		
+		<field name="day">11</field>
+		
+		<field name="date">March 11, 1957</field>
+					
+		<field name="composer">Burrill Phillips</field>
+			
+		<field name="composerSort">Phillips, Burrill</field>
+			
+		<field name="librettist">Alberta Phillips</field>
+			
+		
+		<field name="librettistSort">Phillips, Alberta</field>
+	
+		<field name="librettist">Homer</field>
+			
+		
+		<field name="librettistSort">Homer</field>
+	
+		<field name="theater">University of Illinois</field>
+	
+		<field name="city">Urbana</field>
+			
+		<field name="region">Illinois</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Return+of+Odysseus+Burrill+Phillips&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

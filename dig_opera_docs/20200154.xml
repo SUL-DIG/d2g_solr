@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200154</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="title">The Guardian Angel: A Carolina Legend</field>
+		
+		<field name="titleSort">Guardian Angel: A Carolina Legend, The</field>
+		
+		<field name="year">1926</field>
+			
+		<field name="date">1926</field>
+		
+		<field name="composer">Charles Sanford Skilton</field>
+			
+		<field name="composerSort">Sanford Skilton, Charles</field>
+			
+		<field name="librettist">Abbie Farwell Brown</field>
+			
+		
+		<field name="librettistSort">Brown, Abbie Farwell</field>
+				
+		<field name="city">Independence</field>
+			
+		<field name="region">Kansas</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Guardian+Angel+A+Carolina+Legend+Charles+Sanford+Skilton&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200170</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="subject">The Passion</field>
+		
+		<field name="title">The Passion According to a Cynic: Trial, Persecution and Death</field>
+		
+		<field name="titleSort">Passion According to a Cynic: Trial, Persecution and Death, The</field>
+		
+		<field name="year">1971</field>
+		
+		<field name="month">March</field>
+		
+		<field name="day">28</field>
+		
+		<field name="date">March 28, 1971</field>
+				
+		<field name="composer">Michael White</field>
+			
+		<field name="composerSort">White, Michael</field>
+				
+		<field name="city">Philadelphia</field>
+			
+		<field name="region">Pennsylvania</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Passion+Accoridng+to+a+Cynic+Michael+White&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

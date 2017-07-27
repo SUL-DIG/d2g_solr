@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200093</field>
+		
+		<field name="genre">Oratorio</field>
+				
+		<field name="title">This We Believe</field>
+		
+		<field name="titleSort">This We Believe</field>
+		
+		<field name="year">1975</field>
+		
+		<field name="month">March</field>
+			
+		<field name="date">March</field>
+		
+		<field name="feastMonth">1975</field>
+
+		<field name="composer">Cecil Effinger</field>
+					
+		<field name="composerSort">Effinger, Cecil</field>
+						
+		<field name="city">Nashville</field>
+			
+		<field name="region">Tennessee</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=This+We+Believe+Cecil+Effinger&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

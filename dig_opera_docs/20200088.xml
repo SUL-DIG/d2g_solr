@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200088</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="subject">Christmas</field>
+		
+		<field name="title">From the Touch of Christmas</field>
+		
+		<field name="titleSort">From the Touch of Christmas</field>
+		
+		<field name="year">1982</field>
+		
+		<field name="month">December</field>
+		
+		<field name="day">5</field>
+		
+		<field name="date">December 5, 1982</field>
+		
+		<field name="feastMonth">December</field>
+		
+		<field name="feastDay">25</field>
+		
+		<field name="feastDate">December 25</field>
+			
+		<field name="composer">Augusta Cecconi-Bates</field>
+			
+		<field name="composerSort">Cecconi-Bates, Augusta</field>
+			
+		<field name="librettist">R. Wayne Archer</field>
+			
+		
+		<field name="librettistSort">Archer, R. Wayne</field>
+		
+		<field name="theater">Syracuse University</field>
+		
+		<field name="city">Syracuse</field>
+			
+		<field name="region">New York</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=From+the+Touch+of+Christmas+Augusta+Cecconi-Bates&amp;search_field=search</field>
+   
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

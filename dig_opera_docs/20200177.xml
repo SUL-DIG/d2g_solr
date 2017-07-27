@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200177</field>
+		
+		<field name="genre">Oratorio</field>
+					
+		<field name="title">To Form a More Perfect Union</field>
+		
+		<field name="titleSort">To Form a More Perfect Union</field>
+		
+		<field name="year">1976</field>
+			
+		<field name="date">1976</field>
+					
+		<field name="composer">James D. Yannatos</field>
+			
+		<field name="composerSort">Yannatos, James D.</field>
+			
+		<field name="librettist">Martin Robbins</field>
+			
+		
+		<field name="librettistSort">Robins, Martin</field>
+		
+		<field name="theater">College of William and Mary</field>
+		
+		<field name="city">Williamsburg</field>
+			
+		<field name="region">Virginia</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=To+Form+a+More+Perfect+Union+James+D.+Yannatos&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

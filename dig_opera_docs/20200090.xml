@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200090</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="subject">The Prophecies of Isaiah</field>
+		
+		<field name="title">Isaiah's Prophecy</field>
+		
+		<field name="titleSort">Isaiah's Prophecy</field>
+		
+		<field name="year">1962</field>
+		
+		<field name="month">December</field>
+		
+		<field name="day">12</field>
+		
+		<field name="date">December 12, 1962</field>
+				
+		<field name="composer">Paul Creston</field>
+			
+		<field name="composerSort">Creston, Paul</field>
+				
+		<field name="theater">University of South Florida</field>
+		
+		<field name="city">Tampa</field>
+			
+		<field name="region">Florida</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Isaiah's+Prophecy+Paul+Creston&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

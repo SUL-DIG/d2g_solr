@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200143</field>
+		
+		<field name="genre">Oratorio</field>
+					
+		<field name="title">Hamaguchi</field>
+		
+		<field name="titleSort">Hamaguchi</field>
+		
+		<field name="year">1973</field>
+			
+		<field name="date">1973</field>
+				
+		<field name="composer">Alexandra Pierce</field>
+			
+		<field name="composerSort">Pierce, Alexandra</field>
+			
+		<field name="librettist">Milton Miller</field>
+			
+		
+		<field name="librettistSort">Miller, Milton</field>
+		
+		<field name="theater">University of California</field>
+		
+		<field name="city">Riverside</field>
+			
+		<field name="region">California</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hamaguchi+Alexandra+Pierce&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200146</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="title">From Paradise Lost</field>
+		
+		<field name="titleSort">From Paradise Lost</field>
+		
+		<field name="year">1972</field>
+		
+		<field name="month">May</field>
+			
+		<field name="date">May 1972</field>
+				
+		<field name="composer">Phillip Rhodes</field>
+			
+		<field name="composerSort">Rhodes, Phillip</field>
+			
+		<field name="librettist">John Milton</field>
+			
+		
+		<field name="librettistSort">Milton, John</field>
+			
+		<field name="city">Louisville</field>
+			
+		<field name="region">Kentucky</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=From+Paradise+Lost+Phillip+Rhodes&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200120</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="title">Glauben und Wissen</field>
+		
+		<field name="titleSort">Glauben und Wissen</field>
+		
+		<field name="year">1966</field>
+		
+		<field name="month">July</field>
+		
+		<field name="day">21</field>
+				
+		<field name="date">July 21, 1966</field>
+				
+		<field name="composer">Ernst Krenek</field>
+			
+		<field name="composerSort">Krenek, Ernst</field>
+			
+		<field name="librettist">Ernst Krenek</field>
+			
+		
+		<field name="librettistSort">Krenek, Ernst</field>
+				
+		<field name="city">Hamburg</field>
+			
+		<field name="region">Hamburg</field>
+		
+		<field name="country">Germany</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Glauben+und+Wissen+Ernst+Krenek&amp;search_field=search</field>
+   
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

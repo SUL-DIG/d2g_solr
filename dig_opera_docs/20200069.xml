@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200069</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="subject">Judas Iscariot</field>
+		
+		<field name="title">Judas Iscariot</field>
+		
+		<field name="titleSort">Judas Iscariot</field>
+		
+		<field name="year">1938</field>
+		
+		<field name="month">April</field>
+		
+		<field name="day">6</field>
+		
+		<field name="date">April 6, 1938</field>
+					
+		<field name="composer">Arthur C. Berdahl</field>
+			
+		<field name="composerSort">Berdahl, Arthur C.</field>
+			
+		<field name="librettist">David A. Johnson</field>
+			
+		
+		<field name="librettistSort">Johnson, David A.</field>
+		
+		<field name="theater">University of Iowa</field>
+		
+		<field name="city">Iowa City</field>
+			
+		<field name="region">Iowa</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Judas+Iscariot+Arthur+C.+Berdahl&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

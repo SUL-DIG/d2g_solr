@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200099</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="subject">The Passover</field>
+		
+		<field name="title">Haggadah: A Search for Freedom</field>
+		
+		<field name="titleSort">Haggadah: A Search for Freedom</field>
+		
+		<field name="year">1974</field>
+		
+		<field name="month">March</field>
+				
+		<field name="date">March 1974</field>
+					
+		<field name="composer">Morton Gold</field>
+			
+		<field name="composerSort">Gold, Morton</field>
+			
+		<field name="librettist">Harold Lerner</field>
+			
+		
+		<field name="librettistSort">Lerner, Harold</field>
+		
+		<field name="theater">Temple Adath Yeshurun</field>
+		
+		<field name="city">Syracuse</field>
+			
+		<field name="region">New York</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Haggadah+A+Search+for+Freedom+Morton+Gold&amp;search_field=search</field>
+    
+
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

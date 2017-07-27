@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200066</field>
+		
+		<field name="genre">Oratorio</field>
+		
+		<!-- This field is used for Oratorio subjects only. If unsure, look at current subjects already used in Opening Night! -->
+			
+		<field name="title">Usania</field>
+		
+		<!-- The titleSort field should be the Title beginning with whatever word should be used for alphabetical sorting (the elimination of title-beginning articles). -->
+		
+		<field name="titleSort">Usania</field>
+		
+		<field name="year">1979</field>
+				
+		<!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
+		
+		<field name="date">1979</field>
+				
+		<!-- The composer's name should be put in Natural Order: First Middle Last. Notify Jacque if you ever have more than one composer. -->
+		
+		<field name="composer">Ernst Bacon</field>
+		
+		<!-- The same composer's name should be put in Indirect Order: Last, First Middle, etc. Notify Jacque if you ever have more than one composer.-->
+		
+		<field name="composerSort">Bacon, Ernst</field>
+		
+		<!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+		
+		<field name="librettist">Walt Whitman</field>
+		
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
+		
+		<field name="librettistSort">Whitman, Walt</field>
+		
+		<field name="theater">Palo Alto Center</field>
+		
+		<field name="city">Palo Alto</field>
+		
+		<!-- We use the region field for states or regions. -->
+		
+		<field name="region">California</field>
+		
+		<field name="country">United States</field>
+	
+	<!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Usania+Ernst+Bacon&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

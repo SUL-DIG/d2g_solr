@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200176</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="title">The Adequate Earth</field>
+		
+		<field name="titleSort">Adequate Earth, The</field>
+		
+		<field name="year">1976</field>
+		
+		<field name="month">February</field>
+		
+		<field name="day">5</field>
+		
+		<field name="date">1976</field>
+					
+		<field name="composer">Robert Arthur Wykes</field>
+			
+		<field name="composerSort">Wykes, Robert Arthur</field>
+			
+		<field name="librettist">Donald Finkel</field>
+			
+		
+		<field name="librettistSort">Finkel, Donald</field>
+			
+		<field name="city">St. Louis</field>
+			
+		<field name="region">Missouri</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Adequate+Earth+Robert+Arthur+Wykes&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

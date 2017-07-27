@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200134</field>
+		
+		<field name="genre">Oratorio</field>
+				
+		<field name="title">The Miracle</field>
+		
+		<field name="titleSort">Miracle, The</field>
+		
+		<field name="year">1964</field>
+		
+		<field name="month">December</field>
+		
+		<field name="day">13</field>
+		
+		<field name="date">December 13, 1964</field>
+					
+		<field name="composer">Lyn Murray</field>
+			
+		<field name="composerSort">Murray, Lyn</field>
+				
+		<field name="theater">Oneonta Congregational Church</field>
+		
+		<field name="city">Pasadena</field>
+			
+		<field name="region">California</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Miracle+Lyn+Murray&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

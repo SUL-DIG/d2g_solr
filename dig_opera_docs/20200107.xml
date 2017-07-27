@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200107</field>
+		
+		<field name="genre">Oratorio</field>
+					
+		<field name="title">Vox Populous: An Active Oratorio</field>
+		
+		<field name="titleSort">Vox Populous: An Active Oratorio</field>
+		
+		<field name="year">1973</field>
+		
+		<field name="month">December</field>
+			
+		<field name="date">December 1973</field>
+					
+		<field name="composer">Sydney Hodkinson</field>
+			
+		<field name="composerSort">Hodkinson, Sydney</field>
+			
+		<field name="librettist">Lee Devin</field>
+			
+		
+		<field name="librettistSort">Devin, Lee</field>
+			
+		<field name="city">Minneapolis</field>
+			
+		<field name="region">St. Paul</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vox+Populous+An+Active+Oratorio+Sydney+Hodkinson&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

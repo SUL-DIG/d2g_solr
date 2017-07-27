@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200169</field>
+		
+		<field name="genre">Oratorio</field>
+				
+		<field name="title">The Seasons</field>
+		
+		<field name="titleSort">Seasons, The</field>
+		
+		<field name="year">1968</field>
+			
+		<field name="date">1968</field>
+			
+		<field name="composer">Paul William Whear</field>
+			
+		<field name="composerSort">Whear, Paul William</field>
+			
+		<field name="librettist">Ralph Stutzman</field>
+			
+		
+		<field name="librettistSort">Stutzman, Ralph</field>
+		
+		<field name="city">Omaha</field>
+			
+		<field name="region">Nebraska</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Seasons+Paul+William+Whear&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

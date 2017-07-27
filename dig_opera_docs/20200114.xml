@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200114</field>
+		
+		<field name="genre">Oratorio</field>
+					
+		<field name="title">The Children of Boston</field>
+		
+		<field name="titleSort">Children of Boston, The</field>
+		
+		<field name="year">1954</field>
+		
+		<field name="month">August</field>
+		
+		<field name="day">27</field>
+		
+		<field name="date">August 27, 1954</field>
+				
+		<field name="composer">Harold V. Johnson</field>
+			
+		<field name="composerSort">Johnson, Harold V.</field>
+			
+		<field name="librettist">Edmond Penney</field>
+			
+		
+		<field name="librettistSort">Penney, Edmond</field>
+			
+		<field name="city">Santa Monica</field>
+			
+		<field name="region">California</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Children+of+Boston+Edmond+Penney&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

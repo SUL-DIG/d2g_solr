@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200122</field>
+		
+		<field name="genre">Oratorio</field>
+				
+		<field name="title">Petros</field>
+		
+		<field name="titleSort">Petros</field>
+		
+		<field name="year">1983</field>
+		
+		<field name="month">November</field>
+		
+		<field name="day">4</field>
+		
+		<field name="date">November 4, 1983</field>
+				
+		<field name="composer">Paul Langston</field>
+			
+		<field name="composerSort">Langston, Paul</field>
+			
+		<field name="librettist">Claude Broach</field>
+			
+		
+		<field name="librettistSort">Broach, Claude</field>
+		
+		<field name="theater">Stetson University</field>
+		
+		<field name="city">DeLand</field>
+			
+		<field name="region">Florida</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Petros+Paul+Langston&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

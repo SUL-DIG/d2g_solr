@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200118</field>
+		
+		<field name="genre">Oratorio</field>
+					
+		<field name="title">Son of Jesse</field>
+		
+		<field name="titleSort">Son of Jesse</field>
+		
+		<field name="year">1967</field>
+		
+		<field name="month">June</field>
+		
+		<field name="day">4</field>
+		
+		<field name="date">June 4, 1967</field>
+		
+			
+		<field name="composer">Leslie Kondorossy</field>
+			
+		<field name="composerSort">Kondorossy, Leslie</field>
+			
+		<field name="librettist">Richard L. Glass</field>
+			
+		
+		<field name="librettistSort">Glass, Richard L.</field>
+	
+		<field name="librettist">[Elizabeth Davis] Shawn Hall</field>
+			
+		
+		<field name="librettistSort">Hall, [Elizabeth Davis] Shawn</field>
+		
+		<field name="theater">Cleveland Institute of Music</field>
+		
+		<field name="city">Cleveland</field>
+			
+		<field name="region">Ohio</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Son+of+Jesse+Leslie+Kondorossy&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

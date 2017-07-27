@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200113</field>
+		
+		<field name="genre">Oratorio</field>
+				
+		<field name="title">Paradise Lost and Regained</field>
+		
+		<field name="titleSort">Paradise Lost and Regained</field>
+		
+		<field name="year">1972</field>
+		
+		<field name="month">July</field>
+		
+		<field name="day">11</field>
+		
+		<field name="date">July 11, 1972</field>
+				
+		<field name="composer">Eva Jessye</field>
+			
+		<field name="composerSort">Jessye, Eva</field>
+			
+		<field name="librettist">John Milton</field>
+			
+		
+		<field name="librettistSort">Milton, John</field>
+			
+		<field name="city">Washington</field>
+			
+		<field name="region">District of Columbia</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paradise+Lost+and+Regained+Eva+Jessye&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

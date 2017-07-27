@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200096</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="subject">The Passion</field>
+		
+		<field name="title">The Passion of Jesus the Christ</field>
+		
+		<field name="titleSort">Passion of Jesus the Christ, The</field>
+		
+		<field name="year">1982</field>
+		
+		<field name="month">April</field>
+			
+		<field name="date">April 1982</field>
+					
+		<field name="composer">Truman R. Fisher</field>
+			
+		<field name="composerSort">Fisher, Truman R.</field>
+				
+		<field name="city">Pasadena</field>
+			
+		<field name="region">California</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Passion+of+the+Christ+Truman+R.+Fisher&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

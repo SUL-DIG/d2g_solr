@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200167</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="subject">Christmas</field>
+		
+		<field name="title">Mara: A Christmas Antiphon</field>
+		
+		<field name="titleSort">Mara: A Christmas Antiphon</field>
+		
+		<field name="year">1976</field>
+		
+		<field name="month">December</field>
+		
+		<field name="day">5</field>
+		
+		<field name="date">December 5, 1976</field>
+		
+		<field name="feastMonth">December</field>
+		
+		<field name="feastDay">25</field>
+		
+		<field name="feastDate">December 25</field>
+			
+		<field name="composer">Wilmer Hayden Welsh</field>
+			
+		<field name="composerSort">Welsh,  Wilmer Hayden</field>
+			
+		<field name="librettist">Wilmer Hayden Welsh</field>
+			
+		
+		<field name="librettistSort">Welsh,  Wilmer Hayden</field>
+		
+		<field name="theater">Davidson College</field>
+		
+		<field name="city">Davidson</field>
+			
+		<field name="region">North Carolina</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mara+A+Christmas+Antiphon+Wilmer+Hayden+Welsh&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

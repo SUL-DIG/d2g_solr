@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200085</field>
+		
+		<field name="genre">Oratorio</field>
+					
+		<field name="title">These Things Shall Be!</field>
+		
+		<field name="titleSort">These Things Shall Be!</field>
+		
+		<field name="year">1974</field>
+		
+		<field name="month">May</field>
+		
+		<field name="day">5</field>
+		
+		<field name="date">May 5, 1974</field>
+					
+		<field name="composer">Glenn Winston Cassler</field>
+			
+		<field name="composerSort">Cassler, Glenn Winston</field>
+			
+		<field name="librettist">John Addington Symonds</field>
+			
+		
+		<field name="librettistSort">Symonds, John Addington</field>
+		
+		<field name="theater">St. Olaf College</field>
+		
+		<field name="city">Northfield</field>
+			
+		<field name="region">Minnesota</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=These+Things+Shall+Be!+Glenn+Winston+Cassler&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200130</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="title">Paradiso Choruses</field>
+		
+		<field name="titleSort">Paradiso Choruses</field>
+		
+		<field name="year">1975</field>
+		
+		<field name="month">May</field>
+		
+		<field name="day">7</field>
+		
+		<field name="date">May 7, 1975</field>
+				
+		<field name="composer">Donald James Martino</field>
+			
+		<field name="composerSort">Martino, Donald James</field>
+			
+		<field name="librettist">Dante Alighieri</field>
+			
+		
+		<field name="librettistSort">Alighieri, Dante</field>
+		
+		<field name="theater">New England Conservatory</field>
+		
+		<field name="city">Boston</field>
+			
+		<field name="region">Massachusetts</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paradiso+Choruses+Donald+James+Martino&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

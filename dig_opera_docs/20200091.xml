@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200091</field>
+		
+		<field name="genre">Oratorio</field>
+	
+		<field name="subject">John Wesley</field>
+				
+		<field name="title">Beyond Lies God</field>
+		
+		<field name="titleSort">Beyond Lies God</field>
+		
+		<field name="year">1963</field>
+		
+		<field name="month">May</field>
+			
+		<field name="date">May 1963</field>
+					
+		<field name="composer">Russell Danburg</field>
+			
+		<field name="composerSort">Danburg, Russell</field>
+			
+		<field name="librettist">John Wesley</field>
+			
+		
+		<field name="librettistSort">Wesley, John</field>
+
+		<field name="librettist">Helen Jones</field>
+			
+		
+		<field name="librettistSort">Jones, Helen</field>
+		
+		<field name="city">Gainesville</field>
+			
+		<field name="region">Florida</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beyond+Lies+God+Russell+Danbrug&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

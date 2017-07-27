@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200086</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="subject">Jonah</field>
+		
+		<field name="title">The Book of Jonah</field>
+		
+		<field name="titleSort">Book of Jonah, The</field>
+		
+		<field name="year">1954</field>
+				
+		<field name="date">1954</field>
+					
+		<field name="composer">Mario Castelnuovo-Tedesco</field>
+			
+		<field name="composerSort">Castelnuovo-Tedesco, Mario</field>
+				
+		
+		<field name="city">Perugia</field>
+			
+		<field name="region">Umbria</field>
+		
+		<field name="country">Italy</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Book+of+Jonah+Mario+Castelnuovo-Tedesco&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

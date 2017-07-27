@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200076</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		
+		<field name="title">The Restoration</field>
+		
+		<field name="titleSort">Restoration, The</field>
+		
+		<field name="year">1974</field>
+		
+		<field name="month">March</field>
+		
+		<field name="day">28</field>
+		
+		<field name="date">March 28, 1974</field>
+					
+		<field name="composer">Merrill Ray Bradshaw</field>
+			
+		<field name="composerSort">Bradshaw, Merrill Ray</field>
+			
+		<field name="librettist">Merrill Ray Bradshaw</field>
+			
+		
+		<field name="librettistSort">Bradshaw, Merrill Ray</field>
+		
+		<field name="theater">Brigham Young University</field>
+		
+		<field name="city">Provo</field>
+			
+		<field name="region">Utah</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Restoration+Merrill+Ray+Bradshaw&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

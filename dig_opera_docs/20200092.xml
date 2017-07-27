@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200092</field>
+		
+		<field name="genre">Oratorio</field>
+				
+		<field name="title">The Prophet</field>
+		
+		<field name="titleSort">Prophet, The</field>
+		
+		<field name="year">1947</field>
+		
+		<field name="month">June</field>
+		
+		<field name="date">June 1947</field>
+					
+		<field name="composer">Robert James Dvorak</field>
+			
+		<field name="composerSort">Dvorak, Robert James</field>
+			
+		<field name="librettist">Kahlil Gibran</field>
+			
+		
+		<field name="librettistSort">Gibran, Kahlil</field>
+		
+		<field name="theater">Orchestra Hall</field>
+		
+		<field name="city">Chicago</field>
+			
+		<field name="region">Illinois</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Prophet+Robert+James+Dvorak&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

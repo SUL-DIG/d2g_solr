@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200084</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="title">The Urban Crisis</field>
+		
+		<field name="titleSort">Urban Crisis, The</field>
+		
+		<field name="year">1969</field>
+		
+		<field name="month">October</field>
+		
+		<field name="day">9</field>
+		
+		<field name="date">October 9, 1969</field>
+					
+		<field name="composer">Al Carmines</field>
+			
+		<field name="composerSort">Carmines, Al</field>
+				
+		<field name="theater">Judson Church</field>
+		
+		<field name="city">New York</field>
+			
+		<field name="region">New York</field>
+		
+		<field name="country"></field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Urban+Crisis+Al+Carmines&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

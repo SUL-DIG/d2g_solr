@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200172</field>
+		
+		<field name="genre">Oratorio</field>
+				
+		<field name="title">For All Mankind</field>
+		
+		<field name="titleSort">For All Makind</field>
+		
+		<field name="year">1979</field>
+		
+		<field name="month">July</field>
+		
+		<field name="day">12</field>
+		
+		<field name="date">July 12, 1979</field>
+					
+		<field name="composer">Richard Willis</field>
+			
+		<field name="composerSort">Willis, Richard</field>
+			
+		<field name="librettist">Cynthia Linzy</field>
+			
+		
+		<field name="librettistSort">Linzy, Cynthia</field>
+	
+		
+		<field name="city">Temple</field>
+			
+		<field name="region">Texas</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=For+All+Mankind+Richard+Willis&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

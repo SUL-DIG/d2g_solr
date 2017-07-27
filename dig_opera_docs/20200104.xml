@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200104</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="title">Jubilee: A Grand National Song of Triumph</field>
+		
+		<field name="titleSort">Jubilee: A Grand National Song of Triumph</field>
+		
+		<field name="year">1842</field>
+		
+		<field name="month">June</field>
+		
+		<field name="day">16</field>
+		
+		<field name="date">June 16, 1842</field>
+					
+		<field name="composer">Anton Phillipp Heinrich</field>
+			
+		<field name="composerSort">Heinrich, Anton Phillipp</field>
+			
+		<field name="city">New York</field>
+			
+		<field name="region">New York</field>
+		
+		<field name="country"></field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jubilee+A+Grand+National+Song+of+Triumph+Anton+Phillipp+Heinrich&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

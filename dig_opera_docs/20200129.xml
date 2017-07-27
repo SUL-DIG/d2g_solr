@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200129</field>
+		
+		<field name="genre">Oratorio</field>
+				
+		<field name="title">One Hundred Suns</field>
+		
+		<field name="titleSort">One Hundred Suns</field>
+		
+		<field name="year">1970</field>
+		
+		<field name="month">March</field>
+		
+		<field name="day">22</field>
+		
+		<field name="date">March 22, 1970</field>
+				
+		<field name="composer">Bruno Markaitis</field>
+			
+		<field name="composerSort">Markaitis, Bruno</field>
+			
+		<field name="librettist">Bert Akers</field>
+			
+		
+		<field name="librettistSort">Akers, Bert</field>
+		
+		<field name="theater">Loyola University</field>
+		
+		<field name="city">Chicago</field>
+			
+		<field name="region">Illinois</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=One+Hundred+Suns+Bruno+Markaitis&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

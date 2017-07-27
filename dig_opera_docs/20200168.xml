@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200168</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="subject">The Passion</field>
+		
+		<field name="title">The Passion According to Pilate</field>
+		
+		<field name="titleSort">Passion According to Pilate, The</field>
+		
+		<field name="year">1971</field>
+		
+		<field name="month">March</field>
+		
+		<field name="day">28</field>
+		
+		<field name="date">March 28, 1971</field>
+					
+		<field name="composer">Wilmer Hayden Welsh</field>
+			
+		<field name="composerSort">Welsh, Wilmer Hayden</field>
+			
+		<field name="librettist">Wilmer Hayden Welsh</field>
+			
+		
+		<field name="librettistSort">Welsh, Wilmer Hayden</field>
+		
+		<field name="theater">Trinity Presbyterian Church</field>
+		
+		<field name="city">Charlotte</field>
+			
+		<field name="region">North Carolina</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Passion+According+to+Pialte+Wilmer+Hayden+Welsh&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

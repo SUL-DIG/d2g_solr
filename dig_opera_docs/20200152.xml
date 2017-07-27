@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200152</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="title">Tzvei Bruder (Two Brothers)</field>
+		
+		<field name="titleSort">Tzvei Bruder (Two Brothers)</field>
+		
+		<field name="year">1936</field>
+		
+		<field name="month">November</field>
+			
+		<field name="date">November 1936</field>
+			
+		<field name="composer">Jacob Schaefer</field>
+			
+		<field name="composerSort">Schaefer, Jacob</field>
+			
+		<field name="librettist">Isaac Leib Peretz</field>
+			
+		
+		<field name="librettistSort">Peretz, Isaac Leib</field>
+		
+		<field name="city">New York</field>
+			
+		<field name="region">New York</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tzvei+Bruder+Two+Brothers+Jacob+Schaefer&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

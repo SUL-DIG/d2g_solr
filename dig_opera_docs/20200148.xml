@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200148</field>
+		
+		<field name="genre">Oratorio</field>
+				
+		<field name="title">The Structure of the Benzene Molecule, As Revealed in a Dream to Professor Friedrich August Kekule in Ghent, 1865</field>
+		
+		<field name="titleSort">Structure of the Benzene Molecule, As Revealed in a Dream to Professor Friedrich August Kekule in Ghent, 1865, The</field>
+		
+		<field name="year">1983</field>
+		
+		<field name="month">April</field>
+		
+		<field name="day">11</field>
+		
+		<field name="date">April 11, 1983</field>
+				
+		<field name="composer">Elliot Paul Rubin</field>
+			
+		<field name="composerSort">Rubin, Elliot Paul</field>
+			
+		<field name="librettist">Elliot Paul Rubin</field>
+			
+		
+		<field name="librettistSort">Rubin, Elliot Paul</field>
+	
+		<field name="librettist">Friedrich August Kekule</field>
+			
+		
+		<field name="librettistSort">Kekule, Freidrich August</field>
+			
+		<field name="theater">Lewis and Clark College</field>
+		
+		<field name="city">Portland</field>
+			
+		<field name="region">Oregon</field>
+		
+		<field name="country"></field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Structure+of+the+Benzene+Molecule+As+Revealed+in+a+Dream+to+Professor+Friedrich+August+Kekule+in+Ghent,+1865+Paul+Elliot+Rubin&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200074</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="subject">Saint Cecilia</field>
+		
+		<field name="title">A Song for St. Cecilia's Day</field>
+		
+		<field name="titleSort">Song for St. Cecilia's Day, A</field>
+		
+		<field name="year">1981</field>
+			
+		<field name="date">1871</field>
+		
+		<field name="feastMonth">November</field>
+		
+		<field name="feastDay">22</field>
+		
+		<field name="feastDate">November 22</field>
+			
+		<field name="composer">Howard Boatwright</field>
+			
+		<field name="composerSort">Boatwright, Howard</field>
+						
+		<field name="city">Eagle River</field>
+			
+		<field name="region">Wisconsin</field>
+		
+		<field name="country">United States</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Song+for+St.+Cecilia's+Day+Howard+Boatwright&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->
