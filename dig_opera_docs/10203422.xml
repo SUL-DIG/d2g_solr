@@ -1,12 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203422</field>
 		<field name="genre">Oratorio</field>
 		<field name="title">The Pilgrims of 1620</field>
 		<field name="titleSort">Pilgrims of 1620</field>
-		<field name="year">1851</field>
+		<field name="year">January</field>
 		
+		<field name="month">17</field>
 		
-		<field name="date">1851</field>
+		<field name="day">1850</field>
+		
+		<field name="date">January 17, 1850</field>
+	
 		<field name="composer">Charles Hess</field>
 		<field name="composerSort">Hess, Charles</field>
 		<field name="librettist">U. Tracy Howe</field>

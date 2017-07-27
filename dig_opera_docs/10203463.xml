@@ -1,15 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203463</field>
 		<field name="genre">Oratorio</field>
 		<field name="title">Praise</field>
 		<field name="titleSort">Praise</field>
-		<field name="year">1971</field>
+		<field name="year">1976</field>
+		<field name="feastMonth">February</field>
 		
+		<field name="feastDay">28</field>
+	
 		
-		<field name="date">1971</field>
+		<field name="date">February 28, 1976</field>
 		<field name="composer">Ralph Shapey</field>
 		<field name="composerSort">Shapey, Ralph</field>
+		<field name="theater">University of Chicago</field>
 		
+		<field name="city">Chicago</field>
+			
+		<field name="region">Illinois</field>
+		
+		<field name="country">United States</field>
+	
 		
 		
 		

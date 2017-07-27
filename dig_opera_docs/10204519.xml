@@ -1,17 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10204519</field>
 		<field name="genre">Oratorio</field>
 		<field name="title">Tobias and the Angel</field>
 		<field name="titleSort">Tobias and the Angel</field>
 		<field name="year">1975</field>
+		<field name="month">February</field>
 		
-		
-		<field name="date">1975</field>
+		<field name="day">2</field>
+	
+		<field name="date">February 2, 1975</field>
 		<field name="composer">Mario Castelnuovo-Tedesco</field>
 		<field name="composerSort">Castelnuovo-Tedesco, Mario</field>
+		<field name="librettist">Mario Castelnuovo-Tedesco</field>
+			
+		
+		<field name="librettistSort">Castelnuovo-Tedesco, Mario</field>
+	
+		<field name="librettist">Nick Rossi</field>
+			
+		
+		<field name="librettistSort">Rossi, Nick</field>
+	
 		
 		
-		<field name="theater">La Guardia Community College Theater</field>
+		<field name="theater">Aviation High School</field>
 		<field name="city">New York</field>
 		<field name="region">New York</field>
 		<field name="country">United States</field>

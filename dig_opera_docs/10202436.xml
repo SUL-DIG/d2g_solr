@@ -1,15 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10202436</field>
 		<field name="genre">Oratorio</field>
 		<field name="title">Lamb of God</field>
 		<field name="titleSort">Lamb of God</field>
 		<field name="year">1909</field>
+		<field name="month">April</field>
 		
+		<field name="day">1</field>
+	
 		
-		<field name="date">1909</field>
+		<field name="date">April 1, 1909</field>
 		<field name="composer">William Wallace Gilchrist</field>
 		<field name="composerSort">Gilchrist, William Wallace</field>
+		<field name="city">New York</field>
+			
+		<field name="region">New York</field>
 		
+		<field name="country">United States</field>
+	
 		
 		
 		

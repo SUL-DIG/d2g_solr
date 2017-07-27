@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10116478</field>
 <field name="genre">Opera</field>
@@ -12,8 +12,8 @@
 <field name="librettistSort">Krane, June</field>
 <field name="librettist">Oscar Wilde</field>
 <field name="librettistSort">Wilde, Oscar</field>
-<field name="theater">William and Mary College</field>
-<field name="city">Norfolk</field>
+<field name="theater">College of William and Mary</field>
+<field name="city">Williamsburg</field>
 <field name="region">Virginia</field>
 <field name="country">United States</field>
 

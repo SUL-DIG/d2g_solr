@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10115596</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,11 @@
 <field name="composer">Martin Kalmanoff</field>
 <field name="composerSort">Kalmanoff, Martin</field>
 <field name="year">1968</field>
-<field name="date">1968</field>
+<field name="month">November</field>
+		
+<field name="day">4</field>
+	
+<field name="date">November 4, 1968</field>
 <field name="librettist">Martin Kalmanoff</field>
 <field name="librettistSort">Kalmanoff, Martin</field>
 <field name="theater">Temple Israel</field>

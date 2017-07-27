@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132673</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,16 @@
 <field name="composer">Kurt Weill</field>
 <field name="composerSort">Weill, Kurt</field>
 <field name="year">1937</field>
-<field name="date">1937</field>
+<field name="month">January</field>
+		
+		<field name="day">7</field>
+
+<field name="date">January 7, 1937</field>
+<field name="librettist">Franz Werfel</field>
+			
+		
+		<field name="librettistSort">Werfel, Franz</field>
+
 <field name="librettist">Ludwig Lewisohn</field>
 <field name="librettistSort">Lewisohn, Ludwig</field>
 <field name="theater">Manhattan Opera House</field>

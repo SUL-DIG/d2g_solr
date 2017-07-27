@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203593</field>
 		<field name="genre">Oratorio</field>
 		<field name="title">Resurgam</field>
 		<field name="titleSort">Resurgam</field>
 		<field name="year">1923</field>
+		<field name="month">May</field>
+	
 		
-		
-		<field name="date">1923</field>
+		<field name="date">May 1923</field>
 		<field name="composer">Henry Hadley</field>
 		<field name="composerSort">Hadley, Henry</field>
 		<field name="librettist">Louise Ayres Garnett</field>

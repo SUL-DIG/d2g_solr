@@ -1,12 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203369</field>
 		<field name="genre">Oratorio</field>
-		<field name="title">Pesn o lesakh (Song of the Forest)</field>
-		<field name="titleSort">Pesn o lesakh (Song of the Forest)</field>
+		<field name="title">Pesn o lesakh (Song of the Forests)</field>
+		<field name="titleSort">Pesn o lesakh (Song of the Forests)</field>
 		<field name="year">1949</field>
+		<field name="month">December</field>
 		
-		
-		<field name="date">1949</field>
+		<field name="day">15</field>
+	
+		<field name="date">December 15, 1949</field>
 		<field name="composer">Dmitry Shostakovich</field>
 		<field name="composerSort">Shostakovich, Dmitry</field>
 		<field name="librettist">Yevgeny Aronovich Dolmatovsky</field>
@@ -19,5 +21,5 @@
 		
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pesn+o+lesakh+(Song+of+the+Forest)+Dmitry+Shostakovich&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pesn+o+lesakh+(Song+of+the+Forests)+Dmitry+Shostakovich&amp;search_field=search</field>
 	</doc></add>

@@ -1,17 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10201922</field>
 		<field name="genre">Oratorio</field>
 		<field name="title">I Have a Dream</field>
 		<field name="titleSort">I Have a Dream</field>
 		<field name="year">1970</field>
+		<field name="month">April</field>
+		
+		<field name="day">19</field>
 		
 		
-		<field name="date">1970</field>
+		<field name="date">April 19, 1970</field>
 		<field name="composer">James Furman</field>
 		<field name="composerSort">Furman, James</field>
 		<field name="librettist">Martin Luther King</field>
 		<field name="librettistSort">King, Martin Luther</field>
+		<field name="theater">The Second Congregational Church</field>
 		
+		<field name="city">Greenwich</field>
+			
+		<field name="region">Connecticut</field>
+		
+		<field name="country">United States</field>
+	
 		
 		
 		

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203137</field>
 		<field name="genre">Oratorio</field>
 		<field name="title">The Ordering of Moses</field>
@@ -12,7 +12,7 @@
 		<field name="librettist">Robert Nathaniel Dett</field>
 		<field name="librettistSort">Dett, Robert Nathaniel</field>
 		
-		<field name="theater">Cincinnati Civic Orchestra</field>
+		<field name="theater">Cincinnati May Music Festival</field>
 		<field name="city">Cincinnati</field>
 		<field name="region">Ohio</field>
 		<field name="country">United States</field>

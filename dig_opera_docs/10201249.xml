@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10201249</field>
 		<field name="genre">Oratorio</field>
+<field name="subject">World War II: The Holocaust</field>
+		
 		<field name="title">Ezkerah (I Remember)</field>
 		<field name="titleSort">Ezkerah (I Remember)</field>
 		<field name="year">1949</field>
-    <field name="date">1949</field>
+<field name="month">April</field>
+		
+		<field name="day">22</field>
+	
+    <field name="date">April 22, 1949</field>
     <field name="theater">Town Hall</field>
     <field name="city">New York</field>
     <field name="region">New York</field>

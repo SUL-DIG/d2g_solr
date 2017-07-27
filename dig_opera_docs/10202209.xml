@@ -1,12 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10202209</field>
 		<field name="genre">Oratorio</field>
 		<field name="title">Joan</field>
 		<field name="titleSort">Joan</field>
 		<field name="year">1974</field>
+		<field name="month">August</field>
 		
-		
-		<field name="date">1974</field>
+		<field name="day">22</field>
+	
+		<field name="date">August 22, 1974</field>
 		<field name="composer">Beth Anderson</field>
 		<field name="composerSort">Anderson, Beth</field>
 		

@@ -1,15 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10202513</field>
 		<field name="genre">Oratorio</field>
 		<field name="title">The Life of Man</field>
 		<field name="titleSort">Life of Man</field>
-		<field name="year">1894</field>
+		<field name="year">1895</field>
+		<field name="month">April</field>
 		
+		<field name="day">14</field>
+
 		
-		<field name="date">1894</field>
+		<field name="date">April 14, 1895</field>
 		<field name="composer">James Cutler Dunn Parker</field>
 		<field name="composerSort">Parker, James Cutler Dunn</field>
+		<field name="theater">The Handel and Haydn Society</field>
 		
+		<field name="city">Boston</field>
+			
+		<field name="region">Massachusetts</field>
+		
+		<field name="country">United States</field>
+
 		
 		
 		

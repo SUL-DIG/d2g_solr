@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203459</field>
 		<field name="genre">Oratorio</field>
 		<field name="title">The Power within Us</field>
 		<field name="titleSort">Power within Us</field>
 		<field name="year">1972</field>
 		<field name="month">March</field>
-		
-		<field name="date">March 1972</field>
+		<field name="day">11</field>
+
+		<field name="date">March 11, 1972</field>
 		<field name="composer">Gunther Schuller</field>
 		<field name="composerSort">Schuller, Gunther</field>
 		<field name="librettist">Huey Long</field>

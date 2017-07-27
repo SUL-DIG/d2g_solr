@@ -1,18 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10200578</field>
 		<field name="genre">Oratorio</field>
 		<field name="title">Children of God</field>
 		<field name="titleSort">Children of God</field>
-		<field name="year">1956</field>
+		<field name="year">1957</field>
 		
+		<field name="month">May</field>
 		
-		<field name="date">1956</field>
+		<field name="day">15</field>
+		
+		<field name="date">May 15, 1957</field>
+	
 		<field name="composer">Normand Lockwood</field>
 		<field name="composerSort">Lockwood, Normand</field>
 		<field name="librettist">Clara Chassell Cooper</field>
 		<field name="librettistSort">Cooper, Clara Chassell</field>
+		<field name="theater">Berea College</field>
 		
+		<field name="city">Berea</field>
+			
+		<field name="region">Kentucky</field>
 		
+		<field name="country">United States</field>
 		
 		
 		

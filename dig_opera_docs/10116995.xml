@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10116995</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,11 @@
 <field name="composer">Ezra Laderman</field>
 <field name="composerSort">Laderman, Ezra</field>
 <field name="year">1979</field>
-<field name="date">1979</field>
+<field name="month">February</field>
+		
+		<field name="day">3</field>
+	
+<field name="date">February 3, 1979</field>
 <field name="librettist">Joseph Darion</field>
 <field name="librettistSort">Darion, Joseph</field>
 <field name="theater">Tri-Cities Opera</field>

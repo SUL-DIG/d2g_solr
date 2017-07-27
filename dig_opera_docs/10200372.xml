@@ -1,17 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10200372</field>
 		<field name="genre">Oratorio</field>
 		<field name="title">Behold the Glory of the Lamb</field>
 		<field name="titleSort">Behold the Glory of the Lamb</field>
-		<field name="year">1963</field>
+		<field name="year">1964</field>
 		
 		
-		<field name="date">1963</field>
+		<field name="date">1964</field>
 		<field name="composer">Talmage Whitman Dean</field>
 		<field name="composerSort">Dean, Talmage Whitman</field>
 		
 		
+		<field name="city">Louisville</field>
+			
+		<field name="region">Kentucky</field>
 		
+		<field name="country">United States</field>
+	
 		
 		
 		

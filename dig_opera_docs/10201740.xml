@@ -1,15 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10201740</field>
 		<field name="genre">Oratorio</field>
 		<field name="title">God with Us</field>
 		<field name="titleSort">God with Us</field>
-		<field name="year">1889</field>
+		<field name="year">1887</field>
 		
 		
-		<field name="date">1889</field>
+		<field name="date">1887</field>
 		<field name="composer">John Eliot Trowbridge</field>
 		<field name="composerSort">Trowbridge, John Eliot</field>
+		<field name="theater">Tremont Temple</field>
 		
+		<field name="city">Boston</field>
+			
+		<field name="region">Massachusetts</field>
+		
+		<field name="country">United States</field>
+	
 		
 		
 		

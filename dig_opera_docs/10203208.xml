@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203208</field>
 		<field name="genre">Oratorio</field>
 		<field name="title">The Passion According to St. Luke</field>
 		<field name="titleSort">Passion According to St. Luke</field>
 		<field name="year">1965</field>
 		<field name="month">March</field>
-		
-		<field name="date">March 1965</field>
+		<field name="day">28</field>
+	
+		<field name="date">March 28, 1965</field>
 		<field name="composer">Randall Thompson</field>
 		<field name="composerSort">Thompson, Randall</field>
 		

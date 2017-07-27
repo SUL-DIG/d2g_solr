@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10201224</field>
 		<field name="genre">Oratorio</field>
 		<field name="title">Esther ha'malka (Queen Esther)</field>
@@ -6,7 +6,7 @@
 		<field name="year">1960</field>
     <field name="date">March 6, 1960</field>
     <field name="theater">War Memorial Opera House</field>
-    <field name="city"> San Francisco</field>
+    <field name="city">San Francisco</field>
     <field name="region">California</field>
     <field name="country">United States</field>
 

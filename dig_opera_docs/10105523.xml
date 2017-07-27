@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10105523</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,11 @@
 <field name="composer">George Whitefield Chadwick</field>
 <field name="composerSort">Chadwick, George Whitefield</field>
 <field name="year">1901</field>
-<field name="date">1901</field>
+<field name="month">September</field>
+		
+<field name="day">26</field>
+	
+<field name="date">September 26, 1901</field>
 <field name="librettist">William Chauncy Langdon</field>
 <field name="librettistSort">Langdon, William Chauncy</field>
 <field name="theater">Worcester Festival</field>

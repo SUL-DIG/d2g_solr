@@ -1,12 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10202443</field>
 		<field name="genre">Oratorio</field>
 		<field name="title">Land of Promise</field>
 		<field name="titleSort">Land of Promise</field>
 		<field name="year">1960</field>
+		<field name="month">April</field>
 		
-		
-		<field name="date">1960</field>
+		<field name="day">30</field>
+
+		<field name="date">April 30, 1960</field>
 		<field name="composer">Normand Lockwood</field>
 		<field name="composerSort">Lockwood, Normand</field>
 		<field name="librettist">Russell Porter</field>

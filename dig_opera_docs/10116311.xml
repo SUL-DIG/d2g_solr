@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10116311</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,11 @@
 <field name="composer">Leslie Kondorossy</field>
 <field name="composerSort">Kondorossy, Leslie</field>
 <field name="year">1969</field>
-<field name="date">1969</field>
+<field name="month">April</field>
+		
+		<field name="day">22</field>
+	
+<field name="date">April 22, 1969</field>
 <field name="librettist">[Elizabeth Davis] Shawn Hall</field>
 <field name="librettistSort">Hall, Shawn [Elizabeth Davis]</field>
 <field name="theater">Sunbeam School for Crippled Children</field>

@@ -1,15 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10200651</field>
 		<field name="genre">Oratorio</field>
 		<field name="title">The Cities of the Plain</field>
 		<field name="titleSort">Cities of the Plain</field>
 		<field name="year">1855</field>
+		<field name="month">December</field>
 		
+		<field name="day">8</field>
+	
 		
-		<field name="date">1855</field>
+		<field name="date">December 8, 1855</field>
 		<field name="composer">Francis Thomas Sully Darley</field>
 		<field name="composerSort">Darley, Francis Thomas Sully</field>
+		<field name="librettist">Joseph A. Nunes</field>
+			
 		
+		<field name="librettistSort">Nunes, Joseph A.</field>
+	
+		<field name="theater">Concert Hall</field>
+		
+		<field name="city">Philadelphia</field>
+			
+		<field name="region">Pennsylvania</field>
+		
+		<field name="country">United States</field>
+	
 		
 		
 		
