@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101921</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Henry Barraud</field>
 <field name="composerSort">Barraud, Henry</field>
 <field name="year">1948</field>
-<field name="date">1948</field>
+<field name="date">June 26, 1948</field>
 <field name="librettist">Gustave Cohen</field>
 <field name="librettistSort">Cohen, Gustave</field>
 <field name="theater">Opéra-Comique</field>

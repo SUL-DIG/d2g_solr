@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100993</field>
 <field name="genre">Opera</field>
@@ -7,11 +7,13 @@
 <field name="composer">Dominick Argento</field>
 <field name="composerSort">Argento, Dominick</field>
 <field name="year">1977</field>
-<field name="date">1977</field>
+<field name="date">May 19, 1977</field>
 <field name="librettist">Dominick Argento</field>
 <field name="librettistSort">Argento, Dominick</field>
 <field name="librettist">Anton Pavlovich Chekhov</field>
 <field name="librettistSort">Chekhov, Anton Pavlovich</field>
+<field name="librettist">John James Audubon</field>
+<field name="librettistSort">Audubon, John James</field>
 <field name="theater">Brooklyn Academy of Music</field>
 <field name="city">New York</field>
 <field name="region">New York</field>

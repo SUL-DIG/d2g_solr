@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10104229</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Max Bruch</field>
 <field name="composerSort">Bruch, Max</field>
 <field name="year">1858</field>
-<field name="date">1858</field>
+<field name="date">January 14, 1858</field>
 <field name="librettist">Ludwig Bischoff</field>
 <field name="librettistSort">Bischoff, Ludwig</field>
 <field name="librettist">Johann Wolfgang von Goethe</field>

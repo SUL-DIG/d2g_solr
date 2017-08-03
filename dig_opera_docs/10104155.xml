@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10104155</field>
 <field name="genre">Opera</field>
@@ -6,8 +6,8 @@
 <field name="titleSort">Noye's Fludde</field>
 <field name="composer">Benjamin Britten</field>
 <field name="composerSort">Britten, Benjamin</field>
-<field name="year">1957</field>
-<field name="date">1957</field><field name="theater">Parish Church</field>
+<field name="year">1958</field>
+<field name="date">June 18, 1958</field><field name="theater">Church of St. Bartholomew</field>
 <field name="city">Orford</field>
 <field name="region">Suffolk</field>
 <field name="country">United Kingdom</field>

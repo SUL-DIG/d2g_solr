@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10104161</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Benjamin Britten</field>
 <field name="composerSort">Britten, Benjamin</field>
 <field name="year">1946</field>
-<field name="date">1946</field>
+<field name="date">July 12, 1946</field>
 <field name="librettist">Ronald Duncan</field>
 <field name="librettistSort">Duncan, Ronald</field>
 <field name="librettist">André Obey</field>

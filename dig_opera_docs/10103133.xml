@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10103133</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Boris Blacher</field>
 <field name="composerSort">Blacher, Boris</field>
 <field name="year">1948</field>
-<field name="date">1948</field>
+<field name="date">February 22, 1948</field>
 <field name="librettist">Friedrich Wolf</field>
 <field name="librettistSort">Wolf, Friedrich</field>
 <field name="theater">Drei Linden Theater</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100981</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Dominick Argento</field>
 <field name="composerSort">Argento, Dominick</field>
 <field name="year">1988</field>
-<field name="date">1988</field>
+<field name="date">November 19, 1988</field>
 <field name="librettist">Dominick Argento</field>
 <field name="librettistSort">Argento, Dominick</field>
 <field name="librettist">Henry James</field>

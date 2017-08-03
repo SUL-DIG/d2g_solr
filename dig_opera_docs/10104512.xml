@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10104512</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Sylvano Bussotti</field>
 <field name="composerSort">Bussotti, Sylvano</field>
 <field name="year">1972</field>
-<field name="date">1972</field>
+<field name="date">September 7, 1972</field>
 <field name="librettist">Sylvano Bussotti</field>
 <field name="librettistSort">Bussotti, Sylvano</field>
 <field name="librettist">Fred Philippe</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100992</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Dominick Argento</field>
 <field name="composerSort">Argento, Dominick</field>
 <field name="year">1976</field>
-<field name="date">1976</field>
+<field name="date">April 24, 1976</field>
 <field name="librettist">Charles Nolte</field>
 <field name="librettistSort">Nolte, Charles</field>
 <field name="theater">O'Shaughnessy Auditorium</field>

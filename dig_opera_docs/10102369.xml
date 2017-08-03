@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10102369</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Arthur Benjamin</field>
 <field name="composerSort">Benjamin, Arthur</field>
 <field name="year">1931</field>
-<field name="date">1931</field>
+<field name="date">December 1, 1931</field>
 <field name="librettist">Alan Collard</field>
 <field name="librettistSort">Collard, Alan</field>
 <field name="librettist">John B. Gordon</field>

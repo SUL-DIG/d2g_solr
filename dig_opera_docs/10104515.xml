@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10104515</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Sylvano Bussotti</field>
 <field name="composerSort">Bussotti, Sylvano</field>
 <field name="year">1980</field>
-<field name="date">1980</field>
+<field name="date">December 9, 1980</field>
 <field name="librettist">Sylvano Bussotti</field>
 <field name="librettistSort">Bussotti, Sylvano</field>
 <field name="librettist">Jean Racine</field>

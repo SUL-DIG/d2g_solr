@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10103128</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Boris Blacher</field>
 <field name="composerSort">Blacher, Boris</field>
 <field name="year">1941</field>
-<field name="date">1941</field>
+<field name="date">Febrary 5, 1941</field>
 <field name="librettist">Karl Otto Koch</field>
 <field name="librettistSort">Koch, Karl Otto</field>
 <field name="librettist">Hans von Hülsen</field>

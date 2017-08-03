@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101922</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Henry Barraud</field>
 <field name="composerSort">Barraud, Henry</field>
 <field name="year">1961</field>
-<field name="date">1961</field>
+<field name="date">July 20, 1961</field>
 <field name="librettist">[Albert Carette] Félicien Marceau</field>
 <field name="librettistSort">Marceau, Félicien [Albert Carette]</field>
 <field name="theater">Théâtre de l'Archevêche</field>

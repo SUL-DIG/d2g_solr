@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10103138</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Boris Blacher</field>
 <field name="composerSort">Blacher, Boris</field>
 <field name="year">1969</field>
-<field name="date">1969</field>
+<field name="date">September 25, 1969</field>
 <field name="librettist">Boris Blacher</field>
 <field name="librettistSort">Blacher, Boris</field>
 <field name="librettist">[Sholem Rabinovitch] Sholom Aleichem</field>

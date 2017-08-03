@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101357</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Daniel-François-Esprit Auber</field>
 <field name="composerSort">Auber, Daniel-François-Esprit</field>
 <field name="year">1835</field>
-<field name="date">1835</field>
+<field name="date">March 23, 1835</field>
 <field name="librettist">Eugène Scribe</field>
 <field name="librettistSort">Scribe, Eugène</field>
 <field name="theater">Opéra-Comique</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10116561</field>
 <field name="genre">Opera</field>
@@ -11,7 +11,7 @@
 <field name="librettist">Zoë Lunde Schiller</field>
 <field name="librettistSort">Schiller, Zoë Lunde</field>
 <field name="theater">University of Mississippi</field>
-<field name="city">Clinton</field>
+<field name="city">Oxford</field>
 <field name="region">Mississippi</field>
 <field name="country">United States</field>
 

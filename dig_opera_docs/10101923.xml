@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101923</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Henry Barraud</field>
 <field name="composerSort">Barraud, Henry</field>
 <field name="year">1955</field>
-<field name="date">1955</field>
+<field name="date">April 15, 1955</field>
 <field name="librettist">Salvador de Madariaga</field>
 <field name="librettistSort">Madariaga, Salvador de</field>
 <field name="librettist">Miguel de Cervantes Saavedra</field>

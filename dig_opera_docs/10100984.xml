@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100984</field>
 <field name="genre">Opera</field>
@@ -7,9 +7,11 @@
 <field name="composer">Dominick Argento</field>
 <field name="composerSort">Argento, Dominick</field>
 <field name="year">1963</field>
-<field name="date">1963</field>
-<field name="librettist">[Dominick Argento et al.] John Manlove</field>
-<field name="librettistSort">Manlove, John [Dominick Argento et al.]</field>
+<field name="date">May 31, 1963</field>
+<field name="librettist">John Manlove</field>
+<field name="librettistSort">Manlove, John</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
 <field name="theater">University of Minnesota</field>
 <field name="city">Minneapolis</field>
 <field name="region">Minnesota</field>

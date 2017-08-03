@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100985</field>
 <field name="genre">Opera</field>
@@ -6,8 +6,8 @@
 <field name="titleSort">Colonel Jonathan the Saint</field>
 <field name="composer">Dominick Argento</field>
 <field name="composerSort">Argento, Dominick</field>
-<field name="year">1972</field>
-<field name="date">1972</field>
+<field name="year">1971</field>
+<field name="date">December 31, 1971</field>
 <field name="librettist">[John Olon] John Olon-Scrymgeour</field>
 <field name="librettistSort">Olon-Scrymgeour, John [John Olon]</field>
 <field name="theater">Loretto Heights College</field>

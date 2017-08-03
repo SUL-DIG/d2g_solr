@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10102179</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Jack Beeson</field>
 <field name="composerSort">Beeson, Jack</field>
 <field name="year">1965</field>
-<field name="date">1965</field>
+<field name="date">March 25, 1965</field>
 <field name="librettist">Kenward Elmslie</field>
 <field name="librettistSort">Elmslie, Kenward</field>
 <field name="librettist">Richard Plant</field>

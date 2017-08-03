@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10116562</field>
 <field name="genre">Opera</field>
@@ -13,7 +13,7 @@
 <field name="librettist">Maud Morrow Brown</field>
 <field name="librettistSort">Brown, Maud Morrow</field>
 <field name="theater">University of Mississippi</field>
-<field name="city">Clinton</field>
+<field name="city">Oxford</field>
 <field name="region">Mississippi</field>
 <field name="country">United States</field>
 

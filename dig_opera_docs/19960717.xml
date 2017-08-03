@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960717</field>
 <field name="genre">Opera</field>
-<field name="title">Dreamin' Blue</field>
-<field name="titleSort">Dreamin' Blue</field>
+<field name="title">Dreaming Blue</field>
+<field name="titleSort">Dreaming Blue</field>
 <field name="composer">Libby Larsen</field>
 <field name="composerSort">Larsen, Libby</field>
 <field name="year">2002</field>
@@ -14,6 +14,6 @@
 <field name="city">Salt Lake City</field>
 <field name="region">Utah</field>
 <field name="country">United States</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dreamin'+Blue+Libby+Larsen&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dreaming+Blue+Libby+Larsen&amp;search_field=search</field>
 </doc>
 </add>

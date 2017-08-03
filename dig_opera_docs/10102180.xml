@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10102180</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Jack Beeson</field>
 <field name="composerSort">Beeson, Jack</field>
 <field name="year">1970</field>
-<field name="date">1970</field>
+<field name="date">March 17, 1970</field>
 <field name="librettist">Jack Beeson</field>
 <field name="librettistSort">Beeson, Jack</field>
 <field name="librettist">William Saroyan</field>

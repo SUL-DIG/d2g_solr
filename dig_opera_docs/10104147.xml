@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10104147</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Benjamin Britten</field>
 <field name="composerSort">Britten, Benjamin</field>
 <field name="year">1948</field>
-<field name="date">1948</field>
+<field name="date">May 24, 1948</field>
 <field name="librettist">John Gay</field>
 <field name="librettistSort">Gay, John</field>
 <field name="theater">Arts Theatre</field>

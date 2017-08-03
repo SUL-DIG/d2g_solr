@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10103134</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Boris Blacher</field>
 <field name="composerSort">Blacher, Boris</field>
 <field name="year">1952</field>
-<field name="date">1952</field>
+<field name="date">September 23, 1952</field>
 <field name="librettist">Heinz von Cramer</field>
 <field name="librettistSort">Cramer, Heinz von</field>
 <field name="theater">Städtische Opernhaus</field>

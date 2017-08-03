@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10104152</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Benjamin Britten</field>
 <field name="composerSort">Britten, Benjamin</field>
 <field name="year">1953</field>
-<field name="date">1953</field>
+<field name="date">June 8, 1953</field>
 <field name="librettist">William Plomer</field>
 <field name="librettistSort">Plomer, William</field>
 <field name="librettist">Lytton Strachey</field>

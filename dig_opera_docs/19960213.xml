@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960213</field>
 <field name="genre">Opera</field>
@@ -10,7 +10,7 @@
 <field name="date">July 28, 1991</field>
 <field name="librettist">Laura Jehn Menides</field>
 <field name="librettistSort">Menides, Laura Jehn</field>
-<field name="theater">Center for the Study of Southern Culture, University of Mississippi</field>
+<field name="theater">University of Mississippi</field>
 <field name="city">Oxford</field>
 <field name="region">Mississippi</field>
 <field name="country">United States</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10102176</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Jack Beeson</field>
 <field name="composerSort">Beeson, Jack</field>
 <field name="year">1978</field>
-<field name="date">1978</field>
+<field name="date">November 17, 1978</field>
 <field name="librettist">Sheldon Harnick</field>
 <field name="librettistSort">Harnick, Sheldon</field>
 <field name="librettist">Nathaniel Hawthorne</field>

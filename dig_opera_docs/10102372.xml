@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10102372</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Arthur Benjamin</field>
 <field name="composerSort">Benjamin, Arthur</field>
 <field name="year">1953</field>
-<field name="date">1953</field>
+<field name="date">April 17, 1953</field>
 <field name="librettist">Cedric Cliffe</field>
 <field name="librettistSort">Cliffe, Cedric</field>
 <field name="librettist">Charles Dickens</field>

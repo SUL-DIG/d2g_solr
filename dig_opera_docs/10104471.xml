@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10104471</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Cardon Burnham</field>
 <field name="composerSort">Burnham, Cardon</field>
 <field name="year">1956</field>
-<field name="date">1956</field>
+<field name="date">May 1, 1956</field>
 <field name="librettist">Cardon Burnham</field>
 <field name="librettistSort">Burnham, Cardon</field>
 <field name="theater">Tulane University</field>

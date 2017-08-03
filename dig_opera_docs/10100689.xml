@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10100689</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Volkmar Andreae</field>
 <field name="composerSort">Andreae, Volkmar</field>
 <field name="year">1914</field>
-<field name="date">1914</field>
+<field name="date">May 25, 1914</field>
 <field name="librettist">Volkmar Andreae</field>
 <field name="librettistSort">Andreae, Volkmar</field>
 <field name="librettist">Heinrich Heine</field>

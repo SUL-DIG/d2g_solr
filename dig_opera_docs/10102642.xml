@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10102642</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Leonard Bernstein</field>
 <field name="composerSort">Bernstein, Leonard</field>
 <field name="year">1952</field>
-<field name="date">1952</field>
+<field name="date">June 12, 1952</field>
 <field name="librettist">Leonard Bernstein</field>
 <field name="librettistSort">Bernstein, Leonard</field>
 <field name="theater">Brandeis University</field>
