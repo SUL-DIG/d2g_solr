@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10106130</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Albert Coates</field>
 <field name="composerSort">Coates, Albert</field>
 <field name="year">1936</field>
-<field name="date">1936</field>
+<field name="date">November 20, 1936</field>
 <field name="librettist">Albert Coates</field>
 <field name="librettistSort">Coates, Albert</field>
 <field name="librettist">Charles Dickens</field>

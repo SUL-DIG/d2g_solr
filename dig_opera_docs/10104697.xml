@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10104697</field>
 <field name="genre">Opera</field>
@@ -7,10 +7,10 @@
 <field name="composer">Mary Elizabeth Caldwell</field>
 <field name="composerSort">Caldwell, Mary Elizabeth</field>
 <field name="year">1961</field>
-<field name="date">1961</field>
+<field name="date">December 3, 1961</field>
 <field name="librettist">Mary Elizabeth Caldwell</field>
 <field name="librettistSort">Caldwell, Mary Elizabeth</field>
-<field name="theater">Pasadena Symphony</field>
+<field name="theater">Civic Auditorium</field>
 <field name="city">Pasadena</field>
 <field name="region">California</field>
 <field name="country">United States</field>

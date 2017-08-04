@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
+﻿<?xml version='1.0' encoding='UTF8'?>
 <add>
 <doc>
 <field name="id">10100323</field>
@@ -8,7 +8,7 @@
 <field name="composer">Eugen d'Albert</field>
 <field name="composerSort">Albert, Eugen d’</field>
 <field name="year">1903</field>
-<field name="date">1903</field>
+<field name="date">November 15, 1903</field>
 <field name="librettist">[Rudolph Spitzer] Rudolph Lothar</field>
 <field name="librettistSort">Lothar, Rudolph [Rudolph Spitzer]</field>
 <field name="librettist">Angel Guimerá</field>

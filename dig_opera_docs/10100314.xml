@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
+﻿<?xml version='1.0' encoding='UTF8'?>
 <add>
 <doc>
 <field name="id">10100314</field>
@@ -8,7 +8,7 @@
 <field name="composer">Eugen d'Albert</field>
 <field name="composerSort">Albert, Eugen d’</field>
 <field name="year">1900</field>
-<field name="date">1900</field>
+<field name="date">February 17, 1900</field>
 <field name="librettist">Heinrich Bulthaupt</field>
 <field name="librettistSort">Bulthaupt, Heinrich</field>
 <field name="theater">Königliche Schauspiele</field>

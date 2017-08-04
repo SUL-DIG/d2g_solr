@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
+﻿<?xml version='1.0' encoding='UTF8'?>
 <add>
 <doc>
 <field name="id">10100324</field>
@@ -8,7 +8,7 @@
 <field name="composer">Eugen d'Albert</field>
 <field name="composerSort">Albert, Eugen d’</field>
 <field name="year">1916</field>
-<field name="date">1916</field>
+<field name="date">March 5, 1916</field>
 <field name="librettist">Hans Heinz Ewers</field>
 <field name="librettistSort">Ewers, Hans Heinz</field>
 <field name="librettist">[Achille d'Ailly-Vaucheret] Marc Henry</field>

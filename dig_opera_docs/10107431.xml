@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10107431</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Frederick Delius</field>
 <field name="composerSort">Delius, Frederick</field>
 <field name="year">1953</field>
-<field name="date">1953</field>
+<field name="date">May 4, 1953</field>
 <field name="librettist">Frederick Delius</field>
 <field name="librettistSort">Delius, Frederick</field>
 <field name="theater">New Theatre</field>

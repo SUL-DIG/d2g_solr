@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
+﻿<?xml version='1.0' encoding='UTF8'?>
 <add>
 <doc>
 <field name="id">10100316</field>
@@ -8,7 +8,7 @@
 <field name="composer">Eugen d'Albert</field>
 <field name="composerSort">Albert, Eugen d’</field>
 <field name="year">1923</field>
-<field name="date">1923</field>
+<field name="date">October 31, 1923</field>
 <field name="librettist">Herbert Alberti</field>
 <field name="librettistSort">Alberti, Herbert</field>
 <field name="theater">Neues Stadt-Theater am Dammtor</field>

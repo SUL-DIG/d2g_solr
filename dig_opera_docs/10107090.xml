@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10107090</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Ikuma Dan</field>
 <field name="composerSort">Dan, Ikuma</field>
 <field name="year">1952</field>
-<field name="date">1952</field>
+<field name="date">January 3, 1952</field>
 <field name="librettist">Juniji Kinoshita</field>
 <field name="librettistSort">Kinoshita, Juniji</field>
 <field name="theater">Asahi Hall</field>

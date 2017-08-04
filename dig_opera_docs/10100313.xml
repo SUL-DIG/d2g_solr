@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF8'?>
+﻿<?xml version='1.0' encoding='UTF8'?>
 <add>
 <doc>
 <field name="id">10100313</field>
 <field name="genre">Opera</field>
-<field name="title">Izeяl</field>
-<field name="titleSort">Izeяl</field>
+<field name="title">Izeÿl</field>
+<field name="titleSort">Izeÿl</field>
 <field name="composer">Eugen d'Albert</field>
 <field name="composerSort">Albert, Eugen d’</field>
 <field name="year">1909</field>
-<field name="date">1909</field>
+<field name="date">November 6, 1909</field>
 <field name="librettist">[Rudolph Spitzer] Rudolph Lothar</field>
 <field name="librettistSort">Lothar, Rudolph [Rudolph Spitzer]</field>
 <field name="librettist">Armand Silvestre</field>
@@ -18,6 +18,6 @@
 <field name="region">Hamburg</field>
 <field name="country">Germany</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Izeяl+Eugen+d'Albert&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Izeÿl+Eugen+d'Albert&amp;search_field=search</field>
 </doc>
 </add>

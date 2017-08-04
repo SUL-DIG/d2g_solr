@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10106548</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Aaron Copland</field>
 <field name="composerSort">Copland, Aaron</field>
 <field name="year">1954</field>
-<field name="date">1954</field>
+<field name="date">April 1, 1954</field>
 <field name="librettist">[Erik Johns] Horace Everett</field>
 <field name="librettistSort">Everett, Horace [Erik Johns]</field>
 <field name="theater">New York City Opera</field>

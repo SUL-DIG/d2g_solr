@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
+﻿<?xml version='1.0' encoding='UTF8'?>
 <add>
 <doc>
 <field name="id">10100312</field>
@@ -8,7 +8,7 @@
 <field name="composer">Eugen d'Albert</field>
 <field name="composerSort">Albert, Eugen d’</field>
 <field name="year">1902</field>
-<field name="date">1902</field>
+<field name="date">February 26, 1902</field>
 <field name="librettist">Gustav Kastropp</field>
 <field name="librettistSort">Kastropp, Gustav</field>
 <field name="librettist">Victor Hugo</field>

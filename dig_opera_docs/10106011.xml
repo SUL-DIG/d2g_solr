@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10106011</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Gaetano Cipollini</field>
 <field name="composerSort">Cipollini, Gaetano</field>
 <field name="year">1893</field>
-<field name="date">1893</field>
+<field name="date">January 24, 1893</field>
 <field name="librettist">Antonio Cipollini</field>
 <field name="librettistSort">Cipollini, Antonio</field>
 <field name="theater">Teatro Sociale</field>

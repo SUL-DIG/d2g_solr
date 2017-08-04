@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10106547</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Aaron Copland</field>
 <field name="composerSort">Copland, Aaron</field>
 <field name="year">1937</field>
-<field name="date">1937</field>
+<field name="date">April 21, 1937</field>
 <field name="librettist">Edwin Denby</field>
 <field name="librettistSort">Denby, Edwin</field>
 <field name="theater">Grand Street Playhouse</field>

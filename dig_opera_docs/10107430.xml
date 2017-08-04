@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10107430</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Frederick Delius</field>
 <field name="composerSort">Delius, Frederick</field>
 <field name="year">1919</field>
-<field name="date">1919</field>
+<field name="date">October 21, 1919</field>
 <field name="librettist">Frederick Delius</field>
 <field name="librettistSort">Delius, Frederick</field>
 <field name="librettist">Jens Peter Jacobsen</field>

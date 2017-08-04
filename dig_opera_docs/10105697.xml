@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10105697</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Hans Chemin-Petit (jr.)</field>
 <field name="composerSort">Chemin-Petit (jr.), Hans</field>
 <field name="year">1962</field>
-<field name="date">1962</field>
+<field name="date">April 23, 1962</field>
 <field name="librettist">Hans Chemin-Petit (jr.)</field>
 <field name="librettistSort">Chemin-Petit (jr.), Hans</field>
 <field name="librettist">Frank Wedekind</field>

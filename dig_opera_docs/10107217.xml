@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10107217</field>
 <field name="genre">Opera</field>
@@ -6,8 +6,8 @@
 <field name="titleSort">Ordeal of Osbert</field>
 <field name="composer">Allan G. Davis</field>
 <field name="composerSort">Davis, Allan G.</field>
-<field name="year">1949</field>
-<field name="date">1949</field>
+<field name="year">1951</field>
+<field name="date">August 11, 1951</field>
 <field name="librettist">Allan G. Davis</field>
 <field name="librettistSort">Davis, Allan G.</field>
 <field name="librettist">Pelham Grenville Wodehouse</field>
