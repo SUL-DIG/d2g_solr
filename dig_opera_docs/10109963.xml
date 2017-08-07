@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10109963</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Elena Firsova</field>
 <field name="composerSort">Firsova, Elena</field>
 <field name="year">1994</field>
-<field name="date">1994</field>
+<field name="date">July 8, 1994</field>
 <field name="librettist">Elena Firsova</field>
 <field name="librettistSort">Firsova, Elena</field>
 <field name="librettist">Oscar Wilde</field>

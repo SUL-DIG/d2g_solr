@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10108779</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Gottfried von Einem</field>
 <field name="composerSort">Einem, Gottfried von</field>
 <field name="year">1971</field>
-<field name="date">1971</field>
+<field name="date">May 23, 1971</field>
 <field name="librettist">Friedrich Dürrenmatt</field>
 <field name="librettistSort">Dürrenmatt, Friedrich</field>
 <field name="theater">Staatsoper</field>

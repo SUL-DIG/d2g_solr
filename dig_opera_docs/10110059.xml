@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110059</field>
 <field name="genre">Opera</field>
@@ -7,13 +7,13 @@
 <field name="composer">Veniamin Iosifovich Fleyshman</field>
 <field name="composerSort">Fleyshman, Veniamin Iosifovich</field>
 <field name="year">1960</field>
-<field name="date">1960</field>
+<field name="date">June 20, 1960</field>
 <field name="librettist">Veniamin Iosifovich Fleyshman</field>
 <field name="librettistSort">Fleyshman, Veniamin Iosifovich</field>
 <field name="librettist">Anton Pavlovich Chekhov</field>
 <field name="librettistSort">Chekhov, Anton Pavlovich</field>
-<field name="theater">Experimental Chamber Opera</field>
-<field name="city">St. Petersburg</field>
+<field name="theater">All-Union House of Composers</field>
+<field name="city">Moscow</field>
 
 <field name="country">Russia</field>
 

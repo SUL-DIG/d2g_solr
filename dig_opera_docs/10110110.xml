@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110110</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Carlisle Floyd</field>
 <field name="composerSort">Floyd, Carlisle</field>
 <field name="year">1976</field>
-<field name="date">1976</field>
+<field name="date">February 27, 1976</field>
 <field name="librettist">Carlisle Floyd</field>
 <field name="librettistSort">Floyd, Carlisle</field>
 <field name="librettist">Esther Forbes</field>

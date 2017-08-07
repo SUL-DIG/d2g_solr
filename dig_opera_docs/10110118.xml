@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110118</field>
 <field name="genre">Opera</field>
@@ -6,8 +6,8 @@
 <field name="titleSort">Susannah</field>
 <field name="composer">Carlisle Floyd</field>
 <field name="composerSort">Floyd, Carlisle</field>
-<field name="year">1955</field>
-<field name="date">1955</field>
+<field name="year">1956</field>
+<field name="date">February 24, 1956</field>
 <field name="librettist">Carlisle Floyd</field>
 <field name="librettistSort">Floyd, Carlisle</field>
 <field name="theater">Florida State University</field>

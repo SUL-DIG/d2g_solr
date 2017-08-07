@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10108782</field>
 <field name="genre">Opera</field>
@@ -7,11 +7,13 @@
 <field name="composer">Gottfried von Einem</field>
 <field name="composerSort">Einem, Gottfried von</field>
 <field name="year">1976</field>
-<field name="date">1976</field>
+<field name="date">December 17, 1976</field>
 <field name="librettist">Boris Blacher</field>
 <field name="librettistSort">Blacher, Boris</field>
 <field name="librettist">Lotte Ingrisch</field>
 <field name="librettistSort">Ingrisch, Lotte</field>
+<field name="librettist">Friedrich von Schiller</field>
+<field name="librettistSort">Schiller, Friedrich von</field>
 <field name="theater">Staatsoper</field>
 <field name="city">Vienna</field>
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111964</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Alberto Ginastera</field>
 <field name="composerSort">Ginastera, Alberto</field>
 <field name="year">1971</field>
-<field name="date">1971</field>
+<field name="date">September 10, 1971</field>
 <field name="librettist">William Shand</field>
 <field name="librettistSort">Shand, William</field>
 <field name="librettist">Alberto Girri</field>

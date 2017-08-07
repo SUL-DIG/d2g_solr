@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110084</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Friedrich Flotow</field>
 <field name="composerSort">Flotow, Friedrich</field>
 <field name="year">1844</field>
-<field name="date">1844</field>
+<field name="date">December 30, 1844</field>
 <field name="librettist">[Wilhelm Friedrich Riese] W. Friedrich</field>
 <field name="librettistSort">Friedrich, W. [WilhelmRiese]</field>
 <field name="theater">Neues Stadt-Theater am Dammtor</field>

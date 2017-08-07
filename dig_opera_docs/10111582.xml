@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111582</field>
 <field name="genre">Opera</field>
-<field name="title">The Duenna</field>
-<field name="titleSort">Duenna</field>
+<field name="title">The Duenna (La Dueña)</field>
+<field name="titleSort">Duenna, (La Dueña) The</field>
 <field name="composer">Roberto Gerhard</field>
 <field name="composerSort">Gerhard, Roberto</field>
 <field name="year">1949</field>
@@ -17,6 +17,6 @@
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Duenna+Roberto+Gerhard&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Duenna+La+Dueña+Roberto+Gerhard&amp;search_field=search</field>
 </doc>
 </add>

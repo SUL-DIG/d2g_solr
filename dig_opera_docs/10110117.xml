@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110117</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Carlisle Floyd</field>
 <field name="composerSort">Floyd, Carlisle</field>
 <field name="year">1963</field>
-<field name="date">1963</field>
+<field name="date">December 2, 1963</field>
 <field name="librettist">Carlisle Floyd</field>
 <field name="librettistSort">Floyd, Carlisle</field>
 <field name="theater">East Carolina College</field>

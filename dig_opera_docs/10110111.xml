@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110111</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Carlisle Floyd</field>
 <field name="composerSort">Floyd, Carlisle</field>
 <field name="year">1972</field>
-<field name="date">1972</field>
+<field name="date">May 16, 1972</field>
 <field name="librettist">Carlisle Floyd</field>
 <field name="librettistSort">Floyd, Carlisle</field>
 <field name="theater">Civic Auditorium</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10107434</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Frederick Delius</field>
 <field name="composerSort">Delius, Frederick</field>
 <field name="year">1983</field>
-<field name="date">1983</field>
+<field name="date">June 8, 1983</field>
 <field name="librettist">Berthe Gaston-Danville</field>
 <field name="librettistSort">Gaston-Danville, Berthe</field>
 <field name="theater">Loretto-Hilton Theater</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10108784</field>
 <field name="genre">Opera</field>
@@ -7,11 +7,13 @@
 <field name="composer">Gottfried von Einem</field>
 <field name="composerSort">Einem, Gottfried von</field>
 <field name="year">1953</field>
-<field name="date">1953</field>
+<field name="date">August 17, 1953</field>
 <field name="librettist">Boris Blacher</field>
 <field name="librettistSort">Blacher, Boris</field>
 <field name="librettist">Heinz von Cramer</field>
 <field name="librettistSort">Cramer, Heinz von</field>
+<field name="librettist">Franz Kafka</field>
+<field name="librettistSort">Kafka, Franz</field>
 <field name="theater">Grosses Festspielhaus</field>
 <field name="city">Salzburg</field>
 <field name="region">Salzburg</field>

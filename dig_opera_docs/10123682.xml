@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123682</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Johann Christoph Pepusch</field>
 <field name="composerSort">Pepusch, Johann Christoph</field>
 <field name="year">1777</field>
-<field name="date">1777</field>
+<field name="date">June 19, 1777</field>
 <field name="librettist">John Gay</field>
 <field name="librettistSort">Gay, John</field>
 <field name="theater">Little Theatre in the Haymarket</field>
