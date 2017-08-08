@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10112860</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Heinz Karl Gruber</field>
 <field name="composerSort">Gruber, Heinz Karl</field>
 <field name="year">1993</field>
-<field name="date">1993</field>
+<field name="date">January 18, 1993</field>
 <field name="librettist">Richard Bletschacher</field>
 <field name="librettistSort">Bletschacher, Richard</field>
 <field name="theater">Städtische Volksoper</field>

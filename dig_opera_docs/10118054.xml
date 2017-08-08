@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10118054</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Marvin David Levy</field>
 <field name="composerSort">Levy, Marvin David</field>
 <field name="year">1967</field>
-<field name="date">1967</field>
+<field name="date">March 17, 1967</field>
 <field name="librettist">Henry Butler</field>
 <field name="librettistSort">Butler, Henry</field>
 <field name="librettist">Eugene O'Neill</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10119880</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Nicholas Maw</field>
 <field name="composerSort">Maw, Nicholas</field>
 <field name="year">1970</field>
-<field name="date">1970</field>
+<field name="date">July 19, 1970</field>
 <field name="librettist">Beverley Cross</field>
 <field name="librettistSort">Cross, Beverley</field>
 <field name="theater">Glyndebourne Festival Opera</field>

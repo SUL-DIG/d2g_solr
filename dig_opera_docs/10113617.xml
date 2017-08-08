@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10113617</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Heinz Hartig</field>
 <field name="composerSort">Hartig, Heinz</field>
 <field name="year">1961</field>
-<field name="date">1961</field>
+<field name="date">October 4, 1961</field>
 <field name="librettist">Friedrich Petzold</field>
 <field name="librettistSort">Petzold, Friedrich</field>
 <field name="librettist">Michel de Ghelderode</field>

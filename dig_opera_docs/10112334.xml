@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10112334</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Berthold Goldschmidt</field>
 <field name="composerSort">Goldschmidt, Berthold</field>
 <field name="year">1988</field>
-<field name="date">1988</field>
+<field name="date">April 16, 1988</field>
 <field name="librettist">Martin Esslin</field>
 <field name="librettistSort">Esslin, Martin</field>
 <field name="librettist">Percy Bysshe Shelley</field>

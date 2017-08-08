@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114821</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Engelbert Humperdinck</field>
 <field name="composerSort">Humperdinck, Engelbert</field>
 <field name="year">1893</field>
-<field name="date">1893</field>
+<field name="date">December 23, 1893</field>
 <field name="librettist">Adelheid Wette</field>
 <field name="librettistSort">Wette, Adelheid</field>
 <field name="librettist">Jakob &amp; Wilhelm Grimm</field>

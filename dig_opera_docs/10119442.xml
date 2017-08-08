@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10119442</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Heinrich August Marschner</field>
 <field name="composerSort">Marschner, Heinrich August</field>
 <field name="year">1828</field>
-<field name="date">1828</field>
+<field name="date">March 29, 1828</field>
 <field name="librettist">Wilhelm August Wohlbrück</field>
 <field name="librettistSort">Wohlbrück, Wilhelm August</field>
 <field name="librettist">John Polidori</field>

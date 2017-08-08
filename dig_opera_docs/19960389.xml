@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960389</field>
 <field name="genre">Opera</field>
@@ -10,6 +10,8 @@
 <field name="date">October 7, 2006</field>
 <field name="librettist">Hans-Ulrich Treichel</field>
 <field name="librettistSort">Treichel, Hans-Ulrich</field>
+<field name="librettist">Albert Camus</field>
+<field name="librettistSort">Camus, Albert</field>
 <field name="theater">Schauspielhaus</field>
 <field name="city">Frankfurt</field>
 <field name="region">Hessen</field>

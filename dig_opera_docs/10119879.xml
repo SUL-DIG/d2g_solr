@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10119879</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Nicholas Maw</field>
 <field name="composerSort">Maw, Nicholas</field>
 <field name="year">1964</field>
-<field name="date">1964</field>
+<field name="date">November 12, 1964</field>
 <field name="librettist">Arthur Jacobs</field>
 <field name="librettistSort">Jacobs, Arthur</field>
 <field name="librettist">[Hector Hugh Munro] Saki</field>

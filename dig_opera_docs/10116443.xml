@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10116443</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Arghyris Kounadis</field>
 <field name="composerSort">Kounadis, Arghyris</field>
 <field name="year">1987</field>
-<field name="date">1987</field>
+<field name="date">February 7, 1987</field>
 <field name="librettist">Peter Sievert</field>
 <field name="librettistSort">Sievert, Peter</field>
 <field name="librettist">Ernst Theodor Amadeus Hoffmann</field>

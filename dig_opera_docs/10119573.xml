@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10119573</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Pietro Mascagni</field>
 <field name="composerSort">Mascagni, Pietro</field>
 <field name="year">1895</field>
-<field name="date">1895</field>
+<field name="date">February 16, 1895</field>
 <field name="librettist">Andrea Maffei</field>
 <field name="librettistSort">Maffei, Andrea</field>
 <field name="librettist">Heinrich Heine</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10117666</field>
 <field name="genre">Opera</field>
@@ -7,10 +7,10 @@
 <field name="composer">Benjamin Lees</field>
 <field name="composerSort">Lees, Benjamin</field>
 <field name="year">1971</field>
-<field name="date">1971</field>
+<field name="date">January 10, 1971</field>
 <field name="librettist">Robinson Jeffers</field>
 <field name="librettistSort">Jeffers, Robinson</field>
-<field name="theater">Grosvenor Ensemble</field>
+<field name="theater">Purcell Room</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

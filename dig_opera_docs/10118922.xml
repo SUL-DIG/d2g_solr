@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10118922</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Louis-Aimé Maillart</field>
 <field name="composerSort">Maillart, Louis-Aimé</field>
 <field name="year">1856</field>
-<field name="date">1856</field>
+<field name="date">September 19, 1856</field>
 <field name="librettist">[Pierre-Étienne Piestre] Eugène Cormon</field>
 <field name="librettistSort">Cormon, Eugène [Pierre-Étienne Piestre]</field>
 <field name="librettist">[Joseph-Philippe Simon] Lockroy</field>

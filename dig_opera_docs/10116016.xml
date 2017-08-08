@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10116016</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Giselher Klebe</field>
 <field name="composerSort">Klebe, Giselher</field>
 <field name="year">1961</field>
-<field name="date">1961</field>
+<field name="date">September 25, 1961</field>
 <field name="librettist">Giselher Klebe</field>
 <field name="librettistSort">Klebe, Giselher</field>
 <field name="librettist">Heinrich von Kleist</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10112101</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Detlev Glanert</field>
 <field name="composerSort">Glanert, Detlev</field>
 <field name="year">1995</field>
-<field name="date">1995</field>
+<field name="date">May 16, 1995</field>
 <field name="librettist">Herberth Egon Herlitschka</field>
 <field name="librettistSort">Herlitschka, Herberth Egon</field>
 <field name="librettist">Thornton Wilder</field>

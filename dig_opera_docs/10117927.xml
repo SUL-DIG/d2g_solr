@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10117927</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Ruggero Leoncavallo</field>
 <field name="composerSort">Leoncavallo, Ruggero</field>
 <field name="year">1892</field>
-<field name="date">1892</field>
+<field name="date">May 22, 1892</field>
 <field name="librettist">Ruggero Leoncavallo</field>
 <field name="librettistSort">Leoncavallo, Ruggero</field>
 <field name="theater">Teatro Dal Verme</field>

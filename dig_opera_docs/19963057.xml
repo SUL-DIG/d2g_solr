@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19963057</field>
 <field name="genre">Opera</field>
-<field name="title">Wide Sargasso Sea</field>
-<field name="titleSort">Wide Sargasso Sea</field>
+<field name="title">The Wide Sargasso Sea</field>
+<field name="titleSort">Wide Sargasso Sea, The</field>
 <field name="composer">Brian Howard</field>
 <field name="composerSort">Howard, Brian</field>
 <field name="year">1997</field>
@@ -14,6 +14,6 @@
 <field name="city">Melbourne</field>
 <field name="region">Victoria</field>
 <field name="country">Australia</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wide+Sargasso+Sea+Brian+Howard&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Wide+Sargasso+Sea+Brian+Howard&amp;search_field=search</field>
 </doc>
 </add>

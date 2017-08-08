@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10112335</field>
 <field name="genre">Opera</field>
@@ -7,9 +7,11 @@
 <field name="composer">Berthold Goldschmidt</field>
 <field name="composerSort">Goldschmidt, Berthold</field>
 <field name="year">1932</field>
-<field name="date">1932</field>
+<field name="date">February 14, 1932</field>
 <field name="librettist">Fernand Crommelynck</field>
 <field name="librettistSort">Crommelynck, Fernand</field>
+<field name="librettist">Berthold Goldschmidt</field>
+<field name="librettistSort">Goldschmidt, Berthold</field>
 <field name="theater">Nationaltheater</field>
 <field name="city">Mannheim</field>
 <field name="region">Baden-Württemberg</field>

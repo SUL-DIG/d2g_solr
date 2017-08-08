@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961200</field>
 <field name="genre">Opera</field>
@@ -10,6 +10,8 @@
 <field name="date">December 3, 1997</field>
 <field name="librettist">Richard Troop</field>
 <field name="librettistSort">Troop, Richard</field>
+<field name="librettist">Ovid</field>
+<field name="librettistSort">Ovid</field>
 <field name="theater">Bangarra Dance Studio</field>
 <field name="city">Sydney</field>
 <field name="region">New South Wales</field>

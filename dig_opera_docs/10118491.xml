@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10118491</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Mark Lothar</field>
 <field name="composerSort">Lothar, Mark</field>
 <field name="year">1968</field>
-<field name="date">1968</field>
+<field name="date">February 8, 1968</field>
 <field name="librettist">Mark Lothar</field>
 <field name="librettistSort">Lothar, Mark</field>
 <field name="librettist">Paul Vincent Carroll</field>

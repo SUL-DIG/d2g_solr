@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10107211</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Peter Maxwell Davies</field>
 <field name="composerSort">Davies, Peter Maxwell</field>
 <field name="year">1977</field>
-<field name="date">1977</field>
+<field name="date">June 18, 1977</field>
 <field name="librettist">Peter Maxwell Davies</field>
 <field name="librettistSort">Davies, Peter Maxwell</field>
 <field name="librettist">George Mackay Brown</field>

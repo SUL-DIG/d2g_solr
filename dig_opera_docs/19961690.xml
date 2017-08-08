@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961690</field>
 <field name="genre">Opera</field>
-<field name="title">Matricide</field>
-<field name="titleSort">Matricide</field>
+<field name="title">Matricide, the musical</field>
+<field name="titleSort">Matricide, the musical</field>
 <field name="composer">Elena Kats-Chernin</field>
 <field name="composerSort">Kats-Chernin, Elena</field>
 <field name="year">1998</field>
@@ -14,6 +14,6 @@
 <field name="city">Melbourne</field>
 <field name="region">Victoria</field>
 <field name="country">Australia</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Matricide+Elena+Kats-Chernin&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Matricide,+the+musical+Elena+Kats-Chernin&amp;search_field=search</field>
 </doc>
 </add>

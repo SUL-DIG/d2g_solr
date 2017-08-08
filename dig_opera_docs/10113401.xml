@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
+﻿<?xml version='1.0' encoding='UTF8'?>
 <add>
 <doc>
 <field name="id">10113401</field>
@@ -8,7 +8,7 @@
 <field name="composer">Fromental Halévy</field>
 <field name="composerSort">Halévy, Fromental</field>
 <field name="year">1848</field>
-<field name="date">1848</field>
+<field name="date">November 11, 1848</field>
 <field name="librettist">Henri de Saint-Georges</field>
 <field name="librettistSort">Saint-Georges, Henri de</field>
 <field name="theater">Opéra-Comique</field>

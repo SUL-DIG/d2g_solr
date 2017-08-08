@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
+﻿<?xml version='1.0' encoding='UTF8'?>
 <add>
 <doc>
 <field name="id">10119527</field>
@@ -8,7 +8,7 @@
 <field name="composer">Bohuslav Martinů</field>
 <field name="composerSort">Martinů, Bohuslav</field>
 <field name="year">1954</field>
-<field name="date">1954</field>
+<field name="date">July 31, 1954</field>
 <field name="librettist">Bohuslav Martinů</field>
 <field name="librettistSort">Martinů, Bohuslav</field>
 <field name="librettist">Lev Nikolayevich Tolstoy</field>

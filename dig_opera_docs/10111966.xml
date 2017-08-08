@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111966</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Alberto Ginastera</field>
 <field name="composerSort">Ginastera, Alberto</field>
 <field name="year">1964</field>
-<field name="date">1964</field>
+<field name="date">July 24, 1964</field>
 <field name="librettist">[Alejandro Rodríguez Alvarez] Alejandro Casona</field>
 <field name="librettistSort">Casona, Alejandro [Alejandro Rodríguez Alvarez]</field>
 <field name="theater">Teatro Colón</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10115968</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Wilhelm Kienzl</field>
 <field name="composerSort">Kienzl, Wilhelm</field>
 <field name="year">1895</field>
-<field name="date">1895</field>
+<field name="date">May 4, 1895</field>
 <field name="librettist">Wilhelm Kienzl</field>
 <field name="librettistSort">Kienzl, Wilhelm</field>
 <field name="librettist">Leopold Florian Meissner</field>

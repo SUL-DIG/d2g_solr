@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961541</field>
 <field name="genre">Opera</field>
@@ -6,8 +6,8 @@
 <field name="titleSort">Leviathan</field>
 <field name="composer">Detlev Glanert</field>
 <field name="composerSort">Glanert, Detlev</field>
-<field name="year">1991</field>
-<field name="date">October 2, 1991</field>
+<field name="year">1986</field>
+<field name="date">May 13, 1986</field>
 <field name="librettist">Herbert Herlitschka</field>
 <field name="librettistSort">Herlitschka, Herbert</field>
 <field name="librettist">Thornton Wilder</field>

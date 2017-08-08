@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10116019</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Giselher Klebe</field>
 <field name="composerSort">Klebe, Giselher</field>
 <field name="year">1963</field>
-<field name="date">1963</field>
+<field name="date">June 28, 1963</field>
 <field name="librettist">Giselher Klebe</field>
 <field name="librettistSort">Klebe, Giselher</field>
 <field name="librettist">Ődőn von Horváth</field>

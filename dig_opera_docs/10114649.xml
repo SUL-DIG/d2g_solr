@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114649</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">David Horne</field>
 <field name="composerSort">Horne, David</field>
 <field name="year">1993</field>
-<field name="date">1993</field>
+<field name="date">May 18, 1993</field>
 <field name="librettist">Charles Hart</field>
 <field name="librettistSort">Hart, Charles</field>
 <field name="theater">Donmar Warehouse</field>

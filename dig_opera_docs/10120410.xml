@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
+﻿<?xml version='1.0' encoding='UTF8'?>
 <add>
 <doc>
 <field name="id">10120410</field>
@@ -8,7 +8,7 @@
 <field name="composer">André Messager</field>
 <field name="composerSort">Messager, André</field>
 <field name="year">1914</field>
-<field name="date">1914</field>
+<field name="date">March 21, 1914</field>
 <field name="librettist">Robert de Flers</field>
 <field name="librettistSort">Flers, Robert de</field>
 <field name="librettist">Gaston-Arman de Caillavet</field>

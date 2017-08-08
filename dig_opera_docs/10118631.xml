@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10118631</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Wolfgang Ludewig</field>
 <field name="composerSort">Ludewig, Wolfgang</field>
 <field name="year">1963</field>
-<field name="date">1963</field>
+<field name="date">July 21, 1963</field>
 <field name="librettist">Wilhelm Herrmann</field>
 <field name="librettistSort">Herrmann, Wilhelm</field>
 <field name="theater">Nationaltheater</field>

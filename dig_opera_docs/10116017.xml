@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10116017</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Giselher Klebe</field>
 <field name="composerSort">Klebe, Giselher</field>
 <field name="year">1959</field>
-<field name="date">1959</field>
+<field name="date">September 20, 1959</field>
 <field name="librettist">Giselher Klebe</field>
 <field name="librettistSort">Klebe, Giselher</field>
 <field name="librettist">William Shakespeare</field>

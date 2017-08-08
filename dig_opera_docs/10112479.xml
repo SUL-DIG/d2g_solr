@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10112479</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Paul Graener</field>
 <field name="composerSort">Graener, Paul</field>
 <field name="year">1927</field>
-<field name="date">1927</field>
+<field name="date">February 17, 1927</field>
 <field name="librettist">Paul Graener</field>
 <field name="librettistSort">Graener, Paul</field>
 <field name="librettist">Georg Gräner</field>

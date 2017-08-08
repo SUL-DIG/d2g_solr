@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
+﻿<?xml version='1.0' encoding='UTF8'?>
 <add>
 <doc>
 <field name="id">10119539</field>
@@ -8,7 +8,7 @@
 <field name="composer">Bohuslav Martinů</field>
 <field name="composerSort">Martinů, Bohuslav</field>
 <field name="year">1937</field>
-<field name="date">1937</field>
+<field name="date">March 18, 1937</field>
 <field name="librettist">Václav Kliment Klicpera</field>
 <field name="librettistSort">Klicpera, Václav Kliment</field>
 <field name="theater">Czech Radio</field>
