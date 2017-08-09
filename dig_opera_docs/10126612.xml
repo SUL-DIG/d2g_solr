@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10126612</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Ned Rorem</field>
 <field name="composerSort">Rorem, Ned</field>
 <field name="year">1965</field>
-<field name="date">1965</field>
+<field name="date">November 4, 1965</field>
 <field name="librettist">Kenward Elmslie</field>
 <field name="librettistSort">Elmslie, Kenward</field>
 <field name="librettist">August Strindberg</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10126807</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Gioachino Rossini</field>
 <field name="composerSort">Rossini, Gioachino</field>
 <field name="year">1813</field>
-<field name="date">1813</field>
+<field name="date">May 22, 1813</field>
 <field name="librettist">Angelo Anelli</field>
 <field name="librettistSort">Anelli, Angelo</field>
 <field name="theater">Teatro Grimani di San Benedetto</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10129074</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Dmitry Shostakovich</field>
 <field name="composerSort">Shostakovich, Dmitry</field>
 <field name="year">1978</field>
-<field name="date">1978</field>
+<field name="date">September 18, 1978</field>
 <field name="librettist">Nikolay Vasil'yevich Gogol</field>
 <field name="librettistSort">Gogol, Nikolay Vasil'yevich</field>
 <field name="theater">Philharmonic Bol'shoy Hall</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10129017</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Rodion Konstantinovich Shchedrin</field>
 <field name="composerSort">Shchedrin, Rodion Konstantinovich</field>
 <field name="year">1977</field>
-<field name="date">1977</field>
+<field name="date">June 7, 1977</field>
 <field name="librettist">Rodion Konstantinovich Shchedrin</field>
 <field name="librettistSort">Shchedrin, Rodion Konstantinovich</field>
 <field name="librettist">Nikolay Vasil'yevich Gogol</field>

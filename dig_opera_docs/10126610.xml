@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10126610</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Ned Rorem</field>
 <field name="composerSort">Rorem, Ned</field>
 <field name="year">1977</field>
-<field name="date">1977</field>
+<field name="date">March 15, 1977</field>
 <field name="librettist">James Holmes</field>
 <field name="librettistSort">Holmes, James</field>
 <field name="librettist">Kenneth Koch</field>

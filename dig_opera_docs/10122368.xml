@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10122368</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Jacques Offenbach</field>
 <field name="composerSort">Offenbach, Jacques</field>
 <field name="year">1864</field>
-<field name="date">1864</field>
+<field name="date">July 9, 1864</field>
 <field name="librettist">[Charles Louis Étienne Truinet] Charles Nuitter</field>
 <field name="librettistSort">Nuitter, Charles [Charles Louis Étienne Truinet]</field>
 <field name="librettist">Étienne Tréfeu</field>

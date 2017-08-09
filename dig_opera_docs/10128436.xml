@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10128436</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Franz Schreker</field>
 <field name="composerSort">Schreker, Franz</field>
 <field name="year">1902</field>
-<field name="date">1902</field>
+<field name="date">April 24, 1902</field>
 <field name="librettist">Dora Leen</field>
 <field name="librettistSort">Leen, Dora</field>
 <field name="theater">Bösendorfersaal</field>

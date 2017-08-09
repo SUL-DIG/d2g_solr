@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10122392</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Jacques Offenbach</field>
 <field name="composerSort">Offenbach, Jacques</field>
 <field name="year">1853</field>
-<field name="date">1853</field>
+<field name="date">October 28, 1853</field>
 <field name="librettist">Jules Moinaux</field>
 <field name="librettistSort">Moinaux, Jules</field>
 <field name="librettist">Léon Battu</field>

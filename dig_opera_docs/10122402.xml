@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10122402</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Jacques Offenbach</field>
 <field name="composerSort">Offenbach, Jacques</field>
 <field name="year">1872</field>
-<field name="date">1872</field>
+<field name="date">January 15, 1872</field>
 <field name="librettist">Victorien Sardou</field>
 <field name="librettistSort">Sardou, Victorien</field>
 <field name="librettist">Ernst Theodor Amadeus Hoffmann</field>

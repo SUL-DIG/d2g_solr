@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10128229</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Max von Schillings</field>
 <field name="composerSort">Schillings, Max von</field>
 <field name="year">1906</field>
-<field name="date">1906</field>
+<field name="date">December 8, 1906</field>
 <field name="librettist">Emil Gerhäuser</field>
 <field name="librettistSort">Gerhäuser, Emil</field>
 <field name="librettist">Friedrich Hebbel</field>

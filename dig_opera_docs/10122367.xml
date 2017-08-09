@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10122367</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Jacques Offenbach</field>
 <field name="composerSort">Offenbach, Jacques</field>
 <field name="year">1872</field>
-<field name="date">1872</field>
+<field name="date">January 18, 1872</field>
 <field name="librettist">Paul de Musset</field>
 <field name="librettistSort">Musset, Paul de</field>
 <field name="librettist">Alfred de Musset</field>

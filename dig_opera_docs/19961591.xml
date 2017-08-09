@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961591</field>
 <field name="genre">Opera</field>
@@ -12,6 +12,10 @@
 <field name="librettistSort">Jelinek, Elfriede</field>
 <field name="librettist">Olga Neuwirth</field>
 <field name="librettistSort">Neuwirth, Olga</field>
+<field name="librettist">David Lynch</field>
+<field name="librettistSort">Lynch, David</field>
+<field name="librettist">Barry Gifford</field>
+<field name="librettistSort">Gifford, Barry</field>
 <field name="theater">Helmut-List-Halle</field>
 <field name="city">Graz</field>
 <field name="region">Steiermark</field>

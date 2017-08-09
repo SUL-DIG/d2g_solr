@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10124024</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Hans Pfitzner</field>
 <field name="composerSort">Pfitzner, Hans</field>
 <field name="year">1931</field>
-<field name="date">1931</field>
+<field name="date">November 12, 1931</field>
 <field name="librettist">[Hans Possendorf] Hans Mahner-Mons</field>
 <field name="librettistSort">Mahner-Mons, Hans [Hans Possendorf]</field>
 <field name="theater">Staatsoper</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10128653</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Wolfgang von Schweinitz</field>
 <field name="composerSort">Schweinitz, Wolfgang von</field>
 <field name="year">1990</field>
-<field name="date">1990</field>
+<field name="date">April 28, 1990</field>
 <field name="librettist">Dietrich E. Sattler</field>
 <field name="librettistSort">Sattler, Dietrich E.</field>
 <field name="theater">Biennale</field>

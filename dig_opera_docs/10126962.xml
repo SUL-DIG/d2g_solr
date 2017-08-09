@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10126962</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Anton Rubinstein</field>
 <field name="composerSort">Rubinstein, Anton</field>
 <field name="year">1879</field>
-<field name="date">1879</field>
+<field name="date">November 1, 1879</field>
 <field name="librettist">Jules Barbier</field>
 <field name="librettistSort">Barbier, Jules</field>
 <field name="librettist">Anton Rubinstein</field>

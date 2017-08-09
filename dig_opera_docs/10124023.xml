@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10124023</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Hans Pfitzner</field>
 <field name="composerSort">Pfitzner, Hans</field>
 <field name="year">1906</field>
-<field name="date">1906</field>
+<field name="date">December 11, 1906</field>
 <field name="librettist">Ilse von Stach</field>
 <field name="librettistSort">Stach, Ilse von</field>
 <field name="librettist">Hans Pfitzner</field>

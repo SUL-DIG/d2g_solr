@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10126609</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Ned Rorem</field>
 <field name="composerSort">Rorem, Ned</field>
 <field name="year">1971</field>
-<field name="date">1971</field>
+<field name="date">May 21, 1971</field>
 <field name="librettist">Marianne Moore</field>
 <field name="librettistSort">Moore, Marianne</field>
 <field name="librettist">Jean de La Fontaine</field>

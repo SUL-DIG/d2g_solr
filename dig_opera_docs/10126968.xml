@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10126968</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Anton Rubinstein</field>
 <field name="composerSort">Rubinstein, Anton</field>
 <field name="year">1858</field>
-<field name="date">1858</field>
+<field name="date">March 1, 1858</field>
 <field name="librettist">Arnold Schönbach</field>
 <field name="librettistSort">Schönbach, Arnold</field>
 <field name="librettist">John Milton</field>
