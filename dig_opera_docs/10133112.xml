@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10133112</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Hugo Wolf</field>
 <field name="composerSort">Wolf, Hugo</field>
 <field name="year">1896</field>
-<field name="date">1896</field>
+<field name="date">June 7, 1896</field>
 <field name="librettist">Rosa Mayreder</field>
 <field name="librettistSort">Mayreder, Rosa</field>
 <field name="librettist">Pedro Antonío de Alarcón</field>

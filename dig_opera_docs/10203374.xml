@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203374</field>
 		<field name="genre">Oratorio</field>
 		<field name="title">Pesnya Tat'yanï (Tat'yana's Song)</field>
@@ -10,7 +10,7 @@
 		<field name="composer">Gaziza Akmetovna Zhubanova</field>
 		<field name="composerSort">Zhubanova, Gaziza Akmetovna</field>
 		<field name="librettist">Aleksandr Sergeyevich Pushkin</field>
-		<field name="librettistSort">Pushkin, Aleksandr Sergeyev</field>
+		<field name="librettistSort">Pushkin, Aleksandr Sergeyevich</field>
 		
 		
 		

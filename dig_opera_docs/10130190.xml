@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10130190</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Richard Strauss</field>
 <field name="composerSort">Strauss, Richard</field>
 <field name="year">1935</field>
-<field name="date">1935</field>
+<field name="date">June 24, 1935</field>
 <field name="librettist">Stefan Zweig</field>
 <field name="librettistSort">Zweig, Stefan</field>
 <field name="librettist">Ben Jonson</field>

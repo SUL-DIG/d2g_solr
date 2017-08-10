@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10130723</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Pyotr Il'yich Tchaikovsky</field>
 <field name="composerSort">Tchaikovsky, Pyotr Il'yich</field>
 <field name="year">1892</field>
-<field name="date">1892</field>
+<field name="date">December 18, 1892</field>
 <field name="librettist">Modest Il'yich Tchaikovsky</field>
 <field name="librettistSort">Tchaikovsky, Modest Il'yich</field>
 <field name="librettist">Rafail Mikhaylovich Zotov</field>

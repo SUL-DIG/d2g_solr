@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10129696</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Charles Villiers Stanford</field>
 <field name="composerSort">Stanford, Charles Villiers</field>
 <field name="year">1901</field>
-<field name="date">1901</field>
+<field name="date">May 30, 1901</field>
 <field name="librettist">Julian Russell Sturgis</field>
 <field name="librettistSort">Sturgis, Julian Russell</field>
 <field name="librettist">William Shakespeare</field>

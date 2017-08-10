@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10129292</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Dmitry Nikolayevich Smirnov</field>
 <field name="composerSort">Smirnov, Dmitry Nikolayevich</field>
 <field name="year">1989</field>
-<field name="date">1989</field>
+<field name="date">June 9, 1989</field>
 <field name="librettist">Dmitry Nikolayevich Smirnov</field>
 <field name="librettistSort">Smirnov, Dmitry Nikolayevich</field>
 <field name="librettist">William Blake</field>

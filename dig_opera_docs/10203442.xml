@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203442</field>
 		<field name="genre">Oratorio</field>
 		<field name="title">Poltava</field>
@@ -10,7 +10,7 @@
 		<field name="composer">Dmitry Stepanovich Vasil'yev-Buglay</field>
 		<field name="composerSort">Vasil'yev-Buglay, Dmitry Stepanovich</field>
 		<field name="librettist">Aleksandr Sergeyevich Pushkin</field>
-		<field name="librettistSort">Pushkin, Aleksandr Sergeyev</field>
+		<field name="librettistSort">Pushkin, Aleksandr Sergeyevich</field>
 		<field name="librettist">Aleksey Nikolayevich Tolstoy</field>
 		<field name="librettistSort">Tolstoy, Aleksey Nikolayevich</field>
 		

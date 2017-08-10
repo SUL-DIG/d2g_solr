@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10129089</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Wilhelm Dieter Siebert</field>
 <field name="composerSort">Siebert, Wilhelm Dieter</field>
 <field name="year">1979</field>
-<field name="date">1979</field>
+<field name="date">September 6, 1979</field>
 <field name="librettist">Wilhelm Dieter Siebert</field>
 <field name="librettistSort">Siebert, Wilhelm Dieter</field>
 <field name="librettist">Christian Rateuke</field>

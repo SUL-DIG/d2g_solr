@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10130195</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Igor Stravinsky</field>
 <field name="composerSort">Stravinsky, Igor</field>
 <field name="year">1951</field>
-<field name="date">1951</field>
+<field name="date">September 11, 1951</field>
 <field name="librettist">Wystan Hugh Auden</field>
 <field name="librettistSort">Auden, Wystan Hugh</field>
 <field name="librettist">Chester Kallman</field>

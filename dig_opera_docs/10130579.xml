@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10130579</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">David Tamkin</field>
 <field name="composerSort">Tamkin, David</field>
 <field name="year">1951</field>
-<field name="date">1951</field>
+<field name="date">October 4, 1951</field>
 <field name="librettist">Alex Tamkin</field>
 <field name="librettistSort">Tamkin, Alex</field>
 <field name="librettist">[Shloyme Zaynv Rapoport] An-ski</field>

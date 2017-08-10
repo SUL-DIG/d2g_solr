@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10130196</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Igor Stravinsky</field>
 <field name="composerSort">Stravinsky, Igor</field>
 <field name="year">1914</field>
-<field name="date">1914</field>
+<field name="date">May 26, 1914</field>
 <field name="librettist">Igor Stravinsky</field>
 <field name="librettistSort">Stravinsky, Igor</field>
 <field name="librettist">Stepan Nikolayevich Mitusov</field>

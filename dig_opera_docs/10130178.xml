@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10130178</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Richard Strauss</field>
 <field name="composerSort">Strauss, Richard</field>
 <field name="year">1912</field>
-<field name="date">1912</field>
+<field name="date">October 25, 1912</field>
 <field name="librettist">Hugo von Hofmannsthal</field>
 <field name="librettistSort">Hofmannsthal, Hugo von</field>
 <field name="theater">Hoftheater</field>

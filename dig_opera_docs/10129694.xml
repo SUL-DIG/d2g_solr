@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10129694</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Charles Villiers Stanford</field>
 <field name="composerSort">Stanford, Charles Villiers</field>
 <field name="year">1884</field>
-<field name="date">1884</field>
+<field name="date">April 23, 1884</field>
 <field name="librettist">Gilbert Arthur a'Beckett</field>
 <field name="librettistSort">a'Beckett, Gilbert Arthur</field>
 <field name="theater">Theatre Royal, Drury Lane</field>

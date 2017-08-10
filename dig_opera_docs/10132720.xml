@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132720</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Jaromír Weinberger</field>
 <field name="composerSort">Weinberger, Jaromír</field>
 <field name="year">1927</field>
-<field name="date">1927</field>
+<field name="date">April 27, 1927</field>
 <field name="librettist">Milos Kares</field>
 <field name="librettistSort">Kares, Milos</field>
 <field name="theater">Národní Divadlo</field>

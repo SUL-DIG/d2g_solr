@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10129698</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Charles Villiers Stanford</field>
 <field name="composerSort">Stanford, Charles Villiers</field>
 <field name="year">1896</field>
-<field name="date">1896</field>
+<field name="date">March 2, 1896</field>
 <field name="librettist">George Henry Jessop</field>
 <field name="librettistSort">Jessop, George Henry</field>
 <field name="librettist">Joseph Sheridan Le Fanu</field>

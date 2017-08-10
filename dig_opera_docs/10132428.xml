@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132428</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Rudolf Wagner-Régency</field>
 <field name="composerSort">Wagner-Régency, Rudolf</field>
 <field name="year">1961</field>
-<field name="date">1961</field>
+<field name="date">August 20, 1961</field>
 <field name="librettist">Rudolf Wagner-Régency</field>
 <field name="librettistSort">Wagner-Régency, Rudolf</field>
 <field name="librettist">Hugo von Hofmannsthal</field>

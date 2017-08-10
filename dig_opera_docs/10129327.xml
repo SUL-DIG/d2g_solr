@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10129327</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Ethel Smyth</field>
 <field name="composerSort">Smyth, Ethel</field>
 <field name="year">1902</field>
-<field name="date">1902</field>
+<field name="date">April 9, 1902</field>
 <field name="librettist">Henry Brewster</field>
 <field name="librettistSort">Brewster, Henry</field>
 <field name="librettist">Ethel Smyth</field>

@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10133260</field>
 <field name="genre">Opera</field>
-<field name="title">Sim Thong</field>
-<field name="titleSort">Sim Thong</field>
+<field name="title">Sim Tjong</field>
+<field name="titleSort">Sim Tjong</field>
 <field name="composer">Isang Yun</field>
 <field name="composerSort">Yun, Isang</field>
 <field name="year">1972</field>
-<field name="date">1972</field>
+<field name="date">August 1, 1972</field>
 <field name="librettist">Harald Kunz</field>
 <field name="librettistSort">Kunz, Harald</field>
 <field name="theater">Bayerische Staatsoper</field>
@@ -15,6 +15,6 @@
 <field name="region">Bayern</field>
 <field name="country">Germany</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sim+Thong+Isang+Yun&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sim+Tjong+Isang+Yun&amp;search_field=search</field>
 </doc>
 </add>

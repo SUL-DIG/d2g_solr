@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962014</field>
 <field name="genre">Opera</field>
@@ -12,6 +12,8 @@
 <field name="librettistSort">Madron, Paolo</field>
 <field name="librettist">Jetske Mijnssen</field>
 <field name="librettistSort">Mijnssen, Jetske</field>
+<field name="librettist">[Carlo Lorenzini] Carlo Collodi</field>
+<field name="librettistSort">Collodi,  [Carlo Lorenzini] Carlo</field>
 <field name="theater">Komische Oper</field>
 <field name="city">Berlin</field>
 <field name="region">Berlin</field>

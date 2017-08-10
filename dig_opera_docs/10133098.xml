@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10133098</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Bodo Wolf</field>
 <field name="composerSort">Wolf, Bodo</field>
 <field name="year">1934</field>
-<field name="date">1934</field>
+<field name="date">June 20, 1934</field>
 <field name="librettist">Eugen Rittelbusch</field>
 <field name="librettistSort">Rittelbusch, Eugen</field>
 <field name="theater">Hessisches Landestheater</field>

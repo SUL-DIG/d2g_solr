@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10133262</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Isang Yun</field>
 <field name="composerSort">Yun, Isang</field>
 <field name="year">1969</field>
-<field name="date">1969</field>
+<field name="date">February 23, 1969</field>
 <field name="librettist">Harald Kunz</field>
 <field name="librettistSort">Kunz, Harald</field>
 <field name="theater">Opernhaus</field>

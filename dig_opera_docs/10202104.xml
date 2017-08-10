@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10202104</field>
 		<field name="genre">Oratorio</field>
 		<field name="title">Istoricheskiye pesni (Historical Songs)</field>
@@ -10,7 +10,7 @@
 		<field name="composer">Oleg Borisovich Galakhov</field>
 		<field name="composerSort">Galakhov, Oleg Borisovich</field>
 		<field name="librettist">Aleksandr Sergeyevich Pushkin</field>
-		<field name="librettistSort">Pushkin, Aleksandr Sergeyev</field>
+		<field name="librettistSort">Pushkin, Aleksandr Sergeyevich</field>
 		
 		
 		

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
     <doc>
         <field name="id">20100001</field>
         <field name="genre">Opera</field>
@@ -15,7 +15,7 @@
         <field name="librettistSort">Thomas, Richard</field>
         <field name="year">2011</field>
         <!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
-        <field name="date">2011</field>
+        <field name="date">February 17, 2011</field>
         <field name="theater">Royal Opera House, Covent Garden</field>
         <field name="city">London</field>
         <!-- We use the region field for states or regions. -->
@@ -24,7 +24,6 @@
         <!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
         <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anna Nicole+and+Mark-Anthony+Turnage&amp;search_field=search</field>
 
-	<field name="revisions">Record added (2013-09-26)</field>
     </doc>
 </add>
 

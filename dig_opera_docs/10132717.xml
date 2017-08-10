@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132717</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Jaromír Weinberger</field>
 <field name="composerSort">Weinberger, Jaromír</field>
 <field name="year">1932</field>
-<field name="date">1932</field>
+<field name="date">November 19, 1932</field>
 <field name="librettist">Milos Kares</field>
 <field name="librettistSort">Kares, Milos</field>
 <field name="librettist">Bret Harte</field>

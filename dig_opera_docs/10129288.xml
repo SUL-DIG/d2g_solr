@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
+﻿<?xml version='1.0' encoding='UTF8'?>
 <add>
 <doc>
 <field name="id">10129288</field>
@@ -8,7 +8,7 @@
 <field name="composer">Bedřich Smetana</field>
 <field name="composerSort">Smetana, Bedřich</field>
 <field name="year">1866</field>
-<field name="date">1866</field>
+<field name="date">May 30, 1866</field>
 <field name="librettist">Karel Sabina</field>
 <field name="librettistSort">Sabina, Karel</field>
 <field name="theater">Prozatímní Divadlo</field>

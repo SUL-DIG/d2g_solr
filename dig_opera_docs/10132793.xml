@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132793</field>
 <field name="genre">Opera</field>
@@ -7,9 +7,11 @@
 <field name="composer">Egon Wellesz</field>
 <field name="composerSort">Wellesz, Egon</field>
 <field name="year">1931</field>
-<field name="date">1931</field>
+<field name="date">June 20, 1931</field>
 <field name="librettist">Egon Wellesz</field>
 <field name="librettistSort">Wellesz, Egon</field>
+<field name="librettist">Euripides</field>
+<field name="librettistSort">Euripides</field>
 <field name="theater">Staatsoper</field>
 <field name="city">Vienna</field>
 

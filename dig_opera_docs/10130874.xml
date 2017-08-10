@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10130874</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Werner Thärichen</field>
 <field name="composerSort">Thärichen, Werner</field>
 <field name="year">1958</field>
-<field name="date">1958</field>
+<field name="date">October 3, 1958</field>
 <field name="librettist">Wolfdietrich Schnurre</field>
 <field name="librettistSort">Schnurre, Wolfdietrich</field>
 <field name="theater">Städtische Oper Studio</field>
