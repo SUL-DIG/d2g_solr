@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100415</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Invocation</field>
+        
+		<field name="titleSort">Invocation</field>
+        
+		<field name="composer">Beat Furrer</field>
+        
+		<field name="composerSort">Furrer, Beat</field>
+
+      
+
+		<field name="librettist">Beat Furrer</field>
+             
+		<field name="librettistSort">Furrer, Beat</field>
+
+
+
+
+		<field name="librettist">Ilma Rakusa</field>
+             
+		<field name="librettistSort">Rakusa, Ilma</field>
+
+
+
+   
+
+		<field name="librettist">Marguerite Duras</field>
+             
+		<field name="librettistSort">Duras, Marguerite</field>
+
+
+
+   
+
+		<field name="librettist">Ovid</field>
+             
+		<field name="librettistSort">Ovid</field>
+
+
+
+   
+
+		<field name="librettist">Cesare Pavese</field>
+             
+		<field name="librettistSort">Pavese, Cesare</field>
+
+
+
+   
+   
+		<field name="year">2003</field>
+         
+		<field name="date">July 6, 2003</field>
+        
+		<field name="theater">Opernhaus</field>
+        
+		<field name="city">Zürich</field>
+        
+		<field name="region">Zürich</field>
+        
+		<field name="country">Switzerland</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Invocation+Beat+Furrer&amp;search_field=search</field>
+        
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

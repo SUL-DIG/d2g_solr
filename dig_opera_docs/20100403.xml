@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100403</field>
+        
+		<field name="genre">Opera</field>
+              
+		<field name="title">The Invention of Morel</field>
+        
+		<field name="titleSort">Invention of Morel, The</field>
+        
+		<field name="composer">Stewart Copeland</field>
+        
+		<field name="composerSort">Copeland, Stewart</field>
+
+      
+
+		<field name="librettist">Stewart Copeland</field>
+             
+		<field name="librettistSort">Copeland, Stewart</field>
+
+
+
+
+		<field name="librettist">Jonathan Moore</field>
+             
+		<field name="librettistSort">Moore, Jonathan</field>
+
+
+	
+
+		<field name="librettist">Adolfo Bioy Casares</field>
+             
+		<field name="librettistSort">Bioy Casares, Adolfo</field>
+
+
+   
+		<field name="year">2017</field>
+         
+		<field name="date">February 18, 2017</field>
+        
+		<field name="theater">Studebaker Theater</field>
+        
+		<field name="city">Chicago</field>
+        
+		<field name="region">Illinois</field>
+        
+		<field name="country">United States</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Invention+of+Morel+Stewart+Copeland&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

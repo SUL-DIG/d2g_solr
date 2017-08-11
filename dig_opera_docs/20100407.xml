@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100407</field>
+        
+		<field name="genre">Opera</field>
+             
+		<field name="title">L’aumento </field>
+        
+		<field name="titleSort">aumento, L’</field>
+        
+		<field name="composer">Luciano Chailly</field>
+        
+		<field name="composerSort">Chailly, Luciano</field>
+
+      
+
+		<field name="librettist">Dino Buzzati</field>
+             
+		<field name="librettistSort">Buzzati, Dino</field>
+
+
+
+   
+		<field name="year">2006</field>
+         
+		<field name="date">October 14, 2006</field>
+        
+		<field name="theater">Auditorium di Milano Fondazione Cariplo</field>
+        
+		<field name="city">Milan</field>
+        
+		<field name="region">Lombardia</field>
+        
+		<field name="country">Italy</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'aumento+Luciano+Chailly&amp;search_field=search</field>
+        
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

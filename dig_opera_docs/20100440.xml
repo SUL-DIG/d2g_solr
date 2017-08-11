@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100440</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Talpa</field>
+        
+		<field name="titleSort">Talpa</field>
+        
+		<field name="composer">Wolfgang-Andreas Schultz</field>
+        
+		<field name="composerSort">Schultz, Wolfgang-Andreas</field>
+
+      
+
+		<field name="librettist">Valentin Wember</field>
+             
+		<field name="librettistSort">Wember, Valentin</field>
+
+
+
+
+		<field name="librettist">Juan Rulfo</field>
+             
+		<field name="librettistSort">Rulfo, Juan</field>
+
+
+
+   
+		<field name="year">1981</field>
+         
+		<field name="date">January 29, 1981</field>
+        
+		<field name="theater">Opernhaus</field>
+        
+		<field name="city">Kiel</field>
+        
+		<field name="region">Schleswig-Holstein</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Talpa+Wolfgang-Andreas+Schultz&amp;search_field=search</field>
+          
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100406</field>
+        
+		<field name="genre">Opera</field>
+              
+		<field name="title">Isperanza</field>
+        
+		<field name="titleSort">Isperanza</field>
+        
+		<field name="composer">Tom Armitage</field>
+        
+		<field name="composerSort">Armitage, Tom</field>
+
+      
+
+		<field name="librettist">Eddie Wildman</field>
+             
+		<field name="librettistSort">Wildman, Eddie</field>
+
+
+
+   
+		<field name="year">2017</field>
+         
+		<field name="date">May 21, 2017</field>
+        
+		<field name="theater">Teatru Manoel</field>
+        
+		<field name="city">Valletta</field>
+        
+		<field name="country">Malta</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Isperanza+Tom+Armitage&amp;search_field=search</field>
+            
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

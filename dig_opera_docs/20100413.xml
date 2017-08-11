@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100413</field>
+        
+		<field name="genre">Opera</field>
+             
+		<field name="title">Die Geisterinsel</field>
+        
+		<field name="titleSort">Geisterinsel, Die</field>
+        
+		<field name="composer">Ming Tsao</field>
+        
+		<field name="composerSort">Tsao, Ming</field>
+
+      
+
+		<field name="librettist">Friedrich Wilhelm Gotter</field>
+             
+		<field name="librettistSort">Gotter, Friedrich Wilhelm</field>
+
+
+
+
+		<field name="librettist">Johann Rudolf Zumsteeg</field>
+             
+		<field name="librettistSort">Zumsteeg, Johann Rudolf</field>
+
+
+
+
+		<field name="librettist">William Shakespeare</field>
+             
+		<field name="librettistSort">Shakespeare, William</field>
+
+
+
+
+		<field name="librettist">William Strachey</field>
+             
+		<field name="librettistSort">Strachey William</field>
+
+
+
+		<field name="year">2011</field>
+         
+		<field name="date">May 2, 2011</field>
+        
+		<field name="theater">Württembergische Landesbibliothek</field>
+        
+		<field name="city">Stuttgart</field>
+        
+		<field name="region">Baden-Württemberg</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Geisterinsel+Ming+Tsao&amp;search_field=search</field>
+         
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

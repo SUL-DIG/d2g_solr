@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200181</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="subject">Prometheus</field>
+		
+		<field name="title">Prometheus</field>
+		
+		<field name="titleSort">Prometheus</field>
+		
+		<field name="year">1959</field>
+		
+		<field name="month">September</field>
+		
+		<field name="day">12</field>
+		
+		<field name="date">September 12, 1959</field>
+				
+		<field name="composer">Rudolf Wagner-Régeny</field>
+			
+		<field name="composerSort">Wagner-Régeny, Rudolf</field>
+			
+		<field name="librettist">Rudolf Wagner-Régeny</field>
+			
+		
+		<field name="librettistSort">Wagner-Régeny, Rudolf</field>
+		
+		<field name="theater">Staatstheater</field>
+		
+		<field name="city">Kassel</field>
+			
+		<field name="region">Hessen</field>
+		
+		<field name="country">Germany</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prometheus+Rudolf+Wagner-Régeny&amp;search_field=search</field>
+    
+
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

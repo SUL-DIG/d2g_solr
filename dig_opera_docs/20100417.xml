@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100417</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">la bianca notte</field>
+        
+		<field name="titleSort">bianca notte, la</field>
+        
+		<field name="composer">Beat Furrer</field>
+        
+		<field name="composerSort">Furrer, Beat</field>
+
+      
+
+		<field name="librettist">Dino Campana</field>
+             
+		<field name="librettistSort">Campana, Dino</field>
+
+
+
+   
+		<field name="year">2015</field>
+         
+		<field name="date">May 10, 2015</field>
+        
+		<field name="theater">Hamburgische Staatsoper</field>
+        
+		<field name="city">Hamburg</field>
+        
+		<field name="region">Hamburg</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=la+bianca+notte+Beat+Furrer&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

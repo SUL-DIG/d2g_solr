@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100408</field>
+        
+		<field name="genre">Opera</field>
+                
+		<field name="title">Silver Birch</field>
+        
+		<field name="titleSort">Silver Birch</field>
+        
+		<field name="composer">Roxanna Panufnik</field>
+        
+		<field name="composerSort">Panufnik, Roxanna</field>
+
+      
+
+		<field name="librettist">Jessica Duchen</field>
+             
+		<field name="librettistSort">Duchen, Jessica</field>
+
+
+
+   
+		<field name="year">2017</field>
+         
+		<field name="date">July 28, 2017</field>
+        
+		<field name="theater">Garsington Opera</field>
+        
+		<field name="city">Wormsley Estate</field>
+        
+		<field name="region">Buckinghamshire</field>
+        
+		<field name="country">United Kingdom</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Silver+Birch+Roxanna+Panufnik&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100418</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Coping Mechanisms</field>
+        
+		<field name="titleSort">Coping Mechanisms</field>
+        
+		<field name="composer">Bonnie Lander</field>
+        
+		<field name="composerSort">Lander, Bonnie</field>
+
+      
+   
+		<field name="year">2017</field>
+         
+		<field name="date">April 4, 2017</field>
+        
+		<field name="theater">University of California</field>
+        
+		<field name="city">San Diego</field>
+        
+		<field name="region">California</field>
+        
+		<field name="country">United States</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Coping+Mechanisms+Bonnie+Lander&amp;search_field=search</field>
+        
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

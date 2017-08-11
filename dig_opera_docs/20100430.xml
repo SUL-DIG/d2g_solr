@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100430</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Miss Havisham's Wedding Night</field>
+        
+		<field name="titleSort">Miss Havisham's Wedding Night</field>
+        
+		<field name="composer">Dominick Argento</field>
+        
+		<field name="composerSort">Argento, Dominick</field>
+
+      
+
+		<field name="librettist">[John Olon] John Olon-Scrymgeour</field>
+             
+		<field name="librettistSort">Olon-Scrymgeour, John [John Olon]</field>
+
+
+
+
+
+		<field name="librettist">Charles Dickens</field>
+             
+		<field name="librettistSort">Dickens, Charles</field>
+   
+		<field name="year">1981</field>
+         
+		<field name="date">May 1, 1981</field>
+        
+		<field name="theater">Tyrone Guthrie Theater</field>
+        
+		<field name="city">Minneapolis</field>
+        
+		<field name="region">Minnesota</field>
+        
+		<field name="country">United States</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Miss+Havisham's+Wedding+Night+Dominick+Argento&amp;search_field=search</field>
+        
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

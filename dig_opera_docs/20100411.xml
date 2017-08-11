@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100411</field>
+        
+		<field name="genre">Opera</field>
+                
+		<field name="title">Les émigrés</field>
+        
+		<field name="titleSort">émigrés, Les</field>
+        
+		<field name="composer">Vinko Globokar</field>
+        
+		<field name="composerSort">Globokar, Vinko</field>
+
+      
+
+		<field name="librettist">Peter Handke</field>
+             
+		<field name="librettistSort">Handke, Peter</field>
+
+
+
+   
+		<field name="year">1990</field>
+         
+		<field name="date">May 4, 1990</field>
+        
+		<field name="theater">Radio France</field>
+        
+		<field name="city">Paris</field>
+        
+        
+		<field name="country">France</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+émigrés+Vinko+Globokar&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100442</field>
+        
+		<field name="genre">Opera</field>
+        
+		<field name="subgenre">Singspiel</field>
+        
+		<field name="title">Des Esels Schatten</field>
+        
+		<field name="titleSort">Esels Schatten, Des</field>
+        
+		<field name="composer">Richard Strauss</field>
+        
+		<field name="composerSort">Strauss, Richard</field>
+
+      
+
+		<field name="librettist">Hans Adler</field>
+             
+		<field name="librettistSort">Adler, Hans</field>
+
+
+
+
+
+		<field name="librettist">Martin Wieland</field>
+             
+		<field name="librettistSort">Wieland, Martin</field>
+
+
+
+   
+   
+		<field name="year">1964</field>
+         
+		<field name="date">June 7, 1964</field>
+        
+		<field name="theater">Benedictine Abbey</field>
+        
+		<field name="city">Ettal</field>
+        
+		<field name="region">Bayern</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Des+Esels+Schatten+Richard+Strauss&amp;search_field=search</field>
+        
+
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100436</field>
+        
+		<field name="genre">Opera</field>
+        
+		<field name="title">Effi Briest</field>
+        
+		<field name="titleSort">Effi Briest</field>
+        
+		<field name="composer">Helmut Oehring</field>
+        
+		<field name="composerSort">Oehring, Helmut</field>
+
+      
+		<field name="composer">Iris ter Schiphorst</field>
+        
+		<field name="composerSort">Schiphorst, Iris ter</field>
+
+      
+
+		<field name="librettist">Helmut Oehring</field>
+             
+		<field name="librettistSort">Oehring, Helmut</field>
+
+
+
+		<field name="librettist">Iris ter Schiphorst</field>
+             
+		<field name="librettistSort">Schiphorst, Iris ter</field>
+
+
+
+		<field name="librettist">Theodor Fontane</field>
+             
+		<field name="librettistSort">Fontane, Theodor</field>
+   
+		<field name="year">2001</field>
+         
+		<field name="date">March 9, 2001</field>
+        
+		<field name="theater">Bundeskunsthalle</field>
+        
+		<field name="city">Bonn</field>
+        
+		<field name="region">Nordrhein-Westfallen</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Effi+Briest+Helmut+Oehring+Iris+ter+Schiphorst&amp;search_field=search</field>
+        
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

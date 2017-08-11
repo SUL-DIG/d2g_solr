@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100431</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">The Pink Siamese</field>
+        
+		<field name="titleSort">Pink Siamese, The</field>
+        
+		<field name="composer">Seymour Barab</field>
+        
+		<field name="composerSort">Barab, Seymour</field>
+
+      
+
+		<field name="librettist">Susan Otto</field>
+             
+		<field name="librettistSort">Otto, Susan</field>
+
+
+
+   
+		<field name="year">1959</field>
+         
+		<field name="date">April 10, 1959</field>
+        
+		<field name="theater">Detroit Institute of Arts</field>
+        
+		<field name="city">Detroit</field>
+        
+		<field name="region">Michigan</field>
+        
+		<field name="country">United States</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Pink+Siamese+Seymour+Barab&amp;search_field=search</field>
+        
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

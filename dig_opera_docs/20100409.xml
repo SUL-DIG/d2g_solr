@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100409</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Linna vedessä (The Castle in the Water)</field>
+        
+		<field name="titleSort">Linna vedessä (The Castle in the Water)</field>
+        
+		<field name="composer">Aulis Sallinen</field>
+        
+		<field name="composerSort">Sallinen, Aulis</field>
+
+      
+
+		<field name="librettist">Lassi Nummi</field>
+             
+		<field name="librettistSort">Nummi, Lassi</field>
+
+
+
+   
+		<field name="year">2017</field>
+         
+		<field name="date">July 8, 2017</field>
+        
+		<field name="theater">Savonlinnan Ooperajuhlat</field>
+        
+		<field name="city">Savonlinna</field>
+        
+		<field name="region">Etelä-Savo</field>
+        
+		<field name="country">Finland</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Linna+vedessä+The+Castle+in+the+Water+Aulis+Sallinen&amp;search_field=search</field>
+        
+   
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

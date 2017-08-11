@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100429</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">The Parker Plan</field>
+        
+		<field name="titleSort">Parker Plan, The</field>
+        
+		<field name="composer">Gwyn Arch</field>
+        
+		<field name="composerSort">Arch, Gwyn</field>
+
+      
+
+		<field name="librettist">Fred S. Tysh</field>
+             
+		<field name="librettistSort">Tysh, Fred S.</field>
+
+
+
+
+<field name="librettist">James Owen</field>
+             
+		<field name="librettistSort">Owen, James</field>
+
+
+
+   
+		<field name="year">1960</field>
+         
+		<field name="date">June 1, 1960</field>
+        
+		<field name="theater">Rickmansworth Grammar School</field>
+        
+		<field name="city">Rickmansworth</field>
+        
+		<field name="region">Hertfordshire</field>
+        
+		<field name="country">United Kingdom</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Parker+Plan+Gwyn+Arch&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

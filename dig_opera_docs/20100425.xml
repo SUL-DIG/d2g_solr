@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100425</field>
+        
+		<field name="genre">Opera</field>
+              
+		<field name="title">La Lumière Antigone</field>
+        
+		<field name="titleSort">Lumière Antigone, La</field>
+        
+		<field name="composer">Pierre Bartholomée</field>
+        
+		<field name="composerSort">Bartholomée, Pierre</field>
+
+      
+
+		<field name="librettist">Henry Bauchau</field>
+             
+		<field name="librettistSort">Bauchau, Henry</field>
+
+
+
+   
+		<field name="year">2008</field>
+         
+		<field name="date">April 17, 2008</field>
+        
+		<field name="theater">Théâtre-Royal de la Monnaie</field>
+        
+		<field name="city">Brussels</field>
+        
+		<field name="region">Brabant</field>
+        
+		<field name="country">Belgium</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Lumière+Antigone+Pierre+Bartholomée&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

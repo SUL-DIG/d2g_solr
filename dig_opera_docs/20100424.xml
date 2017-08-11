@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100424</field>
+        
+        
+		<field name="subgenre"></field>
+        
+		<field name="title">Oedipe sur la route</field>
+        
+		<field name="titleSort">Oedipe sur la route</field>
+        
+		<field name="composer">Pierre Bartholomée</field>
+        
+		<field name="composerSort">Bartholomé, Pierre</field>
+
+      
+
+		<field name="librettist">Henry Bauchau</field>
+             
+		<field name="librettistSort">Bauchau, Henry</field>
+
+
+
+   
+		<field name="year">2003</field>
+         
+		<field name="date">March 7, 2003</field>
+        
+		<field name="theater">Théâtre-Royal de la Monnaie</field>
+        
+		<field name="city">Brussels</field>
+        
+		<field name="region">Brabant</field>
+        
+		<field name="country">Belgium</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oedipe+sur+la+route+Pierre+Bartholomée&amp;search_field=search</field>
+          
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

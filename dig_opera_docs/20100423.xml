@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100423</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Silver Electra</field>
+        
+		<field name="titleSort">Silver Electra</field>
+        
+		<field name="composer">Russell Hepplewhite</field>
+        
+		<field name="composerSort">Hepplewhite, Russell</field>
+
+      
+
+		<field name="librettist">Tim Yealland</field>
+             
+		<field name="librettistSort">Yealland, Tim</field>
+
+
+
+   
+		<field name="year">2017</field>
+         
+		<field name="date">January 30, 2017</field>
+        
+		<field name="theater">St Jude's Church of England Primary School</field>
+        
+		<field name="city">London</field>
+        
+		<field name="region">Greater London</field>
+        
+		<field name="country">United Kingdom</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Silver+Electra+Russell+Hepplewhite&amp;search_field=search</field>
+        
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

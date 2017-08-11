@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100427</field>
+        
+		<field name="genre">Opera</field>
+        
+        
+		<field name="title">Hamlet</field>
+        
+		<field name="titleSort">Hamlet</field>
+        
+		<field name="composer">Nancy Van de Vate</field>
+        
+		<field name="composerSort">Van de Vate, Nancy</field>
+
+      
+
+		<field name="librettist">Nancy Van de Vate</field>
+             
+		<field name="librettistSort">Van de Vate, Nancy</field>
+
+
+
+
+		<field name="librettist">William Shakespeare</field>
+             
+		<field name="librettistSort">Shakespeare, William</field>
+
+
+
+   
+		<field name="year">2015</field>
+         
+		<field name="date">April 18, 2015</field>
+        
+		<field name="theater">University of Mississippi</field>
+        
+		<field name="city">Oxford</field>
+        
+		<field name="region">Mississippi</field>
+        
+		<field name="country">United States</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hamlet+Nancy+Van+de+Vate&amp;search_field=search</field>
+          
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100421</field>
+        
+		<field name="genre">Opera</field>
+              
+		<field name="title">Play: The Game –or– Game: The Play</field>
+        
+		<field name="titleSort">Play: The Game –or– Game: The Play</field>
+        
+		<field name="composer">Rick Burkhardt</field>
+        
+		<field name="composerSort">Burkhardt, Rick</field>
+
+      
+
+		<field name="librettist">Rick Burkhardt</field>
+             
+		<field name="librettistSort">Burkhardt, Rick</field>
+
+
+
+   
+		<field name="year">2017</field>
+         
+		<field name="date">May 25, 2017</field>
+        
+		<field name="theater">Boston Conservatory</field>
+        
+		<field name="city">Boston</field>
+        
+		<field name="region">Massachusetts</field>
+        
+		<field name="country">United States</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Play+The+Game+or+Game+The+Play+Rick+Burkhardt&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100419</field>
+        
+		<field name="genre">Opera</field>
+             
+		<field name="title">Den långa, långa resan (The Long, Long Journey)</field>
+        
+		<field name="titleSort">långa, långa resan (The Long, Long Journey), Den</field>
+        
+		<field name="composer">Johan Ramström</field>
+        
+		<field name="composerSort">Ramström, Johan</field>
+
+      
+
+		<field name="librettist">Sigrid Herrault</field>
+             
+		<field name="librettistSort">Herrault, Sigrid</field>
+
+
+
+
+		<field name="librettist">Astrid Lindgren</field>
+             
+		<field name="librettistSort">Lindgren, Astrid</field>
+
+
+
+   
+		<field name="year">2017</field>
+         
+		<field name="date">May 6, 2017</field>
+        
+		<field name="theater">Kungliga Teatern</field>
+        
+		<field name="city">Stockholm</field>
+        
+		<field name="region">Stockholm</field>
+        
+		<field name="country">Sweden</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Den+långa,+långa+resan+The+Long,+Long+Journey+Johan+Ramström&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

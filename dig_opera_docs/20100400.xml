@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100400</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Long Story Short</field>
+        
+		<field name="titleSort">Long Story Short</field>
+        
+		<field name="composer">Neil Martin</field>
+        
+		<field name="composerSort">Martin, Neil</field>
+
+    
+
+		<field name="librettist">Glenn Patterson</field>
+             
+		<field name="librettistSort">Patterson, Glenn</field>
+
+
+
+   
+		<field name="year">2016</field>
+         
+		<field name="date">June 18, 2016</field>
+        
+		<field name="theater">Carlisle Memorial Methodist Church</field>
+        
+		<field name="city">Belfast</field>
+        
+		<field name="region">Northern Ireland</field>
+        
+		<field name="country">United States</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Long+Story+Short+Neil+Martin&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

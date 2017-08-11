@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100401</field>
+        
+		<field name="genre">Opera</field>
+        
+        
+		<field name="title">Dinner at Eight</field>
+        
+		<field name="titleSort">Dinner at Eight</field>
+        
+		<field name="composer">William Bolcom</field>
+        
+		<field name="composerSort">Bolcom, William</field>
+
+      
+
+		<field name="librettist">Mark Campbell</field>
+             
+		<field name="librettistSort">Campbell, Mark</field>
+
+
+
+
+		<field name="librettist">George Simon Kaufman</field>
+             
+		<field name="librettistSort">Kaufman, George Simon</field>
+
+
+
+   
+		<field name="year">2017</field>
+         
+		<field name="date">March 11, 2017</field>
+        
+		<field name="theater">Ordway Theater</field>
+        
+		<field name="city">St. Paul</field>
+        
+		<field name="region">Minnesota</field>
+        
+		<field name="country">United States</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dinner+at+Eight+William+Bolcom&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

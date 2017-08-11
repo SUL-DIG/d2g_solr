@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100432</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">The Death of Cuchulain (Cuchalains Tod)</field>
+        
+		<field name="titleSort">Death of Cuchulain (Cuchalains Tod), The</field>
+        
+		<field name="composer">Jolyon Brettingham Smith</field>
+        
+		<field name="composerSort">Brettingham Smith, Jolyon</field>
+
+      
+
+		<field name="librettist">William Butler Yeats</field>
+             
+		<field name="librettistSort">Yeats, William Butler</field>
+
+
+
+   
+		<field name="year">1975</field>
+         
+		<field name="date">April 30, 1975</field>
+        
+        
+		<field name="city">Bielefeld</field>
+        
+		<field name="region">Nordrhein-Westfallen</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Death+of+Cuchulain+Cuchalains+Tod+Jolyon+Brettingham+Smith&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

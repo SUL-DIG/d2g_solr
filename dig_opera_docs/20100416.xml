@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100416</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Fama</field>
+        
+		<field name="titleSort">Fama</field>
+        
+		<field name="composer">Beat Furrer</field>
+        
+		<field name="composerSort">Furrer, Beat</field>
+
+      
+
+		<field name="librettist">Beat Furrer</field>
+             
+		<field name="librettistSort">Furrer, Beat</field>
+
+
+
+
+		<field name="librettist">Lucretius</field>
+             
+		<field name="librettistSort">Lucretius</field>
+
+
+
+
+		<field name="librettist">Carlo Emilio Gadda</field>
+             
+		<field name="librettistSort">Gadda, Carlo Emilio</field>
+
+
+
+
+		<field name="librettist">Arthur Schnitzler</field>
+             
+		<field name="librettistSort">Schnitzler, Arthur</field>
+
+
+
+   
+		<field name="year">2005</field>
+         
+		<field name="date">October 14, 2005</field>
+        
+		<field name="theater">Musiktage</field>
+        
+		<field name="city">Donaueschingen</field>
+        
+		<field name="region">Baden-Württemberg</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fama+Beat+Furrer&amp;search_field=search</field>
+         
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->
