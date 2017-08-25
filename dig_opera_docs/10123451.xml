@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123451</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Stephen Paulus</field>
 <field name="composerSort">Paulus, Stephen</field>
 <field name="year">1995</field>
-<field name="date">1995</field>
+<field name="date">June 15, 1995</field>
 <field name="librettist">Joan Vail Thorne</field>
 <field name="librettistSort">Thorne, Joan Vail</field>
 <field name="librettist">Frank Waters</field>

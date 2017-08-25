@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114447</field>
 <field name="genre">Opera</field>
-<field name="title">Natalia Petrovna</field>
-<field name="titleSort">Natalia Petrovna</field>
+<field name="title">A Month in the Country (Natalia Petrovna)</field>
+<field name="titleSort">Month in the Country (Natalia Petrovna), A</field>
 <field name="composer">Lee Hoiby</field>
 <field name="composerSort">Hoiby, Lee</field>
 <field name="year">1964</field>
-<field name="date">1964</field>
+<field name="date">October 8, 1964</field>
 <field name="librettist">William Ball</field>
 <field name="librettistSort">Ball, William</field>
 <field name="librettist">Ivan Sergeyevich Turgenev</field>
@@ -17,6 +17,6 @@
 <field name="region">New York</field>
 <field name="country">United States</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Natalia+Petrovna+Lee+Hoiby&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Month+in+the+Country+Natalia+Petrovna+Lee+Hoiby&amp;search_field=search</field>
 </doc>
 </add>

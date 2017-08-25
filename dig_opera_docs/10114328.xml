@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114328</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Paul Hindemith</field>
 <field name="composerSort">Hindemith, Paul</field>
 <field name="year">1926</field>
-<field name="date">1926</field>
+<field name="date">November 9, 1926</field>
 <field name="librettist">Ferdinand Lion</field>
 <field name="librettistSort">Lion, Ferdinand</field>
 <field name="librettist">Ernst Theodor Amadeus Hoffmann</field>

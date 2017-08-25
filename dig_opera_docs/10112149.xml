@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10112149</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Mikhail Ivanovich Glinka</field>
 <field name="composerSort">Glinka, Mikhail Ivanovich</field>
 <field name="year">1836</field>
-<field name="date">1836</field>
+<field name="date">November 27, 1836</field>
 <field name="librettist">Yegor Fyodorovich Rozen</field>
 <field name="librettistSort">Rozen, Yegor Fyodorovich</field>
 <field name="librettist">Nestor Vasil'yevich Kukol'nik</field>

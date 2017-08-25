@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10112264</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Alexander Goehr</field>
 <field name="composerSort">Goehr, Alexander</field>
 <field name="year">1985</field>
-<field name="date">1985</field>
+<field name="date">April 19, 1985</field>
 <field name="librettist">John McGrath</field>
 <field name="librettistSort">McGrath, John</field>
 <field name="librettist">Alexander Goehr</field>

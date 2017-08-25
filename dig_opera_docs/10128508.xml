@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10128508</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Wolfgang-Andreas Schultz</field>
 <field name="composerSort">Schultz, Wolfgang-Andreas</field>
 <field name="year">1987</field>
-<field name="date">1987</field>
+<field name="date">June 21, 1987</field>
 <field name="librettist">Hanns-Josef Ortheil</field>
 <field name="librettistSort">Ortheil, Hanns-Josef</field>
 <field name="theater">Städtische Bühnen</field>

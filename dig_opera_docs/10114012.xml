@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114012</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Hans Werner Henze</field>
 <field name="composerSort">Henze, Hans Werner</field>
 <field name="year">1952</field>
-<field name="date">1952</field>
+<field name="date">February 17, 1952</field>
 <field name="librettist">Grete Weil</field>
 <field name="librettistSort">Weil, Grete</field>
 <field name="librettist">Walter Jokisch</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10121679</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Modest Petrovich Mussorgsky</field>
 <field name="composerSort">Mussorgsky, Modest Petrovich</field>
 <field name="year">1874</field>
-<field name="date">1874</field>
+<field name="date">January 27, 1874</field>
 <field name="librettist">Modest Petrovich Mussorgsky</field>
 <field name="librettistSort">Mussorgsky, Modest Petrovich</field>
 <field name="librettist">Aleksandr Sergeyevich Pushkin</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10130187</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Richard Strauss</field>
 <field name="composerSort">Strauss, Richard</field>
 <field name="year">1952</field>
-<field name="date">1952</field>
+<field name="date">August 14, 1952</field>
 <field name="librettist">Joseph Gregor</field>
 <field name="librettistSort">Gregor, Joseph</field>
 <field name="librettist">Hugo von Hofmannsthal</field>

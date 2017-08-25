@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10204663</field>
 		<field name="genre">Oratorio</field>
+		<field name="subject">David and Bathsheba</field>
+
 		<field name="title">Il trionfo di Bersabea</field>
 		<field name="titleSort">trionfo di Bersabea</field>
 		<field name="year">1759</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10103397</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Adrien Boieldieu</field>
 <field name="composerSort">Boieldieu, Adrien</field>
 <field name="year">1825</field>
-<field name="date">1825</field>
+<field name="date">December 10, 1825</field>
 <field name="librettist">Eugène Scribe</field>
 <field name="librettistSort">Scribe, Eugène</field>
 <field name="librettist">Walter Scott</field>

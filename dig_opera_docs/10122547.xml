@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10122547</field>
 <field name="genre">Opera</field>
@@ -7,9 +7,11 @@
 <field name="composer">Carl Orff</field>
 <field name="composerSort">Orff, Carl</field>
 <field name="year">1949</field>
-<field name="date">1949</field>
+<field name="date">August 9, 1949</field>
 <field name="librettist">Friedrich Hölderin</field>
 <field name="librettistSort">Hölderin, Friedrich</field>
+<field name="librettist">Sophocles</field>
+<field name="librettistSort">Sophocles</field>
 <field name="theater">Felsenreitschule</field>
 <field name="city">Salzburg</field>
 <field name="region">Salzburg</field>

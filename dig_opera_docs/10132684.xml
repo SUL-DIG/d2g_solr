@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132684</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Kurt Weill</field>
 <field name="composerSort">Weill, Kurt</field>
 <field name="year">1933</field>
-<field name="date">1933</field>
+<field name="date">February 18, 1933</field>
 <field name="librettist">Georg Kaiser</field>
 <field name="librettistSort">Kaiser, Georg</field>
 <field name="theater">Altes Stadttheater</field>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
+﻿<?xml version='1.0' encoding='UTF8'?>
 <add>
 <doc>
 <field name="id">10131505</field>
@@ -8,7 +8,7 @@
 <field name="composer">Viktor Ullmann</field>
 <field name="composerSort">Ullmann, Viktor</field>
 <field name="year">1975</field>
-<field name="date">1975</field>
+<field name="date">December 16, 1975</field>
 <field name="librettist">Petr Kien</field>
 <field name="librettistSort">Kien, Petr</field>
 <field name="theater">Bellevue Theater</field>

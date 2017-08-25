@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114311</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Wilfried Hiller</field>
 <field name="composerSort">Hiller, Wilfried</field>
 <field name="year">1985</field>
-<field name="date">1985</field>
+<field name="date">February 3, 1985</field>
 <field name="librettist">Michael Ende</field>
 <field name="librettistSort">Ende, Michael</field>
 <field name="theater">Staatstheater am Gärtnerplatz</field>

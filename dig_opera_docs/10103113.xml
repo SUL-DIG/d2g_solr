@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10103113</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Georges Bizet</field>
 <field name="composerSort">Bizet, Georges</field>
 <field name="year">1875</field>
-<field name="date">1875</field>
+<field name="date">March 3, 1875</field>
 <field name="librettist">Henri Meilhac</field>
 <field name="librettistSort">Meilhac, Henri</field>
 <field name="librettist">Ludovic Halévy</field>

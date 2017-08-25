@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132669</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Kurt Weill</field>
 <field name="composerSort">Weill, Kurt</field>
 <field name="year">1930</field>
-<field name="date">1930</field>
+<field name="date">March 9, 1930</field>
 <field name="librettist">Bertolt Brecht</field>
 <field name="librettistSort">Brecht, Bertolt</field>
 <field name="theater">Neues Stadttheater</field>

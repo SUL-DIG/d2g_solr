@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10122550</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Carl Orff</field>
 <field name="composerSort">Orff, Carl</field>
 <field name="year">1956</field>
-<field name="date">1956</field>
+<field name="date">March 31, 1956</field>
 <field name="librettist">Carl Orff</field>
 <field name="librettistSort">Orff, Carl</field>
 <field name="theater">Bavarian Television (Bayerisches Fernsehen)</field>

@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19960562</field>
 <field name="genre">Opera</field>
+<field name="subgenre">Singspiel</field>
 <field name="title">Der Flaschengeist</field>
 <field name="titleSort">Flaschengeist</field>
 <field name="composer">Wilfried Hiller</field>

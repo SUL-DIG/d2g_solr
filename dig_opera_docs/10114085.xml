@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114085</field>
 <field name="genre">Opera</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Hermann, Hans</field>
 <field name="year">1919</field>
 <field name="date">1919</field>
-<field name="librettist">Anna Bethe-Kühn</field>
-<field name="librettistSort">Bethe-Kühn, Anna</field>
+<field name="librettist">Anna Bethe-Kuhn</field>
+<field name="librettistSort">Bethe-Kuhn, Anna</field>
 <field name="theater">Nationaltheater</field>
 <field name="city">Mannheim</field>
 <field name="region">Baden-Württemberg</field>

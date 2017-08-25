@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10202389</field>
 		<field name="genre">Oratorio</field>
 		<field name="title">Klänge des Lichts</field>
@@ -7,8 +7,8 @@
 		
 		
 		<field name="date">1995</field>
-		<field name="composer">Norbert Jürgen Schneider</field>
-		<field name="composerSort">Schneider, Norbert Jürgen</field>
+		<field name="composer">Enjott Schneider</field>
+		<field name="composerSort">Schneider, Enjott</field>
 		<field name="librettist">Hildegard von Bingen</field>
 		<field name="librettistSort">Hildegard von Bingen</field>
 		
@@ -19,5 +19,5 @@
 		
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Klänge+des+Lichts+Norbert+Jürgen+Schneider&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Klänge+des+Lichts+Enjott+Schneider&amp;search_field=search</field>
 	</doc></add>

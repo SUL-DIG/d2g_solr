@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110280</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Wolfgang Fortner</field>
 <field name="composerSort">Fortner, Wolfgang</field>
 <field name="year">1957</field>
-<field name="date">1957</field>
+<field name="date">June 8,  1957</field>
 <field name="librettist">Enrique Beck</field>
 <field name="librettistSort">Beck, Enrique</field>
 <field name="librettist">Federico García Lorca</field>

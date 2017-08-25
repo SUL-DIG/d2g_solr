@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114449</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Lee Hoiby</field>
 <field name="composerSort">Hoiby, Lee</field>
 <field name="year">1982</field>
-<field name="date">1982</field>
+<field name="date">May 17, 1982</field>
 <field name="librettist">Dudley Huppler</field>
 <field name="librettistSort">Huppler, Dudley</field>
 <field name="theater">Publick Playhouse</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
     <doc>
         <field name="id">20100050</field>
         <field name="genre">Opera</field>
@@ -11,9 +11,9 @@
         <!-- The composer's name should be put in Indirect Order: Last, First Middle, etc. -->
         <field name="composerSort">Lash, Hannah</field>
         <!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
-        <field name="librettist">Chaucer</field>
+        <field name="librettist">Hannah Lash</field>
         <!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
-        <field name="librettistSort">Chaucer</field>
+        <field name="librettistSort">Lash,  Hannah</field>
         <field name="year">2016</field>
         <!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
         <field name="date">May 20, 2016</field>

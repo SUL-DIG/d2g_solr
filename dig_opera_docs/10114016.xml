@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114016</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Hans Werner Henze</field>
 <field name="composerSort">Henze, Hans Werner</field>
 <field name="year">1965</field>
-<field name="date">1965</field>
+<field name="date">April 7, 1965</field>
 <field name="librettist">Ingeborg Bachmann</field>
 <field name="librettistSort">Bachmann, Ingeborg</field>
 <field name="librettist">Wilhelm Hauff</field>

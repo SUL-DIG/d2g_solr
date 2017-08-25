@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132574</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Carl Maria von Weber</field>
 <field name="composerSort">Weber, Carl Maria von</field>
 <field name="year">1811</field>
-<field name="date">1811</field>
+<field name="date">June 4, 1811</field>
 <field name="librettist">Franz Karl Hiemer</field>
 <field name="librettistSort">Hiemer, Franz Karl</field>
 <field name="librettist">Antoine Galland</field>

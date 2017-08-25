@@ -10,6 +10,8 @@
 <field name="date">October 1, 1991</field>
 <field name="librettist">Mikis Theodorakis</field>
 <field name="librettistSort">Theodorakis, Mikis</field>
+<field name="librettist">Euripides</field>
+<field name="librettistSort">Euripides</field>
 <field name="theater">Teatro Arriaga</field>
 <field name="city">Bilbao</field>
 <field name="region">Euskal Herriko</field>

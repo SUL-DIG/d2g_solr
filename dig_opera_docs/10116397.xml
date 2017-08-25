@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10116397</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Erich Wolfgang Korngold</field>
 <field name="composerSort">Korngold, Erich Wolfgang</field>
 <field name="year">1927</field>
-<field name="date">1927</field>
+<field name="date">October 7, 1927</field>
 <field name="librettist">Hans Müller</field>
 <field name="librettistSort">Müller, Hans</field>
 <field name="librettist">Hans Kaltneker</field>

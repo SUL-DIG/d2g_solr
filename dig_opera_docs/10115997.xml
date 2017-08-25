@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10115997</field>
 <field name="genre">Opera</field>
@@ -6,8 +6,8 @@
 <field name="titleSort">Belshazar</field>
 <field name="composer">Volker David Kirchner</field>
 <field name="composerSort">Kirchner, Volker David</field>
-<field name="year">1986</field>
-<field name="date">1986</field>
+<field name="year">1985</field>
+<field name="date">January 25, 1985</field>
 <field name="librettist">Harald Weirich</field>
 <field name="librettistSort">Weirich, Harald</field>
 <field name="theater">Bayerische Staatsoper</field>

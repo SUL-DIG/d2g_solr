@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132577</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Carl Maria von Weber</field>
 <field name="composerSort">Weber, Carl Maria von</field>
 <field name="year">1821</field>
-<field name="date">1821</field>
+<field name="date">June 18, 1821</field>
 <field name="librettist">Johann Friedrich Kind</field>
 <field name="librettistSort">Kind, Johann Friedrich</field>
 <field name="librettist">Johann August Apel</field>

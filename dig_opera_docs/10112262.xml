@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10112262</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Alexander Goehr</field>
 <field name="composerSort">Goehr, Alexander</field>
 <field name="year">1967</field>
-<field name="date">1967</field>
+<field name="date">March 5, 1967</field>
 <field name="librettist">Erich Fried</field>
 <field name="librettistSort">Fried, Erich</field>
 <field name="theater">Hamburgische Staatsoper</field>
