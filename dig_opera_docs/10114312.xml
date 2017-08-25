@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114312</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Wilfried Hiller</field>
 <field name="composerSort">Hiller, Wilfried</field>
 <field name="year">1979</field>
-<field name="date">1979</field>
+<field name="date">July 15, 1979</field>
 <field name="librettist">Wilfried Hiller</field>
 <field name="librettistSort">Hiller, Wilfried</field>
 <field name="librettist">Martin Buber</field>

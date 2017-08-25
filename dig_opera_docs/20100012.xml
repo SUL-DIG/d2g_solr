@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
     <doc>
         <field name="id">20100012</field>
         <field name="genre">Opera</field>
-        <field name="title">Paul's case</field>
+        <field name="title">Paul's Case</field>
         <!-- The titleSort field should be the Title beginning with whatever word should be used for alphabetical sorting (the elimination of title-beginning articles). -->
-        <field name="titleSort">Paul's case</field>
+        <field name="titleSort">Paul's Case</field>
         <!-- The composer's name should be put in Natural Order: First Middle Last -->
         <field name="composer">Gregory Spears</field>
         <!-- The composer's name should be put in Indirect Order: Last, First Middle, etc. -->
@@ -28,8 +28,8 @@
         <field name="region">Virginia</field>
         <field name="country">United States</field>
         <!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
-        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paul's+case+and+Gregory+Spears&amp;search_field=search</field>
-        <field name="revisions">NEW 2014-05-20</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paul's+Case+and+Gregory+Spears&amp;search_field=search</field>
+
     </doc>
 </add>
 

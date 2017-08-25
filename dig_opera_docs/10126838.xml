@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10126838</field>
 <field name="genre">Opera</field>
@@ -6,11 +6,11 @@
 <field name="titleSort">Napoli milionaria</field>
 <field name="composer">Nino Rota</field>
 <field name="composerSort">Rota, Nino</field>
-<field name="year">1978</field>
-<field name="date">1978</field>
-<field name="librettist">Eduardo Di Filippo</field>
-<field name="librettistSort">Di Filippo, Eduardo</field>
-<field name="theater">Teatro Nuovo</field>
+<field name="year">1977</field>
+<field name="date">June 22, 1977</field>
+<field name="librettist">Eduardo De Filippo</field>
+<field name="librettistSort">De Filippo, Eduardo</field>
+<field name="theater">Teatro Caio Melisso</field>
 <field name="city">Spoleto</field>
 <field name="region">Umbria</field>
 <field name="country">Italy</field>

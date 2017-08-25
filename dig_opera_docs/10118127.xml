@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10118127</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Győrgy Ligeti</field>
 <field name="composerSort">Ligeti, Győrgy</field>
 <field name="year">1978</field>
-<field name="date">1978</field>
+<field name="date">April 12, 1978</field>
 <field name="librettist">Győrgy Ligeti</field>
 <field name="librettistSort">Ligeti, Győrgy</field>
 <field name="librettist">Michael Meschke</field>

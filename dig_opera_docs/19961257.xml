@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961257</field>
 <field name="genre">Opera</field>
@@ -6,8 +6,8 @@
 <field name="titleSort">Judgment of Midas</field>
 <field name="composer">Kamran Ince</field>
 <field name="composerSort">Ince, Kamran</field>
-<field name="year">2011</field>
-<field name="date">April 12, 2011</field>
+<field name="year">2013</field>
+<field name="date">April 12, 2013</field>
 <field name="librettist">Miriam Seidel</field>
 <field name="librettistSort">Seidel, Miriam</field>
 <field name="theater">University of Wisconsin</field>

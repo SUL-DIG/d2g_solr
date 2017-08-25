@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10113636</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Karl Amadeus Hartmann</field>
 <field name="composerSort">Hartmann, Karl Amadeus</field>
 <field name="year">1988</field>
-<field name="date">1988</field>
+<field name="date">May 29, 1988</field>
 <field name="librettist">Erich Bormann</field>
 <field name="librettistSort">Bormann, Erich</field>
 <field name="theater">Hochschule für Musik und Theater</field>

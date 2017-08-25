@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10117764</field>
 <field name="genre">Opera</field>
@@ -6,8 +6,8 @@
 <field name="titleSort">kleine Bahnhof</field>
 <field name="composer">Markus Lehmann</field>
 <field name="composerSort">Lehmann, Markus</field>
-<field name="year">1958</field>
-<field name="date">1958</field>
+<field name="year">1957</field>
+<field name="date">May 5, 1957</field>
 <field name="librettist">Peter Steinbach</field>
 <field name="librettistSort">Steinbach, Peter</field>
 <field name="theater">Städtische Bühnen</field>

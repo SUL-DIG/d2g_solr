@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10106816</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Edward Cowie</field>
 <field name="composerSort">Cowie, Edward</field>
 <field name="year">1979</field>
-<field name="date">1979</field>
+<field name="date">June 10, 1979</field>
 <field name="librettist">David Starsmeare</field>
 <field name="librettistSort">Starsmeare, David</field>
 <field name="theater">Staatstheater</field>

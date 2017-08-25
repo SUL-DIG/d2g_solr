@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
+﻿<?xml version='1.0' encoding='UTF8'?>
 <add>
 <doc>
 <field name="id">10131595</field>
@@ -13,7 +13,7 @@
 <field name="librettistSort">Mauerová, Nad'a</field>
 <field name="librettist">František Hrubín</field>
 <field name="librettistSort">Hrubín, František</field>
-<field name="theater">Jihoceské Národní Divadlo</field>
+<field name="theater">Jihočeské Národní Divadlo</field>
 <field name="city">Ceské Budejovice</field>
 <field name="region">Jihocesky Kraj</field>
 <field name="country">Czech Republic</field>

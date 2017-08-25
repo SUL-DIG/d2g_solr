@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10113635</field>
 <field name="genre">Opera</field>
@@ -7,11 +7,15 @@
 <field name="composer">Karl Amadeus Hartmann</field>
 <field name="composerSort">Hartmann, Karl Amadeus</field>
 <field name="year">1948</field>
-<field name="date">1948</field>
+<field name="date">April 2, 1948</field>
 <field name="librettist">Hermann Scherchen</field>
 <field name="librettistSort">Scherchen, Hermann</field>
 <field name="librettist">Wolfgang Petzet</field>
 <field name="librettistSort">Petzet, Wolfgang</field>
+field name="librettist">Johann Jacob Christoffel von Grimmelshausen</field>
+<field name="librettistSort">Grimmelshausen, Johann Jacob Christoffel von</field>
+field name="librettist">Karl Amadeus Hartmann</field>
+<field name="librettistSort">Hartmann, Karl Amadeus</field>
 <field name="theater">Bavarian Radio (Bayerischer Rundfunk)</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

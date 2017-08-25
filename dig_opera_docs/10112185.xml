@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10112185</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Christoph Willibald von Gluck</field>
 <field name="composerSort">Gluck, Christoph Willibald von</field>
 <field name="year">1779</field>
-<field name="date">1779</field>
+<field name="date">May 18, 1779</field>
 <field name="librettist">Nicolas-François Guillard</field>
 <field name="librettistSort">Guillard, Nicolas-François</field>
 <field name="librettist">Guymond de La Touche</field>

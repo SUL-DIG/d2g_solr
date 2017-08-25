@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114907</field>
 <field name="genre">Opera</field>
@@ -12,7 +12,7 @@
 <field name="librettistSort">Hall, Oakley</field>
 <field name="librettist">Wallace Stegner</field>
 <field name="librettistSort">Stegner, Wallace</field>
-<field name="theater">Opera</field>
+<field name="theater">War Memorial Opera House</field>
 <field name="city">San Francisco</field>
 <field name="region">California</field>
 <field name="country">United States</field>

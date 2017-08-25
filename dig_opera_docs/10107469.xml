@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
+﻿<?xml version='1.0' encoding='UTF8'?>
 <add>
 <doc>
 <field name="id">10107469</field>
@@ -11,7 +11,7 @@
 <field name="date">1961</field>
 <field name="librettist">Gale Hoffman</field>
 <field name="librettistSort">Hoffman, Gale</field>
-<field name="theater">Opera</field>
+<field name="theater">War Memorial Opera House</field>
 <field name="city">San Francisco</field>
 <field name="region">California</field>
 <field name="country">United States</field>

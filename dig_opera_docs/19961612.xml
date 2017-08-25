@@ -6,6 +6,8 @@
 <field name="titleSort">Lysistrata</field>
 <field name="composer">Mikis Theodorakis</field>
 <field name="composerSort">Theodorakis, Mikis</field>
+<field name="composer">Aristophanes</field>
+<field name="composerSort">Aristophanes</field>
 <field name="year">2002</field>
 <field name="date">April 14, 2002</field>
 <field name="librettist">Mikis Theodorakis</field>

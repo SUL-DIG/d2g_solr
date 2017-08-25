@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962226</field>
 <field name="genre">Opera</field>
@@ -12,6 +12,8 @@
 <field name="librettistSort">Vollmer, Ludger</field>
 <field name="librettist">Philip Kapala</field>
 <field name="librettistSort">Kapala, Philip</field>
+<field name="librettist">Friedrich von Schiller</field>
+<field name="librettistSort">Schiller, Friedrich von</field>
 <field name="theater">Domenik Beykirch Theaterhaus</field>
 <field name="city">Jena</field>
 <field name="region">Thüringen</field>

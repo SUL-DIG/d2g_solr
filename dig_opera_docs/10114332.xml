@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114332</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Paul Hindemith</field>
 <field name="composerSort">Hindemith, Paul</field>
 <field name="year">1938</field>
-<field name="date">1938</field>
+<field name="date">May 28, 1938</field>
 <field name="librettist">Paul Hindemith</field>
 <field name="librettistSort">Hindemith, Paul</field>
 <field name="theater">Opernhaus</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10116395</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Erich Wolfgang Korngold</field>
 <field name="composerSort">Korngold, Erich Wolfgang</field>
 <field name="year">1920</field>
-<field name="date">1920</field>
+<field name="date">December 4, 1920</field>
 <field name="librettist">Erich Wolfgang Korngold</field>
 <field name="librettistSort">Korngold, Erich Wolfgang</field>
 <field name="librettist">Julius Korngold</field>

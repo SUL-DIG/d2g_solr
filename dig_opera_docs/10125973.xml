@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10125973</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Hermann Reutter</field>
 <field name="composerSort">Reutter, Hermann</field>
 <field name="year">1966</field>
-<field name="date">1966</field>
+<field name="date">May 29, 1966</field>
 <field name="librettist">Friedrich Hölderin</field>
 <field name="librettistSort">Hölderin, Friedrich</field>
 <field name="theater">Schlosstheater</field>

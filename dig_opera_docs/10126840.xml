@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10126840</field>
 <field name="genre">Opera</field>
@@ -8,8 +8,8 @@
 <field name="composerSort">Rota, Nino</field>
 <field name="year">1973</field>
 <field name="date">1973</field>
-<field name="librettist">Eduardo Di Filippo</field>
-<field name="librettistSort">Di Filippo, Eduardo</field>
+<field name="librettist">Eduardo De Filippo</field>
+<field name="librettistSort">De Filippo, Eduardo</field>
 <field name="librettist">Luisella Rota</field>
 <field name="librettistSort">Rota, Luisella</field>
 <field name="theater">Conservatorio Piccinni</field>

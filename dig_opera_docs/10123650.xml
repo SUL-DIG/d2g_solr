@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123650</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Krzysztof Penderecki</field>
 <field name="composerSort">Penderecki, Krzysztof</field>
 <field name="year">1978</field>
-<field name="date">1978</field>
+<field name="date">November 29, 1978</field>
 <field name="librettist">Christopher Fry</field>
 <field name="librettistSort">Fry, Christopher</field>
 <field name="librettist">John Milton</field>

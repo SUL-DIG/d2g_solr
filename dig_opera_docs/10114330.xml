@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114330</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Paul Hindemith</field>
 <field name="composerSort">Hindemith, Paul</field>
 <field name="year">1927</field>
-<field name="date">1927</field>
+<field name="date">July 17, 1927</field>
 <field name="librettist">Marcellus Schiffer</field>
 <field name="librettistSort">Schiffer, Marcellus</field>
 <field name="theater">Kurhaustheater</field>

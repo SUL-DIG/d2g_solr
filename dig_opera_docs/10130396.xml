@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10130396</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Heinrich Sutermeister</field>
 <field name="composerSort">Sutermeister, Heinrich</field>
 <field name="year">1948</field>
-<field name="date">1948</field>
+<field name="date">October 14, 1948</field>
 <field name="librettist">Heinrich Sutermeister</field>
 <field name="librettistSort">Sutermeister, Heinrich</field>
 <field name="librettist">Fyodor Mikhaylovich Dostoyevsky</field>

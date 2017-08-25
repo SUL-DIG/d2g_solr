@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10113565</field>
 <field name="genre">Opera</field>
@@ -10,7 +10,7 @@
 <field name="date">1979</field>
 <field name="librettist">John Harbison</field>
 <field name="librettistSort">Harbison, John</field>
-<field name="theater">Opera</field>
+<field name="theater">War Memorial Opera House</field>
 <field name="city">San Francisco</field>
 <field name="region">California</field>
 <field name="country">United States</field>

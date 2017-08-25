@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114023</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Hans Werner Henze</field>
 <field name="composerSort">Henze, Hans Werner</field>
 <field name="year">1949</field>
-<field name="date">1949</field>
+<field name="date">May 7, 1949</field>
 <field name="librettist">Adolf Friedrich von Schack</field>
 <field name="librettistSort">Schack, Adolf Friedrich von</field>
 <field name="librettist">Miguel de Cervantes Saavedra</field>

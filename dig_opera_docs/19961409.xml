@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961409</field>
 <field name="genre">Opera</field>
@@ -10,8 +10,8 @@
 <field name="date">May 10, 2008</field>
 <field name="librettist">Christian Martin Fuchs</field>
 <field name="librettistSort">Fuchs, Christian Martin</field>
-<field name="librettist">Eduardo Di Filippo</field>
-<field name="librettistSort">Di Filippo, Eduardo</field>
+<field name="librettist">Eduardo De Filippo</field>
+<field name="librettistSort">De Filippo, Eduardo</field>
 <field name="theater">Sächsische Staatsoper</field>
 <field name="city">Dresden</field>
 <field name="region">Sachsen</field>

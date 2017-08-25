@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114021</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Hans Werner Henze</field>
 <field name="composerSort">Henze, Hans Werner</field>
 <field name="year">1990</field>
-<field name="date">1990</field>
+<field name="date">May 5, 1990</field>
 <field name="librettist">Hans-Ulrich Treichel</field>
 <field name="librettistSort">Treichel, Hans-Ulrich</field>
 <field name="librettist">[Hiraoka Kimitake] Yukio Mishima</field>
