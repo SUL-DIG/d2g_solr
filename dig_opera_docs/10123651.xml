@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123651</field>
 <field name="genre">Opera</field>
@@ -7,11 +7,13 @@
 <field name="composer">Krzysztof Penderecki</field>
 <field name="composerSort">Penderecki, Krzysztof</field>
 <field name="year">1986</field>
-<field name="date">1986</field>
+<field name="date">August 15, 1986</field>
 <field name="librettist">Harry Kupfer</field>
 <field name="librettistSort">Kupfer, Harry</field>
 <field name="librettist">Krzysztof Penderecki</field>
 <field name="librettistSort">Penderecki, Krzysztof</field>
+<field name="librettist">Gerhart Hauptmann</field>
+<field name="librettistSort">Hauptmann, Gerhart</field>
 <field name="theater">Grosses Festspielhaus</field>
 <field name="city">Salzburg</field>
 <field name="region">Salzburg</field>

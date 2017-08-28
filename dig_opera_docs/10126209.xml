@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10126209</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Nikolay Andreyevich Rimsky-Korsakov</field>
 <field name="composerSort">Rimsky-Korsakov, Nikolay Andreyevich</field>
 <field name="year">1899</field>
-<field name="date">1899</field>
+<field name="date">November 3, 1899</field>
 <field name="librettist">Il'ya Fyodorovich Tyumenev</field>
 <field name="librettistSort">Tyumenev, Il'ya Fyodorovich</field>
 <field name="librettist">Lev Andreyevich Mey</field>

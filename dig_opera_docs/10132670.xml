@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132670</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Kurt Weill</field>
 <field name="composerSort">Weill, Kurt</field>
 <field name="year">1932</field>
-<field name="date">1932</field>
+<field name="date">March 10, 1932</field>
 <field name="librettist">Caspar Neher</field>
 <field name="librettistSort">Neher, Caspar</field>
 <field name="theater">Städtische Opernhaus</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10122554</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Carl Orff</field>
 <field name="composerSort">Orff, Carl</field>
 <field name="year">1939</field>
-<field name="date">1939</field>
+<field name="date">February 5, 1939</field>
 <field name="librettist">Carl Orff</field>
 <field name="librettistSort">Orff, Carl</field>
 <field name="theater">Bayerische Staatsoper</field>

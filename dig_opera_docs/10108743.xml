@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10108743</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Werner Egk</field>
 <field name="composerSort">Egk, Werner</field>
 <field name="year">1963</field>
-<field name="date">1963</field>
+<field name="date">November 27, 1963</field>
 <field name="librettist">Werner Egk</field>
 <field name="librettistSort">Egk, Werner</field>
 <field name="librettist">Heinrich von Kleist</field>

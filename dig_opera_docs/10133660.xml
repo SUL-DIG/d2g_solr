@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10133660</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Bernd Alois Zimmermann</field>
 <field name="composerSort">Zimmermann, Bernd Alois</field>
 <field name="year">1965</field>
-<field name="date">1965</field>
+<field name="date">February 15, 1965</field>
 <field name="librettist">Bernd Alois Zimmermann</field>
 <field name="librettistSort">Zimmermann, Bernd Alois</field>
 <field name="librettist">Jakob Michael Reinhold Lenz</field>

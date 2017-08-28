@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10117765</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Markus Lehmann</field>
 <field name="composerSort">Lehmann, Markus</field>
 <field name="year">1966</field>
-<field name="date">1966</field>
+<field name="date">September 23, 1966</field>
 <field name="librettist">Kurt Neufert</field>
 <field name="librettistSort">Neufert, Kurt</field>
 <field name="theater">Stadttheater</field>

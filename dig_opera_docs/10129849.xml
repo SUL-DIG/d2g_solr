@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10129849</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Rudi Stephan</field>
 <field name="composerSort">Stephan, Rudi</field>
 <field name="year">1920</field>
-<field name="date">1920</field>
+<field name="date">July 1, 1920</field>
 <field name="librettist">Otto Borngräber</field>
 <field name="librettistSort">Borngräber, Otto</field>
 <field name="theater">Opernhaus</field>

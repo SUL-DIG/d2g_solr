@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10131044</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Ernst Toch</field>
 <field name="composerSort">Toch, Ernst</field>
 <field name="year">1927</field>
-<field name="date">1927</field>
+<field name="date">July 17, 1927</field>
 <field name="librettist">Benno Elkan</field>
 <field name="librettistSort">Elkan, Benno</field>
 <field name="librettist">Hans Christian Andersen</field>

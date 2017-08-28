@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114515</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Heinz Holliger</field>
 <field name="composerSort">Holliger, Heinz</field>
 <field name="year">1970</field>
-<field name="date">1970</field>
+<field name="date">April 26, 1970</field>
 <field name="librettist">Nelly Sachs</field>
 <field name="librettistSort">Sachs, Nelly</field>
 <field name="theater">Stadttheater</field>

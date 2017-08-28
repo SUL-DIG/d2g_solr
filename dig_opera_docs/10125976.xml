@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10125976</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Hermann Reutter</field>
 <field name="composerSort">Reutter, Hermann</field>
 <field name="year">1954</field>
-<field name="date">1954</field>
+<field name="date">June 23, 1954</field>
 <field name="librettist">[Ludwig Strecker] Ludwig Andersen</field>
 <field name="librettistSort">Andersen, Ludwig [Ludwig Strecker]</field>
 <field name="theater">Oper der Stadt</field>
