@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10121996</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Franz Neumann</field>
 <field name="composerSort">Neumann, Franz</field>
 <field name="year">1910</field>
-<field name="date">1910</field>
+<field name="date">September 18, 1910</field>
 <field name="librettist">Arthur Schnitzler</field>
 <field name="librettistSort">Schnitzler, Arthur</field>
 <field name="theater">Opernhaus</field>

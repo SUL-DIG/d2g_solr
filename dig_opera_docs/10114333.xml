@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114333</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Paul Hindemith</field>
 <field name="composerSort">Hindemith, Paul</field>
 <field name="year">1921</field>
-<field name="date">1921</field>
+<field name="date">June 4, 1921</field>
 <field name="librettist">Oscar Kokoschka</field>
 <field name="librettistSort">Kokoschka, Oscar</field>
 <field name="theater">Württembergisches Landestheater</field>

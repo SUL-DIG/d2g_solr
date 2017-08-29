@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10125970</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Hermann Reutter</field>
 <field name="composerSort">Reutter, Hermann</field>
 <field name="year">1942</field>
-<field name="date">1942</field>
+<field name="date">October 7, 1942</field>
 <field name="librettist">Rudolf Bach</field>
 <field name="librettistSort">Bach, Rudolf</field>
 <field name="theater">Opernhaus</field>

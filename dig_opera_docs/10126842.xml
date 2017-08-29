@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10126842</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Nino Rota</field>
 <field name="composerSort">Rota, Nino</field>
 <field name="year">1970</field>
-<field name="date">1970</field>
+<field name="date">February 6, 1970</field>
 <field name="librettist">Nino Rota</field>
 <field name="librettistSort">Rota, Nino</field>
 <field name="librettist">Herbert George Wells</field>

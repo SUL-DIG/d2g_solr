@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10131878</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Giuseppe Verdi</field>
 <field name="composerSort">Verdi, Giuseppe</field>
 <field name="year">1887</field>
-<field name="date">1887</field>
+<field name="date">February 5, 1887</field>
 <field name="librettist">Arrigo Boito</field>
 <field name="librettistSort">Boito, Arrigo</field>
 <field name="librettist">William Shakespeare</field>

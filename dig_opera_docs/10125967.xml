@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10125967</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Hermann Reutter</field>
 <field name="composerSort">Reutter, Hermann</field>
 <field name="year">1980</field>
-<field name="date">1980</field>
+<field name="date">December 6, 1980</field>
 <field name="librettist">Hermann Reutter</field>
 <field name="librettistSort">Reutter, Hermann</field>
 <field name="librettist">William Shakespeare</field>

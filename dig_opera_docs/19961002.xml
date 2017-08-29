@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19961002</field>
 <field name="genre">Opera</field>
@@ -12,6 +12,8 @@
 <field name="librettistSort">Casken, John</field>
 <field name="librettist">Emma Warner</field>
 <field name="librettistSort">Warner, Emma</field>
+<field name="librettist">Lev Nikolayevich Tolstoy</field>
+<field name="librettistSort">Tolstoy, Lev Nikolayevich</field>
 <field name="theater">Almeida Theatre King's Cross</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>

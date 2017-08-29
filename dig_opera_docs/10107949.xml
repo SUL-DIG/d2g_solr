@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10107949</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Gaetano Donizetti</field>
 <field name="composerSort">Donizetti, Gaetano</field>
 <field name="year">1832</field>
-<field name="date">1832</field>
+<field name="date">March 12, 1832</field>
 <field name="librettist">Felice Romani</field>
 <field name="librettistSort">Romani, Felice</field>
 <field name="librettist">Eugène Scribe</field>

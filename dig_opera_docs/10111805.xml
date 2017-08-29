@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111805</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Anthony Gilbert</field>
 <field name="composerSort">Gilbert, Anthony</field>
 <field name="year">1971</field>
-<field name="date">1971</field>
+<field name="date">April 4, 1971</field>
 <field name="librettist">George MacBeth</field>
 <field name="librettistSort">MacBeth, George</field>
 <field name="theater">Staatstheater</field>

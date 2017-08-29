@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
+﻿<?xml version='1.0' encoding='UTF8'?>
 <add>
 <doc>
 <field name="id">10119540</field>
@@ -8,7 +8,7 @@
 <field name="composer">Bohuslav Martinů</field>
 <field name="composerSort">Martinů, Bohuslav</field>
 <field name="year">1928</field>
-<field name="date">1928</field>
+<field name="date">May 5, 1928</field>
 <field name="librettist">Jan Löwenbach-Budin</field>
 <field name="librettistSort">Löwenbach-Budin, Jan</field>
 <field name="theater">Národní Divadlo</field>

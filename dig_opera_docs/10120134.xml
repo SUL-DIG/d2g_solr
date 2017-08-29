@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10120134</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Jost Meier</field>
 <field name="composerSort">Meier, Jost</field>
 <field name="year">1983</field>
-<field name="date">1983</field>
+<field name="date">April 23, 1983</field>
 <field name="librettist">Martin Markun</field>
 <field name="librettistSort">Markun, Martin</field>
 <field name="librettist">Hansjörg Schneider</field>

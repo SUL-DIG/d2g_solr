@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10122556</field>
 <field name="genre">Opera</field>
@@ -7,9 +7,11 @@
 <field name="composer">Carl Orff</field>
 <field name="composerSort">Orff, Carl</field>
 <field name="year">1968</field>
-<field name="date">1968</field>
+<field name="date">March 24, 1968</field>
 <field name="librettist">Carl Orff</field>
 <field name="librettistSort">Orff, Carl</field>
+<field name="librettist">Aeschylus</field>
+<field name="librettistSort">Aeschylus</field>
 <field name="theater">Württembergisches Staatstheater</field>
 <field name="city">Stuttgart</field>
 <field name="region">Baden-Württemberg</field>

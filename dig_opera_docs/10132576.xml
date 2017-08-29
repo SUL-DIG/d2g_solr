@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132576</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Carl Maria von Weber</field>
 <field name="composerSort">Weber, Carl Maria von</field>
 <field name="year">1823</field>
-<field name="date">1823</field>
+<field name="date">October 25, 1823</field>
 <field name="librettist">Helmina von Chezy</field>
 <field name="librettistSort">Chezy, Helmina von</field>
 <field name="theater">Kärntnertortheater</field>

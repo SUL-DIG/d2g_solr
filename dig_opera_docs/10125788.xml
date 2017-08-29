@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10125788</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Aribert Reimann</field>
 <field name="composerSort">Reimann, Aribert</field>
 <field name="year">1971</field>
-<field name="date">1971</field>
+<field name="date">April 29, 1971</field>
 <field name="librettist">Claus H. Henneberg</field>
 <field name="librettistSort">Henneberg, Claus H.</field>
 <field name="librettist">[Isaac Lang] Yvan Goll</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132999</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Gerhard Wimberger</field>
 <field name="composerSort">Wimberger, Gerhard</field>
 <field name="year">1960</field>
-<field name="date">1960</field>
+<field name="date">May 21, 1960</field>
 <field name="librettist">Eric Spiess</field>
 <field name="librettistSort">Spiess, Eric</field>
 <field name="theater">Schlosstheater</field>

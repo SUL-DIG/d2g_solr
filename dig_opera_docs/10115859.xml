@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10115859</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Manfred Kelkel</field>
 <field name="composerSort">Kelkel, Manfred</field>
 <field name="year">1966</field>
-<field name="date">1966</field>
+<field name="date">November 17, 1966</field>
 <field name="librettist">Marcel de Bourhis</field>
 <field name="librettistSort">Bourhis, Marcel de</field>
 <field name="theater">ORTF Radio (Office de Radiodiffusion Télévision Française)</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10124025</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Hans Pfitzner</field>
 <field name="composerSort">Pfitzner, Hans</field>
 <field name="year">1917</field>
-<field name="date">1917</field>
+<field name="date">June 12, 1917</field>
 <field name="librettist">Hans Pfitzner</field>
 <field name="librettistSort">Pfitzner, Hans</field>
 <field name="theater">Prinzregententheater</field>

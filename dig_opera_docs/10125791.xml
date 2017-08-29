@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10125791</field>
 <field name="genre">Opera</field>
@@ -7,11 +7,13 @@
 <field name="composer">Aribert Reimann</field>
 <field name="composerSort">Reimann, Aribert</field>
 <field name="year">1986</field>
-<field name="date">1986</field>
+<field name="date">July 7, 1986</field>
 <field name="librettist">Gerd Albrecht</field>
 <field name="librettistSort">Albrecht, Gerd</field>
 <field name="librettist">Aribert Reimann</field>
 <field name="librettistSort">Reimann, Aribert</field>
+<field name="librettist">Euripides</field>
+<field name="librettistSort">Euripides</field>
 <field name="theater">Bayerische Staatsoper</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

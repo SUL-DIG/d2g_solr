@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10130398</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Heinrich Sutermeister</field>
 <field name="composerSort">Sutermeister, Heinrich</field>
 <field name="year">1940</field>
-<field name="date">1940</field>
+<field name="date">April 13, 1940</field>
 <field name="librettist">Heinrich Sutermeister</field>
 <field name="librettistSort">Sutermeister, Heinrich</field>
 <field name="librettist">William Shakespeare</field>

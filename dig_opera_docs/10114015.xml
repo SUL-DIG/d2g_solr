@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114015</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Hans Werner Henze</field>
 <field name="composerSort">Henze, Hans Werner</field>
 <field name="year">1983</field>
-<field name="date">1983</field>
+<field name="date">June 2, 1983</field>
 <field name="librettist">Edward Bond</field>
 <field name="librettistSort">Bond, Edward</field>
 <field name="librettist">Honoré de Balzac</field>

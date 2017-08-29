@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10125319</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Henry Purcell</field>
 <field name="composerSort">Purcell, Henry</field>
 <field name="year">1692</field>
-<field name="date">1692</field>
+<field name="date">May 2, 1692</field>
 <field name="librettist">William Shakespeare</field>
 <field name="librettistSort">Shakespeare, William</field>
 <field name="theater">Duke's Theatre, Dorset Garden</field>

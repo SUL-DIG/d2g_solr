@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc>
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10201232</field>
 		<field name="genre">Oratorio</field>
-		<field name="title">Éve</field>
-		<field name="titleSort">Éve</field>
+		<field name="title">Ève</field>
+		<field name="titleSort">Ève</field>
 		<field name="year">1875</field>
 		<field name="month">March</field>
 		<field name="day">18</field>
@@ -19,5 +19,5 @@
 		<field name="subject">Adam and Eve</field>
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Éve+Jules+Massenet&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ève+Jules+Massenet&amp;search_field=search</field>
 	</doc></add>

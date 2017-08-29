@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132403</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Richard Wagner</field>
 <field name="composerSort">Wagner, Richard</field>
 <field name="year">1876</field>
-<field name="date">1876</field>
+<field name="date">August 17, 1876</field>
 <field name="librettist">Richard Wagner</field>
 <field name="librettistSort">Wagner, Richard</field>
 <field name="theater">Festspielhaus</field>

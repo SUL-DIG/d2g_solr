@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132451</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Stewart Wallace</field>
 <field name="composerSort">Wallace, Stewart</field>
 <field name="year">1995</field>
-<field name="date">1995</field>
+<field name="date">January 19, 1995</field>
 <field name="librettist">Michael Korie</field>
 <field name="librettistSort">Korie, Michael</field>
 <field name="theater">Grand Opera</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123449</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Stephen Paulus</field>
 <field name="composerSort">Paulus, Stephen</field>
 <field name="year">1982</field>
-<field name="date">1982</field>
+<field name="date">June 17, 1982</field>
 <field name="librettist">Colin Graham</field>
 <field name="librettistSort">Graham, Colin</field>
 <field name="librettist">James Mallahan Cain</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10101929</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Gerald Barry</field>
 <field name="composerSort">Barry, Gerald</field>
 <field name="year">1990</field>
-<field name="date">1990</field>
+<field name="date">July 6, 1990</field>
 <field name="librettist">Vincent Deane</field>
 <field name="librettistSort">Deane, Vincent</field>
 <field name="theater">Almeida Theatre</field>

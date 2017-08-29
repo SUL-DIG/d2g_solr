@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10121435</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Wolfgang Amadeus Mozart</field>
 <field name="composerSort">Mozart, Wolfgang Amadeus</field>
 <field name="year">1781</field>
-<field name="date">1781</field>
+<field name="date">January 29, 1781</field>
 <field name="librettist">Giovanni Battista Varesco</field>
 <field name="librettistSort">Varesco, Giovanni Battista</field>
 <field name="librettist">Antoine Danchet</field>

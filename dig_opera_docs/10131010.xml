@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10131010</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Michael Tippett</field>
 <field name="composerSort">Tippett, Michael</field>
 <field name="year">1962</field>
-<field name="date">1962</field>
+<field name="date">May 29, 1962</field>
 <field name="librettist">Michael Tippett</field>
 <field name="librettistSort">Tippett, Michael</field>
 <field name="theater">Belgrade Theatre</field>

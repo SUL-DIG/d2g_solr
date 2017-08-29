@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114011</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Hans Werner Henze</field>
 <field name="composerSort">Henze, Hans Werner</field>
 <field name="year">1966</field>
-<field name="date">1966</field>
+<field name="date">August 6, 1966</field>
 <field name="librettist">Wystan Hugh Auden</field>
 <field name="librettistSort">Auden, Wystan Hugh</field>
 <field name="librettist">Chester Kallman</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123437</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Heinz Pauels</field>
 <field name="composerSort">Pauels, Heinz</field>
 <field name="year">1966</field>
-<field name="date">1966</field>
+<field name="date">February 3, 1966</field>
 <field name="librettist">Ernst Gärtner</field>
 <field name="librettistSort">Gärtner, Ernst</field>
 <field name="librettist">Daniel Defoe</field>

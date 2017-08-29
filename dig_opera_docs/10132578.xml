@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132578</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Carl Maria von Weber</field>
 <field name="composerSort">Weber, Carl Maria von</field>
 <field name="year">1826</field>
-<field name="date">1826</field>
+<field name="date">April 12, 1826</field>
 <field name="librettist">James Robinson Planché</field>
 <field name="librettistSort">Planché, James Robinson</field>
 <field name="librettist">Christoph Martin Wieland</field>

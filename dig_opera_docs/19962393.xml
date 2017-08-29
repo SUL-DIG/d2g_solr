@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962393</field>
 <field name="genre">Opera</field>
@@ -10,7 +10,7 @@
 <field name="date">April 12, 2013</field>
 <field name="librettist">David Mitchell</field>
 <field name="librettistSort">Mitchell, David</field>
-<field name="theater">Barbican Theatre</field>
+<field name="theater">Barbican Centre</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

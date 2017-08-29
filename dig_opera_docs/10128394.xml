@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10128394</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Arnold Schoenberg</field>
 <field name="composerSort">Schoenberg, Arnold</field>
 <field name="year">1930</field>
-<field name="date">1930</field>
+<field name="date">February 1, 1930</field>
 <field name="librettist">[Gertrud Schoenberg] Max Blonda</field>
 <field name="librettistSort">Blonda, Max [Gertrud Schoenberg]</field>
 <field name="theater">Opernhaus</field>

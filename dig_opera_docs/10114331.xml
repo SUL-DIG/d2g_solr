@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114331</field>
 <field name="genre">Opera</field>
-<field name="title">The Long Christmas Dinner</field>
-<field name="titleSort">Long Christmas Dinner</field>
+<field name="title">The Long Christmas Dinner (Das lange Weihnachtsmahl)</field>
+<field name="titleSort">Long Christmas Dinner (Das lange Weihnachtsmahl), The</field>
 <field name="composer">Paul Hindemith</field>
 <field name="composerSort">Hindemith, Paul</field>
 <field name="year">1961</field>
-<field name="date">1961</field>
+<field name="date">December 17, 1961</field>
 <field name="librettist">Thornton Wilder</field>
 <field name="librettistSort">Wilder, Thornton</field>
 <field name="theater">Nationaltheater</field>
@@ -15,6 +15,6 @@
 <field name="region">Baden-Württemberg</field>
 <field name="country">Germany</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Long+Christmas+Dinner+Paul+Hindemith&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Long+Christmas+Dinner+Das+lange+WeihnachtsmahlPaul+Hindemith&amp;search_field=search</field>
 </doc>
 </add>

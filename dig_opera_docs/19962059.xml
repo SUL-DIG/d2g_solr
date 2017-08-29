@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">19962059</field>
 <field name="genre">Opera</field>
@@ -6,8 +6,8 @@
 <field name="titleSort">Promised End</field>
 <field name="composer">Alexander Goehr</field>
 <field name="composerSort">Goehr, Alexander</field>
-<field name="year">2011</field>
-<field name="date">October 9, 2011</field>
+<field name="year">2010</field>
+<field name="date">October 9, 2010</field>
 <field name="librettist">Frank Kermode</field>
 <field name="librettistSort">Kermode, Frank</field>
 <field name="librettist">William Shakespeare</field>

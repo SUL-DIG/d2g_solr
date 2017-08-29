@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10115978</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Wilhelm Killmayer</field>
 <field name="composerSort">Killmayer, Wilhelm</field>
 <field name="year">1961</field>
-<field name="date">1961</field>
+<field name="date">June 9, 1961</field>
 <field name="librettist">Angelo Ambrogini Poliziano</field>
 <field name="librettistSort">Poliziano, Angelo Ambrogini</field>
 <field name="theater">Bayerische Staatsoper</field>

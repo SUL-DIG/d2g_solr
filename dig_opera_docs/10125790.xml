@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10125790</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Aribert Reimann</field>
 <field name="composerSort">Reimann, Aribert</field>
 <field name="year">1965</field>
-<field name="date">1965</field>
+<field name="date">June 20, 1965</field>
 <field name="librettist">Carla Henius</field>
 <field name="librettistSort">Henius, Carla</field>
 <field name="librettist">August Strindberg</field>

@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114022</field>
 <field name="genre">Opera</field>
-<field name="title">We Come to the River</field>
-<field name="titleSort">We Come to the River</field>
+<field name="title">We Come to the River (Wir erreichen den Fluss)</field>
+<field name="titleSort">We Come to the River (Wir erreichen den Fluss)</field>
 <field name="composer">Hans Werner Henze</field>
 <field name="composerSort">Henze, Hans Werner</field>
-<field name="year">1973</field>
-<field name="date">1973</field>
+<field name="year">1976</field>
+<field name="date">June 12, 1976</field>
 <field name="librettist">Edward Bond</field>
 <field name="librettistSort">Bond, Edward</field>
 <field name="theater">Royal Opera House, Covent Garden</field>
@@ -15,6 +15,6 @@
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=We+Come+to+the+River+Hans+Werner+Henze&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=We+Come+to+the+River+Wir+erreichen+den+Fluss+Hans+Werner+Henze&amp;search_field=search</field>
 </doc>
 </add>

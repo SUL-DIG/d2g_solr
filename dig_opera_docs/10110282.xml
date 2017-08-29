@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10110282</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Wolfgang Fortner</field>
 <field name="composerSort">Fortner, Wolfgang</field>
 <field name="year">1972</field>
-<field name="date">1972</field>
+<field name="date">October 23, 1972</field>
 <field name="librettist">Mattias Braun</field>
 <field name="librettistSort">Braun, Mattias</field>
 <field name="theater">Deutsche Oper</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114019</field>
 <field name="genre">Opera</field>
@@ -7,9 +7,15 @@
 <field name="composer">Hans Werner Henze</field>
 <field name="composerSort">Henze, Hans Werner</field>
 <field name="year">1980</field>
-<field name="date">1980</field>
+<field name="date">August 2, 1980</field>
 <field name="librettist">Giuseppe Di Leva</field>
 <field name="librettistSort">Di Leva, Giuseppe</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="librettist">Charles Perrault</field>
+<field name="librettistSort">Perrault, Charles </field>
+<field name="librettist">Carlo Collodi</field>
+<field name="librettistSort">Collodi, Carlo</field>
 <field name="theater">Teatro Poliziano</field>
 <field name="city">Montepulciano</field>
 <field name="region">Toscana</field>

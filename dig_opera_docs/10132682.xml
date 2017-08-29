@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10132682</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Kurt Weill</field>
 <field name="composerSort">Weill, Kurt</field>
 <field name="year">1927</field>
-<field name="date">1927</field>
+<field name="date">March 2, 1927</field>
 <field name="librettist">[Isaac Lang] Yvan Goll</field>
 <field name="librettistSort">Goll, Yvan [Isaac Lang]</field>
 <field name="theater">Staatsoper</field>

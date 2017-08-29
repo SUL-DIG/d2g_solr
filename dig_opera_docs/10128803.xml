@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10128803</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Humphrey Searle</field>
 <field name="composerSort">Searle, Humphrey</field>
 <field name="year">1964</field>
-<field name="date">1964</field>
+<field name="date">March 8, 1964</field>
 <field name="librettist">Humphrey Searle</field>
 <field name="librettistSort">Searle, Humphrey</field>
 <field name="librettist">Eugène Ionesco</field>

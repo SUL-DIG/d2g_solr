@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10123452</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Stephen Paulus</field>
 <field name="composerSort">Paulus, Stephen</field>
 <field name="year">1985</field>
-<field name="date">1985</field>
+<field name="date">June 13, 1985</field>
 <field name="librettist">Colin Graham</field>
 <field name="librettistSort">Graham, Colin</field>
 <field name="librettist">Thomas Hardy</field>

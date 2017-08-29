@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10122555</field>
 <field name="genre">Opera</field>
@@ -7,9 +7,11 @@
 <field name="composer">Carl Orff</field>
 <field name="composerSort">Orff, Carl</field>
 <field name="year">1959</field>
-<field name="date">1959</field>
+<field name="date">December 11, 1959</field>
 <field name="librettist">Friedrich Hölderin</field>
 <field name="librettistSort">Hölderin, Friedrich</field>
+<field name="librettist">Sophocles</field>
+<field name="librettistSort">Sophocles</field>
 <field name="theater">Württembergisches Staatstheater</field>
 <field name="city">Stuttgart</field>
 <field name="region">Baden-Württemberg</field>

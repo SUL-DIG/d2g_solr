@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114017</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Hans Werner Henze</field>
 <field name="composerSort">Henze, Hans Werner</field>
 <field name="year">1956</field>
-<field name="date">1956</field>
+<field name="date">September 23, 1956</field>
 <field name="librettist">Heinz von Cramer</field>
 <field name="librettistSort">Cramer, Heinz von</field>
 <field name="librettist">Carlo Gozzi</field>

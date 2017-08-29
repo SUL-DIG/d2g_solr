@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
+﻿<?xml version='1.0' encoding='UTF8'?>
 <add>
 <doc>
 <field name="id">10119538</field>
@@ -8,7 +8,7 @@
 <field name="composer">Bohuslav Martinů</field>
 <field name="composerSort">Martinů, Bohuslav</field>
 <field name="year">1971</field>
-<field name="date">1971</field>
+<field name="date">June 16, 1971</field>
 <field name="librettist">Georges Ribemont-Dessaignes</field>
 <field name="librettistSort">Ribemont-Dessaignes, Georges</field>
 <field name="theater">Janáckova Opera</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111613</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">George Gershwin</field>
 <field name="composerSort">Gershwin, George</field>
 <field name="year">1935</field>
-<field name="date">1935</field>
+<field name="date">October 10, 1935</field>
 <field name="librettist">Ira Gershwin</field>
 <field name="librettistSort">Gershwin, Ira</field>
 <field name="librettist">DuBose Heyward</field>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10111615</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Ottmar Gerster</field>
 <field name="composerSort">Gerster, Ottmar</field>
 <field name="year">1936</field>
-<field name="date">1936</field>
+<field name="date">November 15, 1936</field>
 <field name="librettist">Karl Michael von Levetzow</field>
 <field name="librettistSort">Levetzow, Karl Michael von</field>
 <field name="librettist">"Alfred, Lord Tennyson</field>

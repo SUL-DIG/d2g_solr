@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10114516</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Heinz Holliger</field>
 <field name="composerSort">Holliger, Heinz</field>
 <field name="year">1980</field>
-<field name="date">1980</field>
+<field name="date">July 15, 1980</field>
 <field name="librettist">Samuel Beckett</field>
 <field name="librettistSort">Beckett, Samuel</field>
 <field name="theater">Chapelle des Pénitents blancs</field>

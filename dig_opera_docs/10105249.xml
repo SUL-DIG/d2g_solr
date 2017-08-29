@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10105249</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">John Casken</field>
 <field name="composerSort">Casken, John</field>
 <field name="year">1989</field>
-<field name="date">1989</field>
+<field name="date">June 28, 1989</field>
 <field name="librettist">John Casken</field>
 <field name="librettistSort">Casken, John</field>
 <field name="librettist">Pierre Audi</field>

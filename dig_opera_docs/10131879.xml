@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10131879</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Giuseppe Verdi</field>
 <field name="composerSort">Verdi, Giuseppe</field>
 <field name="year">1851</field>
-<field name="date">1851</field>
+<field name="date">March 11, 1851</field>
 <field name="librettist">Francesco Maria Piave</field>
 <field name="librettistSort">Piave, Francesco Maria</field>
 <field name="librettist">Victor Hugo</field>

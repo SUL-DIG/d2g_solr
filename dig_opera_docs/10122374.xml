@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10122374</field>
 <field name="genre">Opera</field>
@@ -7,7 +7,7 @@
 <field name="composer">Jacques Offenbach</field>
 <field name="composerSort">Offenbach, Jacques</field>
 <field name="year">1867</field>
-<field name="date">1867</field>
+<field name="date">April 12, 1867</field>
 <field name="librettist">Henri Meilhac</field>
 <field name="librettistSort">Meilhac, Henri</field>
 <field name="librettist">Ludovic Halévy</field>
