@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100452</field>
+        
+		<field name="genre">Opera</field>
+             
+		<field name="title">Gisei, das Opfer</field>
+        
+		<field name="titleSort">Gisei, das Opfer</field>
+        
+		<field name="composer">Carl Orff</field>
+        
+		<field name="composerSort">Orff, Carl</field>
+
+      
+
+		<field name="librettist">Carl Orff</field>
+             
+		<field name="librettistSort">Orff, Carl</field>
+
+
+
+
+		<field name="librettist">Takeda Izumo</field>
+             
+		<field name="librettistSort">Izumo, Takeda</field>
+
+
+
+   
+		<field name="year">2010</field>
+         
+		<field name="date">January 30, 2010</field>
+        
+		<field name="theater">Staatstheater</field>
+        
+		<field name="city">Darmstadt</field>
+        
+		<field name="region">Hessen</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gisei,+das+Opfer+Carl+Orff&amp;search_field=search</field>
+          
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

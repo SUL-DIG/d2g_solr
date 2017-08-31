@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100502</field>
+        
+		<field name="genre">Opera</field>
+              
+		<field name="title">Erinys</field>
+        
+		<field name="titleSort">Erinys</field>
+        
+		<field name="composer">Volker David Kirchner</field>
+        
+		<field name="composerSort">Kirchner, Volker David</field>
+
+      
+
+		<field name="librettist">Volker David Kirchner</field>
+             
+		<field name="librettistSort">Kirchner, Volker David</field>
+
+
+
+
+		<field name="librettist">Aeschylus</field>
+             
+		<field name="librettistSort">Aeschylus</field>
+
+
+
+   
+		<field name="year">1990</field>
+         
+		<field name="date">April 15, 1990</field>
+        
+        
+		<field name="city">Wuppertal</field>
+        
+		<field name="region">Nordrhein-Westfallen</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Erinys+Volker+David+Kirchner&amp;search_field=search</field>
+        
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

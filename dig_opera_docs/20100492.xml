@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100492</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Der langwierige Weg in die Wohnung der Natascha Ungeheuer</field>
+        
+		<field name="titleSort">langwierige Weg in die Wohnung der Natascha Ungeheuer, Der</field>
+        
+		<field name="composer">Hans Werner Henze</field>
+        
+		<field name="composerSort">Henze, Hans Werner</field>
+
+      
+
+		<field name="librettist">Gastón Salvatore</field>
+             
+		<field name="librettistSort">Salvatore, Gastón</field>
+
+
+
+   
+		<field name="year">1971</field>
+         
+		<field name="date">May 17, 1971</field>
+        
+		<field name="theater">Teatro Olimpico</field>
+        
+		<field name="city">Rome</field>
+        
+		<field name="region">Lazio</field>
+        
+		<field name="country">Italy</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+langwierige+Weg+in+die+Wohnung+der+Natascha+Ungeheuer+Hans+Werner+Henze&amp;search_field=search</field>
+        
+   
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

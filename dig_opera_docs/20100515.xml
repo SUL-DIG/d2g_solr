@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100515</field>
+        
+		<field name="genre">Opera</field>
+             
+		<field name="title">Liebestreu und Grausamkeit</field>
+        
+		<field name="titleSort">Liebestreu und Grausamkeit</field>
+        
+		<field name="composer">Wilfried Hiller</field>
+        
+		<field name="composerSort">Hiller, WIlfried</field>
+
+      
+
+		<field name="librettist">Wilhelm Busch</field>
+             
+		<field name="librettistSort">Busch, Wilhelm</field>
+
+
+
+   
+		<field name="year">1981</field>
+         
+		<field name="date">January 11, 1981</field>
+        
+		<field name="theater">Städtische Bühnen</field>
+        
+		<field name="city">Regensburg</field>
+        
+		<field name="region">Bayern</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Liebestreu+und+Grausamkeit+Wilfreid+Hiller&amp;search_field=search</field>
+        
+	    
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100482</field>
+        
+		<field name="genre">Opera</field>
+            
+		<field name="title">Bahnwärter Thiel</field>
+        
+		<field name="titleSort">Bahnwärter Thiel</field>
+        
+		<field name="composer">Enjott Schneider</field>
+        
+		<field name="composerSort">Schneider, Enjott</field>
+
+      
+
+		<field name="librettist">Julia Cloot</field>
+             
+		<field name="librettistSort">Cloot, Julia</field>
+
+
+
+
+		<field name="librettist">Gerhart Hauptmann</field>
+             
+		<field name="librettistSort">Hauptmann, Gerhart</field>
+
+
+
+   
+		<field name="year">2004</field>
+         
+		<field name="date">February 28, 2004</field>
+        
+		<field name="theater">Stadttheater</field>
+        
+		<field name="city">Görlitz</field>
+        
+		<field name="region">Sachsen</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bahnwärter+Thiel+Enjott+Schneider&amp;search_field=search</field>
+        
+  
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

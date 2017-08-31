@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200184</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="subject">Parable of the Prodigal Son</field>
+		
+		<field name="title">Die Rückkehr des verlorenen Sohnes</field>
+		
+		<field name="titleSort">Rückkehr des verlorenen Sohnes, Die</field>
+		
+		<field name="year">1952</field>
+		
+		<field name="month">October</field>
+		
+		<field name="day">2</field>
+		
+		<field name="date">October 2, 1952</field>
+				
+		<field name="composer">Hermann Reutter</field>
+			
+		<field name="composerSort">Reutter, Hermann</field>
+			
+		<field name="librettist">André Gide</field>
+			
+		
+		<field name="librettistSort">Gide, André</field>
+		
+		<field name="theater">Theater Dortmund</field>
+		
+		<field name="city">Dortmund</field>
+			
+		<field name="region">Nordrhein-Westfallen</field>
+		
+		<field name="country">Germany</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Rückkehr+des+verlorenen+Sohnes+Hermann+Reutter&amp;search_field=search</field>
+    
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100449</field>
+        
+		<field name="genre">Opera</field>
+             
+		<field name="title">Hop et Rats</field>
+        
+		<field name="titleSort">Hop et Rats</field>
+        
+		<field name="composer">Thierry Pécou</field>
+        
+		<field name="composerSort">Pécou, Thierry</field>
+
+      
+
+		<field name="librettist">David Martins</field>
+             
+		<field name="librettistSort">Martins, David</field>
+
+
+
+   
+		<field name="year">2003</field>
+         
+		<field name="date">May 20, 2003</field>
+        
+		<field name="theater">Théâtre du Châtelet</field>
+        
+		<field name="city">Paris</field>
+               
+		<field name="country">France</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hop+et+Rats+Thierry+Pécou&amp;search_field=search</field>
+            
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

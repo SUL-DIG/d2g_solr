@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100486</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Das Frauenorchester von Auschwitz</field>
+        
+		<field name="titleSort">Frauenorchester von Auschwitz, Das</field>
+        
+		<field name="composer">Stefan Heucke</field>
+        
+		<field name="composerSort">Heucke, Stefan</field>
+
+      
+
+		<field name="librettist">Clemens Heucke</field>
+             
+		<field name="librettistSort">Heucke, Clemens</field>
+
+
+
+   
+		<field name="year">2006</field>
+         
+		<field name="date">September 16, 2006</field>
+               
+		<field name="city">Mönchengladbach</field>
+        
+		<field name="region">Nordrhein-Westfallen</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Frauenorchester+von+Auschwitz+Stefan+Heucke&amp;search_field=search</field>
+        
+  
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

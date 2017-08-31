@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100511</field>
+        
+		<field name="genre">Opera</field>
+             
+		<field name="title">La Cubana oder Ein Leben für die Kunst</field>
+        
+		<field name="titleSort">Cubana oder Ein Leben für die Kunst, La</field>
+        
+		<field name="composer">Hans Werner Henze</field>
+        
+		<field name="composerSort">Henze, Hans Werner</field>
+
+      
+
+		<field name="librettist">Hans Magnus Enzensberger</field>
+             
+		<field name="librettistSort">Enzensberger, Hans Magnus</field>
+
+
+
+
+		<field name="librettist">Miguel Barnet</field>
+             
+		<field name="librettistSort">Barnet, Miguel</field>
+
+
+
+   
+		<field name="year">1974</field>
+         
+		<field name="date">March 4, 1974</field>
+        
+		<field name="theater">WNET Television</field>
+        
+		<field name="city">New York</field>
+        
+		<field name="region">New York</field>
+        
+		<field name="country">United States</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Cubana+oder+Ein+Leben+für+die+Kunst+Hans+Werner+Henze&amp;search_field=search</field>
+        
+	
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

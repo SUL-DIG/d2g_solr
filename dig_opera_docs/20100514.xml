@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100514</field>
+        
+		<field name="genre">Opera</field>
+        
+     
+		<field name="title">Les Sacrifiées</field>
+        
+		<field name="titleSort">Sacrifiées, Les</field>
+        
+		<field name="composer">Thierry Pécou</field>
+        
+		<field name="composerSort">Pécou, Thierry</field>
+
+      
+
+		<field name="librettist">Laurent Gaudé</field>
+             
+		<field name="librettistSort">Gaudé, Laurent</field>
+
+
+
+   
+		<field name="year">2008</field>
+         
+		<field name="date">January 11, 2008</field>
+        
+		<field name="theater">Maison de la Musique</field>
+        
+		<field name="city">Nanterre</field>
+        
+		<field name="region">Yvelines</field>
+        
+		<field name="country">France</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+Sacrifiées+Thierry+Pécou&amp;search_field=search</field>
+        
+
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

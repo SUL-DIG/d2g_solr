@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100448</field>
+        
+		<field name="genre">Opera</field>
+              
+		<field name="title">L'Amour coupable</field>
+        
+		<field name="titleSort">Amour coupable, L'</field>
+        
+		<field name="composer">Thierry Pécou</field>
+        
+		<field name="composerSort">Pécou, Thierry</field>
+
+      
+
+		<field name="librettist">Eugène Green</field>
+             
+		<field name="librettistSort">Green, Eugène</field>
+
+
+
+
+		<field name="librettist">Pierre-Augustin Caron de Beaumarchais</field>
+             
+		<field name="librettistSort">Beaumarchais, Pierre-Augustin Caron de</field>
+
+
+
+   
+		<field name="year">2010</field>
+         
+		<field name="date">April 23, 2010</field>
+        
+		<field name="theater">Théâtre des Arts</field>
+        
+		<field name="city">Rouen</field>
+        
+		<field name="region">Seine-Maritime</field>
+        
+		<field name="country">France</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Amour+coupable+Thierry+Pécou&amp;search_field=search</field>
+        
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

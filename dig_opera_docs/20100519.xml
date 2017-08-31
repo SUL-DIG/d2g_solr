@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100519</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Moralities (Moralitäten)</field>
+        
+		<field name="titleSort">Moralities (Moralitäten)</field>
+        
+		<field name="composer">Hans Werner Henze</field>
+        
+		<field name="composerSort">Henze, Hans Werner</field>
+
+      
+
+		<field name="librettist">Wystan Hugh Auden</field>
+             
+		<field name="librettistSort">Auden, Wystan Hugh</field>
+
+
+
+
+<field name="librettist">Aesop</field>
+             
+		<field name="librettistSort">Aesop</field>
+
+
+
+   
+		<field name="year">1968</field>
+         
+		<field name="date">May 18, 1968</field>
+        
+		<field name="theater">Cincinnati May Festival</field>
+        
+		<field name="city">Cincinnati</field>
+        
+		<field name="region">Ohio</field>
+        
+		<field name="country">United States</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Moralities+Moralitäten+Hans+Werner+henze&amp;search_field=search</field>
+        
+ 
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

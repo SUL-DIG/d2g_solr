@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100498</field>
+        
+		<field name="genre">Opera</field>
+   
+		<field name="subgenre">Operetta</field>
+            
+		<field name="title">Die Rache einer russischen Waise</field>
+        
+		<field name="titleSort">Rache einer russischen Waise, Die</field>
+        
+		<field name="composer">Ingomar Grünauer</field>
+        
+		<field name="composerSort">Grünauer, Ingomar</field>
+
+      
+
+		<field name="librettist">Ingomar Grünauer</field>
+             
+		<field name="librettistSort">Grünauer, Ingomar</field>
+
+
+
+
+
+		<field name="librettist">Matthias Kaiser</field>
+             
+		<field name="librettistSort">Kaiser, Matthias</field>
+
+
+
+
+
+		<field name="librettist">Henri Rousseau</field>
+             
+		<field name="librettistSort">Rousseau, Henri</field>
+
+
+
+   
+		<field name="year">1993</field>
+         
+		<field name="date">March 18, 1993</field>
+        
+		<field name="theater">Saarländisches Staatstheater</field>
+        
+		<field name="city">Saarbrücken</field>
+        
+		<field name="region">Saarland</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Rache+einer+russischen+Waise+Ingomar+Grünauer&amp;search_field=search</field>
+        
+  
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

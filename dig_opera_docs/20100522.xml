@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100522</field>
+        
+		<field name="genre">Opera</field>
+              
+		<field name="title">Pinocchio</field>
+        
+		<field name="titleSort">Pinocchio</field>
+        
+		<field name="composer">Wilfried Hiller</field>
+        
+		<field name="composerSort">Hiller, Wilfried</field>
+
+      
+
+		<field name="librettist">Rudolf Herfurtner</field>
+             
+		<field name="librettistSort">Herfurtner, Rudolf</field>
+
+
+
+
+<field name="librettist">Carlo Collodi</field>
+             
+		<field name="librettistSort">Collodi, Carlo</field>
+
+
+
+   
+		<field name="year">2002</field>
+         
+		<field name="date">October 12, 2002</field>
+        
+		<field name="theater">Prinzregententheater</field>
+        
+		<field name="city">Munich</field>
+        
+		<field name="region">Bayern</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pinocchio+Wilfried+Hiller&amp;search_field=search</field>
+        
+	  
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

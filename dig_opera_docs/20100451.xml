@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100451</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Un rêve de carnaval en mode andalou</field>
+        
+		<field name="titleSort">rêve de carnaval en mode andalou, Un</field>
+        
+		<field name="composer">Thierry Pécou</field>
+        
+		<field name="composerSort">Pécou, Thierry</field>
+
+      
+
+		<field name="librettist">Christine Manazar</field>
+             
+		<field name="librettistSort">Mananzar, Christine</field>
+
+
+
+   
+		<field name="year">2013</field>
+         
+		<field name="date">December 7, 2013</field>
+              
+		<field name="city">Reims</field>
+        
+		<field name="region">Marne</field>
+        
+		<field name="country">France</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+rêve+de+carnaval+en+mode+andalou+Thierry+Pécou&amp;search_field=search</field>
+         
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

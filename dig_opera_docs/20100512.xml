@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100512</field>
+        
+		<field name="genre">Opera</field>
+                
+		<field name="title">Labyrinthos (Shakespearion II)</field>
+        
+		<field name="titleSort">Labyrinthos (Shakespearion II)</field>
+        
+		<field name="composer">Volker David Kirchner</field>
+        
+		<field name="composerSort">Kirchner, Volker David</field>
+
+      
+
+		<field name="librettist">William SHakespeare</field>
+             
+		<field name="librettistSort">Shakespeare, William</field>
+
+
+
+   
+		<field name="year">1997</field>
+         
+		<field name="date">October 17, 1997</field>
+        
+		<field name="theater">Staatstheater</field>
+        
+		<field name="city">Mainz</field>
+        
+		<field name="region">Rheinland-Pfalz</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Labyrinthos+Shakespearion+II+Volker+David+Kirchner&amp;search_field=search</field>
+        
+    
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

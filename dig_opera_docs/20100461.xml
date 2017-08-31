@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100461</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">K(l)eine Morgenstern-Szene</field>
+        
+		<field name="titleSort">K(l)eine Morgenstern-Szene</field>
+        
+		<field name="composer">Jörg Widmann</field>
+        
+		<field name="composerSort">Widmann, Jörg</field>
+
+      
+
+		<field name="librettist">Christian Morgenstern</field>
+             
+		<field name="librettistSort">Morgenstern, Christian</field>
+
+
+
+   
+		<field name="year">1997</field>
+         
+		<field name="date">December 2, 1997</field>
+        
+		<field name="theater">Gasteig</field>
+        
+		<field name="city">Munich</field>
+        
+		<field name="region">Bayern</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=K(l)eine+Morgenstern-Szene+Jörg+Widmann&amp;search_field=search</field>
+        
+    
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

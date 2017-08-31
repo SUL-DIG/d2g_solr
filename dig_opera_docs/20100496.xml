@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100496</field>
+        
+		<field name="genre">Opera</field>
+        
+	      
+		<field name="title">Die Geschichte von dem kleinen blauen Bergsee und dem alten Adler</field>
+        
+		<field name="titleSort">Geschichte von dem kleinen blauen Bergsee und dem alten Adler, Die</field>
+        
+		<field name="composer">Wilfried Hiller</field>
+        
+		<field name="composerSort">Hiller, Wilfried</field>
+
+      
+
+		<field name="librettist">Herbert Asmodi</field>
+             
+		<field name="librettistSort">Asmodi, Herbert</field>
+
+
+
+   
+		<field name="year">1996</field>
+         
+		<field name="date">September 21, 1996</field>
+        
+		<field name="theater">Bavarian Radio (Bayerischer Rundfunk)</field>
+        
+		<field name="city">Munich</field>
+        
+		<field name="region">Bayern</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Geschichte+von+dem+kleinen+blauen+Bergsee+und+dem+alten+Adler+Wilfried+Hiller&amp;search_field=search</field>
+        
+
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100470</field>
+        
+		<field name="genre">Opera</field>
+        
+        
+		<field name="title">Der gebrochene Spiegel</field>
+        
+		<field name="titleSort">gebrochene Spiegel, Der</field>
+        
+		<field name="composer">Franz Martin Olbrisch</field>
+        
+		<field name="composerSort">Olbrisch, Franz Martin</field>
+
+      
+
+		<field name="librettist">Rafael Alberti</field>
+             
+		<field name="librettistSort">Alberti, Rafael</field>
+
+
+
+
+<field name="librettist">Juan Ramón Jiménez</field>
+             
+		<field name="librettistSort">Jiménez, Juan Ramón</field>
+
+
+
+
+<field name="librettist">Theodor Däubler</field>
+             
+		<field name="librettistSort">Däubler, Theodor</field>
+
+
+
+
+<field name="librettist">Arno Holz</field>
+             
+		<field name="librettistSort">Holz, Arno</field>
+
+
+
+
+<field name="librettist">Günter Eich</field>
+             
+		<field name="librettistSort">Eich, Günter</field>
+
+
+
+
+<field name="librettist">Paul Scheerbart</field>
+             
+		<field name="librettistSort">Scheerbart, Paul</field>
+
+
+   
+		<field name="year">1990</field>
+         
+		<field name="date">April 24, 1992</field>
+        
+        
+		<field name="city">Witten</field>
+        
+		<field name="region">Nordrhein-Westfallen</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+gebrochene+Spiegel+Franz+Martin+Olbrisch&amp;search_field=search</field>
+          
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

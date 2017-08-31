@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100464</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Amandas Traum</field>
+        
+		<field name="titleSort">Amandas Traum</field>
+        
+		<field name="composer">Harald Weiss</field>
+        
+		<field name="composerSort">Weiss, Harald</field>
+
+      
+
+		<field name="librettist">Harald Weiss</field>
+             
+		<field name="librettistSort">Weiss, Harald</field>
+
+
+
+   
+		<field name="year">1992</field>
+         
+		<field name="date">August 16, 1992</field>
+        
+		<field name="theater">Opernhaus</field>
+        
+		<field name="city">Frankfurt</field>
+        
+		<field name="region">Hessen</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amandas+Traum+Harald+Weiss&amp;search_field=search</field>
+        
+   
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

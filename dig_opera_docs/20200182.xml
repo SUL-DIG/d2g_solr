@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		
+		<field name="id">20200182</field>
+		
+		<field name="genre">Oratorio</field>
+			
+		<field name="subject">David and Bathsheba</field>
+		
+		<field name="title">Bethsabé</field>
+		
+		<field name="titleSort">Bethsabé</field>
+		
+		<field name="year">1947</field>
+		
+		<field name="month">March</field>
+		
+		<field name="day">28</field>
+		
+		<field name="date">March 28, 1947</field>
+
+		<field name="composer">Will Eisenmann</field>
+				
+		<field name="composerSort">Eisenmann, Will</field>
+			
+		<field name="librettist">André Gide</field>
+			
+		
+		<field name="librettistSort">Gide, André</field>
+		
+		<field name="theater">Radio Zürich</field>
+		
+		<field name="city">Zürich</field>
+			
+		<field name="region">Zürich</field>
+		
+		<field name="country">Switzerland</field>
+	
+	<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bethsabé+Will+Eisenmann&amp;search_field=search</field>
+    
+
+</doc>
+
+</add>
+
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also don't forget to rename the file extension as .xml. -->

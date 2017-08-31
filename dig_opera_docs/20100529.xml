@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100529</field>
+        
+		<field name="genre">Opera</field>
+              
+		<field name="title">The Hogboon</field>
+        
+		<field name="titleSort">Hogboon, The</field>
+        
+		<field name="composer">Peter Maxwewll Davies</field>
+        
+		<field name="composerSort">Davies, Peter Maxwell</field>
+
+      
+
+		<field name="librettist">Peter Maxwewll Davies</field>
+             
+		<field name="librettistSort">Davies, Peter Maxwell</field>
+
+
+
+   
+		<field name="year">2016</field>
+         
+		<field name="date">June 26, 2016</field>
+        
+		<field name="theater">Barbican Centre</field>
+        
+		<field name="city">London</field>
+        
+		<field name="region">Greater London</field>
+        
+		<field name="country">United Kingdom</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Hogboon+Peter+Maxwell+Davies&amp;search_field=search</field>
+        
+   
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

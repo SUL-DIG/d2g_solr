@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100457</field>
+        
+		<field name="genre">Opera</field>
+              
+		<field name="title">Die Fabel von Filemon Faltenreich oder Die Fußballweltmeisterschaft der Fliegen</field>
+        
+		<field name="titleSort">Fabel von Filemon Faltenreich oder Die Fußballweltmeisterschaft der Fliegen, Die</field>
+        
+		<field name="composer">Wilfried Hiller</field>
+        
+		<field name="composerSort">Hiller, Wilfried</field>
+
+      
+
+		<field name="librettist">Michael Ende</field>
+             
+		<field name="librettistSort">Ende, Michael</field>
+
+
+
+   
+		<field name="year">1990</field>
+         
+		<field name="date">July 23, 1990</field>
+        
+		<field name="theater">Camerloher-Gymnasium</field>
+        
+		<field name="city">Freising</field>
+        
+		<field name="region">Bayern</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Fabel+von+Filemon+Faltenreich+oder+Die+Fußballweltmeisterschaft+der+Fliegen+Wilfried+Hiller&amp;search_field=search</field>
+            
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

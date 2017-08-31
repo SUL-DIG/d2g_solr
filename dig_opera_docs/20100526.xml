@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100526</field>
+        
+		<field name="genre">Opera</field>
+              
+		<field name="title">Small Tales, tall tales</field>
+        
+		<field name="titleSort">Small Tales, tall tales</field>
+        
+		<field name="composer">Kenneth Hesketh</field>
+        
+		<field name="composerSort">Hesketh, Kenneth</field>
+
+      
+
+		<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+             
+		<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+
+
+
+   
+		<field name="year">2006</field>
+         
+		<field name="date">June 14, 2006</field>
+        
+		<field name="theater">Linbury Studio, Royal Opera House</field>
+        
+		<field name="city">London</field>
+        
+		<field name="region">Greater London</field>
+        
+		<field name="country">United Kingdom</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Small+Tales,+tall+tales+Kenneth+Hesketh&amp;search_field=search</field>
+        
+   
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

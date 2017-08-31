@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100465</field>
+        
+		<field name="genre">Opera</field>
+        
+        
+		<field name="title">Der Rat der Eule</field>
+        
+		<field name="titleSort">Rat der Eule, Der</field>
+        
+		<field name="composer">Hanno Haag</field>
+        
+		<field name="composerSort">Haag, Hanno</field>
+
+      
+
+		<field name="librettist">Roswitha Fröhlich</field>
+             
+		<field name="librettistSort">Fröhlich, Roswitha</field>
+
+
+
+   
+		<field name="year">1985</field>
+         
+		<field name="date">September 25, 1985</field>
+        
+		<field name="theater">St.-Franziskus-Gymnasium </field>
+        
+		<field name="city">Kaiserslautern</field>
+        
+		<field name="region">Rheinland-Pfalz</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Rat+der+Eule+Hanno+Haag&amp;search_field=search</field>
+        
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

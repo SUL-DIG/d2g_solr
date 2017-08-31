@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100493</field>
+            
+		<field name="title">Der Lindwurm und der Schmetterling oder Der seltsame Tausch</field>
+        
+		<field name="titleSort">Lindwurm und der Schmetterling oder Der seltsame Tausch, Der</field>
+        
+		<field name="composer">Wilfried Hiller</field>
+        
+		<field name="composerSort">Hiller, Wilfried</field>
+
+      
+
+		<field name="librettist">Michael Ende</field>
+             
+		<field name="librettistSort">Ende, Michael</field>
+
+
+
+   
+		<field name="year">1981</field>
+         
+		<field name="date">January 11, 1981</field>
+        
+		<field name="theater">Städtische Bühnen</field>
+        
+		<field name="city">Regensburg</field>
+        
+		<field name="region">Bayern</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der Lindwurm+und+der+Schmetterling+oder+Der+seltsame+Tausch+Wilfreid+Hiller&amp;search_field=search</field>
+        
+
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

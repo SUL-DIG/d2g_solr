@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100517</field>
+        
+		<field name="genre">Opera</field>
+            
+		<field name="title">Mit Herz und Amt</field>
+        
+		<field name="titleSort">Mit Herz und Amt</field>
+        
+		<field name="composer">Markus Lehmann</field>
+        
+		<field name="composerSort">Lehmann, Markus</field>
+
+      
+
+		<field name="librettist">Reinhard Stenzel</field>
+             
+		<field name="librettistSort">Stenzel, Reinhard</field>
+
+
+
+   
+		<field name="year">1982</field>
+         
+		<field name="date">1982</field>
+             
+		<field name="city">Freiburg im Breisgau</field>
+        
+		<field name="region">Baden-Württemberg</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mit+Herz+und+Amt+Markus+Lehmann&amp;search_field=search</field>
+        
+
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

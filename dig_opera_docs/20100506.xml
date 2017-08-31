@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100506</field>
+        
+		<field name="genre">Opera</field>
+           
+		<field name="title">Il Re Cervo oder Die Irrfahrten der Wahrheit</field>
+        
+		<field name="titleSort">Re Cervo oder Die Irrfahrten der Wahrheit, Il</field>
+        
+		<field name="composer">Hans Werner Henze</field>
+        
+		<field name="composerSort">Henze, Hans Werner</field>
+
+      
+
+		<field name="librettist">Heinz von Cramer</field>
+             
+		<field name="librettistSort">Cramer, Heinz von</field>
+
+
+
+
+
+		<field name="librettist">Carlo Gozzi</field>
+             
+		<field name="librettistSort">Gozzi, Carlo</field>
+
+
+
+
+   
+		<field name="year">1963</field>
+         
+		<field name="date">March 10, 1963</field>
+        
+		<field name="theater">Staatstheater</field>
+        
+		<field name="city">Kassel</field>
+        
+		<field name="region">Hessen</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Re+Cervo+oder+Die+Irrfahrten+der+Wahrheit+Hans+Werner+Henze&amp;search_field=search</field>
+        
+
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

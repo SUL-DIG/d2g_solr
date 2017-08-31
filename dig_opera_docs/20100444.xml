@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100444</field>
+        
+		<field name="genre">Opera</field>
+             
+		<field name="title">A Christams Tale</field>
+        
+		<field name="titleSort">Christmas Tale, A</field>
+        
+		<field name="composer">Rodion Konstantinovich Shchedrin</field>
+        
+		<field name="composerSort">Shchedrin, Rodion Konstantinovich</field>
+
+      
+
+		<field name="librettist">Rodion Konstantinovich Shchedrin</field>
+             
+		<field name="librettistSort">Shchedrin, Rodion Konstantinovich</field>
+
+
+
+
+		<field name="librettist">Bojena Nemtsova</field>
+             
+		<field name="librettistSort">Nemtsova, Bojena</field>
+
+
+
+   
+		<field name="year">2015</field>
+         
+		<field name="date">December 26, 2015</field>
+        
+		<field name="theater">Mariinsky Teatr</field>
+        
+		<field name="city">St. Petersburg</field>
+               
+		<field name="country">Russia</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Christmas+Tale+Rodion+Konstantinovich+Shchedrin&amp;search_field=search</field>
+         
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

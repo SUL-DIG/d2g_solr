@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100481</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Aus vor dem Applaus</field>
+        
+		<field name="titleSort">Aus vor dem Applaus</field>
+        
+		<field name="composer">Hans Peter Müller-Kieling</field>
+        
+		<field name="composerSort">Müller-Kieling, Hans Peter</field>
+
+      
+
+		<field name="librettist">Karsten Schälicke</field>
+             
+		<field name="librettistSort">Schälicke, Karsten</field>
+
+
+
+   
+		<field name="year">1982</field>
+         
+		<field name="date">1982</field>
+        
+		<field name="theater">Musikhochschule</field>
+        
+		<field name="city">Freiburg im Breisgau</field>
+        
+		<field name="region">Baden-Württemberg</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aus+vor+dem+Aplpaus+Hans Peter+Müller-Kieling&amp;search_field=search</field>
+        
+  
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

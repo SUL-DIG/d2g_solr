@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100495</field>
+        
+		<field name="genre">Opera</field>
+              
+		<field name="title">Der Schimmelreiter</field>
+        
+		<field name="titleSort">Schimmelreiter, Der</field>
+        
+		<field name="composer">Wilfried Hiller</field>
+        
+		<field name="composerSort">Hiller, Wilfried</field>
+
+      
+
+		<field name="librettist">Theodor Storm</field>
+             
+		<field name="librettistSort">Storm, Theodor</field>
+
+
+
+
+
+		<field name="librettist">Andreas K. W. Meyer</field>
+             
+		<field name="librettistSort">Meyer, Andreas K. W.</field>
+
+
+
+   
+		<field name="year">1998</field>
+         
+		<field name="date">June 21, 1998</field>
+        
+		<field name="theater">Opernhaus</field>
+        
+		<field name="city">Kiel</field>
+        
+		<field name="region">Schleswig-Holstein</field>
+  
+		<field name="country">Germany</field>
+      
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Schimmelreiter+Wilfried+Hiller&amp;search_field=search</field>
+        
+    
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

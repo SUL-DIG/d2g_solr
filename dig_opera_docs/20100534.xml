@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100534</field>
+        
+		<field name="genre">Opera</field>
+        
+		<field name="subgenre">Operetta</field>
+        
+		<field name="title">Frühlingsluft</field>
+        
+		<field name="titleSort">Frühlingsluft</field>
+        
+		<field name="composer">Josef Strauss</field>
+        
+		<field name="composerSort">Strauss, Josef</field>
+
+      
+
+		<field name="librettist">Karl Lindau</field>
+             
+		<field name="librettistSort">Lindau, Karl</field>
+
+
+
+
+	<field name="librettist">Julius Wilhelm</field>
+             
+		<field name="librettistSort">Wilhelm, Julius</field>
+
+
+
+   
+
+	<field name="librettist">Adolf Jaime</field>
+             
+		<field name="librettistSort">Jaime, Adolf</field>
+
+
+
+   
+
+	<field name="librettist">Georges Duval</field>
+             
+		<field name="librettistSort">Duval, Georges</field>
+
+
+
+   
+   
+		<field name="year">1903</field>
+         
+		<field name="date">May 9, 1903</field>
+        
+		<field name="theater">Sommertheater "Venedig in Wien"</field>
+        
+		<field name="city">Vienna</field>
+              
+		<field name="country">Austria</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frühlingsluft+Josef+Strauss&amp;search_field=search</field>
+        
+   
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

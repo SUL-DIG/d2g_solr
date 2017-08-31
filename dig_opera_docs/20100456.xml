@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100456</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Dafne</field>
+        
+		<field name="titleSort">Dafne</field>
+        
+		<field name="composer">Benjamin Schweitzer</field>
+        
+		<field name="composerSort">Schweitzer, Benjamin</field>
+
+      
+
+		<field name="librettist">Benjamin Schweitzer</field>
+             
+		<field name="librettistSort">Schweitzer, Benjamin</field>
+
+
+
+
+		<field name="librettist">Martin Opitz</field>
+             
+		<field name="librettistSort">Opitz, Martin</field>
+
+
+
+   
+		<field name="year">2006</field>
+         
+		<field name="date">April 3, 2006</field>
+        
+		<field name="theater">Elisabethkirche</field>
+        
+		<field name="city">Berlin</field>
+        
+		<field name="region">Berlin</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dafne+Benjamin+Schweitzer&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

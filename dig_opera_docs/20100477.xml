@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100477</field>
+        
+		<field name="genre">Opera</field>
+              
+		<field name="title">17 Tage und 4 Minuten</field>
+        
+		<field name="titleSort">17 Tage und 4 Minuten</field>
+        
+		<field name="composer">Werner Egk</field>
+        
+		<field name="composerSort">Egk, Werner</field>
+
+      
+
+		<field name="librettist">Werner Egk</field>
+             
+		<field name="librettistSort">Egk, Werner</field>
+
+
+
+
+		<field name="librettist">Pedro Calderón de la Barca</field>
+             
+		<field name="librettistSort">Calderón de la Barca, Pedro</field>
+   
+		<field name="year">1966</field>
+         
+		<field name="date">June 2, 1966</field>
+        
+		<field name="theater">Württembergisches Staatstheater</field>
+        
+		<field name="city">Stuttgart</field>
+        
+		<field name="region">Baden-Württemberg</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=17+Tage+und+4+Minuted+Werner+Egk&amp;search_field=search</field>
+        
+
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

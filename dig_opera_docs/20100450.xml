@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100450</field>
+        
+		<field name="genre">Opera</field>
+                
+		<field name="title">Der Teufel mit den drei goldenen Haaren</field>
+        
+		<field name="titleSort">Teufel mit den drei goldenen Haaren, Der</field>
+        
+		<field name="composer">Stefan Johannes Hanke</field>
+        
+		<field name="composerSort">Hanke, Stefan Johannes</field>
+
+      
+
+		<field name="librettist">Dorothea Hartmann</field>
+             
+		<field name="librettistSort">Hartmann, Dorothea</field>
+
+
+
+
+		<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+             
+		<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+
+
+
+   
+		<field name="year">2012</field>
+         
+		<field name="date">May 11, 2012</field>
+        
+		<field name="theater">Niedersächsische Staatstheater</field>
+        
+		<field name="city">Hanover</field>
+        
+		<field name="region">Niedersachsen</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Teufel+mit+den+drei+goldenen+Haaren+Stefan+Johannes+Hanke&amp;search_field=search</field>
+        
+    
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

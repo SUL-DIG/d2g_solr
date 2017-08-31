@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100467</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Heidenröslein</field>
+        
+		<field name="titleSort">Heidenröslein</field>
+        
+		<field name="composer">Wilfried Hiller</field>
+        
+		<field name="composerSort">Hiller, Wilfried</field>
+
+      
+
+		<field name="librettist">Christian Morgenstern</field>
+             
+		<field name="librettistSort">Morgenstern,  Christian</field>
+
+
+
+   
+		<field name="year">1997</field>
+         
+		<field name="date">October 29, 1997</field>
+        
+		<field name="theater">Theater der Stadt</field>
+        
+		<field name="city">Trier</field>
+        
+		<field name="region">Rheinland-Pfalz</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Heidenröslein+Wilfried+Hiller&amp;search_field=search</field>
+           
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

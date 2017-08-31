@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100525</field>
+        
+		<field name="genre">Opera</field>
+   
+		<field name="title">Sakurų Prisiminimai (Sakura Memories)</field>
+        
+		<field name="titleSort">Sakurų Prisiminimai (Sakura Memories)</field>
+        
+		<field name="composer">Atsuhiko Gondai</field>
+        
+		<field name="composerSort">Gondai, Atsuhiko</field>
+
+      
+
+		<field name="librettist">Rimvydas Stankevičius</field>
+             
+		<field name="librettistSort">Stankevičius, Rimvydas</field>
+
+
+
+   
+		<field name="year">2014</field>
+         
+		<field name="date">January 5, 2014</field>
+        
+		<field name="theater">Kauno Valstybinis Muzikinas Teatras</field>
+        
+		<field name="city">Kaunas</field>
+               
+		<field name="country">Lithuania</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sakurų+Prisiminimai+Sakura+Memories+Atsuhiko+Gondai&amp;search_field=search</field>
+        
+   
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100528</field>
+        
+		<field name="genre">Opera</field>
+        
+       
+		<field name="title">The Food of Love</field>
+        
+		<field name="titleSort">Food of Love, The</field>
+        
+		<field name="composer">Robert Beaser</field>
+        
+		<field name="composerSort">Beaser, Robert</field>
+
+      
+
+		<field name="librettist">Terrence McNally</field>
+             
+		<field name="librettistSort">McNally, Terrence</field>
+
+
+
+   
+		<field name="year">1999</field>
+         
+		<field name="date">July 24, 1999</field>
+        
+		<field name="theater">Glimmerglass Opera</field>
+        
+		<field name="city">Cooperstown</field>
+        
+		<field name="region">New York</field>
+        
+		<field name="country">United States</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Food+of+Love+Robert+Beaser&amp;search_field=search</field>
+        
+   
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

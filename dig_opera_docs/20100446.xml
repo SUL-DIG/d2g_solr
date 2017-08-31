@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100446</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Jason and the Argonauts</field>
+        
+		<field name="titleSort">Jason and the Argonauts</field>
+        
+		<field name="composer">Gregory Spears</field>
+        
+		<field name="composerSort">Spears, Gregory</field>
+
+      
+
+		<field name="librettist">Kathryn Walat</field>
+             
+		<field name="librettistSort">Walat, Kathryn</field>
+
+
+
+   
+		<field name="year">2016</field>
+         
+		<field name="date">August 20, 2016</field>
+        
+		<field name="theater">Vittum Theater</field>
+        
+		<field name="city">Chicago</field>
+        
+		<field name="region">Illinois</field>
+        
+		<field name="country">United States</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jason+and+the+Argonauts+Gregory+Spears&amp;search_field=search</field>
+         
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

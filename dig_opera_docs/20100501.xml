@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100501</field>
+        
+		<field name="genre">Opera</field>
+             
+		<field name="title">Eduard auf dem Seil</field>
+        
+		<field name="titleSort">Eduard auf dem Seil</field>
+        
+		<field name="composer">Wilfried Hiller</field>
+        
+		<field name="composerSort">Hiller, Wilfried</field>
+
+      
+
+		<field name="librettist">Rudolf Herfurtner</field>
+             
+		<field name="librettistSort">Herfurtner, Rudolf</field>
+
+
+
+   
+		<field name="year">1999</field>
+         
+		<field name="date">October 31, 1999</field>
+        
+		<field name="theater">Residenztheater (Cuvilliéstheater)</field>
+        
+		<field name="city">Munich</field>
+        
+		<field name="region">Bayern</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eduard+auf+dem+Seil+Wilfried+Hiller&amp;search_field=search</field>
+          
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

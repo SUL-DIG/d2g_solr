@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100490</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Delusion of the Fury</field>
+        
+		<field name="titleSort">Delusion of the Fury</field>
+        
+		<field name="composer">Harry Partch</field>
+        
+		<field name="composerSort">Partch, Harry</field>
+
+      
+
+		<field name="librettist">Harry Partch</field>
+             
+		<field name="librettistSort">Partch, Harry</field>
+
+
+
+   
+		<field name="year">1969</field>
+         
+		<field name="date">January 9</field>
+        
+		<field name="theater">University of California</field>
+        
+		<field name="city">Los Angeles</field>
+        
+		<field name="region">California</field>
+        
+		<field name="country">United States</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Delusion+of+the+Fury+Harry+Partch&amp;search_field=search</field>
+        
+
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

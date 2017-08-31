@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100497</field>
+        
+		<field name="genre">Opera</field>
+        
+        
+		<field name="title">Die Jagd nach dem Schlarg (The Hunting of the Snark)</field>
+        
+		<field name="titleSort">Jagd nach dem Schlarg (The Hunting of the Snark), Die</field>
+        
+		<field name="composer">Wilfried Hiller</field>
+        
+		<field name="composerSort">Hiller, Wilfried</field>
+
+      
+
+		<field name="librettist">Michael Ende</field>
+             
+		<field name="librettistSort">Ende, Michael</field>
+
+
+
+
+		<field name="librettist">[Charles Lutwidge Dodgson] Lewis Carroll</field>
+             
+		<field name="librettistSort">Carroll, [Charles Lutwidge Dodgson] Lewis</field>
+
+
+
+   
+		<field name="year">1988</field>
+         
+		<field name="date">January 16, 1988</field>
+        
+		<field name="theater">Staatstheater am Gärtnerplatz</field>
+        
+		<field name="city">Munich</field>
+        
+		<field name="region">Bayern</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jagd+nach+dem+Schlarg+Wilfried+Hiller&amp;search_field=search</field>
+        
+  
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

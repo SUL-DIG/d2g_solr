@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100487</field>
+        
+		<field name="genre">Opera</field>
+               
+		<field name="title">Das kalte Herz</field>
+        
+		<field name="titleSort">kalte Herz, Das</field>
+        
+		<field name="composer">Volker David Kirchner</field>
+        
+		<field name="composerSort">Kirchner, Volker David</field>
+
+      
+
+		<field name="librettist">Marc Günther</field>
+             
+		<field name="librettistSort">Günther, Marc</field>
+
+
+
+
+<field name="librettist">Wilhelm Hauff</field>
+             
+		<field name="librettistSort">Hauff, Wilhelm</field>
+
+
+
+   
+		<field name="year">1988</field>
+         
+		<field name="date">October 27, 1988</field>
+        
+		<field name="theater">Staatstheater am Gärtnerplatz</field>
+        
+		<field name="city">Munich</field>
+        
+		<field name="region">Bayern</field>
+        
+		<field name="country">Germany</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+kalte+Herz+Volker+David+Kirchner&amp;search_field=search</field>
+        
+  
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

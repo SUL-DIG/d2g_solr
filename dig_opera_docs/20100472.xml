@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    
+	<doc>
+        
+		<field name="id">20100472</field>
+        
+		<field name="genre">Opera</field>
+              
+		<field name="title">Shadowplay</field>
+        
+		<field name="titleSort">Shadowplay</field>
+        
+		<field name="composer">Alexander Goehr</field>
+        
+		<field name="composerSort">Goehr, Alexander</field>
+
+      
+
+		<field name="librettist">Kenneth Cavander</field>
+             
+		<field name="librettistSort">Cavander, Kenneth</field>
+
+
+
+
+		<field name="librettist">Plato</field>
+             
+		<field name="librettistSort">Plato</field>
+
+
+
+   
+		<field name="year">1970</field>
+         
+		<field name="date">July 8, 1970</field>
+        
+		<field name="theater">City Temple Theatre</field>
+        
+		<field name="city">London</field>
+        
+		<field name="region">Greater London</field>
+        
+		<field name="country">United Kingdom</field>
+       
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Shadowplay+Alexander+Goehr&amp;search_field=search</field>
+         
+	</doc>
+
+</add>
+
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->
