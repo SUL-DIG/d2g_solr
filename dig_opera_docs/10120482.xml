@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10120482</field>
 <field name="genre">Opera</field>
-<field name="title">La prophète</field>
-<field name="titleSort">prophète</field>
+<field name="title">Le prophète</field>
+<field name="titleSort">prophète, Le</field>
 <field name="composer">Giacomo Meyerbeer</field>
 <field name="composerSort">Meyerbeer, Giacomo</field>
 <field name="year">1849</field>
@@ -15,6 +15,6 @@
 
 <field name="country">France</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+prophète+Giacomo+Meyerbeer&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+prophète+Giacomo+Meyerbeer&amp;search_field=search</field>
 </doc>
 </add>
