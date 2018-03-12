@@ -4,8 +4,8 @@
 <field name="genre">Opera</field>
 <field name="title">Der Müller und sein Kind</field>
 <field name="titleSort">Müller und sein Kind</field>
-<field name="composer">Franz Uij</field>
-<field name="composerSort">Uij, Franz</field>
+<field name="composer">Béla von Uij</field>
+<field name="composerSort">Uij, Béla von</field>
 <field name="year">1907</field>
 <field name="date">1907</field>
 <field name="librettist">Carl Schreder</field>
@@ -17,6 +17,6 @@
 <field name="region">Steiermark</field>
 <field name="country">Austria</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Müller+und+sein+Kind+Franz+Uij&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Müller+und+sein+Kind+Bela+Uij&amp;search_field=search</field>
 </doc>
 </add>
