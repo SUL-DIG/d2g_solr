@@ -4,8 +4,8 @@
 <field name="genre">Opera</field>
 <field name="title">Il bassа generoso</field>
 <field name="titleSort">bassа generoso</field>
-<field name="composer">Marcello Bernardini</field>
-<field name="composerSort">Bernardini, Marcello</field>
+<field name="composer">[Marcello Bernardini] Marcello di Capua</field>
+<field name="composerSort">Capua, Marcello di [Marcello Bernardini]</field>
 <field name="year">1780</field>
 <field name="date">1780</field><field name="theater">Teatro Capranica</field>
 <field name="city">Rome</field>

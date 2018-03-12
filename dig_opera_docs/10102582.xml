@@ -4,8 +4,8 @@
 <field name="genre">Opera</field>
 <field name="title">Il vecchio ringiovanito</field>
 <field name="titleSort">vecchio ringiovanito</field>
-<field name="composer">Marcello Bernardini</field>
-<field name="composerSort">Bernardini, Marcello</field>
+<field name="composer">[Marcello Bernardini] Marcello di Capua</field>
+<field name="composerSort">Capua, Marcello di [Marcello Bernardini]</field>
 <field name="year">1781</field>
 <field name="date">1781</field><field name="theater">Teatro Tordinona</field>
 <field name="city">Rome</field>

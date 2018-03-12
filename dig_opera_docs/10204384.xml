@@ -7,8 +7,8 @@
 		
 		
 		<field name="date">1772</field>
-		<field name="composer">Marcello Bernardini</field>
-		<field name="composerSort">Bernardini, Marcello</field>
+		<field name="composer">[Marcello Bernardini] Marcello di Capua</field>
+		<field name="composerSort">Capua, Marcello di [Marcello Bernardini]</field>
 		
 		
 		<field name="theater">Collegio Nazareno</field>

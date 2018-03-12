@@ -4,8 +4,8 @@
 <field name="genre">Opera</field>
 <field name="title">Le vendette giocose, o sia Il conte pasticcio</field>
 <field name="titleSort">vendette giocose, o sia Il conte pasticcio</field>
-<field name="composer">Marcello Bernardini</field>
-<field name="composerSort">Bernardini, Marcello</field>
+<field name="composer">[Marcello Bernardini] Marcello di Capua</field>
+<field name="composerSort">Capua, Marcello di [Marcello Bernardini]</field>
 <field name="year">1782</field>
 <field name="date">1782</field>
 <field name="librettist">Filippo Casari</field>

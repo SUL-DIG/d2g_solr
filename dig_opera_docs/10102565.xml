@@ -4,12 +4,12 @@
 <field name="genre">Opera</field>
 <field name="title">La fonte d'aqua gialla</field>
 <field name="titleSort">fonte d'aqua gialla</field>
-<field name="composer">Marcello Bernardini</field>
-<field name="composerSort">Bernardini, Marcello</field>
+<field name="composer">[Marcello Bernardini] Marcello di Capua</field>
+<field name="composerSort">Capua, Marcello di [Marcello Bernardini]</field>
 <field name="year">1786</field>
 <field name="date">1786</field>
-<field name="librettist">Marcello Bernardini</field>
-<field name="librettistSort">Bernardini, Marcello</field>
+<field name="librettist">[Marcello Bernardini] Marcello di Capua</field>
+<field name="librettistSort">Capua, Marcello di [Marcello Bernardini]</field>
 <field name="theater">Teatro Valle</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>

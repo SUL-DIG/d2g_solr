@@ -4,8 +4,8 @@
 <field name="genre">Opera</field>
 <field name="title">La finta sposa olandese</field>
 <field name="titleSort">finta sposa olandese</field>
-<field name="composer">Marcello Bernardini</field>
-<field name="composerSort">Bernardini, Marcello</field>
+<field name="composer">[Marcello Bernardini] Marcello di Capua</field>
+<field name="composerSort">Capua, Marcello di [Marcello Bernardini]</field>
 <field name="year">1777</field>
 <field name="date">1777</field><field name="theater">Teatro Capranica</field>
 <field name="city">Rome</field>

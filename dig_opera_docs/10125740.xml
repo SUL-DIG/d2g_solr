@@ -8,8 +8,8 @@
 <field name="composerSort">Regnault, __</field>
 <field name="year">1704</field>
 <field name="date">1704</field>
-<field name="librettist">[Pierre-François Biancolelli] Dominique</field>
-<field name="librettistSort">Dominique, [Pierre-François Biancolelli]</field>
+<field name="librettist">Pierre-François Biancolelli</field>
+<field name="librettistSort">Pierre-François Biancolelli</field>
 
 <field name="city">Lunéville</field>
 <field name="region">Meurthe-et-Moselle</field>

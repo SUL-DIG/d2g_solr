@@ -9,8 +9,8 @@
 <field name="composerSort">Martín y Soler, Vincent</field>
 <field name="year">1784</field>
 <field name="date">1784</field>
-<field name="librettist">Marcello Bernardini</field>
-<field name="librettistSort">Bernardini, Marcello</field>
+<field name="librettist">[Marcello Bernardini] Marcello di Capua</field>
+<field name="librettistSort">Capua, Marcello di [Marcello Bernardini]</field>
 <field name="theater">Teatro Grimani di San Samuele</field>
 <field name="city">Venice</field>
 <field name="region">Veneto</field>

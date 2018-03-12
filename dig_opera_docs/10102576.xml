@@ -4,8 +4,8 @@
 <field name="genre">Opera</field>
 <field name="title">La schiava astuta</field>
 <field name="titleSort">schiava astuta</field>
-<field name="composer">Marcello Bernardini</field>
-<field name="composerSort">Bernardini, Marcello</field>
+<field name="composer">[Marcello Bernardini] Marcello di Capua</field>
+<field name="composerSort">Capua, Marcello di [Marcello Bernardini]</field>
 <field name="year">1765</field>
 <field name="date">1765</field><field name="theater">Teatro delle Dame</field>
 <field name="city">Rome</field>

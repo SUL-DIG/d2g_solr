@@ -8,8 +8,8 @@
 <field name="composerSort">Borghi, Giovanni Battista</field>
 <field name="year">1770</field>
 <field name="date">1770</field>
-<field name="librettist">Marcello Bernardini</field>
-<field name="librettistSort">Bernardini, Marcello</field>
+<field name="librettist">[Marcello Bernardini] Marcello di Capua</field>
+<field name="librettistSort">Capua, Marcello di [Marcello Bernardini]</field>
 <field name="theater">Teatro Capranica</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>

@@ -10,9 +10,8 @@
 <field name="date">1882</field>
 <field name="librettist">António de Sousa Bastos</field>
 <field name="librettistSort">Bastos, António de Sousa</field>
-<field name="librettist">Costa Braga</field>
-<field name="librettistSort">Braga, Costa</field>
-
+<field name="librettist">Francisco da Costa Braga</field>
+<field name="librettistSort">Braga, Francisco da Costa</field>
 <field name="city">Rio de Janeiro</field>
 <field name="region">Rio de Janeiro</field>
 <field name="country">Brazil</field>

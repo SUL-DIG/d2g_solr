@@ -4,8 +4,8 @@
 <field name="genre">Opera</field>
 <field name="title">Pizzarro nell'Indie</field>
 <field name="titleSort">Pizzarro nell'Indie</field>
-<field name="composer">Marcello Bernardini</field>
-<field name="composerSort">Bernardini, Marcello</field>
+<field name="composer">[Marcello Bernardini] Marcello di Capua</field>
+<field name="composerSort">Capua, Marcello di [Marcello Bernardini]</field>
 <field name="year">1791</field>
 <field name="date">1791</field><field name="theater">Teatro San Carlo</field>
 <field name="city">Naples</field>

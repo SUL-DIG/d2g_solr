@@ -4,8 +4,8 @@
 <field name="genre">Opera</field>
 <field name="title">Il Don Chisciotte della Mancia</field>
 <field name="titleSort">Don Chisciotte della Mancia</field>
-<field name="composer">Marcello Bernardini</field>
-<field name="composerSort">Bernardini, Marcello</field>
+<field name="composer">[Marcello Bernardini] Marcello di Capua</field>
+<field name="composerSort">Capua, Marcello di [Marcello Bernardini]</field>
 <field name="year">1769</field>
 <field name="date">1769</field>
 <field name="librettist">Giovanni Battista Lorenzi</field>

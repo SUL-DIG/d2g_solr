@@ -4,8 +4,8 @@
 <field name="genre">Opera</field>
 <field name="title">Amore e musica</field>
 <field name="titleSort">Amore e musica</field>
-<field name="composer">Marcello Bernardini</field>
-<field name="composerSort">Bernardini, Marcello</field>
+<field name="composer">[Marcello Bernardini] Marcello di Capua</field>
+<field name="composerSort">Capua, Marcello di [Marcello Bernardini]</field>
 <field name="year">1773</field>
 <field name="date">1773</field>
 <field name="librettist">Carlo Goldoni</field>

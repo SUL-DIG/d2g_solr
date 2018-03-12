@@ -4,12 +4,12 @@
 <field name="genre">Opera</field>
 <field name="title">La donna di spirito</field>
 <field name="titleSort">donna di spirito</field>
-<field name="composer">Marcello Bernardini</field>
-<field name="composerSort">Bernardini, Marcello</field>
+<field name="composer">[Marcello Bernardini] Marcello di Capua</field>
+<field name="composerSort">Capua, Marcello di [Marcello Bernardini]</field>
 <field name="year">1770</field>
 <field name="date">1770</field>
-<field name="librettist">Marcello Bernardini</field>
-<field name="librettistSort">Bernardini, Marcello</field>
+<field name="librettist">[Marcello Bernardini] Marcello di Capua</field>
+<field name="librettistSort">Capua, Marcello di [Marcello Bernardini]</field>
 <field name="librettist">Carlo Goldoni</field>
 <field name="librettistSort">Goldoni, Carlo</field>
 <field name="theater">Teatro Capranica</field>

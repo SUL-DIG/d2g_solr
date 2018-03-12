@@ -4,8 +4,8 @@
 <field name="genre">Opera</field>
 <field name="title">La pescatrice</field>
 <field name="titleSort">pescatrice</field>
-<field name="composer">Marcello Bernardini</field>
-<field name="composerSort">Bernardini, Marcello</field>
+<field name="composer">[Marcello Bernardini] Marcello di Capua</field>
+<field name="composerSort">Capua, Marcello di [Marcello Bernardini]</field>
 <field name="year">1768</field>
 <field name="date">1768</field>
 <field name="librettist">Filippo Accoramboni</field>
