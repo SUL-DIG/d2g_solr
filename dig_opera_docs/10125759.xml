@@ -10,8 +10,8 @@
 <field name="date">1822</field>
 <field name="librettist">Hippolyte Cournol</field>
 <field name="librettistSort">Cournol, Hippolyte</field>
-<field name="librettist">Adolphe Joseph Simonis Empis</field>
-<field name="librettistSort">Empis, Adolphe Joseph Simonis</field>
+<field name="librettist">Adolphe-Simonis Empis</field>
+<field name="librettistSort">Empis, Adolphe-Simonis</field>
 <field name="theater">Opéra</field>
 <field name="city">Paris</field>
 

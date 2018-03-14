@@ -10,8 +10,8 @@
 <field name="date">1789</field>
 <field name="librettist">Johan Gabriel Oxenstierna</field>
 <field name="librettistSort">Oxenstierna, Johan Gabriel</field>
-<field name="librettist">Charles Simon Favart</field>
-<field name="librettistSort">Favart, Charles Simon</field>
+<field name="librettist">Charles-Simon Favart</field>
+<field name="librettistSort">Favart, Charles-Simon</field>
 <field name="theater">Kungliga Teatern</field>
 <field name="city">Stockholm</field>
 <field name="region">Stockholm</field>

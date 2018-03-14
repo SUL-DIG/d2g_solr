@@ -11,8 +11,8 @@
 <field name="date">1825</field>
 <field name="librettist">Auguste Lepoitevin de L'Égreville</field>
 <field name="librettistSort">Lepoitevin de L'Égreville, Auguste</field>
-<field name="librettist">Jean-Baptiste-Rose-Bonaventure de Violet d'Épagny</field>
-<field name="librettistSort">Épagny, Jean-Baptiste-Rose-Bonaventure de Violet d'</field>
+<field name="librettist">[Jean-Baptiste Viollet] d'Épagny</field>
+<field name="librettistSort">Épagny, d' [Jean-Baptiste Viollet]</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 

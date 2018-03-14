@@ -4,12 +4,12 @@
 <field name="genre">Opera</field>
 <field name="title">Une nuit au poste</field>
 <field name="titleSort">nuit au poste</field>
-<field name="composer">[Eugène-Joseph Déjazet] Edé</field>
-<field name="composerSort">Edé, [Eugène-Joseph Déjazet]</field>
+<field name="composer">[Eugène Déjazet] Edé</field>
+<field name="composerSort">Edé, [Eugène Déjazet]</field>
 <field name="year">1875</field>
 <field name="date">1875</field>
-<field name="librettist">[Eugène-Joseph Déjazet] Edé</field>
-<field name="librettistSort">Edé, [Eugène-Joseph Déjazet]</field>
+<field name="librettist">[Eugène Déjazet] Edé</field>
+<field name="librettistSort">Edé, [Eugène Déjazet]</field>
 <field name="theater">Théâtre des Folies-Bergère</field>
 <field name="city">Paris</field>
 
