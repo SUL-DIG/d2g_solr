@@ -9,8 +9,8 @@
 		<field name="date">1764</field>
 		<field name="composer">Francesco Zannetti</field>
 		<field name="composerSort">Zannetti, Francesco</field>
-		<field name="librettist">AntonMaria Crescioli</field>
-		<field name="librettistSort">Crescioli, AntonMaria</field>
+		<field name="librettist">Anton Maria Crescioli</field>
+		<field name="librettistSort">Crescioli, Anton Maria</field>
 		
 		<field name="theater">Seminario e Collegio</field>
 		<field name="city">Cittа di Castello</field>

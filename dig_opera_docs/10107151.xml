@@ -4,8 +4,8 @@
 <field name="genre">Opera</field>
 <field name="title">Les fiançées de Messine</field>
 <field name="titleSort">fiançées de Messine</field>
-<field name="composer">[Sophie Lacout] Abel Darvey</field>
-<field name="composerSort">Darvey, Abel [Sophie Lacout]</field>
+<field name="composer">[Sophie Lacout-Widmer] Abel Darvey</field>
+<field name="composerSort">Darvey, Abel [Sophie Lacout-Widmer]</field>
 <field name="year">1905</field>
 <field name="date">1905</field>
 <field name="librettist">__ Midèr</field>

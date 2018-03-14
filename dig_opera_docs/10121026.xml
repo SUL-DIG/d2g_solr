@@ -10,8 +10,8 @@
 <field name="date">1845</field>
 <field name="librettist">Eugène Scribe</field>
 <field name="librettistSort">Scribe, Eugène</field>
-<field name="librettist">Alexis Barbe Benoît Decomberousse</field>
-<field name="librettistSort">Decomberousse, Alexis Barbe Benoît</field>
+<field name="librettist">Alexis Decomberousse</field>
+<field name="librettistSort">Decomberousse, Alexis</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 

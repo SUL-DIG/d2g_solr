@@ -5,8 +5,8 @@
 <field name="genre">Opera</field>
 <field name="title">Le mariage par imprudence</field>
 <field name="titleSort">mariage par imprudence</field>
-<field name="composer">Martin Pierre Dalvimare</field>
-<field name="composerSort">Dalvimare, Martin Pierre</field>
+<field name="composer">Martin-Pierre Dalvimare</field>
+<field name="composerSort">Dalvimare, Martin-Pierre</field>
 <field name="year">1809</field>
 <field name="date">1809</field>
 <field name="librettist">Étienne de Jouy</field>

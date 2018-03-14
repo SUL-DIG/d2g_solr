@@ -18,6 +18,6 @@
 
 <field name="country">France</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+famille+réunie+Pierre-David-Augustin+Chapelle&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+famille+réunie+Augustin+Chapelle&amp;search_field=search</field>
 </doc>
 </add>

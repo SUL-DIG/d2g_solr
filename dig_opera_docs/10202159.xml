@@ -9,8 +9,8 @@
 		<field name="date">1783</field>
 		<field name="composer">Henri-Joseph Rigel</field>
 		<field name="composerSort">Rigel, Henri-Joseph</field>
-		<field name="librettist">Louis Hurtaut Dancourt</field>
-		<field name="librettistSort">Dancourt, Louis Hurtaut</field>
+		<field name="librettist">Louis-Hurtaut Dancourt</field>
+		<field name="librettistSort">Dancourt, Louis-Hurtaut</field>
 		
 		<field name="theater">Concert spirituel</field>
 		<field name="city">Paris</field>
