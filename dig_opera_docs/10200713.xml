@@ -9,8 +9,8 @@
 		<field name="date">1708</field>
 		<field name="composer">Carlo Francesco Pollarolo</field>
 		<field name="composerSort">Pollarolo, Carlo Francesco</field>
-		<field name="librettist">Pio Alessandro Ginori</field>
-		<field name="librettistSort">Ginori, Pio Alessandro</field>
+		<field name="librettist">Piero Alessandro Ginori</field>
+		<field name="librettistSort">Ginori, Piero Alessandro</field>
 		
 		<field name="theater">Palazzo della Cancelleria</field>
 		<field name="city">Rome</field>

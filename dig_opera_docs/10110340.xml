@@ -11,8 +11,8 @@
 <field name="date">1901</field>
 <field name="librettist">Jules Oudot</field>
 <field name="librettistSort">Oudot, Jules</field>
-<field name="librettist">Georges Auguste Fragerolle</field>
-<field name="librettistSort">Fragerolle, Georges Auguste</field>
+<field name="librettist">Georges Fragerolle</field>
+<field name="librettistSort">Fragerolle, Georges</field>
 <field name="theater">Théâtre de la Bodinière</field>
 <field name="city">Paris</field>
 

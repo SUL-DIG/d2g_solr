@@ -9,8 +9,8 @@
 		<field name="date">May 14, 1896</field>
 		<field name="composer">Bruce Steane</field>
 		<field name="composerSort">Steane, Bruce</field>
-		<field name="librettist">Gresham F. Gillett</field>
-		<field name="librettistSort">Gillett, Gresham F.</field>
+		<field name="librettist">Gresham Francis Gillett</field>
+		<field name="librettistSort">Gillett, Gresham Francis</field>
 		
 		<field name="theater">Calvary Church</field>
 		<field name="city">Philadelphia</field>

@@ -9,8 +9,8 @@
 		<field name="date">1835</field>
 		<field name="composer">Friedrich Schneider</field>
 		<field name="composerSort">Schneider, Friedrich</field>
-		<field name="librettist">__ Gelske</field>
-		<field name="librettistSort">Gelske, __</field>
+		<field name="librettist">Ferdinand Gelbke</field>
+		<field name="librettistSort">Gelbke, Ferdinand</field>
 		
 		<field name="theater">Musikfeste des Vereins der Elbstädte</field>
 		<field name="city">Dessau</field>

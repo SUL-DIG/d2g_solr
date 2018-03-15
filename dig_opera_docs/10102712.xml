@@ -10,8 +10,8 @@
 <field name="date">1803</field>
 <field name="librettist">Jean-Baptiste-Charles Vial</field>
 <field name="librettistSort">Vial, Jean-Baptiste-Charles</field>
-<field name="librettist">Edmond-Guillaume-François de Favières</field>
-<field name="librettistSort">Favières, Edmond-Guillaume-François de</field>
+<field name="librettist">Edmond de Favières</field>
+<field name="librettistSort">Favières, Edmond de</field> 
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 
