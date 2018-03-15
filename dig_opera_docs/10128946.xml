@@ -10,8 +10,8 @@
 <field name="date">1899</field>
 <field name="librettist">Franz Servais</field>
 <field name="librettistSort">Servais, Franz</field>
-<field name="librettist">Charles Marie René Leconte DeLisle</field>
-<field name="librettistSort">Leconte DeLisle, Charles Marie René</field>
+<field name="librettist">Charles-Marie Leconte De Lisle</field>
+<field name="librettistSort">Leconte De Lisle, Charles-Marie</field>
 <field name="theater">Grossherzogliches Hoftheater</field>
 <field name="city">Karlsruhe</field>
 <field name="region">Baden-Württemberg</field>

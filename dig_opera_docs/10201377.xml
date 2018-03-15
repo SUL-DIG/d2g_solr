@@ -9,8 +9,8 @@
 		<field name="date">March 20, 1895</field>
 		<field name="composer">Paul Gilson</field>
 		<field name="composerSort">Gilson, Paul</field>
-		<field name="librettist">Jules Guilliaume</field>
-		<field name="librettistSort">Guilliaume, Jules</field>
+		<field name="librettist">Jules Guillaume</field>
+		<field name="librettistSort">Guillaume, Jules</field>
 		
 		<field name="theater">Concerts Populaires de Musique Classique</field>
 		<field name="city">Brussels</field>

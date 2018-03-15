@@ -7,8 +7,8 @@
 		
 		
 		
-		<field name="composer">Louis-François-Henri Lefebvre</field>
-		<field name="composerSort">Lefebvre, Louis-François-Henri</field>
+		<field name="composer">Louis-François-Henri Lefébure</field>
+		<field name="composerSort">Lefébure, Louis-François-Henri</field>
 		
 		
 		
@@ -18,5 +18,5 @@
 		<field name="subject">Cambyses</field>
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cambyse+Louis-François-Henri+Lefebvre&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cambyse+Louis-François-Henri+Lefébure&amp;search_field=search</field>
 	</doc></add>

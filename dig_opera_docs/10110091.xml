@@ -8,10 +8,10 @@
 <field name="composerSort">Flotow, Friedrich</field>
 <field name="year">1838</field>
 <field name="date">1838</field>
-<field name="librettist">François de la Bouillerie</field>
-<field name="librettistSort">Bouillerie, François de la</field>
-<field name="librettist">Charles de la Bouillerie</field>
-<field name="librettistSort">Bouillerie, Charles de la</field>
+<field name="librettist">François de La Bouillerie</field>
+<field name="librettistSort">Bouillerie, François de La</field>
+<field name="librettist">Charles de La Bouillerie</field>
+<field name="librettistSort">Bouillerie, Charles de La</field>
 
 <field name="city">Rougemont-le-Château</field>
 <field name="region">Belfort</field>

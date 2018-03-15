@@ -11,8 +11,8 @@
 <field name="date">1779</field>
 <field name="librettist">Pierre-René Lemonnier</field>
 <field name="librettistSort">Lemonnier, Pierre-René</field>
-<field name="librettist">Ferdinand de Laboullaye</field>
-<field name="librettistSort">Laboullaye, Ferdinand de</field>
+<field name="librettist">__ La Boullaye</field>
+<field name="librettistSort">La Boullaye, __</field>
 <field name="theater">Opéra</field>
 <field name="city">Paris</field>
 

@@ -7,10 +7,10 @@
 		
 		
 		
-		<field name="composer">Louis-François-Henri Lefebvre</field>
-		<field name="composerSort">Lefebvre, Louis-François-Henri</field>
-		<field name="librettist">Louis-François-Henri Lefebvre</field>
-		<field name="librettistSort">Lefebvre, Louis-François-He</field>
+		<field name="composer">Louis-François-Henri Lefébure</field>
+		<field name="composerSort">Lefébure, Louis-François-Henri</field>
+		<field name="librettist">Louis-François-Henri Lefébure</field>
+		<field name="librettistSort">Lefébure, Louis-François-He</field>
 		
 		
 		
@@ -19,5 +19,5 @@
 		<field name="subject">Cain and Abel</field>
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Abel+et+Cain+Louis-François-Henri+Lefebvre&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Abel+et+Cain+Louis-François-Henri+Lefébure&amp;search_field=search</field>
 	</doc></add>

@@ -5,8 +5,8 @@
 <field name="genre">Opera</field>
 <field name="title">L'amant corsaire</field>
 <field name="titleSort">amant corsaire</field>
-<field name="composer">Adrien-Nicolas de La Salle</field>
-<field name="composerSort">La Salle, Adrien-Nicolas de</field>
+<field name="composer">Adrien-Nicolas La Salle</field>
+<field name="composerSort">La Salle, Adrien-Nicolas</field>
 <field name="year">1762</field>
 <field name="date">1762</field>
 <field name="librettist">Louis Anseaume</field>
@@ -18,6 +18,6 @@
 
 <field name="country">France</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amant+corsaire+Adrien-Nicolas+de+La+Salle&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amant+corsaire+Adrien-Nicolas+La+Salle&amp;search_field=search</field>
 </doc>
 </add>

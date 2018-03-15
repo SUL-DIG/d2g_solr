@@ -9,8 +9,8 @@
 		<field name="date">1888</field>
 		<field name="composer">Giuseppe Vigoni</field>
 		<field name="composerSort">Vigoni, Giuseppe</field>
-		<field name="librettist">Vito Jacomo</field>
-		<field name="librettistSort">Jacomo, Vito</field>
+		<field name="librettist">Vito Jacono</field>
+		<field name="librettistSort">Jacono, Vito</field>
 		<field name="theater">Duomo di Santa Maria La Nuova</field>
 		
 		<field name="city">Chiaramonte Gulfi</field>

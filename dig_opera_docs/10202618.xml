@@ -9,8 +9,8 @@
 		<field name="date">1951</field>
 		<field name="composer">Norbert Rosseau</field>
 		<field name="composerSort">Rosseau, Norbert</field>
-		<field name="librettist">G. Heldenrenberg</field>
-		<field name="librettistSort">Heldenrenberg, G.</field>
+		<field name="librettist">Gery Heldenrenberg</field>
+		<field name="librettistSort">Heldenrenberg, Gery</field>
 		
 		<field name="theater">Onze-Lieve-Vrouw van Kerselare</field>
 		<field name="city">Oudenaarde</field>
