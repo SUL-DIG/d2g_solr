@@ -8,10 +8,10 @@
 <field name="composerSort">Léveillé, Auguste</field>
 <field name="year">1880</field>
 <field name="date">1880</field>
-<field name="librettist">__ Sauger</field>
-<field name="librettistSort">Sauger, __</field>
-<field name="librettist">__ Averpoul</field>
-<field name="librettistSort">Averpoul, __</field>
+<field name="librettist">Gustave Sauger</field>
+<field name="librettistSort">Sauger, Gustave</field>
+<field name="librettist">Henri Queyroul</field>
+<field name="librettistSort">Queyroul, Henri</field>
 <field name="theater">Café-concert de la Scala</field>
 <field name="city">Paris</field>
 

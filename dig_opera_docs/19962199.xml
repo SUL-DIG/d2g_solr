@@ -7,8 +7,8 @@
 <field name="composer">Vincent Fosse</field>
 <field name="composerSort">Fosse, Vincent</field>
 <field name="year">1898</field>
-<field name="librettist">__ Saint-Henry</field>
-<field name="librettistSort">Saint-Henry, __</field>
+<field name="librettist">[Pierre-Paul Roux] Saint-Paul Roux</field>
+<field name="librettistSort">Roux, Saint-Paul [Pierre-Paul Roux]</field>
 <field name="theater">Théâtre des Variétés</field>
 <field name="city">Marseille</field>
 <field name="region">Bouches-du-Rhône</field>

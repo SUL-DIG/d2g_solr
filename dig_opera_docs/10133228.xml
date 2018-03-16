@@ -4,12 +4,12 @@
 <field name="genre">Opera</field>
 <field name="title">Pan Tadeusz</field>
 <field name="titleSort">Pan Tadeusz</field>
-<field name="composer">Jan Tomasz Wydzga</field>
-<field name="composerSort">Wydzga, Jan Tomasz</field>
+<field name="composer">Jan Tomasz Wydżga</field>
+<field name="composerSort">Wydżga, Jan Tomasz</field>
 <field name="year">1907</field>
 <field name="date">1907</field>
-<field name="librettist">Jan Tomasz Wydzga</field>
-<field name="librettistSort">Wydzga, Jan Tomasz</field>
+<field name="librettist">Jan Tomasz Wydżga</field>
+<field name="librettistSort">Wydżga, Jan Tomasz</field>
 <field name="librettist">Adam Mickiewicz</field>
 <field name="librettistSort">Mickiewicz, Adam</field>
 <field name="theater">Teatr Miejski</field>
@@ -17,6 +17,6 @@
 <field name="region">L'vivs'ka Oblast</field>
 <field name="country">Ukraine</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pan+Tadeusz+Jan+Tomasz+Wydzga&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pan+Tadeusz+Jan+Tomasz+Wydżga&amp;search_field=search</field>
 </doc>
 </add>

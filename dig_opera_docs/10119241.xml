@@ -8,8 +8,8 @@
 <field name="composerSort">Marais, Marin</field>
 <field name="year">1696</field>
 <field name="date">1696</field>
-<field name="librettist">__ Saint-Jean (1)</field>
-<field name="librettistSort">Saint-Jean (1), __</field>
+<field name="librettist">__ Saint-Jean</field>
+<field name="librettistSort">Saint-Jean, __</field>
 <field name="theater">Opéra</field>
 <field name="city">Paris</field>
 

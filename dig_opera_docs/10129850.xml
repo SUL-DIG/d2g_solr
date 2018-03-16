@@ -9,8 +9,8 @@
 <field name="composerSort">Stephănescu, George</field>
 <field name="year">1900</field>
 <field name="date">1900</field>
-<field name="librettist">Teodor D. Sperantia</field>
-<field name="librettistSort">Sperantia, Teodor D.</field>
+<field name="librettist">Theodor Dimitrie Speranţia</field>
+<field name="librettistSort">Speranţia, Theodor Dimitrie</field>
 
 <field name="subgenre">Operetta</field>
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cometa+George+Stephanescu&amp;search_field=search</field>

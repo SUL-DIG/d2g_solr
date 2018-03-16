@@ -9,8 +9,8 @@
 <field name="year">1997</field>
 <field name="librettist">Caroline Gautier</field>
 <field name="librettistSort">Gautier, Caroline</field>
-<field name="librettist">Sophie, Comtesse de Ségur</field>
-<field name="librettistSort">Ségur, Sophie, Comtesse de</field>
+<field name="librettist">Sophie de Ségur</field>
+<field name="librettistSort">Ségur, Sophie de</field>
 <field name="theater">Opéra Bastille Amphithéâtre</field>
 <field name="city">Paris</field>
 <field name="country">France</field>

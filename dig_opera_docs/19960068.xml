@@ -4,16 +4,16 @@
 <field name="genre">Opera</field>
 <field name="title">Abinadi</field>
 <field name="titleSort">Abinadi</field>
-<field name="composer">M. Ryan Taylor</field>
-<field name="composerSort">Taylor, M. Ryan</field>
+<field name="composer">Meredith Ryan Taylor</field>
+<field name="composerSort">Taylor, Meredith Ryan</field>
 <field name="year">2003</field>
 <field name="date">October 24, 2003</field>
-<field name="librettist">M. Ryan Taylor</field>
-<field name="librettistSort">Taylor, M. Ryan</field>
+<field name="librettist">Meredith Ryan Taylor</field>
+<field name="librettistSort">Taylor, Meredith Ryan</field>
 <field name="theater">Brigham Young University</field>
 <field name="city">Provo</field>
 <field name="region">Utah</field>
 <field name="country">United States</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Abinadi+M.+Ryan+Taylor&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Abinadi+Meredith+Ryan+Taylor&amp;search_field=search</field>
 </doc>
 </add>

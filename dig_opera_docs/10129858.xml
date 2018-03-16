@@ -4,8 +4,8 @@
 <field name="genre">Opera</field>
 <field name="title">La madre slava</field>
 <field name="titleSort">madre slava</field>
-<field name="composer">Nicolò Stermich</field>
-<field name="composerSort">Stermich, Nicolò</field>
+<field name="composer">Nicolo Stermich</field>
+<field name="composerSort">Stermich, Nicolo</field>
 <field name="year">1865</field>
 <field name="date">1865</field>
 <field name="librettist">Luigi Fichert</field>
@@ -15,6 +15,6 @@
 <field name="region">Friuli-Venezia Giulia</field>
 <field name="country">Italy</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+madre+slava+Nicolò+Stermich&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+madre+slava+Nicolo+Stermich&amp;search_field=search</field>
 </doc>
 </add>
