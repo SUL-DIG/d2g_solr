@@ -10,8 +10,8 @@
 <field name="date">1946</field>
 <field name="librettist">Charles Clerc</field>
 <field name="librettistSort">Clerc, Charles</field>
-<field name="librettist">Pierre Carlet de Chamblain de Marivaux</field>
-<field name="librettistSort">Marivaux, Pierre Carlet de Chamblain de</field>
+<field name="librettist">Pierre de Marivaux</field>
+<field name="librettistSort">Marivaux, Pierre de</field>
 <field name="theater">Conservatoire Nationale</field>
 <field name="city">Paris</field>
 

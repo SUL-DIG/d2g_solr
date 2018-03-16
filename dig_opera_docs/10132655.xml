@@ -10,8 +10,8 @@
 <field name="date">1808</field>
 <field name="librettist">Luigi Romanelli</field>
 <field name="librettistSort">Romanelli, Luigi</field>
-<field name="librettist">Charles-Antoine-Guillaume Pigault-Lebrun</field>
-<field name="librettistSort">Pigault-Lebrun, Charles-Antoine-Guillaume</field>
+<field name="librettist">[Charles Pigault de L'Épinoy] Pigault-Lebrun</field>
+<field name="librettistSort">[Charles Pigault de L'Épinoy] Pigault-Lebrun</field>
 <field name="theater">Teatro alla Scala</field>
 <field name="city">Milan</field>
 <field name="region">Lombardia</field>

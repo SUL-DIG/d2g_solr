@@ -10,8 +10,8 @@
 <field name="date">1856</field>
 <field name="librettist">[Louis Morel-Retz] Stop</field>
 <field name="librettistSort">Stop, [Louis Morel-Retz]</field>
-<field name="librettist">Robert Muяs</field>
-<field name="librettistSort">Muяs, Robert</field>
+<field name="librettist">Robert Muÿs</field>
+<field name="librettistSort">Muÿs, Robert</field>
 <field name="theater">Salon</field>
 <field name="city">Paris</field>
 

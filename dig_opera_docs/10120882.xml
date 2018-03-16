@@ -5,8 +5,8 @@
 <field name="genre">Opera</field>
 <field name="title">Les fêtes de Paphos</field>
 <field name="titleSort">fêtes de Paphos</field>
-<field name="composer">Jean-Joseph Cassanéa de Mondonville</field>
-<field name="composerSort">Mondonville, Jean-Joseph Cassanéa de</field>
+<field name="composer">Jean-Joseph de Mondonville</field>
+<field name="composerSort">Mondonville, Jean-Joseph de</field>
 <field name="year">1758</field>
 <field name="date">1758</field>
 <field name="librettist">Charles Collé</field>
@@ -18,6 +18,6 @@
 
 <field name="country">France</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+fêtes+de+Paphos+Jean-Joseph+Cassanéa+de+Mondonville&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+fêtes+de+Paphos+Jean-Joseph+de+Mondonville&amp;search_field=search</field>
 </doc>
 </add>

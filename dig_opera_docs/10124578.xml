@@ -8,10 +8,10 @@
 <field name="composerSort">Poise, Ferdinand</field>
 <field name="year">1877</field>
 <field name="date">1877</field>
-<field name="librettist">Charles Pierre Monselet</field>
-<field name="librettistSort">Monselet, Charles Pierre</field>
-<field name="librettist">Pierre Carlet de Chamblain de Marivaux</field>
-<field name="librettistSort">Marivaux, Pierre Carlet de Chamblain de</field>
+<field name="librettist">Charles Monselet</field>
+<field name="librettistSort">Monselet, Charles</field>
+<field name="librettist">Pierre de Marivaux</field>
+<field name="librettistSort">Marivaux, Pierre de</field>
 <field name="theater">Opéra-Comique</field>
 <field name="city">Paris</field>
 

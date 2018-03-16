@@ -10,8 +10,8 @@
 <field name="date">1822</field>
 <field name="librettist">Jacopo Ferretti</field>
 <field name="librettistSort">Ferretti, Jacopo</field>
-<field name="librettist">Charles-Antoine-Guillaume Pigault-Lebrun</field>
-<field name="librettistSort">Pigault-Lebrun, Charles-Antoine-Guillaume</field>
+<field name="librettist">[Charles Pigault de L'Épinoy] Pigault-Lebrun</field>
+<field name="librettistSort">Pigault-Lebrun, [Charles Pigault de L'Épinoy]</field>
 <field name="theater">Teatro di via della Torre Argentina</field>
 <field name="city">Rome</field>
 <field name="region">Lazio</field>

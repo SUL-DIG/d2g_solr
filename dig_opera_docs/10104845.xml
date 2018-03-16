@@ -10,8 +10,8 @@
 <field name="date">1803</field>
 <field name="librettist">Matthias Georg Lambrecht</field>
 <field name="librettistSort">Lambrecht, Matthias Georg</field>
-<field name="librettist">Charles-Antoine-Guillaume Pigault-Lebrun</field>
-<field name="librettistSort">Pigault-Lebrun, Charles-Antoine-Guillaume</field>
+<field name="librettist">[Charles Pigault de L'Épinoy] Pigault-Lebrun</field>
+<field name="librettistSort">Pigault-Lebrun, [Charles Pigault de L'Épinoy]</field>
 <field name="theater">Residenztheater (Cuvilliéstheater)</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>

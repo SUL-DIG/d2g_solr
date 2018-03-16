@@ -10,8 +10,8 @@
 <field name="date">1980</field>
 <field name="librettist">Gerhard Hartmann</field>
 <field name="librettistSort">Hartmann, Gerhard</field>
-<field name="librettist">Pierre Carlet de Chamblain de Marivaux</field>
-<field name="librettistSort">Marivaux, Pierre Carlet de Chamblain de</field>
+<field name="librettist">Pierre de Marivaux</field>
+<field name="librettistSort">Marivaux, Pierre de</field>
 <field name="theater">Schlosstheater im Neuen Palais</field>
 <field name="city">Potsdam</field>
 <field name="region">Brandenburg</field>

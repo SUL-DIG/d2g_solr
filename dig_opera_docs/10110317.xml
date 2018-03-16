@@ -10,8 +10,8 @@
 <field name="date">1919</field>
 <field name="librettist">Paul Saint</field>
 <field name="librettistSort">Saint, Paul</field>
-<field name="librettist">J. Marc-Py</field>
-<field name="librettistSort">Marc-Py, J.</field>
+<field name="librettist">[Jean Marcel François Py] J. Marc-Py</field>
+<field name="librettistSort">Marc-Py, J. [Jean Marcel François Py]</field>
 <field name="theater">Théâtre Trianon-Lyrique</field>
 <field name="city">Paris</field>
 

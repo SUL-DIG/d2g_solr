@@ -8,8 +8,8 @@
 		
 		
 		<field name="date">1758</field>
-		<field name="composer">Jean-Joseph Cassanéa de Mondonville</field>
-		<field name="composerSort">Mondonville, Jean-Joseph Cassanéa de</field>
+		<field name="composer">Jean-Joseph de Mondonville</field>
+		<field name="composerSort">Mondonville, Jean-Joseph de</field>
 		<field name="librettist">Claude-Henri de Fusée de Voisenon</field>
 		<field name="librettistSort">Voisenon , Claude-Henri de Fusée de</field>
 		
@@ -20,5 +20,5 @@
 		<field name="subject">The Golden Calf</field>
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+Israélites+а+la+montagne+d'Oreb+Jean-Joseph+Cassanéa+de+Mondonville&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+Israélites+а+la+montagne+d'Oreb+Jean-Joseph+de+Mondonville&amp;search_field=search</field>
 	</doc></add>
