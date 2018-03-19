@@ -6,14 +6,16 @@
 <field name="titleSort">lutin de Culloden</field>
 <field name="composer">[Aron Wolf] Anton Berlijn</field>
 <field name="composerSort">Berlijn, [Aron Wolf] Anton</field>
-<field name="year">1845</field>
-<field name="date">1845</field>
+<field name="year">1846</field>
+<field name="month">May</field>
+		<field name="day">3</field>
+<field name="date">May 3, 1846</field>
 <field name="librettist">Charles Loery</field>
 <field name="librettistSort">Loery, Charles</field>
-<field name="theater">Théâtre de l'Amstelstraat</field>
-<field name="city">Amsterdam</field>
-<field name="region">Noord Holland</field>
-<field name="country">Netherlands</field>
+<field name="theater">Salle Herz</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+lutin+de+Culloden+Aron+Wolf+Anton+Berlijn&amp;search_field=search</field>
 </doc>

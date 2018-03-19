@@ -11,7 +11,11 @@
 		<field name="composerSort">Groebl, Franz</field>
 		
 		
-		
+		<field name="theater">Pine Street Church</field>
+		<field name="city">Philadelphia</field>
+		<!-- We use the region field for states or regions. -->
+		<field name="region">Pennsylvania</field>
+		<field name="country">United States</field>
 		
 		
 		

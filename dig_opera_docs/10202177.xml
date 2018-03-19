@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10202177</field>
 		<field name="genre">Oratorio</field>
+		<field name="subject">Christ</field>
 		<field name="title">Jesu födelse</field>
 		<field name="titleSort">Jesu födelse</field>
 		<field name="year">1888</field>
+		<field name="month">February</field>
+		<field name="day">2</field>
 		
-		
-		<field name="date">1888</field>
+		<field name="date">February 2, 1888</field>
 		<field name="composer">Gunar Wennerberg</field>
 		<field name="composerSort">Wennerberg, Gunar</field>
 		
-		
-		
-		
-		
-		
-		<field name="subject">Christ</field>
+		<field name="theater">Musikföreningen</field>
+		<field name="city">Stockholm</field>
+		<!-- We use the region field for states or regions. -->
+		<field name="region">Stockholm</field>
+		<field name="country">Sweden</field>
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jesu+födelse+Gunar+Wennerberg&amp;search_field=search</field>

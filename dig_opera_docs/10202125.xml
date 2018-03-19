@@ -3,20 +3,20 @@
 		<field name="genre">Oratorio</field>
 		<field name="title">Jairus</field>
 		<field name="titleSort">Jairus</field>
-		<field name="year">1913</field>
+		<field name="year">1914</field>
 		
 		
-		<field name="date">1913</field>
+		<field name="date">1914</field>
 		<field name="composer">Fritz Zierau</field>
 		<field name="composerSort">Zierau, Fritz</field>
-		
-		
-		
-		
+	
 		
 		
 		<field name="subject">Jairus</field>
-		
+		<field name="city">Magdeburg</field>
+		<!-- We use the region field for states or regions. -->
+		<field name="region">Sachsen-Anhalt</field>
+		<field name="country">Germany</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jairus+Fritz+Zierau&amp;search_field=search</field>
 	</doc></add>

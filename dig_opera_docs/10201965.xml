@@ -3,17 +3,18 @@
 		<field name="genre">Oratorio</field>
 		<field name="title">In jungen Tagen</field>
 		<field name="titleSort">In jungen Tagen</field>
-		<field name="year">1928</field>
+		<field name="year">1926</field>
+			<field name="month">February</field>
+		<field name="day">26</field>
 		
-		
-		<field name="date">1928</field>
+		<field name="date">February 26, 1926</field>
 		<field name="composer">Gerhard von Keussler</field>
 		<field name="composerSort">Keussler, Gerhard von</field>
 		
-		
-		
-		
-		
+		<field name="city">Heidelberg</field>
+		<!-- We use the region field for states or regions. -->
+		<field name="region">Baden-Württemberg</field>
+		<field name="country">Germany</field>
 		
 		<field name="subject">The Last Judgment</field>
 		

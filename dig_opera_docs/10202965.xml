@@ -3,15 +3,20 @@
 		<field name="genre">Oratorio</field>
 		<field name="title">Nehemiah</field>
 		<field name="titleSort">Nehemiah</field>
-		<field name="year">1885</field>
+		<field name="year">1879</field>
 		
 		
-		<field name="date">1885</field>
+		<field name="date">1879</field>
 		<field name="composer">Horace Hill</field>
 		<field name="composerSort">Hill, Horace</field>
+		<field name="librettist">Horace Hill</field>
+		<field name="lbrettistSort">Hill, Horace</field>
 		
-		
-		
+		<field name="theater">Corn Hall</field>
+		<field name="city">Diss</field>
+		<!-- We use the region field for states or regions. -->
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
 		
 		
 		

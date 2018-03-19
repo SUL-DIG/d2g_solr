@@ -4,7 +4,8 @@
 		<field name="title">Un trionfo dell'agnello</field>
 		<field name="titleSort">Un trionfo dell'agnello</field>
 		<field name="year">1904</field>
-		
+		<field name="month">December</field>
+		<field name="day">16</field>
 		
 		<field name="date">December 16, 1904</field>
 		<field name="composer">Federico Chiesa</field>
@@ -12,7 +13,10 @@
 		
 		<field name="theater">Sala di Via Signoria</field>
 		
-		
+		<field name="city">Milan</field>
+		<!-- We use the region field for states or regions. -->
+		<field name="region">Lombardia</field>
+		<field name="country">Italy</field>
 		
 		
 		<field name="subject">The Lamb of God</field>

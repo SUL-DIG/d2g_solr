@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203150</field>
 		<field name="genre">Oratorio</field>
-		<field name="title">Otto</field>
-		<field name="titleSort">Otto</field>
+		<field name="title">Otto der Grosse</field>
+		<field name="titleSort">Otto der Grosse</field>
 		<field name="year">1890</field>
 		
 		
 		<field name="date">1890</field>
-		<field name="composer">Carl Adolf Lorenz</field>
-		<field name="composerSort">Lorenz, Carl Adolf</field>
+		<field name="composer">Karl Adolf Lorenz</field>
+		<field name="composerSort">Lorenz, Karl Adolf</field>
 		
 		
-		
+		<field name="librettist">[Ernst Otto Konrad Zitelmann] Konrad Telmann</field>
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
+		<field name="librettistSort">Telmann, Konrad [Ernst Otto Konrad Zitelmann]</field>
 		
 		
 		

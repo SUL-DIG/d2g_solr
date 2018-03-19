@@ -4,13 +4,18 @@
 		<field name="title">The Waldenses</field>
 		<field name="titleSort">Waldenses</field>
 		<field name="year">1852</field>
+		<field name="month">June 16</field>
+		<field name="day">16</field>
 		
-		
-		<field name="date">1852</field>
+		<field name="date">June 16, 1852</field>
 		<field name="composer">Asahel Abbot</field>
 		<field name="composerSort">Abbot, Asahel</field>
 		
-		
+		<field name="theater">New York Harmonic Society</field>
+		<field name="city">New York</field>
+		<!-- We use the region field for states or regions. -->
+		<field name="region">New York</field>
+		<field name="country">United States</field>
 		
 		
 		

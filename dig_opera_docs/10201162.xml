@@ -12,7 +12,11 @@
 		
 		
 		
-		
+		<field name="theater">Thomaskirche</field>
+		<field name="city">Strasbourg</field>
+		<!-- We use the region field for states or regions. -->
+		<field name="region">Bas-Rhin</field>
+		<field name="country">France</field>
 		
 		
 		

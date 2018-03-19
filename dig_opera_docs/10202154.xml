@@ -1,21 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10202154</field>
 		<field name="genre">Oratorio</field>
+		<field name="subject">Jephthah</field>
 		<field name="title">Jephtas Tochter</field>
 		<field name="titleSort">Jephtas Tochter</field>
 		
 		
-		
+		<field name="year">1862</field>
+		<field name="month">April</field>
+		<field name="day">6</field>
+		<!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
+		<field name="date">April 6, 1862</field>
+
 		
 		<field name="composer">Adolf Jensen</field>
 		<field name="composerSort">Jensen, Adolf</field>
 		
 		
 		
+		<field name="theater">Musikalischen Akademie</field>
+		<field name="city">Kaliningrad</field>
+		<!-- We use the region field for states or regions. -->
+		<field name="region">Kaliningrad Oblast</field>
+		<field name="country">Russia</field>
+
 		
 		
 		
-		<field name="subject">Jephthah</field>
 		
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jephtas+Tochter+Adolf+Jensen&amp;search_field=search</field>

@@ -3,8 +3,8 @@
 		<field name="genre">Oratorio</field>
 		<field name="title">Il trionfo della fede</field>
 		<field name="titleSort">trionfo della fede</field>
-		
-		
+		<field name="date">1832</field>
+		<field name="year">1832</field>
 		
 		
 		<field name="composer">Raffaele Benedettoni</field>

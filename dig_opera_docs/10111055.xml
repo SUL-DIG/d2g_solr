@@ -5,6 +5,13 @@
 <field name="genre">Opera</field>
 <field name="title">El hijo del mar</field>
 <field name="titleSort">hijo del mar</field>
+
+
+<field name="year">1895</field>
+		<field name="month">March</field>
+		<field name="day">13</field>
+		<!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
+		<field name="date">March 13, 1895</field>
 <field name="composer">Juan García Catalá</field>
 <field name="composerSort">García Catalá, Juan</field>
 

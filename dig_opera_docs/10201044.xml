@@ -4,16 +4,22 @@
 		<field name="title">Done Made My Vow</field>
 		<field name="titleSort">Done Made My Vow</field>
 		<field name="year">1985</field>
+<field name="month">December</field>
+		<field name="day">8</field>
 		
-		
-		<field name="date">1985</field>
+		<field name="date">December 8, 1985</field>
 		<field name="composer">Adolphus Hailstork</field>
 		<field name="composerSort">Hailstork, Adolphus</field>
 		
+		<field name="librettist">Martin Luther King</field>
+		<field name="librettistSort">King, Martin Luther</field>
 		
 		
-		
-		
+		<field name="theater">Norfolk State University</field>
+		<field name="city">Norfolk</field>
+	
+		<field name="region">Virginia</field>
+		<field name="country">United States</field>
 		
 		
 		

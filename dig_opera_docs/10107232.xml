@@ -7,8 +7,10 @@
 <field name="titleSort">bandoléro</field>
 <field name="composer">Jean-Jacques Debillemont</field>
 <field name="composerSort">Debillemont, Jean-Jacques</field>
-<field name="year">1850</field>
-<field name="date">1850</field>
+<field name="year">1849</field>
+<field name="month">December</field>
+		<field name="day">5</field>
+<field name="date">December 5, 1849</field>
 <field name="librettist">Henry Boisseaux</field>
 <field name="librettistSort">Boisseaux, Henry</field>
 <field name="theater">Grand-Théâtre</field>

@@ -4,14 +4,19 @@
 		<field name="title">Die Mutter</field>
 		<field name="titleSort">Mutter</field>
 		<field name="year">1919</field>
+		<field name="month">November</field>
+		<field name="day">25</field>
 		
-		
-		<field name="date">1919</field>
+		<field name="date">November 25, 1919</field>
 		<field name="composer">Gerhard von Keussler</field>
 		<field name="composerSort">Keussler, Gerhard von</field>
+		<field name="librettist">Gerhard von Keussler</field>
+		<field name="librettistSort">Keussler, Gerhard von</field>
 		
-		
-		
+		<field name="city">Hamburg</field>
+		<field name="region">Hamburg</field>
+	
+		<field name="country">Germany</field>
 		
 		
 		

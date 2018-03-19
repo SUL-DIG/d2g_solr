@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10200752</field>
 		<field name="genre">Oratorio</field>
-		<field name="title">Crösus</field>
-		<field name="titleSort">Crösus</field>
-		<field name="year">1890</field>
+		<field name="title">Krösus</field>
+		<field name="titleSort">Krösus</field>
+		<field name="year">1901</field>
 		
 		
-		<field name="date">1890</field>
-		<field name="composer">Carl Adolf Lorenz</field>
-		<field name="composerSort">Lorenz, Carl Adolf</field>
+		<field name="date">1901</field>
+		<field name="composer">Karl Adolf Lorenz</field>
+		<field name="composerSort">Lorenz, Karl Adolf</field>
 		
+		<field name="librettist">F. Herbst</field>
+		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
+		<field name="librettistSort">Herbst, F.</field>
 		
-		
-		
+		<field name="theater">Musik Verein</field>
+		<field name="city">Hamburg</field>
+		<!-- We use the region field for states or regions. -->
+		<field name="region">Hamburg</field>
+		<field name="country">Germany</field>
 		
 		
 		<field name="subject">Croesus</field>

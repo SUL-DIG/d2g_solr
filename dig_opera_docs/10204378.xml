@@ -4,14 +4,19 @@
 		<field name="title">Stabat Mater, or The Crucifixion of Christ</field>
 		<field name="titleSort">Stabat Mater, or The Crucifixion of Christ</field>
 		<field name="year">1855</field>
+		<field name="month">April</field>
+		<field name="day">10</field>
 		
-		
-		<field name="date">1855</field>
+		<field name="date">April 10, 1855</field>
 		<field name="composer">William Henry Fry</field>
 		<field name="composerSort">Fry, William Henry</field>
 		
 		
-		
+		<field name="theater">Academy of Music</field>
+		<field name="city">New York</field>
+		<!-- We use the region field for states or regions. -->
+		<field name="region">New York</field>
+		<field name="country">United States</field>
 		
 		
 		

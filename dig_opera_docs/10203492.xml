@@ -5,14 +5,18 @@
 		<field name="titleSort">Prodigal's Return</field>
 		<field name="year">1870</field>
 		
-		
-		<field name="date">1870</field>
+		<field name="month">May</field>
+		<field name="day">10</field>
+		<field name="date">May 10, 1870</field>
 		<field name="composer">Henry Francis Limpus</field>
 		<field name="composerSort">Limpus, Henry Francis</field>
 		
 		
-		
-		
+		<field name="theater">Saint James' Hall</field>
+		<field name="city">London</field>
+		<!-- We use the region field for states or regions. -->
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
 		
 		
 		<field name="subject">Parable of the Prodigal Son</field>

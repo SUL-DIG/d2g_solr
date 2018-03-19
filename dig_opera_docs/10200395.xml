@@ -10,9 +10,14 @@
 		<field name="composer">Hugo Bedinger</field>
 		<field name="composerSort">Bedinger, Hugo</field>
 		
+		<field name="librettist">Hugo Bedinger</field>
+		<field name="librettistSort">Bedinger, Hugo</field>
 		
-		
-		
+		<field name="theater">Music Conservatory</field>
+		<field name="city">Lindsborg</field>
+	
+		<field name="region">Kansas</field>
+		<field name="country">United States</field>
 		
 		
 		<field name="subject">Bethany</field>

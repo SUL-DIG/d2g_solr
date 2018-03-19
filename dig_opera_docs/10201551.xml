@@ -11,7 +11,11 @@
 		<field name="composerSort">Marks, James Christopher</field>
 		
 		
-		
+		<field name="theater">Oxford University</field>
+		<field name="city">Oxford</field>
+		<!-- We use the region field for states or regions. -->
+		<field name="region">Oxfordshire</field>
+		<field name="country">United Kingdom</field>
 		
 		
 		

@@ -4,15 +4,20 @@
 		<field name="title">Jesu aus Nazareth</field>
 		<field name="titleSort">Jesu aus Nazareth</field>
 		<field name="year">1917</field>
+		<field name="month">June</field>
+		<field name="day">2</field>
 		
-		
-		<field name="date">1917</field>
+		<field name="date">June 2, 1917</field>
 		<field name="composer">Gerhard von Keussler</field>
 		<field name="composerSort">Keussler, Gerhard von</field>
+		<field name="librettist">Gerhard von Keussler</field>
+		<field name="librettistSort">Keussler, Gerhard von</field>
 		
-		
-		
-		
+
+		<field name="city">Prague</field>
+	
+		<field name="region">Hlavni mesto</field>
+		<field name="country">Czech Republic</field>
 		
 		
 		<field name="subject">Christ</field>

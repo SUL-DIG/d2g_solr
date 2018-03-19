@@ -4,14 +4,19 @@
 		<field name="title">Zebaoth</field>
 		<field name="titleSort">Zebaoth</field>
 		<field name="year">1924</field>
+		<field name="month">June</field>
+		<field name="day">13</field>
 		
-		
-		<field name="date">1924</field>
+		<field name="date">June 13, 1924</field>
 		<field name="composer">Gerhard von Keussler</field>
 		<field name="composerSort">Keussler, Gerhard von</field>
+		<field name="librettist">Gerhard von Keussler</field>
+		<field name="librettistSort">Keussler, Gerhard von</field>
 		
-		
-		
+		<field name="city">Frankfurt</field>
+	
+		<field name="region">Hessen</field>
+		<field name="country">Germany</field>
 		
 		
 		

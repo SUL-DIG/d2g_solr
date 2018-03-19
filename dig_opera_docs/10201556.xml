@@ -3,8 +3,8 @@
 		<field name="genre">Oratorio</field>
 		<field name="title">Gideon</field>
 		<field name="titleSort">Gideon</field>
-		
-		
+		<field name="year">1883</field>
+		<field name="date">1883</field>
 		
 		
 		<field name="composer">Henry William Stewardson</field>

@@ -3,15 +3,18 @@
 		<field name="genre">Oratorio</field>
 		<field name="title">Vom Tode</field>
 		<field name="titleSort">Vom Tode</field>
-		<field name="year">1946</field>
+		<field name="year">1948</field>
 		
 		
-		<field name="date">1946</field>
+		<field name="date">1948</field>
 		<field name="composer">Karl Schiske</field>
 		<field name="composerSort">Schiske, Karl</field>
 		
 		
+		<field name="theater">Konzerthaus</field>
+		<field name="city">Vienna</field>
 		
+		<field name="country">Austria</field>
 		
 		
 		
