@@ -11,7 +11,11 @@
 		<field name="composerSort">Jochum, Otto</field>
 		
 		
-		
+		<field name="theater">Barfüsserkirche</field>
+		<field name="city">Augsburg</field>
+	
+		<field name="region">Bayern</field>
+		<field name="country">Germany</field>
 		
 		
 		

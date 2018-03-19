@@ -3,15 +3,19 @@
 		<field name="genre">Oratorio</field>
 		<field name="title">Brutus</field>
 		<field name="titleSort">Brutus</field>
-		<field name="year">1875</field>
+		<field name="year">1874</field>
 		
 		
-		<field name="date">1875</field>
+		<field name="date">1874</field>
 		<field name="composer">Jan van den Eeden</field>
 		<field name="composerSort">Eeden, Jan van den</field>
 		
 		
-		
+		<field name="theater">Conservatoire Royal de Musique</field>
+		<field name="city">Brussels</field>
+	
+		<field name="region">Brabant</field>
+		<field name="country">Belgium</field>
 		
 		
 		

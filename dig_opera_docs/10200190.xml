@@ -13,7 +13,11 @@
 		<field name="librettist">Petr Eben</field>
 		<field name="librettistSort">Eben, Petr</field>
 
-		
+		<field name="theater">Kathedrale</field>
+		<field name="city">Paderborn</field>
+	
+		<field name="region">Nordrhein-Westfallen</field>
+		<field name="country">Germany</field>
 		
 		
 		

@@ -4,13 +4,15 @@
 		<field name="title">Judith</field>
 		<field name="titleSort">Judith</field>
 		
-		
+		<field name="year">1858</field>
+		<field name="date">1858</field>
 		
 		
 		<field name="composer">Adrien Barthe</field>
 		<field name="composerSort">Barthe, Adrien</field>
 		
-		
+		<field name="librettist">Charles de Léon-Gérard</field>
+		<field name="librettistSort">Léon-Gérard, Charles de</field>
 		
 		
 		

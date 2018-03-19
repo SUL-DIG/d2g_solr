@@ -4,9 +4,10 @@
 		<field name="title">Petrus</field>
 		<field name="titleSort">Petrus</field>
 		<field name="year">1993</field>
+		<field name="month">November</field>
+		<field name="day">17</field>
 		
-		
-		<field name="date">1993</field>
+		<field name="date">November 17, 1993</field>
 		<field name="composer">Romualds Kalsons</field>
 		<field name="composerSort">Kalsons, Romualds</field>
 		
@@ -14,7 +15,10 @@
 		<field name="librettistSort">Kļaviŋa, Aldis</field>
 
 		
-		
+		<field name="city">Cuxhaven</field>
+	
+		<field name="region">Niedersachsen</field>
+		<field name="country">Germany</field>
 		
 		
 		<field name="subject">Saint Peter</field>

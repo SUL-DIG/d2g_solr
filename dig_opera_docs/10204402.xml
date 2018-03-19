@@ -7,10 +7,13 @@
 		
 		
 		<field name="date">1990</field>
-		<field name="composer">Slobodan Atanackovic</field>
-		<field name="composerSort">Atanackovic, Slobodan</field>
+		<field name="composer">Slobodan Atanacković</field>
+		<field name="composerSort">Atanacković, Slobodan</field>
 		
-		
+		<field name="theater">Radio Broadcast (Radio Televizije Beograd)</field>
+		<field name="city">Belgrade</field>
+
+		<field name="country">Serbia</field>
 		
 		
 		

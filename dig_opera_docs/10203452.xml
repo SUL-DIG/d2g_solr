@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203452</field>
 		<field name="genre">Oratorio</field>
-		<field name="title">Posvátná znameni (Sacred Symbols)</field>
-		<field name="titleSort">Posvátná znameni (Sacred Symbols)</field>
+		<field name="title">Heilige Symbole (Posvátná znameni)</field>
+		<field name="titleSort">Heilige Symbole (Posvátná znameni)</field>
 		<field name="year">1993</field>
 		
 		
 		<field name="date">1993</field>
 		<field name="composer">Petr Eben</field>
 		<field name="composerSort">Eben, Petr</field>
+		
+		<field name="theater">Kathedrale</field>
+		<field name="city">Salzburg</field>
+	
+		<field name="region">Salzburg</field>
+		<field name="country">Austria</field>
 		
 		
 		

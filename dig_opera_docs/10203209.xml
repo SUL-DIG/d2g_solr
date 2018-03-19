@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203209</field>
 		<field name="genre">Oratorio</field>
-		<field name="title">The Passion According to St. Mark</field>
-		<field name="titleSort">Passion According to St. Mark</field>
-		<field name="year">1962</field>
+		<field name="title">Markus-Passion (The Passion According to St. Mark)</field>
+		<field name="titleSort">Markus-Passion (The Passion According to St. Mark)</field>
+		<field name="year">1963</field>
 		
-		
-		<field name="date">1962</field>
+		<field name="month">January</field>
+		<field name="day">24</field>
+		<field name="date">January 24, 1963</field>
 		<field name="composer">Jan Bender</field>
 		<field name="composerSort">Bender, Jan</field>
 		
 		
-		
+		<field name="theater">General Walker Hotel</field>
+		<field name="city">Berchtesgaden</field>
+	
+		<field name="region">Bayern</field>
+		<field name="country">Germany</field>
 		
 		
 		

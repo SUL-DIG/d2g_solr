@@ -3,14 +3,18 @@
 		<field name="genre">Oratorio</field>
 		<field name="title">Isaak</field>
 		<field name="titleSort">Isaak</field>
-		<field name="year">1991</field>
+		<field name="year">1881</field>
 		
 		
-		<field name="date">1991</field>
+		<field name="date">1881</field>
 		<field name="composer">Martin Rabe</field>
 		<field name="composerSort">Rabe, Martin</field>
 		
-		
+		<field name="theater">Nicolaikirche</field>
+		<field name="city">Berlin</field>
+	
+		<field name="region">Berlin</field>
+		<field name="country">Germany</field>
 		
 		
 		

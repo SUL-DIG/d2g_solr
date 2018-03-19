@@ -3,15 +3,20 @@
 		<field name="genre">Oratorio</field>
 		<field name="title">Nehemiah</field>
 		<field name="titleSort">Nehemiah</field>
-		<field name="year">1897</field>
+		<field name="year">1899</field>
 		
-		
-		<field name="date">1897</field>
+			<field name="month">May</field>
+		<field name="day">17</field>
+		<field name="date">May 17, 1899</field>
 		<field name="composer">Samuel Weekes</field>
 		<field name="composerSort">Weekes, Samuel</field>
 		
 		
-		
+			<field name="theater">Guildhall</field>
+		<field name="city">Plymouth</field>
+	
+		<field name="region">Devonshire</field>
+		<field name="country">United Kingdom</field>
 		
 		
 		

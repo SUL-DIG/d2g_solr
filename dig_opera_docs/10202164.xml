@@ -3,14 +3,18 @@
 		<field name="genre">Oratorio</field>
 		<field name="title">Jerusalem</field>
 		<field name="titleSort">Jerusalem</field>
-		<field name="year">1890</field>
+		<field name="year">1822</field>
 		
 		
-		<field name="date">1890</field>
+		<field name="date">1822</field>
 		<field name="composer">John Clarke-Whitfeld</field>
 		<field name="composerSort">Clarke-Whitfeld, John</field>
 		
-		
+		<field name="theater">Three Choirs Festival</field>
+		<field name="city">Hereford</field>
+	
+		<field name="region">Hereford and Worcester</field>
+		<field name="country">United Kingdom</field>
 		
 		
 		

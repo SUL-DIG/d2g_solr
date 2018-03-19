@@ -3,14 +3,19 @@
 		<field name="genre">Oratorio</field>
 		<field name="title">Gethsemane</field>
 		<field name="titleSort">Gethsemane</field>
-		<field name="year">1888</field>
+		<field name="year">1886</field>
 		
-		
-		<field name="date">1888</field>
+		<field name="month">December</field>
+		<field name="day">3</field>
+		<field name="date">December 3, 1886</field>
 		<field name="composer">Sydney Shaw</field>
 		<field name="composerSort">Shaw, Sydney</field>
 		
-		
+		<field name="theater">Saint James' Hall</field>
+		<field name="city">London</field>
+	
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
 		
 		
 		

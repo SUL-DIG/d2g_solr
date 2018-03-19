@@ -3,14 +3,17 @@
 		<field name="genre">Oratorio</field>
 		<field name="title">A Jelenések könyvének margójára (The Revelation of St. John)</field>
 		<field name="titleSort">Jelenések könyvének margójára (The Revelation of St. John)</field>
-		<field name="year">1996</field>
+		<field name="year">1997</field>
 		
 		
-		<field name="date">1996</field>
+		<field name="date">1997</field>
 		<field name="composer">Zsolt Durkó</field>
 		<field name="composerSort">Durkó, Zsolt</field>
 		
-		
+		<field name="theater">Zeneakadémia</field>
+		<field name="city">Budapest</field>
+
+		<field name="country">Hungary</field>
 		
 		
 		
