@@ -13,9 +13,11 @@
 		<field name="librettist">Johann Baptist Rousseau</field>
 		<field name="librettistSort">Rousseau, Johann Baptist</field>
 
-		
-		
-		
+ <field name="theater">Niederrheinische Musikfest</field>
+		<field name="city">Aachen</field>
+	
+		<field name="region">Nordrhein-Westfallen</field>
+		<field name="country">Germany</field>
 		
 		
 		

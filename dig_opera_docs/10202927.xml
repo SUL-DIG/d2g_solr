@@ -3,17 +3,20 @@
 		<field name="genre">Oratorio</field>
 		<field name="title">Napřed je třeba unést kříž (Man must be able to carry his Cross)</field>
 		<field name="titleSort">Napřed je třeba unést kříž (Man must be able to carry his Cross)</field>
-		<field name="year">1992</field>
+		<field name="year">1997</field>
 		
 		
-		<field name="date">1992</field>
-		<field name="composer">Zdenek Pololánik</field>
-		<field name="composerSort">Pololánik, Zdenek</field>
+		<field name="date">1997</field>
+		<field name="composer">Zsolt Durkó</field>
+		<field name="composerSort">Durkó, Zsolt</field>
 		<field name="librettist">Paul Claudel</field>
 		<field name="librettistSort">Claudel, Paul</field>
 		
 		
-		
+		<field name="theater">Zeneakadémia</field>
+		<field name="city">Budapest</field>
+	
+		<field name="country">Hungary</field>
 		
 		
 		

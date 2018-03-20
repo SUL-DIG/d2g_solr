@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10202972</field>
 		<field name="genre">Oratorio</field>
+		
+		<field name="year">1906</field>
+		<field name="month">May</field>
+		<field name="day">3</field>
+	
+		<field name="date">May 3, 1906</field>
 		<field name="title">Die neun Musen</field>
 		<field name="titleSort">neun Musen</field>
-		
 		
 		
 		
 		<field name="composer">Otto Fiebach</field>
 		<field name="composerSort">Fiebach, Otto</field>
 		
-		
-		
+
+
+		<field name="city">Kaliningrad</field>
+	
+		<field name="region">Kaliningrad Oblast</field>
+		<field name="country">Russia</field>
+	
 		
 		
 		

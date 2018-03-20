@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10203204</field>
 		<field name="genre">Oratorio</field>
-		<field name="title">Die Passion</field>
-		<field name="titleSort">Passion</field>
+		<field name="year">1801</field>
+		<field name="date">1801</field>
+		<field name="title">Die Pharisäer</field>
+		<field name="titleSort">Pharisäer</field>
 		
 		
 		
-		
-		<field name="composer">Friedrich Theophil Stark</field>
-		<field name="composerSort">Stark, Friedrich Theophil</field>
-		
-		
-		
+		<field name="composer">Friedrich Gottlieb Stark</field>
+		<field name="composerSort">Stark, Friedrich Gottlieb</field>
 		
 		
 		

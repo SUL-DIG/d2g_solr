@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10200760</field>
 		<field name="genre">Oratorio</field>
-		<field name="title">The Crucifixion and Resurrection</field>
-		<field name="titleSort">Crucifixion and Resurrection</field>
-		<field name="year">1822</field>
+		<field name="title">Jerusalem</field>
+		<field name="titleSort">Jerusalem</field>
+		<field name="year">1891</field>
 		
 		
-		<field name="date">1822</field>
+		<field name="date">1891</field>
 		<field name="composer">Hugh Archibald Clarke</field>
 		<field name="composerSort">Clarke, Hugh Archibald</field>
 		
-		
-		
+		<field name="theater">Philadelphia Chorus</field>
+		<field name="city">Philadelphia</field>
+	
+		<field name="region">Pennsylvania</field>
+		<field name="country">United States</field>
 		
 		
 		

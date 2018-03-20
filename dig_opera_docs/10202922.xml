@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10202922</field>
 		<field name="genre">Oratorio</field>
-		<field name="title">Nabuccodonosor</field>
-		<field name="titleSort">Nabuccodonosor</field>
+		<field name="year">1817</field>
+		<field name="date">1817</field>
+		<field name="title">Nabucodonosor</field>
+		<field name="titleSort">Nabucodonosor</field>
 		
 		
 		
-		
-		<field name="composer">Matteo Ferrer</field>
-		<field name="composerSort">Ferrer, Matteo</field>
-		
+		<field name="composer">Mateu Ferrer</field>
+		<field name="composerSort">Ferrer, Mateu</field>
 		
 		
 		
+		<field name="theater">Real Congregación del Oratorio de San Felipe Neri</field>
+		<field name="city">Barcelona</field>
+	
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
 		
 		
 		<field name="subject">Nebuchadrezzar II</field>

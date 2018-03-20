@@ -11,12 +11,10 @@
 		<field name="composerSort">Nicholds, Joseph</field>
 		
 		
-		
-		
-		
-		
-		
-		
+		<field name="city">Wolverhampton</field>
+	
+		<field name="region">West Midlands</field>
+		<field name="country">United Kingdom</field>
 		
 		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Triumph+of+Zion+Joseph+Nicholds&amp;search_field=search</field>
 	</doc></add>

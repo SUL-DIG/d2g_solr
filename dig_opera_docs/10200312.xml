@@ -14,7 +14,11 @@
 		<field name="librettistSort">Herder, Johann Gottfried von</field>
 		
 		
-		
+		<field name="theater">Ostpreussische Musikfest</field>
+		<field name="city">Kaliningrad</field>
+	
+		<field name="region">Kaliningrad Oblast</field>
+		<field name="country">Russia</field>
 		
 		
 		<field name="subject">The Raising of Lazarus</field>

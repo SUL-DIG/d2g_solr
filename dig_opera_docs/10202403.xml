@@ -13,10 +13,11 @@
 		<field name="librettist">Wilhelm Smets</field>
 		<field name="librettistSort">Smets, Wilhelm</field>
 
-		
-		
-		
-		
+		<field name="theater">Niederrheinische Musikfest</field>
+		<field name="city">Frankfurt</field>
+	
+		<field name="region">Hessen</field>
+		<field name="country">Germany</field>
 		
 		
 		

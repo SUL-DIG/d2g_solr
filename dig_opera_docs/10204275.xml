@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10204275</field>
 		<field name="genre">Oratorio</field>
-		<field name="title">Šir haš - šírím (Song of Songs)</field>
-		<field name="titleSort">Šir haš - šírím (Song of Songs)</field>
+		<field name="title">Sheer hushsheereem (Song of Songs)</field>
+		<field name="titleSort">Sheer hushsheereem (Song of Songs)</field>
 		<field name="year">1970</field>
+		<field name="month">June</field>
+		<field name="day">25</field>
 		
-		
-		<field name="date">1970</field>
+		<field name="date">June 25, 1970</field>
 		<field name="composer">Zdenek Pololánik</field>
 		<field name="composerSort">Pololánik, Zdenek</field>
 		
-		
+		<field name="city">Brno</field>
+	
+		<field name="region">Jihomoravský</field>
+		<field name="country">Czech Republic</field>
 		
 		
 		

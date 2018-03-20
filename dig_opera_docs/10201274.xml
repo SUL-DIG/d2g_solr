@@ -13,7 +13,11 @@
 		<field name="librettistSort">Ware, Henry</field>
 		
 		
-		
+		<field name="theater">Boston Academy of Music, Odeon</field>
+		<field name="city">Boston</field>
+	
+		<field name="region">Massachusetts</field>
+		<field name="country">United States</field>
 		
 		
 		

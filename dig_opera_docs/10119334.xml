@@ -4,12 +4,17 @@
 <field name="genre">Opera</field>
 <field name="title">Quand on aime</field>
 <field name="titleSort">Quand on aime</field>
-<field name="composer">Gaston Marguery</field>
-<field name="composerSort">Marguery, Gaston</field>
+<field name="composer">__ Irène</field>
+<field name="composerSort">Irène, __</field>
+<field name="librettist">Gaston Marguery</field>
+<field name="librettistSort">Marguery, Gaston</field>
 <field name="year">1882</field>
-<field name="date">1882</field>
-<field name="city">Lisieux</field>
-<field name="region">Calvados</field>
+<field name="month">November</field>
+		<field name="day">21</field>
+<field name="date">November 21, 1882</field>
+<field name="theater">Théâtre de la Porte-Saint-Denis</field>
+<field name="city">Paris</field>
+
 <field name="country">France</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Quand+on+aime+Gaston+Marguery&amp;search_field=search</field>

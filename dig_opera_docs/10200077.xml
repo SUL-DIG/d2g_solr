@@ -10,7 +10,11 @@
 		<field name="composer">Isaac Baker Woodbury</field>
 		<field name="composerSort">Woodbury, Isaac Baker</field>
 		
-		
+		<field name="theater">Rutgers Street Church</field>
+		<field name="city">New York</field>
+	
+		<field name="region">New York</field>
+		<field name="country">United States</field>
 		
 		
 		

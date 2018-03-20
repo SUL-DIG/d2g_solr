@@ -4,16 +4,20 @@
 		<field name="title">Christi Geburt</field>
 		<field name="titleSort">Christi Geburt</field>
 		<field name="year">1813</field>
+		<field name="month">March</field>
+		<field name="day">19</field>
 		
-		
-		<field name="date">1813</field>
+		<field name="date">March 19, 1813</field>
 		<field name="composer">Georg Abraham Schneider</field>
 		<field name="composerSort">Schneider, Georg Abraham</field>
 		
 		<field name="librettist">Gustav von Seckendorf</field>
 		<field name="librettistSort">Seckendorf, Gustav von</field>
 
-		
+		<field name="city">Berlin</field>
+	
+		<field name="region">Berlin</field>
+		<field name="country">Germany</field>
 		
 		
 		

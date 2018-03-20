@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10202493</field>
 		<field name="genre">Oratorio</field>
-		<field name="title">Die letzte Stunde des Erlösers</field>
-		<field name="titleSort">letzte Stunde des Erlösers</field>
+		<field name="title">Die letzten Stunden des leidende Erlösers am Kreuze</field>
+		<field name="titleSort">letzten Stunden des leidende Erlösers am Kreuze</field>
 		
-		
+			<field name="year">1781</field>
+				<field name="date">1781</field>
 		
 		
 		<field name="composer">Ernst Wilhelm Wolf</field>
 		<field name="composerSort">Wolf, Ernst Wilhelm</field>
 		
+		<field name="librettist">__ Schneider</field>
 		
-		
+		<field name="librettistSort">Schneider, __</field>
 		
 		
 		

@@ -3,12 +3,12 @@
 		<field name="genre">Oratorio</field>
 		<field name="title">Consecutio temporum</field>
 		<field name="titleSort">Consecutio temporum</field>
-		<field name="year">1982</field>
+		<field name="year">1986</field>
 		
 		
-		<field name="date">1982</field>
-		<field name="composer">Slobodan Atanackovic</field>
-		<field name="composerSort">Atanackovic, Slobodan</field>
+		<field name="date">1986</field>
+		<field name="composer">Slobodan Atanacković</field>
+		<field name="composerSort">Atanacković, Slobodan</field>
 		
 		
 		

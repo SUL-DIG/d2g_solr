@@ -13,7 +13,11 @@
 		<field name="librettist">Mary Linwood</field>
 		<field name="librettistSort">Linwood, Mary</field>
 
-		
+		<field name="theater">Queen's Concert Rooms, Hanover Square</field>
+		<field name="city">London</field>
+	
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
 		
 		
 		

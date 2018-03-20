@@ -14,7 +14,11 @@
 		<field name="librettistSort">Agthe, Friedrich Wilhelm</field>
 
 		
-		
+		<field name="theater">Kreuzkirche am Charfreitag</field>
+		<field name="city">Dresden</field>
+	
+		<field name="region">Sachsen</field>
+		<field name="country">Germany</field>
 		
 		
 		<field name="subject">The Passion</field>

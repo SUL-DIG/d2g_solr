@@ -4,15 +4,20 @@
 		<field name="title">Der Kreuzweg</field>
 		<field name="titleSort">Kreuzweg</field>
 		
-		
-		
+		<field name="year">1847</field>
+		<field name="date">1847</field>
 		
 		<field name="composer">Ludwig Paupie</field>
 		<field name="composerSort">Paupie, Ludwig</field>
 		
+		<field name="librettist">Friedrich Baumgarten</field>
+		<field name="librettistSort">Baumgarten, Friedrich</field>
 		
-		
-		
+		<field name="theater">Stadttheater</field>
+		<field name="city">Wels</field>
+	
+		<field name="region">Oberösterreich</field>
+		<field name="country">Austria</field>
 		
 		
 		<field name="subject">The Holy Cross</field>

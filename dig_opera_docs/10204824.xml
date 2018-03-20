@@ -4,9 +4,10 @@
 		<field name="title">Die vier letzten Dinge</field>
 		<field name="titleSort">vier letzten Dinge</field>
 		<field name="year">1848</field>
+			<field name="month">April</field>
+		<field name="day">2</field>
 		
-		
-		<field name="date">1848</field>
+		<field name="date">April 2, 1848</field>
 		<field name="composer">Franz Krenn</field>
 		<field name="composerSort">Krenn, Franz</field>
 		
@@ -14,7 +15,10 @@
 		<field name="librettistSort">Kuffner, Christoph</field>
 
 		
-		
+		<field name="theater">Theater in der Josefstadt</field>
+		<field name="city">Vienna</field>
+	
+		<field name="country">Austria</field>
 		
 		
 		<field name="subject">The Last Judgment</field>

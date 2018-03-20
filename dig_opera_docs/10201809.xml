@@ -12,9 +12,10 @@
 		<field name="librettist">Karl Ludwig Kannegisser</field>
 		<field name="librettistSort">Kannegisser, Karl Ludwig</field>
 		
-		
-		
-		
+		<field name="city">Berlin</field>
+	
+		<field name="region">Berlin</field>
+		<field name="country">Germany</field>
 		
 		<field name="subject">Saint Cecilia</field>
 		<field name="feastMonth">November</field>

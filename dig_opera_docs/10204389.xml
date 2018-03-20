@@ -3,15 +3,17 @@
 		<field name="genre">Oratorio</field>
 		<field name="title">Der sterbende Jesus</field>
 		<field name="titleSort">sterbende Jesus</field>
-		<field name="year">1810</field>
+		<field name="year">1805</field>
 		
 		
-		<field name="date">1810</field>
+		<field name="date">1805</field>
 		<field name="composer">Franz Teyber</field>
 		<field name="composerSort">Teyber, Franz</field>
 		
-		
-		
+	<field name="theater">Theater an der Wien</field>
+		<field name="city">Vienna</field>
+
+		<field name="country">Austria</field>
 		
 		
 		
