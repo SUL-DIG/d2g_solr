@@ -6,6 +6,8 @@
 <field name="titleSort">notaro</field>
 <field name="composer">Valentino Fioravanti</field>
 <field name="composerSort">Fioravanti, Valentino</field>
+<field name="librettist">Giuseppe Caravita</field>
+<field name="librettistSort">Caravita, Giuseppe</field>
 <field name="year">1806</field>
 <field name="date">1806</field><field name="theater">Teatro de São Carlos</field>
 <field name="city">Lisbon</field>

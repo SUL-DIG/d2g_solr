@@ -6,6 +6,8 @@
 <field name="titleSort">Phrases from Orpheus</field>
 <field name="composer">Charles Wilson</field>
 <field name="composerSort">Wilson, Charles</field>
+<field name="librettist">Douglas Gordon Jones</field>
+<field name="librettistSort">Jones, Douglas Gordon</field>
 <field name="year">1971</field>
 <field name="date">1971</field><field name="theater">Spring Festival</field>
 <field name="city">Guelph</field>

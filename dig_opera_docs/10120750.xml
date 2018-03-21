@@ -6,6 +6,8 @@
 <field name="titleSort">sonambulo</field>
 <field name="composer">António Luis Miró</field>
 <field name="composerSort">Miró, António Luis</field>
+<field name="librettist">José Augusto Correia Leal</field>
+<field name="librettistSort">Leal, José Augusto Correia</field>
 <field name="year">1835</field>
 <field name="date">1835</field>
 <field name="city">Lisbon</field>

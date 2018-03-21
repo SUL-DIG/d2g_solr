@@ -6,6 +6,8 @@
 <field name="titleSort">Uit de Branding</field>
 <field name="composer">Richard Hol</field>
 <field name="composerSort">Hol, Richard</field>
+<field name="librettist">Marie Boddaert</field>
+<field name=";ibrettistSort">Boddaert, Marie</field>
 <field name="year">1894</field>
 <field name="date">1894</field><field name="theater">Stadsschouwburg</field>
 <field name="city">Amsterdam</field>

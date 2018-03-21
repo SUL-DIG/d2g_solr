@@ -6,6 +6,8 @@
 <field name="titleSort">Aleida van Holland</field>
 <field name="composer">Willem Frans Thooft</field>
 <field name="composerSort">Thooft, Willem Frans</field>
+<field name="librettist">Ernst Pasqué</field>
+<field name="librettistSort">Pasqué, Ernst</field>
 <field name="year">1866</field>
 <field name="date">1866</field><field name="theater">Hoogduitse Opera</field>
 <field name="city">Rotterdam</field>

@@ -10,7 +10,8 @@
 		<field name="composer">Johann Ernst Hartmann</field>
 		<field name="composerSort">Hartmann, Johann Ernst</field>
 		
-		
+		<field name="librettist">Christian Hertz</field>
+		<field name="librettistSort">Hertz, Christian</field>
 		
 		<field name="city">Copenhagen</field>
 		<field name="region">Hovedstaden</field>

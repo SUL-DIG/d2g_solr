@@ -6,6 +6,8 @@
 <field name="titleSort">Love Songs</field>
 <field name="composer">Ana Sokolović</field>
 <field name="composerSort">Sokolović, Ana</field>
+<field name="librettist">Ana Sokolović</field>
+<field name="librettistSort">Sokolović, Ana</field>
 <field name="year">2008</field>
 <field name="date">March 25, 2008</field>
 <field name="theater">Richard Bradshaw Amphitheatre</field>

@@ -6,6 +6,8 @@
 <field name="titleSort">Francine</field>
 <field name="composer">Albertine Morin-Labrecque</field>
 <field name="composerSort">Morin-Labrecque, Albertine</field>
+<field name="librettist">Blanche Lamontagne-Beauregard</field>
+<field name="librettistSort">Lamontagne-Beauregard, Blanche</field>
 <field name="year">1930</field>
 <field name="date">1930</field>
 <field name="city">Montreal</field>

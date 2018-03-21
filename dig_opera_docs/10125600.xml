@@ -6,6 +6,8 @@
 <field name="titleSort">Salomé, vierge folle</field>
 <field name="composer">Fernand Raphaël</field>
 <field name="composerSort">Raphaël, Fernand</field>
+<field name="librettist">Pierre Chambard</field>
+<field name="librettistSort">Chambard, Pierre</field>
 <field name="year">1920</field>
 <field name="date">1920</field><field name="theater">Théâtre de l'Arlequin</field>
 <field name="city">Paris</field>

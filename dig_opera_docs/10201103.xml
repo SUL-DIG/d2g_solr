@@ -10,7 +10,8 @@
 		<field name="composer">Franz Coenen</field>
 		<field name="composerSort">Coenen, Franz</field>
 		
-		
+			<field name="librettist">Marie Boddaert</field>
+		<field name="librettistSort">Boddaert, Marie</field>
 		
 		<field name="city">Rotterdam</field>
 		<field name="region">Suid Holland</field>

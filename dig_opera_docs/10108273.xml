@@ -6,6 +6,8 @@
 <field name="titleSort">Berggubben</field>
 <field name="composer">Erik Drake</field>
 <field name="composerSort">Drake, Erik</field>
+<field name="librettist">Clas Livijn</field>
+<field name="librettistSort">Livijn, Clas</field>
 <field name="year">1817</field>
 <field name="date">1817</field>
 <field name="city">Stockholm</field>

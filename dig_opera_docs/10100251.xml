@@ -6,6 +6,8 @@
 <field name="titleSort">Martin Velten</field>
 <field name="composer">Carl Christian Agthe</field>
 <field name="composerSort">Agthe, Carl Christian</field>
+<field name="librettist">Christian Felix Weisse</field>
+<field name="librettistSort">Weisse, Christian Felix</field>
 <field name="year">1776</field>
 <field name="date">1776</field><field name="theater">Theater in grossen Gilderhaus</field>
 <field name="city">Tallinn</field>

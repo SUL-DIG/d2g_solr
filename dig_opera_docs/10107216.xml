@@ -6,6 +6,8 @@
 <field name="titleSort">Departure</field>
 <field name="composer">Allan G. Davis</field>
 <field name="composerSort">Davis, Allan G.</field>
+<field name="librettist">Allan G. Davis</field>
+<field name="librettistSort">Davis, Allan G.</field>
 <field name="year">1975</field>
 <field name="date">1975</field><field name="theater">University of Montevallo</field>
 <field name="city">Montevallo</field>

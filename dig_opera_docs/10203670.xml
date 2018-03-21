@@ -9,7 +9,8 @@
 		<field name="date">November 2, 1845</field>
 		<field name="composer">César Franck</field>
 		<field name="composerSort">Franck, César</field>
-		
+		<field name="librettist">Amédée Guillemin</field>
+		<field name="librettistSort">Guillemin, Amédée</field>
 		
 		<field name="theater">Salle Erard</field>
 		<field name="city">Paris</field>
