@@ -6,6 +6,8 @@
 <field name="titleSort">deux scélérats</field>
 <field name="composer">Aldé de Villebichot</field>
 <field name="composerSort">Villebichot, Aldé de</field>
+<field name="librettist">Eugène de Richemont</field>
+<field name="librettistSort">Richemont, Eugène de</field>
 <field name="year">1873</field>
 <field name="date">1873</field><field name="theater">Café-concert de l'Alcazar</field>
 <field name="city">Paris</field>

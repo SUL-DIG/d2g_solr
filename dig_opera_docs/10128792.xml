@@ -8,8 +8,10 @@
 <field name="composerSort">Scotto, Vincent</field>
 <field name="year">1922</field>
 <field name="date">1922</field>
-<field name="librettist">[Marcel Bertal &amp; Louis Maubon] Bertal-Maubon</field>
-<field name="librettistSort">Bertal-Maubon, [Marcel Bertal &amp; Louis Maubon]</field>
+<field name="librettist">Marcel Bertal</field>
+<field name="librettistSort">Bertal, Marcel</field>
+<field name="librettist">Louis Maubon</field>
+<field name="librettistSort">Maubon, Louis</field>
 
 <field name="theater">Café-concert de l'Eldorado</field>
 <field name="city">Paris</field>

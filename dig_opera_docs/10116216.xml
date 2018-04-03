@@ -6,6 +6,10 @@
 <field name="titleSort">Van Gogh</field>
 <field name="composer">Nevit Kodalli</field>
 <field name="composerSort">Kodalli, Nevit</field>
+<field name="librettist">Orhan Asena</field>
+<field name="librettistSort">Asena, Orhan</field>
+<field name="librettist">Irving Stone</field>
+<field name="librettistSort">Stone, Irving</field>
 <field name="year">1955</field>
 <field name="date">1955</field><field name="theater">Devlet Opera ve Balesi</field>
 <field name="city">Ankara</field>

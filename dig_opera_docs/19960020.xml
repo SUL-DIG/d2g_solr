@@ -6,6 +6,10 @@
 <field name="titleSort">Chinaman's Chance</field>
 <field name="composer">Fred Ho</field>
 <field name="composerSort">Ho, Fred</field>
+<field name="librettist">Fred Ho</field>
+<field name="librettistSort">Ho, Fred</field>
+<field name="librettist">Genny Lim</field>
+<field name="librettistSort">Lim, Genny</field>
 <field name="year">1989</field>
 <field name="date">April 9, 1989</field>
 <field name="theater">Brooklyn Academy of Music</field>

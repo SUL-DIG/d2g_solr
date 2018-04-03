@@ -6,6 +6,8 @@
 <field name="titleSort">Ifigenia (in Aulide)</field>
 <field name="composer">Giuseppe Sarti</field>
 <field name="composerSort">Sarti, Giuseppe</field>
+<field name="librettist">Cesare Arici</field>
+<field name="librettistSort">Arici, Cesare</field>
 <field name="year">1777</field>
 <field name="date">1777</field><field name="theater">Teatro di via della Torre Argentina</field>
 <field name="city">Rome</field>

@@ -6,6 +6,8 @@
 <field name="titleSort">revoltés de Liline</field>
 <field name="composer">Amélie Péronnet</field>
 <field name="composerSort">Péronnet, Amélie</field>
+<field name="librettist">Amélie Péronnet</field>
+<field name="librettistSort">Péronnet, Amélie</field>
 <field name="year">1884</field>
 <field name="date">1884</field><field name="theater">Théâtre du Châtelet</field>
 <field name="city">Paris</field>

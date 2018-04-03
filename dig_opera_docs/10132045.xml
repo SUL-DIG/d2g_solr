@@ -6,6 +6,8 @@
 <field name="titleSort">corde cassera</field>
 <field name="composer">Aldé de Villebichot</field>
 <field name="composerSort">Villebichot, Aldé de</field>
+<field name="librettist">Louis France</field>
+<field name="librettistSort">France, Louis</field>
 <field name="year">1860</field>
 <field name="date">1860</field><field name="theater">Café-concert des Ambassadeurs</field>
 <field name="city">Paris</field>

@@ -7,9 +7,11 @@
 <field name="composer">René Mercier</field>
 <field name="composerSort">Mercier, René</field>
 <field name="year">1936</field>
-<field name="date">1936</field>
+<field name="date">October 23, 1936</field>
 <field name="librettist">Daniel Norman</field>
 <field name="librettistSort">Norman, Daniel</field>
+<field name="librettist">Charles-Louis Pothier</field>
+<field name="librettistSort">Pothier, Charles-Louis</field>
 <field name="theater">Théâtre de la Gaîté-Lyrique</field>
 <field name="city">Paris</field>
 

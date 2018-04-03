@@ -6,6 +6,8 @@
 <field name="titleSort">Emira e Zopiro</field>
 <field name="composer">Giuseppe Maria Curcio</field>
 <field name="composerSort">Curcio, Giuseppe Maria</field>
+<field name="librettist">Giuseppe Maria Curcio</field>
+<field name="librettistSort">Curcio, Giuseppe Maria</field>
 <field name="year">1795</field>
 <field name="date">1795</field><field name="theater">Teatro di via della Pergola</field>
 <field name="city">Florence</field>

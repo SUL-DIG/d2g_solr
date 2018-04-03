@@ -9,6 +9,8 @@
 		<field name="date">1771</field>
 		<field name="composer">Antonio Sacchini</field>
 		<field name="composerSort">Sacchini, Antonio</field>
+			<field name="librettist">Pietro Chiari</field>
+		<field name="librettistSort">Chiari, Pietro</field>
 		
 		
 		<field name="theater">Ospedale dei Derelitti ai Santi Giovanni e Paolo (Ospedaletto)</field>

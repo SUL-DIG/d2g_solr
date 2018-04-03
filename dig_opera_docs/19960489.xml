@@ -6,6 +6,10 @@
 <field name="titleSort">Dantes Inferno und der Weg ins Paradies</field>
 <field name="composer">Esther Hilsberg</field>
 <field name="composerSort">Hilsberg, Esther</field>
+<field name="librettist">Kerstin Weiss</field>
+<field name="librettistSort">Weiss, Kerstin</field>
+<field name="librettist">Dante Alighieri</field>
+<field name="librettistSort">Dante Alighieri</field>
 <field name="year">2005</field>
 <field name="date">September 18, 2005</field>
 <field name="theater">Konzerthaus Berlin</field>

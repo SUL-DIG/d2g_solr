@@ -6,6 +6,10 @@
 <field name="titleSort">Aristoteles</field>
 <field name="composer">Ivar Christian Hallström</field>
 <field name="composerSort">Hallström, Ivar Christian</field>
+<field name="librettist">Paul Arène</field>
+<field name="librettistSort"Arène, Paul</field>
+<field name="librettist">Alphonse Daudet</field>
+<field name="librettistSort"Daudet, Alphonse</field>
 <field name="year">1886</field>
 <field name="date">1886</field><field name="theater">Kungliga Teatern</field>
 <field name="city">Stockholm</field>

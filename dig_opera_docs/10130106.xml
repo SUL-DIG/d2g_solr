@@ -6,6 +6,9 @@
 <field name="titleSort">Giovanna di Napoli</field>
 <field name="composer">Maurice Strakosch</field>
 <field name="composerSort">Strakosch, Maurice</field>
+
+<field name="librettist">Agostino Pendola</field>
+<field name="librettistSort">Pendola, Agostino</field>
 <field name="year">1851</field>
 <field name="date">1851</field><field name="theater">Astor Place Opera House</field>
 <field name="city">New York</field>

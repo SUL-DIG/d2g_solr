@@ -6,6 +6,8 @@
 <field name="titleSort">Orfano e diavolo</field>
 <field name="composer">Achille Peri</field>
 <field name="composerSort">Peri, Achille</field>
+<field name="librettist">Carlo Grisanti</field>
+<field name="librettistSort">Grisanti, Carlo</field>
 <field name="year">1854</field>
 <field name="date">1854</field>
 <field name="theater">Teatro Comunale</field>

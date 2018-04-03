@@ -6,6 +6,8 @@
 <field name="titleSort">Blagados et Bétinet</field>
 <field name="composer">Aldé de Villebichot</field>
 <field name="composerSort">Villebichot, Aldé de</field>
+<field name="librettist">Émile Mathieu</field>
+<field name="librettistSort">Mathieu, Émile</field>
 <field name="year">1855</field>
 <field name="date">1855</field><field name="theater">Café-concert de l'Alcazar</field>
 <field name="city">Paris</field>

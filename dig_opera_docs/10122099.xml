@@ -6,6 +6,8 @@
 <field name="titleSort">nozze inaspettate</field>
 <field name="composer">Giuseppe Nicolini</field>
 <field name="composerSort">Nicolini, Giuseppe</field>
+<field name="composer">Luigi Grassi</field>
+<field name="composerSort">Grassi, Luigi</field>
 <field name="year">1805</field>
 <field name="date">1805</field><field name="theater">Teatro Nuovo sopra Toledo</field>
 <field name="city">Naples</field>

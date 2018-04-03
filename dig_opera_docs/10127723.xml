@@ -6,6 +6,8 @@
 <field name="titleSort">ambizione delusa</field>
 <field name="composer">Giuseppe Sarti</field>
 <field name="composerSort">Sarti, Giuseppe</field>
+<field name="librettist">Giovanni Gualberto Barlocci</field>
+<field name="librettistSort">Barlocci, Giovanni Gualberto</field>
 <field name="year">1779</field>
 <field name="date">1779</field><field name="theater">Teatro Capranica</field>
 <field name="city">Rome</field>
