@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10200951</field>
 		<field name="genre">Oratorio</field>
-		<field name="title">Le déluge</field>
-		<field name="titleSort">déluge</field>
+		<field name="title">Le déluge universel</field>
+		<field name="titleSort">déluge universel</field>
 		<field name="year">1808</field>
 		<field name="month">January</field>
 		<field name="day">21</field>
@@ -10,7 +10,8 @@
 		<field name="composer">Vittorio Trento</field>
 		<field name="composerSort">Trento, Vittorio</field>
 		
-		
+		<field name="librettist">Luigi Buonavoglia</field>
+		<field name="librettistSort">Buonavoglia, Luigi</field>
 		
 		<field name="city">Amsterdam</field>
 		<field name="region">Noord Holland</field>
@@ -18,5 +19,5 @@
 		<field name="subject">Noah</field>
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+déluge+Vittorio+Trento&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=déluge+Universel+Vittorio+Trento&amp;search_field=search</field>
 	</doc></add>

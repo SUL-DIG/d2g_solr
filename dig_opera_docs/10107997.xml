@@ -10,7 +10,7 @@
 <field name="date">1989</field>
 <field name="librettist">Rex Deverell</field>
 <field name="librettistSort">Deverell, Rex</field>
-
+<field name="theater">Banff Centre</field>
 <field name="city">Banff</field>
 <field name="region">Alberta</field>
 <field name="country">Canada</field>

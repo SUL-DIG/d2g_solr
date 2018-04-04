@@ -10,7 +10,7 @@
 <field name="date">1924</field>
 <field name="librettist">Émile Codey</field>
 <field name="librettistSort">Codey, Émile</field>
-
+<field name="theater">Casino</field>
 <field name="city">Limoges</field>
 <field name="region">Haute-Vienne</field>
 <field name="country">France</field>

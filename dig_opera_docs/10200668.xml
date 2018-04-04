@@ -10,7 +10,7 @@
 		<field name="composer">Napoléon Crépault</field>
 		<field name="composerSort">Crépault, Napoléon</field>
 		
-		
+		<field name="theater">Église Saint-Roch</field>
 		
 		<field name="city">Quebec City</field>
 		<field name="region">Quebec</field>

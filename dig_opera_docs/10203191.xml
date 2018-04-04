@@ -3,14 +3,18 @@
 		<field name="genre">Oratorio</field>
 		<field name="title">The Passage of the Red Sea</field>
 		<field name="titleSort">Passage of the Red Sea</field>
-		<field name="year">1855</field>
+		<field name="year">1856</field>
 		
 		
-		<field name="date">1855</field>
+		<field name="date">1856</field>
 		<field name="composer">Charles Danvers Hackett</field>
 		<field name="composerSort">Hackett, Charles Danvers</field>
 		
+		<field name="theater">Saint George's Hall</field>
 		
+		<field name="city">Liverpool</field>
+		<field name="region">Merseyside</field>
+		<field name="country">United Kingdom</field>
 		
 		
 		

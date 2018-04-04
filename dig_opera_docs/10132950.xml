@@ -2,12 +2,17 @@
 <doc>
 <field name="id">10132950</field>
 <field name="genre">Opera</field>
-<field name="title">Indian Christmas Play</field>
-<field name="titleSort">Indian Christmas Play</field>
+<field name="title">Christmas with Herrick</field>
+<field name="titleSort">Christmas with Herrick</field>
 <field name="composer">Healey Willan</field>
 <field name="composerSort">Willan, Healey</field>
+<field name="librettist">John Murray Gibbon</field>
+<field name="librettistSort">Gibbon, John Murray</field>
+<field name="librettist">Robert Herrick</field>
+<field name="librettistSort">Herrick, Robert</field>
 <field name="year">1929</field>
-<field name="date">1929</field>
+<field name="date">December 24, 1929</field>
+<field name="theater">Empress Hotel</field>
 <field name="city">Victoria</field>
 <field name="region">British Columbia</field>
 <field name="country">Canada</field>

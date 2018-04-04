@@ -6,12 +6,12 @@
 		<field name="year">1887</field>
 		
 		
-		<field name="date">1887</field>
+		<field name="date">January 11, 1887</field>
 		<field name="composer">Eva Rose York</field>
 		<field name="composerSort">York, Eva Rose</field>
 		
 		
-		
+		<field name="theater">Philharmonic Society</field>
 		<field name="city">Belleville</field>
 		<field name="region">Ontario</field>
 		<field name="country">Canada</field>

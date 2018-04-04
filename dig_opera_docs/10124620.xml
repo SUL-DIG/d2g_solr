@@ -11,6 +11,12 @@
 <field name="librettist">George Jonas</field>
 <field name="librettistSort">Jonas, George</field>
 
+<field name="theater">York University</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+European+Lover+Tibor+Polgar&amp;search_field=search</field>
 </doc>

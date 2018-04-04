@@ -8,8 +8,10 @@
 <field name="composerSort">Miró, Henri</field>
 <field name="year">1914</field>
 <field name="date">1914</field>
-<field name="librettist">L. Rad</field>
-<field name="librettistSort">Rad, L.</field>
+<field name="librettist">__ Rad</field>
+<field name="librettistSort">Rad, __</field>
+<field name="librettist">Henri Letondal</field>
+<field name="librettistSort">Letondal, Henri</field>
 <field name="theater">Princess Theatre</field>
 <field name="city">Montreal</field>
 <field name="region">Quebec</field>
