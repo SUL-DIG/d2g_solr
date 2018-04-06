@@ -10,7 +10,7 @@
 <field name="date">1986</field>
 <field name="librettist">Henry Beissel</field>
 <field name="librettistSort">Beissel, Henry</field>
-
+<field name="theater">Stratford Festival</field>
 <field name="city">Stratford</field>
 <field name="region">Ontario</field>
 <field name="country">Canada</field>

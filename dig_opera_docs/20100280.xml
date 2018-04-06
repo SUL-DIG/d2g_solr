@@ -28,7 +28,7 @@
         
 		<!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->
         
-		<field name="librettistSort">Alighieri, Dante</field>
+		<field name="librettistSort">Dante Alighieri</field>
 
  
    
