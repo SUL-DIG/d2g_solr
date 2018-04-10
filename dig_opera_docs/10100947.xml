@@ -5,11 +5,11 @@
 <field name="title">Sganarello</field>
 <field name="titleSort">Sganarello</field>
 <field name="composer">Francesco d'Arcais</field>
-<field name="composerSort">d'Arcais, Francesco</field>
+<field name="composerSort">Arcais, Francesco d'</field>
 <field name="year">1871</field>
 <field name="date">1871</field>
 <field name="librettist">Francesco d'Arcais</field>
-<field name="librettistSort">d'Arcais, Francesco</field>
+<field name="librettistSort">Arcais, Francesco d'</field>
 <field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
 <field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
 <field name="theater">Teatro Re</field>
