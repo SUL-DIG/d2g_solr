@@ -12,15 +12,14 @@
 <field name="librettistSort">Scherchen, Hermann</field>
 <field name="librettist">Wolfgang Petzet</field>
 <field name="librettistSort">Petzet, Wolfgang</field>
-field name="librettist">Johann Jacob Christoffel von Grimmelshausen</field>
+<field name="librettist">Johann Jacob Christoffel von Grimmelshausen</field>
 <field name="librettistSort">Grimmelshausen, Johann Jacob Christoffel von</field>
-field name="librettist">Karl Amadeus Hartmann</field>
+<field name="librettist">Karl Amadeus Hartmann</field>
 <field name="librettistSort">Hartmann, Karl Amadeus</field>
 <field name="theater">Bavarian Radio (Bayerischer Rundfunk)</field>
 <field name="city">Munich</field>
 <field name="region">Bayern</field>
 <field name="country">Germany</field>
-
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Des+Simplicius+Simplicissimus+Jugend+Karl+Amadeus+Hartmann&amp;search_field=search</field>
 </doc>
 </add>
