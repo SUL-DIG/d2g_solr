@@ -8,8 +8,8 @@
 <field name="composerSort">Rose, Georges</field>
 <field name="year">1876</field>
 <field name="date">1876</field>
-<field name="librettist">[Jean-Louis-Auguste Commerson] Commerson</field>
-<field name="librettistSort">Commerson, [Jean-Louis-Auguste Commerson]</field>
+<field name="librettist">Jean-Louis-Auguste Commerson</field>
+<field name="librettistSort">Commerson, Jean-Louis-Auguste</field>
 <field name="theater">Théâtre des Arts</field>
 <field name="city">Paris</field>
 
