@@ -5,7 +5,7 @@
 <field name="title">Le secret de Simonette</field>
 <field name="titleSort">secret de Simonette</field>
 <field name="composer">Alfred d'Hack</field>
-<field name="composerSort">d'Hack, Alfred</field>
+<field name="composerSort">Hack, Alfred d'</field>
 <field name="year">1871</field>
 <field name="date">1871</field><field name="theater">Salon</field>
 <field name="city">Paris</field>

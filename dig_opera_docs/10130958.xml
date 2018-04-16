@@ -4,8 +4,8 @@
 <field name="genre">Opera</field>
 <field name="title">Au Volga</field>
 <field name="titleSort">Au Volga</field>
-<field name="composer">Marquis de Thuisy</field>
-<field name="composerSort">Thuisy, Marquis de</field>
+<field name="composer">Eugène Goujon de Thuisy</field>
+<field name="composerSort">Thuisy, Eugène Goujon de</field>
 <field name="year">1907</field>
 <field name="date">1907</field>
 <field name="librettist">Gaston Duthil</field>

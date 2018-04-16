@@ -5,7 +5,7 @@
 <field name="title">Les deux talents</field>
 <field name="titleSort">deux talents</field>
 <field name="composer">Chevalier d'Herbain</field>
-<field name="composerSort">d'Herbain, Chevalier</field>
+<field name="composerSort">Herbain, Chevalier d'</field>
 <field name="year">1763</field>
 <field name="date">1763</field>
 <field name="librettist">Jean-François Bastide</field>

@@ -5,7 +5,7 @@
 <field name="title">Lavinia</field>
 <field name="titleSort">Lavinia</field>
 <field name="composer">Chevalier d'Herbain</field>
-<field name="composerSort">d'Herbain, Chevalier</field>
+<field name="composerSort">Herbain, Chevalier d'</field>
 <field name="year">1753</field>
 <field name="date">1753</field><field name="theater">Teatro Pubblico</field>
 <field name="city">Bastia</field>
