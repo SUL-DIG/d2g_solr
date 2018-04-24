@@ -3,11 +3,11 @@
 		<field name="genre">Oratorio</field>
 		<field name="title">The Pilgrims of 1620</field>
 		<field name="titleSort">Pilgrims of 1620</field>
-		<field name="year">January</field>
+		<field name="year">1850</field>
 		
-		<field name="month">17</field>
+		<field name="month">January</field>
 		
-		<field name="day">1850</field>
+		<field name="day">17</field>
 		
 		<field name="date">January 17, 1850</field>
 	
