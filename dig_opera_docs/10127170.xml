@@ -15,7 +15,7 @@
 
 <field name="city">Cluj-Napoca</field>
 <field name="region">Cluj</field>
-<field name="country">Romania</field>
+<field name="country">Transylvania</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Béla+futása+Bela's+Escape+József+Ruzitska&amp;search_field=search</field>
 </doc>
