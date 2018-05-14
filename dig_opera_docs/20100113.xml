@@ -4,17 +4,17 @@
 <field name="genre">Opera</field>
 <field name="title">Hippolyte</field>
 <field name="titleSort">Hippolyte</field>
-<field name="composer">LÈon MÈneau</field>
-<field name="composerSort">MÈneau, LÈon</field>
+<field name="composer">L√©on M√©neau</field>
+<field name="composerSort">M√©neau, L√©on</field>
 <field name="librettist">Paul Gaudin</field>
 <field name="librettistSort">Gaudin, Paul</field>
 <field name="year">1863</field>
 <field name="date">1863</field>
-<field name="theater">ThÈ‚tre Municipal</field>
+<field name="theater">Th√©√¢tre Municipal</field>
 <field name="city">La Rochelle</field>
 <field name="region">Charente-Maritime</field>
 <field name="country">France</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=?&amp;q=Hippolyte+LÈon+MÈneau&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=?&amp;q=Hippolyte+L√©on+M√©neau&amp;search_field=search</field>
 </doc>
 </add>
