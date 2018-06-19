@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100619</field>
+        <field name="genre">Operetta</field>
+        <field name="title">Bigoudis, ou Les jumelles audacieuses</field>
+        <!-- The titleSort field should be the Title beginning with whatever word should be used for alphabetical sorting (the elimination of title-beginning articles). -->
+        <field name="titleSort">Bigoudis, ou Les jumelles audacieuses</field>
+        <!-- The composer's name should be put in Natural Order: First Middle Last -->
+        <field name="composer">Maurice Bellecour</field>
+        <!-- The composer's name should be put in Indirect Order: Last, First Middle, etc. -->
+        <field name="composerSort">Bellecour, Maurice</field>
+        <!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        <field name="librettist">Victor Hoerter</field>
+	<field name="librettist">G. Saint-Armand</field>
+        <!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->        
+        <field name="librettistSort">Hoerter, Victor</field>
+	<field name="librettistSort">Saint-Armand, G. </field>
+        <field name="year">1923</field>
+        <!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
+        <field name="date">July 14, 1923</field>
+        <field name="theater">Théâtre du Moulin-Bleu</field>
+        <field name="city">Paris</field>
+        <!-- We use the region field for states or regions. -->
+        <field name="country">France</field>
+        <!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bigoudis+jumelles+audacieuses+Maurice+Bellecour&amp;search_field=search</field>
+    </doc>
+</add>
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

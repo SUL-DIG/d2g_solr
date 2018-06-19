@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100773</field>
+        <field name="genre">Opera</field>
+        <field name="title">Il Frankenstein, ovvero l'amor non guarda in faccia</field>
+        <!-- The titleSort field should be the Title beginning with whatever word should be used for alphabetical sorting (the elimination of title-beginning articles). -->
+        <field name="titleSort">Frankenstein, ovvero l'amor non guarda in faccia</field>
+        <!-- The composer's name should be put in Natural Order: First Middle Last -->
+        <field name="composer">Michele della Valentina</field>
+        <field name="composer">Aurelio Scotto</field>
+        <!-- The composer's name should be put in Indirect Order: Last, First Middle, etc. -->
+        <field name="composerSort">Valentina, Michele della</field>
+        <field name="composerSort">Scotto, Aurelio</field>
+        <!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        <field name="librettist">Andrea Stanisci</field>
+        <field name="librettist">Gabriele Duma</field>
+        <!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->        
+        <field name="librettistSort">Stanisci, Andrea</field>
+        <field name="librettistSort">Duma, Gabriele</field>
+        <field name="year">2017</field>
+        <!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
+        <field name="date">February 21, 2017</field>
+        <field name="theater">Teatro del Maggio</field>
+        <field name="city">Florence</field>
+        <!-- We use the region field for states or regions. -->
+        <field name="region">Tuscany</field>
+        <field name="country">Italy</field>
+        <!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frankenstein+amor+guarda+faccia+Michele+Valentina+Aurelio+Scotto&amp;search_field=search</field>
+    </doc>
+</add>
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

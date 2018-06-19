@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100632</field>
+        <field name="genre">Operetta</field>
+        <field name="title">Ah! Prends-moi</field>
+        <!-- The titleSort field should be the Title beginning with whatever word should be used for alphabetical sorting (the elimination of title-beginning articles). -->
+        <field name="titleSort">Ah! Prends-moi</field>
+        <!-- The composer's name should be put in Natural Order: First Middle Last -->
+        <field name="composer">Robert Casa</field>
+        <!-- The composer's name should be put in Indirect Order: Last, First Middle, etc. -->
+        <field name="composerSort">Casa, Robert</field>
+        <!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        <field name="librettist">Fernand Beissier</field>
+	<field name="librettist">Louis Bousquet</field>
+        <!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->        
+        <field name="librettistSort">Beissier, Fernand</field>
+	<field name="librettistSort">Bousquet, Louis</field>
+        <field name="year">1928</field>
+        <!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
+        <field name="date">September 21, 1928</field>
+        <field name="theater">Théâtre Le Beffroi</field>
+        <field name="city">Montrouge</field>
+        <!-- We use the region field for states or regions. -->
+        <field name="region">Hauts-de-Seine</field>
+        <field name="country">France</field>
+        <!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ah+Prends-moi+Robert+Casa&amp;search_field=search</field>
+    </doc>
+</add>
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

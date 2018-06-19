@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100683</field>
+        <field name="genre">Operetta</field>
+        <field name="title">Ca va, j'ai compris</field>
+        <!-- The titleSort field should be the Title beginning with whatever word should be used for alphabetical sorting (the elimination of title-beginning articles). -->
+        <field name="titleSort">Ca va, j'ai compris</field>
+        <!-- The composer's name should be put in Natural Order: First Middle Last -->
+        <field name="composer">Marcel Learsi</field>
+        <!-- The composer's name should be put in Indirect Order: Last, First Middle, etc. -->
+        <field name="composerSort">Learsi, Marcel</field>
+        <!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        <field name="librettist">René Bussy</field>
+        <!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->        
+        <field name="librettistSort">Bussy, René</field>
+        <field name="year">1936</field>
+        <!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
+        <field name="date">June 16, 1936</field>
+        <field name="theater">Théâtre de la Renaissance</field>
+        <field name="city">Paris</field>
+        <!-- We use the region field for states or regions. -->
+        <field name="country">France</field>
+        <!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ca+va+j'ai+compris+Marcel+Learsi&amp;search_field=search</field>
+    </doc>
+</add>
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->

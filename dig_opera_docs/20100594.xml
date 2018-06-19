@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100594</field>
+        <field name="genre">Operetta</field>
+        <field name="title">Belamour</field>
+        <!-- The titleSort field should be the Title beginning with whatever word should be used for alphabetical sorting (the elimination of title-beginning articles). -->
+        <field name="titleSort">Belamour</field>
+        <!-- The composer's name should be put in Natural Order: First Middle Last -->
+        <field name="composer">Guy Lafarge</field>
+        <!-- The composer's name should be put in Indirect Order: Last, First Middle, etc. -->
+        <field name="composerSort">Lafarge, Guy</field>
+        <!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        <field name="librettist">François Llenas</field>
+	<field name="librettist">Marion Vandal</field>
+        <!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->        
+        <field name="librettistSort">Llenas, François</field>
+	<field name="librettistSort">Vandal, Marion</field>
+        <field name="year">1943</field>
+        <!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
+        <field name="date">November 19, 1943</field>
+        <field name="theater">Théâtre des Nouveautés</field>
+        <field name="city">Paris</field>
+        <!-- We use the region field for states or regions. -->
+        <field name="country">France</field>
+        <!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Belamour+Guy+Lafarge&amp;search_field=search</field>
+    </doc>
+</add>
+
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. Also, don't forget to rename the file extension as .xml -->
