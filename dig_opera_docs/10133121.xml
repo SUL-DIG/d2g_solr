@@ -4,8 +4,8 @@
 <field name="genre">Opera</field>
 <field name="title">Die Schule der Liebe</field>
 <field name="titleSort">Schule der Liebe</field>
-<field name="composer">Maximilian Wolf</field>
-<field name="composerSort">Wolf, Maximilian</field>
+<field name="composer">Max Wolf</field>
+<field name="composerSort">Wolf, Max</field>
 <field name="year">1868</field>
 <field name="date">1868</field>
 <field name="librettist">[Leopold Karl Dittmar Kohl von Kohlenegg] Poly Henrion</field>
@@ -17,6 +17,6 @@
 <field name="region">Moravskoslezský</field>
 <field name="country">Czech Republic</field>
 <field name="subgenre">Operetta</field>
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Schule+der+Liebe+Maximilian+Wolf&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Schule+der+Liebe+Max+Wolf&amp;search_field=search</field>
 </doc>
 </add>
