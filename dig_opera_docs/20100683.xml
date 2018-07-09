@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?><add>
     <doc>
         <field name="id">20100683</field>
-        <field name="genre">Operetta</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
         <field name="title">Ca va, j'ai compris</field>
         <!-- The titleSort field should be the Title beginning with whatever word should be used for alphabetical sorting (the elimination of title-beginning articles). -->
         <field name="titleSort">Ca va, j'ai compris</field>
