@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100791</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Aladin, ou La Lampe merveilleuse</field>
+        <field name="titleSort">Aladin, ou La Lampe merveilleuse</field>
+        <field name="composer">[Wilhelm Rottenstein] Willy Redstone</field>
+        <field name="composerSort">Redstone, Willy [Wilhelm Rottenstein]</field>
+        <field name="librettist">[Georges Thenon] Rip</field>
+        <field name="librettistSort">Rip, [Georges Thenon]</field>
+        <field name="year">1919</field>
+        <field name="date">May 21, 1919</field>
+        <field name="theater">Théâtre Marigny</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aladin+Lampe+merveilleuse+Willy+Redstone&amp;search_field=search</field>
+    </doc>
+</add>
