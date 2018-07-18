@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100802</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">La Petite fonctionnaire</field>
+        <field name="titleSort">Petite fonctionnaire</field>
+        <field name="composer">André Messager</field>
+        <field name="composerSort">Messager, André</field>
+        <field name="librettist">Alfred Capus</field>
+        <field name="librettist">Xavier Roux</field>
+        <field name="librettistSort">Capus, Alfred</field>
+        <field name="librettistSort">Roux, Xavier</field>
+        <field name="year">1921</field>
+        <field name="date">May 14, 1921</field>
+        <field name="theater">Théâtre Mogador</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Petite+fonctionnnaire+André+Messager&amp;search_field=search</field>
+    </doc>
+</add>

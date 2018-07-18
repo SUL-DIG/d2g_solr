@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100801</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Folie d'amour</field>
+        <field name="titleSort">Folie d'amour</field>
+        <field name="composer">Estéban Marti</field>
+        <field name="composerSort">Marti, Estéban</field>
+        <field name="librettist">Maurice Gleize</field>
+        <field name="librettist">Maurice Merouvel</field>
+        <field name="librettistSort">Gleize, Maurice</field>
+        <field name="librettistSort">Merouvel, Maurice</field>
+        <field name="year">1921</field>
+        <field name="date">April 24, 1921</field>
+        <field name="theater">Abri</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Folie+amour+Estéban+Marti&amp;search_field=search</field>
+    </doc>
+</add>

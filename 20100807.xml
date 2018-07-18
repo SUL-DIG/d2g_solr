@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100807</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Nonnette</field>
+        <field name="titleSort">Nonnette</field>
+        <field name="composer">Charles Cuvillier</field>
+        <field name="composerSort">Cuvillier, Charles</field>
+        <field name="librettist">André Barde</field>
+        <field name="librettistSort">Barde, André</field>
+        <field name="year">1922</field>
+        <field name="date">March 28, 1922</field>
+        <field name="theater">Capucines</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nonnette+Charles+Cuvillier&amp;search_field=search</field>
+    </doc>
+</add>

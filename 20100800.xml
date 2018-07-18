@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100800</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Titin</field>
+        <field name="titleSort">Titin</field>
+        <field name="composer">Joseph Szulc</field>
+        <field name="composerSort">Szulc, Joseph</field>
+        <field name="librettist">Gaston Dumestre</field>
+        <field name="librettist">Roger Ferréol</field>
+        <field name="librettistSort">Dumestre, Gaston</field>
+        <field name="librettistSort">Ferréol, Roger</field>
+        <field name="year">1920</field>
+        <field name="date">October 5, 1920</field>
+        <field name="theater">Bataclan</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Titin+Joseph+Szulc&amp;search_field=search</field>
+    </doc>
+</add>

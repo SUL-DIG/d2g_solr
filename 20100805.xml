@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100805</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">La Belle de Paris</field>
+        <field name="titleSort">Belle de Paris</field>
+        <field name="composer">Louis Ganne</field>
+        <field name="composerSort">Ganne, Louis</field>
+        <field name="librettist">Lucien Boyer</field>
+        <field name="librettist">Fernand Rouvray</field>
+        <field name="librettistSort">Boyer, Lucien</field>
+        <field name="librettistSort">Rouvray, Fernand</field>
+        <field name="year">1921</field>
+        <field name="date">October 22, 1921</field>
+        <field name="theater">Apollo</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Belle+Paris+Louis+Ganne&amp;search_field=search</field>
+    </doc>
+</add>

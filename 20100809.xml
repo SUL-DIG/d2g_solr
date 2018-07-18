@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100809</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Loute</field>
+        <field name="titleSort">Loute</field>
+        <field name="composer">Joseph Szulc</field>
+        <field name="composerSort">Szulc, Joseph</field>
+        <field name="librettist">Pierre Veber</field>
+        <field name="librettist">Maurice Soulié</field>
+        <field name="librettistSort">Veber, Pierre</field>
+        <field name="librettistSort">Soulié, Maurice</field>
+        <field name="year">1922</field>
+        <field name="date">November 3, 1922</field>
+        <field name="theater">Théâtre Musical de Gaîté</field>
+        <field name="city">Brussels</field>
+        <field name="region">Brussels</field>
+        <field name="country">Belgium</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Loute+Joseph+Szulc&amp;search_field=search</field>
+    </doc>
+</add>
