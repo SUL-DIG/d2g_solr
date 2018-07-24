@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100822</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Vivette</field>
+        <field name="titleSort">Vivette</field>
+        <field name="composer">Joseph Szulc</field>
+        <field name="composerSort">Szulc, Joesph</field>
+        <field name="librettist">Gaston Dumestre</field>
+        <field name="librettistSort">Dumestre, Gaston</field>
+        <field name="year">1924</field>
+        <field name="date">October 31, 1924</field>
+        <field name="theater">Le Forum</field>
+        <field name="city">Liège</field>
+        <field name="region">Wallonia</field>
+        <field name="country">Belgium</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vivette+Joseph+Szulc&amp;search_field=search</field>
+    </doc>
+</add>

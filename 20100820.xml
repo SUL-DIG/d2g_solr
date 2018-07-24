@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100820</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">La Perle de Chicago</field>
+        <field name="titleSort">Perle de Chicago</field>
+        <field name="composer">Harry Sylvabell</field>
+        <field name="composerSort">Sylvabell</field>
+        <field name="librettist">Maurice Dekobra</field>
+        <field name="librettistSort">Dekobra</field>
+        <field name="year">1924</field>
+        <field name="date">May 22, 1924</field>
+        <field name="theater">Gaîté Lyrique</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Perle+Chicago+Harry+Sylvabell&amp;search_field=search</field>
+    </doc>
+</add>

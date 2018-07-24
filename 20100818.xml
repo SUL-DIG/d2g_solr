@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100818</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">La Jolie Sablais</field>
+        <field name="titleSort">Jolie Sablais</field>
+        <field name="composer">Henri Panella</field>
+        <field name="composerSort">Panella, Henri</field>
+        <field name="librettist">Georges Millandy</field>
+        <field name="librettistSort">Millandy, Georges</field>
+        <field name="year">1924</field>
+        <field name="date">April 1, 1924</field>
+        <field name="theater">Belleville</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jolie+Sablais+Henri+Panella&amp;search_field=search</field>
+    </doc>
+</add>

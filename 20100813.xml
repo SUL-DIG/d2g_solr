@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100813</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Mélékas, ou L'Orgie à Mytilène</field>
+        <field name="titleSort">Mélékas, ou L'Orgie à Mytilène</field>
+        <field name="composer">Charles Chobillon</field>
+        <field name="composerSort">Chobillon, CHarles</field>
+        <field name="librettist">Adolphe Couturet</field>
+        <field name="librettistSort">Couturet, Adolphe</field>
+        <field name="year">1923</field>
+        <field name="date">August 24, 1923</field>
+        <field name="theater">Théâtre Cluny</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mélékas+Orgie+Mytilène+Charles+Chobillon&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100828</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Riri</field>
+        <field name="titleSort">Riri</field>
+        <field name="composer">Charles Borel-Clerc</field>
+        <field name="composerSort">Borel-Clerc, Charles</field>
+        <field name="librettist">Yves Mirande</field>
+        <field name="librettist">Albert Willemetz</field>
+        <field name="librettistSort">Mirande, Yves</field>
+        <field name="librettistSort">Willemetz, Albert</field>
+        <field name="year">1925</field>
+        <field name="date">November 6, 1925</field>
+        <field name="theater">Daunou</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Riri+Charles+Borel-Clerc&amp;search_field=search</field>
+    </doc>
+</add>

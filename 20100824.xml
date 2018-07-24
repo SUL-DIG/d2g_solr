@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100824</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">À toi ma bouche, ou À toi mon coeur</field>
+        <field name="titleSort">À toi ma bouche, ou À toi mon coeur</field>
+        <field name="composer">Eugène Gavel</field>
+        <field name="composerSort">Gavel, Eugène</field>
+        <field name="librettist">Marcel Bertal</field>
+        <field name="librettist">Louis Maubon</field>
+        <field name="librettistSort">Bertal, Marcel</field>
+        <field name="librettistSort">Maubon, Louis</field>
+        <field name="year">1925</field>
+        <field name="date">January 16, 1925</field>
+        <field name="theater">Casino Montparnesse</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=toi+bouche+coeur+Eugène+Gavel&amp;search_field=search</field>
+    </doc>
+</add>
