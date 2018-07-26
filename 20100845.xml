@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100845</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">La Rose du cambouis</field>
+        <field name="titleSort">Rose du cambouis</field>
+        <field name="composer">Gaston Trémolo</field>
+        <field name="composerSort">Trémolo, Gaston</field>
+        <field name="librettist">Jean Rieux</field>
+        <field name="librettistSort">Rieux, Jean</field>
+        <field name="year">1927</field>
+        <field name="date">October 13, 1927</field>
+        <field name="theater">Les Deux Ânes</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rose+cambouis+Gaston+Trémolo&amp;search_field=search</field>
+    </doc>
+</add>

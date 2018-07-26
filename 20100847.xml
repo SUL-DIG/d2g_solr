@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100847</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">La P'tite femme de Lombez</field>
+        <field name="titleSort">P'tite femme de Lombez</field>
+        <field name="composer">Roger Birgé</field>
+        <field name="composerSort">Birgé, Roger</field>
+        <field name="librettist">Edmond Joullot</field>
+        <field name="librettist">Eugène Joullot</field>
+        <field name="librettist">José de Berys</field>
+        <field name="librettistSort">Joullot, Edmond</field>
+        <field name="librettistSort">Joullot, Eugène</field>
+        <field name="librettistSort">Berys, José de</field>
+        <field name="year">1927</field>
+        <field name="date">November 8, 1927</field>
+        <field name="theater">Gaîté Rochechouart</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=P'tite+femme+Lombez+Roger+Birgé&amp;search_field=search</field>
+    </doc>
+</add>

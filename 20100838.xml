@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100838</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Le Secret d'Arlette</field>
+        <field name="titleSort">Secret d'Arlette</field>
+        <field name="composer">René de Buxeuil [Jean-Baptiste Chevrier]</field>
+        <field name="composerSort">Buxeuil, René de [Jean-Baptiste Chevrier]</field>
+        <field name="librettist">Edmond Fernand Xau</field>
+        <field name="librettistSort">Xau, Edmond Fernand</field>
+        <field name="year">1927</field>
+        <field name="date">January 1, 1927</field>
+        <field name="theater">Belleville</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Secret+d'Arlette+René+Buxeuil&amp;search_field=search</field>
+    </doc>
+</add>

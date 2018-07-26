@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100830</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Le Roi des Schnorrers</field>
+        <field name="titleSort">Roi des Schnorrers</field>
+        <field name="composer">Octave Crémieux</field>
+        <field name="composerSort">Crémieux, Octave</field>
+        <field name="librettist">Israël Zangwill</field>
+        <field name="librettist">Pierre Varenne</field>
+        <field name="librettistSort">Zangwill, Israël</field>
+        <field name="librettistSort">Varenne, Pierre</field>
+        <field name="year">1926</field>
+        <field name="date">January 5, 1926</field>
+        <field name="theater">Théâtre Garnier</field>
+        <field name="city">Monte Carlo</field>
+        <field name="region">Monaco</field>
+        <field name="country">Monaco</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Roi+Schnorrers+Octave+Crémieux&amp;search_field=search</field>
+    </doc>
+</add>

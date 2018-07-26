@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100840</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Miss Amerika</field>
+        <field name="titleSort">Miss Amerika</field>
+        <field name="composer">Walter Bromme</field>
+        <field name="composerSort">Bromme, Walter</field>
+        <field name="librettist">Kurt Schwabach</field>
+        <field name="librettist">Georg Okonkowski</field>
+        <field name="librettist">Will Steinberg</field>
+        <field name="librettistSort">Schwabach, Kurt</field>
+        <field name="librettistSort">Okonkowski, Georg</field>
+        <field name="librettistSort">Steinberg, Will</field>
+        <field name="year">1926</field>
+        <field name="date">August 20, 1926</field>
+        <field name="theater">Berliner Theater</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Miss+Amerika+Walter+Bromme&amp;search_field=search</field>
+    </doc>
+</add>

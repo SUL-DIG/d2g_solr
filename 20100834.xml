@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100834</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Divin mensonge</field>
+        <field name="titleSort">Divin mensonge</field>
+        <field name="composer">Joseph Szulc</field>
+        <field name="composerSort">Szulc, Joseph</field>
+        <field name="librettist">Alex Madis</field>
+        <field name="librettist">Pierre Veber</field>
+        <field name="librettist">Hugues Delorme</field>
+        <field name="librettistSort">Madis, Alex</field>
+        <field name="librettistSort">Veber, Pierre</field>
+        <field name="librettistSort">Delorme, Hugues</field>
+        <field name="year">1926</field>
+        <field name="date">October 12, 1926</field>
+        <field name="theater">Capucines</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Divin+mensonge+Joseph+Szulc&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100843</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">La Rose de minuit</field>
+        <field name="titleSort">Rose de minuit</field>
+        <field name="composer">Alex Puget</field>
+        <field name="composerSort">Puget, Alex</field>
+        <field name="librettist">Paul Diolot</field>
+        <field name="librettistSort">Diolot, Paul</field>
+        <field name="year">1927</field>
+        <field name="date">August 19, 1927</field>
+        <field name="theater">Capitole</field>
+        <field name="city">Marseille</field>
+        <field name="region">Provence</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rose+minuit+Alex+Puget&amp;search_field=search</field>
+    </doc>
+</add>

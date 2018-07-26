@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100831</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">L'Homme qui vendit son âme au diable</field>
+        <field name="titleSort">Homme qui vendit son âme au diable</field>
+        <field name="composer">Jean Nouguès</field>
+        <field name="composerSort">Nouguès, Jean</field>
+        <field name="librettist">Pierre Veber</field>
+        <field name="librettist">Serge Veber</field>
+        <field name="librettistSort">Veber, Pierre</field>
+        <field name="librettistSort">Veber, Serge</field>
+        <field name="year">1926</field>
+        <field name="date">March 16, 1926</field>
+        <field name="theater">Gaîté Lyrique</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Homme+vendit+âme+diable+Jean+Nouguès&amp;search_field=search</field>
+    </doc>
+</add>

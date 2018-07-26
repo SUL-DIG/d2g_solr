@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100833</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">La Calesera</field>
+        <field name="titleSort">Calesera</field>
+        <field name="composer">Francisco Alonso</field>
+        <field name="composerSort">Alonso, Francisco</field>
+        <field name="librettist">Emilio Garcia del Castillo</field>
+        <field name="librettist">Luis Martinez Roman</field>
+        <field name="librettistSort">Castillo, Emilio Garica del</field>
+        <field name="librettistSort">Roman, Luis Martinez</field>
+        <field name="year">1925</field>
+        <field name="date">December 12, 1925</field>
+        <field name="theater">Teatro de la Zarzuela</field>
+        <field name="city">Madrid</field>
+        <field name="region">Madrid</field>
+        <field name="country">Spain</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Calesera+Francisco+Alonso&amp;search_field=search</field>
+    </doc>
+</add>

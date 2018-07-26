@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100848</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Ma femme</field>
+        <field name="titleSort">Ma femme</field>
+        <field name="composer">Pierre de Meure</field>
+        <field name="composerSort">Meure, Pierre de</field>
+        <field name="librettist">Paul Briquet</field>
+        <field name="librettist">Paul Gordeaux</field>
+        <field name="librettistSort">Briquet, Paul</field>
+        <field name="librettistSort">Gordeaux, Paul</field>
+        <field name="year">1927</field>
+        <field name="date">November 29, 1927</field>
+        <field name="theater">Potinière</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ma+femme+Pierre+Meure&amp;search_field=search</field>
+    </doc>
+</add>
