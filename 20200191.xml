@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200191</field>
+        <field name="genre">Oratorio</field>
+        <field name="title">Le mystère des saints innocents</field>
+        <field name="titleSort">Mystère des saints innocents</field>
+        <field name="composer">Henry Barraud</field>
+        <field name="composerSort">Barraud, Henry</field>
+        <field name="librettist">Charles Péguy</field>
+        <field name="librettistSort">Péguy, Charles</field>
+        <field name="year">1947</field>
+        <field name="date">1947</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=mystère+saints+innocents+Henry+Barraud&amp;search_field=search</field>
+    </doc>
+</add>

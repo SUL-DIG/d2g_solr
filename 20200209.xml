@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200209</field>
+        <field name="genre">Oratorio</field>
+        <field name="subject">Nativity</field>
+        <field name="title">Juleoratorium: "In nativitate domini"</field>
+        <field name="titleSort">Juleoratorium: "In nativitate domini"</field>
+        <field name="composer">Leif Kayser</field>
+        <field name="composerSort">Kayser, Leif</field>
+        <field name="year">1947</field>
+        <field name="date">1947</field>
+        <field name="country">Denmark</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Juleoratorium+nativitate+Leif+Kayser&amp;search_field=search</field>
+    </doc>
+</add>

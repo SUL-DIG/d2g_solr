@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200201</field>
+        <field name="genre">Oratorio</field>
+        <field name="subject">Micah</field>
+        <field name="title">The Prophecy of Micah</field>
+        <field name="titleSort">Prophecy of Micah</field>
+        <field name="composer">Isadore Freed</field>
+        <field name="composerSort">Freed, Isadore</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prophecy+Micah+Isadore+Freed&amp;search_field=search</field>
+    </doc>
+</add>

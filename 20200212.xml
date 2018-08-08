@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200212</field>
+        <field name="genre">Oratorio</field>
+        <field name="subject">Transfiguration</field>
+        <field name="title">La Transfiguration de notre signeur Jésus-Christ</field>
+        <field name="titleSort">Transfiguration de notre signeur Jésus-Christ</field>
+        <field name="composer">Olivier Messiaen</field>
+        <field name="composerSort">Messiaen, Olivier</field>
+        <field name="year">1969</field>
+        <field name="date">June 7, 1969</field>
+        <field name="theater">Coliseu dos Recreios</field>
+        <field name="city">Lisbon</field>
+        <field name="region">Lisbon</field>
+        <field name="country">Portugal</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Transfiguration+signeur+Jésus-Christ+Olivier+Mesiaen&amp;search_field=search</field>
+    </doc>
+</add>

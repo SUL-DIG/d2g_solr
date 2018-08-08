@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200214</field>
+        <field name="genre">Oratorio</field>
+        <field name="title">Cristo in los Infiernos (o Cristo en el Seno de Abraham)</field>
+        <field name="titleSort">Cristo in los Infiernos (o Cristo en el Seno de Abraham)</field>
+        <field name="composer">Roberto Pineda</field>
+        <field name="composerSort">Pineda, Roberto</field>
+        <field name="librettist">Pablo María Argaeta</field>
+        <field name="librettist">Roberto Pineda</field>
+        <field name="librettistSort">Argaeta, Pablo María</field>
+        <field name="librettistSort">Pineda, Roberto</field>
+        <field name="year">1961</field>
+        <field name="date">February 20, 1961</field>
+        <field name="city">Bogotá</field>
+        <field name="region">Distrito Capital</field>
+        <field name="country">Columbia</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cristo+Infiernos+Abraham+Roberto+Pineda&amp;search_field=search</field>
+    </doc>
+</add>
