@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200217</field>
+        <field name="genre">Oratorio</field>
+        <field name="subject">October Revolution</field>
+        <field name="title">Kantata k XX-letiiu oktiabria (Cantata for the Twentieth Anniversary of the October Revolution)</field>
+        <field name="titleSort">Kantata k XX-letiiu oktiabria (Cantata for the Twentieth Anniversary of the October Revolution)</field>
+        <field name="composer">Sergei Sergeevich Prokofiev</field>
+        <field name="composerSort">Prokofiev, Sergei Sergeevich</field>
+        <field name="librettist">Sergei Sergeevich Prokofiev</field>
+        <field name="librettistSort">Prokofiev, Sergei Sergeevich</field>
+        <field name="year">1966</field>
+        <field name="date">1966</field>
+        <field name="country">Russia</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kantata+oktiabria+XX-letiiu+Sergei+Prokofiev&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200224</field>
+        <field name="genre">Oratorio</field>
+        <field name="title">A tüz márciusa</field>
+        <field name="titleSort">tüz márciusa</field>
+        <field name="composer">Sándor Szokolay</field>
+        <field name="composerSort">Szokolay, Sándor</field>
+        <field name="librettist">Endre Ady</field>
+        <field name="librettistSort">Ady, Endre</field>
+        <field name="year">1959</field>
+        <field name="date">1959</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=tüz+márciusa+Sándor+Szokolay&amp;search_field=search</field>
+    </doc>
+</add>

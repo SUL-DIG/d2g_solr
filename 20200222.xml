@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200222</field>
+        <field name="genre">Oratorio</field>
+        <field name="subject">St. Mary of Egypt</field>
+        <field name="title">Maria Egiziaca: Mistero</field>
+        <field name="titleSort">Maria Egiziaca: Mistero</field>
+        <field name="composer">Ottorino Respighi</field>
+        <field name="composerSort">Respighi, Ottorino</field>
+        <field name="librettist">Claudio Guastalla</field>
+        <field name="librettistSort">Guastalla, Claudio</field>
+        <field name="year">1932</field>
+        <field name="date">March 16, 1932</field>
+        <field name="theater">Carnegie Hall</field>
+        <field name="city">New York</field>
+        <field name="region">New York</field>
+        <field name="country">United States</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maria+Egiziaca+Ottorino+Respighi&amp;search_field=search</field>
+    </doc>
+</add>

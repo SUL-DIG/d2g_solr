@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200221</field>
+        <field name="genre">Oratorio</field>
+        <field name="title">L'Oracolo</field>
+        <field name="titleSort">Oracolo</field>
+        <field name="composer">Licinio Refice</field>
+        <field name="composerSort">Refice, Licinio</field>
+        <field name="librettist">Emidio Mucci</field>
+        <field name="librettistSort">Mucci, Emidio</field>
+        <field name="year">1946</field>
+        <field name="date">1946</field>
+        <field name="city">Milan</field>
+        <field name="region">Lombardy</field>
+        <field name="country">Italy</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oracolo+Licinio+Refice&amp;search_field=search</field>
+    </doc>
+</add>

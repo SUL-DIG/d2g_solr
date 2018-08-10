@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200230</field>
+        <field name="genre">Oratorio</field>
+        <field name="title">With All Thy Soul</field>
+        <field name="titleSort">With All Thy Soul</field>
+        <field name="composer">Josef Tal</field>
+        <field name="composerSort">Tal, Josef</field>
+        <field name="librettist">1 Maccabees</field>
+        <field name="librettist">Sefer Ha'Agada</field>
+        <field name="librettistSort">1 Maccabees</field>
+        <field name="librettistSort">Ha'Agada, Sefer</field>
+        <field name="year">1978</field>
+        <field name="date">1978</field>
+        <field name="city">Jerusalem</field>
+        <field name="region">Jerusalem</field>
+        <field name="country">Israel</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=All+Soul+Josef+Tal&amp;search_field=search</field>
+    </doc>
+</add>
