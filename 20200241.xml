@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200241</field>
+        <field name="genre">Oratorio</field>
+        <field name="subject">The Seasons</field>
+        <field name="title">Die Tageszeiten</field>
+        <field name="titleSort">Tageszeiten</field>
+        <field name="composer">Ernst Köhler</field>
+        <field name="composerSort">Köhler, Ernst</field>
+        <field name="librettist">Pulvermacher</field>
+        <field name="librettistSort">Pulvermacher</field>
+        <field name="year">1834</field>
+        <field name="date">1834</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tageszeiten+Ernst+Köhler&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200246</field>
+        <field name="genre">Oratorio</field>
+        <field name="title">Christus durch Leiden verherrlicht</field>
+        <field name="titleSort">Christus durch Leiden verherrlicht</field>
+        <field name="composer">Johann Immanuel Müller</field>
+        <field name="composerSort">Müller, Johann Immanuel</field>
+        <field name="year">1831</field>
+        <field name="date">1831</field>
+        <field name="theater">Kaufmannskirche</field>
+        <field name="city">Erfurt</field>
+        <field name="region">Thuringia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Christus+Leiden+verherrlicht+Johann+Müller&amp;search_field=search</field>
+    </doc>
+</add>

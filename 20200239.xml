@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200239</field>
+        <field name="genre">Oratorio</field>
+        <field name="subject">Jesus Resurrects the Dead</field>
+        <field name="title">Der Jüngling von Nain</field>
+        <field name="titleSort">Jüngling von Nain</field>
+        <field name="composer">Carl Eberwein</field>
+        <field name="composerSort">Eberwein, Carl</field>
+        <field name="librettist">Gospel of Luke</field>
+        <field name="librettistSort">Luke, Gospel of</field>
+        <field name="year">1825</field>
+        <field name="date">May 14, 1825</field>
+        <field name="city">Weimar</field>
+        <field name="region">Thuringia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jüngling+Nain+Carl+Eberwein&amp;search_field=search</field>
+    </doc>
+</add>
