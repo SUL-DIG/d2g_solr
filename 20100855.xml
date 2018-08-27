@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100855</field>
+        <field name="genre">Opera</field>
+        <field name="title">Borée et Flore</field>
+        <field name="titleSort">Borée et Flore</field>
+        <field name="composer">Josephine-Rosalie-Pauline de Walckiers</field>
+        <field name="composerSort">Walckiers, Josephine-Rosalie-Pauline de</field>
+        <field name="year">1784</field>
+        <field name="date">1784</field>
+        <field name="theater">Théâtre de la Monnaie</field>
+        <field name="city">Brussels</field>
+        <field name="region">Brussels</field>
+        <field name="country">Belgium</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Borée+Flore+Walckiers&amp;search_field=search</field>
+    </doc>
+</add>

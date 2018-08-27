@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100858</field>
+        <field name="genre">Opera</field>
+        <field name="title">Agnes Sorel</field>
+        <field name="titleSort">Agnes Sorel</field>
+        <field name="composer">Mary Anne A'Beckett</field>
+        <field name="composerSort">A'Beckett, Mary Anne</field>
+        <field name="librettist">Gilbert A'Beckett</field>
+        <field name="librettistSort">A'Beckett, Gilbert</field>
+        <field name="year">1835</field>
+        <field name="date">August 1835</field>
+        <field name="theater">John Braham's St. James's Theatre</field>
+        <field name="city">London</field>
+        <field name="region">London</field>
+        <field name="country">England</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Agnes+Sorel+Mary+A'Beckett&amp;search_field=search</field>
+    </doc>
+</add>

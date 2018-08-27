@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100854</field>
+        <field name="genre">Opera</field>
+        <field name="title">Les Génies</field>
+        <field name="titleSort">Génies</field>
+        <field name="composer">Mlle. Duval</field>
+        <field name="composerSort">Duval, Mlle.</field>
+        <field name="librettist">Fleury de Lyon</field>
+        <field name="librettistSort">Fleury, de Lyon</field>
+        <field name="year">1736</field>
+        <field name="date">1736</field>
+        <field name="theater">L'Opéra</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Génies+Duval&amp;search_field=search</field>
+    </doc>
+</add>

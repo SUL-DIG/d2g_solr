@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100857</field>
+        <field name="genre">Opera</field>
+        <field name="title">Erwin und Elmire</field>
+        <field name="titleSort">Erwin und Elmire</field>
+        <field name="composer">Anna Amalia</field>
+        <field name="composerSort">Amalia, Anna</field>
+        <field name="librettist">J.W. von Goethe</field>
+        <field name="librettistSort">goethe, J.W. von</field>
+        <field name="year">1776</field>
+        <field name="date">May 24, 1776</field>
+        <field name="city">Weimar</field>
+        <field name="region">Thuringia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Erwin+Elmire+Anna+Amalia&amp;search_field=search</field>
+    </doc>
+</add>

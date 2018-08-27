@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100863</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Gisela of Rüdesheim</field>
+        <field name="titleSort">Gisela of Rüdesheim</field>
+        <field name="composer">Alice Mary Smith</field>
+        <field name="composerSort">Smith, Alice Mary</field>
+        <field name="year">1865</field>
+        <field name="date">1865</field>
+        <field name="theater">Fitzwilliam College Concert Hall</field>
+        <field name="city">Cambridge</field>
+        <field name="region">Cambridgeshire</field>
+        <field name="country">England</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gisela+Rüdesheim+Alice+Smith&amp;search_field=search</field>
+    </doc>
+</add>

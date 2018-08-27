@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100860</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Who's the Heir?</field>
+        <field name="titleSort">Who's the Heir?</field>
+        <field name="composer">Mary Ann Virginia Gabriel</field>
+        <field name="composerSort">Gabriel, Mary Ann Virginia</field>
+        <field name="librettist">G.E. March</field>
+        <field name="librettistSort">March, G.E.</field>
+        <field name="year">1873</field>
+        <field name="date">1873</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Who's+Heir+Mary+Virginia+Gabriel&amp;search_field=search</field>
+    </doc>
+</add>
