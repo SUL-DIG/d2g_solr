@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101018</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Ännchen von Tharau</field>
+        <field name="titleSort">Ännchen von Tharau</field>
+        <field name="composer">Heinrich Strecker</field>
+        <field name="composerSort">Strecker, Heinrich</field>
+        <field name="librettist">Bruno Hardt-Warden</field>
+        <field name="librettist">Hans Spirk</field>
+        <field name="librettistSort">Hardt-Warden, Bruno</field>
+        <field name="librettistSort">Sprik, Hans</field>
+        <field name="year">1933</field>
+        <field name="date">September 20, 1933</field>
+        <field name="city">Breslau</field>
+        <field name="region">Lower Silesia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ännchen+Tharau+Strecker&amp;search_field=search</field>
+    </doc>
+</add>

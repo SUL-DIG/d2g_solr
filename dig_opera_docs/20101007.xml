@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101007</field>
+        <field name="genre">Opera</field>
+        <field name="title">Amleth und Fengo</field>
+        <field name="titleSort">Amleth und Fengo</field>
+        <field name="composer">Ingomar Grünauer</field>
+        <field name="composerSort">Grünauer, Ingomar</field>
+        <field name="librettist">Ingomar Grünauer</field>
+        <field name="librettist">Saxo Grammaticus</field>
+        <field name="librettistSort">Grünauer, Ingomar</field>
+        <field name="librettistSort">Grammaticus, Saxo</field>
+        <field name="year">1982</field>
+        <field name="date">1982</field>
+        <field name="city">Heidelberg</field>
+        <field name="region">Baden-Württemberg</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amleth+Fengo+Grünauer&amp;search_field=search</field>
+    </doc>
+</add>

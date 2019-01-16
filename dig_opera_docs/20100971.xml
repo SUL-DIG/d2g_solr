@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100971</field>
+        <field name="genre">Opera</field>
+        <field name="title">Het Zwarte Blondje</field>
+        <field name="titleSort">Zwarte Blondje</field>
+        <field name="composer">Juriaan Andriessen</field>
+        <field name="composerSort">Andriessen, Juriaan</field>
+        <field name="librettist">Jan Timmerman</field>
+        <field name="librettistSort">Timmerman, Jan</field>
+        <field name="year">1964</field>
+        <field name="date">April 26, 1964</field>
+        <field name="theater">Concertgebouw</field>
+        <field name="city">Amsterdam</field>
+        <field name="region">North Holland</field>
+        <field name="country">Netherlands</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zwarte+Bondje+Juriaan+Andriessen&amp;search_field=search</field>
+    </doc>
+</add>

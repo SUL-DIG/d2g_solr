@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100977</field>
+        <field name="genre">Opera</field>
+        <field name="title">Adelheid von Veltheim</field>
+        <field name="titleSort">Adelheid von Veltheim</field>
+        <field name="composer">Joseph Graetz</field>
+        <field name="composerSort">Graetz, Joseph</field>
+        <field name="librettist">Gustav Friedrich Wilhelm Grossman</field>
+        <field name="librettistSort">Grossman, Gustav Friedrich Wilhelm</field>
+        <field name="year">1785</field>
+        <field name="date">1785</field>
+        <field name="city">Munich</field>
+        <field name="region">Bavaria</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adelheid+Veltheim+Joseph+Graetz&amp;search_field=search</field>
+    </doc>
+</add>

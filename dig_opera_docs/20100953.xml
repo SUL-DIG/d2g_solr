@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100953</field>
+        <field name="genre">Opera</field>
+        <field name="title">Repelsteeltje</field>
+        <field name="titleSort">Repelsteeltje</field>
+        <field name="composer">Kerry Woodward</field>
+        <field name="composerSort">Woodward, Kerry</field>
+        <field name="librettist">Jacques Weijters</field>
+        <field name="librettistSort">Weijters, Jacques</field>
+        <field name="year">1994</field>
+        <field name="date">January 11, 1994</field>
+        <field name="theater">Theater aan de Markt Concordia</field>
+        <field name="city">Enschede</field>
+        <field name="region">Overijssel</field>
+        <field name="country">Netherlands</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Repelsteeltje+Kerry+Woodward&amp;search_field=search</field>
+    </doc>
+</add>

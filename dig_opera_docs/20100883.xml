@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100883</field>
+        <field name="genre">Opera</field>
+        <field name="title">As Malibrans</field>
+        <field name="titleSort">As Malibrans</field>
+        <field name="composer">Jocy de Oliveira</field>
+        <field name="composerSort">Oliveira, Jocy de</field>
+        <field name="librettist">Jocy de Oliveira</field>
+        <field name="librettistSort">Oliveira, Jocy de</field>
+        <field name="year">2000</field>
+        <field name="date">2000</field>
+        <field name="theater">Staats Theater</field>
+        <field name="city">Darmstadt</field>
+        <field name="region">Hesse</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Malibrans+Jocy+Oliveira&amp;search_field=search</field>
+    </doc>
+</add>

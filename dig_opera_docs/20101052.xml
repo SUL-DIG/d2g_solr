@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101052</field>
+        <field name="genre">Opera</field>
+        <field name="title">Bedrohung und Überleben</field>
+        <field name="titleSort">Bedrohung und Überleben</field>
+        <field name="composer">Dieter Schönbach</field>
+        <field name="composerSort">Schönbach, Dieter</field>
+        <field name="librettist">Dieter Schönbach</field>
+        <field name="librettistSort">Schönbach, Dieter</field>
+        <field name="year">1971</field>
+        <field name="date">1971</field>
+        <field name="city">Cologne</field>
+        <field name="region">North Rhine-Westphalia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bedrohung+Überleben+Schönbach&amp;search_field=search</field>
+    </doc>
+</add>

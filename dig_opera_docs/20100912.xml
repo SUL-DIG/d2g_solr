@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100912</field>
+        <field name="genre">Opera</field>
+        <field name="title">Axel</field>
+        <field name="titleSort">Axel</field>
+        <field name="composer">Jan van Vlijmen en Reibert de Leeuw</field>
+        <field name="composerSort">Leeuw, Jan van Vlijmen en Reibert de</field>
+        <field name="librettist">Harry Mulisch</field>
+        <field name="librettistSort">Mulisch, Harry</field>
+        <field name="year">1977</field>
+        <field name="date">June 10, 1977</field>
+        <field name="theater">Circustheater</field>
+        <field name="city">The Hague</field>
+        <field name="region">South Holland</field>
+        <field name="country">Netherlands</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Axel+Jan+Vlijmen+Leeuw&amp;search_field=search</field>
+    </doc>
+</add>

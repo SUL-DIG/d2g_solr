@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100976</field>
+        <field name="genre">Opera</field>
+        <field name="title">Adam und Evas Erschaffung</field>
+        <field name="titleSort">Adam und Evas Erschaffung</field>
+        <field name="composer">Meingosus Gaelle</field>
+        <field name="composerSort">Gaelle, Meingosus</field>
+        <field name="librettist">Sebastian Sailer</field>
+        <field name="librettistSort">Sailer, Sebastian</field>
+        <field name="year">1796</field>
+        <field name="date">1796</field>
+        <field name="theater">Kloster Weingarten</field>
+        <field name="city">Weingarten</field>
+        <field name="region">Baden-Württemberg</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adam+Evas+Erschaffung+Meingosus+Gaelle&amp;search_field=search</field>
+    </doc>
+</add>

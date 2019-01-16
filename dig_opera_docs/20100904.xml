@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100904</field>
+        <field name="genre">Opera</field>
+        <field name="title">Das Abenteuer im Guadarama-Gebirge</field>
+        <field name="titleSort">Abenteuer im Guadarama-Gebirge</field>
+        <field name="composer">Philipp Röth</field>
+        <field name="composerSort">Röth, Philipp</field>
+        <field name="librettist">Cäsar Max Heigel</field>
+        <field name="librettistSort">Heigel, Cäsar Max</field>
+        <field name="year">1825</field>
+        <field name="date">July 25, 1825</field>
+        <field name="theater">Theater an der Wien</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Abenteuer+Guadarma-Gebirge+Philipp+Röth&amp;search_field=search</field>
+    </doc>
+</add>

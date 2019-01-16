@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101027</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Die arme Familie</field>
+        <field name="titleSort">arme Familie</field>
+        <field name="composer">Anton Fischer</field>
+        <field name="composerSort">Fischer, Anton</field>
+        <field name="librettist">Anonymous</field>
+        <field name="librettist">Jean-Nicolas Bouilly</field>
+        <field name="librettistSort">Anonymous</field>
+        <field name="librettistSort">Bouilly, Jean-Nicolas</field>
+        <field name="year">1801</field>
+        <field name="date">June 9, 1801</field>
+        <field name="theater">Theater an der Wien</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arme+Familie+Fischer&amp;search_field=search</field>
+    </doc>
+</add>

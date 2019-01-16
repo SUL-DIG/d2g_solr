@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100914</field>
+        <field name="genre">Opera</field>
+        <field name="title">Bill Clifford</field>
+        <field name="titleSort">Bill Clifford</field>
+        <field name="composer">Jan Mul</field>
+        <field name="composerSort">Mul, Jan</field>
+        <field name="librettist">Godfried Bomans</field>
+        <field name="librettistSort">Bomans, Godfried</field>
+        <field name="year">1964</field>
+        <field name="date">October 5, 1964</field>
+        <field name="theater">Concertgebouw</field>
+        <field name="city">Hengelo</field>
+        <field name="region">Overijssel</field>
+        <field name="country">Netherlands</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bill+Clifford+Jan+Mul&amp;search_field=search</field>
+    </doc>
+</add>

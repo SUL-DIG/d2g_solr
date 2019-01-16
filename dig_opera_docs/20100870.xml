@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100870</field>
+        <field name="genre">Opera</field>
+        <field name="title">Rashomon</field>
+        <field name="titleSort">Rashomon</field>
+        <field name="composer">Mayako Kubo</field>
+        <field name="composerSort">Kubo, Mayako</field>
+        <field name="librettist">Mayako Kubo</field>
+        <field name="librettist">Ryunosuke Akutagawa</field>
+        <field name="librettistSort">Kubo, Mayako</field>
+        <field name="librettistSort">Akutagawa, Ryunosuke</field>
+        <field name="year">1996</field>
+        <field name="date">September 29, 1996</field>
+        <field name="theater">Opernhaus</field>
+        <field name="city">Graz</field>
+        <field name="region">Styria</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rashomon+Mayako+Kubo&amp;search_field=search</field>
+    </doc>
+</add>

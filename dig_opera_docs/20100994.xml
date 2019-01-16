@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100994</field>
+        <field name="genre">Opera</field>
+        <field name="title">Alexander in Persien</field>
+        <field name="titleSort">Alexander in Persien</field>
+        <field name="composer">Johann Nikolaus Götze</field>
+        <field name="composerSort">Götze, Johann Nikolaus</field>
+        <field name="librettist">Friedrich Peucer</field>
+        <field name="librettistSort">Peucer, Friedrich</field>
+        <field name="year">1819</field>
+        <field name="date">May 8, 1819</field>
+        <field name="theater">Grossherzogliches Hoftheater</field>
+        <field name="city">Weimar</field>
+        <field name="region">Thuringia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alexander+Persien+Johann+Götze&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101003</field>
+        <field name="genre">Opera</field>
+        <field name="title">Am Silbersee</field>
+        <field name="titleSort">Silbersee</field>
+        <field name="composer">Othmar Schoek</field>
+        <field name="composerSort">Schoek, Othmar</field>
+        <field name="librettist">Walter Schoek</field>
+        <field name="librettist">Karl May</field>
+        <field name="librettistSort">Schoek, Walter</field>
+        <field name="librettistSort">May, Karl</field>
+        <field name="year">2004</field>
+        <field name="date">March 20, 2004</field>
+        <field name="theater">Harmonium Museum</field>
+        <field name="city">Liestal</field>
+        <field name="region">Basel-Landschaft</field>
+        <field name="country">Switzerland</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Silbersee+Schoek&amp;search_field=search</field>
+    </doc>
+</add>

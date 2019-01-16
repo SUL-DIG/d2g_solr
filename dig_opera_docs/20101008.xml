@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101008</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Amor und graue Haare, oder Verlobungstag</field>
+        <field name="titleSort">Amor und graue Haare, oder Verlobungstag</field>
+        <field name="composer">Franz Stanislaus Spindler</field>
+        <field name="composerSort">Spindler, Franz Stanislaus</field>
+        <field name="librettist">Franz Stanislaus Spindler</field>
+        <field name="librettistSort">Spindler, Franz Stanislaus</field>
+        <field name="year">1791</field>
+        <field name="date">October 1791</field>
+        <field name="city">Brno</field>
+        <field name="region">South Moravia</field>
+        <field name="country">Czech Republic</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amor+Haare+Verlobungstag+Spindler&amp;search_field=search</field>
+    </doc>
+</add>

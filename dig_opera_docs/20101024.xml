@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101024</field>
+        <field name="genre">Opera</field>
+        <field name="title">Ariadne</field>
+        <field name="titleSort">Ariadne</field>
+        <field name="composer">Caspar Joseph Brambach</field>
+        <field name="composerSort">Brambach, Caspar Joseph</field>
+        <field name="librettist">Otto Freudenberg</field>
+        <field name="librettistSort">Freudenberg, Otto</field>
+        <field name="year">1886</field>
+        <field name="date">1886</field>
+        <field name="city">Leipzig</field>
+        <field name="region">Saxony</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ariadne+Brambach&amp;search_field=search</field>
+    </doc>
+</add>

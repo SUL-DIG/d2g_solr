@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100894</field>
+        <field name="genre">Opera</field>
+        <field name="title">Antiochus und Stratonica</field>
+        <field name="titleSort">Antiochus und Stratonica</field>
+        <field name="composer">Christoph Graupner</field>
+        <field name="composerSort">Graupner, Christoph</field>
+        <field name="year">1708</field>
+        <field name="date">1708</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Antiochus+Stratonica+Christoph+Graupner&amp;search_field=search</field>
+    </doc>
+</add>

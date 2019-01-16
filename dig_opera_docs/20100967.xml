@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100967</field>
+        <field name="genre">Opera</field>
+        <field name="title">Westerling</field>
+        <field name="titleSort">Westerling</field>
+        <field name="composer">Jan Bus</field>
+        <field name="composerSort">Bus, Jan</field>
+        <field name="librettist">Graa Boomsma</field>
+        <field name="librettistSort">Boomsma, Graa</field>
+        <field name="year">1995</field>
+        <field name="date">June 8, 1995</field>
+        <field name="theater">Theater Bellevue</field>
+        <field name="city">Amsterdam</field>
+        <field name="region">North Holland</field>
+        <field name="country">Netherlands</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Westerling+Jan+Bus&amp;search_field=search</field>
+    </doc>
+</add>

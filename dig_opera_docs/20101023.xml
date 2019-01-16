@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101023</field>
+        <field name="genre">Opera</field>
+        <field name="title">Das Aquarium, oder Der Stimme der Vernunft</field>
+        <field name="titleSort">Aquarium, oder Der Stimme der Vernunft</field>
+        <field name="composer">Georg Franz Kreisler</field>
+        <field name="composerSort">Kreisler, Georg Franz</field>
+        <field name="librettist">Georg Franz Kreisler</field>
+        <field name="librettistSort">Kreisler, Georg Franz</field>
+        <field name="year">2009</field>
+        <field name="date">November 14, 2009</field>
+        <field name="theater">Volkstheater</field>
+        <field name="city">Rostock</field>
+        <field name="region">Mecklenburg-Vorpommern</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aquarium+Vernunft+Kreisler&amp;search_field=search</field>
+    </doc>
+</add>

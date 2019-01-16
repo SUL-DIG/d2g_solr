@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100911</field>
+        <field name="genre">Opera</field>
+        <field name="title">Auw!</field>
+        <field name="titleSort">Auw!</field>
+        <field name="composer">Erik Lotichius</field>
+        <field name="composerSort">Lotichius, Erik</field>
+        <field name="librettist">Erik Lotichius</field>
+        <field name="librettistSort">Lotichius, Erik</field>
+        <field name="year">1991</field>
+        <field name="date">December 19, 1991</field>
+        <field name="theater">Stadsschouwburg</field>
+        <field name="city">Amsterdam</field>
+        <field name="region">North Holland</field>
+        <field name="country">Netherlands</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Auw!+Erik+Lotichius&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101032</field>
+        <field name="genre">Opera</field>
+        <field name="title">Astrella</field>
+        <field name="titleSort">Astrella</field>
+        <field name="composer">Andreas Mohr</field>
+        <field name="composerSort">Mohr, Andreas</field>
+        <field name="librettist">Krasel</field>
+        <field name="librettistSort">Krasel</field>
+        <field name="year">1868</field>
+        <field name="date">1868</field>
+        <field name="city">Pfortzheim</field>
+        <field name="region">Baden-Württemberg</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Astrella+Mohr&amp;search_field=search</field>
+    </doc>
+</add>

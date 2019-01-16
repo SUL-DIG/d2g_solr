@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101030</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Die Assassinen</field>
+        <field name="titleSort">Assassinen</field>
+        <field name="composer">Johanna Kinkel</field>
+        <field name="composerSort">Kinkel, Johanna</field>
+        <field name="librettist">Gottfried Kinkel</field>
+        <field name="librettistSort">Kinkel, Gottfried</field>
+        <field name="year">1843</field>
+        <field name="date">July 21, 1843</field>
+        <field name="city">Bonn</field>
+        <field name="region">North Rhine-Westphalia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Assassinen+Kinkel&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101025</field>
+        <field name="genre">Opera</field>
+        <field name="title">Ariadne</field>
+        <field name="titleSort">Ariadne</field>
+        <field name="composer">Hans Haug</field>
+        <field name="composerSort">Haug, Hans</field>
+        <field name="librettist">Ludwig Müller</field>
+        <field name="librettistSort">Müller, Ludwig</field>
+        <field name="year">1944</field>
+        <field name="date">December 9, 1944</field>
+        <field name="theater">Musiksaal</field>
+        <field name="city">Basel</field>
+        <field name="region">Basel-Landschaft</field>
+        <field name="country">Switzerland</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ariadne+Haug&amp;search_field=search</field>
+    </doc>
+</add>

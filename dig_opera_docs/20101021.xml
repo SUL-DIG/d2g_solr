@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101021</field>
+        <field name="genre">Opera</field>
+        <field name="title">Apocalyptica</field>
+        <field name="titleSort">Apocalyptica</field>
+        <field name="composer">Milko Keleman</field>
+        <field name="composerSort">Keleman, Milko</field>
+        <field name="librettist">Fernando Arrabal</field>
+        <field name="librettistSort">Arrabal, Fernando</field>
+        <field name="year">1982</field>
+        <field name="date">May 10, 1982</field>
+        <field name="theater">Semper Oper</field>
+        <field name="city">Dresden</field>
+        <field name="region">Saxony</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Apocalyptica+Keleman&amp;search_field=search</field>
+    </doc>
+</add>

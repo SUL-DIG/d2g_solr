@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100868</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der Spinnfaden</field>
+        <field name="titleSort">Spinnfaden</field>
+        <field name="composer">Mayako Kubo</field>
+        <field name="composerSort">Kubo, Mayako</field>
+        <field name="librettist">Harald Stucke</field>
+        <field name="librettist">R. Akutagawa</field>
+        <field name="librettistSort">Stucke, Harald</field>
+        <field name="librettistSort">Akutagawa, R.</field>
+        <field name="year">2010</field>
+        <field name="date">March 19, 2010</field>
+        <field name="theater">Heimathafen Berlin-Neukölln</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Spinnfaden+Mayako+Kubo&amp;search_field=search</field>
+    </doc>
+</add>

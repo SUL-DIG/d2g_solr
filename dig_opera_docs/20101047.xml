@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101047</field>
+        <field name="genre">Opera</field>
+        <field name="title">Die Barden, oder Die goldenen Locken</field>
+        <field name="titleSort">Barden, oder Die goldenen Locken</field>
+        <field name="composer">Julius Freudenthal</field>
+        <field name="composerSort">Freudenthal, Julius</field>
+        <field name="librettist">Julius Freudenthal</field>
+        <field name="librettistSort">Freudenthal, Julius</field>
+        <field name="year">1855</field>
+        <field name="date">February 10, 1855</field>
+        <field name="city">Cologne</field>
+        <field name="region">North Rhine-Westphalia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Barden+Locken+Freudenthal&amp;search_field=search</field>
+    </doc>
+</add>

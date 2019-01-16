@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100874</field>
+        <field name="genre">Opera</field>
+        <field name="title">Patria II: Requiems for the Party Girl</field>
+        <field name="titleSort">Patria II: Requiems for the Party Girl</field>
+        <field name="composer">Raymond Murray Schafer</field>
+        <field name="composerSort">Schafer, Raymond Murray</field>
+        <field name="librettist">Raymond Murray Schafer</field>
+        <field name="librettistSort">Schafer, Raymond Murray</field>
+        <field name="year">1972</field>
+        <field name="date">1972</field>
+        <field name="city">Stratford</field>
+        <field name="region">Ontario</field>
+        <field name="country">Canada</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Patria+Requiems+Party+Girl+Murray+Schafer&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100972</field>
+        <field name="genre">Opera</field>
+        <field name="title">De Zwarte Bruid</field>
+        <field name="titleSort">Zwarte Bruid</field>
+        <field name="composer">Géza Frid</field>
+        <field name="composerSort">Frid, Géza</field>
+        <field name="librettist">Cornelis J. Kelk</field>
+        <field name="librettistSort">Kelk, Cornelis J.</field>
+        <field name="year">1959</field>
+        <field name="date">February 27, 1959</field>
+        <field name="theater">Stadsschouwburg</field>
+        <field name="city">Amsterdam</field>
+        <field name="region">North Holland</field>
+        <field name="country">Netherlands</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zwarte+Bruid+Géza+Frid&amp;search_field=search</field>
+    </doc>
+</add>

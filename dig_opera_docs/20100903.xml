@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100903</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der Besuch auf dem Lande</field>
+        <field name="titleSort">Besuch auf dem Lande</field>
+        <field name="composer">Conradin Kreutzer</field>
+        <field name="composerSort">Kreutzer, Conradin</field>
+        <field name="year">1826</field>
+        <field name="date">July 8, 1826</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Besuch+Lande+Conradin+Kreutzer&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100965</field>
+        <field name="genre">Opera</field>
+        <field name="title">Verhuisbericht</field>
+        <field name="titleSort">Verhuisbericht</field>
+        <field name="composer">Elmer Schönberger</field>
+        <field name="composerSort">Schönberger, Elmer</field>
+        <field name="librettist">Nicolaas Matsier</field>
+        <field name="librettist">Elmer Schönberger</field>
+        <field name="librettist">Vonne van der Meer</field>
+        <field name="librettistSort">Matsier, Nicolaas</field>
+        <field name="librettistSort">Schönberger, Elmer</field>
+        <field name="librettistSort">Meer, Vonne van der</field>
+        <field name="year">1983</field>
+        <field name="date">September 10, 1983</field>
+        <field name="theater">De Brakke Grond</field>
+        <field name="city">Amsterdam</field>
+        <field name="region">North Holland</field>
+        <field name="country">Netherlands</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Verhusibericht+Elmer+Schönberger&amp;search_field=search</field>
+    </doc>
+</add>

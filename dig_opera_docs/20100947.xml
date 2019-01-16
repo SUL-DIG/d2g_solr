@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100947</field>
+        <field name="genre">Opera</field>
+        <field name="title">Ontstaan in hoge nood</field>
+        <field name="titleSort">Ontstaan in hoge nood</field>
+        <field name="composer">Gerard Ammerlaan</field>
+        <field name="composerSort">Ammerlaan, Gerard</field>
+        <field name="librettist">Jo Willems</field>
+        <field name="librettistSort">Willems, Jo</field>
+        <field name="year">1995</field>
+        <field name="date">June 29, 1995</field>
+        <field name="theater">Stadsschouwburg</field>
+        <field name="city">Groningen</field>
+        <field name="region">Groningen</field>
+        <field name="country">Netherlands</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ontstaan+hoge+nood+Gerard+Ammerlaan&amp;search_field=search</field>
+    </doc>
+</add>

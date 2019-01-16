@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101022</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Die Apotheke</field>
+        <field name="titleSort">Apotheke</field>
+        <field name="composer">Ignaz Umlauff</field>
+        <field name="composerSort">Umlauff, Ignaz</field>
+        <field name="librettist">Johann Jacob Engel</field>
+        <field name="librettist">Goldini</field>
+        <field name="librettistSort">Engel, Johann Jacob</field>
+        <field name="librettistSort">Goldini</field>
+        <field name="year">1778</field>
+        <field name="date">June 20, 1778</field>
+        <field name="theater">Nationaltheater</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Apotheke+Umlauff&amp;search_field=search</field>
+    </doc>
+</add>

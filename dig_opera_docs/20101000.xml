@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101000</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Zauber-Oper</field>
+        <field name="title">Der Alte überall und nirgends</field>
+        <field name="titleSort">Alte überall und nirgends</field>
+        <field name="composer">Franz Stanislaus Spindler</field>
+        <field name="composerSort">Spindler, Franz Stanislaus</field>
+        <field name="librettist">Wilhelm Vogel</field>
+        <field name="librettistSort">Vogel, Wilhelm</field>
+        <field name="year">1806</field>
+        <field name="date">December 7, 1806</field>
+        <field name="city">Frankfurt</field>
+        <field name="region">Hesse</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alte+überall+nirgends+Spindler&amp;search_field=search</field>
+    </doc>
+</add>

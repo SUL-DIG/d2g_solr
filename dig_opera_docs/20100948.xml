@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100948</field>
+        <field name="genre">Opera</field>
+        <field name="title">De Ooievaar heeft zich vergist</field>
+        <field name="titleSort">Ooievaar heeft zich vergist</field>
+        <field name="composer">Herre de Vos</field>
+        <field name="composerSort">Vos, Herre de</field>
+        <field name="librettist">Davidofsky</field>
+        <field name="librettistSort">Davidofsky</field>
+        <field name="year">1912</field>
+        <field name="date">April 27, 1912</field>
+        <field name="theater">Rembrandttheater</field>
+        <field name="city">Amsterdam</field>
+        <field name="region">North Holland</field>
+        <field name="country">Netherlands</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ooievaar+heeft+vergist+Herre+Vos&amp;search_field=search</field>
+    </doc>
+</add>

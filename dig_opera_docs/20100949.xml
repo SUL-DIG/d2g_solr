@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100950</field>
+        <field name="genre">Opera</field>
+        <field name="title">De Presidentsdochter</field>
+        <field name="titleSort">Presidentsdochter</field>
+        <field name="composer">Pieter Verschoot</field>
+        <field name="composerSort">Verschoot, Pieter</field>
+        <field name="librettist">Pieter Verschoot</field>
+        <field name="librettistSort">Verschoot, Pieter</field>
+        <field name="year">1912</field>
+        <field name="date">November 30, 1912</field>
+        <field name="theater">Rembrandttheater</field>
+        <field name="city">Amsterdam</field>
+        <field name="region">North Holland</field>
+        <field name="country">Netherlands</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Presidentsdochter+Pieter+Verschoot&amp;search_field=search</field>
+    </doc>
+</add>

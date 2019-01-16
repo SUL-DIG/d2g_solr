@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100915</field>
+        <field name="genre">Opera</field>
+        <field name="title">Blauwe appel</field>
+        <field name="titleSort">Blauwe appel</field>
+        <field name="composer">Boudewijn Tarenskeen</field>
+        <field name="composerSort">Tarenskeen, Boudewijn</field>
+        <field name="librettist">Karst Woudstra</field>
+        <field name="librettistSort">Woudstra, Karst</field>
+        <field name="year">1984</field>
+        <field name="date">June 27, 1984</field>
+        <field name="theater">Frascati</field>
+        <field name="city">Amsterdam</field>
+        <field name="region">North Holland</field>
+        <field name="country">Netherlands</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Blauwe+appel+Boudewijn+Tarenskeen&amp;search_field=search</field>
+    </doc>
+</add>

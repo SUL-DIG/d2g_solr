@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101053</field>
+        <field name="genre">Opera</field>
+        <field name="title">Die beiden Königinnen</field>
+        <field name="titleSort">Beiden Königinnen</field>
+        <field name="composer">Georg Hellmesberger Jr.</field>
+        <field name="composerSort">Hellmesberger, Georg Jr.</field>
+        <field name="librettist">Johann Georg Seidl</field>
+        <field name="librettistSort">Seidl, Johann Georg</field>
+        <field name="year">1851</field>
+        <field name="date">1851</field>
+        <field name="theater">Königliches Hoftheater</field>
+        <field name="city">Hannover</field>
+        <field name="region">Lower Saxony</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=beiden+Königinnen+Hellmesberger&amp;search_field=search</field>
+    </doc>
+</add>

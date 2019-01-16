@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100909</field>
+        <field name="genre">Opera</field>
+        <field name="title">Amorijs</field>
+        <field name="titleSort">Amorijs</field>
+        <field name="composer">Nico Richter</field>
+        <field name="composerSort">Richter, Nico</field>
+        <field name="librettist">Hendrik Lindt</field>
+        <field name="librettistSort">Lindt, Hendrik</field>
+        <field name="year">1966</field>
+        <field name="date">Septbember 2, 1966</field>
+        <field name="theater">Tingel Tangel Theater</field>
+        <field name="city">Amsterdam</field>
+        <field name="region">North Holland</field>
+        <field name="country">Netherlands</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amorijs+Nico+Richter&amp;search_field=search</field>
+    </doc>
+</add>

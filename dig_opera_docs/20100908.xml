@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100908</field>
+        <field name="genre">Opera</field>
+        <field name="title">Albrecht Beiling</field>
+        <field name="titleSort">Albrecht Beiling</field>
+        <field name="composer">Henry F.R. Brandts Buijs</field>
+        <field name="composerSort">Buijs, Henry F.R. Brandts</field>
+        <field name="librettist">M.A. Caspers</field>
+        <field name="librettistSort">Caspers, M.A.</field>
+        <field name="year">1891</field>
+        <field name="date">March 29, 1891</field>
+        <field name="theater">Parkschouwburg</field>
+        <field name="city">Amsterdam</field>
+        <field name="region">North Holland</field>
+        <field name="country">Netherlands</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Albrecht+Beiling+Henry+Buijs&amp;search_field=search</field>
+    </doc>
+</add>

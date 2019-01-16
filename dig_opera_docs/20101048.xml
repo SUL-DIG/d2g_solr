@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101048</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der Bärenhäuter</field>
+        <field name="titleSort">Bärenhäuter</field>
+        <field name="composer">Hans Auenmüller</field>
+        <field name="composerSort">Auenmüller, Hans</field>
+        <field name="librettist">Bernd Wolff</field>
+        <field name="librettistSort">Wolff, Bernd</field>
+        <field name="year">1978</field>
+        <field name="date">1978</field>
+        <field name="theater">Bergtheater</field>
+        <field name="city">Thale</field>
+        <field name="region">Saxony-Anhalt</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bärenhäuter+Auenmüller&amp;search_field=search</field>
+    </doc>
+</add>

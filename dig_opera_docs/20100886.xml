@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100886</field>
+        <field name="genre">Opera</field>
+        <field name="title">Das Gespenst</field>
+        <field name="titleSort">Gespenst</field>
+        <field name="composer">Harald Weiss</field>
+        <field name="composerSort">Weiss, Harald</field>
+        <field name="librettist">Harald Weiss</field>
+        <field name="librettistSort">Weiss, Harald</field>
+        <field name="year">1997</field>
+        <field name="date">1997</field>
+        <field name="theater">Staatstheater</field>
+        <field name="city">Hannover</field>
+        <field name="region">Niedersachsen</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gespenst+Harald+Weiss&amp;search_field=search</field>
+    </doc>
+</add>

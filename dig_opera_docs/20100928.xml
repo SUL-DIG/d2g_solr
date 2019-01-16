@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100928</field>
+        <field name="genre">Opera</field>
+        <field name="title">Floris en Blancefloer</field>
+        <field name="titleSort">Floris en Blancefloer</field>
+        <field name="composer">Saar Bessem</field>
+        <field name="composerSort">Bessem, Saar</field>
+        <field name="librettist">Saar Bessem</field>
+        <field name="librettistSort">Bessem, Saar</field>
+        <field name="year">1953</field>
+        <field name="date">October 7, 1953</field>
+        <field name="theater">Rotterdamse Schouwburg</field>
+        <field name="city">Rotterdam</field>
+        <field name="region">South Holland</field>
+        <field name="country">Netherlands</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Floris+Blancefloer+Saar+Bessem&amp;search_field=search</field>
+    </doc>
+</add>

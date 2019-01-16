@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101051</field>
+        <field name="genre">Opera</field>
+        <field name="title">Beatrice</field>
+        <field name="titleSort">Beatrice</field>
+        <field name="composer">Hermann Heinrich</field>
+        <field name="composerSort">Heinrich, Hermann</field>
+        <field name="librettist">Hermann Heinrich</field>
+        <field name="librettist">Schiller</field>
+        <field name="librettistSort">Heinrich, Hermann</field>
+        <field name="librettistSort">Schiller</field>
+        <field name="year">1936</field>
+        <field name="date">February 1, 1936</field>
+        <field name="city">Karlsruhe</field>
+        <field name="region">Baden-Württemberg</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beatrice+Heinrich&amp;search_field=search</field>
+    </doc>
+</add>

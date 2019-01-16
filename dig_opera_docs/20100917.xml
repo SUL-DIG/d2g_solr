@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100917</field>
+        <field name="genre">Opera</field>
+        <field name="title">Bloemenkind</field>
+        <field name="titleSort">Bloemenkind</field>
+        <field name="composer">Frits E.A. Koeberg</field>
+        <field name="composerSort">Koeberg, Frits E.A.</field>
+        <field name="librettist">Frits E.A. Koeberg</field>
+        <field name="librettistSort">Koeberg, Frits E.A.</field>
+        <field name="year">1917</field>
+        <field name="date">May 11, 1917</field>
+        <field name="theater">Koninklijke Schouwburg</field>
+        <field name="city">The Hague</field>
+        <field name="region">South Holland</field>
+        <field name="country">Netherlands</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bloemenkind+Frits+Koeberg&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100877</field>
+        <field name="genre">Opera</field>
+        <field name="title">Patria VI: RA</field>
+        <field name="titleSort">Patria VI: RA</field>
+        <field name="composer">Raymond Murray Schafer</field>
+        <field name="composerSort">Schafer, Raymond Murray</field>
+        <field name="librettist">Raymond Murray Schafer</field>
+        <field name="librettistSort">Schafer, Raymond Murray</field>
+        <field name="year">1983</field>
+        <field name="date">1983</field>
+        <field name="theater">Ontario Science Center</field>
+        <field name="city">Toronto</field>
+        <field name="region">Ontario</field>
+        <field name="country">Canada</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Patria+RA+Murray+Schafer&amp;search_field=search</field>
+    </doc>
+</add>

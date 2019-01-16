@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101039</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der automatische Teufel</field>
+        <field name="titleSort">automatische Teufel</field>
+        <field name="composer">Jury Everhartz</field>
+        <field name="composer">Daniel Pabst</field>
+        <field name="composerSort">Everhartz, Jury</field>
+        <field name="composerSort">Pabst, Daniel</field>
+        <field name="librettist">Dora Lux</field>
+        <field name="librettistSort">Lux, Dora</field>
+        <field name="year">2000</field>
+        <field name="date">September 25, 2000</field>
+        <field name="theater">Künstlerhaus</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=automatische+Teufel+Everhartz+Pabst&amp;search_field=search</field>
+    </doc>
+</add>

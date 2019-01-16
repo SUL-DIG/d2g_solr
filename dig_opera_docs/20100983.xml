@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100983</field>
+        <field name="genre">Opera</field>
+        <field name="title">Agnes Bernauer, oder Der Engel von Augsburg</field>
+        <field name="titleSort">Agnes Bernauer, oder Der Engel von Augsburg</field>
+        <field name="composer">Joseph Messner</field>
+        <field name="composerSort">Messner, Joseph</field>
+        <field name="librettist">Karl Neumayr</field>
+        <field name="librettist">Friedrich Hebbel</field>
+        <field name="librettistSort">Neumayr, Karl</field>
+        <field name="librettistSort">Hebbel, Friedrich</field>
+        <field name="year">1936</field>
+        <field name="date">1936</field>
+        <field name="city">Salzburg</field>
+        <field name="region">Salzburg</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Agnes+Bernauer+Engel+Augsburg+Messner&amp;search_field=search</field>
+    </doc>
+</add>

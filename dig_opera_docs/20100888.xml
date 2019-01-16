@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100888</field>
+        <field name="genre">Opera</field>
+        <field name="title">Sera</field>
+        <field name="titleSort">Sera</field>
+        <field name="composer">Henrik Hellstenius</field>
+        <field name="composerSort">Hellstenius, Henrik</field>
+        <field name="librettist">Axel Hellstenius</field>
+        <field name="librettistSort">Hellstenius, Axel</field>
+        <field name="year">2000</field>
+        <field name="date">October 2000</field>
+        <field name="city">Oslo</field>
+        <field name="region">Oslo</field>
+        <field name="country">Norway</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sera+Henrik+Hellstenius&amp;search_field=search</field>
+    </doc>
+</add>

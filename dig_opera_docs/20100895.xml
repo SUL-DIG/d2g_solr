@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100895</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Anton bei Hofe, oder Das Namenfest</field>
+        <field name="titleSort">Anton bei Hofe, oder Das Namenfest</field>
+        <field name="composer">Benedikt Schack</field>
+        <field name="composerSort">Schack, Benedikt</field>
+        <field name="librettist">Emanuel Schikaneder</field>
+        <field name="librettistSort">Schikaneder, Emanuel</field>
+        <field name="year">1791</field>
+        <field name="date">June 4, 1791</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anton+Hofe+Namenfest+Benedikt+Schack&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100931</field>
+        <field name="genre">Opera</field>
+        <field name="title">Griselda</field>
+        <field name="titleSort">Griselda</field>
+        <field name="composer">Emile van Geelen</field>
+        <field name="composerSort">Geelen, Emile van</field>
+        <field name="librettist">Emile van Geelen</field>
+        <field name="librettistSort">Geelen, Emile van</field>
+        <field name="year">1913</field>
+        <field name="date">March 5, 1913</field>
+        <field name="theater">Paleis voor Volksvlijt</field>
+        <field name="city">Amsterdam</field>
+        <field name="region">North Holland</field>
+        <field name="country">Netherlands</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Griselda+Emile+Geelen&amp;search_field=search</field>
+    </doc>
+</add>

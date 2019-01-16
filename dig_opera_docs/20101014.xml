@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101014</field>
+        <field name="genre">Opera</field>
+        <field name="title">Andromeda und Perseus</field>
+        <field name="titleSort">Andromeda und Perseus</field>
+        <field name="composer">Anton Zimmermann</field>
+        <field name="composerSort">Zimmermann, Anton</field>
+        <field name="librettist">Benedikt Domenik Anton Cremeri</field>
+        <field name="librettistSort">Cremeri, Benedikt Domenik Anton</field>
+        <field name="year">1781</field>
+        <field name="date">April 23, 1781</field>
+        <field name="theater">Hofburgtheater</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Andromeda+Perseus+Zimmermann&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100988</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">School Opera</field>
+        <field name="title">Albolina, oder Der Kampf der Geister um die Morgenrote</field>
+        <field name="titleSort">Albolina, oder Der Kampf der Geister um die Morgenrote</field>
+        <field name="composer">Cesar Bresgen</field>
+        <field name="composerSort">Bresgen, Cesar</field>
+        <field name="librettist">Cesar Bresgen</field>
+        <field name="librettistSort">Bresgen, Cesar</field>
+        <field name="year">1987</field>
+        <field name="date">July 12, 1987</field>
+        <field name="city">Villach</field>
+        <field name="region">Carinthia</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;Albolina+Kampf+Geister+Morgenrote+Bresgen&amp;search_field=search</field>
+    </doc>
+</add>

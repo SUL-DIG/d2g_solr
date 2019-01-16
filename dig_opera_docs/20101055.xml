@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101055</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Zauberspiel</field>
+        <field name="title">Der Berggeist, oder Die drei Wünsche</field>
+        <field name="titleSort">Berggeist, oder Die drei Wünsche</field>
+        <field name="composer">Joseph Drechsler</field>
+        <field name="composerSort">Drechsler, Joseph</field>
+        <field name="librettist">Alois Gleich</field>
+        <field name="librettistSort">Gleich, Alois</field>
+        <field name="year">1819</field>
+        <field name="date">June 12, 1819</field>
+        <field name="theater">Theater in der Josefstadt</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Berggeist+Wünsche+Drechsler&amp;search_field=search</field>
+    </doc>
+</add>

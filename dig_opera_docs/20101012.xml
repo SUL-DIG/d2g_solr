@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101012</field>
+        <field name="genre">Opera</field>
+        <field name="title">Anderes/Selbst</field>
+        <field name="titleSort">Anderes/Selbst</field>
+        <field name="composer">Charlotte Seither</field>
+        <field name="composerSort">Seither, Charlotte</field>
+        <field name="librettist">Charlotte Seither</field>
+        <field name="librettist">Charles Ernst</field>
+        <field name="librettistSort">Seither, Charlotte</field>
+        <field name="librettistSort">Ernst, Charles</field>
+        <field name="year">2000</field>
+        <field name="date">June 11, 2000</field>
+        <field name="theater">Bundeskunsthalle</field>
+        <field name="city">Bonn</field>
+        <field name="region">North Rhine-Westphalia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anderes/Selbst+Seither&amp;search_field=search</field>
+    </doc>
+</add>

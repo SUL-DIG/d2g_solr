@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100975</field>
+        <field name="genre">Opera</field>
+        <field name="title">Achmed und Zenaide</field>
+        <field name="titleSort">Achmed und Zenaide</field>
+        <field name="composer">Franz Stanislaus Spindler</field>
+        <field name="composerSort">Spindler, Franz Stanislaus</field>
+        <field name="librettist">Anonymous</field>
+        <field name="librettistSort">Anonymous</field>
+        <field name="year">1796</field>
+        <field name="date">1796</field>
+        <field name="city">Breslau</field>
+        <field name="region">Lower Silesia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Achmed+Zenaide+Franz+Spindler&amp;search_field=search</field>
+    </doc>
+</add>

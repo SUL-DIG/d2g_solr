@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100990</field>
+        <field name="genre">Opera</field>
+        <field name="title">Albrecht Roser: Ein badischer Held</field>
+        <field name="titleSort">Albrecht Roser: Ein badischer Held</field>
+        <field name="composer">Ernst Korten</field>
+        <field name="composerSort">Korten, Ernst</field>
+        <field name="librettist">Ernst Korten</field>
+        <field name="librettist">August von Tromlitz</field>
+        <field name="librettistSort">Korten, Ernst</field>
+        <field name="librettistSort">Tromlitz, August von</field>
+        <field name="year">1896</field>
+        <field name="date">March 29, 1896</field>
+        <field name="theater">Stadttheater</field>
+        <field name="city">Wuppertal</field>
+        <field name="region">North Rhine-Westphalia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Albrecht+Roser+badischer+Ernst+Korten&amp;search_field=search</field>
+    </doc>
+</add>

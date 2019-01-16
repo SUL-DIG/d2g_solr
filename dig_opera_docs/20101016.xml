@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101016</field>
+        <field name="genre">Opera</field>
+        <field name="title">Angla</field>
+        <field name="titleSort">Angla</field>
+        <field name="composer">Ferdinand Hummel</field>
+        <field name="composerSort">Hummel, Ferdinand</field>
+        <field name="librettist">Axel Delmar</field>
+        <field name="librettistSort">Delmar, Axel</field>
+        <field name="year">1894</field>
+        <field name="date">June 9, 1894</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Angla+Hummel&amp;search_field=search</field>
+    </doc>
+</add>

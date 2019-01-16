@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100958</field>
+        <field name="genre">Opera</field>
+        <field name="title">Seleneia</field>
+        <field name="titleSort">Seleneia</field>
+        <field name="composer">Emile von Brucken Fock</field>
+        <field name="composerSort">Fock, Emile von Brucken</field>
+        <field name="librettist">M. Constant</field>
+        <field name="librettistSort">Constant, M.</field>
+        <field name="year">1895</field>
+        <field name="date">March 5, 1895</field>
+        <field name="theater">Stadsschouwburg</field>
+        <field name="city">Amsterdam</field>
+        <field name="region">North Holland</field>
+        <field name="country">Netherlands</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Seleneia+Emile+Fock&amp;search_field=search</field>
+    </doc>
+</add>

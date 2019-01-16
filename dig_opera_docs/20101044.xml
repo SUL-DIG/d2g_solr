@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101044</field>
+        <field name="genre">Opera</field>
+        <field name="title">Bählamms Fest</field>
+        <field name="titleSort">Bählamms Fest</field>
+        <field name="composer">Olga Neuwirth</field>
+        <field name="composerSort">Neuwirth, Olga</field>
+        <field name="librettist">Elfriede Jelinek</field>
+        <field name="librettist">Leonora Carrington</field>
+        <field name="librettistSort">Jelinek, Elfriede</field>
+        <field name="librettistSort">Carrington, Leonora</field>
+        <field name="year">1999</field>
+        <field name="date">June 19, 1999</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bählamms+Fest+Neuwirth&amp;search_field=search</field>
+    </doc>
+</add>

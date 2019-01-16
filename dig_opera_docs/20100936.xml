@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100936</field>
+        <field name="genre">Opera</field>
+        <field name="title">Kapitein Haddock zoekt Kuifje</field>
+        <field name="titleSort">Kapitein Haddock zoekt Kuifje</field>
+        <field name="composer">Koos Terpstra</field>
+        <field name="composerSort">Terpstra, Koos</field>
+        <field name="librettist">Jean-Paul Franssens</field>
+        <field name="librettistSort">Franssens, Jean-Paul</field>
+        <field name="year">1983</field>
+        <field name="date">April 17, 1983</field>
+        <field name="theater">De Ijsbreker</field>
+        <field name="city">Amsterdam</field>
+        <field name="region">North Holland</field>
+        <field name="country">Netherlands</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kapitein+Haddock+Kuifje+Koos+Terpstra&amp;search_field=search</field>
+    </doc>
+</add>

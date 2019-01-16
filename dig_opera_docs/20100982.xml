@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100982</field>
+        <field name="genre">Opera</field>
+        <field name="title">Agamemnon muss sterben</field>
+        <field name="titleSort">Agamemnon muss sterben</field>
+        <field name="composer">Paul Angerer</field>
+        <field name="composerSort">Angerer, Paul</field>
+        <field name="librettist">Rudolf Bayr</field>
+        <field name="librettist">Aeschylus</field>
+        <field name="librettistSort">Bayr, Rudolf</field>
+        <field name="librettistSort">Aeschylus</field>
+        <field name="year">1955</field>
+        <field name="date">June 1955</field>
+        <field name="theater">Konzerthaus</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Agamemnon+sterben+Paul+Angerer&amp;search_field=search</field>
+    </doc>
+</add>

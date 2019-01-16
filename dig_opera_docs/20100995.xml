@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100995</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der algierische Sklavenhändler</field>
+        <field name="titleSort">Algierische Skalvenhändler</field>
+        <field name="composer">Johann David Schwegler</field>
+        <field name="composerSort">Schwegler, Johann David</field>
+        <field name="librettist">Franz Karl Hiemer</field>
+        <field name="librettistSort">Hiemer, Franz Karl</field>
+        <field name="year">1814</field>
+        <field name="date">May 25, 1814</field>
+        <field name="city">Stuttgart</field>
+        <field name="region">Baden-Württemberg</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=algierische+Sklavenhändler+Schwegler&amp;search_field=search</field>
+    </doc>
+</add>

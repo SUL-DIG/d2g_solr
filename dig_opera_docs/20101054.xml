@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101054</field>
+        <field name="genre">Opera</field>
+        <field name="title">Belle und Armand</field>
+        <field name="titleSort">Belle und Armand</field>
+        <field name="composer">Karl-Rudi Griesbach</field>
+        <field name="composerSort">Griesbach, Karl-Rudi</field>
+        <field name="librettist">Karl-Rudi Griesbach</field>
+        <field name="librettist">Gabrielle-Suzanne Villeneuve</field>
+        <field name="librettistSort">Griesbach, Karl-Rudi</field>
+        <field name="librettistSort">Villeneuve, Gabrielle-Suzanne</field>
+        <field name="year">1988</field>
+        <field name="date">1988</field>
+        <field name="city">Dresden</field>
+        <field name="region">Saxony</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Belle+Armand+Griesbach&amp;search_field=search</field>
+    </doc>
+</add>

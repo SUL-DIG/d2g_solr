@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100946</field>
+        <field name="genre">Opera</field>
+        <field name="title">Nu Noch</field>
+        <field name="titleSort">Nu Noch</field>
+        <field name="composer">Jo van den Booren</field>
+        <field name="composerSort">Booren, Jo van den</field>
+        <field name="librettist">Jo van den Booren</field>
+        <field name="librettistSort">Booren, Jo van den</field>
+        <field name="year">1979</field>
+        <field name="date">March 4, 1979</field>
+        <field name="theater">Casino</field>
+        <field name="city">Hertogenbosch</field>
+        <field name="region">North Brabant</field>
+        <field name="country">Netherlands</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nu+Noch+Jo+Booren&amp;search_field=search</field>
+    </doc>
+</add>

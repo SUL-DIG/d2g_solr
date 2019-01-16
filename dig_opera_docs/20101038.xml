@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101038</field>
+        <field name="genre">Opera</field>
+        <field name="title">Aus der Welt</field>
+        <field name="titleSort">Aus der Welt</field>
+        <field name="composer">Uwe Strübing</field>
+        <field name="composerSort">Strübing, Uwe</field>
+        <field name="librettist">Rainer Fliege</field>
+        <field name="librettist">Jakob Wassermann</field>
+        <field name="librettistSort">Fliege, Rainer</field>
+        <field name="librettistSort">Wassermann, Jakob</field>
+        <field name="year">2007</field>
+        <field name="date">April 19, 2007</field>
+        <field name="theater">Kulturforum</field>
+        <field name="city">Fürth</field>
+        <field name="region">Bavaria</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Welt+Strübing&amp;search_field=search</field>
+    </doc>
+</add>

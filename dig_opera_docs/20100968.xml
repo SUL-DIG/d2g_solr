@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100968</field>
+        <field name="genre">Opera</field>
+        <field name="title">De Woesteling</field>
+        <field name="titleSort">Woesteling</field>
+        <field name="composer">Frans Ruivenkamp</field>
+        <field name="composerSort">Ruivenkamp, Frans</field>
+        <field name="librettist">Frans Ruivenkamp</field>
+        <field name="librettistSort">Ruivenkamp, Frans</field>
+        <field name="year">1952</field>
+        <field name="date">June 20, 1952</field>
+        <field name="theater">Zuiderpark</field>
+        <field name="city">The Hague</field>
+        <field name="region">South Holland</field>
+        <field name="country">Netherlands</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Woesteling+Frans+Ruivenkamp&amp;search_field=search</field>
+    </doc>
+</add>

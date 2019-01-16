@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101001</field>
+        <field name="genre">Opera</field>
+        <field name="title">Alter schützt vor Thorheit nicht</field>
+        <field name="titleSort">Alter schützt vor Thorheit nicht</field>
+        <field name="composer">Johann André</field>
+        <field name="composerSort">André, Johann</field>
+        <field name="librettist">Friedrich Ludwig Wilhelm Meyer</field>
+        <field name="librettistSort">Meyer, Friedrich Ludwig Wilhelm</field>
+        <field name="year">1779</field>
+        <field name="date">June 20, 1779</field>
+        <field name="city">Mannheim</field>
+        <field name="region">Baden-Württemberg</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alter+Thorheit+André&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101013</field>
+        <field name="genre">Opera</field>
+        <field name="title">Andromeda</field>
+        <field name="titleSort">Andromeda</field>
+        <field name="composer">Friedrich Schneider</field>
+        <field name="composerSort">Schneider, Friedrich</field>
+        <field name="librettist">Heinrich Seidel</field>
+        <field name="librettistSort">Seidel, Heinrich</field>
+        <field name="year">1807</field>
+        <field name="date">1807</field>
+        <field name="city">Leipzig</field>
+        <field name="region">Saxony</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Andromeda+Schneider&amp;search_field=search</field>
+    </doc>
+</add>

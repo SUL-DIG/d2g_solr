@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100899</field>
+        <field name="genre">Opera</field>
+        <field name="title">Badewanne</field>
+        <field name="titleSort">Badewanne</field>
+        <field name="composer">Manfred Niehaus</field>
+        <field name="composerSort">Niehaus, Manfred</field>
+        <field name="librettist">Manfred Niehaus</field>
+        <field name="librettist">Johann Kamps</field>
+        <field name="librettistSort">Niehaus, Manfred</field>
+        <field name="librettistSort">Kamps, Johann</field>
+        <field name="year">1973</field>
+        <field name="date">February 21, 1973</field>
+        <field name="city">Bonn</field>
+        <field name="region">North Rhine-Westphalia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Badewanne+Manfred+Niehaus&amp;search_field=search</field>
+    </doc>
+</add>

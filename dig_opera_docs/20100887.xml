@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100887</field>
+        <field name="genre">Opera</field>
+        <field name="title">Ophelias: Death by Water Singing</field>
+        <field name="titleSort">Ophelias: Death by Water Singing</field>
+        <field name="composer">Henrik Hellstenius</field>
+        <field name="composerSort">Hellstenius, Henrik</field>
+        <field name="librettist">Cecilie Løveid</field>
+        <field name="librettistSort">Løveid, Cecilie</field>
+        <field name="year">2005</field>
+        <field name="date">September 23, 2005</field>
+        <field name="city">Sandnes</field>
+        <field name="region">Rogaland</field>
+        <field name="country">Norway</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ophelia+Death+Water+Singing+Henrik+Hellstenius&amp;search_field=search</field>
+    </doc>
+</add>

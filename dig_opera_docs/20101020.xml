@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101020</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der Apfel aus Basra</field>
+        <field name="titleSort">Apfel aus Basra</field>
+        <field name="composer">Mattias Kranebitter</field>
+        <field name="composerSort">Kranebitter, Mattias</field>
+        <field name="librettist">Kristine Tornquist</field>
+        <field name="librettistSort">Tornquist, Kristine</field>
+        <field name="year">2011</field>
+        <field name="date">August 25, 2011</field>
+        <field name="theater">Sirene Operntheater</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Apfel+Basra+Kranebitter&amp;search_field=search</field>
+    </doc>
+</add>

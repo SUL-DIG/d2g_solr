@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100869</field>
+        <field name="genre">Opera</field>
+        <field name="title">Osan-Secret of Love</field>
+        <field name="titleSort">Osan-Secret of Love</field>
+        <field name="composer">Mayako Kubo</field>
+        <field name="composerSort">Kubo, Mayako</field>
+        <field name="librettist">Mayako Kubo</field>
+        <field name="librettist">Monzaemon Chikamatsu</field>
+        <field name="librettistSort">Kubo, Mayako</field>
+        <field name="librettistSort">Chikamatsu, Monzaemon</field>
+        <field name="year">2005</field>
+        <field name="date">February 25, 2005</field>
+        <field name="theater">New National Theater</field>
+        <field name="city">Tokyo</field>
+        <field name="region">Tokyo</field>
+        <field name="country">Japan</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Osan+Secret+Mayako+Kubo&amp;search_field=search</field>
+    </doc>
+</add>

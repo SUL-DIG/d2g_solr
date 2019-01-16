@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101019</field>
+        <field name="genre">Opera</field>
+        <field name="title">Antiope und Telemach</field>
+        <field name="titleSort">Antiope und Telemach</field>
+        <field name="composer">Ferdinand Kauer</field>
+        <field name="composerSort">Kauer, Ferdinand</field>
+        <field name="librettist">Joachim Perinet</field>
+        <field name="librettistSort">Perinet, Joachim</field>
+        <field name="year">1805</field>
+        <field name="date">October 23, 1805</field>
+        <field name="theater">Theater in der Leopoldstadt</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Antiope+Telemach+Kauer&amp;search_field=search</field>
+    </doc>
+</add>

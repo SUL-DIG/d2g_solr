@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100951</field>
+        <field name="genre">Opera</field>
+        <field name="title">Reconstructie</field>
+        <field name="titleSort">Reconstructie</field>
+        <field name="composer">Misha Mengelberg, et al</field>
+        <field name="composerSort">Mengelberg, Misha, et al</field>
+        <field name="librettist">Hugo Claus</field>
+        <field name="librettist">Harry Mulisch</field>
+        <field name="librettistSort">Claus, Hugo</field>
+        <field name="librettistSort">Mulisch, Harry</field>
+        <field name="year">1969</field>
+        <field name="date">June 9, 1969</field>
+        <field name="theater">Theater Carré</field>
+        <field name="city">Amsterdam</field>
+        <field name="region">North Holland</field>
+        <field name="country">Netherlands</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Reconstructie+Misha+Mengelberg&amp;search_field=search</field>
+    </doc>
+</add>

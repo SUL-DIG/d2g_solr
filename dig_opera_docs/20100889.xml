@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100889</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Abels Tod</field>
+        <field name="titleSort">Abels Tod</field>
+        <field name="composer">Michael Haydn</field>
+        <field name="composerSort">Haydn, Michael</field>
+        <field name="librettist">Friedrich Gottlieb Klopstock</field>
+        <field name="librettistSort">Klopstock, Friedrich Gottlieb</field>
+        <field name="year">1828</field>
+        <field name="date">October 29, 1828</field>
+        <field name="city">Kassel</field>
+        <field name="region">Hesse</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Abels+Tod+Michael+Haydn&amp;search_field=search</field>
+    </doc>
+</add>
