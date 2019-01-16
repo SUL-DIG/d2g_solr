@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100850</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Si l'on savait</field>
+        <field name="titleSort">Si l'on savait</field>
+        <field name="composer">Victor David</field>
+        <field name="composerSort">David, Victor</field>
+        <field name="librettist">Robert Delamare</field>
+        <field name="librettistSort">Delamare, Robert</field>
+        <field name="year">1928</field>
+        <field name="date">February 18, 1928</field>
+        <field name="theater">Théâtre français</field>
+        <field name="city">Rouen</field>
+        <field name="region">Normandy</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Si+savait+Victor+David&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200252</field>
+        <field name="genre">Oratorio</field>
+        <field name="subject">Crucifixion</field>
+        <field name="title">Der sterbende Jesus</field>
+        <field name="titleSort">sterbende Jesus</field>
+        <field name="composer">Peter von Winter</field>
+        <field name="composerSort">Winter, Peter von</field>
+        <field name="librettist">Reger</field>
+        <field name="librettistSort">Reger</field>
+        <field name="year">1813</field>
+        <field name="date">1813</field>
+        <field name="theater">Bethaus</field>
+        <field name="city">München</field>
+        <field name="region">Bavaria</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=sterbende+Jesus+Peter+Winter&amp;search_field=search</field>
+    </doc>
+</add>

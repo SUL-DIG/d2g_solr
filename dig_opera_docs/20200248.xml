@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200248</field>
+        <field name="genre">Oratorio</field>
+        <field name="subject">Crucifixion</field>
+        <field name="title">Die Pilgrime auf Golgatha</field>
+        <field name="titleSort">Pilgrime auf Golgatha</field>
+        <field name="composer">Georg Abraham Schneider</field>
+        <field name="composerSort">Schneider ,Georg Abraham</field>
+        <field name="librettist">Friedrich Wilhelm Zachariae</field>
+        <field name="librettistSort">Zachariae, Friedrich Wilhelm</field>
+        <field name="year">1807</field>
+        <field name="date">August 27, 1807</field>
+        <field name="theater">Berline Petrikirche</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pilgrime+Golgatha+Georg+Schneider&amp;search_field=search</field>
+    </doc>
+</add>

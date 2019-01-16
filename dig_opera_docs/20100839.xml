@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100839</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Le Roi d'Yvetot</field>
+        <field name="titleSort">Roi d'Yvetot</field>
+        <field name="composer">Camille Boucoiran</field>
+        <field name="composerSort">Boucoiran, Camille</field>
+        <field name="librettist">Louis Payen</field>
+        <field name="librettistSort">Payen, Louis</field>
+        <field name="year">1927</field>
+        <field name="date">March 25, 1927</field>
+        <field name="theater">Massenet</field>
+        <field name="city">Saint Etienne</field>
+        <field name="region">Auvergne-Rhône-Alpes</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Roi+Yvetot+Camille+Boucoiran&amp;search_field=search</field>
+    </doc>
+</add>

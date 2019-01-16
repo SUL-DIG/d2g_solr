@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100789</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Les petites Cardinal</field>
+        <field name="titleSort">petites Cardinal</field>
+        <field name="composer">Arthur Honegger</field>
+        <field name="composerSort">Honegger, Arthur</field>
+        <field name="librettist">Albert Willemetz</field>
+        <field name="librettist">Ludovic Halévy</field>
+        <field name="librettistSort">Willemetz, Albert</field>
+        <field name="librettistSort">Halévy, Ludovic</field>
+        <field name="year">1938</field>
+        <field name="date">February 13, 1938</field>
+        <field name="theater">Théâtre des Bouffes-Parisiens</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=petites+Cardinal+Arthur+Honegger&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200218</field>
+        <field name="genre">Oratorio</field>
+        <field name="title">The Prophet</field>
+        <field name="titleSort">Prophet</field>
+        <field name="composer">Gardner Read</field>
+        <field name="composerSort">Read, Gardner</field>
+        <field name="librettist">Kahlil Gibran</field>
+        <field name="librettist">Gardner Read</field>
+        <field name="librettistSort">Gibran, Kahlil</field>
+        <field name="librettistSort">Read, Gardner</field>
+        <field name="year">1977</field>
+        <field name="date">February 1977</field>
+        <field name="theater">Symphony Hall</field>
+        <field name="city">Boston</field>
+        <field name="region">Massachusetts</field>
+        <field name="country">United States</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prophet+Gardner+Read&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100842</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">La Vénus de Deauville</field>
+        <field name="titleSort">Vénus de Deauville</field>
+        <field name="composer">Harry Sylvabell</field>
+        <field name="composerSort">Sylvabell, Harry</field>
+        <field name="librettist">Alin Monjardin</field>
+        <field name="librettist">Marcel Nancey</field>
+        <field name="librettist">Léo-Noël Demars</field>
+        <field name="librettistSort">Monjardin, Alin</field>
+        <field name="librettistSort">Nancey, Marcel</field>
+        <field name="librettistSort">Demars, Léo-Noël</field>
+        <field name="year">1927</field>
+        <field name="date">May 31, 1927</field>
+        <field name="theater">Comoedia</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vénus+Deauville+Harry+Sylvabell&amp;search_field=search</field>
+    </doc>
+</add>

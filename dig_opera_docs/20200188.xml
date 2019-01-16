@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200188</field>
+        <field name="genre">Oratorio</field>
+        <field name="subject">Lenin</field>
+        <field name="title">Delo Lenina bessmertno: Oratoriia-poèma (The Acts of Lenin)</field>
+        <field name="titleSort">Delo Lenina bessmertno: Oratoriia-poèma (The Acts of Lenin)</field>
+        <field name="composer">Boris Aleksandrovich Aleksandrov</field>
+        <field name="composerSort">Aleksandrov, Boris Aleksandrovich</field>
+        <field name="year">1973</field>
+        <field name="date">1973</field>
+        <field name="country">Russia </field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Delo+Lenina+bessmertno+Boris+Aleksandrov&amp;search_field=search</field>
+    </doc>
+</add>

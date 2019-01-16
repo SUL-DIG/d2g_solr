@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200192</field>
+        <field name="genre">Oratorio</field>
+        <field name="subject">Job</field>
+        <field name="title">Job</field>
+        <field name="titleSort">Job</field>
+        <field name="composer">Hermann Berlinski</field>
+        <field name="composerSort">Berlinski, Hermann</field>
+        <field name="librettist">Texts from The Bible</field>
+        <field name="librettist">Moses Buttenwieser</field>
+        <field name="librettist">Nelly Sachs</field>
+        <field name="librettistSort">Bible, Texts from The</field>
+        <field name="librettistSort">Buttenwieser, Moses</field>
+        <field name="librettistSort">Sachs, Nelly</field>
+        <field name="year">1971</field>
+        <field name="date">1971</field>
+        <field name="theater">The Kennedy Center</field>
+        <field name="city">Washington</field>
+        <field name="region">District of Columbia</field>
+        <field name="country">United States</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Job+Hermann+Berlinski&amp;search_field=search</field>
+    </doc>
+</add>

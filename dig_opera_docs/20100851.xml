@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100851</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Prenez-moi</field>
+        <field name="titleSort">Prenez-moi</field>
+        <field name="composer">Victor Alix</field>
+        <field name="composerSort">Alix, Victor</field>
+        <field name="librettist">Raymond de Cesse</field>
+        <field name="librettist">Marcel Favre</field>
+        <field name="librettistSort">Cesse, Raymond de</field>
+        <field name="librettistSort">Favre, Marcel</field>
+        <field name="year">1928</field>
+        <field name="date">March 16, 1928</field>
+        <field name="city">Poitiers</field>
+        <field name="region">Nouvelle-Aquitaine</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prenez-moi+Victor+Alix&amp;search_field=search</field>
+    </doc>
+</add>

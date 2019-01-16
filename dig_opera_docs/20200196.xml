@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200196</field>
+        <field name="genre">Oratorio</field>
+        <field name="title">De tempore</field>
+        <field name="titleSort">De tempore</field>
+        <field name="composer">Cesar Bresgen</field>
+        <field name="composerSort">Bresgen, Cesar</field>
+        <field name="year">1974</field>
+        <field name="date">1974</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=tempore+Cesar+Bresgen&amp;search_field=search</field>
+    </doc>
+</add>

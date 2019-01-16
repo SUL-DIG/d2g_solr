@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100806</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">You-You</field>
+        <field name="titleSort">You-You</field>
+        <field name="composer">Victor Alix</field>
+        <field name="composerSort">Alix, Victor</field>
+        <field name="librettist">Jacques Ardot</field>
+        <field name="librettist">Jacques Sirrah</field>
+        <field name="librettistSort">Ardot, Jacques</field>
+        <field name="librettistSort">Sirrah, Jacques</field>
+        <field name="year">1922</field>
+        <field name="date">February 25, 1922</field>
+        <field name="theater">Apllo</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=You-You+Victor+Alix&amp;search_field=search</field>
+
+    </doc>
+</add>

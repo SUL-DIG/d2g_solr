@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200213</field>
+        <field name="genre">Oratorio</field>
+        <field name="subject">Dido</field>
+        <field name="title">Dido</field>
+        <field name="titleSort">Dido</field>
+        <field name="composer">Jan Novák</field>
+        <field name="composerSort">Novák, Jan</field>
+        <field name="librettist">Virgil</field>
+        <field name="librettistSort">Virgil</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="theater">Gymnázium</field>
+        <field name="city">Brno</field>
+        <field name="region">South Moravian Region</field>
+        <field name="country">Czech Republic</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dido+Jan+Novák&amp;search_field=search</field>
+    </doc>
+</add>

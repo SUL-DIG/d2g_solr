@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200240</field>
+        <field name="genre">Oratorio</field>
+        <field name="subject">Saul and David</field>
+        <field name="title">Saul und David im Kriege</field>
+        <field name="titleSort">Saul und David im Kriege</field>
+        <field name="composer">Johann Wilhelm Cornelius von Königslöw</field>
+        <field name="composerSort">Königslöw, Johann Wilhelm Cornelius von</field>
+        <field name="year">1800</field>
+        <field name="date">November 14, 1800</field>
+        <field name="theater">Lücecke Marienkirche</field>
+        <field name="city">Lübeck</field>
+        <field name="region">Schleswig-Holstein</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Saul+David+Kriege+Johann+Königslöw&amp;search_field=search</field>
+    </doc>
+</add>

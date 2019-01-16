@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200199</field>
+        <field name="genre">Oratorio</field>
+        <field name="title">Die Maßnahme</field>
+        <field name="titleSort">Maßnahme</field>
+        <field name="composer">Hans Eisler</field>
+        <field name="composerSort">Eisler, Hans</field>
+        <field name="librettist">Bertolt Brecht</field>
+        <field name="librettistSort">Brecht, Bertolt</field>
+        <field name="year">1930</field>
+        <field name="date">December 11, 1930</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maßnahme+Hans+Eisler&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100821</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Le Lys noir</field>
+        <field name="titleSort">Lys noir</field>
+        <field name="composer">Edmund Grinnell</field>
+        <field name="composerSort">Grinnell, Edmund</field>
+        <field name="librettist">Edmund Grinnell</field>
+        <field name="librettistSort">Grinnell, Edmund</field>
+        <field name="year">1924</field>
+        <field name="date">July 10, 1924</field>
+        <field name="theater">Trainon Lyrique</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lys+noir+Edmund+Grinnell&amp;search_field=search</field>
+    </doc>
+</add>

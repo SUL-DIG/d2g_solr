@@ -2,7 +2,6 @@
     <doc>
         <field name="id">20100006</field>
         <field name="genre">Opera</field>
-        <field name="subgenre"></field>
         <field name="title">Fantastic Mr. Fox</field>
         <!-- The titleSort field should be the Title beginning with whatever word should be used for alphabetical sorting (the elimination of title-beginning articles). -->
         <field name="titleSort">Fantastic Mr. Fox</field>

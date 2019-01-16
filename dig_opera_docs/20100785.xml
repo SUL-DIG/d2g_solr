@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100785</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">L'Amour au harem ou La Sultane de Bangalore</field>
+        <field name="titleSort">Amour au harem ou La Sultane de Bangalore</field>
+        <field name="composer">Henri Morisson</field>
+        <field name="composerSort">Morisson, Henri</field>
+        <field name="librettist">Jean Conti</field>
+        <field name="librettist">Maurice Marall</field>
+        <field name="librettistSort">Conti, Jean</field>
+        <field name="librettistSort">Merall, Maurice</field>
+        <field name="year">1919</field>
+        <field name="date">January 1, 1919</field>
+        <field name="theater">Théâtre de Bouffes du Nord</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amour+harem+Sultane+Bangalore+Henri+Morisson&amp;search_field=search</field>
+    </doc>
+</add>

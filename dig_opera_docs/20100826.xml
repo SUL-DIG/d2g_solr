@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100826</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">La Nuit passionnée</field>
+        <field name="titleSort">Nuit passionnée</field>
+        <field name="composer">Henri Morisson</field>
+        <field name="composerSort">Morisson, Henri</field>
+        <field name="librettist">Yoris d'Hanswick</field>
+        <field name="librettist">Alfred Gragnon</field>
+        <field name="librettist">Max Viterbo</field>
+        <field name="librettistSort">Hanswick, Yoris d'</field>
+        <field name="librettistSort">Gragnon, Alfred</field>
+        <field name="librettistSort">Viterbo, Max</field>
+        <field name="year">1925</field>
+        <field name="date">September 5, 1925</field>
+        <field name="theater">Cigale</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nuit+passionnée+Henri+Morisson&amp;search_field=search</field>
+    </doc>
+</add>

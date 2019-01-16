@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200228</field>
+        <field name="genre">Oratorio</field>
+        <field name="title">Parade of the Fallen (Misdar Ha'Noflim)</field>
+        <field name="titleSort">Parade of the Fallen (Misdar Ha'Noflim)</field>
+        <field name="composer">Josef Tal</field>
+        <field name="composerSort">Tal, Josef</field>
+        <field name="librettist">Haim Hefer</field>
+        <field name="librettistSort">Hefer, Haim</field>
+        <field name="year">1969</field>
+        <field name="date">1969</field>
+        <field name="city">Jerusalem</field>
+        <field name="region">Jerusalem</field>
+        <field name="country">Israel</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Parade+Fallen+Josef+Tal+Misdar+Ha'Noflim&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100823</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">La Princesse de Chacha</field>
+        <field name="titleSort">Princesse de Chacha</field>
+        <field name="composer">Paul Fauchey</field>
+        <field name="composerSort">Fauchey, Paul</field>
+        <field name="librettist">Elie Brachet</field>
+        <field name="librettist">Georges Léglise</field>
+        <field name="librettistSort">Brachet, Elie</field>
+        <field name="librettistSort">Léglise, Georges</field>
+        <field name="year">1924</field>
+        <field name="date">December 3, 1924</field>
+        <field name="theater">Grenelle</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Princesse+Chacha+Paul+Fauchey&amp;search_field=search</field>
+    </doc>
+</add>

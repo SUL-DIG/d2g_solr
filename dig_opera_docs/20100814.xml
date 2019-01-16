@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100814</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Rêve de Reine</field>
+        <field name="titleSort">Rêve de Reine</field>
+        <field name="composer">Robert Guillemin</field>
+        <field name="composerSort">Guillemin, Robert</field>
+        <field name="librettist">Wilfrid Montel</field>
+        <field name="librettist">Henri Christophe</field>
+        <field name="librettistSort">Montel, Wilfrid</field>
+        <field name="librettistSort">Christophe, Henri</field>
+        <field name="year">1923</field>
+        <field name="date">September 1, 1923</field>
+        <field name="city">Sète</field>
+        <field name="region">Occitainie</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rêve+Reine+Robert+Guillemin&amp;search_field=search</field>
+    </doc>
+</add>

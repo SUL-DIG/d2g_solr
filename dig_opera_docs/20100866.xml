@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100866</field>
+        <field name="genre">Opera</field>
+        <field name="title">Hagar in the Wilderness</field>
+        <field name="titleSort">Hagar in the Wilderness</field>
+        <field name="composer">Sally Beamish</field>
+        <field name="composerSort">Beamish, Sally</field>
+        <field name="librettist">Clara Glynn</field>
+        <field name="librettistSort">Glynn, Clara</field>
+        <field name="year">2013</field>
+        <field name="date">August 21, 2013</field>
+        <field name="theater">St. Andrews Church</field>
+        <field name="city">Presteigne</field>
+        <field name="region">Powys</field>
+        <field name="country">Wales</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hagar+Wilderness+Sally+Beamish&amp;search_field=search</field>
+    </doc>
+</add>

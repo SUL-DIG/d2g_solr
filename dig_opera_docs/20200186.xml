@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200186</field>
+        <field name="genre">Oratorio</field>
+        <field name="title">Oratorium nach Sprüchen des Angelus Silesius</field>
+        <field name="titleSort">Oratorium nach Sprüchen des Angelus Silesius</field>
+        <field name="composer">Conrad Beck</field>
+        <field name="composerSort">Beck, Conrad</field>
+        <field name="year">1934</field>
+        <field name="date">1934</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oratorium+Sprüchen+Angelus+Silesius+Conrad+Beck&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100865</field>
+        <field name="genre">Opera</field>
+        <field name="title">Monster</field>
+        <field name="titleSort">Monster</field>
+        <field name="composer">Sally Beamish</field>
+        <field name="composerSort">Beamish, Sally</field>
+        <field name="librettist">Janice Galloway</field>
+        <field name="librettistSort">Galloway, Janice</field>
+        <field name="year">2002</field>
+        <field name="date">2002</field>
+        <field name="theater">Theatre Royal</field>
+        <field name="city">Glasglow</field>
+        <field name="region">Glasglow</field>
+        <field name="country">Scotland</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Monster+Sally+Beamish&amp;search_field=search</field>
+    </doc>
+</add>

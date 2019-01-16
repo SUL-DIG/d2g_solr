@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100803</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Princesse Lily</field>
+        <field name="titleSort">Princesse Lily</field>
+        <field name="composer">Victor Alix</field>
+        <field name="composerSort">Alix, Victor</field>
+        <field name="librettist">Jean Charles Vaumousse</field>
+        <field name="librettistSort">Vaumousse, Jean Charles</field>
+        <field name="year">1921</field>
+        <field name="date">June 10, 1921</field>
+        <field name="theater">Les Variétés</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Princesse+Lily+Victor+Alix&amp;search_field=search</field>
+    </doc>
+</add>

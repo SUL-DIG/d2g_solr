@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100859</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Widows Bewitched</field>
+        <field name="titleSort">Widows Bewithced</field>
+        <field name="composer">Mary Ann Virginia Gabriel</field>
+        <field name="composerSort">Gabriel, Mary Ann Virginia</field>
+        <field name="librettist">H. Aidé</field>
+        <field name="librettistSort">Aidé, H.</field>
+        <field name="year">1866</field>
+        <field name="date">1866</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Widows+Bewitched+Mary+Virginia+Gabriel&amp;search_field=search</field>
+    </doc>
+</add>

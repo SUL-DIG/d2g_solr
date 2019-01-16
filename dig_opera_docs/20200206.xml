@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200206</field>
+        <field name="genre">Oratorio</field>
+        <field name="title">Wandlungen: A Chamber Oratorio</field>
+        <field name="titleSort">Wandlungen: A Chamber Oratorio</field>
+        <field name="composer">Josef Matthias Hauer</field>
+        <field name="composerSort">Hauer, Josef Matthias</field>
+        <field name="year">1927</field>
+        <field name="date">1927</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wandlungen+Josef+Hauer&amp;search_field=search</field>
+    </doc>
+</add>

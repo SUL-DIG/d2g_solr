@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100811</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">L'Amour masqué</field>
+        <field name="titleSort">Amour masqué</field>
+        <field name="composer">André Messager</field>
+        <field name="composerSort">Messager, André</field>
+        <field name="librettist">Sacha Guitry</field>
+        <field name="librettistSort">Guitry, Sacha</field>
+        <field name="year">1923</field>
+        <field name="date">February 15, 1923</field>
+        <field name="theater">Théâtre Édouard VII</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amour+masqué+André+Messager&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100829</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">L'Anneau de chasteté</field>
+        <field name="titleSort">Anneau de chasteté</field>
+        <field name="composer">Raymond Delangle</field>
+        <field name="composerSort">Delangle, Raymond</field>
+        <field name="librettist">Eugène Joullot</field>
+        <field name="librettist">Edmond Joullot</field>
+        <field name="librettist">J.L. Reyber</field>
+        <field name="librettistSort">Joullot, Eugène</field>
+        <field name="librettistSort">Joullot, Edmond</field>
+        <field name="librettistSort">Reyber, J.L.</field>
+        <field name="year">1925</field>
+        <field name="date">November 21, 1925</field>
+        <field name="theater">Gaity</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anneau+chasteté+Raymond+Delangle&amp;search_field=search</field>
+    </doc>
+</add>

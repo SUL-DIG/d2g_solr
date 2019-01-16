@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200211</field>
+        <field name="genre">Oratorio</field>
+        <field name="title">La historia de Tobias y Sara</field>
+        <field name="titleSort">historia de Tobias y Sara</field>
+        <field name="composer">Alfonso Letelier</field>
+        <field name="composerSort">Letelier, Alfonso</field>
+        <field name="librettist">Paul Claudel</field>
+        <field name="librettist">Alfonso Letelier</field>
+        <field name="librettistSort">Claudel, Paul</field>
+        <field name="librettistSort">Letelier, Alfonso</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=historia+Tobias+Sara+Alfonso+Letelier&amp;search_field=search</field>
+    </doc>
+</add>

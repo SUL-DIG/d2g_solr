@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100817</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Le Cavalier Lafleur</field>
+        <field name="titleSort">Cavalier Lafleur</field>
+        <field name="composer">André Mauprey</field>
+        <field name="composerSort">Mauprey</field>
+        <field name="librettist">Louis Raine</field>
+        <field name="librettist">André Mauprey</field>
+        <field name="librettistSort">Raine, Louis</field>
+        <field name="librettistSort">Mauprey, André</field>
+        <field name="year">1920</field>
+        <field name="date">May 11, 1920</field>
+        <field name="theater">Casino Kursaal</field>
+        <field name="city">Lyon</field>
+        <field name="region">Auvergne-Rhône-Alpes</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cavalier+Lafleur+André+Mauprey&amp;search_field=search</field>
+    </doc>
+</add>

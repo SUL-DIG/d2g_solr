@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100784</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Au béguin des dames</field>
+        <field name="titleSort">Béguin des dames</field>
+        <field name="composer">Albert Chantrier</field>
+        <field name="composerSort">Chantrier, Albert</field>
+        <field name="librettist">Karcher</field>
+        <field name="librettist">René Nazelles</field>
+        <field name="librettistSort">Karcher</field>
+        <field name="librettistSort">Nazelles, René</field>
+        <field name="year">1918</field>
+        <field name="date">November 8, 1918</field>
+        <field name="theater">Théâtre de l'Abri</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Béquin+dames+Albert+Chantrier&amp;search_field=search</field>
+    </doc>
+</add>

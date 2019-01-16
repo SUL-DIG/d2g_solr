@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200190</field>
+        <field name="genre">Oratorio</field>
+        <field name="title">Ne tron'te sinij globus: Oratoriia (Don't Touch the Blue Globe: Oratorio)</field>
+        <field name="titleSort">Ne tron'te sinij globus: Oratoriia (Don't Touch the Blue Globe: Oratorio)</field>
+        <field name="composer">Eduardas Kosto Balsys</field>
+        <field name="composerSort">Balsys, Eduardas Kosto</field>
+        <field name="year">1969</field>
+        <field name="date">19698</field>
+        <field name="country">Lithuania</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=tron'te+sinij+globus+Eduardas+Balsys&amp;search_field=search</field>
+    </doc>
+</add>

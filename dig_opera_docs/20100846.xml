@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100846</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">La Dame au domino</field>
+        <field name="titleSort">Dame au domino</field>
+        <field name="composer">Henri Hirchmann</field>
+        <field name="composerSort">Hirchmann, Henri</field>
+        <field name="librettist">Henri de Gorsse</field>
+        <field name="librettist">Victor Darlay</field>
+        <field name="librettistSort">Gorsse, Henri de</field>
+        <field name="librettistSort">Darlay, Victor</field>
+        <field name="year">1927</field>
+        <field name="date">October 27, 1927</field>
+        <field name="theater">Gaîte Lyrique</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dame+domino+Henri+Hirchmann&amp;search_field=search</field>
+    </doc>
+</add>

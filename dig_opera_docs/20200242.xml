@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200242</field>
+        <field name="genre">Oratorio</field>
+        <field name="subject">The Promised Land</field>
+        <field name="title">Die Verheißung</field>
+        <field name="titleSort">Verheißung</field>
+        <field name="composer">Johann Gottfried Lägel</field>
+        <field name="composerSort">Lägel, Johann Gottfried</field>
+        <field name="year">1833</field>
+        <field name="date">1833</field>
+        <field name="city">Jena</field>
+        <field name="region">Thuringia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Verheißung+Johann+Lägel&amp;search_field=search</field>
+    </doc>
+</add>

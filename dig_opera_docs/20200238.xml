@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200238</field>
+        <field name="genre">Oratorio</field>
+        <field name="title">Das Gelübde</field>
+        <field name="titleSort">Gelübde</field>
+        <field name="composer">Ignaz Assmeyer</field>
+        <field name="composerSort">Assmeyer, Ignaz</field>
+        <field name="librettist">Joesph Haslauer</field>
+        <field name="librettistSort">Haslauer</field>
+        <field name="year">1833</field>
+        <field name="date">February 28, 1833</field>
+        <field name="theater">Wiener Burgtheater</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gelübde+Ignaz+Assmeyer&amp;search_field=search</field>
+    </doc>
+</add>

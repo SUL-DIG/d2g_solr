@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100836</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Le Septième ciel</field>
+        <field name="titleSort">Septième ciel</field>
+        <field name="composer">Fred Pearly [François Pruvost]</field>
+        <field name="composerSort">Pearly, Fred [François Pruvost]</field>
+        <field name="librettist">Rip [Georges Thenon]</field>
+        <field name="librettistSort">Rip, [Georges Thenon]</field>
+        <field name="year">1926</field>
+        <field name="date">November 17, 1926</field>
+        <field name="theater">Avenue</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Septième+ciel+Fred+Pearly&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200232</field>
+        <field name="genre">Oratorio</field>
+        <field name="subject">History of the New World</field>
+        <field name="title">Canto General</field>
+        <field name="titleSort">Canto General</field>
+        <field name="composer">Mikis Theodorakis</field>
+        <field name="composerSort">Theodorakis</field>
+        <field name="librettist">Pablo Neruda</field>
+        <field name="librettistSort">Neruda, Pablo</field>
+        <field name="year">1974</field>
+        <field name="date">1974</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Canto+General+Mikis+Theodorakis&amp;search_field=search</field>
+    </doc>
+</add>

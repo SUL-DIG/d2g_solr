@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100835</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Qui êtes-vous?</field>
+        <field name="titleSort">Qui êtes-vous?</field>
+        <field name="composer">Charles Cuvillier</field>
+        <field name="composerSort">Cuvillier, Charles</field>
+        <field name="librettist">Raymond Genty</field>
+        <field name="librettistSort">Genty, Raymond</field>
+        <field name="year">1926</field>
+        <field name="date">November 13, 1926</field>
+        <field name="theater">Théâtre Garnier</field>
+        <field name="city">Monte Carlo</field>
+        <field name="region">Monaco</field>
+        <field name="country">Monaco</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Qui+êtes-vous+Charles+Cuvillier&amp;search_field=search</field>
+    </doc>
+</add>

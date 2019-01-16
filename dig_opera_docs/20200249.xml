@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200249</field>
+        <field name="genre">Oratorio</field>
+        <field name="title">Glaube, Zweifel, Vertrauen</field>
+        <field name="titleSort">Glaube, Zweifel, Vertrauen</field>
+        <field name="composer">Friedrich Ludwig Seidel</field>
+        <field name="composerSort">Seidel, Friedrich Ludwig</field>
+        <field name="librettist">Friedrich Wilhelm Gubitz</field>
+        <field name="librettistSort">Gubitz, Friedrich Wilhelm</field>
+        <field name="year">1809</field>
+        <field name="date">December 3, 1809</field>
+        <field name="theater">Sall des Nationaltheaters</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Glaube+Zweifel+Vertrauen+Friedrich+Seidel&amp;search_field=search</field>
+    </doc>
+</add>

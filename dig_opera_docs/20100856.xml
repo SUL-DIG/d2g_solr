@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100856</field>
+        <field name="genre">Opera</field>
+        <field name="title">La Répétition villageoise</field>
+        <field name="titleSort">Répétition villageoise</field>
+        <field name="composer">Josephine-Rosalie-Pauline de Walckiers</field>
+        <field name="composerSort">Walckiers, Josephine-Rosalie-Pauline de</field>
+        <field name="year">1792</field>
+        <field name="date">1792</field>
+        <field name="theater">Théâtre de Schaerbeek</field>
+        <field name="city">Brussels</field>
+        <field name="region">Brussels</field>
+        <field name="country">Belgium</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Répétition+villageoise+Walkiers&amp;search_field=search</field>
+    </doc>
+</add>

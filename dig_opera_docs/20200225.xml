@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200225</field>
+        <field name="genre">Oratorio</field>
+        <field name="title">The Mother Rejoices</field>
+        <field name="titleSort">Mother Rejoices</field>
+        <field name="composer">Josef Tal</field>
+        <field name="composerSort">Tal, Josef</field>
+        <field name="librettist">Book of Maccabees</field>
+        <field name="librettistSort">Maccabees, Book of</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="city">Jerusalem</field>
+        <field name="region">Jerusalem</field>
+        <field name="country">Israel</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mother+Rejoices+Josef+Tal&amp;search_field=search</field>
+    </doc>
+</add>

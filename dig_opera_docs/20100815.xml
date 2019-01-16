@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100815</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Le Béguin de la Reine</field>
+        <field name="titleSort">Béguin de la Reine</field>
+        <field name="composer">Albert Valsien</field>
+        <field name="composerSort">Valsien, Albert</field>
+        <field name="librettist">Alfred Moyne</field>
+        <field name="librettist">Marcel Labusquiere</field>
+        <field name="librettistSort">Moyne, Alfred</field>
+        <field name="librettistSort">Labusquiere, Marcel</field>
+        <field name="year">1923</field>
+        <field name="date">September 14, 1923</field>
+        <field name="theater">Alhambra</field>
+        <field name="city">Caen</field>
+        <field name="region">Normandy</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bèguin+Reine+Albert+Valsien&amp;search_field=search</field>
+    </doc>
+</add>

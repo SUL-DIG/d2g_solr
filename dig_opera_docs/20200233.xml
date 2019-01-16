@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200233</field>
+        <field name="genre">Oratorio</field>
+        <field name="subject">Olympic Games</field>
+        <field name="title">Canto Olympico</field>
+        <field name="titleSort">Canto Olympico</field>
+        <field name="composer">Mikis Theodorakis</field>
+        <field name="composerSort">Theodorakis, Mikis</field>
+        <field name="librettist">Dimitra Manda</field>
+        <field name="librettist">Mikis Theodorakis</field>
+        <field name="librettistSort">Manda, Dimitra</field>
+        <field name="librettistSort">Theodorakis, Mikis</field>
+        <field name="year">1992</field>
+        <field name="date">July 23, 1992</field>
+        <field name="theater">Gran Teatre de Liceu</field>
+        <field name="city">Barcelona</field>
+        <field name="region">Catalonia</field>
+        <field name="country">Spain</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Canto+Olympic+Mikis+Theodorakis&amp;search_field=search</field>
+    </doc>
+</add>

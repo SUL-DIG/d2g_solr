@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100841</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Les Commères du marché Saint-Germain</field>
+        <field name="titleSort">Commères du marché Saint-Germain</field>
+        <field name="composer">Jean Nouguès</field>
+        <field name="composerSort">Nouguès, Jean</field>
+        <field name="librettist">Yoris d'Hanswick</field>
+        <field name="librettistSort">Hanswick, Yoris d'</field>
+        <field name="year">1927</field>
+        <field name="date">May 23, 1927</field>
+        <field name="theater">Foire Saint Germaine</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Commères+marché+Saint-Germain+Jean+Nouguès&amp;search_field=search</field>
+    </doc>
+</add>

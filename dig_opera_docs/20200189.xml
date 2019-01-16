@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200189</field>
+        <field name="genre">Oratorio</field>
+        <field name="title">Soldat Oktiabria zashchishchaet mir: Oratoriia (The October Soldier Defends Peace: Oratorio)</field>
+        <field name="titleSort">Soldat Oktiabria zashchishchaet mir: Oratoriia (The October Soldier Defends Peace: Oratrio)</field>
+        <field name="composer">Boris Aleksandrovich Aleksandrov</field>
+        <field name="composerSort">Aleksandrov, Boris Aleksandrovich</field>
+        <field name="year">1970</field>
+        <field name="date">1970</field>
+        <field name="country">Russia</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Soldat+Oktiabra+zashchishchaet+mir+Boris+Aleksandrov&amp;search_field=search</field>
+    </doc>
+</add>

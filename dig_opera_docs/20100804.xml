@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100804</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Les Bijoux indiscrets</field>
+        <field name="titleSort">Bijoux indiscrets</field>
+        <field name="composer">Léo Daniderff</field>
+        <field name="composerSort">Daniderff, Léo</field>
+        <field name="librettist">Pierre-Louis Flers</field>
+        <field name="librettistSort">Flers, Pierre-Louis</field>
+        <field name="year">1921</field>
+        <field name="date">September 15, 1921</field>
+        <field name="theater">Théâtre Marjal</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bijoux+indiscrets+Léo+Daniderff&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100786</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">American Girl</field>
+        <field name="titleSort">American Girl</field>
+        <field name="composer">Léo Pouget</field>
+        <field name="composerSort">Pouget, Léo</field>
+        <field name="librettist">Paul Bonhomme</field>
+        <field name="librettist">Marius Combes</field>
+        <field name="librettistSort">Bonhomme, Paul</field>
+        <field name="librettistSort">Combes, Marius</field>
+        <field name="year">1919</field>
+        <field name="date">March 7, 1919</field>
+        <field name="theater">Théâtre de l'Empire</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=American+Girl+Léo+Pouget&amp;search_field=search</field>
+    </doc>
+</add>

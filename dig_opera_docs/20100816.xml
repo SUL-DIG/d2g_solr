@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100816</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Pincette</field>
+        <field name="titleSort">Pincette</field>
+        <field name="composer">Victor Alix</field>
+        <field name="composerSort">Alix, Victor</field>
+        <field name="librettist">Jacques Ardot</field>
+        <field name="librettist">Charles Poidlouë</field>
+        <field name="librettistSort">Ardot, Jacques</field>
+        <field name="librettistSort">Poidlouë, Charles</field>
+        <field name="year">1923</field>
+        <field name="date">September 21, 1923</field>
+        <field name="theater">Fauvette Concert</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pincette+Victor+Alix&amp;search_field=search</field>
+    </doc>
+</add>

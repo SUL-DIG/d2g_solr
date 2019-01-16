@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100792</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Chaste Suzy</field>
+        <field name="titleSort">Chaste Suzy</field>
+        <field name="composer">Henri Morisson</field>
+        <field name="composerSort">Morisson, Henri</field>
+        <field name="librettist">Jean Guitton</field>
+        <field name="librettist">Paul Gelin-Nigel</field>
+        <field name="librettistSort">Guitton, Jean</field>
+        <field name="librettistSort">Gelin-Nigel, Paul</field>
+        <field name="year">1919</field>
+        <field name="date">August 21, 1919</field>
+        <field name="theater">Nouveau Lyrique</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chaste+Suzy+Henri+Morisson&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20200215</field>
+        <field name="genre">Oratorio</field>
+        <field name="subject">Knights of Livonian Order</field>
+        <field name="title">Alexander Nevsky</field>
+        <field name="titleSort">Alexander Nevsky</field>
+        <field name="composer">Sergei Sergeevich Prokofiev</field>
+        <field name="composerSort">Prokofiev, Sergei Sergeevich</field>
+        <field name="librettist">Vladimir Lugovskoy<field>
+        <field name="librettist">Sergei Sergeevich Prokofiev</field>
+        <field name="librettistSort">Lugovskoy, Vladimir<field>
+        <field name="librettistSort">Prokofiev, Sergei Sergeevich</field>
+        <field name="year">1939</field>
+        <field name="date">May 17, 1939</field>
+        <field name="theater">Great Hall of the Moscow Conservatory</field>
+        <field name="city">Moscow</field>
+        <field name="region">Moscow Oblast</field>
+        <field name="country">Russia</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alexander+Nevsky+Sergei+Prokofiev&amp;search_field=search</field>
+    </doc>
+</add>

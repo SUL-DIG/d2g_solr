@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100827</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Mannequins</field>
+        <field name="titleSort">Mannequins</field>
+        <field name="composer">Joseph Szulc</field>
+        <field name="composerSort">Szulc, Joseph</field>
+        <field name="librettist">Jacques Bousquet</field>
+        <field name="librettist">Henri Falk</field>
+        <field name="librettistSort">Bousquet, Jacques</field>
+        <field name="librettistSort">Falk, Henri</field>
+        <field name="year">1925</field>
+        <field name="date">October 30, 1925</field>
+        <field name="theater">Capucines</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mannequins+Joseph+Szulc&amp;search_field=search</field>
+    </doc>
+</add>
