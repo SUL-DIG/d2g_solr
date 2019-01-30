@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101059</field>
+        <field name="genre">Opera</field>
+        <field name="title">Besuchszeit</field>
+        <field name="titleSort">Besuchszeit</field>
+        <field name="composer">Reinhard Febel</field>
+        <field name="composerSort">Febel, Reinhard</field>
+        <field name="librettist">Reinhard Febel</field>
+        <field name="librettist">Boris Strugatzki</field>
+        <field name="librettistSort">Febel, Reinhard</field>
+        <field name="librettistSort">Strugatzki, Boris</field>
+        <field name="year">2001</field>
+        <field name="date">May 10, 2001</field>
+        <field name="theater">Ausstellungshalle</field>
+        <field name="city">Bonn</field>
+        <field name="region">North Rhine-Westphalia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Besuchszeit+Febel&amp;search_field=search</field>
+    </doc>
+</add>

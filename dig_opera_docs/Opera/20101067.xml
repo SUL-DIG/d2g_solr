@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101067</field>
+        <field name="genre">Opera</field>
+        <field name="title">Die Bürgschaft</field>
+        <field name="titleSort">Bürgschaft</field>
+        <field name="composer">Franz Schubert</field>
+        <field name="composerSort">Schubert, Franz</field>
+        <field name="librettist">Anonymous</field>
+        <field name="librettist">Friedrich Schiller</field>
+        <field name="librettistSort">Anonymous</field>
+        <field name="librettistSort">Schiller, Friedrich</field>
+        <field name="year">1908</field>
+        <field name="date">March 7, 1908</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bürgschaft+Schubert&amp;search_field=search</field>
+    </doc>
+</add>

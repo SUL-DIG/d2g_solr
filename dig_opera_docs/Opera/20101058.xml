@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101058</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der bestrafte Hochmut, oder Liebe macht alle Stände gleich</field>
+        <field name="titleSort">Bestrafte Hochmut, oder Liebe macht alle Stände gleich</field>
+        <field name="composer">Franz Xaver Gerl</field>
+        <field name="composerSort">Gerl, Franz Xaver</field>
+        <field name="librettist">Franz Joseph Franzky</field>
+        <field name="librettistSort">Franzky, Franz Joseph</field>
+        <field name="year">1797</field>
+        <field name="date">December 9, 1797</field>
+        <field name="city">Brunn</field>
+        <field name="region">Bavaria</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hochmut+Stände+Gerl&amp;search_field=search</field>
+    </doc>
+</add>

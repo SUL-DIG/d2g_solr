@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101068</field>
+        <field name="genre">Opera</field>
+        <field name="title">Campiello</field>
+        <field name="titleSort">Campiello</field>
+        <field name="composer">Herwig Reiter</field>
+        <field name="composerSort">Reiter, Herwig</field>
+        <field name="librettist">Peter Turrini</field>
+        <field name="librettist">Carlo Goldoni</field>
+        <field name="librettistSort">Turrini, Peter</field>
+        <field name="librettistSort">Goldoni, Carlo</field>
+        <field name="year">2010</field>
+        <field name="date">April 29, 2010</field>
+        <field name="theater">Expedithalle Wien</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Campiello+Reiter&amp;search_field=search</field>
+    </doc>
+</add>

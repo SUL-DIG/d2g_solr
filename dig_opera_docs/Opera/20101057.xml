@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101057</field>
+        <field name="genre">Opera</field>
+        <field name="title">Bernardon und Fiamette</field>
+        <field name="titleSort">Bernardon und Fiamette</field>
+        <field name="composer">Johann Baptist Savio</field>
+        <field name="composerSort">Savio, Johann Baptist</field>
+        <field name="librettist">Johann Unger</field>
+        <field name="librettistSort">Unger, Johann</field>
+        <field name="year">1766</field>
+        <field name="date">1766</field>
+        <field name="city">Graz</field>
+        <field name="region">Graz</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bernardon+Fiamette+Savio&amp;search_field=search</field>
+    </doc>
+</add>

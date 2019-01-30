@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101065</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der Brautmarkt zu Hira</field>
+        <field name="titleSort">Brautmarkt zu Hira</field>
+        <field name="composer">Bogumil Zepler</field>
+        <field name="composerSort">Zepler, Bogumil</field>
+        <field name="librettist">Oscar Justinius</field>
+        <field name="librettistSort">Justinius, Oscar</field>
+        <field name="year">1892</field>
+        <field name="date">June 5, 1892</field>
+        <field name="theater">Krollsche Theater</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Brautmarkt+Hira+Zepler&amp;search_field=search</field>
+    </doc>
+</add>

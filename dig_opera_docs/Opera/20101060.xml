@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101060</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der Betrogene Betrüger</field>
+        <field name="titleSort">Betrogene Betrüger</field>
+        <field name="composer">Paul Umlauft</field>
+        <field name="composerSort">Umlauft, Paul</field>
+        <field name="librettist">Paul Umlauft</field>
+        <field name="librettist">Ludvig Holberg</field>
+        <field name="librettistSort">Umlauft, Paul</field>
+        <field name="librettistSort">Holberg, Ludvig</field>
+        <field name="year">1899</field>
+        <field name="date">September 30, 1899</field>
+        <field name="city">Kassel</field>
+        <field name="region">Hesse</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Betrogene+Betrüger+Umlauft&amp;search_field=search</field>
+    </doc>
+</add>

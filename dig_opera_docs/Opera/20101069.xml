@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101069</field>
+        <field name="genre">Opera</field>
+        <field name="title">Caroline</field>
+        <field name="titleSort">Caroline</field>
+        <field name="composer">Michael Obst</field>
+        <field name="composerSort">Obst, Michael</field>
+        <field name="librettist">Ralph Günther Mohnau</field>
+        <field name="librettistSort">Mohnau, Ralph Günther</field>
+        <field name="year">1999</field>
+        <field name="date">July 10, 1999</field>
+        <field name="theater">Nationaltheater</field>
+        <field name="city">Weimar</field>
+        <field name="region">Thuringia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Caroline+Obst&amp;search_field=search</field>
+    </doc>
+</add>

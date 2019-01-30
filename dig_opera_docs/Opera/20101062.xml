@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101062</field>
+        <field name="genre">Opera</field>
+        <field name="title">Die beyden Savoyarden</field>
+        <field name="titleSort">Beyden Savoyarden</field>
+        <field name="composer">Anton Fischer</field>
+        <field name="composerSort">Fischer, Anton</field>
+        <field name="librettist">Heinrich Schmieder</field>
+        <field name="librettist">B.J. Marsollier</field>
+        <field name="librettistSort">Schmieder, Heinrich</field>
+        <field name="librettistSort">Marsollier, B.J.</field>
+        <field name="year">1804</field>
+        <field name="date">August 24, 1804</field>
+        <field name="theater">Kärntnertortheater</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Savoyarden+Fischer&amp;search_field=search</field>
+    </doc>
+</add>
