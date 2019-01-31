@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101076</field>
+        <field name="genre">Opera</field>
+        <field name="title">Chief Joseph</field>
+        <field name="titleSort">Chief Joseph</field>
+        <field name="composer">Hans Zender</field>
+        <field name="composerSort">Zender, Hans</field>
+        <field name="librettist">Hans Zender</field>
+        <field name="librettistSort">Zender, Hans</field>
+        <field name="year">2005</field>
+        <field name="date">June 23, 2005</field>
+        <field name="theater">Deutsche Staatsoper</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chief+Joseph+Zender&amp;search_field=search</field>
+    </doc>
+</add>

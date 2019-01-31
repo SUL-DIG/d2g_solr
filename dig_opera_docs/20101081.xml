@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101081</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Circe</field>
+        <field name="titleSort">Circe</field>
+        <field name="composer">Reinhard Keiser</field>
+        <field name="composerSort">Keiser, Reinhard</field>
+        <field name="librettist">Johann Philipp Praetorius</field>
+        <field name="librettist">Johann Mauritius</field>
+        <field name="librettistSort">Praetorius, Johann Philipp</field>
+        <field name="librettistSort">Mauritius, Johann</field>
+        <field name="year">1734</field>
+        <field name="date">arch 1, 1734</field>
+        <field name="city">Hamburg</field>
+        <field name="region">Hamburg</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Circe+Keiser&amp;search_field=search</field>
+    </doc>
+</add>

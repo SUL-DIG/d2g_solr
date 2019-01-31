@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101071</field>
+        <field name="genre">Opera</field>
+        <field name="title">La Mille Quatrième</field>
+        <field name="titleSort">Mille Quatrième</field>
+        <field name="composer">Camille Kufferath</field>
+        <field name="composerSort">Kufferath, Camille</field>
+        <field name="librettist">Léon Xanrof</field>
+        <field name="librettistSort">Xanrof, Léon</field>
+        <field name="year">1924</field>
+        <field name="date">December 14, 1924</field>
+        <field name="theater">Opéra de Monte-Carlo</field>
+        <field name="city">Monte Carlo</field>
+        <field name="region">Monte Carlo</field>
+        <field name="country">Monaco</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mille+Quatrième+Kufferath&amp;search_field=search</field>
+    </doc>
+</add>

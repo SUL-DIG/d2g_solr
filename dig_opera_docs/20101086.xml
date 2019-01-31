@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101086</field>
+        <field name="genre">Opera</field>
+        <field name="title">Come Santo Francesco</field>
+        <field name="titleSort">Come Santo Francesco</field>
+        <field name="composer">Dieter Schönbach</field>
+        <field name="composer">Alessandro Scarlatti</field>
+        <field name="composerSort">Schönbach, Dieter</field>
+        <field name="composerSort">Scarlatti, Alessandro</field>
+        <field name="librettist">Dieter Schönbach</field>
+        <field name="librettist">St. Francis of Assisi</field>
+        <field name="librettistSort">Schönbach, Dieter</field>
+        <field name="librettistSort">Francis, St. of Assisi</field>
+        <field name="year">1979</field>
+        <field name="date">1979</field>
+        <field name="theater">Städtische Bühnen</field>
+        <field name="city">Münster</field>
+        <field name="region">North Rhine-Westphalia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Come+Francesco+Schönbach&amp;search_field=search</field>
+    </doc>
+</add>

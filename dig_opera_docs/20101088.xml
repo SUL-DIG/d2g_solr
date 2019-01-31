@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101088</field>
+        <field name="genre">Opera</field>
+        <field name="title">Cyranos Mondfahrt</field>
+        <field name="titleSort">Cyranos Mondfahrt</field>
+        <field name="composer">Jens-Peter Ostendorf</field>
+        <field name="composerSort">Ostendorf, Jens-Peter</field>
+        <field name="librettist">Jutta Mühlich</field>
+        <field name="librettist">Edmond Rostand</field>
+        <field name="librettistSort">Mühlich, Jutta</field>
+        <field name="librettistSort">Rostand, Edmond</field>
+        <field name="year">1992</field>
+        <field name="date">1992</field>
+        <field name="theater">Stadttheater</field>
+        <field name="city">Koblenz</field>
+        <field name="region">Rhineland-Palatinate</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cyranos+Mondfahrt+Ostendorf&amp;search_field=search</field>
+    </doc>
+</add>

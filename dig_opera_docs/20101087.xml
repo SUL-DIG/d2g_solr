@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101087</field>
+        <field name="genre">Opera</field>
+        <field name="title">Cosi van Putto</field>
+        <field name="titleSort">Cosi van Putto</field>
+        <field name="composer">Günter Hässy</field>
+        <field name="composerSort">Hässy, Günter</field>
+        <field name="librettist">Günter Hässy</field>
+        <field name="librettistSort">Hässy, Günter</field>
+        <field name="year">1983</field>
+        <field name="date">January 15, 1983</field>
+        <field name="city">Cologne</field>
+        <field name="region">North Rhine-Westphalia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cosi+Putto+Hässy&amp;search_field=search</field>
+    </doc>
+</add>

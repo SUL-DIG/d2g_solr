@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101082</field>
+        <field name="genre">Opera</field>
+        <field name="title">Clare Dettin</field>
+        <field name="titleSort">Clare Dettin</field>
+        <field name="composer">Max Meyer-Olbersleben</field>
+        <field name="composerSort">Meyer-Olbersleben, Max</field>
+        <field name="librettist">Max Meyer-Olbersleben</field>
+        <field name="librettistSort">Meyer-Olbersleben, Max</field>
+        <field name="year">1893</field>
+        <field name="date">November 2, 1893</field>
+        <field name="theater">Hoftheater</field>
+        <field name="city">Weimar</field>
+        <field name="region">Thuringia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Clare+Dettin+Meyer-Olbersleben&amp;search_field=search</field>
+    </doc>
+</add>

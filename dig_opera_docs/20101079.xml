@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101079</field>
+        <field name="genre">Opera</field>
+        <field name="title">Christophorus, oder Die Vision einer Oper</field>
+        <field name="titleSort">Christophorus, oder Die Vision einer Oper</field>
+        <field name="composer">Franz Schrecker</field>
+        <field name="composerSort">Schrecker, Franz</field>
+        <field name="librettist">Franz Schrecker</field>
+        <field name="librettistSort">Schrecker, Franz</field>
+        <field name="year">2002</field>
+        <field name="date">June 14, 2002</field>
+        <field name="city">Kiel</field>
+        <field name="region">Schlewig-Holstein</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Christophorus+Vision+Schrecker&amp;search_field=search</field>
+    </doc>
+</add>

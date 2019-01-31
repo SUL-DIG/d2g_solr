@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101075</field>
+        <field name="genre">Opera</field>
+        <field name="title">Cephalus und Prokris</field>
+        <field name="titleSort">Cephalus und Prokris</field>
+        <field name="composer">Franz Adam Veichtner</field>
+        <field name="composerSort">Veichtner, Franz Adam</field>
+        <field name="librettist">Karl Wilhelm Randler</field>
+        <field name="librettistSort">Randler, Karl Wilhelm</field>
+        <field name="year">1779</field>
+        <field name="date">February 16, 1779</field>
+        <field name="city">Riga</field>
+        <field name="region">Riga</field>
+        <field name="country">Latvia</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cephalus+Prokris+Veichtner&amp;search_field=search</field>
+    </doc>
+</add>

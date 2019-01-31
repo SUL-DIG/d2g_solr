@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101073</field>
+        <field name="genre">Opera</field>
+        <field name="title">Cato, Die Liebe gegen das Vaterland, oder Der sterbende Cato</field>
+        <field name="titleSort">Cato, Die Liebe gegen das Vaterland, oder Der sterbende Cato</field>
+        <field name="composer">Reinhard Keiser</field>
+        <field name="composerSort">Keiser, Reinhard</field>
+        <field name="librettist">Barthold Feind</field>
+        <field name="librettist">Matteo Noris</field>
+        <field name="librettistSort">Feind, Barthold</field>
+        <field name="librettistSort">Noris, Matteo</field>
+        <field name="year">1711</field>
+        <field name="date">1711</field>
+        <field name="theater">Theater am Gänsemarkt</field>
+        <field name="city">Hamburg</field>
+        <field name="region">Hamburg</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cato+Keiser&amp;search_field=search</field>
+    </doc>
+</add>
