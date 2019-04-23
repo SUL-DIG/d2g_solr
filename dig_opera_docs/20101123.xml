@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101123</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Das Dreimäderlhaus</field>
+        <field name="titleSort">Dreimäderlhaus</field>
+        <field name="composer">Heinrich Berté</field>
+        <field name="composer">Franz Schubert</field>
+        <field name="composerSort">Berté, Heinrich</field>
+        <field name="composerSort">Schubert, Franz</field>
+        <field name="librettist">Alfred Maria Willner</field>  
+        <field name="librettist">Hans Reichert</field>   
+        <field name="librettist">Rudolf Hans Bartsch</field>      
+        <field name="librettistSort">Willner, Alfred Maria</field>
+        <field name="librettistSort">Reichert, Hans</field>
+		<field name="librettistSort">Bartsch, Rudolf Hans</field>
+        <field name="year">1916</field>
+        <field name="date">January 15, 1916</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dreimäderlhaus+Schubert+Berté&amp;search_field=search</field>
+    </doc>
+</add>
+

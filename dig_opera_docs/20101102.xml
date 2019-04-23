@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101102</field>
+        <field name="genre">Opera</field>
+        <field name="title">Don Juan--Ein Rebell für alle Zeiten</field>
+        <field name="titleSort">Don Juan--Ein Rebell für alle Zeiten</field>
+        <field name="composer">Miro Belamaric</field>
+        <field name="composerSort">Belamaric, Miro</field>
+        <field name="librettist">Miro Belamaric</field>
+        <field name="librettist">Tirso de Molina</field>
+        <field name="librettistSort">Belamaric, Miro</field>
+        <field name="librettistSort">Molina, Tirso de</field>
+        <field name="year">1983</field>
+        <field name="date">1983</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don Juan+Rebell+Belamaric&amp;search_field=search</field>
+    </doc>
+</add>

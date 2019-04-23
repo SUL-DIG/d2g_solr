@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101148</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Der Eremit auf Formentera</field>
+        <field name="titleSort">Eremit auf Formentera</field>
+        <field name="composer">Jean Nisle</field>
+        <field name="composerSort">Nisle, Jean</field>
+        <field name="librettist">August von Kotzebue</field>       
+        <field name="librettistSort">Kotzebue</field>
+        <field name="year">1801</field>
+        <field name="date">February 11, 1801</field>
+        <field name="city">Rostock</field>
+        <field name="region">Mecklenburg-Vorpommern</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eremit+Formentera+Nisle&amp;search_field=search</field>
+    </doc>
+</add>
+

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101091</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Das hätt' ich nicht gedacht!</field>
+        <field name="titleSort">Das hätt' ich nicht gedacht!</field>
+        <field name="composer">August Friedrich Burgmüller</field>
+        <field name="composerSort">Burgmüller, August Friedrich</field>
+        <field name="librettist">Christian August Vulpius</field>
+        <field name="librettistSort">Vulpius, Christian August</field>
+        <field name="year">1788</field>
+        <field name="date">1788</field>
+        <field name="city">Weimar</field>
+        <field name="region">Thuringia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=hätt+gedacht+Burgmüller&amp;search_field=search</field>
+    </doc>
+</add>

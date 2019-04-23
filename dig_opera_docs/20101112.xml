@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101112</field>
+        <field name="genre">Opera</field>
+        <field name="title">Dopplereffekt</field>
+        <field name="titleSort">Dopplereffekt</field>
+        <field name="composer">Jolyon Brettingham Smith</field>
+        <field name="composerSort">Smith, Jolyon Brettingham</field>
+        <field name="librettist">Jolyon Brettingham Smith</field>
+        <field name="librettist">Alan Garner</field>
+        <field name="librettistSort">Smith, Jolyon Brettingham</field>
+        <field name="librettistSort">Garner, Alan</field>
+        <field name="year">1990</field>
+        <field name="date">January 20, 1990</field>
+        <field name="theater">Hebbel-Theater</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dopplereffekt+Smith&amp;search_field=search</field>
+    </doc>
+</add>

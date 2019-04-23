@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101104</field>
+        <field name="genre">Opera</field>
+        <field name="title">Don Pedros Heimkehr</field>
+        <field name="titleSort">Don Pedros Heimkehr</field>
+        <field name="composer">Hans Erismann</field>
+        <field name="composer">Wolfgang Amadeus Mozart</field>
+        <field name="composerSort">Erismann, Hans</field>
+        <field name="composerSort">Mozart, Wolfang Amadeus</field>
+        <field name="librettist">Oskar Wälterlin</field>
+        <field name="librettist">Werner Gallusser</field>
+        <field name="librettist">Lorenzo da Ponte</field>
+        <field name="librettistSort">Wälterlin, Oskar</field>
+        <field name="librettistSort">Gallusser, Werner</field>
+        <field name="librettistSort">Ponte, Lorenzo da</field>
+        <field name="year">1952</field>
+        <field name="date">January 19, 1952</field>
+        <field name="theater">Municipal Theater</field>
+        <field name="city">Zürich</field>
+        <field name="region">Zürich</field>
+        <field name="country">Switzerland</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Pedros+Heimkehr+Erismann&amp;search_field=search</field>
+    </doc>
+</add>

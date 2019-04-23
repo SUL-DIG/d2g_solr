@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101161</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Eulenspiegel</field>
+        <field name="titleSort">Eulenspiegel</field>
+        <field name="composer">Johann Philipp Samuel Schmidt</field>
+        <field name="composerSort">Schmidt, Johann Philipp Samuel</field>
+        <field name="librettist">August von Kotzebue</field>       
+        <field name="librettistSort">Kotzebue, August von</field>
+        <field name="year">1806</field>
+        <field name="date">September 19, 1806</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eulenspiegel+Schmidt&amp;search_field=search</field>
+    </doc>
+</add>
+

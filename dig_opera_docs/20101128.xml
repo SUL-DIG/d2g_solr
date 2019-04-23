@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101128</field>
+        <field name="genre">Opera</field>
+        <field name="title">Das Ehepaar</field>
+        <field name="titleSort">Ehepaar</field>
+        <field name="composer">Herbert Lauermann</field>
+        <field name="composerSort">Lauermann, Herbert</field>
+        <field name="librettist">Francisco Tanzer</field> 
+        <field name="librettist">Herbert Gantschacher</field>       
+        <field name="librettistSort">Tanzer, Francisco</field>
+        <field name="librettistSort">Gantschacher, Herbert</field>
+        <field name="year">1987</field>
+        <field name="date">April 22, 1987</field>
+        <field name="theater">Kammeroper</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ehepaar+Lauermann&amp;search_field=search</field>
+    </doc>
+</add>
+

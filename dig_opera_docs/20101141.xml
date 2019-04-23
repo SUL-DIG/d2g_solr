@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101141</field>
+        <field name="genre">Opera</field>
+        <field name="title">Das Elysium</field>
+        <field name="titleSort">Elysium</field>
+        <field name="composer">Franz Anton Hoffmeister</field>
+        <field name="composerSort">Hoffmeister, Franz Anton</field>
+        <field name="librettist">Johann Georg Jacobi</field>       
+        <field name="librettistSort">Jacobi, Johann Georg</field>
+        <field name="year">1798</field>
+        <field name="date">1798</field>
+        <field name="theater">Freihaustheater</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elysium+Hoffmeister&amp;search_field=search</field>
+    </doc>
+</add>
+

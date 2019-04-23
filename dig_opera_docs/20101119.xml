@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101119</field>
+        <field name="genre">Opera</field>
+        <field name="title">Dr. Doolittle</field>
+        <field name="titleSort">Dr. Doolittle</field>
+        <field name="composer">Erich Walter Sternberg</field>
+        <field name="composerSort">Sternberg, Erich Walter</field>
+        <field name="librettist">Erich Walter Sternberg</field>
+        <field name="librettist">Hugo Lofting</field>
+        <field name="librettistSort">Sternberg, Erich Walter</field>
+        <field name="librettistSort">Lofting, Hugo</field>
+        <field name="year">1939</field>
+        <field name="date">1939</field>
+        <field name="city">Jerusalem</field>
+        <field name="region">Jerusalem</field>
+        <field name="country">Israel</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Doolittle+Sternberg&amp;search_field=search</field>
+    </doc>
+</add>

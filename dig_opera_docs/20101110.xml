@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101110</field>
+        <field name="genre">Opera</field>
+        <field name="title">Die Doppelgängerin, oder Winterballade</field>
+        <field name="titleSort">Doppelgängerin, oder Winterballade</field>
+        <field name="composer">Jan Meyerowitz</field>
+        <field name="composerSort">Meyerowitz, Jan</field>
+        <field name="librettist">Jan Meyerowitz</field>
+        <field name="librettist">Gerhard Hauptmann</field>
+        <field name="librettistSort">Meyerowitz, Jan</field>
+        <field name="librettistSort">Hauptmann, Gerhard</field>
+        <field name="year">1969</field>
+        <field name="date">January 29, 1969</field>
+        <field name="city">Hanover</field>
+        <field name="region">Hanover</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Doppelgängerin+Winterballade+Meyerowitz&amp;search_field=search</field>
+    </doc>
+</add>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101122</field>
+        <field name="genre">Operetta</field>
+        <field name="title">Drei Walzer</field>
+        <field name="titleSort">Drei Walzer</field>
+        <field name="composer">Oscar Straus</field>
+        <field name="composerSort">Straus, Oscar</field>
+        <field name="librettist">Paul Knepler</field> 
+        <field name="librettist">Armin Robinson</field>       
+        <field name="librettistSort">Knepler, Paul</field>
+        <field name="librettistSort">Robinson, Armin</field>
+        <field name="year">1935</field>
+        <field name="date">October 5, 1935</field>
+        <field name="theater">Stadttheater</field>
+        <field name="city">Zürich</field>
+        <field name="region">Zürich</field>
+        <field name="country">Switzerland</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Drei+Walzer+Straus&amp;search_field=search</field>
+    </doc>
+</add>
+

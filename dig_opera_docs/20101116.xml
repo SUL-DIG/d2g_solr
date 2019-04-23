@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101116</field>
+        <field name="genre">Opera</field>
+        <field name="title">Dornröschen, oder Der 100-jährige Schlaf</field>
+        <field name="titleSort">Dornröschen, oder Der 100-jährige Schlaf</field>
+        <field name="composer">Adolf Müller</field>
+        <field name="composerSort">Müller, Adolf</field>
+        <field name="librettist">Josef Kurmayer</field>
+        <field name="librettistSort">Kurmayer, Josef</field>
+        <field name="year">1864</field>
+        <field name="date">October 27, 1864</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dornröschen+Schlaf+Müller&amp;search_field=search</field>
+    </doc>
+</add>

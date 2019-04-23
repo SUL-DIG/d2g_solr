@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101137</field>
+        <field name="genre">Opera</field>
+        <field name="title">Elga</field>
+        <field name="titleSort">Elga</field>
+        <field name="composer">Rudolf Weisshappel</field>
+        <field name="composerSort">Weisshappel, Rudolf</field>
+        <field name="librettist">Rudolf Weisshappel</field> 
+        <field name="librettist">Gerhart Hauptmann</field>       
+        <field name="librettistSort">Weisshappel, Rudolf</field>
+        <field name="librettistSort">Hauptmann, Gerhart</field>
+        <field name="year">1967</field>
+        <field name="date">January 29, 1967</field>
+        <field name="city">Linz</field>
+        <field name="region">Upper Austria</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elga+Weisshappel&amp;search_field=search</field>
+    </doc>
+</add>
+

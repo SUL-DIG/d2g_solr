@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101138</field>
+        <field name="genre">Opera</field>
+        <field name="title">Eliane</field>
+        <field name="titleSort">Eliane</field>
+        <field name="composer">Ödön Mihalovich</field>
+        <field name="composerSort">Mihalovich</field>
+        <field name="librettist">Hans Herrig</field> 
+        <field name="librettist">Tennyson</field>       
+        <field name="librettistSort">Herrig, Hans</field>
+        <field name="librettistSort">Tennyson</field>
+        <field name="year">1908</field>
+        <field name="date">February 16, 1908</field>
+        <field name="city">Budapest</field>
+        <field name="region">Budapest</field>
+        <field name="country">Hungary</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eliane+Mihalovich&amp;search_field=search</field>
+    </doc>
+</add>
+

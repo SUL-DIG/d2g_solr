@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101131</field>
+        <field name="genre">Opera</field>
+        <field name="title">Die Eifersüchtigen</field>
+        <field name="titleSort">Eifersüchtigen</field>
+        <field name="composer">Andreas Mohr</field>
+        <field name="composerSort">Mohr, Andreas</field>
+        <field name="librettist">Johann von Wildenradt</field> 
+        <field name="librettist">Cervantes</field>       
+        <field name="librettistSort">Wildneradt, Johann von</field>
+        <field name="librettistSort">Cervantes</field>
+        <field name="year">1897</field>
+        <field name="date">February 16, 1897</field>
+        <field name="theater">Theater der Stadt</field>
+        <field name="city">Trier</field>
+        <field name="region">Rhineland-Palatinate</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eifersüchtigen+Mohr&amp;search_field=search</field>
+    </doc>
+</add>
+

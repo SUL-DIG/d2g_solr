@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101163</field>
+        <field name="genre">Opera</field>
+        <field name="title">Evanthia</field>
+        <field name="titleSort">Evanthia</field>
+        <field name="composer">Paul Umlauft</field>
+        <field name="composerSort">Umlauft, Paul</field>
+        <field name="librettist">Paul Umlauft</field>       
+        <field name="librettistSort">Umlauft, Paul</field>
+        <field name="year">1893</field>
+        <field name="date">July 30, 1893</field>
+        <field name="city">Gotha</field>
+        <field name="region">Thuringia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Evanthia+Umlauft&amp;search_field=search</field>
+    </doc>
+</add>
+

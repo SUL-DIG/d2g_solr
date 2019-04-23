@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101146</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der entwendete Taler</field>
+        <field name="titleSort">Entwendete Taler</field>
+        <field name="composer">Oskar Aichinger</field>
+        <field name="composerSort">Aichinger, Oskar</field>
+        <field name="librettist">Kristine Tornquist</field> 
+        <field name="librettist">Leo Perutz</field>       
+        <field name="librettistSort">Tornquist, Kristine</field>
+        <field name="librettistSort">Perutz, Leo</field>
+        <field name="year">2009</field>
+        <field name="date">May 29, 2009</field>
+        <field name="theater">sirene Operntheater</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Opera</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=entwendete+Taler+Aichinger&amp;search_field=search</field>
+    </doc>
+</add>
+

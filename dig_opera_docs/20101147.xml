@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101147</field>
+        <field name="genre">Operetta</field>
+        <field name="title">Eine entzückende Frau</field>
+        <field name="titleSort">Entzückende Frau</field>
+        <field name="composer">Richard Heuberger</field>
+        <field name="composerSort">Heuberger, Richard</field>
+        <field name="librettist">Rudolf Zindler</field> 
+        <field name="librettist">Bruno Hardt-Warden</field>       
+        <field name="librettistSort">Zindler, Rudolf</field>
+        <field name="librettistSort">Hardt-Warden, Bruno</field>
+        <field name="year">1940</field>
+        <field name="date">1940</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=entzückende+Frau+Heuberger&amp;search_field=search</field>
+    </doc>
+</add>
+

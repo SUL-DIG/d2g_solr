@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101132</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der eingebildete Kranke</field>
+        <field name="titleSort">Eingebildete Kranke</field>
+        <field name="composer">Constantin Reindl</field>
+        <field name="composerSort">Reindl, Constantin</field>
+        <field name="librettist">Constantin Reindl</field> 
+        <field name="librettist">Molière</field>       
+        <field name="librettistSort">Reindl, Constantin</field>
+        <field name="librettistSort">Molière</field>
+        <field name="year">1792</field>
+        <field name="date">1792</field>
+        <field name="city">Lucerne</field>
+        <field name="region">Lucerne</field>
+        <field name="country">Switzerland</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=eingebildete+Kranke+Reindl&amp;search_field=search</field>
+    </doc>
+</add>
+

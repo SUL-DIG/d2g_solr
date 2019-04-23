@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101120</field>
+        <field name="genre">Opera</field>
+        <field name="title">Die drei Flämmchen</field>
+        <field name="titleSort">Drei Flämmchen</field>
+        <field name="composer">Christian Friedrich Nohr</field>
+        <field name="composerSort">Nohr, Christian Friedrich</field>
+        <field name="librettist">Ludwig Storch</field>
+        <field name="librettistSort">Storch, Ludwig</field>
+        <field name="year">1824</field>
+        <field name="date">Nobember 27, 1824</field>
+        <field name="theater"></field>
+        <field name="city">Gotha</field>
+        <field name="region">Thuringia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Flämmchen+Nohr&amp;search_field=search</field>
+    </doc>
+</add>

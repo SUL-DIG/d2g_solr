@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101101</field>
+        <field name="genre">Opera</field>
+        <field name="title">Dolores</field>
+        <field name="titleSort">Dolores</field>
+        <field name="composer">Max Ettinger</field>
+        <field name="composerSort">Ettinger, Max</field>
+        <field name="librettist">Max Ettinger</field>
+        <field name="librettist">Emile Zola</field>
+        <field name="librettistSort">Ettinger, Max</field>
+        <field name="librettistSort">Zola, Emile</field>
+        <field name="year">1936</field>
+        <field name="date">1936</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dolores+Ettinger&amp;search_field=search</field>
+    </doc>
+</add>

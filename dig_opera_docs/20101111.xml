@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101111</field>
+        <field name="genre">Opera</field>
+        <field name="title">Das doppelte Glück getreuer Liebe zwischen Fernando und Bellamira</field>
+        <field name="titleSort">Doppelte Glück getreuer Liebe zwischen Fernando und Bellamira</field>
+        <field name="composer">Johann Augustin Kobelius</field>
+        <field name="composerSort">Kobelius, Johann Augustin</field>
+        <field name="librettist">Johann Augustin Kobelius</field>
+        <field name="librettistSort">Kobelius, Johann Augustin</field>
+        <field name="year">1719</field>
+        <field name="date">1719</field>
+        <field name="theater">Neu-Augustusberg Schlosstheater</field>
+        <field name="city">Weissenfels</field>
+        <field name="region">Saxony-Anhalt</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=doppelte+Glück+Fernando+Bellamira+Kobelius&amp;search_field=search</field>
+    </doc>
+</add>

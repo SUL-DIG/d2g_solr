@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101162</field>
+        <field name="genre">Opera</field>
+        <field name="title">Europa und der Stier</field>
+        <field name="titleSort">Europa und der Stier</field>
+        <field name="composer">Helge Jörns</field>
+        <field name="composerSort">Jörns, Helge</field>
+        <field name="librettist">Rolf Schneider</field>       
+        <field name="librettistSort">Schneider, Rolf</field>
+        <field name="year">1988</field>
+        <field name="date">April 17, 1988</field>
+        <field name="theater">Hebbel-Theater</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Europa+Stier+Jörns&amp;search_field=search</field>
+    </doc>
+</add>
+

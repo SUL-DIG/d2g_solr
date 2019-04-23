@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101099</field>
+        <field name="genre">Opera</field>
+        <field name="title">Doktor Eisenbard</field>
+        <field name="titleSort">Doktor Eisenbard</field>
+        <field name="composer">Max Leythäuser</field>
+        <field name="composerSort">Leythäuser, Max</field>
+        <field name="librettist">Max Leythäuser</field>
+        <field name="librettistSort">Leythäuser, Max</field>
+        <field name="year">1889</field>
+        <field name="date">1889</field>
+        <field name="theater">Stadttheater</field>
+        <field name="city">Koblenz</field>
+        <field name="region">Rhineland-Palatinate</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eisenbard+Leythäuser&amp;search_field=search</field>
+    </doc>
+</add>

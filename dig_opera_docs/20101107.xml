@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101107</field>
+        <field name="genre">Opera</field>
+        <field name="title">Don Sylvio von Rosalva, oder Der Sieg der Natur über die Schärmerey</field>
+        <field name="titleSort">Don  Sylvio von Rosalva, oder Der Sieg der Natur über die Schärmerey</field>
+        <field name="composer">Karl Wilhelm Müller</field>
+        <field name="composerSort">Müller, Karl Wilhelm</field>
+        <field name="librettist">Samuel Gottlieb Bürde</field>
+        <field name="librettistSort">Bürde, Samuel Gottlieb</field>
+        <field name="year">1799</field>
+        <field name="date">1799</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sylvio+Rosalva+Sieg+Schärmerey+Müller&amp;search_field=search</field>
+    </doc>
+</add>

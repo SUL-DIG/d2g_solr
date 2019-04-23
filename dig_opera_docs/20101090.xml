@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101090</field>
+        <field name="genre">Opera</field>
+        <field name="title">Dante im Exil</field>
+        <field name="titleSort">Dante im Exil</field>
+        <field name="composer">Egon Lustgarten</field>
+        <field name="composerSort">Lustgarten, Egon</field>
+        <field name="librettist">Egon Lustgarten</field>
+        <field name="librettistSort">Lustgarten, Egon</field>
+        <field name="year">2005</field>
+        <field name="date">2005</field>
+        <field name="city">Bernried am Starnberg See</field>
+        <field name="region">Bavaria</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dante+Exil+Lustgarten&amp;search_field=search</field>
+    </doc>
+</add>

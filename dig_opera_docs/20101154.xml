@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101154</field>
+        <field name="genre">Opera</field>
+        <field name="title">Die Erstürmung von Belgrad</field>
+        <field name="titleSort">Erstürmung von Belgrad</field>
+        <field name="composer">Julius Becker</field>
+        <field name="composerSort">Becker, Julius</field>
+        <field name="librettist">Julius Becker</field>       
+        <field name="librettistSort">Becker, Julius</field>
+        <field name="year">1848</field>
+        <field name="date">1848</field>
+        <field name="theater">Altes Stadttheater</field>
+        <field name="city">Leipzig</field>
+        <field name="region">Saxony</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Erstürmung+Belgrad+Becker&amp;search_field=search</field>
+    </doc>
+</add>
+

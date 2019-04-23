@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101130</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Der ehrliche Schweizer</field>
+        <field name="titleSort">Ehrliche Schweizer</field>
+        <field name="composer">Heinrich Christoph Hataš</field>
+        <field name="composerSort">Hataš, Heinrich Christoph</field>
+        <field name="librettist">Caroline Louise von Klenck</field>       
+        <field name="librettistSort">Klenck, Caroline Louise von</field>
+        <field name="year">1794</field>
+        <field name="date">1794</field>
+        <field name="city">Hamburg</field>
+        <field name="region">Hamburg</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=ehrliche+Schweizer+Hataš&amp;search_field=search</field>
+    </doc>
+</add>
+

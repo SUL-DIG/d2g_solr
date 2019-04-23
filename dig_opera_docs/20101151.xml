@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101151</field>
+        <field name="genre">Opera</field>
+        <field name="title">Eros und Pysche</field>
+        <field name="titleSort">Eros und Pysche</field>
+        <field name="composer">Emil Nikolaus von Reznicek</field>
+        <field name="composerSort">Reznicek, Emil Nikolaus von</field>
+        <field name="librettist">Emil Nikolaus von Reznicek</field>       
+        <field name="librettistSort">Reznicek, Emil Nikolaus</field>
+        <field name="year">1917</field>
+        <field name="date">1917</field>
+        <field name="city">Breslau</field>
+        <field name="region">Silesia</field>
+        <field name="country">Poland</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eros+Pysche+Reznicek&amp;search_field=search</field>
+    </doc>
+</add>
+

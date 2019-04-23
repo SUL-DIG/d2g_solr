@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101136</field>
+        <field name="genre">Opera</field>
+        <field name="title">Electra</field>
+        <field name="titleSort">Electra</field>
+        <field name="composer">Christian Cannabich</field>
+        <field name="composerSort">Cannabich</field>
+        <field name="librettist">Wolfgang Heribert von Dalberg</field>  
+        <field name="librettist">Sophocles</field>       
+        <field name="librettistSort">Dalberg, Wolfang Heribert von</field>
+        <field name="librettistSort">Sophocles</field>
+        <field name="year">1781</field>
+        <field name="date">September 1st, 1781</field>
+        <field name="theater">Nationaltheater</field>
+        <field name="city">Mannheim</field>
+        <field name="region">Baden-Württemberg</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Electra+Cannabich&amp;search_field=search</field>
+    </doc>
+</add>
+

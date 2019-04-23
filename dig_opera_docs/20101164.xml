@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101164</field>
+        <field name="genre">Opera</field>
+        <field name="title">Fabel in C</field>
+        <field name="titleSort">Fabel in C</field>
+        <field name="composer">Heimo Erbse</field>
+        <field name="composerSort">Erbse, Heimo</field>
+        <field name="librettist">Heimo Erbse</field>       
+        <field name="librettistSort">Erbse, Heimo</field>
+        <field name="year">1952</field>
+        <field name="date">September 2, 1952</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fabel+Erbse&amp;search_field=search</field>
+    </doc>
+</add>
+

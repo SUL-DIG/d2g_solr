@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101121</field>
+        <field name="genre">Opera</field>
+        <field name="title">Die drei Pächter</field>
+        <field name="titleSort">Drei Pächter</field>
+        <field name="composer">Joseph Starzer</field>
+        <field name="composerSort">Starzer, Joseph</field>
+        <field name="librettist">Wilhelm Gottlieb Becker</field>
+        <field name="librettistSort">Becker, Wilhelm Gottlieb</field>
+        <field name="year">1778</field>
+        <field name="date">1778</field>
+        <field name="theater">Käntnertortheater</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pächter+Starzer&amp;search_field=search</field>
+    </doc>
+</add>

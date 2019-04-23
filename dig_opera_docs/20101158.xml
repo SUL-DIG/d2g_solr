@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101158</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Die Eselhaut, oder Die blaue Insel</field>
+        <field name="titleSort">Eselhaut, oder Die blaue Insel</field>
+        <field name="composer">Johann Nepomuk Hummel</field>
+        <field name="composerSort">Hummel, Johann Nepomuk</field>
+        <field name="librettist">Geway</field>       
+        <field name="librettistSort">Geway</field>
+        <field name="year">1814</field>
+        <field name="date">March 10, 1814</field>
+        <field name="theater">Theater an der Wien</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eselhaut+Insel+Hummel&amp;search_field=search</field>
+    </doc>
+</add>
+

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101156</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Erwin und Elmire</field>
+        <field name="titleSort">Erwin und Elmire</field>
+        <field name="composer">Martin Ruprecht</field>
+        <field name="composerSort">Ruprecht, Martin</field>
+        <field name="librettist">Martin Ruprecht</field> 
+        <field name="librettist">Johann Wolfgang von Goethe</field>       
+        <field name="librettistSort">Ruprecht, Martin</field>
+        <field name="librettistSort">Goethe, Johann Wolfgang von</field>
+        <field name="year">1794</field>
+        <field name="date">April 20, 1794</field>
+        <field name="theater">Burgtheater</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Erwin+Elmire+Ruprecht&amp;search_field=search</field>
+    </doc>
+</add>
+
