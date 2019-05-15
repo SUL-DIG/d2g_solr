@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101211</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der fröhliche Sünder</field>
+        <field name="titleSort">Fröhliche Sünder</field>
+        <field name="composer">Ottmar Gerster</field>
+        <field name="composerSort">Gerster, Ottmar</field>
+        <field name="librettist">Ottmar Gerster</field> 
+        <field name="librettist">Leonid Solovyov</field> 
+        <field name="librettist">Viktor Witkowicz</field>       
+        <field name="librettistSort">Gerster, Ottmar</field>
+        <field name="librettistSort">Solovyov, Leonid</field>
+        <field name="librettistSort">Witkowicz, Viktor</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="theater">Deutsches Nationaltheater</field>
+        <field name="city">Weimar</field>
+        <field name="region">Thuringia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=fröhliche+Sünder+Gerster&amp;search_field=search</field>
+    </doc>
+</add>
+

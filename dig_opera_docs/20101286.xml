@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101286</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der Heinrich aus der Hölle</field>
+        <field name="titleSort">Heinrich aus der Hölle</field>
+        <field name="composer">Gernot Schedelberger</field>
+        <field name="composerSort">Schedelberger, Gernot</field>
+        <field name="librettist">Kristine Tornquist</field> 
+        <field name="librettist">Leo Perutz</field>       
+        <field name="librettistSort">Tornquist, Kristine</field>
+        <field name="librettistSort">Perutz, Leo</field>
+        <field name="year">2009</field>
+        <field name="date">July 10, 2009</field>
+        <field name="theater">Sirene Operntheater</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Heinrich+Hölle+Schedelberger&amp;search_field=search</field>
+    </doc>
+</add>
+

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101290</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der heisse Ofen</field>
+        <field name="titleSort">Heisse Ofen</field>
+        <field name="composer">Hans Werner Henze</field>
+        <field name="composerSort">Henze, Hans Werner</field>
+        <field name="librettist">Wolfgang Florey</field> 
+        <field name="librettist">Friedrich Hitzer</field> 
+        <field name="librettist">Klaus Konjetzky</field>       
+        <field name="librettistSort">Florey, Wolfgang</field>
+        <field name="librettistSort">Hitzer, Friedrich</field>
+        <field name="librettistSort">Konjetzky, Klaus</field>
+        <field name="year">1989</field>
+        <field name="date">March 18, 1989</field>
+        <field name="city">Kassel</field>
+        <field name="region">Hesse</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=heisse+Ofen+Henze&amp;search_field=search</field>
+    </doc>
+</add>
+

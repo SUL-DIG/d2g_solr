@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101187</field>
+        <field name="genre">Opera</field>
+        <field name="title">Das Fest auf Solhaug</field>
+        <field name="titleSort">Fest auf Solhaug</field>
+        <field name="composer">Wilhelm Stenhammar</field>
+        <field name="composerSort">Stenhammar, Wilhelm</field>
+        <field name="librettist">Maria von Borch</field>  
+        <field name="librettist">Henrik Ibsen</field>       
+        <field name="librettistSort">Borch, Maria von</field>
+        <field name="librettistSort">Ibsen, Henrik</field>
+        <field name="year">1899</field>
+        <field name="date">April 12, 1899</field>
+        <field name="theater">Hoftheater</field>
+        <field name="city">Stuttgart</field>
+        <field name="region">Baden-Württemburg</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fest+Solhaug&amp;search_field=search</field>
+    </doc>
+</add>
+

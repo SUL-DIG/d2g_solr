@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101282</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der Heiligenschein</field>
+        <field name="titleSort">Heiligenschein</field>
+        <field name="composer">Ludwig Thuille</field>
+        <field name="composer">Walter Courvoisier</field>
+        <field name="composerSort">Thuille, Ludwig</field>
+        <field name="composerSort">Courvoisier, Walter</field>
+        <field name="librettist">Elsa Laura von Wolzogen</field>       
+        <field name="librettistSort">Wolzogen, Elsa Laura von</field>
+        <field name="year">1910</field>
+        <field name="date">March 4, 1910</field>
+        <field name="city">Munich</field>
+        <field name="region">Bavaria</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Heiligenschein+Thuille&amp;search_field=search</field>
+    </doc>
+</add>
+

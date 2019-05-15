@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101278</field>
+        <field name="genre">Opera</field>
+        <field name="title">Hariadan Barbarossa</field>
+        <field name="titleSort">Hariadan Barbarossa</field>
+        <field name="composer">Ferdinand Fränzl</field>
+        <field name="composerSort">Fränzl, Ferdinand</field>
+        <field name="librettist">Johann Gottfried Wohlbrück</field>       
+        <field name="librettistSort">Wohlbrück, Johann Gottfried</field>
+        <field name="year">1815</field>
+        <field name="date">March 27, 1815</field>
+        <field name="theater">Residenztheater</field>
+        <field name="city">Munich</field>
+        <field name="region">Bavaria</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hariadan+Barbarossa+Fränzl&amp;search_field=search</field>
+    </doc>
+</add>
+

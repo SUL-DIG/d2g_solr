@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101185</field>
+        <field name="genre">Opera</field>
+        <field name="title">Fenice</field>
+        <field name="titleSort">Fenice</field>
+        <field name="composer">Henry Hugh Pierson</field>
+        <field name="composerSort">Pierson, Henry Hugh</field>
+        <field name="librettist">Friedrich Eichstädt</field>       
+        <field name="librettist">Victor Hugo</field>       
+        <field name="librettistSort">Eichstädt, Friedrich</field>
+        <field name="librettistSort">Hugo, Victor</field>
+        <field name="year">1883</field>
+        <field name="date">April 24, 1883</field>
+        <field name="theater">Herzogliches Hoftheater</field>
+        <field name="city">Dessau</field>
+        <field name="region">Saxony-Anhalt</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fenice+Pierson&amp;search_field=search</field>
+    </doc>
+</add>
+

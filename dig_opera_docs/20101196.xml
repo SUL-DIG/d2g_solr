@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101196</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der fliegende Holländer</field>
+        <field name="titleSort">Fliegende Holländer</field>
+        <field name="composer">Anonymous</field>
+        <field name="composerSort">Anonymous</field>
+        <field name="librettist">Hermann Wollheim</field>       
+        <field name="librettistSort">Wollheim, Hermann</field>
+        <field name="year">1841</field>
+        <field name="date">1841</field>
+        <field name="city">Hamburg</field>
+        <field name="region">Hamburg</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fliegende+Holländer+Anonymous&amp;search_field=search</field>
+    </doc>
+</add>
+

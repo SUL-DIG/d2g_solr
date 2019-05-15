@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101201</field>
+        <field name="genre">Opera</field>
+        <field name="title">Frankenstein, Der neue Arbeitnehmer</field>
+        <field name="titleSort">Frankenstein, Der neue Arbeitnehmer</field>
+        <field name="composer">Wilhelm Dieter Siebert</field>
+        <field name="composerSort">Siebert, Wilhelm Dieter</field>
+        <field name="librettist">Yaak Karsunke</field>       
+        <field name="librettistSort">Karsunke, Yaak</field>
+        <field name="year">1974</field>
+        <field name="date">May 6, 1974</field>
+        <field name="theater">Akademie der Künste</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frankenstein+Arbeitnehmer+Siebert&amp;search_field=search</field>
+    </doc>
+</add>
+

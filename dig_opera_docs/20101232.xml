@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101232</field>
+        <field name="genre">Opera</field>
+        <field name="title">Die Geschwister</field>
+        <field name="titleSort">Geschwister</field>
+        <field name="composer">Theodor Veidl</field>
+        <field name="composerSort">Veidl, Theodor</field>
+        <field name="librettist">Anonymous</field> 
+        <field name="librettist">Johann Wolfgang von Goethe</field>       
+        <field name="librettistSort">Anonymous</field>
+        <field name="librettistSort">Goethe, Johann Wolfgang von</field>
+        <field name="year">1916</field>
+        <field name="date">1916</field>
+        <field name="city">Teplice</field>
+        <field name="region">Ústí nad Labem</field>
+        <field name="country">Czech Republic</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Geschwister+Veidl&amp;search_field=search</field>
+    </doc>
+</add>
+

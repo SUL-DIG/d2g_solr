@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101248</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der glückliche Verbindung des Zephyr mit der Flora</field>
+        <field name="titleSort">Glückliche Verbindung des Zephyr mit der Flora</field>
+        <field name="composer">Johann Philipp Krieger</field>
+        <field name="composerSort">Krieger, Johann Philipp</field>
+        <field name="librettist">Paul Thymich</field>       
+        <field name="librettistSort">Thymich, Paul</field>
+        <field name="year">1687</field>
+        <field name="date">May 16, 1687</field>
+        <field name="theater">Hoftheater</field>
+        <field name="city">Weissenfels</field>
+        <field name="region">Saxony-Anhalt</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Glückliche+Verbindung+Zephyr+Krieger&amp;search_field=search</field>
+    </doc>
+</add>
+

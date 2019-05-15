@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101209</field>
+        <field name="genre">Opera</field>
+        <field name="title">Friendly Fire</field>
+        <field name="titleSort">Friendly Fire</field>
+        <field name="composer">Klaus Arp</field>
+        <field name="composerSort">Arp, Klaus</field>
+        <field name="librettist">Andreas Bisowski</field>       
+        <field name="librettistSort">Bisowski, Andreas</field>
+        <field name="year">2004</field>
+        <field name="date">September 9, 2004</field>
+        <field name="theater">Neuköllner Oper</field>
+        <field name="city">Cologne</field>
+        <field name="region">North Rhine-Westphalia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Friendly+Fire+Arp&amp;search_field=search</field>
+    </doc>
+</add>
+

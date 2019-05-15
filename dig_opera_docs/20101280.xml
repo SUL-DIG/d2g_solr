@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101280</field>
+        <field name="genre">Opera</field>
+        <field name="title">Haschisch</field>
+        <field name="titleSort">Haschisch</field>
+        <field name="composer">Oskar von Chelius</field>
+        <field name="composerSort">Chelius, Oskar von</field>
+        <field name="librettist">Axel Delmar</field>       
+        <field name="librettistSort">Delmar, Axel</field>
+        <field name="year">1897</field>
+        <field name="date">February 17, 1897</field>
+        <field name="theater">Hofoper</field>
+        <field name="city">Dresden</field>
+        <field name="region">Saxony</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Haschisch+Chelius&amp;search_field=search</field>
+    </doc>
+</add>
+

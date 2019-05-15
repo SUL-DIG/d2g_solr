@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101260</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Der Guckkasten, oder Das Beste kommt zuletzt</field>
+        <field name="titleSort">Guckkasten, oder Das Beste kommt zuletzt</field>
+        <field name="composer">Johann Christoph Kaffka</field>
+        <field name="composerSort">Kaffka, Johann Christoph</field>
+        <field name="librettist">Johann Christoph Kaffka</field>       
+        <field name="librettistSort">Kaffka, Johann Christoph</field>
+        <field name="year">1782</field>
+        <field name="date">1782</field>
+        <field name="city">Breslau</field>
+        <field name="region">Silesia</field>
+        <field name="country">Poland</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Guckkasten+Beste+Kaffka&amp;search_field=search</field>
+    </doc>
+</add>
+

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101216</field>
+        <field name="genre">Opera</field>
+        <field name="title">Das Gastspiel</field>
+        <field name="titleSort">Gastspiel</field>
+        <field name="composer">Jan Müller-Wieland</field>
+        <field name="composerSort">Müller-Wieland, Jan</field>
+        <field name="librettist">Jan Müller-Wieland</field>       
+        <field name="librettist">Frank Wedekind</field>       
+        <field name="librettistSort">Müller-Wieland, Jan</field>
+        <field name="librettistSort">Wedekind, Frank</field>
+        <field name="year">1992</field>
+        <field name="date">April 29, 1992</field>
+        <field name="city">Munich</field>
+        <field name="region">Bavaria</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gastspiel+Müller-Wieland&amp;search_field=search</field>
+    </doc>
+</add>
+

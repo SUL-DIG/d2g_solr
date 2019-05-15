@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101205</field>
+        <field name="genre">Opera</field>
+        <field name="title">Fredegunda</field>
+        <field name="titleSort">Fredegunda</field>
+        <field name="composer">Reinhard Keiser</field>
+        <field name="composerSort">Keiser, Reinhard</field>
+        <field name="librettist">Johann Ulrich König</field> 
+        <field name="librettist">Francesco Silvani</field>       
+        <field name="librettistSort">König, Johann Ulrich</field>
+        <field name="librettistSort">Silvani, Francesco</field>
+        <field name="year">1715</field>
+        <field name="date">March 4, 1715</field>
+        <field name="city">Hamburg</field>
+        <field name="region">Hamburg</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fredegunda+Keiser&amp;search_field=search</field>
+    </doc>
+</add>
+

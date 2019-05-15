@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101273</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Hänschen und Gretel</field>
+        <field name="titleSort">Hänschen und Gretel</field>
+        <field name="composer">Johann Friedrich Reichardt</field>
+        <field name="composerSort">Reichardt, Johann Friedrich</field>
+        <field name="librettist">Johann Christian Bock</field>       
+        <field name="librettistSort">Bock, Johann Christian</field>
+        <field name="year">1772</field>
+        <field name="date">1772</field>
+        <field name="city">Leipzig</field>
+        <field name="region">Saxony</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hänschen+Gretel+Reichardt&amp;search_field=search</field>
+    </doc>
+</add>
+

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101271</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Hans Max Giesbrecht von der Humpenburg, oder Die neue Ritterzeit</field>
+        <field name="titleSort">Hans Max Giesbrecht von der Humpenburg, oder Die neue Ritterzeit</field>
+        <field name="composer">Peter Landpainter</field>
+        <field name="composerSort">Landpainter, Peter</field>
+        <field name="librettist">August von Kotzebue</field>       
+        <field name="librettistSort">Kotzebue, August von</field>
+        <field name="year">1816</field>
+        <field name="date">June 6, 1816</field>
+        <field name="theater">Isartortheater</field>
+        <field name="city">Munich</field>
+        <field name="region">Bavaria</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hans+Humpenburg+Ritterzeit+Lindpainter&amp;search_field=search</field>
+    </doc>
+</add>
+

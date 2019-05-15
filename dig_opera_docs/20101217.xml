@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101217</field>
+        <field name="genre">Opera</field>
+        <field name="title">Das Gauklermärchen</field>
+        <field name="titleSort">Gauklermärchen</field>
+        <field name="composer">Gerhard Konzelmann</field>
+        <field name="composerSort">Konzelmann, Gerhard</field>
+        <field name="librettist">Gerhard Konzelmann</field> 
+        <field name="librettist">Michael Ende</field>       
+        <field name="librettistSort">Konzelmann, Gerhard</field>
+        <field name="librettistSort">Ende, Michael</field>
+        <field name="year">1988</field>
+        <field name="date">September 4, 1988</field>
+        <field name="theater">Opera Köln</field>
+        <field name="city">Cologne</field>
+        <field name="region">North Rhine-Westphalia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gauklermärchen+Konzelmann&amp;search_field=search</field>
+    </doc>
+</add>
+

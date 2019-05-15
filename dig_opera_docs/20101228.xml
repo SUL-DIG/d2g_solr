@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101228</field>
+        <field name="genre">Opera</field>
+        <field name="title">Germanicus (Die errettete Unschuld, oder Germanicus: Römischer General)</field>
+        <field name="titleSort">Germanicus (Die errettete Unschuld, oder Germanicus: Römischer General)</field>
+        <field name="composer">Gottfried Grünewald</field>
+        <field name="composerSort">Grünewald, Gottfried</field>
+        <field name="librettist">Anonymous</field> 
+        <field name="librettist">Giulio Cesare Corradi</field>       
+        <field name="librettistSort">Anonymous</field>
+        <field name="librettistSort">Corradi, Giulio Cesare</field>
+        <field name="year">1704</field>
+        <field name="date">October 1704</field>
+        <field name="city">Leipzig</field>
+        <field name="region">Saxony</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Germanicus+Unschuld+Grünewald&amp;search_field=search</field>
+    </doc>
+</add>
+

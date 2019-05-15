@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101255</field>
+        <field name="genre">Opera</field>
+        <field name="title">Graf Ernst von Gleichen</field>
+        <field name="titleSort">Graf Ernst von Gleichen</field>
+        <field name="composer">Adolf Wandersleb</field>
+        <field name="composerSort">Wandersleb, Adolf</field>
+        <field name="librettist">Anonymous</field>       
+        <field name="librettistSort">Anonymous</field>
+        <field name="year">1847</field>
+        <field name="date">1847</field>
+        <field name="city">Gotha</field>
+        <field name="region">Thuringia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Graf+Ernst+Wandersleb&amp;search_field=search</field>
+    </doc>
+</add>
+

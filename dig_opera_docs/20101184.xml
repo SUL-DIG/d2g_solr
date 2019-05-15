@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101184</field>
+        <field name="genre">Opera</field>
+        <field name="title">Die Felsenmühle von Estalières</field>
+        <field name="titleSort">Felsenmühle von Estalières</field>
+        <field name="composer">Karl Gottlieb Reissiger</field>
+        <field name="composerSort">Reissiger, Karl Gottlieb</field>
+        <field name="librettist">Carl Borromäus von Miltitz</field> 
+        <field name="librettistSort">Miltitz, Carl Borromäus von</field>
+        <field name="year">1831</field>
+        <field name="date">April 10, 1831</field>
+        <field name="city">Dresden</field>
+        <field name="region">Saxony</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Felsenmühle+Estalières+Reissiger&amp;search_field=search</field>
+    </doc>
+</add>
+

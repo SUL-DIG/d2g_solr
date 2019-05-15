@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101199</field>
+        <field name="genre">Opera</field>
+        <field name="title">Fortunatus</field>
+        <field name="titleSort">Fortunatus</field>
+        <field name="composer">Clemens von Franckenstein</field>
+        <field name="composerSort">Franckenstein, Clemens von</field>
+        <field name="librettist">Jakob Wassermann</field>       
+        <field name="librettistSort">Wassermann, Jakob</field>
+        <field name="year">1909</field>
+        <field name="date">1909</field>
+        <field name="city">Budapest</field>
+        <field name="region">Budapest</field>
+        <field name="country">Hungary</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fortunatus+Franckenstein&amp;search_field=search</field>
+    </doc>
+</add>
+

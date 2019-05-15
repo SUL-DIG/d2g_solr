@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101240</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der gestiefelte Kater und der Graf von Carabas, oder Die Macht der Zauber</field>
+        <field name="titleSort">Gestiefelte Kater und der Graf von Carabas, oder Die Macht der Zauber</field>
+        <field name="composer">Adolf Müller</field>
+        <field name="composerSort">Müller, Adolf</field>
+        <field name="librettist">Josef Kurmayer</field> 
+        <field name="librettist">Ludwig Tieck</field>       
+        <field name="librettistSort">Kurmayer, Josef</field>
+        <field name="librettistSort">Tieck, Ludwig</field>
+        <field name="year">1865</field>
+        <field name="date">February 5, 1865</field>
+        <field name="theater">Theater an der Wien</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gestiefelte+Kater+Zauber+Müller&amp;search_field=search</field>
+    </doc>
+</add>
+

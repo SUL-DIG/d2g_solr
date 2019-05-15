@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101180</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Fausts Leben, Taten, und Höllenfahrt</field>
+        <field name="titleSort">Fausts Leben, Taten, und Höllenfahrt</field>
+        <field name="composer">Johann Georg Lickl</field>
+        <field name="composerSort">Lickl, Johann Georg</field>
+        <field name="librettist">Matthäus Voll</field>       
+        <field name="librettistSort">Voll, Matthäus</field>
+        <field name="year">1799</field>
+        <field name="date">June 28, 1799</field>
+        <field name="theater">Freihaus-Theater auf der Wieden</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fausts+Leben+Höllenfahrt+Lickl&amp;search_field=search</field>
+    </doc>
+</add>
+

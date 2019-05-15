@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101204</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Die Frau im Hermelin</field>
+        <field name="titleSort">Frau im Hermelin</field>
+        <field name="composer">Jean Gilbert</field>
+        <field name="composerSort">Gilbert, Jean</field>
+        <field name="librettist">Rudolph Schanzer</field> 
+        <field name="librettist">Ernst Welisch</field>       
+        <field name="librettistSort">Schanzer, Rudolph</field>
+        <field name="librettistSort">Welisch, Ernst</field>
+        <field name="year">1919</field>
+        <field name="date">August 23, 1919</field>
+        <field name="theater">Theater des Westens</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frau+Hermelin+Gilbert&amp;search_field=search</field>
+    </doc>
+</add>
+

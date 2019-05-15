@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101215</field>
+        <field name="genre">Opera</field>
+        <field name="title">Die Galoschenoper</field>
+        <field name="titleSort">Galoschenoper</field>
+        <field name="composer">Reinhard Bredemeyer</field>
+        <field name="composerSort">Bredemeyer, Reinhard</field>
+        <field name="librettist">Heinz Kahlau</field>
+        <field name="librettist">John Gay</field>       
+        <field name="librettistSort">Kahlau, Heinz</field>
+        <field name="librettistSort">Gay, John</field>
+        <field name="year">1978</field>
+        <field name="date">1978</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Galoschenoper+Bredemeyer&amp;search_field=search</field>
+    </doc>
+</add>
+

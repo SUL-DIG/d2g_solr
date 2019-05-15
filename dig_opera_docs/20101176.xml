@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101176</field>
+        <field name="genre">Opera</field>
+        <field name="title">Fatima, oder Von den mutigen Kindern</field>
+        <field name="titleSort">Fatima, oder Von den mutigen Kindern</field>
+        <field name="composer">Johanna Doderer</field>
+        <field name="composerSort">Doderer, Johanna</field>
+        <field name="librettist">René Zisterer</field>
+        <field name="librettist">Rafik Schami</field>       
+        <field name="librettistSort">Zisterer, René</field>
+        <field name="librettistSort">Schami, Rafik</field>
+        <field name="year">2015</field>
+        <field name="date">December 23, 2015</field>
+        <field name="theater">Staatsoper</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Doderer+Fatima+mutigen+Kindern&amp;search_field=search</field>
+    </doc>
+</add>
+

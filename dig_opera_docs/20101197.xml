@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101197</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der fliegende Holländer, oder Das Gespenster-Schiff</field>
+        <field name="titleSort">Fliegende Holländer, oder Das Gespenster-Schiff</field>
+        <field name="composer">Carl Binder</field>
+        <field name="composerSort">Binder, Carl</field>
+        <field name="librettist">Johann Eduard Gulden</field>       
+        <field name="librettistSort">Gulden, Johann Eduard</field>
+        <field name="year">1845</field>
+        <field name="date">November 1, 1845</field>
+        <field name="theater">Theater in der Josefstadt</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fliegende+Holländer+Gespenster-Schiff+Binder&amp;search_field=search</field>
+    </doc>
+</add>
+

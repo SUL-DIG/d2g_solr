@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101281</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Das Häuschen im Walde, oder Antons Reise nach seinem Geburtsort</field>
+        <field name="titleSort">Das Häuschen im Walde, oder Antons Reise nach seinem Geburtsort</field>
+        <field name="composer">Benedikt Schack</field>
+        <field name="composerSort">Schack, Benedikt</field>
+        <field name="librettist">Emanuel Schikaneder</field>       
+        <field name="librettistSort">Schikaneder, Emanuel</field>
+        <field name="year">1795</field>
+        <field name="date">January 6, 1795</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Häuschen+Walde+Antons+Schack&amp;search_field=search</field>
+    </doc>
+</add>
+

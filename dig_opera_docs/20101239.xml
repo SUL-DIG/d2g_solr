@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101239</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der gestiefelte Kater</field>
+        <field name="titleSort">Gestiefelte Kater</field>
+        <field name="composer">Hans Auenmüller</field>
+        <field name="composerSort">Auenmüller, Hans</field>
+        <field name="librettist">Hans Auenmüller</field> 
+        <field name="librettist">Ludwig Tieck</field>       
+        <field name="librettistSort">Auenmüller, Hans</field>
+        <field name="librettistSort">Tieck, Ludwig</field>
+        <field name="year">1974</field>
+        <field name="date">1974</field>
+        <field name="city">Thale</field>
+        <field name="region">Saxony-Anhalt</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gestiefelte+Kater+Auenmüller&amp;search_field=search</field>
+    </doc>
+</add>
+

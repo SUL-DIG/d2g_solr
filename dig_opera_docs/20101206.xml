@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101206</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der Fremdling</field>
+        <field name="titleSort">Fremdling</field>
+        <field name="composer">Heinrich Vogl</field>
+        <field name="composerSort">Vogl, Heinrich</field>
+        <field name="librettist">Felix Dahn</field>       
+        <field name="librettist">The Edda</field>       
+        <field name="librettistSort">Felix Dahn</field>
+        <field name="librettistSort">The Edda</field>
+        <field name="year">1899</field>
+        <field name="date">May 7, 1899</field>
+        <field name="city">Munich</field>
+        <field name="region">Bavaria</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fremdling+Vogl&amp;search_field=search</field>
+    </doc>
+</add>
+

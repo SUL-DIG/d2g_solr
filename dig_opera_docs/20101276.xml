@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101276</field>
+        <field name="genre">Opera</field>
+        <field name="title">Harald der Kronenräuber</field>
+        <field name="titleSort">Harald der Kronenräuber</field>
+        <field name="composer">Franz Xaver Kleinheinz</field>
+        <field name="composerSort">Kleinheinz, Franz Xaver</field>
+        <field name="librettist">Matthäus Stegmeyer</field>       
+        <field name="librettistSort">Stegmeyer, Matthäus</field>
+        <field name="year">1814</field>
+        <field name="date">March 22, 1814</field>
+        <field name="city">Budapest</field>
+        <field name="region">Budapest</field>
+        <field name="country">Hungary</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Harald+Kronenräuber+Kleinheinz&amp;search_field=search</field>
+    </doc>
+</add>
+

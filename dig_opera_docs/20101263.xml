@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101263</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Der Gutsherr, oder Gürge und Hannchen</field>
+        <field name="titleSort">Gutsherr, oder Gürge und Hannchen</field>
+        <field name="composer">Carl Ditters von Dittersdorf</field>
+        <field name="composerSort">Dittersdorf, Carl Ditters von</field>
+        <field name="librettist">Johann Friedrich Jünger</field>       
+        <field name="librettistSort">Jünger, Johann Friedrich</field>
+        <field name="year">1791</field>
+        <field name="date">March 2, 1791</field>
+        <field name="theater">Theater auf der Wieden</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gutsherr+Gürge+Hannchen+Dittersdorf&amp;search_field=search</field>
+    </doc>
+</add>
+

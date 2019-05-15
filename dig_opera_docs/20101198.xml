@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101198</field>
+        <field name="genre">Opera</field>
+        <field name="title">Floridus (Libertas)</field>
+        <field name="titleSort">Floridus (Libertas)</field>
+        <field name="composer">P. Georg Pasterwiz</field>
+        <field name="composerSort">Pasterwiz, P. Georg</field>
+        <field name="librettist">Theophil Dückern von Haslau</field>       
+        <field name="librettistSort">Haslau, Theophil Dückern von</field>
+        <field name="year">1756</field>
+        <field name="date">1756</field>
+        <field name="city">Kremsmünster</field>
+        <field name="region">Upper Austria</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Floridus+Pasterwiz&amp;search_field=search</field>
+    </doc>
+</add>
+

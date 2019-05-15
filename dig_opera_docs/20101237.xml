@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101237</field>
+        <field name="genre">Opera</field>
+        <field name="title">Das Gespräch der Hunde</field>
+        <field name="titleSort">Gespräch der Hunde</field>
+        <field name="composer">Christof Dienz</field>
+        <field name="composerSort">Dienz, Christof</field>
+        <field name="librettist">Christof Dienz</field> 
+        <field name="librettist">Leo Perutz</field>       
+        <field name="librettistSort">Dienz, Christof</field>
+        <field name="librettistSort">Perutz, Leo</field>
+        <field name="year">2009</field>
+        <field name="date">July 17, 2009</field>
+        <field name="theater">Sirene Operntheater</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gespräch+Hunde+Dienz&amp;search_field=search</field>
+    </doc>
+</add>
+

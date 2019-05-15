@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101167</field>
+        <field name="genre">Opera</field>
+        <field name="title">The Phoenix</field>
+        <field name="titleSort">Phoenix</field>
+        <field name="composer">Tarik O'Regan</field>
+        <field name="composerSort">O'Regan, Tarik</field>
+        <field name="librettist">John Caird</field>       
+        <field name="librettistSort">Caird, John</field>
+        <field name="year">2019</field>
+        <field name="date">April 26, 2019</field>
+        <field name="theater">Wortham Theater</field>
+        <field name="city">Houston</field>
+        <field name="region">Texas</field>
+        <field name="country">United States</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Phoenix+O'Regan&amp;search_field=search</field>
+    </doc>
+</add>
+

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101284</field>
+        <field name="genre">Opera</field>
+        <field name="title">Heines Memoiren</field>
+        <field name="titleSort">Heines Memoiren</field>
+        <field name="composer">Ludwig Burger</field>
+        <field name="composerSort">Burger, Ludwig</field>
+        <field name="librettist">Eduard von Dubsky</field> 
+        <field name="librettist">Heinrich Heine</field>       
+        <field name="librettistSort">Dubsky, Eduard von</field>
+        <field name="librettistSort">Heine, Heinrich</field>
+        <field name="year">1891</field>
+        <field name="date">1891</field>
+        <field name="city">Pressburg</field>
+        <field name="region">Bratislava</field>
+        <field name="country">Slovakia</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Heines+Memoiren+Burger&amp;search_field=search</field>
+    </doc>
+</add>
+

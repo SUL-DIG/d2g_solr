@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101181</field>
+        <field name="genre">Opera</field>
+        <field name="title">Die Favoritin</field>
+        <field name="titleSort">Favoritin</field>
+        <field name="composer">Georg Hellmesberger</field>
+        <field name="composerSort">Hellmesberger, Georg</field>
+        <field name="librettist">Anonymous</field>       
+        <field name="librettistSort">Anonymous</field>
+        <field name="year">1847</field>
+        <field name="date">1847</field>
+        <field name="theater">Franzentheater</field>
+        <field name="city">Graz</field>
+        <field name="region">Styria</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Favoritin+Hellmesberger&amp;search_field=search</field>
+    </doc>
+</add>
+

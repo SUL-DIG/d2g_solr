@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101266</field>
+        <field name="genre">Opera</field>
+        <field name="title">Hammlet</field>
+        <field name="titleSort">Hammlet</field>
+        <field name="composer">Julius Hopp</field>
+        <field name="composerSort">Hopp, Julius</field>
+        <field name="librettist">Julius Hopp</field>  
+        <field name="librettist">Shakespeare</field>       
+        <field name="librettistSort">Hopp, Julius</field>
+        <field name="librettistSort">Shakespeare</field>
+        <field name="year">1874</field>
+        <field name="date">1874</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hammlet+Hopp&amp;search_field=search</field>
+    </doc>
+</add>
+

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101230</field>
+        <field name="genre">Opera</field>
+        <field name="title">Gervinus: Der Narr von Untersberg, oder Ein patriotischer Wunsch</field>
+        <field name="titleSort">Gervinus: Der Narr von Untersberg, oder Ein patriotischer Wunsch</field>
+        <field name="composer">Franz von Suppé</field>
+        <field name="composerSort">Suppé, Franz von</field>
+        <field name="librettist">Alois Berla</field>       
+        <field name="librettistSort">Berla, Alois</field>
+        <field name="year">1849</field>
+        <field name="date">July 1, 1849</field>
+        <field name="theater">Theater an der Wien</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gervinus+Wunsch+Suppé&amp;search_field=search</field>
+    </doc>
+</add>
+

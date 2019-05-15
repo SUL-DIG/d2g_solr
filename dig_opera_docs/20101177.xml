@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101177</field>
+        <field name="genre">Opera</field>
+        <field name="title">Faust-Tetralogie</field>
+        <field name="titleSort">Faust-Tetralogie</field>
+        <field name="composer">Alfred Brüggemann</field>
+        <field name="composerSort">Brüggemann</field>
+        <field name="librettist">Alfred Brüggemann</field>       
+        <field name="librettist">Johann Wolfgang von Goethe</field>       
+        <field name="librettistSort">Brüggemann, Alfred</field>
+        <field name="librettistSort">Goethe, Johann Wolfgang von</field>
+        <field name="year">1910</field>
+        <field name="date">April 18, 1910</field>
+        <field name="theater">La Scala</field>
+        <field name="city">Milan</field>
+        <field name="region">Lombardy</field>
+        <field name="country">Italy</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Faust-Tetralogie+Brüggemann&amp;search_field=search</field>
+    </doc>
+</add>
+

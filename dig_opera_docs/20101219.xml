@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101219</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der Gefangene</field>
+        <field name="titleSort">Gefangene</field>
+        <field name="composer">Eduard Lassen</field>
+        <field name="composerSort">Lassen, Eduard</field>
+        <field name="librettist">Peter Cornelius</field> 
+        <field name="librettist">Cervantes</field>       
+        <field name="librettistSort">Cornelius, Peter</field>
+        <field name="librettistSort">Cervantes</field>
+        <field name="year">1869</field>
+        <field name="date">April 8, 1869</field>
+        <field name="theater">Hoftheater</field>
+        <field name="city">Weimar</field>
+        <field name="region">Thuringia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gefangene+Lassen&amp;search_field=search</field>
+    </doc>
+</add>
+

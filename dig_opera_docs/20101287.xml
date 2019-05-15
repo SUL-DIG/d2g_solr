@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101287</field>
+        <field name="genre">Opera</field>
+        <field name="title">Heinrich und Kleist</field>
+        <field name="titleSort">Heinrich und Kleist</field>
+        <field name="composer">Gerhard Wimberger</field>
+        <field name="composerSort">Wimberger, Gerhard</field>
+        <field name="librettist">Hermann Beil</field>        
+        <field name="librettistSort">Beil, Hermann</field>
+        <field name="year">2011</field>
+        <field name="date">November 4, 2011</field>
+        <field name="theater">Konzerthalle "Carl Philipp Emanuel Bach"</field>
+        <field name="city">Frankfurt an der Oder</field>
+        <field name="region">Brandenburg</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Heinrich+Kleist+Wimberger&amp;search_field=search</field>
+    </doc>
+</add>
+

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101207</field>
+        <field name="genre">Opera</field>
+        <field name="title">Die Freywilligen</field>
+        <field name="titleSort">Freywilligen</field>
+        <field name="composer">Franz Xaver Süssmayr</field>
+        <field name="composerSort">Süssmayr, Franz Xaver</field>
+        <field name="librettist">Stephanie Gottlieb the Younger</field>       
+        <field name="librettistSort">Gottlieb, Stephanie the Younger</field>
+        <field name="year">1796</field>
+        <field name="date">September 27, 1796</field>
+        <field name="theater">Kärntnertortheater</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Freywilligen+Süssmayr&amp;search_field=search</field>
+    </doc>
+</add>
+

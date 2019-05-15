@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101267</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Hanns Klachl, oder Das Rendezvous in der neuen Allee</field>
+        <field name="titleSort">Hanns Klachl, oder Das Rendezvous in der neuen Allee</field>
+        <field name="composer">Vincenc Tuček</field>
+        <field name="composerSort">Tuček, Vincenc</field>
+        <field name="librettist">Karl Franz Guolfinger von Steinberg</field>       
+        <field name="librettistSort">Steinberg, Karl Franz Guolfinger von</field>
+        <field name="year">1796</field>
+        <field name="date">January 31, 1796</field>
+        <field name="theater">Hiberian Theater</field>
+        <field name="city">Prague</field>
+        <field name="region">Bohemia</field>
+        <field name="country">Czech Republic</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hanns+Klachl+Rendezvous+Tuček&amp;search_field=search</field>
+    </doc>
+</add>
+

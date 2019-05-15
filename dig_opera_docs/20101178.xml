@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101178</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Faustina</field>
+        <field name="titleSort">Faustina</field>
+        <field name="composer">Wilhelm Dieter Siebert</field>
+        <field name="composerSort">Siebert, Wilhelm Dieter</field>
+        <field name="librettist">Anonymous</field> 
+        <field name="librettist">Johann Wolfgang von Goethe</field>       
+        <field name="librettistSort">Anonymous</field>
+        <field name="librettistSort">Goethe, Johann Wolfgang von</field>
+        <field name="year">2007</field>
+        <field name="date">2007</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Faustina+Siebert&amp;search_field=search</field>
+    </doc>
+</add>
+

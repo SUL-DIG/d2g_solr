@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101174</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Der Fasnachtsschmaus</field>
+        <field name="titleSort">Fasnachtsschmaus</field>
+        <field name="composer">Matthäus Fischer</field>
+        <field name="composerSort">Fischer, Matthäus</field>
+        <field name="librettist">Franz Xaver Jann</field>       
+        <field name="librettistSort">Jann, Franz Xaver</field>
+        <field name="year">1797</field>
+        <field name="date">February 20, 1797</field>
+        <field name="theater">Katholische Schulhaus bei Sankt Salvator</field>
+        <field name="city">Augsburg</field>
+        <field name="region">Bavaria</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fasnachtsschmaus+Fischer&amp;search_field=search</field>
+    </doc>
+</add>
+

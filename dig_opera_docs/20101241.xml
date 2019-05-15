@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101241</field>
+        <field name="genre">Opera</field>
+        <field name="title">Die Gewalt des Liedes</field>
+        <field name="titleSort">Gewalt des Liedes</field>
+        <field name="composer">Peter Lindpainter</field>
+        <field name="composerSort">Lindpainter, Peter</field>
+        <field name="librettist">Ignaz Vincenz Franz Castelli</field>       
+        <field name="librettistSort">Castelli, Ignaz Vincenz Franz</field>
+        <field name="year">1836</field>
+        <field name="date">March 13, 1836</field>
+        <field name="theater">Hoftheater</field>
+        <field name="city">Stuttgart</field>
+        <field name="region">Baden-Württemberg</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gewalt+Liedes+Lindpainter&amp;search_field=search</field>
+    </doc>
+</add>
+

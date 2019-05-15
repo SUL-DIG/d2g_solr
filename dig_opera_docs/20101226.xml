@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101226</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Der gerechte Zaleukus</field>
+        <field name="titleSort">Gerechte Zaleukus</field>
+        <field name="composer">Johann Löhner</field>
+        <field name="composerSort">Löhner, Johann</field>
+        <field name="librettist">Johann Löhner</field>       
+        <field name="librettist">Niccolò Minato</field>       
+        <field name="librettistSort">Löhner, Johann</field>
+        <field name="librettistSort">Minato, Niccolò</field>
+        <field name="year">1687</field>
+        <field name="date">1687</field>
+        <field name="city">Nuremberg</field>
+        <field name="region">Bavaria</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gerechte+Zaleukus+Löhner&amp;search_field=search</field>
+    </doc>
+</add>
+

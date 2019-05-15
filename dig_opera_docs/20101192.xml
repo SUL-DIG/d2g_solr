@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101192</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Finette Aschenbrödl, oder Rose und Schuh</field>
+        <field name="titleSort">Finette Aschenbrödl, oder Rose und Schuh</field>
+        <field name="composer">Václav Vilém Würfel</field>
+        <field name="composerSort">Würfel, Václav Vilém</field>
+        <field name="librettist">Auguste Schreiber</field> 
+        <field name="librettist">Julius von Ribics</field>       
+        <field name="librettistSort">Schreiber, Auguste</field>
+        <field name="librettistSort">Ribics, Julius von</field>
+        <field name="year">1830</field>
+        <field name="date">April 15, 1830</field>
+        <field name="theater">Theater in der Leopoldstadt</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Finette+Aschenbrödl+Rose+Schuh+Würfel&amp;search_field=search</field>
+    </doc>
+</add>
+

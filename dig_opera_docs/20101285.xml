@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101285</field>
+        <field name="genre">Opera</field>
+        <field name="title">Heinrich IV</field>
+        <field name="titleSort">Heinrich IV</field>
+        <field name="composer">Manfred Stahnke</field>
+        <field name="composerSort">Stahnke, Manfred</field>
+        <field name="librettist">Manfred Stahnke</field>  
+        <field name="librettist">Luigi Parendello</field>       
+        <field name="librettistSort">Stahnke, Manfred</field>
+        <field name="librettistSort">Parendello, Luigi</field>
+        <field name="year">1987</field>
+        <field name="date">March 28, 1987</field>
+        <field name="theater">Theater Kiel</field>
+        <field name="city">Kiel</field>
+        <field name="region">Schleswig-Holstein</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Heinrich+Stahnke&amp;search_field=search</field>
+    </doc>
+</add>
+

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101279</field>
+        <field name="genre">Opera</field>
+        <field name="title">Harun und Dschafar</field>
+        <field name="titleSort">Harun und Dschafar</field>
+        <field name="composer">René Clemencic</field>
+        <field name="composerSort">Clemencic, René</field>
+        <field name="librettist">Kristine Tornquist</field>
+        <field name="librettist">Thousand and One Nights</field>       
+        <field name="librettistSort">Kristine Tornquist</field>
+        <field name="librettistSort">Thousand and One Nights</field>
+        <field name="year">2011</field>
+        <field name="date">August 25, 2011</field>
+        <field name="theater">Sirene Operntheater</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Harun+Dschafar+Clemencic&amp;search_field=search</field>
+    </doc>
+</add>
+

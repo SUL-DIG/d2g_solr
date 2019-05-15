@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101234</field>
+        <field name="genre">Opera</field>
+        <field name="title">Das Gespenst</field>
+        <field name="titleSort">Gespenst</field>
+        <field name="composer">Franz Andreas Holly</field>
+        <field name="composerSort">Holly, Franz Andreas</field>
+        <field name="librettist">Karl Franz Henisch</field>       
+        <field name="librettistSort">Henisch, Karl Franz</field>
+        <field name="year">1771</field>
+        <field name="date">December 3, 1771</field>
+        <field name="theater">Kotzen Theater</field>
+        <field name="city">Prague</field>
+        <field name="region">Bohemia</field>
+        <field name="country">Czech Republic</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gespenst+Holly&amp;search_field=search</field>
+    </doc>
+</add>
+

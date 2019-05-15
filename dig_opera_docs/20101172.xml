@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101172</field>
+        <field name="genre">Opera</field>
+        <field name="title">Die Familie auf Isle de France</field>
+        <field name="titleSort">Familie auf Isle de France</field>
+        <field name="composer">Conradin Kreutzer</field>
+        <field name="composerSort">Kreutzer, Conradin</field>
+        <field name="librettist">Ignaz Castelli</field>       
+        <field name="librettistSort">Castelli, Ignaz</field>
+        <field name="year">1805</field>
+        <field name="date">1805</field>
+        <field name="theater">Theater an der Wien</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Familie+Isle+France+Kreutzer&amp;search_field=search</field>
+    </doc>
+</add>
+

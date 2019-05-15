@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101264</field>
+        <field name="genre">Opera</field>
+        <field name="title">Guttenberg</field>
+        <field name="titleSort">Guttenberg</field>
+        <field name="composer">Ferdinand Füchs</field>
+        <field name="composerSort">Füchs, Ferdinand</field>
+        <field name="librettist">Otto Prechtler</field>       
+        <field name="librettistSort">Prechtler, Otto</field>
+        <field name="year">1846</field>
+        <field name="date">April 1, 1846</field>
+        <field name="city">Graz</field>
+        <field name="region">Styria</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Guttenberg+Füchs&amp;search_field=search</field>
+    </doc>
+</add>
+

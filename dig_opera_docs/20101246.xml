@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101246</field>
+        <field name="genre">Opera</field>
+        <field name="title">Gloria von Jaxberg, Das Gegenteil von Wurst ist Liebe</field>
+        <field name="titleSort">Gloria von Jaxberg, Das Gegenteil von Wurst ist Liebe</field>
+        <field name="composer">Heinz Karl Gruber</field>
+        <field name="composerSort">Gruber, Heinz Karl</field>
+        <field name="librettist">Rudolf Herfurtner</field>       
+        <field name="librettistSort">Herfurtner, Rudolf</field>
+        <field name="year">2004</field>
+        <field name="date">June 17, 2004</field>
+        <field name="theater">Staatsoper</field>
+        <field name="city">Hamburg</field>
+        <field name="region">Hamburg</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gloria+Jaxberg+Wurst+Gruber&amp;search_field=search</field>
+    </doc>
+</add>
+

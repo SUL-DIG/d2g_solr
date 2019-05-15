@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101247</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der glückliche Betrug, oder Clytia und Orestes</field>
+        <field name="titleSort">Glückliche Betrug, oder Clytia und Orestes</field>
+        <field name="composer">Johann Augustin Kobelius</field>
+        <field name="composerSort">Koelius, Johann Augustin</field>
+        <field name="librettist">Anonymous</field>       
+        <field name="librettistSort">Anonymous</field>
+        <field name="year">1717</field>
+        <field name="date">June 1717</field>
+        <field name="city">Weissenfels</field>
+        <field name="region">Saxony-Anhalt</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Glückliche+Betrug+Clytia+Orestes+Kobelius&amp;search_field=search</field>
+    </doc>
+</add>
+

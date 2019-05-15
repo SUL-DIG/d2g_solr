@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101235</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Das Gespenst mit der Trommel</field>
+        <field name="titleSort">Gespenst mit der Trommel</field>
+        <field name="composer">Joseph Graetz</field>
+        <field name="composerSort">Graetz, Joseph</field>
+        <field name="librettist">Anonymous</field>       
+        <field name="librettistSort">Anonymous</field>
+        <field name="year">1790</field>
+        <field name="date">1790</field>
+        <field name="city">Munich</field>
+        <field name="region">Bavaria</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gespenst+Trommel+Graetz&amp;search_field=search</field>
+    </doc>
+</add>
+

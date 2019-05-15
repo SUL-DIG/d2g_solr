@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101250</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der Glückfischer</field>
+        <field name="titleSort">Glückfischer</field>
+        <field name="composer">Mark Lothar</field>
+        <field name="composerSort">Lothar, Mark</field>
+        <field name="librettist">Walter Brandin</field>       
+        <field name="librettistSort">Brandin, Walter</field>
+        <field name="year">1962</field>
+        <field name="date">March 16, 1962</field>
+        <field name="city">Nuremberg</field>
+        <field name="region">Bavaria</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Glückfischer+Lothar&amp;search_field=search</field>
+    </doc>
+</add>
+

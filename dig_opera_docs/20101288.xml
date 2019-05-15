@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101288</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Operetta</field>
+        <field name="title">Heinrich und Lyda</field>
+        <field name="titleSort">Heinrich und Lyda</field>
+        <field name="composer">Christoph Gottlob Neefe</field>
+        <field name="composerSort">Neefe, Christoph Gottlob</field>
+        <field name="librettist">Bernhard Christian d'Arien</field>       
+        <field name="librettistSort">d'Arien, Bernhard Christian</field>
+        <field name="year">1776</field>
+        <field name="date">March 26, 1776</field>
+        <field name="theater">Döbbelinsches Theater</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Heinrich+Lyda+Neefe&amp;search_field=search</field>
+    </doc>
+</add>
+

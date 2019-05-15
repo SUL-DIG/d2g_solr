@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101195</field>
+        <field name="genre">Opera</field>
+        <field name="title">Die Flaschenpost vom Paradies, oder Der englische Ausflug</field>
+        <field name="titleSort">Die Flaschenpost vom Paradies, oder Der englische Ausflug</field>
+        <field name="composer">Ernst Krenek</field>
+        <field name="composerSort">Krenek, Ernst</field>
+        <field name="librettist">Ernst Krenek</field>       
+        <field name="librettistSort">Krenek, Ernst</field>
+        <field name="year">1974</field>
+        <field name="date">March 7, 1974</field>
+        <field name="theater">Österreicher Rundfunk</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Flaschenpost+Paradies+Ausflug+Krenek&amp;search_field=search</field>
+    </doc>
+</add>
+

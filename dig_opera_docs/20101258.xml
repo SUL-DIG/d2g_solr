@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101258</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der griechische Passion</field>
+        <field name="titleSort">Griechische Passion</field>
+        <field name="composer">Bohuslav Martinu</field>
+        <field name="composerSort">Martinu, Bohuslav</field>
+        <field name="librettist">Bohuslav Martinu</field>
+        <field name="librettist">Nikos Kazantzaki</field>       
+        <field name="librettistSort">Martinu, Bohuslav</field>
+        <field name="librettistSort">Kazantzaki, Nikos</field>
+        <field name="year">1961</field>
+        <field name="date">June 9, 1961</field>
+        <field name="theater">Stadttheater</field>
+        <field name="city">Zürich</field>
+        <field name="region">Zürich</field>
+        <field name="country">Switzerland</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Griechische+Passion+Martinu&amp;search_field=search</field>
+    </doc>
+</add>
+

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101227</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Germania</field>
+        <field name="titleSort">Germania</field>
+        <field name="composer">Johann Evangelist Brandl</field>
+        <field name="composerSort">Brandl, Johann Evangelist</field>
+        <field name="librettist">C.J. Schott</field>       
+        <field name="librettistSort">Schott, C.J.</field>
+        <field name="year">1800</field>
+        <field name="date">1800</field>
+        <field name="city">Stuttgart</field>
+        <field name="region">Baden-Württemberg</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Germania+Brandl&amp;search_field=search</field>
+    </doc>
+</add>
+

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101202</field>
+        <field name="genre">Opera</field>
+        <field name="title">Frankenstein!!</field>
+        <field name="titleSort">Frankenstein!!</field>
+        <field name="composer">Heinz Karl Gruber</field>
+        <field name="composerSort">Gruber, Heinz Karl</field>
+        <field name="librettist">Hans Carl Artmann</field>       
+        <field name="librettistSort">Artmann, Hans Carl</field>
+        <field name="year">1979</field>
+        <field name="date">September 30, 1979</field>
+        <field name="theater">Staatsbibliothek</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frankenstein+Gruber&amp;search_field=search</field>
+    </doc>
+</add>
+

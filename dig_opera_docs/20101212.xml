@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101212</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Der Frühling, oder Der Anton ist noch nicht tot</field>
+        <field name="titleSort">Der Frühling, oder Der Anton ist noch nicht tot</field>
+        <field name="composer">Benedikt Schack</field>
+        <field name="composer">Franz Xaver Gerl</field>
+        <field name="composer">Johann Baptist Henneberg</field>
+        <field name="composerSort">Schack, Benedikt</field>
+        <field name="composerSort">Gerl, Franz Xaver</field>
+        <field name="composerSort">Henneberg, Johann Baptist</field>
+        <field name="librettist">Emanuel Schikaneder</field>       
+        <field name="librettistSort">Schikaneder, Emanuel</field>
+        <field name="year">1790</field>
+        <field name="date">June 18, 1790</field>
+        <field name="theater">Theater an der Wieden</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frühling+Anton+Schack+Gerl+Henneberg&amp;search_field=search</field>
+    </doc>
+</add>
+

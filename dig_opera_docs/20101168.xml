@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101168</field>
+        <field name="genre">Opera</field>
+        <field name="title">Oceane</field>
+        <field name="titleSort">Oceane</field>
+        <field name="composer">Detlev Glanert</field>
+        <field name="composerSort">Glanert, Detlev</field>
+        <field name="librettist">Hans-Ulrich Treichel</field> 
+        <field name="librettist">Theodor Fontane</field>       
+        <field name="librettistSort">Treichel, Hans-Ulrich</field>
+        <field name="librettistSort">Fontane, Theodor</field>
+        <field name="year">2019</field>
+        <field name="date">April 28, 2019</field>
+        <field name="theater">Deutsche Oper Berlin</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oceane+Glanert&amp;search_field=search</field>
+    </doc>
+</add>
+

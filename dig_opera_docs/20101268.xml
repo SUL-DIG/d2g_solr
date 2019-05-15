@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101268</field>
+        <field name="genre">Opera</field>
+        <field name="title">Hans im Glück</field>
+        <field name="titleSort">Hans im Glück</field>
+        <field name="composer">David Robert Coleman</field>
+        <field name="composerSort">Coleman, David Robert</field>
+        <field name="librettist">Rainer O. Brinkmann</field>       
+        <field name="librettistSort">Brinkmann, Rainer O.</field>
+        <field name="year">2014</field>
+        <field name="date">December 7, 2014</field>
+        <field name="theater">Schilletheater</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Opera</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hans+Glück+Coleman&amp;search_field=search</field>
+    </doc>
+</add>
+

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101265</field>
+        <field name="genre">Opera</field>
+        <field name="title">Hamlet: Prinz vom Tandelmarkt</field>
+        <field name="titleSort">Hamlet: Prinz vom Tandelmarkt</field>
+        <field name="composer">Ignaz Schuster</field>
+        <field name="composerSort">Schuster, Ignaz</field>
+        <field name="librettist">Joachim Parinet</field> 
+        <field name="librettist">Shakespeare</field>       
+        <field name="librettistSort">Parinet, Joachim</field>
+        <field name="librettistSort">Shakespeare</field>
+        <field name="year">1807</field>
+        <field name="date">November 5, 1807</field>
+        <field name="theater">Theater in der Leopoldstadt</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hamlet+Prinz+Schuster&amp;search_field=search</field>
+    </doc>
+</add>
+
