@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101307</field>
+        <field name="genre">Opera</field>
+        <field name="title">Ich, Hiob</field>
+        <field name="titleSort">Ich, Hiob</field>
+        <field name="composer">Thomas Daniel Schlee</field>
+        <field name="composerSort">Schlee, Thomas Daniel</field>
+        <field name="librettist">Christian Martin Fuchs</field>       
+        <field name="librettistSort">Fuchs, Christian Martin</field>
+        <field name="year">2007</field>
+        <field name="date">July 15, 2007</field>
+        <field name="city">Ossiach</field>
+        <field name="region">Feldkirchen</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ich+Hiob+Schlee&amp;search_field=search</field>
+    </doc>
+</add>
+

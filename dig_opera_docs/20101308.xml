@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101308</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der Idiot</field>
+        <field name="titleSort">Idiot</field>
+        <field name="composer">Karl Ottamar Treibmann</field>
+        <field name="composerSort">Treibmann, Karl Ottamar</field>
+        <field name="librettist">Harald Gerlach</field> 
+        <field name="librettist">Dostoevsky</field>       
+        <field name="librettistSort">Gerlach, Harald</field>
+        <field name="librettistSort">Dostoevsky</field>
+        <field name="year">1988</field>
+        <field name="date">1988</field>
+        <field name="city">Leipzig</field>
+        <field name="region">Saxony</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Idiot+Treibmann&amp;search_field=search</field>
+    </doc>
+</add>
+

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101296</field>
+        <field name="genre">Opera</field>
+        <field name="title">Hero und Leander</field>
+        <field name="titleSort">Hero und Leander</field>
+        <field name="composer">Wenzel Wilhelm Steinhardt</field>
+        <field name="composerSort">Steinhardt, Wenzel Wilhelm</field>
+        <field name="librettist">Heinrich Franz Gaudens Rustige</field> 
+        <field name="librettist">Ernst Pasqué</field>       
+        <field name="librettistSort">Rustige, Heinrich Franz Gaudens</field>
+        <field name="librettistSort">Pasqué, Ernst</field>
+        <field name="year">1868</field>
+        <field name="date">February 23, 1868</field>
+        <field name="city">Magdeburg</field>
+        <field name="region">Saxony-Anhalt</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hero+Leander+Steinhardt&amp;search_field=search</field>
+    </doc>
+</add>
+

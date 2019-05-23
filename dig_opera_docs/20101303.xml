@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101303</field>
+        <field name="genre">Opera</field>
+        <field name="title">Hochzeitmorgen</field>
+        <field name="titleSort">Hochzeitmorgen</field>
+        <field name="composer">Karl von Kaskel</field>
+        <field name="composerSort">Kaskel, Karl von</field>
+        <field name="librettist">Franz Koppel-Ellfeld</field>       
+        <field name="librettistSort">Koppel-Ellfeld, Franz</field>
+        <field name="year">1893</field>
+        <field name="date">April 29, 1893</field>
+        <field name="city">Magdeburg</field>
+        <field name="region">Saxony-Anhalt</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hochzeitmorgen+Kaskel&amp;search_field=search</field>
+    </doc>
+</add>
+

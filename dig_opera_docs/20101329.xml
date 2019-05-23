@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101329</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Das Irrlicht, oder Endlich fand er sie</field>
+        <field name="titleSort">Irrlicht, oder Endlich fand er sie</field>
+        <field name="composer">Martin Ruprecht</field>
+        <field name="composerSort">Ruprecht, Martin</field>
+        <field name="librettist">Gottlieb Stephanie</field> 
+        <field name="librettist">Christoph Friedrich Bretzner</field>       
+        <field name="librettistSort">Stephanie, Gottlieb</field>
+        <field name="librettistSort">Bretzner, Christoph Friedrich</field>
+        <field name="year">1783</field>
+        <field name="date">1783</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Irrlicht+Endlich+Ruprecht&amp;search_field=search</field>
+    </doc>
+</add>
+

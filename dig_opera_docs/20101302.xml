@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101302</field>
+        <field name="genre">Opera</field>
+        <field name="title">Die Hochzeit</field>
+        <field name="titleSort">Hochzeit</field>
+        <field name="composer">Ernst Ludwig Leitner</field>
+        <field name="composerSort">Leitner, Ernst Ludwig</field>
+        <field name="librettist">Alois Schöpf</field>       
+        <field name="librettistSort">Schöpf, Alois</field>
+        <field name="year">2010</field>
+        <field name="date">July 2010</field>
+        <field name="city">Erl</field>
+        <field name="region">Kufstein</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hochzeit+Letiner&amp;search_field=search</field>
+    </doc>
+</add>
+

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101312</field>
+        <field name="genre">Opera</field>
+        <field name="title">L'Inganno Fedele, oder Der getreue Betrug</field>
+        <field name="titleSort">L'Inganno Fedele, oder Der getreue Betrug</field>
+        <field name="composer">Reinhard Keiser</field>
+        <field name="composerSort">Keiser, Reinhard</field>
+        <field name="librettist">Johann Ulrich König</field>       
+        <field name="librettistSort">König, Johann Ulrich</field>
+        <field name="year">1714</field>
+        <field name="date">October 1714</field>
+        <field name="theater">Schau-Platz</field>
+        <field name="city">Hamburg</field>
+        <field name="region">Hambrug</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Inganno+Fedele+Betrug+Keiser&amp;search_field=search</field>
+    </doc>
+</add>
+

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101319</field>
+        <field name="genre">Opera</field>
+        <field name="title">Lunea</field>
+        <field name="titleSort">Lunea</field>
+        <field name="composer">Heinz Holliger</field>
+        <field name="composerSort">Holliger, Heinz</field>
+        <field name="librettist">Händl Klaus</field> 
+        <field name="librettist">Nikolaus Lenau</field>       
+        <field name="librettistSort">Klaus, Händl</field>
+        <field name="librettistSort">Lenau, Nikolaus</field>
+        <field name="year">2018</field>
+        <field name="date">March 4, 2018</field>
+        <field name="theater">Opernhaus</field>
+        <field name="city">Zürich</field>
+        <field name="region">Zürich</field>
+        <field name="country">Switzerland</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lunea+Holliger&amp;search_field=search</field>
+    </doc>
+</add>
+

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101301</field>
+        <field name="genre">Opera</field>
+        <field name="title">Hiob</field>
+        <field name="titleSort">Hiob</field>
+        <field name="composer">Axel Seidelmann</field>
+        <field name="composerSort">Seidelmann, Axel</field>
+        <field name="librettist">Book of Job</field> 
+        <field name="librettist">Psalms</field>       
+        <field name="librettistSort">Book of Job</field>
+        <field name="librettistSort">Psalms</field>
+        <field name="year">1994</field>
+        <field name="date">August 4, 1994</field>
+        <field name="theater">Theater an der Wien</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hiob+Seidelmann&amp;search_field=search</field>
+    </doc>
+</add>
+

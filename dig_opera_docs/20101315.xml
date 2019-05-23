@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101315</field>
+        <field name="genre">Opera</field>
+        <field name="title">Interzone</field>
+        <field name="titleSort">Interzone</field>
+        <field name="composer">Enno Poppe</field>
+        <field name="composerSort">Poppe, Enno</field>
+        <field name="librettist">Marcel Beyer</field> 
+        <field name="librettist">William Burrough</field>       
+        <field name="librettistSort">Beyer, Marcel</field>
+        <field name="librettistSort">Burrough, William</field>
+        <field name="year">2004</field>
+        <field name="date">September 2, 2004</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Interzone+Poppe&amp;search_field=search</field>
+    </doc>
+</add>
+

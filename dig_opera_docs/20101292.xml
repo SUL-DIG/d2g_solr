@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101292</field>
+        <field name="genre">Opera</field>
+        <field name="title">Helfrid</field>
+        <field name="titleSort">Helfrid</field>
+        <field name="composer">Sigmund von Hausegger</field>
+        <field name="composerSort">Hausegger, Sigmund von</field>
+        <field name="librettist">Sigmund von Hausegger</field>       
+        <field name="librettistSort">Hausegger, Sigmund von</field>
+        <field name="year">1893</field>
+        <field name="date">March 23, 1893</field>
+        <field name="theater">Theater am Franzenplatz</field>
+        <field name="city">Graz</field>
+        <field name="region">Styria</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Helfrid+Hausegger&amp;search_field=search</field>
+    </doc>
+</add>
+

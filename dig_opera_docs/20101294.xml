@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101294</field>
+        <field name="genre">Opera</field>
+        <field name="title">Heliantus</field>
+        <field name="titleSort">Heliantus</field>
+        <field name="composer">Adalbert von Goldschmidt</field>
+        <field name="composerSort">Goldschmidt, Adalbert von</field>
+        <field name="librettist">Adalbert von Goldschmidt</field>       
+        <field name="librettistSort">Goldschmidt, Adalbert von</field>
+        <field name="year">1884</field>
+        <field name="date">March 26, 1884</field>
+        <field name="city">Leipzig</field>
+        <field name="region">Saxony</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Heliantus+Goldschmidt&amp;search_field=search</field>
+    </doc>
+</add>
+

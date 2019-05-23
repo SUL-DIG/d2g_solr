@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101321</field>
+        <field name="genre">Opera</field>
+        <field name="title">Futari Shizuka</field>
+        <field name="titleSort">Futari Shizuka</field>
+        <field name="composer">Toshio Hosokawa</field>
+        <field name="composerSort">Hosokawa, Toshio</field>
+        <field name="librettist">Orizo Hirata</field>       
+        <field name="librettistSort">Hirata, Orizo</field>
+        <field name="year">2017</field>
+        <field name="date">December 1, 2017</field>
+        <field name="theater">Cité de la musique</field>
+        <field name="city">Paris</field>
+        <field name="region">Paris</field>
+        <field name="country">France</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Futari+Shizuka+Hosokawa&amp;search_field=search</field>
+    </doc>
+</add>
+

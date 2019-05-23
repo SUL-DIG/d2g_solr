@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101300</field>
+        <field name="genre">Opera</field>
+        <field name="title">Das Himmelskleid</field>
+        <field name="titleSort">Himmelskleid</field>
+        <field name="composer">Ermanno Wolf-Ferrari</field>
+        <field name="composerSort">Wolf-Ferrari, Ermanno</field>
+        <field name="librettist">Ermanno Wolf-Ferrari</field> 
+        <field name="librettist">Charles Perrault</field>       
+        <field name="librettistSort">Wolf-Ferrari, Ermanno</field>
+        <field name="librettistSort">Perrault, Charles</field>
+        <field name="year">1927</field>
+        <field name="date">April 21, 1927</field>
+        <field name="theater">Nationaltheater</field>
+        <field name="city">Munich</field>
+        <field name="region">Bavaria</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Himmelskleid+Wolf-Ferrari&amp;search_field=search</field>
+    </doc>
+</add>
+

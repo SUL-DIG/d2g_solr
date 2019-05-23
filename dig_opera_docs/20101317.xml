@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101317</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der Mieter</field>
+        <field name="titleSort">Mieter</field>
+        <field name="composer">Arnulf Hermann</field>
+        <field name="composerSort">Hermann, Arnulf</field>
+        <field name="librettist">Klaus Händl</field> 
+        <field name="librettist">Roland Topor</field>       
+        <field name="librettistSort">Händl, Klaus</field>
+        <field name="librettistSort">Topor, Roland</field>
+        <field name="year">2017</field>
+        <field name="date">November 12, 2017</field>
+        <field name="theater">Oper Frankfurt</field>
+        <field name="city">Frankfurt</field>
+        <field name="region">Hesse</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mieter+Hermann&amp;search_field=search</field>
+    </doc>
+</add>
+

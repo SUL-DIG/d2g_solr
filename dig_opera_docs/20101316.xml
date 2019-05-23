@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101316</field>
+        <field name="genre">Opera</field>
+        <field name="title">Iopal</field>
+        <field name="titleSort">Iopal</field>
+        <field name="composer">Hans-Joachim Hespos</field>
+        <field name="composerSort">Hespos, Hans-Joachim</field>
+        <field name="librettist">Anonymous</field>       
+        <field name="librettistSort">Anonymous</field>
+        <field name="year">2005</field>
+        <field name="date">May 2005</field>
+        <field name="city">Hanover</field>
+        <field name="region">Lower Saxony</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Iopal+Hespos&amp;search_field=search</field>
+    </doc>
+</add>
+

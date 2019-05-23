@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101298</field>
+        <field name="genre">Opera</field>
+        <field name="title">Hidalan der Harfner</field>
+        <field name="titleSort">Hidalan der Harfner</field>
+        <field name="composer">Hans Seraph Cramer</field>
+        <field name="composerSort">Cramer, Hans Seraph</field>
+        <field name="librettist">Mattias Georg Lambrecht</field>       
+        <field name="librettistSort">Lambrecht, Mattias Georg</field>
+        <field name="year">1813</field>
+        <field name="date">May 4, 1813</field>
+        <field name="city">Munich</field>
+        <field name="region">Bavaria</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hidalan+Harfner+Cramer&amp;search_field=search</field>
+    </doc>
+</add>
+

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101305</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der hölzerne Säbel</field>
+        <field name="titleSort">Hölzerne Säbel</field>
+        <field name="composer">Philipp Röth</field>
+        <field name="composer">Philipp Jakob Riotte</field>
+        <field name="composerSort">Röth, Philipp</field>
+        <field name="composerSort">Riotte, Phillipp Jakob</field>
+        <field name="librettist">Ferdinand Rosenau</field> 
+        <field name="librettist">August von Kotzebue</field>       
+        <field name="librettistSort">Rosenau, Ferdinand</field>
+        <field name="librettistSort">Kotzebue, August von</field>
+        <field name="year">1820</field>
+        <field name="date">March 23, 1820</field>
+        <field name="theater">Theater in der Josefstadt</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hölzerne+Säbel+Röth+Riotte&amp;search_field=search</field>
+    </doc>
+</add>
+

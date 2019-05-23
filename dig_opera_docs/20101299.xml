@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101299</field>
+        <field name="genre">Opera</field>
+        <field name="title">Himmelmayer</field>
+        <field name="titleSort">Himmelmayer</field>
+        <field name="composer">Mischa Spoliansky</field>
+        <field name="composerSort">Spoliansky, Mischa</field>
+        <field name="librettist">Fritz Brehmer</field> 
+        <field name="librettist">Rudolf Hans Bartsch</field>       
+        <field name="librettistSort">Brehmer, Fritz</field>
+        <field name="librettistSort">Bartsch, Rudolf Hans</field>
+        <field name="year">1929</field>
+        <field name="date">1929</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Himmelmayer+Spoliansky&amp;search_field=search</field>
+    </doc>
+</add>
+
