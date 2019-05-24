@@ -2,7 +2,7 @@
     <doc>
         <field name="id">20100978</field>
         <field name="genre">Opera</field>
-        <field name="genre">Operetta</field>
+        <field name="subgenre">Operetta</field>
         <field name="title">Adelstan und Röschen</field>
         <field name="titleSort">Adelstan und Röschen</field>
         <field name="composer">Friedrich Adam Hiller</field>
