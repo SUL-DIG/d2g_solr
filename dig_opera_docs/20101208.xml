@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?><add>
     <doc>
         <field name="id">20101208</field>
-        <field name="genre">Oper</field>
+        <field name="genre">Opera</field>
         <field name="subgenre">Singspiel</field>
         <field name="title">Der Friede, oder Der Prüfung der Herzen</field>
         <field name="titleSort">Friede, oder Der Prüfung der Herzen</field>
