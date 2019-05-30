@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101360</field>
+        <field name="genre">Opera</field>
+        <field name="title">Das Käthchen von Heilbronn</field>
+        <field name="titleSort">Käthchen von Keilbronn</field>
+        <field name="composer">Wilhelm Kühner</field>
+        <field name="composerSort">Kühner, Wilhelm</field>
+        <field name="librettist">Heinrich von Kleist</field>       
+        <field name="librettistSort">Kleist, Heinrich von</field>
+        <field name="year">1860</field>
+        <field name="date">1860</field>
+        <field name="city">Ulm</field>
+        <field name="region">Baden-Württemberg</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Käthchen+Heilbronn+Kühner&amp;search_field=search</field>
+    </doc>
+</add>
+

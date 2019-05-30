@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101387</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der Kreidekreis</field>
+        <field name="titleSort">Kreidekreis</field>
+        <field name="composer">Rudolf Mors</field>
+        <field name="composerSort">Mors, Rudolf</field>
+        <field name="librettist">Alfred Henschke</field>       
+        <field name="librettistSort">Henschke, Alfred</field>
+        <field name="year">1983</field>
+        <field name="date">1983</field>
+        <field name="theater">Bühnen der Stadt</field>
+        <field name="city">Bielefeld</field>
+        <field name="region">North Rhine-Westphalia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kreidekreis+Mors&amp;search_field=search</field>
+    </doc>
+</add>
+

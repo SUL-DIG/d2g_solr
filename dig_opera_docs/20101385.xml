@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101385</field>
+        <field name="genre">Opera</field>
+        <field name="title">Kranwit</field>
+        <field name="titleSort">Kranwit</field>
+        <field name="composer">Theodor Veidl</field>
+        <field name="composerSort">Veidl, Theodor</field>
+        <field name="librettist">Hans Watzlik</field>       
+        <field name="librettistSort">Watzlik, Hans</field>
+        <field name="year">1929</field>
+        <field name="date">June 2, 1929</field>
+        <field name="theater">Neues deutsches Theater</field>
+        <field name="city">Prague</field>
+        <field name="region">Bohemia</field>
+        <field name="country">Czech Republic</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kranwit+Veidl&amp;search_field=search</field>
+    </doc>
+</add>
+

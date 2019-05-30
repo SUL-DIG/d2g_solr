@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101362</field>
+        <field name="genre">Opera</field>
+        <field name="title">Kenilworth</field>
+        <field name="titleSort">Kenilworth</field>
+        <field name="composer">Bruno Otto Klein</field>
+        <field name="composerSort">Klein, Bruno Otto</field>
+        <field name="librettist">Wilhelm Müller</field> 
+        <field name="librettist">Walter Scott</field>       
+        <field name="librettistSort">Müller, Wilhelm</field>
+        <field name="librettistSort">Scott, Walter</field>
+        <field name="year">1895</field>
+        <field name="date">February 13, 1895</field>
+        <field name="city">Hamburg</field>
+        <field name="region">Hamburg</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kenilworth+Klein&amp;search_field=search</field>
+    </doc>
+</add>
+

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101353</field>
+        <field name="genre">Opera</field>
+        <field name="title">Kalif Storch, oder Prinzessin Lusa</field>
+        <field name="titleSort">Kalif Storch, oder Prinzessin Lusa</field>
+        <field name="composer">Günter Hässy</field>
+        <field name="composerSort">Hässy, Günter</field>
+        <field name="librettist">Wilhelm Hauff</field>       
+        <field name="librettistSort">Hauff, Wilhelm</field>
+        <field name="year">1989</field>
+        <field name="date">December 1989</field>
+        <field name="city">Cologne</field>
+        <field name="region">North Rhine-Westphalia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kalif+Storch+Lusa+Hässy&amp;search_field=search</field>
+    </doc>
+</add>
+

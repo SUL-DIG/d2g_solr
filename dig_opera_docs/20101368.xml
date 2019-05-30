@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101368</field>
+        <field name="genre">Opera</field>
+        <field name="title">Die Kleinstädter</field>
+        <field name="titleSort">Kleinstädter</field>
+        <field name="composer">Theodor Veidl</field>
+        <field name="composerSort">Veidl, Theodor</field>
+        <field name="librettist">Pavel Eisner</field> 
+        <field name="librettist">August von Kotzebue</field>       
+        <field name="librettistSort">Eisner, Pavel</field>
+        <field name="librettistSort">Kotzebue, August von</field>
+        <field name="year">1935</field>
+        <field name="date">April 17, 1935</field>
+        <field name="theater">Neues Deutsches Theater</field>
+        <field name="city">Prague</field>
+        <field name="region">Bohemia</field>
+        <field name="country">Czech Republic</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kleinstädter+Veidl&amp;search_field=search</field>
+    </doc>
+</add>
+

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101384</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der Krach im Offen</field>
+        <field name="titleSort">Krach im Offen</field>
+        <field name="composer">Armin Kaufmann</field>
+        <field name="composerSort">Kaufmann, Armin</field>
+        <field name="librettist">Alfred Jirasek</field> 
+        <field name="librettist">Willi Pribil</field>       
+        <field name="librettistSort">Jirasek, Alfred</field>
+        <field name="librettistSort">Pribil, Willi</field>
+        <field name="year">1961</field>
+        <field name="date">May 27, 1961</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Krach+Offen+Kaufmann&amp;search_field=search</field>
+    </doc>
+</add>
+

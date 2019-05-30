@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101364</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Killian Freitags Reise nach der Ukräne, oder Das Mädchen auf der Freierei</field>
+        <field name="titleSort">Killian Freitags Reise nach der Ukräne, oder Das Mädchen auf der Freierei</field>
+        <field name="composer">Franz Stanislaus Spindler</field>
+        <field name="composerSort">Spindler, Franz Stanislaus</field>
+        <field name="librettist">Franz Stanislaus Spindler</field>       
+        <field name="librettistSort">Spindler, Franz Stanislaus</field>
+        <field name="year">1788</field>
+        <field name="date">Ocotber 9, 1788</field>
+        <field name="theater">Theater in der Leopoldstadt</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Killian+Ukräne+Mädchen+Spindler&amp;search_field=search</field>
+    </doc>
+</add>
+

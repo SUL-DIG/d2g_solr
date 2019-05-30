@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101357</field>
+        <field name="genre">Opera</field>
+        <field name="title">Karl V</field>
+        <field name="titleSort">Karl V</field>
+        <field name="composer">Ernst Krenek</field>
+        <field name="composerSort">Krenek, Ernst</field>
+        <field name="librettist">Ernst Krenek</field>       
+        <field name="librettistSort">Krenek, Ernst</field>
+        <field name="year">1938</field>
+        <field name="date">June 15, 1938</field>
+        <field name="theater">Neues Deutsches Theater</field>
+        <field name="city">Prague</field>
+        <field name="region">Bohemia</field>
+        <field name="country">Czech Republic</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Karl+Krenek&amp;search_field=search</field>
+    </doc>
+</add>
+

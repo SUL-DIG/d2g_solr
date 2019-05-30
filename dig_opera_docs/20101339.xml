@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101339</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Jery und Bätely</field>
+        <field name="titleSort">Jery und Bätely</field>
+        <field name="composer">Julius Rietz</field>
+        <field name="composerSort">Rietz, Julius</field>
+        <field name="librettist">Anonymous</field> 
+        <field name="librettist">Johann Wolfgang von Goethe</field>       
+        <field name="librettistSort">Anonymous</field>
+        <field name="librettistSort">Goethe, Johann Wolfgang von</field>
+        <field name="year">1840</field>
+        <field name="date">April 7, 1840</field>
+        <field name="city">Düsseldorf</field>
+        <field name="region">North Rhine-Westphalia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jery+Bätely+Rietz&amp;search_field=search</field>
+    </doc>
+</add>
+

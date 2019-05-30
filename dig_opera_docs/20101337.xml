@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101337</field>
+        <field name="genre">Opera</field>
+        <field name="title">Jeanne D'Arc: Szenen aus dem Leben der heiligen Johanna</field>
+        <field name="titleSort">Jeanne D'Arc: Szenen aus dem Leben der heiligen Johanna</field>
+        <field name="composer">Walter Braunfels</field>
+        <field name="composerSort">Braunfels, Walter</field>
+        <field name="librettist">Anonymous</field>       
+        <field name="librettistSort">Anonymous</field>
+        <field name="year">2001</field>
+        <field name="date">2001</field>
+        <field name="city">Stockholm</field>
+        <field name="region">Stockholm</field>
+        <field name="country">Sweden</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jeanne+D'Arc+Johanna+Braunfels&amp;search_field=search</field>
+    </doc>
+</add>
+

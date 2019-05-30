@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101350</field>
+        <field name="genre">Opera</field>
+        <field name="title">Die Jugend Karls II</field>
+        <field name="titleSort">Jugend Karls II</field>
+        <field name="composer">Louis Schlösser</field>
+        <field name="composerSort">Schlösser, Louis</field>
+        <field name="librettist">Adolph Steppes</field>       
+        <field name="librettistSort">Steppes, Adolph</field>
+        <field name="year">1840</field>
+        <field name="date">1840</field>
+        <field name="city">Darmstadt</field>
+        <field name="region">Hesse</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jugend+Karls+Schlösser&amp;search_field=search</field>
+    </doc>
+</add>
+

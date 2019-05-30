@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101361</field>
+        <field name="genre">Opera</field>
+        <field name="title">Kätly</field>
+        <field name="titleSort">Kätly</field>
+        <field name="composer">Eduard von Lannoy</field>
+        <field name="composerSort">Lannoy, Eduard von</field>
+        <field name="librettist">Eduard von Lannoy</field>       
+        <field name="librettistSort">Lannoy, Eduard von</field>
+        <field name="year">1827</field>
+        <field name="date">April 24, 1827</field>
+        <field name="theater">Kärntnertortheater</field>
+        <field name="city">Vienna</field>
+        <field name="region">Vienna</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kätly+Lannoy&amp;search_field=search</field>
+    </doc>
+</add>
+

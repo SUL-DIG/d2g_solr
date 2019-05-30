@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101372</field>
+        <field name="genre">Opera</field>
+        <field name="title">Kommander Kobayashi: Series 2</field>
+        <field name="titleSort">Kommander Kobayashi: Series 2</field>
+        <field name="composer">Sebastian Bark</field>
+        <field name="composer">Sven Holm</field>
+        <field name="composerSort">Bark, Sebastian</field>
+        <field name="composerSort">Holm, Sven</field>
+        <field name="librettist">Tobias Dusche</field>       
+        <field name="librettistSort">Dusche, Tobias</field>
+        <field name="year">2006</field>
+        <field name="date">September 8, 2006</field>
+        <field name="theater">Sophiensæle</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kommander+Kobayashi+Bark+Holm&amp;search_field=search</field>
+    </doc>
+</add>
+

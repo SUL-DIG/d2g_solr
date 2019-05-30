@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101377</field>
+        <field name="genre">Opera</field>
+        <field name="title">König Magnus</field>
+        <field name="titleSort">König Magnus</field>
+        <field name="composer">Preben Nodermann</field>
+        <field name="composerSort">Nodermann, Preben</field>
+        <field name="librettist">Preben Nodermann</field> 
+        <field name="librettist">Birger Mörner</field>       
+        <field name="librettistSort">Nodermann, Preben</field>
+        <field name="librettistSort">Mörner, Birger</field>
+        <field name="year">1898</field>
+        <field name="date">October 8, 1898</field>
+        <field name="city">Hamburg</field>
+        <field name="region">Hamburg</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=König+Magnus+Nodermann&amp;search_field=search</field>
+    </doc>
+</add>
+

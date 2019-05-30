@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101386</field>
+        <field name="genre">Opera</field>
+        <field name="title">Der Kreidekreis</field>
+        <field name="titleSort">Kreidekreis</field>
+        <field name="composer">Alexander Zemlinsky</field>
+        <field name="composerSort">Zemlinsky, Alexander</field>
+        <field name="librettist">Alfred Henschke</field>
+        <field name="librettist">Li Qianfu</field>       
+        <field name="librettistSort">Henschke, Alfred</field>
+        <field name="librettistSort">Qianfu, Li</field>
+        <field name="year">1933</field>
+        <field name="date">October 14, 1933</field>
+        <field name="theater">National Opera House</field>
+        <field name="city">Zürich</field>
+        <field name="region">Zürich</field>
+        <field name="country">Switzerland</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kreidekreis+Zemlinsky&amp;search_field=search</field>
+    </doc>
+</add>
+

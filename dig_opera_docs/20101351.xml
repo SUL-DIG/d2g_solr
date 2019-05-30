@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101351</field>
+        <field name="genre">Opera</field>
+        <field name="title">Kain</field>
+        <field name="titleSort">Kain</field>
+        <field name="composer">Karl Heinz Füsser</field>
+        <field name="composerSort">Füsser, Karl Heinz</field>
+        <field name="librettist">Herbert Lederer</field> 
+        <field name="librettist">Bible</field>       
+        <field name="librettistSort">Lederer, Herbert</field>
+        <field name="librettistSort">Bible</field>
+        <field name="year">1986</field>
+        <field name="date">1986</field>
+        <field name="city">Ossiach</field>
+        <field name="region">Carinthia</field>
+        <field name="country">Austria</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kain+Füsser&amp;search_field=search</field>
+    </doc>
+</add>
+

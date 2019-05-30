@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101366</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Die kleinen Himmelsstürmer</field>
+        <field name="titleSort">Kleinen Himmelsstürmer</field>
+        <field name="composer">Johann Chrysostomus Drexel</field>
+        <field name="composerSort">Drexel, Johann Chrysostomus</field>
+        <field name="librettist">Anonymous</field>       
+        <field name="librettistSort">Anonymous</field>
+        <field name="year">1797</field>
+        <field name="date">June 26, 1797</field>
+        <field name="theater">St. Salvator</field>
+        <field name="city">Augsburg</field>
+        <field name="region">Bavaria</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kleinen+Himmelsstürmer+Drexel&amp;search_field=search</field>
+    </doc>
+</add>
+

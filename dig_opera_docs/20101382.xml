@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101382</field>
+        <field name="genre">Opera</field>
+        <field name="title">Krabat, oder Die Erschaffung der Welt</field>
+        <field name="titleSort">Krabat, oder Die Erschaffung der Welt</field>
+        <field name="composer">Enjott Schneider</field>
+        <field name="composerSort">Schneider, Enjott</field>
+        <field name="librettist">Jurij Brezan</field>       
+        <field name="librettistSort">Brezan, Jurij</field>
+        <field name="year">2004</field>
+        <field name="date">May 24, 2004</field>
+        <field name="city">Bautzen</field>
+        <field name="region">Saxony</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Krabat+Erschaffung+Welt+Schneider&amp;search_field=search</field>
+    </doc>
+</add>
+

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101376</field>
+        <field name="genre">Opera</field>
+        <field name="title">König der Genien</field>
+        <field name="titleSort">König der Genien</field>
+        <field name="composer">Friedrich Dionys Weber</field>
+        <field name="composerSort">Weber, Friedrich Dionys</field>
+        <field name="librettist">Carlo Gozzi</field>       
+        <field name="librettistSort">Gozzi, Carlo</field>
+        <field name="year">1800</field>
+        <field name="date">June 1, 1800</field>
+        <field name="theater">Konvikt-Saal</field>
+        <field name="city">Prague</field>
+        <field name="region">Bohemia</field>
+        <field name="country">Czech Republic</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=König+Genien+Weber&amp;search_field=search</field>
+    </doc>
+</add>
+

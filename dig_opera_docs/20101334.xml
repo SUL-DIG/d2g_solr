@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101334</field>
+        <field name="genre">Opera</field>
+        <field name="subgenre">Singspiel</field>
+        <field name="title">Der Jahrmarkt</field>
+        <field name="titleSort">Jahrmarkt</field>
+        <field name="composer">Joseph Willibald Michl</field>
+        <field name="composer">Georg Benda<field>
+        <field name="composerSort">Michl, Joseph Willibald</field>
+        <field name="composerSort">Benda, Georg<field>
+        <field name="librettist">Friedrich Wilhelm Gotter</field> 
+        <field name="librettistSort">Gotter, Friedrich Wilhelm</field>
+        <field name="year">1780</field>
+        <field name="date">February 13, 1780</field>
+        <field name="theater">Nationaltheater</field>
+        <field name="city">Mannheim</field>
+        <field name="region">Baden-Württemberg</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jahrmarkt+Michl+Benda&amp;search_field=search</field>
+    </doc>
+</add>
+

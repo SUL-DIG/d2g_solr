@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101345</field>
+        <field name="genre">Opera</field>
+        <field name="title">Johannistag</field>
+        <field name="titleSort">Johannistag</field>
+        <field name="composer">Karl-Rudi Griesbach</field>
+        <field name="composerSort">Griesbach, Karl-Rudi</field>
+        <field name="librettist">Tom Zahn</field>
+        <field name="librettist">Johann Nepomuk Nestroy</field>       
+        <field name="librettistSort">Zahn, Tom</field>
+        <field name="librettistSort">Nestroy, Johann Nepomuk</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="city">Berlin</field>
+        <field name="region">Berlin</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Johannistag+Griesbach&amp;search_field=search</field>
+    </doc>
+</add>
+

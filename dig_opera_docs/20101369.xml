@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101369</field>
+        <field name="genre">Opera</field>
+        <field name="title">Kleopatra</field>
+        <field name="titleSort">Kleopatra</field>
+        <field name="composer">Otto Findeisen</field>
+        <field name="composerSort">Findeisen, Otto</field>
+        <field name="librettist">Anonymous</field>       
+        <field name="librettistSort">Anonymous</field>
+        <field name="year">1897</field>
+        <field name="date">January 14, 1897</field>
+        <field name="theater">Carl-Schultze-Theater</field>
+        <field name="city">Hamburg</field>
+        <field name="region">Hamburg</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kleopatra+Findeisen&amp;search_field=search</field>
+    </doc>
+</add>
+

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101378</field>
+        <field name="genre">Opera</field>
+        <field name="title">König Sigurd</field>
+        <field name="titleSort">König Sigurd</field>
+        <field name="composer">Felix Draeseke</field>
+        <field name="composerSort">Draeseke, Felix</field>
+        <field name="librettist">Felix Draeseke</field> 
+        <field name="librettist">Emanuel Geibel</field>       
+        <field name="librettistSort">Draeseke, Felix</field>
+        <field name="librettistSort">Geibel, Emanuel</field>
+        <field name="year">1867</field>
+        <field name="date">1867</field>
+        <field name="city">Meiningen</field>
+        <field name="region">Thuringia</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=König+Sigurd+Draeseke&amp;search_field=search</field>
+    </doc>
+</add>
+

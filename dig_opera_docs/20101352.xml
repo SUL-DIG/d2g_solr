@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101352</field>
+        <field name="genre">Opera</field>
+        <field name="title">Kalif Storch</field>
+        <field name="titleSort">Kalif Storch</field>
+        <field name="composer">Erwin Amend</field>
+        <field name="composerSort">Amend, Erwin</field>
+        <field name="librettist">Erwin Amend</field> 
+        <field name="librettist">Wilhelm Hauff</field>       
+        <field name="librettistSort">Amend, Erwin</field>
+        <field name="librettistSort">Hauff, Wilhelm</field>
+        <field name="year">1979</field>
+        <field name="date">September 30, 1979</field>
+        <field name="theater">Städtischen Bühne</field>
+        <field name="city">Mainz</field>
+        <field name="region">Rhineland_Palatinate</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kalif+Storch+Amend&amp;search_field=search</field>
+    </doc>
+</add>
+

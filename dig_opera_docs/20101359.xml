@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20101359</field>
+        <field name="genre">Opera</field>
+        <field name="title">Katharinens Entthronung</field>
+        <field name="titleSort">Katharinens Entthronung</field>
+        <field name="composer">Albrecht Wilhelm Johann Agthe</field>
+        <field name="composerSort">Agthe, Albrecht Wilhelm Johann</field>
+        <field name="librettist">Eduard Heinrich Gehe</field>       
+        <field name="librettistSort">Gehe, Eduard Heinrich</field>
+        <field name="year">1822</field>
+        <field name="date">December 29, 1822</field>
+        <field name="theater">Nationaltheater</field>
+        <field name="city">Munich</field>
+        <field name="region">Bavaria</field>
+        <field name="country">Germany</field>
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Katharinens+Entthronung+Agthe&amp;search_field=search</field>
+    </doc>
+</add>
+
